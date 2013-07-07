@@ -1,0 +1,32 @@
+{
+   "micrownet" : [
+      "caring"
+   ],
+   "micro" : [
+      "state",
+      "sympathize_with",
+      "caring",
+      "abstraction",
+      "feel_for",
+      "warmheartedness",
+      "care",
+      "compassionate",
+      "pity",
+      "warmth",
+      "condole_with",
+      "love",
+      "feeling",
+      "emotion",
+      "attribute",
+      "abstract_entity",
+      "entity",
+      "phrasal_verb->_care",
+      "lovingness"
+   ],
+   "micro-www" : {
+      "caring" : [
+         ""
+      ]
+   },
+   "micro-www-search" : []
+}

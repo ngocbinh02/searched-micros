@@ -1,0 +1,22 @@
+{
+   "micrownet" : [
+      "irresistibility"
+   ],
+   "micro" : [
+      "entity",
+      "power",
+      "powerfulness",
+      "quality",
+      "irresistibility",
+      "irresistibleness",
+      "abstract_entity",
+      "attribute",
+      "abstraction"
+   ],
+   "micro-www" : {
+      "irresistibility" : [
+         ""
+      ]
+   },
+   "micro-www-search" : []
+}

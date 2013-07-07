@@ -1,0 +1,62 @@
+{
+   "micrownet" : [
+      "mips"
+   ],
+   "google" : [
+      "/url?q=http://en.wikipedia.org/wiki/MIPS_architecture&sa=U&ei=o3vYUfzPCcXqswbMvYDoCw&ved=0CBgQFjAA&usg=AFQjCNHfk2UAewtXaKZQt66V205SCRWnwg",
+      "/url?q=http://en.wikipedia.org/wiki/Instructions_per_second&sa=U&ei=o3vYUfzPCcXqswbMvYDoCw&ved=0CCEQFjAB&usg=AFQjCNEGztpxvDFdRYXhejz6WNr4-OWIJg",
+      "/url?q=http://www.mips.com/&sa=U&ei=o3vYUfzPCcXqswbMvYDoCw&ved=0CCgQFjAC&usg=AFQjCNE66gVNHy3cQbWwD9AZZDvIGZDKyA",
+      "/url?q=http://www.mips.com.au/&sa=U&ei=o3vYUfzPCcXqswbMvYDoCw&ved=0CCwQFjAD&usg=AFQjCNGCuZuZpnv7Pf6ULHkA57t88cbGJA",
+      "/url?q=http://mips.gsf.de/&sa=U&ei=o3vYUfzPCcXqswbMvYDoCw&ved=0CDUQFjAE&usg=AFQjCNFHH9DvREhxCuyWYvGfycTOtIIcfA"
+   ],
+   "duckduckgo" : {
+      "urls" : [
+         "\nhttp://duckduckgo.com/MIPS_architecture"
+      ]
+   },
+   "micro" : [
+      "million_instructions_per_second",
+      "abstraction",
+      "unit_of_measurement",
+      "amount",
+      "quantity",
+      "mips",
+      "measure",
+      "abstract_entity",
+      "unit",
+      "entity",
+      "definite_quantity"
+   ],
+   "Lists" : [],
+   "micro-www-search" : [],
+   "micro-www" : {
+      "mips" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'MIPS' may refer to:\n",
+      "title" : "MIPS",
+      "headings" : [
+         "Technology",
+         "Organisations",
+         "Other"
+      ]
+   },
+   "micro-relation" : [
+      "1: Million_instructions_per_second",
+      "1: MIPS_architecture",
+      "1: MIPS_Technologies",
+      "1: Imagination_Technologies",
+      "1: Maximum_intensity_projection",
+      "1: Multiband_Imaging_Photometer_for_Spitzer",
+      "1: Maharana_Institute_of_Professional_Studies",
+      "1: Mansehra_International_Public_School_and_College",
+      "1: Munich_Information_Center_for_Protein_Sequences",
+      "1: Material_input_per_unit_of_service",
+      "1: Menards_Infiniti_Pro_Series",
+      "1: Monthly_income_preferred_stock",
+      "1: Super_Mario_64"
+   ]
+}

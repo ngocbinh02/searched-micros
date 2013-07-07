@@ -1,0 +1,107 @@
+{
+   "micrownet" : [],
+   "google" : [
+      "/url?q=http://reactor.imer.gob.mx/&sa=U&ei=XOXYUbDhHMrFPdmXgPAG&ved=0CCEQFjAA&usg=AFQjCNGaDNZc_ti4Pk9IHOEMPSR7Mnpr1Q",
+      "/url?q=http://en.wikipedia.org/wiki/Reactor&sa=U&ei=XOXYUbDhHMrFPdmXgPAG&ved=0CCoQFjAB&usg=AFQjCNGX3wt9urfAIHsdJTiXYeAIgOoe3w",
+      "/url?q=http://en.wikipedia.org/wiki/Nuclear_reactor&sa=U&ei=XOXYUbDhHMrFPdmXgPAG&ved=0CDMQFjAC&usg=AFQjCNFqp_0aLNrvnjgLbzr9SG5PNbd1bg",
+      "/url?q=http://en.wikipedia.org/wiki/Reactor_pattern&sa=U&ei=XOXYUbDhHMrFPdmXgPAG&ved=0CDYQFjAD&usg=AFQjCNGOZHsBM3rETk0QLAGIwWa2jU4osQ",
+      "/url?q=http://blog.springsource.org/2013/05/13/reactor-a-foundation-for-asynchronous-applications-on-the-jvm/&sa=U&ei=XOXYUbDhHMrFPdmXgPAG&ved=0CDoQFjAE&usg=AFQjCNEm2FAfR5GDeaGY5tWG_sCbsGRd4Q",
+      "/url?q=http://www.reactorart.com/&sa=U&ei=XOXYUbDhHMrFPdmXgPAG&ved=0CD4QFjAF&usg=AFQjCNEG5iFwX22RW_eeUq1w8Lxlccbggw",
+      "/images?hl=en&q=Reactor&gbv=1&num=10&gl=&sa=X&oi=image_result_group&ei=XOXYUbDhHMrFPdmXgPAG&ved=0CEEQsAQ",
+      "/url?q=http://reactor.org.uk/&sa=U&ei=XOXYUbDhHMrFPdmXgPAG&ved=0CE0QFjAL&usg=AFQjCNHihI-zzxYuOcIzxXs8SnIATjFk3w",
+      "/url?q=http://www.yourreactor.com/&sa=U&ei=XOXYUbDhHMrFPdmXgPAG&ved=0CFAQFjAM&usg=AFQjCNEy_ePHMAqTz16zhbPlGXUwsqjltw",
+      "/url?q=https://github.com/reactor/reactor&sa=U&ei=XOXYUbDhHMrFPdmXgPAG&ved=0CFQQFjAN&usg=AFQjCNEqrAe3udtSc6zL6N75gzLuGRdcSg",
+      "/url?q=http://www.reactorwatch.com/&sa=U&ei=XOXYUbDhHMrFPdmXgPAG&ved=0CFcQFjAO&usg=AFQjCNE7APoYcknL8UuYVDh7u6-WpjYS3g"
+   ],
+   "micro" : [
+      "reactor",
+      "object",
+      "physical_entity",
+      "physical_object",
+      "artefact",
+      "entity",
+      "instrumentality",
+      "electrical_device",
+      "device",
+      "unit",
+      "artifact",
+      "whole",
+      "coil",
+      "instrumentation"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Bioreactor\">Bioreactor</a>, any device or system that supports a biologically active environment.",
+      "\n<a href=\"http://duckduckgo.com/Nuclear_reactor\">Nuclear reactor</a>, a device for containing and controlling a nuclear reaction",
+      "Reactor",
+      "http://www.merriam-webster.com/dictionary/reactor",
+      "\n<a href=\"http://duckduckgo.com/Chemical_reactor\">Chemical reactor</a>, a device for containing and controlling a chemical reaction",
+      "reactor definition: one that reacts.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "news" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_claims_North_Korea_helped_Syria_build_reactor_bombed_by_Israel\" title=\"US claims North Korea helped Syria build reactor bombed by Israel\">US claims North Korea helped Syria build <span class=\"searchmatch\">reactor</span> bombed by Israel</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Iran_rejects_EU_nuclear_reactor_offer\" title=\"Iran rejects EU nuclear reactor offer\">Iran rejects EU nuclear <span class=\"searchmatch\">reactor</span> offer</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/North_Korea_wants_light-water_reactors\" title=\"North Korea wants light-water reactors\">North Korea wants light-water <span class=\"searchmatch\">reactors</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Swedish_nuclear_reactors_shut_down_over_safety_concerns\" title=\"Swedish nuclear reactors shut down over safety concerns\">Swedish nuclear <span class=\"searchmatch\">reactors</span> shut down over safety concerns</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/North_Korea_shuts_down_nuclear_reactor\" title=\"North Korea shuts down nuclear reactor\">North Korea shuts down nuclear <span class=\"searchmatch\">reactor</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/North_Korea_agrees_to_disable_its_main_nuclear_reactor\" title=\"North Korea agrees to disable its main nuclear reactor\">North Korea agrees to disable its main nuclear <span class=\"searchmatch\">reactor</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Reactor_at_Three_Mile_Island_nuclear_power_plant_shuts_down\" title=\"Reactor at Three Mile Island nuclear power plant shuts down\"><span class=\"searchmatch\">Reactor</span> at Three Mile Island nuclear power plant shuts down</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_regulators_approve_new_nuclear_reactors_for_first_time_in_34_years\" title=\"US regulators approve new nuclear reactors for first time in 34 years\">US regulators approve new nuclear <span class=\"searchmatch\">reactors</span> for first time in 34 years</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pump_leak_and_fire_shuts_down_nuclear_reactor_in_France\" title=\"Pump leak and fire shuts down nuclear reactor in France\">Pump leak and fire shuts down nuclear <span class=\"searchmatch\">reactor</span> in France</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canadian_nuclear_reactor_shutdown_causes_worldwide_medical_isotope_shortage\" title=\"Canadian nuclear reactor shutdown causes worldwide medical isotope shortage\">Canadian nuclear <span class=\"searchmatch\">reactor</span> shutdown causes worldwide medical isotope shortage</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/IAEA:_North_Korea_to_begin_shutting_down_nuclear_reactor_next_week\" title=\"IAEA: North Korea to begin shutting down nuclear reactor next week\">IAEA: North Korea to begin shutting down nuclear <span class=\"searchmatch\">reactor</span> next week</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canada_pursues_new_nuclear_research_reactor_to_produce_medical_isotopes\" title=\"Canada pursues new nuclear research reactor to produce medical isotopes\">Canada pursues new nuclear research <span class=\"searchmatch\">reactor</span> to produce medical isotopes</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/North_Korea_shuts_down_its_main_nuclear_reactor\" title=\"North Korea shuts down its main nuclear reactor\">North Korea shuts down its main nuclear <span class=\"searchmatch\">reactor</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Russia_agrees_to_construct_Turkish_nuclear_reactor\" title=\"Russia agrees to construct Turkish nuclear reactor\">Russia agrees to construct Turkish nuclear <span class=\"searchmatch\">reactor</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Report_says_Israeli_air_strike_targeted_Syrian_nuclear_reactor\" title=\"Report says Israeli air strike targeted Syrian nuclear reactor\">Report says Israeli air strike targeted Syrian nuclear <span class=\"searchmatch\">reactor</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/KSTAR_tokamak_test_reactor_sees_first_plasma\" title=\"KSTAR tokamak test reactor sees first plasma\">KSTAR tokamak test <span class=\"searchmatch\">reactor</span> sees first plasma</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Putin_promises_to_complete_Iran%27s_nuclear_reactor\" title=\"Putin promises to complete Iran&#39;s nuclear reactor\">Putin promises to complete Iran&#39;s nuclear <span class=\"searchmatch\">reactor</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Fukushima_reactor_suffers_multiple_fires,_radiation_leak_confirmed\" title=\"Fukushima reactor suffers multiple fires, radiation leak confirmed\">Fukushima <span class=\"searchmatch\">reactor</span> suffers multiple fires, radiation leak confirmed</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Science_minister_visits_Australia%27s_newest_nuclear_reactor,_receives_nuclear_power_report\" title=\"Science minister visits Australia&#39;s newest nuclear reactor, receives nuclear power report\">Science minister visits Australia&#39;s newest nuclear <span class=\"searchmatch\">reactor</span>, receives nuclear power report</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Four_incidents_occur_at_Australian_reactor_in_a_week\" title=\"Four incidents occur at Australian reactor in a week\">Four incidents occur at Australian <span class=\"searchmatch\">reactor</span> in a week</a>"
+      ],
+      "image" : [
+         [],
+         [
+            "<img alt=\"Dialog-information on.svg\" height=\"35\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Dialog-information_on.svg/35px-Dialog-information_on.svg.png\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Dialog-information_on.svg/53px-Dialog-information_on.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Dialog-information_on.svg/70px-Dialog-information_on.svg.png 2x\" width=\"35\" />"
+         ]
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [
+      "reactors\n>http\nhttp://en.m.wikipedia.org/wiki/Reactor\nhttp://en.wikipedia.org/w/index.php?title=Reactor&oldid=541482254\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
+      "reactor\n>http\nhttp://en.m.wikipedia.org/wiki/Reactor\nhttp://en.wikipedia.org/w/index.php?title=Reactor&oldid=541482254\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
+      "Reactor_(arcade_game)\n>image\nhttp://upload.wikimedia.org/wikipedia/en/f/fd/ReactorBoxShotAtari2600.jpg\n\n",
+      "Reactor_(Havok)\n>image\nhttp://upload.wikimedia.org/wikipedia/en/f/f4/Ambox_content.png\n\n",
+      "Reactor-grade_plutonium\n>http\nhttp://en.wikipedia.org/w/index.php?title=Reactor-grade_plutonium&oldid=527305951\n\n>pdf\nhttp://fissilematerials.org/library/gfmr11.pdf\nhttp://fissilematerials.org/library/gfmr11.pdf\nhttp://fissilematerials.org/library/gfmr11.pdf\nhttp://www.rmi.org/images/other/Security/S80-01_NucWeaponsAndPluto.pdf\nhttp://www.rmi.org/images/other/Security/S80-01_NucWeaponsAndPluto.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Sasahara.svg/400px-Sasahara.svg.png\n"
+   ],
+   "book" : [],
+   "micro-www" : {
+      "Reactor" : [
+         "reactors",
+         "reactor",
+         "Reactor_(arcade_game)",
+         "Reactor_(Havok)",
+         "Reactor-grade_plutonium",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Reactor' can mean:\n\n;In science:\n* Bioreactor, any device or system that supports a biologically active\n  environment.\n* Chemical reactor, a device for containing and controlling a chemical reaction\n* Fusion reactor, a device for containing and controlling a fusion power\n  reaction\n* An inductor (possessing reactance) in an electrical power grid ** A line\n  reactor is used to limit starting current of motors and to protect variable\n  frequency drives\n* Nuclear reactor, a device for containing and controlling a nuclear reaction\n* Reactor (Havok), a physics simulation engine\n* The reactor pattern, a design pattern used in concurrent programming\n\n;In entertainment:\n* Reactor an alternative title for the 1978 Italian film [[War of the Robots\n  (film)|War of the Robots]] directed by Alfonso Brescia\n* [[Re-ac-tor]], a 1981 album by Neil Young and Crazy Horse\n* ''Reactor'' (arcade game), an arcade game created by Gottlieb\n* Reactor, Inc., a defunct interactive entertainment company founded by\n  Mike Saenz\n",
+      "title" : "Reactor",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Bioreactor",
+      "1: Chemical_reactor",
+      "1: Fusion_power",
+      "1: Inductor",
+      "1: Electrical_reactance",
+      "1: Line_reactor",
+      "1: Nuclear_reactor",
+      "1: Reactor_pattern",
+      "1: Mike_Saenz"
+   ]
+}

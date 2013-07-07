@@ -1,0 +1,36 @@
+{
+   "micrownet" : [
+      "fundamental_measure"
+   ],
+   "google" : [
+      "/url?q=http://www.thefreedictionary.com/fundamental%2Bmeasure&sa=U&ei=sH3YUfarBcTWswbY9YCgCg&ved=0CBoQFjAA&usg=AFQjCNGSCBLMG6Zc70YUa1EJ4l44vhFjeA",
+      "/url?q=http://www.school-for-champions.com/science/units_fundamental.htm&sa=U&ei=sH3YUfarBcTWswbY9YCgCg&ved=0CB4QFjAB&usg=AFQjCNEd3MGyUY5ZH1etnyKX8pbJc8bSIw",
+      "/url?q=http://en.wikipedia.org/wiki/Fundamental_unit&sa=U&ei=sH3YUfarBcTWswbY9YCgCg&ved=0CCIQFjAC&usg=AFQjCNHZ642ZAHJeFpz2aLzwOcS5TqBifQ",
+      "/url?q=http://www.rasch.org/rmt/rmt112b.htm&sa=U&ei=sH3YUfarBcTWswbY9YCgCg&ved=0CCYQFjAD&usg=AFQjCNH9ALKYyPFKABlpfQaoDbA4gVoVRw",
+      "/url?q=http://telstar.ote.cmu.edu/environ/m3/s3/04measure.shtml&sa=U&ei=sH3YUfarBcTWswbY9YCgCg&ved=0CCoQFjAE&usg=AFQjCNGcwBA-bnIwE9_x8QOlLvBj1ehS7w"
+   ],
+   "micro" : [
+      "length",
+      "period_of_time",
+      "quantity",
+      "mass",
+      "abstract_entity",
+      "entity",
+      "fundamentalquantity",
+      "measure",
+      "abstraction",
+      "amount",
+      "fundamental_measure",
+      "period",
+      "temperature",
+      "time_period"
+   ],
+   "micro-www" : {
+      "fundamental_measure" : [
+         ""
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "micro-relation" : []
+}

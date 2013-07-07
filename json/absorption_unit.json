@@ -1,0 +1,44 @@
+{
+   "micrownet" : [
+      "absorption_unit"
+   ],
+   "google" : [
+      "/url?q=http://en.wikipedia.org/wiki/Absorbance&sa=U&ei=0HvYUZ2rLoKDtAa4goGwDw&ved=0CBoQFjAA&usg=AFQjCNFSPQ40k60HOUprGfJgL3A5qeDkrg",
+      "/url?q=http://uk.answers.yahoo.com/question/index%3Fqid%3D20061018151521AAIBvPP&sa=U&ei=0HvYUZ2rLoKDtAa4goGwDw&ved=0CCIQFjAB&usg=AFQjCNFrs7iRdrloYQVn7Ddux-0qGY6aEQ",
+      "/url?q=http://www.thefreedictionary.com/absorption%2Bunit&sa=U&ei=0HvYUZ2rLoKDtAa4goGwDw&ved=0CCcQFjAC&usg=AFQjCNGQ6bj0LUfJdMPx8v2HcyBc3YDsXQ",
+      "/images?hl=en&q=absorption_unit&gbv=1&num=5&gl=&sa=X&oi=image_result_group&ei=0HvYUZ2rLoKDtAa4goGwDw&ved=0CCsQsAQ",
+      "/url?q=http://teaching.shu.ac.uk/hwb/chemistry/tutorials/molspec/beers1.htm&sa=U&ei=0HvYUZ2rLoKDtAa4goGwDw&ved=0CDcQFjAI&usg=AFQjCNE5xDPedDgutUgtcaXx_r_BcTaGuQ",
+      "/url?q=http://www.turnerdesigns.com/t2/doc/appnotes/S-0075.pdf&sa=U&ei=0HvYUZ2rLoKDtAa4goGwDw&ved=0CDsQFjAJ&usg=AFQjCNGypkjPJKkCZfqFVNPUKvjVtxrI9w"
+   ],
+   "micro" : [
+      "quantity",
+      "unit",
+      "abstract_entity",
+      "entity",
+      "definite_quantity",
+      "sabin",
+      "absorptionunit",
+      "abstraction",
+      "amount",
+      "unit_of_measurement",
+      "measure"
+   ],
+   "Lists" : [],
+   "micro-www-search" : [],
+   "micro-www" : {
+      "absorption_unit" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "'Absorption unit' may refer to\n\n*Gray (unit), SI unit of absorbed radiation dose *Sabin (unit), unit of sound\nabsorption *A device which absorbs, such as a Dynamometer\n",
+      "title" : "absorption unit",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Dynamometer"
+   ]
+}

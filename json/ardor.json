@@ -1,0 +1,28 @@
+{
+   "micrownet" : [
+      "ardor"
+   ],
+   "micro" : [
+      "state",
+      "attribute",
+      "ardour",
+      "elan",
+      "avidity",
+      "abstract_entity",
+      "keenness",
+      "eagerness",
+      "avidness",
+      "zeal",
+      "ardor",
+      "abstraction",
+      "feeling",
+      "entity",
+      "enthusiasm"
+   ],
+   "micro-www" : {
+      "ardor" : [
+         ""
+      ]
+   },
+   "micro-www-search" : []
+}

@@ -1,0 +1,81 @@
+{
+   "micrownet" : [
+      "kt",
+      "orudis_kt"
+   ],
+   "google" : [
+      "/url?q=http://www.kt.com/eng/&sa=U&ei=AHvYUamnLsfsswb8rIGwBw&ved=0CBkQFjAA&usg=AFQjCNEkued-uz045Az7xJuoBFuXqPP-9g",
+      "/url?q=http://www.kt.com/&sa=U&ei=AHvYUamnLsfsswb8rIGwBw&ved=0CBwQFjAB&usg=AFQjCNEbaxvdNp_UpCwhRkTtBOEwbzlBCA",
+      "/url?q=http://www.kt.org/&sa=U&ei=AHvYUamnLsfsswb8rIGwBw&ved=0CCAQFjAC&usg=AFQjCNGTydKZkejUWQ_02hRX7k1pLRxQkw",
+      "/url?q=https://en.wikipedia.org/wiki/KT&sa=U&ei=AHvYUamnLsfsswb8rIGwBw&ved=0CCkQFjAD&usg=AFQjCNE3gtny6tpmTWkNdwAQp_7enlUcVA",
+      "/url?q=http://www.kttape.com/&sa=U&ei=AHvYUamnLsfsswb8rIGwBw&ved=0CDEQFjAE&usg=AFQjCNEsXpuSwnSNT6RZZZzbTnJgKLeFRQ"
+   ],
+   "duckduckgo" : {
+      "urls" : [
+         "\nhttp://duckduckgo.com/KT_Tunstall",
+         "\nhttp://duckduckgo.com/KT_(telecommunication_company)"
+      ]
+   },
+   "micro" : [
+      "karat",
+      "quantity",
+      "unit",
+      "measure",
+      "kt",
+      "abstraction",
+      "unit_of_measurement",
+      "abstract_entity",
+      "definite_quantity",
+      "carat",
+      "entity",
+      "amount"
+   ],
+   "Lists" : [],
+   "micro-www-search" : [],
+   "micro-www" : {
+      "kt" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "'KT' may refer to:\n",
+      "title" : "KT",
+      "headings" : [
+         "Science and technology",
+         "Organizations",
+         "Places",
+         "Arts and entertainment",
+         "Titles",
+         "Other uses"
+      ]
+   },
+   "micro-relation" : [
+      "1: Kardashev_scale",
+      "1: Cretaceous–Tertiary_extinction_event",
+      "1: K–T_boundary",
+      "1: Kilotesla",
+      "1: Ton",
+      "1: TNT_equivalent",
+      "1: Nuclear_weapon_yield",
+      "1: Kosterlitz–Thouless_transition",
+      "1: Birgenair",
+      "1: Kensington_Temple",
+      "1: Kepner-Tregoe",
+      "1: KT_postal_area",
+      "1: Christmas_Island",
+      "1: Kuala_Terengganu",
+      "1: KT_Tunstall",
+      "1: Kyle_Travers",
+      "1: K.T._Oslin",
+      "1: Koopa_Troopa",
+      "1: Kate_Bush",
+      "1: Knight_Bachelor",
+      "1: Knight_of_the_Thistle",
+      "1: Knowledge_transfer",
+      "1: Antonov_A-40",
+      "1: Allowed_to_keep_terms",
+      "1: King_Tiger",
+      "1: Karlstads-Tidningen"
+   ]
+}

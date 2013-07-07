@@ -1,0 +1,111 @@
+{
+   "micrownet" : [
+      "volume_unit"
+   ],
+   "google" : [
+      "/url?q=http://en.wikipedia.org/wiki/VU_meter&sa=U&ei=CXvYUc3oGMOQtAa0z4GgBg&ved=0CBoQFjAA&usg=AFQjCNEhc3dgrMNBcVAxgFFq9S8HrisnjQ",
+      "/url?q=http://www.steptools.com/support/stdev_docs/express/cis/html/t_volum-03.html&sa=U&ei=CXvYUc3oGMOQtAa0z4GgBg&ved=0CB4QFjAB&usg=AFQjCNERXIKFNOixRwD2Xt800yLGTKJt5A",
+      "/url?q=http://www.steptools.com/support/stdev_docs/stpman/html/t_volume_unit.html&sa=U&ei=CXvYUc3oGMOQtAa0z4GgBg&ved=0CCEQFjAC&usg=AFQjCNFr3xW_-V2BR3q_OcTNuthoy8v-gw",
+      "/url?q=https://database.riken.jp/sw/en/volume_unit/cria73s159i/&sa=U&ei=CXvYUc3oGMOQtAa0z4GgBg&ved=0CCUQFjAD&usg=AFQjCNG0MZHcrkEjuyuOWF9n_vS3xbxiVw",
+      "/url?q=http://www.audioenglish.org/dictionary/volume_unit.htm&sa=U&ei=CXvYUc3oGMOQtAa0z4GgBg&ved=0CCkQFjAE&usg=AFQjCNHyLgo7UQ8Vf7UCJO1Jzvx2N5-OJQ"
+   ],
+   "micro" : [
+      "dry_measure",
+      "standard",
+      "liquid_measure",
+      "cubic_content_unit",
+      "acre_inch",
+      "cu_in",
+      "homer",
+      "unit_of_measurement",
+      "displacement_unit",
+      "board_foot",
+      "measure",
+      "liquid_unit",
+      "capacity_measure",
+      "last",
+      "yard",
+      "abstract_entity",
+      "abstraction",
+      "acre-foot",
+      "cubic_foot",
+      "quantity",
+      "fthm",
+      "fathom",
+      "cord",
+      "unit",
+      "hin",
+      "cran",
+      "volumeunit",
+      "capacity_unit",
+      "dry_unit",
+      "definite_quantity",
+      "cu_ft",
+      "cubature_unit",
+      "cubic_inch",
+      "amount",
+      "cubic_measure",
+      "field_capacity",
+      "metric_capacity_unit",
+      "cubage_unit",
+      "kor",
+      "entity",
+      "cubic_yard"
+   ],
+   "Lists" : [],
+   "micro-www-search" : [],
+   "micro-www" : {
+      "volume_unit" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Sound production technology",
+         "Measuring instruments"
+      ],
+      "text" : "\nA 'Volume Unit (VU) meter' or Standard Volume Indicator (SVI) is a device\ndisplaying a representation of the signal level in audio equipment. The ASA\nstandardized it in 1942 ( C16-5 - 1942) for use in telephone installation and\nradio broadcast stations. Consumer audio equipment often features VU meters,\nboth for utilitarian purposes (e.g. in recording equipment) and for aesthetics\n(in playback devices).\n\nThe original VU meter is a passive electromechanical device, namely a 200µA DC\nd'Arsonval movement ammeter fed from a full wave copper-oxide rectifier mounted\nwithin the meter case. The mass of the needle causes a relatively slow response,\nwhich in effect integrates the signal, with a rise time of 300ms. 0VU is equal\nto +4 [dBm], or 1.228 volts RMS across a 600 ohm load. 0VU is often referred to\nas \"0dB\".<ref>[http://www.mediacollege.com/audio/monitoring/vu.html VU\nMeter]</ref> The meter was designed not to measure the signal, but to let users\naim the signal level to a target level of 0 VU (sometimes labelled 100%), so it\nis not important that the device is non-linear and imprecise for low levels. In\neffect, the scale ranges from −20 VU to +3 VU, with −3 VU right in the middle.\nPurely electronic devices may emulate the response of the needle; they are VU-\nmeters inasmuch as they respect the standard.\n\nThe VU-meter (intentionally) \"slows\" measurement, averaging out peaks and\ntroughs of short duration, and reflects more the perceived loudness of the\nmaterial than the more modern and initially more expensive PPM meters. For this\nreason many audio practitioners prefer it to its alternatives, though the meter\nindication does not reflect some of the key features of the signal, most notably\nits peak level, which in many cases, must not pass a defined limit.\n\nIn the broadcast industry, loudness monitoring was standardized only recently.\n",
+      "title" : "VU%20meter",
+      "headings" : [
+         "Lead",
+         "Standard characteristics",
+         "History",
+         "Other level meters",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Rise_time",
+      "2: Ohm",
+      "2: Peak_programme_meter",
+      "2: Loudness_monitoring",
+      "1: Signal_level",
+      "1: Sound",
+      "1: Acoustical_Society_of_America",
+      "1: Ammeter",
+      "1: Metal_rectifier",
+      "1: Volt",
+      "1: Root_mean_square",
+      "1: Electrical_load",
+      "1: Loudness",
+      "1: ANSI",
+      "1: British_Standard",
+      "1: International_Electrotechnical_Commission",
+      "1: Cycles_per_second",
+      "1: Decibel",
+      "1: Hz",
+      "1: Bell_Labs",
+      "1: CBS",
+      "1: NBC",
+      "1: Telephone",
+      "1: Audio_equipment",
+      "1: Crest_factor",
+      "1: Decibel#Acoustics",
+      "1: Mixing_console",
+      "1: Nominal_level",
+      "1: Peak_meter",
+      "1: Programme_level"
+   ]
+}

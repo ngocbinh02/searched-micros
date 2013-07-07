@@ -1,0 +1,54 @@
+{
+   "micrownet" : [
+      "denier"
+   ],
+   "google" : [
+      "/url?q=http://en.wikipedia.org/wiki/Denier&sa=U&ei=8nrYUZSGBcmctAaM-IFQ&ved=0CBgQFjAA&usg=AFQjCNHI6nNguV5_wVl5ReOX0wx6WA0eug",
+      "/url?q=http://en.wikipedia.org/wiki/Units_of_textile_measurement&sa=U&ei=8nrYUZSGBcmctAaM-IFQ&ved=0CCAQFjAB&usg=AFQjCNHtMO8cjJK1zamBNdBjuPDYLA8gsw",
+      "/url?q=http://www.thefreedictionary.com/denier&sa=U&ei=8nrYUZSGBcmctAaM-IFQ&ved=0CCQQFjAC&usg=AFQjCNGC0QvUeurmqXjQZHOgPcHjC_XYhg",
+      "/url?q=http://www.mytights.com/hosieryadvice-denier-information/&sa=U&ei=8nrYUZSGBcmctAaM-IFQ&ved=0CCgQFjAD&usg=AFQjCNESeQZ--LPaivZuv0YHEs5YXc1t0w",
+      "/url?q=http://www.merriam-webster.com/dictionary/denier&sa=U&ei=8nrYUZSGBcmctAaM-IFQ&ved=0CCsQFjAE&usg=AFQjCNFCXI4BJm83DCeqVMZy1xhJBeVjWA"
+   ],
+   "duckduckgo" : {
+      "urls" : [
+         "\nhttp://duckduckgo.com/Denier_(unit)",
+         "\nhttp://duckduckgo.com/Denier%2C_Pas-de-Calais",
+         "\nhttp://duckduckgo.com/French_denier",
+         "\nhttp://duckduckgo.com/The_Deniers",
+         "\nhttp://duckduckgo.com/C._Denier_Warren"
+      ]
+   },
+   "micro" : [
+      "definite_quantity",
+      "measure",
+      "unit_of_measurement",
+      "abstraction",
+      "abstract_entity",
+      "amount",
+      "quantity",
+      "denier",
+      "unit",
+      "entity"
+   ],
+   "Lists" : [],
+   "micro-www-search" : [],
+   "micro-www" : {
+      "denier" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Denier' may refer to:\n* Denier (unit), a unit of linear mass density of fibers\n* Denier, Pas-de-Calais, France\n* French denier, a coin\n* [[The Deniers]], a 2008 book by Canadian environmentalist Lawrence Solomon\n* C. Denier Warren, American TV and film actor\n",
+      "title" : "denier",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Denier,_Pas-de-Calais",
+      "1: French_denier",
+      "1: C._Denier_Warren",
+      "1: Diener"
+   ]
+}

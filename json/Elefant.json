@@ -1,0 +1,97 @@
+{
+   "micrownet" : [],
+   "google" : [
+      "/url?q=http://en.wikipedia.org/wiki/Elefant&sa=U&ei=FsfYUfqmBIbfOOLJgJgJ&ved=0CBgQFjAA&usg=AFQjCNFIGqLob2ibe_v5uNT7ZCds0FY9CA",
+      "/url?q=http://en.wikipedia.org/wiki/Elefant_(band)&sa=U&ei=FsfYUfqmBIbfOOLJgJgJ&ved=0CCEQFjAB&usg=AFQjCNF2EGmMT4jutb-YxdXpo3oAM9SIzw"
+   ],
+   "micro" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Elefant_Records\">Elefant Records</a>, a Spanish record label",
+      "\n<a href=\"http://duckduckgo.com/Elefant\">Elefant</a>, a German World War II tank destroyer",
+      "\n<a href=\"http://duckduckgo.com/Elefant_(band)\">Elefant (band)</a>, an indie band from New York, U.S.",
+      "\n<a href=\"http://duckduckgo.com/SLT_50_Elefant\">SLT 50 Elefant</a>, a tractor unit and tank transporter of the modern German Army",
+      "Elefant",
+      "\n<a href=\"http://duckduckgo.com/Elefant_Traks\">Elefant Traks</a>, an Australian record label",
+      "\nElefant is the spelling of <a href=\"http://duckduckgo.com/elephant\">elephant</a> in several languages. It may refer to:"
+   ],
+   "common" : {
+      "news" : "",
+      "image" : [
+         "<img alt=\"Search\" height=\"13\" src=\"//bits.wikimedia.org/static-1.22wmf8/skins/vector/images/search-ltr.png?303-4\" width=\"12\" />",
+         "<img alt=\"Wikimedia Foundation\" height=\"31\" src=\"//bits.wikimedia.org/images/wikimedia-button.png\" width=\"88\" />",
+         "<img alt=\"Powered by MediaWiki\" height=\"31\" src=\"//bits.wikimedia.org/static-1.22wmf8/skins/common/images/poweredby_mediawiki_88x31.png\" width=\"88\" />"
+      ]
+   },
+   "Lists" : [
+      "List_of_Sd.Kfz._designations"
+   ],
+   "micro-www-search" : [],
+   "micro-www" : {
+      "Elefant" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "World War II tank destroyers of Germany"
+      ],
+      "text" : "\n\n{{Infobox Weapon|is_vehicle=yes\n |               name = Panzerjäger Tiger (P) image = caption = The United\n |               States Army Ordnance Museum's restored Elefant. type = Heavy\n |               tank destroyer origin = Nazi Germany\n\n<!-- Production history -->\n| designer= Dr. Ferdinand Porsche design_date= 1942–1943 manufacturer= Porsche\n| AG production_date= March–May 1943<br>(modification into Elefant\n| October–November 1943) number= 91\n<!-- General specifications -->\n\n |             length = with gun width = height = weight = suspension =\n |             longitudinal torsion-bar speed = vehicle_range = road<br /> cross-\n |             country primary_armament = 8.8 cm Pak 43/2 L/71, also known as\n |             StuK 43/1 secondary_armament = 7.92 mm MG 34 machine gun (only\n |             Elefant) armour = 200 mm (7.87 in) engine = 2 × Maybach HL 120\n |             petrol crew = 6 (driver, radio-operator, commander, gunner, two\n |             loaders) engine_power = 600 PS (592 hp, 442 kW) pw_ratio = 9.23\n |             PS/tonne\n}}\n\n'Elefant' (German for \"elephant\") was a Schwerer [[Panzerjäger]] (\"heavy tank\ndestroyer\") of the German [[Wehrmacht]] used in small numbers in World War II.\nIt was built in 1943 under the name 'Ferdinand', after its designer Ferdinand\nPorsche. In 1944, after modification of the existing vehicles, they were renamed\nElefant. The official German designation was 'Panzerjäger Tiger(P)' and the\nordnance inventory designation was 'Sd. Kfz.184'.\n",
+      "title" : "Elefant",
+      "headings" : [
+         "Development history",
+         "Design",
+         "Production",
+         "Modification—''Elefant''",
+         "Combat history",
+         "Survivors",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "4: United_States_Army_Ordnance_Museum",
+      "2: Tank_destroyer",
+      "2: Porsche_AG",
+      "2: 8.8_cm_Pak_43",
+      "2: MG_34",
+      "2: Maybach",
+      "2: Tiger_I",
+      "2: Battle_of_Kursk",
+      "2: Kubinka_Tank_Museum",
+      "1: Dr._Ferdinand_Porsche",
+      "1: Petrol",
+      "1: German_language",
+      "1: World_War_II",
+      "1: Ferdinand_Porsche",
+      "1: List_of_Sd.Kfz._designations",
+      "1: VK4501",
+      "1: Nibelungenwerk",
+      "1: Sankt_Valentin",
+      "1: Austria",
+      "1: Krupp",
+      "1: Pak_43/2",
+      "1: Nashorn",
+      "1: Casemate",
+      "1: Diesel-electric_transmission",
+      "1: Lohner-Porsche_Mixte_Hybrid",
+      "1: Continuous_track#Overlapping_road_wheels",
+      "1: Bogies",
+      "1: Torsion_bar",
+      "1: Drum_brake",
+      "1: 8.8_cm_Flak_18",
+      "1: Western_Desert_Campaign",
+      "1: 8.8_cm_Flak_41",
+      "1: StuG_III",
+      "1: Sturmgewehr_44",
+      "1: Vistula-Oder_offensive",
+      "1: Zossen",
+      "1: Battle_of_Berlin",
+      "1: 653rd_Heavy_Tank_Destroyer_Battalion",
+      "1: Operation_Shingle",
+      "1: SU-152",
+      "1: Soviet_Union",
+      "1: Self-propelled_gun",
+      "1: Panther_tank"
+   ]
+}

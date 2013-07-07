@@ -1,0 +1,112 @@
+{
+   "micrownet" : [
+      "langley",
+      "samuel_pierpoint_langley"
+   ],
+   "google" : [
+      "/url?q=http://en.wikipedia.org/wiki/Langley,_Virginia&sa=U&ei=hnvYUY6VEMjLswaJ2ICwDA&ved=0CBgQFjAA&usg=AFQjCNGyKsY1fCPkX1kDiUptZh02stcJ4g",
+      "/url?q=http://www.city.langley.bc.ca/&sa=U&ei=hnvYUY6VEMjLswaJ2ICwDA&ved=0CBwQFjAB&usg=AFQjCNG4xXq9JnsGG7g_nZ9G5wK7pPDwog",
+      "/url?q=http://www.larc.nasa.gov/&sa=U&ei=hnvYUY6VEMjLswaJ2ICwDA&ved=0CCAQFjAC&usg=AFQjCNH6ZR6gZppjEmtY9EGmj1w-a2FuSw",
+      "/url?q=http://www.tol.ca/&sa=U&ei=hnvYUY6VEMjLswaJ2ICwDA&ved=0CCQQFjAD&usg=AFQjCNGaf2V5uJXa2QKY_afZLd3yyX20kA",
+      "/url?q=http://www.fcps.edu/LangleyHS/&sa=U&ei=hnvYUY6VEMjLswaJ2ICwDA&ved=0CCgQFjAE&usg=AFQjCNHrouUdOK6Dg5QUiks6Su1fCqFt3g"
+   ],
+   "duckduckgo" : {
+      "urls" : [
+         "\nhttp://duckduckgo.com/Langley%2C_Virginia",
+         "\nhttp://duckduckgo.com/Langley_Air_Force_Base",
+         "\nhttp://duckduckgo.com/USS_Langley_(CV-1)"
+      ]
+   },
+   "micro" : [
+      "unit",
+      "abstract_entity",
+      "entity",
+      "measure",
+      "definite_quantity",
+      "amount",
+      "unit_of_measurement",
+      "quantity",
+      "abstraction",
+      "langley"
+   ],
+   "Lists" : [],
+   "micro-www-search" : [
+      [
+         "Langley_Aeronautical_Laboratory",
+         ">pdf",
+         "http://history.nasa.gov/SP-4540/sp4540_1.pdf",
+         "http://techreports.larc.nasa.gov/ltrs/PDF/2000/spec/NASA-2000-sp4519.pdf",
+         "http://techreports.larc.nasa.gov/ltrs/PDF/2003/spec/NASA-2003-sp4529.pdf",
+         "http://ia700301.us.archive.org/12/items/spaceflightrevol00hansrich/spaceflightrevol00hansrich.pdf",
+         "",
+         ">image",
+         "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/100px-NASA_logo.svg.png"
+      ]
+   ],
+   "micro-www" : {
+      "langley" : [
+         "Langley_Aeronautical_Laboratory",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Langley' may refer to:\n",
+      "title" : "langley",
+      "headings" : [
+         "Places",
+         "Schools",
+         "Other",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Langley,_Cheshire",
+      "1: Langley,_Derbyshire",
+      "1: Langley,_Essex",
+      "1: Langley,_Hampshire",
+      "1: Langley,_Hertfordshire",
+      "1: Langley,_Kent",
+      "1: Langley,_Northumberland",
+      "1: Langley,_Oxfordshire",
+      "1: Langley,_Greater_Manchester",
+      "1: Langley,_Berkshire",
+      "1: Langley,_Shropshire",
+      "1: Langley,_West_Sussex",
+      "1: Langley_Burrell",
+      "1: Langley_Castle",
+      "1: Langley_Chapel",
+      "1: Langley_Green,_West_Sussex",
+      "1: Langley_Green,_Sandwell",
+      "1: Langley_Mill",
+      "1: Abbots_Langley",
+      "1: Kings_Langley",
+      "1: Kington_Langley",
+      "1: Wiltshire",
+      "1: Langley_with_Hardley",
+      "1: Langley,_Arkansas",
+      "1: Langley,_Illinois",
+      "1: Langley,_Oklahoma",
+      "1: Langley,_South_Carolina",
+      "1: Langley,_Virginia",
+      "1: Langley,_Washington",
+      "1: Langley_Air_Force_Base",
+      "1: Langley_Covered_Bridge",
+      "1: Langlee_Island",
+      "1: Langley_Park,_Maryland",
+      "1: Langley_Research_Center",
+      "1: George_Bush_Center_for_Intelligence",
+      "1: Langley,_Vosges",
+      "1: Langley_Academy,_Slough",
+      "1: Langley_Grammar_School",
+      "1: Langley_School,_Loddon",
+      "1: Langley_School,_Solihull",
+      "1: Langley_Secondary_School",
+      "1: Cardinal_Langley_Roman_Catholic_High_School",
+      "1: Samuel_Pierpont_Langley",
+      "1: Langley_extrapolation",
+      "1: The_Langley_Schools_Music_Project",
+      "1: Langley_Wood_and_Homan's_Copse",
+      "1: Central_Intelligence_Agency"
+   ]
+}

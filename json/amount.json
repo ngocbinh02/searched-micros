@@ -1,0 +1,141 @@
+{
+   "google" : [
+      "/url?q=http://www.thefreedictionary.com/amount&sa=U&ei=lXvYUdDVFYv4sgaKlYHwBA&ved=0CBgQFjAA&usg=AFQjCNEeo5aZVsz6ppqz99h77l-hVVK1iA",
+      "/url?q=http://www.merriam-webster.com/dictionary/amount&sa=U&ei=lXvYUdDVFYv4sgaKlYHwBA&ved=0CCEQFjAB&usg=AFQjCNHaVxQaVq3OXXs4hidkEgLWZGSZGA",
+      "/url?q=http://www.investorwords.com/205/amount.html&sa=U&ei=lXvYUdDVFYv4sgaKlYHwBA&ved=0CCUQFjAC&usg=AFQjCNGIJrY68FMYIs0uslN8PY-JoglRpw",
+      "/url?q=http://thesaurus.com/browse/amount&sa=U&ei=lXvYUdDVFYv4sgaKlYHwBA&ved=0CCkQFjAD&usg=AFQjCNE4aMQtm5vX52zTbvHIVOXMB3kSJA",
+      "/url?q=http://dictionary.reference.com/browse/amount&sa=U&ei=lXvYUdDVFYv4sgaKlYHwBA&ved=0CDIQFjAE&usg=AFQjCNGFfvA0BTJVD8szcxgs13Lx3AbzsA"
+   ],
+   "micrownet" : [
+      "amount",
+      "large_indefinite_amount",
+      "small_indefinite_amount"
+   ],
+   "micro" : [
+      "gain",
+      "possession",
+      "paysheet",
+      "defalcation",
+      "gross",
+      "amount_of_money",
+      "red",
+      "sum",
+      "assets",
+      "red_ink",
+      "advance",
+      "amount",
+      "loss",
+      "revenue",
+      "relation",
+      "cash_advance",
+      "coverage",
+      "sum_of_money",
+      "cash_surrender_value",
+      "purse",
+      "deductible",
+      "figure",
+      "abstraction",
+      "peanuts",
+      "contribution",
+      "abstract_entity",
+      "payroll",
+      "receipts",
+      "entity",
+      "insurance_coverage"
+   ],
+   "Lists" : [],
+   "micro-www-search" : [
+      [
+         "amount",
+         ">image",
+         "http://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/20px-Edit-clear.svg.png"
+      ],
+      [
+         "Amount_of_substance",
+         ">http",
+         "http://en.m.wikipedia.org/wiki/Amount_of_substance",
+         "http://en.wikipedia.org/w/index.php?title=Amount_of_substance&oldid=543805200",
+         "",
+         ">pdf",
+         "http://old.iupac.org/publications/books/gbook/green_book_2ed.pdf",
+         "http://www.bipm.org/utils/common/pdf/si_brochure_8_en.pdf",
+         "http://www.iupac.org/publications/pac/1996/pdf/6804x0957.pdf",
+         "http://www3.interscience.wiley.com/homepages/5006612/549_560.pdf",
+         "http://www3.interscience.wiley.com/homepages/5006612/549_560.pdf",
+         "http://www.bipm.org/utils/common/pdf/si_brochure_8_en.pdf",
+         "",
+         ">image",
+         "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png"
+      ]
+   ],
+   "micro-www" : {
+      "amount" : [
+         "amount",
+         "Amount_of_substance",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Concepts in metaphysics",
+         "Measurement",
+         "Ontology",
+         "Quantity|"
+      ],
+      "text" : "\n\n'Quantity' is a property that can exist as a magnitude or multitude. Quantities\ncan be compared in terms of \"more\", \"less\" or \"equal\", or by assigning a\nnumerical value in terms of a unit of measurement. Quantity is among the basic\nclasses of things along with quality, substance, change, and relation. Being a\nfundamental term, quantity is used to refer to any type of quantitative\nproperties or attributes of things. Some quantities are such by their inner\nnature (as number), while others are functioning as states (properties,\ndimensions, attributes) of things such as heavy and light, long and short, broad\nand narrow, small and great, or much and little. A small quantity is sometimes\nreferred to as a 'quantulum'.\n\nTwo basic divisions of quantity, magnitude and multitude, imply the principal\ndistinction between continuity (continuum) and discontinuity.\n\nUnder the names of multitude come what is discontinuous and discrete and\ndivisible into indivisibles, all cases of collective nouns: army, fleet, flock,\ngovernment, company, party, people, chorus, crowd, mess, and number. Under the\nnames of magnitude come what is continuous and unified and divisible into\ndivisibles, all cases of non-collective nouns: the universe, matter, mass,\nenergy, liquid, material, animal, plant, tree.\n\nAlong with analyzing its nature and classification, the issues of quantity\ninvolve such closely related topics as the relation of magnitudes and\nmultitudes, dimensionality, equality, proportion, the measurements of\nquantities, the units of measurements, number and numbering systems, the types\nof numbers and their relations to each other as numerical ratios.\n\nThus quantity is a property that exists in a range of magnitudes or multitudes.\nMass, time, distance, heat, and angular separation are among the familiar\nexamples of quantitative properties. Two magnitudes of a continuous quantity\nstand in relation to one another as a ratio, which is a real number.\n",
+      "title" : "Quantity",
+      "headings" : [
+         "Background",
+         "Quantitative structure",
+         "Quantity in mathematics",
+         "Quantity in physical science",
+         "Quantity in logic and semantics",
+         "Quantity in natural language",
+         "Further examples",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Mass",
+      "1: Counting",
+      "1: Substance_theory",
+      "1: Time",
+      "1: Distance",
+      "1: Heat",
+      "1: Quantitative_property",
+      "1: Ratio",
+      "1: Real_number",
+      "1: Aristotle",
+      "1: Ontology",
+      "1: Euclid's_Elements",
+      "1: Euclid",
+      "1: Integer",
+      "1: John_Wallis",
+      "1: Real_numbers",
+      "1: Sir_Isaac_Newton",
+      "1: Otto_Hölder",
+      "1: Empirical_research",
+      "1: Tensor",
+      "1: Stochastic",
+      "1: Physical_quantities",
+      "1: Intensive_quantity",
+      "1: Extensive_quantity",
+      "1: Density",
+      "1: Pressure",
+      "1: Energy",
+      "1: Volume",
+      "1: English_language",
+      "1: Grammatical_number",
+      "1: Person",
+      "1: Gender",
+      "1: Noun",
+      "1: Mass_nouns",
+      "1: Collective_noun",
+      "1: Liter",
+      "1: Radius",
+      "1: Circle",
+      "1: Encyclopaedia_Britannica",
+      "1: MIT_Press",
+      "1: Cambridge_University_Press"
+   ]
+}

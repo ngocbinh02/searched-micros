@@ -1,0 +1,76 @@
+{
+   "micrownet" : [
+      "loyalty"
+   ],
+   "micro" : [
+      "fidelity",
+      "staunchness",
+      "entity",
+      "regionalism",
+      "abstract_entity",
+      "steadfastness",
+      "faithfulness",
+      "patriotism",
+      "loyalty",
+      "trueness",
+      "allegiance",
+      "nationalism",
+      "abstraction",
+      "fealty",
+      "attribute",
+      "quality"
+   ],
+   "micro-www" : {
+      "loyalty" : [
+         "Loyalty_program",
+         "Loyalty_cards",
+         ""
+      ]
+   },
+   "micro-www-search" : [
+      [
+         "Loyalty_program",
+         ">http",
+         "http://ekoutanov.wordpress.com/2012/05/13/tips-to-making-your-loyalty-program-work/",
+         "http://en.m.wikipedia.org/wiki/Loyalty_program",
+         "http://en.wikipedia.org/w/index.php?title=Loyalty_program&oldid=542066819",
+         "http://mazecard.com.au/xwiki/bin/view/Blog/The+future+of+loyalty+programs",
+         "http://www.canadaloyalty.com/Programs/canadian_tire_money.html",
+         "http://www.e-consultancy.com/news-blog/361397/maximiles-acquires-ipoints-to-create-europe-s-no-1-online-coalition-loyalty-company.html?keywords=loyalty",
+         "http://www.forbes.com/sites/tomiogeron/2011/12/14/belly-enters-loyalty-space-with-ipad-based-system/",
+         "http://www.loyaltypartner.com/presse/studien/#c390",
+         "http://www.metro.us/boston/local/article/1051303--local-coffee-shops-start-disloyalty-card-campaign",
+         "http://www.thestar.com/living/food/article/794054--disloyalty-has-its-privileges",
+         "",
+         ">pdf",
+         "http://www.buseco.monash.edu.au/centres/acrs/research/whitepapers/hidden-side-of-loyalty.pdf",
+         "http://www.maximilesgroup.com/images/mxmpdf.pdf",
+         "http://www.maximilesgroup.com/images/mxmpdf.pdf",
+         "http://www.buseco.monash.edu.au/centres/acrs/research/whitepapers/hidden-side-of-loyalty.pdf",
+         "",
+         ">image",
+         "http://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png"
+      ],
+      [
+         "Loyalty_cards",
+         ">http",
+         "http://en.wikipedia.org/w/index.php?title=Loyalty_program&oldid=561198186",
+         "http://qsrmedia.com.au/marketingadvertising/more-news/stamp-me-app-replaces-loyalty-cards",
+         "http://www.bandt.com.au/news/marketing/and-the-best-loyalty-program-goes-to-coles",
+         "http://www.canadaloyalty.com/Programs/canadian_tire_money.html",
+         "http://www.e-consultancy.com/news-blog/361397/maximiles-acquires-ipoints-to-create-europe-s-no-1-online-coalition-loyalty-company.html?keywords=loyalty",
+         "http://www.fiercemobilecontent.com/story/google-kills-punchd-mobile-loyalty-card-app/2012-12-17",
+         "http://www.forbes.com/sites/tomiogeron/2011/12/14/belly-enters-loyalty-space-with-ipad-based-system/",
+         "http://www.loyaltypartner.com/presse/studien/#c390",
+         "http://www.metro.us/boston/local/article/1051303--local-coffee-shops-start-disloyalty-card-campaign",
+         "http://www.thestar.com/living/food/article/794054--disloyalty-has-its-privileges",
+         "",
+         ">pdf",
+         "http://www.maximilesgroup.com/images/mxmpdf.pdf",
+         "http://www.maximilesgroup.com/images/mxmpdf.pdf",
+         "",
+         ">image",
+         "http://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png"
+      ]
+   ]
+}

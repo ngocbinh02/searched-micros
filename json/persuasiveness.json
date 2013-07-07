@@ -1,0 +1,23 @@
+{
+   "micrownet" : [
+      "persuasiveness"
+   ],
+   "micro" : [
+      "convincingness",
+      "quality",
+      "attribute",
+      "abstraction",
+      "persuasiveness",
+      "powerfulness",
+      "strength",
+      "power",
+      "abstract_entity",
+      "entity"
+   ],
+   "micro-www" : {
+      "persuasiveness" : [
+         ""
+      ]
+   },
+   "micro-www-search" : []
+}

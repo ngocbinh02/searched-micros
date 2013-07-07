@@ -1,0 +1,61 @@
+{
+   "micrownet" : [
+      "energy_unit"
+   ],
+   "google" : [
+      "/url?q=http://en.wikipedia.org/wiki/Units_of_energy&sa=U&ei=E3zYUY-HFczUsgaaroCoAg&ved=0CBoQFjAA&usg=AFQjCNG7RCSiktQXod3nnsv_ZDlN8wJFnw",
+      "/url?q=http://www.aps.org/policy/reports/popa-reports/energy/units.cfm&sa=U&ei=E3zYUY-HFczUsgaaroCoAg&ved=0CCMQFjAB&usg=AFQjCNFKEvRGNUs3jDw2yaI40iMMjUqbUQ",
+      "/url?q=http://www.unitcorp.com/&sa=U&ei=E3zYUY-HFczUsgaaroCoAg&ved=0CCYQFjAC&usg=AFQjCNEr-IwzfmGa3tVk-2ece-8zhrAEWg",
+      "/url?q=http://www.thefreedictionary.com/energy%2Bunit&sa=U&ei=E3zYUY-HFczUsgaaroCoAg&ved=0CC8QFjAD&usg=AFQjCNHjkqGGf-sgSVSkpNljvou8FswSUg",
+      "/url?q=http://www.eia.gov/energyexplained/index.cfm%3Fpage%3Dabout_energy_units&sa=U&ei=E3zYUY-HFczUsgaaroCoAg&ved=0CDMQFjAE&usg=AFQjCNHgP4n57OcEzlLxfABLzvWdgm5z_A"
+   ],
+   "micro" : [
+      "small_calorie",
+      "kilocalorie",
+      "calorie",
+      "foot-pound",
+      "energy_unit",
+      "kw-hr",
+      "b.t.u.",
+      "board_of_trade_unit",
+      "j",
+      "gram_calorie",
+      "british_thermal_unit",
+      "heat_unit",
+      "unit",
+      "large_calorie",
+      "unit_of_measurement",
+      "kilogram-meter",
+      "abstraction",
+      "watt_second",
+      "abstract_entity",
+      "btu",
+      "nutritionist's_calorie",
+      "foot-poundal",
+      "horsepower-hour",
+      "quantity",
+      "workunit",
+      "amount",
+      "watt-hour",
+      "b.th.u.",
+      "foot-ton",
+      "kilogram_calorie",
+      "joule",
+      "entity",
+      "erg",
+      "measure",
+      "definite_quantity",
+      "therm",
+      "kilowatt_hour",
+      "ev",
+      "electron_volt"
+   ],
+   "micro-www" : {
+      "energy_unit" : [
+         ""
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "micro-relation" : []
+}

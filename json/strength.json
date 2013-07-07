@@ -1,0 +1,85 @@
+{
+   "micrownet" : [
+      "field_strength",
+      "field_strength_unit",
+      "magnetic_field_strength",
+      "military_strength",
+      "strength",
+      "strengthen",
+      "strengthened",
+      "strengthener",
+      "strengthening",
+      "tensile_strength"
+   ],
+   "micro" : [
+      "stalwartness",
+      "invulnerability",
+      "toughness",
+      "brawniness",
+      "validity",
+      "heartiness",
+      "firmness",
+      "invincibility",
+      "stoutness",
+      "muscle",
+      "heftiness",
+      "vigour",
+      "soundness",
+      "ruggedness",
+      "vigor",
+      "abstraction",
+      "strength",
+      "mightiness",
+      "sturdiness",
+      "power",
+      "attribute",
+      "good_part",
+      "property",
+      "indomitability",
+      "abstract_entity",
+      "dynamism",
+      "might",
+      "lustiness",
+      "endurance",
+      "sinew",
+      "huskiness",
+      "brawn",
+      "robustness",
+      "entity",
+      "hardiness",
+      "muscularity"
+   ],
+   "micro-www" : {
+      "strength" : [
+         "strength",
+         "Strength_of_materials",
+         "Strength_(disambiguation)",
+         ""
+      ]
+   },
+   "micro-www-search" : [
+      [
+         "strength",
+         ">http",
+         "http://en.m.wikipedia.org/wiki/Strength",
+         "http://en.wikipedia.org/w/index.php?title=Strength&oldid=543878865",
+         "",
+         ">image",
+         "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png"
+      ],
+      [
+         "Strength_of_materials",
+         ">http",
+         "http://en.m.wikipedia.org/wiki/Strength_of_materials",
+         "http://en.wikipedia.org/w/index.php?title=Strength_of_materials&oldid=543712245",
+         "",
+         ">image",
+         "http://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png"
+      ],
+      [
+         "Strength_(disambiguation)",
+         ">image",
+         "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png"
+      ]
+   ]
+}

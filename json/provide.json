@@ -1,0 +1,22 @@
+{
+   "micrownet" : [
+      "provide",
+      "providence",
+      "provident",
+      "providential",
+      "provider"
+   ],
+   "micro" : [
+      "render",
+      "furnish",
+      "give",
+      "supply",
+      "provide"
+   ],
+   "micro-www" : {
+      "provide" : [
+         ""
+      ]
+   },
+   "micro-www-search" : []
+}

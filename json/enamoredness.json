@@ -1,0 +1,23 @@
+{
+   "micrownet" : [
+      "enamoredness"
+   ],
+   "micro" : [
+      "emotion",
+      "love",
+      "state",
+      "entity",
+      "abstract_entity",
+      "feeling",
+      "enamoredness",
+      "abstraction",
+      "attribute",
+      "amorousness"
+   ],
+   "micro-www" : {
+      "enamoredness" : [
+         ""
+      ]
+   },
+   "micro-www-search" : []
+}

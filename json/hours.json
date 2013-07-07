@@ -1,0 +1,82 @@
+{
+   "micrownet" : [
+      "hours",
+      "small_hours",
+      "twenty-four_hours"
+   ],
+   "google" : [
+      "/url?q=http://en.wikipedia.org/wiki/Hour&sa=U&ei=nn3YUdbkL4iUtQaLo4DICg&ved=0CBgQFjAA&usg=AFQjCNH-iVYAhiMXqqx8lwvRxrUQLxhTAw",
+      "/url?q=http://www.imdb.com/title/tt2094018/&sa=U&ei=nn3YUdbkL4iUtQaLo4DICg&ved=0CCAQFjAB&usg=AFQjCNHX249HnZOVFUzNZ-Zh3AVauxGpMA",
+      "/url?q=http://www.imdb.com/title/tt0274558/&sa=U&ei=nn3YUdbkL4iUtQaLo4DICg&ved=0CCkQFjAC&usg=AFQjCNEJ3IcFHwozG0IWVPkFPwFx-k-wwA",
+      "/url?q=http://www.earthhour.org/&sa=U&ei=nn3YUdbkL4iUtQaLo4DICg&ved=0CDMQFjAD&usg=AFQjCNHKJW8XQb0t5yY2juBnDIB8dp_uTA",
+      "/url?q=http://www.ithacahours.com/&sa=U&ei=nn3YUdbkL4iUtQaLo4DICg&ved=0CDcQFjAE&usg=AFQjCNEQ_3k5mWQvEve5ayV2Qh7gGzOtLA"
+   ],
+   "duckduckgo" : {
+      "urls" : [
+         "\nhttp://duckduckgo.com/The_Hours_(film)",
+         "\nhttp://duckduckgo.com/The_Hours_(novel)",
+         "\nhttp://duckduckgo.com/'Hours...'",
+         "\nhttp://duckduckgo.com/Horae",
+         "\nhttp://duckduckgo.com/Hours%2C_Pyr%C3%A9n%C3%A9es-Atlantiques",
+         "\nhttp://duckduckgo.com/Hours_(album)",
+         "\nhttp://duckduckgo.com/Carnegie_Unit_and_Student_Hour",
+         "\nhttp://duckduckgo.com/The_Hours_(film)",
+         "\nhttp://duckduckgo.com/The_Hours_(novel)",
+         "\nhttp://duckduckgo.com/Canonical_hours",
+         "\nhttp://duckduckgo.com/book_of_hours"
+      ]
+   },
+   "micro" : [
+      "measure",
+      "period_of_time",
+      "time_unit",
+      "entity",
+      "shift",
+      "hours",
+      "duty_period",
+      "hour",
+      "hyponymsof_noun_hour",
+      "amount",
+      "quantity",
+      "work_shift",
+      "fundamental_quantity",
+      "time_period",
+      "fundamental_measure",
+      "abstract_entity",
+      "sidereal_hour",
+      "abstraction",
+      "man_hour",
+      "hr",
+      "work_time",
+      "period",
+      "person_hour",
+      "unit_of_time"
+   ],
+   "Lists" : [],
+   "micro-www-search" : [],
+   "micro-www" : {
+      "hours" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Hours' may refer to:\n* The plural of the unit of time, hour\n* an expression of time using the 24-hour clock system (e.g. \"1300 hours\")\n* Horae (Hours (mythology)), Greek deities\n* Hours, Pyrénées-Atlantiques, a commune in France\n* 'Hours...', a 1999 album by British musician David Bowie\n* Hours (album), a 2005 album by Welsh rock band Funeral For a Friend\n* Carnegie Unit and Student Hour or credit-hours are a measurement of completed\n  coursework at a college or university.\n* The Hours (film), a 2002 drama film directed by Stephen Daldry\n* ''The Hours'' (novel), a 1998 novel written by Michael Cunningham\n* Canonical hours or liturgical hours, divisions of the day which are\n  accompanied by prayers from the liturgy of the hours ** Book of Hours, a\n  printed book or often a manuscript containing prayers for such hours (e.g. the\n  \"Hours of Catherine of Cleves\")\n",
+      "title" : "hours",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Hour",
+      "1: 24-hour_clock",
+      "1: Horae",
+      "1: Hours,_Pyrénées-Atlantiques",
+      "1: 'Hours...'",
+      "1: Funeral_For_a_Friend",
+      "1: Carnegie_Unit_and_Student_Hour",
+      "1: Canonical_hours",
+      "1: Liturgy_of_the_hours",
+      "1: Book_of_Hours"
+   ]
+}

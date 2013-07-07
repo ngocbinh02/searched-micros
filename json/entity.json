@@ -1,0 +1,138 @@
+{
+   "google" : [
+      "/url?q=http://en.wikipedia.org/wiki/Entity&sa=U&ei=K1PYUceTAoSatQbvkYHoBg&ved=0CBgQFjAA&usg=AFQjCNGbW-9uzwbkFFGqBvMDnVk633mggA",
+      "/url?q=http://www.imdb.com/title/tt1842356/&sa=U&ei=K1PYUceTAoSatQbvkYHoBg&ved=0CCEQFjAB&usg=AFQjCNEw3YGsKXyIfN6VSfT3RZlUcPgKPw",
+      "/url?q=https://drupal.org/project/entity&sa=U&ei=K1PYUceTAoSatQbvkYHoBg&ved=0CCoQFjAC&usg=AFQjCNHzK_sxxx9YFMa-bXlfX71BAI08JA",
+      "/url?q=http://www.thefreedictionary.com/entity&sa=U&ei=K1PYUceTAoSatQbvkYHoBg&ved=0CC4QFjAD&usg=AFQjCNE0GnqPEFpk1dtgw0_VuCGOtyXjDw",
+      "/url?q=http://www.entity.be/entity/&sa=U&ei=K1PYUceTAoSatQbvkYHoBg&ved=0CDIQFjAE&usg=AFQjCNEtdQhXb0Sy_JZW16PqGnWsU6nevg",
+      "/url?q=http://www.entity.be/&sa=U&ei=K1PYUceTAoSatQbvkYHoBg&ved=0CDYQFjAF&usg=AFQjCNEGT-AgoGShAVArHoigoa3TuRvCrQ",
+      "/url?q=http://www.entitythemovie.com/&sa=U&ei=K1PYUceTAoSatQbvkYHoBg&ved=0CDsQFjAG&usg=AFQjCNEbnj6d_IrlSKbNqrQVzrk_5AirOw",
+      "/url?q=http://www.entitybeauty.com/&sa=U&ei=K1PYUceTAoSatQbvkYHoBg&ved=0CD4QFjAH&usg=AFQjCNGDziVkkq-hcwgOjiPAso2lRQNvQA",
+      "/url?q=http://www.businessdictionary.com/definition/entity.html&sa=U&ei=K1PYUceTAoSatQbvkYHoBg&ved=0CEIQFjAI&usg=AFQjCNHHb9XI_GsqMOGuteBnKy2xrOkBIw",
+      "/url?q=http://dictionary.reference.com/browse/entity&sa=U&ei=K1PYUceTAoSatQbvkYHoBg&ved=0CEYQFjAJ&usg=AFQjCNFHWPMUCUmo5W-7K_ggKkpuGBl9wg",
+      "/url?q=http://www.w3schools.com/html/html_entities.asp&sa=U&ei=K1PYUceTAoSatQbvkYHoBg&ved=0CEoQFjAK&usg=AFQjCNG4zC2ckUpGJ8LV3gt-RNmbEWKogA",
+      "/url?q=http://docs.oracle.com/javaee/5/api/javax/persistence/Entity.html&sa=U&ei=K1PYUceTAoSatQbvkYHoBg&ved=0CE4QFjAL&usg=AFQjCNERgcnxyRRc4fhYhZUG_84dTkDulg",
+      "/url?q=http://www.w3.org/Protocols/rfc2616/rfc2616-sec7.html&sa=U&ei=K1PYUceTAoSatQbvkYHoBg&ved=0CFEQFjAM&usg=AFQjCNHbOKhSwOpBO-j1a_OSQio3T5YLGA",
+      "/url?q=http://www.merriam-webster.com/dictionary/entity&sa=U&ei=K1PYUceTAoSatQbvkYHoBg&ved=0CFUQFjAN&usg=AFQjCNHvR89h4UY0Oj4YkS2dpOkpeuLxvQ",
+      "/url?q=http://en.wiktionary.org/wiki/entity&sa=U&ei=K1PYUceTAoSatQbvkYHoBg&ved=0CFkQFjAO&usg=AFQjCNGCP40CzF8YxrjGyEMzv-xjgYtRYg",
+      "/url?q=http://www.entity.co.uk/&sa=U&ei=K1PYUceTAoSatQbvkYHoBg&ved=0CFwQFjAP&usg=AFQjCNE5JndmO5ebG1I2X_acxhXC5pY6rA",
+      "/url?q=https://dev.twitter.com/docs/tweet-entities&sa=U&ei=K1PYUceTAoSatQbvkYHoBg&ved=0CGAQFjAQ&usg=AFQjCNE0HrEBuFoGDqjmT0-hfJh0lRxHLA",
+      "/url?q=http://thesaurus.com/browse/entity&sa=U&ei=K1PYUceTAoSatQbvkYHoBg&ved=0CGgQFjAS&usg=AFQjCNG5VSUcxUEG7vxmLkQPmZj_GA2g4w",
+      "/url?q=http://www.entityfx.com/&sa=U&ei=K1PYUceTAoSatQbvkYHoBg&ved=0CGwQFjAT&usg=AFQjCNHfgL1kGqUvzs7bNYjg0NjG8L916Q",
+      "/url?q=http://www.4centity.com/&sa=U&ei=K1PYUceTAoSatQbvkYHoBg&ved=0CHAQFjAU&usg=AFQjCNHADjb4DqAhZ5Hndc-2Wi4nSkLC3A",
+      "/url?q=http://symfony.com/doc/current/reference/forms/types/entity.html&sa=U&ei=K1PYUceTAoSatQbvkYHoBg&ved=0CHQQFjAV&usg=AFQjCNGRLQ8e_2_bdSiOBIVlJupUK8n-Lw",
+      "/url?q=http://www.riskinstitute.org/&sa=U&ei=K1PYUceTAoSatQbvkYHoBg&ved=0CHcQFjAW&usg=AFQjCNE4HSw43OdjGCZFvb6EeicFk3mA1g"
+   ],
+   "micrownet" : [
+      "abstract_entity",
+      "entity",
+      "physical_entity",
+      "political_entity",
+      "shell_entity"
+   ],
+   "duckduckgo" : {
+      "urls" : [
+         "\nhttp://duckduckgo.com/Entity",
+         "\nhttp://duckduckgo.com/The_Entity",
+         "\nhttp://duckduckgo.com/The_Entity_(South_Park)",
+         "\nhttp://duckduckgo.com/Character_entity_reference",
+         "\nhttp://duckduckgo.com/Entity_(netlabel)",
+         "\nhttp://duckduckgo.com/legal_personality",
+         "\nhttp://duckduckgo.com/entity-relationship_model"
+      ]
+   },
+   "micro" : [
+      "thing",
+      "abstract_entity",
+      "abstraction",
+      "entity",
+      "physical_entity"
+   ],
+   "Lists" : [],
+   "micro-www-search" : [
+      [
+         "entity",
+         ">http",
+         "http://en.m.wikipedia.org/wiki/Entity",
+         "http://en.wikipedia.org/w/index.php?title=Entity&oldid=558450110",
+         "",
+         ">image",
+         "http://upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png"
+      ],
+      [
+         "Entity_class",
+         ">pdf",
+         "http://bit.csc.lsu.edu/~chen/pdf/Chen_Pioneers.pdf",
+         "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1.2497&rep=rep1&type=pdf",
+         "http://crpit.com/confpapers/CRPITV17Hartmann.pdf",
+         "http://publik.tuwien.ac.at/files/pub-inf_4582.pdf",
+         "http://torlone.dia.uniroma3.it/pubs/idea03.pdf",
+         "http://www.ischool.drexel.edu/faculty/song/publications/p_DKE_03_Validity.pdf",
+         "http://www.michaelbrodie.com/documents/The%20Power%20and%20Limits%20of%20Relational%20Technology%20In%20the%20Age%20of%20Information%20Ecosystems%20V2.pdf",
+         "http://www.sigmod.org/publications/sigmod-record/1109/pdfs/10.openforum.badia.pdf",
+         "http://bit.csc.lsu.edu/~chen/pdf/ER_C.pdf",
+         "",
+         ">image",
+         "http://upload.wikimedia.org/wikipedia/commons/thumb/7/72/ER_Diagram_MMORPG.png/450px-ER_Diagram_MMORPG.png"
+      ],
+      [
+         "Entity-relationship_model",
+         ">pdf",
+         "http://bit.csc.lsu.edu/~chen/pdf/Chen_Pioneers.pdf",
+         "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1.2497&rep=rep1&type=pdf",
+         "http://crpit.com/confpapers/CRPITV17Hartmann.pdf",
+         "http://publik.tuwien.ac.at/files/pub-inf_4582.pdf",
+         "http://torlone.dia.uniroma3.it/pubs/idea03.pdf",
+         "http://www.ischool.drexel.edu/faculty/song/publications/p_DKE_03_Validity.pdf",
+         "http://www.michaelbrodie.com/documents/The%20Power%20and%20Limits%20of%20Relational%20Technology%20In%20the%20Age%20of%20Information%20Ecosystems%20V2.pdf",
+         "http://www.sigmod.org/publications/sigmod-record/1109/pdfs/10.openforum.badia.pdf",
+         "http://bit.csc.lsu.edu/~chen/pdf/ER_C.pdf",
+         "",
+         ">image",
+         "http://upload.wikimedia.org/wikipedia/commons/thumb/7/72/ER_Diagram_MMORPG.png/450px-ER_Diagram_MMORPG.png"
+      ],
+      [
+         "Entity",
+         ">image",
+         "http://upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png"
+      ]
+   ],
+   "micro-www" : {
+      "entity" : [
+         "entity",
+         "Entity_class",
+         "Entity-relationship_model",
+         "Entity",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Concepts in metaphysics",
+         "Data modeling diagrams",
+         "Objects"
+      ],
+      "text" : "\n\nAn 'entity' is something that exists by itself, although it need not be of\nmaterial existence. In particular, abstractions and legal fictions are usually\nregarded as entities. In general, there is also no presumption that an entity\nis animate.\n\nIn business, an entity is a person, department, team, corporation, cooperative,\npartnership, or other group with whom it is possible to conduct business.\n\nSometimes, the word entity is used in a general sense of a being, whether or not\nthe referent has material existence, e.g., is often referred to as an entity\nwith no corporeal form (non-physical entity), such as a language. It is also\noften used to refer to ghosts and other spirits.\n\nThe word entitative is the adjective form of the noun entity. Something that is\nentitative is \"considered as pure entity; abstracted from all circumstances\",\nthat is, regarded as entity alone, apart from attendant circumstances.\n",
+      "title" : "entity",
+      "headings" : [
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "1: Abstraction",
+      "1: Legal_fiction",
+      "1: Life",
+      "1: Being",
+      "1: Matter",
+      "1: Non-physical_entity",
+      "1: Ghost",
+      "1: Spirit",
+      "1: Digital_identity",
+      "1: Entity_class",
+      "1: Entity_realism",
+      "1: Scientific_realism",
+      "1: Entitativity",
+      "1: Ontology"
+   ]
+}

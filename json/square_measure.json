@@ -1,0 +1,54 @@
+{
+   "micrownet" : [
+      "square_measure"
+   ],
+   "micro" : [
+      "unit_of_measurement",
+      "square_inch",
+      "quarter_section",
+      "rod",
+      "abstraction",
+      "amount",
+      "sq_yd",
+      "centare",
+      "are",
+      "quantity",
+      "square_metre",
+      "dessiatine",
+      "mutton_quad",
+      "column_inch",
+      "agate_line",
+      "line",
+      "abstract_entity",
+      "entity",
+      "arpent",
+      "ar",
+      "barn",
+      "square_meter",
+      "sq_in",
+      "b",
+      "inch",
+      "pole",
+      "acre",
+      "em_quad",
+      "square_measure",
+      "measure",
+      "perch",
+      "square_yard",
+      "em",
+      "unit",
+      "morgen",
+      "square_foot",
+      "areaunit",
+      "hectare",
+      "sq_ft",
+      "definite_quantity",
+      "square_mile"
+   ],
+   "micro-www" : {
+      "square_measure" : [
+         ""
+      ]
+   },
+   "micro-www-search" : []
+}

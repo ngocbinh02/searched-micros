@@ -1,0 +1,32 @@
+{
+   "micrownet" : [
+      "interestingness"
+   ],
+   "micro" : [
+      "news",
+      "colour",
+      "entity",
+      "abstraction",
+      "interest",
+      "powerfulness",
+      "abstract_entity",
+      "interestingness",
+      "topicality",
+      "vividness",
+      "personal_magnetism",
+      "attribute",
+      "power",
+      "shrillness",
+      "color",
+      "charisma",
+      "newsworthiness",
+      "personal_appeal",
+      "quality"
+   ],
+   "micro-www" : {
+      "interestingness" : [
+         ""
+      ]
+   },
+   "micro-www-search" : []
+}

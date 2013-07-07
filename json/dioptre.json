@@ -1,0 +1,103 @@
+{
+   "micrownet" : [
+      "dioptre"
+   ],
+   "google" : [
+      "/url?q=http://en.wikipedia.org/wiki/Dioptre&sa=U&ei=K3vYUcmLA4iWtQbzyoEI&ved=0CBgQFjAA&usg=AFQjCNH9S4Q88On7X1dgf94c_4VPtd6X6A",
+      "/url?q=http://www.thefreedictionary.com/dioptre&sa=U&ei=K3vYUcmLA4iWtQbzyoEI&ved=0CCEQFjAB&usg=AFQjCNF73NLG3aAAPgzOT0uxHHDt3r4EcA",
+      "/url?q=http://www.princeton.edu/~achaney/tmve/wiki100k/docs/Dioptre.html&sa=U&ei=K3vYUcmLA4iWtQbzyoEI&ved=0CCoQFjAD&usg=AFQjCNFq-qZVPit2kc_EirIu9cRZbHXHxQ",
+      "/url?q=http://www.convert-me.com/en/convert/length/diopter_1.html&sa=U&ei=K3vYUcmLA4iWtQbzyoEI&ved=0CC0QFjAE&usg=AFQjCNHLzVdlbsCX83pI2PyE9LeEmas52A"
+   ],
+   "duckduckgo" : {
+      "urls" : [
+         "\nhttp://duckduckgo.com/d/Diopter",
+         "\nhttp://duckduckgo.com/Astigmatism",
+         "\nhttp://duckduckgo.com/Lens_clock",
+         "\nhttp://duckduckgo.com/Lensmeter",
+         "\nhttp://duckduckgo.com/Optics",
+         "\nhttp://duckduckgo.com/Optometry",
+         "\nhttp://duckduckgo.com/c/Non-SI_metric_units",
+         "\nhttp://duckduckgo.com/c/Optics"
+      ]
+   },
+   "micro" : [
+      "dioptre",
+      "abstraction",
+      "measure",
+      "definite_quantity",
+      "abstract_entity",
+      "unit_of_measurement",
+      "diopter",
+      "quantity",
+      "amount",
+      "unit",
+      "entity"
+   ],
+   "Lists" : [],
+   "micro-www-search" : [],
+   "micro-www" : {
+      "dioptre" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Optics",
+         "Units of measurement",
+         "Non-SI metric units"
+      ],
+      "text" : "\nA 'dioptre', or 'diopter', is a unit of measurement of the optical power of a\nlens or curved mirror, which is equal to the reciprocal of the focal length\nmeasured in metres (that is, 1/metres). It is thus a unit of reciprocal length.\nFor example, a 3-dioptre lens brings parallel rays of light to focus at metre.\nThe same unit is also sometimes used for other reciprocals of distance,\nparticularly radii of curvature and the vergence of optical beams. The usage was\nproposed by French ophthalmologist Ferdinand Monoyer in 1872, based on earlier\nuse of the term dioptrice by Johannes Kepler.<ref> Kepler's book [[Johannes\nKepler#Dioptrice, Somnium manuscript and other work|Dioptrice]] laid out some\nfundamental concepts in geometric optics.</ref><ref></ref><ref></ref>\n\nThe main benefit of using optical power rather than focal length is that the lens-\nmaker's equation has the object distance, image distance, and focal length all\nas reciprocals. A further benefit is that when relatively thin lenses are placed\nclose together their powers approximately add. Thus, a thin 2-dioptre lens\nplaced close to a thin 0.5-dioptre lens yields almost the same focal length as a\n2.5-dioptre lens would have.\n\nThough the dioptre is based on the SI-metric system it has not been included in\nthe standard so that there is no international name or abbreviation for this\nunit of measurement—within the international system of units this unit for\noptical power would need to be specified explicitly as the inverse metre\n(m<sup>−1</sup>). However most languages have borrowed the original name and\nsome national standardization bodies like DIN specify a unit name (dioptrie,\ndioptria, etc.) and derived unit symbol \"dpt\".\n",
+      "title" : "dioptre",
+      "headings" : [
+         "In vision correction",
+         "Curvature",
+         "Relation to magnifying power",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Myopia",
+      "1: Unit_of_measurement",
+      "1: Optical_power",
+      "1: Mirror",
+      "1: Multiplicative_inverse",
+      "1: Focal_length",
+      "1: Metre",
+      "1: Reciprocal_length",
+      "1: Ophthalmologist",
+      "1: Johannes_Kepler",
+      "1: Thin_lens",
+      "1: International_System_of_Units",
+      "1: Metric_system",
+      "1: International_system_of_units",
+      "1: Inverse_metre",
+      "1: Deutsches_Institut_für_Normung",
+      "1: Eye_care_professional",
+      "1: Corrective_lens",
+      "1: Eyeglass_prescription",
+      "1: Cornea",
+      "1: Ciliary_muscle",
+      "1: Suspensory_ligament_of_the_lens",
+      "1: Amplitude_of_accommodation",
+      "1: Hyperopia",
+      "1: Presbyopia",
+      "1: Over-the-counter_drug",
+      "1: Eyeglasses",
+      "1: Optometrist",
+      "1: Refractive_error",
+      "1: Curvature",
+      "1: Radius",
+      "1: Circle",
+      "1: Index_of_refraction",
+      "1: Magnification",
+      "1: Magnifying_glass#Magnification",
+      "1: Astigmatism",
+      "1: Lens_clock",
+      "1: Lensmeter",
+      "1: Optics",
+      "1: Optometry",
+      "1: Prism_correction#Prism_dioptres",
+      "1: Vertometer"
+   ]
+}

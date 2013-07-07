@@ -1,0 +1,24 @@
+{
+   "micrownet" : [
+      "japanese_stranglehold",
+      "stranglehold"
+   ],
+   "micro" : [
+      "entity",
+      "throttlehold",
+      "attribute",
+      "chokehold",
+      "power",
+      "powerfulness",
+      "abstraction",
+      "stranglehold",
+      "abstract_entity",
+      "quality"
+   ],
+   "micro-www" : {
+      "stranglehold" : [
+         ""
+      ]
+   },
+   "micro-www-search" : []
+}

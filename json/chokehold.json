@@ -1,0 +1,23 @@
+{
+   "micrownet" : [
+      "chokehold"
+   ],
+   "micro" : [
+      "chokehold",
+      "powerfulness",
+      "quality",
+      "entity",
+      "attribute",
+      "stranglehold",
+      "abstract_entity",
+      "abstraction",
+      "throttlehold",
+      "power"
+   ],
+   "micro-www" : {
+      "chokehold" : [
+         ""
+      ]
+   },
+   "micro-www-search" : []
+}

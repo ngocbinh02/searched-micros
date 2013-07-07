@@ -1,0 +1,34 @@
+{
+   "micrownet" : [
+      "mflop"
+   ],
+   "google" : [
+      "/url?q=http://en.wikipedia.org/wiki/FLOPS&sa=U&ei=pnrYUcKHDsSatAb8u4DAAw&ved=0CBgQFjAA&usg=AFQjCNFbiqsBG1YpepdfZtsO5Y0z3NeQVQ",
+      "/url?q=http://www.webopedia.com/TERM/M/MFLOP.html&sa=U&ei=pnrYUcKHDsSatAb8u4DAAw&ved=0CCEQFjAB&usg=AFQjCNE1Sbhk5yWvs5MzKEVN-Hhy_98D5A",
+      "/url?q=http://www.thefreedictionary.com/MFLOP&sa=U&ei=pnrYUcKHDsSatAb8u4DAAw&ved=0CCUQFjAC&usg=AFQjCNFVxe2mP3S4Dqwwk9JtGvJcnvz-PA",
+      "/url?q=http://www.sgidepot.co.uk/perf.html&sa=U&ei=pnrYUcKHDsSatAb8u4DAAw&ved=0CCkQFjAD&usg=AFQjCNG1qqCngqUUIiR_9Deh_3IjB39g_Q",
+      "/url?q=http://dictionary.reference.com/browse/mflop&sa=U&ei=pnrYUcKHDsSatAb8u4DAAw&ved=0CCwQFjAE&usg=AFQjCNHspq2dTL6MIi_NlsuOJHksfSqIng"
+   ],
+   "micro" : [
+      "unit_of_measurement",
+      "abstraction",
+      "megaflop",
+      "measure",
+      "entity",
+      "abstract_entity",
+      "quantity",
+      "unit",
+      "mflop",
+      "amount",
+      "definite_quantity",
+      "million_floating_point_operations_per_second"
+   ],
+   "micro-www" : {
+      "mflop" : [
+         ""
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "micro-relation" : []
+}

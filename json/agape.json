@@ -1,0 +1,24 @@
+{
+   "micrownet" : [
+      "agape",
+      "agape(predicate)",
+      "agape_love"
+   ],
+   "micro" : [
+      "love",
+      "attribute",
+      "abstraction",
+      "entity",
+      "emotion",
+      "agape",
+      "abstract_entity",
+      "feeling",
+      "state"
+   ],
+   "micro-www" : {
+      "agape" : [
+         ""
+      ]
+   },
+   "micro-www-search" : []
+}

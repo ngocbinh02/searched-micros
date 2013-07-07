@@ -1,0 +1,21 @@
+{
+   "micrownet" : [
+      "preponderance"
+   ],
+   "micro" : [
+      "quality",
+      "power",
+      "abstraction",
+      "powerfulness",
+      "attribute",
+      "entity",
+      "preponderance",
+      "abstract_entity"
+   ],
+   "micro-www" : {
+      "preponderance" : [
+         ""
+      ]
+   },
+   "micro-www-search" : []
+}

@@ -1,0 +1,34 @@
+{
+   "micrownet" : [
+      "explosive_unit"
+   ],
+   "google" : [
+      "/url?q=http://www.thefreedictionary.com/explosive%2Bunit&sa=U&ei=JHvYUZe2O4SOtQa44oH4Ag&ved=0CBoQFjAA&usg=AFQjCNFp735bqtcsHLaeAYHraryukEST6w",
+      "/url?q=http://www.fbi.gov/about-us/lab/terrorist-explosive-device-analytical-center-tedac/eu&sa=U&ei=JHvYUZe2O4SOtQa44oH4Ag&ved=0CB4QFjAB&usg=AFQjCNHNomRQmTOw5ivAFetrMfpjdHz0sA",
+      "/url?q=http://wiki.answers.com/Q/What_is_a_unit_of_explosive_power&sa=U&ei=JHvYUZe2O4SOtQa44oH4Ag&ved=0CCEQFjAC&usg=AFQjCNFftKrFq54GLK9Z0fFmXmV9YfkkVA",
+      "/url?q=http://www.oregon.gov/osp/AES/&sa=U&ei=JHvYUZe2O4SOtQa44oH4Ag&ved=0CCUQFjAD&usg=AFQjCNH7Gnjw3o6fknrR2zSLUpiudcs8wA",
+      "/url?q=http://www.opp.ca/ecms/index.php%3Fid%3D73&sa=U&ei=JHvYUZe2O4SOtQa44oH4Ag&ved=0CCgQFjAE&usg=AFQjCNGsucV_lTIbB5g8cWXCeDoh6ikQXA"
+   ],
+   "micro" : [
+      "megaton",
+      "unit_of_measurement",
+      "definite_quantity",
+      "abstraction",
+      "abstract_entity",
+      "unit",
+      "measure",
+      "entity",
+      "explosiveunit",
+      "quantity",
+      "amount",
+      "kiloton"
+   ],
+   "micro-www" : {
+      "explosive_unit" : [
+         ""
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "micro-relation" : []
+}

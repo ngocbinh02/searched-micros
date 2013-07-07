@@ -1,0 +1,51 @@
+{
+   "micrownet" : [
+      "free_will"
+   ],
+   "micro" : [
+      "freewill",
+      "quality",
+      "attribute",
+      "discretion",
+      "powerfulness",
+      "entity",
+      "abstract_entity",
+      "self-determination",
+      "power",
+      "abstraction"
+   ],
+   "micro-www" : {
+      "free_will" : [
+         "Free_will",
+         ""
+      ]
+   },
+   "micro-www-search" : [
+      [
+         "Free_will",
+         ">http",
+         "http://en.citizendium.org/wiki/Free_will",
+         "http://en.m.wikipedia.org/wiki/Free_will",
+         "http://en.wikipedia.org/w/index.php?title=Free_will&oldid=543912530",
+         "http://www.dmoz.org/Society/Philosophy/Metaphysics/Free_Will_and_Determinism/",
+         "",
+         ">pdf",
+         "http://ase.tufts.edu/cogstud/papers/SelfasaResponding.pdf",
+         "http://publish.uwo.ca/~lstroth/StrotherObhi_EBR_2009.pdf",
+         "http://trans-techresearch.net/wp-content/uploads/2012/02/Brain-1983-LIBET.pdf",
+         "http://www.eecs.berkeley.edu/~lewis/LewisMacGregor.pdf",
+         "http://www.islamicinformationcenter.info/understandingislam.pdf",
+         "http://www.islamicinformationcenter.info/understandingislam.pdf",
+         "http://www.yale.edu/acmelab/articles/FreeWillIsUnnatural.pdf",
+         "http://www2.gsu.edu/~phlean/papers/When_Consciousness_Matters.pdf",
+         "http://ase.tufts.edu/cogstud/papers/SelfasaResponding.pdf",
+         "",
+         ">image",
+         "http://upload.wikimedia.org/wikipedia/commons/d/d6/Freewill.ogg",
+         "http://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DeterminismXFreeWill.svg/350px-DeterminismXFreeWill.svg.png",
+         "",
+         ">media",
+         "http://upload.wikimedia.org/wikipedia/commons/d/d6/Freewill.ogg"
+      ]
+   ]
+}

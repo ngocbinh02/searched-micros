@@ -1,0 +1,28 @@
+{
+   "micrownet" : [
+      "effectivity"
+   ],
+   "micro" : [
+      "effectuality",
+      "efficacy",
+      "power",
+      "effectiveness",
+      "trenchancy",
+      "entity",
+      "attribute",
+      "abstraction",
+      "effectivity",
+      "incisiveness",
+      "powerfulness",
+      "effectualness",
+      "abstract_entity",
+      "efficaciousness",
+      "quality"
+   ],
+   "micro-www" : {
+      "effectivity" : [
+         ""
+      ]
+   },
+   "micro-www-search" : []
+}

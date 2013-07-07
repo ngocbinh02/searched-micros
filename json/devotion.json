@@ -1,0 +1,24 @@
+{
+   "micrownet" : [
+      "devotion",
+      "devotional"
+   ],
+   "micro" : [
+      "abstraction",
+      "devotedness",
+      "devotion",
+      "entity",
+      "love",
+      "emotion",
+      "attribute",
+      "feeling",
+      "abstract_entity",
+      "state"
+   ],
+   "micro-www" : {
+      "devotion" : [
+         ""
+      ]
+   },
+   "micro-www-search" : []
+}

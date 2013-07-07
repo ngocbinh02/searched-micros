@@ -1,0 +1,78 @@
+{
+   "micrownet" : [
+      "fundamental_quantity"
+   ],
+   "google" : [
+      "/url?q=http://en.wikipedia.org/wiki/Fundamental_unit&sa=U&ei=yH3YUdL3NMuLswbejYCQCg&ved=0CBoQFjAA&usg=AFQjCNFT5-1ZUU4_4iRCVQeta8kypOS6GA",
+      "/url?q=http://www.thefreedictionary.com/fundamental%2Bquantity&sa=U&ei=yH3YUdL3NMuLswbejYCQCg&ved=0CB4QFjAB&usg=AFQjCNH7UzuzaM4EY_ltBs0aAayWXebtLA",
+      "/url?q=http://answers.yahoo.com/question/index%3Fqid%3D20070618071410AAs0ijx&sa=U&ei=yH3YUdL3NMuLswbejYCQCg&ved=0CCIQFjAC&usg=AFQjCNFPMpQspJFpkeqeGyBff1AMvBIFnA",
+      "/url?q=http://www.ask.com/question/examples-of-fundamental-quantities&sa=U&ei=yH3YUdL3NMuLswbejYCQCg&ved=0CCcQFjAD&usg=AFQjCNHPPEb6AHvOfw2PFtMyA0Bb2EiDLg",
+      "/url?q=http://gravimotion.info/Physics_seven_basic_quantities.php&sa=U&ei=yH3YUdL3NMuLswbejYCQCg&ved=0CCoQFjAE&usg=AFQjCNFoyYCG0kXGgTsarpl3NYqDgvrD-Q"
+   ],
+   "micro" : [
+      "period_of_time",
+      "length",
+      "period",
+      "mass",
+      "measure",
+      "abstract_entity",
+      "quantity",
+      "amount",
+      "fundamental_measure",
+      "entity",
+      "abstraction",
+      "fundamentalquantity",
+      "temperature",
+      "time_period"
+   ],
+   "Lists" : [],
+   "micro-www-search" : [],
+   "micro-www" : {
+      "fundamental_quantity" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Measurement",
+         "Dimensional analysis"
+      ],
+      "text" : "\nA set of 'fundamental units' is a set of units for physical quantities from\nwhich every other unit can be generated.\n\nIn the language of measurement, quantities are quantifiable aspects of the\nworld, such as time, distance, velocity, mass, temperature, energy, and weight,\nand units are used to describe their measure. Many of these quantities are\nrelated to each other by various physical laws, and as a result the units of\nsome of the quantities can be expressed as products (or ratios) of powers of\nother units (e.g., momentum is mass times velocity and velocity is measured in\ndistance divided by time). These relationships are discussed in dimensional\nanalysis. Those that cannot be so expressed can be regarded as \"fundamental\" in\nthis sense.\n\nThere are other relationships between physical quantities which can be expressed\nby means of fundamental constants, and to some extent it is an arbitrary\ndecision whether to retain the fundamental constant as a quantity with\ndimensions or simply to define it as unity or a fixed dimensionless number, and\nreduce the number of fundamental constants by one.\n\nFor instance, time and distance are related to each other by the speed of light,\nc, which is a fundamental constant. It is possible to use this relationship to\neliminate either the fundamental unit of time or that of distance. Similar\nconsiderations apply to Planck's constant, h, which relates energy (with\ndimensions of mass, length and time) to frequency (dimensions of time). In\ntheoretical physics it is customary to use such units (natural units) in which c\n= 1 and <math>\\hbar</math> = 1.\n\nSlightly different considerations apply to the so-called permittivity of free\nspace, which historically has been regarded as a separate physical constant in\nsome systems of measurement but not in others.\n\nIn the SI system, there are seven fundamental units: kilogram, meter, candela,\nsecond, ampere, kelvin, and mole.\n\nIn theory, a system of fundamental quantities (or sometimes fundamental\ndimensions) would be such that every other physical quantity (or dimension of\nphysical quantity) can be generated from them.\n\n*One could eliminate any two of the metre, kilogram and second by setting c and\nh to unity or to a fixed dimensionless number. *One could then eliminate the\nampere either by setting the permittivity of free space to a fixed dimensionless\nnumber or by setting the electronic charge to such a number. *One could\nsimilarly eliminate the mole as a fundamental unit by reference to Avogadro's\nnumber. *One could eliminate the kelvin as it can be argued that temperature\nsimply expresses the energy per particle per degree of freedom which can be\nexpressed in terms of energy (or mass, length, and time). Another way of saying\nthis is that Boltzmann's constant could be expressed as a fixed dimensionless\nnumber. *Similarly, one could eliminate the candela as that is defined in terms\nof other physical quantities.\n\n* That just leaves one fundamental dimension and one fundamental unit, but we\n  still have plenty of fundamental constants left to eliminate that too - for\n  instance one could use G, the gravitational constant, or m(e), the electron\n  rest mass.\n\nA widely used choice is the so-called Planck units, which are defined by setting\n<math>\\hbar</math> = c = G = 1.\n\nThat leaves every physical quantity expressed simply as a dimensionless number,\nso it is not surprising that there are also physicists who have cast doubt on\nthe very existence of incompatible fundamental quantities.<ref>M. J. Duff, L. B.\nOkun and G. Veneziano, Trialogue on the number of fundamental constants, JHEP\n'0203', 023 (2002) [http://arxiv.org/abs/physics/0110060 preprint].</ref>\n",
+      "title" : "Fundamental%20unit",
+      "headings" : [
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Dimensional_analysis",
+      "2: Natural_units",
+      "1: Units_of_measurement",
+      "1: Physical_quantity",
+      "1: Measurement",
+      "1: Quantifiable",
+      "1: Time",
+      "1: Distance",
+      "1: Velocity",
+      "1: Mass",
+      "1: Temperature",
+      "1: Energy",
+      "1: Weight",
+      "1: Speed_of_light",
+      "1: Planck's_constant",
+      "1: Permittivity_of_free_space",
+      "1: SI",
+      "1: Kilogram",
+      "1: Meter",
+      "1: Candela",
+      "1: Second",
+      "1: Ampere",
+      "1: Kelvin",
+      "1: Avogadro's_number",
+      "1: Boltzmann's_constant",
+      "1: Gravitational_constant",
+      "1: Electron",
+      "1: Planck_units",
+      "1: Characteristic_units"
+   ]
+}

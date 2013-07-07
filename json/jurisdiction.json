@@ -1,0 +1,66 @@
+{
+   "micrownet" : [
+      "jurisdiction",
+      "jurisdictional"
+   ],
+   "micro" : [
+      "powerfulness",
+      "entity",
+      "legalpower",
+      "attribute",
+      "abstraction",
+      "power",
+      "jurisdiction",
+      "abstract_entity",
+      "quality"
+   ],
+   "micro-www" : {
+      "jurisdiction" : [
+         "jurisdiction",
+         "Jurisdictions",
+         "Jurisdiction_(area)",
+         ""
+      ]
+   },
+   "micro-www-search" : [
+      [
+         "jurisdiction",
+         ">http",
+         "http://en.wikipedia.org/w/index.php?title=Jurisdiction&oldid=560596403",
+         "http://www.law.cornell.edu/topics/jurisdiction.html",
+         "http://www.merriam-webster.com/dictionary/jurisdiction",
+         "",
+         ">pdf",
+         "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:299:0062:0070:EN:PDF",
+         "http://szabo.best.vwh.net/JurisdictionAsProperty.pdf",
+         "http://szabo.best.vwh.net/JurisdictionAsProperty.pdf",
+         "",
+         ">image",
+         "http://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png"
+      ],
+      [
+         "Jurisdictions",
+         ">http",
+         "http://en.wikipedia.org/w/index.php?title=Jurisdiction&oldid=560596403",
+         "http://www.law.cornell.edu/topics/jurisdiction.html",
+         "http://www.merriam-webster.com/dictionary/jurisdiction",
+         "",
+         ">pdf",
+         "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:299:0062:0070:EN:PDF",
+         "http://szabo.best.vwh.net/JurisdictionAsProperty.pdf",
+         "http://szabo.best.vwh.net/JurisdictionAsProperty.pdf",
+         "",
+         ">image",
+         "http://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png"
+      ],
+      [
+         "Jurisdiction_(area)",
+         ">http",
+         "http://en.m.wikipedia.org/wiki/Jurisdiction_(area)",
+         "http://en.wikipedia.org/w/index.php?title=Jurisdiction_(area)&oldid=544083969",
+         "",
+         ">image",
+         "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/UN_stub.svg/35px-UN_stub.svg.png"
+      ]
+   ]
+}

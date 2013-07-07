@@ -1,0 +1,62 @@
+{
+   "micrownet" : [
+      "cater",
+      "cater-cornered",
+      "catercorner",
+      "caterer",
+      "catering",
+      "caterpillar",
+      "caterpillar-tracked",
+      "caterpillar_track",
+      "caterpillar_tread",
+      "caterwaul"
+   ],
+   "micro" : [
+      "give",
+      "supply",
+      "cater",
+      "ply",
+      "provide"
+   ],
+   "micro-www" : {
+      "cater" : [
+         "Caterpillar_(Alices_Adventures_in_Wonderland)",
+         "Caterpillar",
+         ""
+      ]
+   },
+   "micro-www-search" : [
+      [
+         "Caterpillar_(Alices_Adventures_in_Wonderland)",
+         ">http",
+         "http://en.m.wikipedia.org/wiki/Caterpillar_(Alice%27s_Adventures_in_Wonderland)",
+         "http://en.wikipedia.org/w/index.php?title=Caterpillar_(Alice%27s_Adventures_in_Wonderland)&oldid=543011375",
+         "",
+         ">pdf",
+         "http://www.joblo.com/scripts/Alice%20in%20Wonderland.pdf",
+         "http://www.joblo.com/scripts/Alice%20in%20Wonderland.pdf",
+         "http://www.joblo.com/scripts/Alice%20in%20Wonderland.pdf",
+         "",
+         ">image",
+         "http://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png"
+      ],
+      [
+         "Caterpillar",
+         ">http",
+         "http://dictionary.reference.com/browse/caterpillar",
+         "http://en.m.wikipedia.org/wiki/Caterpillar",
+         "http://en.wikipedia.org/w/index.php?title=Caterpillar&oldid=542463563",
+         "http://entomology.ifas.ufl.edu/creatures/orn/oleander_caterpillar.htm",
+         "http://entomology.ifas.ufl.edu/creatures/orn/palms/cabbage_palm_caterpillar.htm",
+         "http://entomology.ifas.ufl.edu/creatures/orn/spotted_oleander_caterpillar.htm",
+         "http://www.ibiblio.org/e-notes/VRML/blaxxun/caterpillar.htm",
+         "",
+         ">pdf",
+         "http://www.units.muohio.edu/cryolab/publications/documents/BennettLeeetal03.pdf",
+         "http://www.units.muohio.edu/cryolab/publications/documents/BennettLeeetal03.pdf",
+         "",
+         ">image",
+         "http://upload.wikimedia.org/wikipedia/en/thumb/5/58/Padlock-olive.svg/20px-Padlock-olive.svg.png"
+      ]
+   ]
+}

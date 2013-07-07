@@ -1,0 +1,47 @@
+{
+   "micrownet" : [
+      "potency"
+   ],
+   "micro" : [
+      "power_of_appointment",
+      "quality",
+      "sovereignty",
+      "dominance",
+      "say-so",
+      "entity",
+      "authorisation",
+      "abstract_entity",
+      "attribute",
+      "potency",
+      "abstraction",
+      "control",
+      "muscle",
+      "imperium",
+      "powerfulness",
+      "lordship",
+      "carte_blanche",
+      "authorization",
+      "power",
+      "command",
+      "authority"
+   ],
+   "micro-www" : {
+      "potency" : [
+         "Potency_(pharmacology)",
+         "Potency_(disambiguation)",
+         ""
+      ]
+   },
+   "micro-www-search" : [
+      [
+         "Potency_(pharmacology)",
+         ">image",
+         "http://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Potency_pharmacology.svg/320px-Potency_pharmacology.svg.png"
+      ],
+      [
+         "Potency_(disambiguation)",
+         ">image",
+         "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png"
+      ]
+   ]
+}

@@ -1,0 +1,60 @@
+{
+   "micrownet" : [
+      "electrostatic_unit"
+   ],
+   "google" : [
+      "/url?q=http://en.wikipedia.org/wiki/Electrostatic_units&sa=U&ei=ynvYUdm5FMfKsgaw3ICQBg&ved=0CBoQFjAA&usg=AFQjCNGUQFoR9i8OTge5IiAmaUfkHbqnGQ",
+      "/url?q=http://en.wikipedia.org/wiki/Statcoulomb&sa=U&ei=ynvYUdm5FMfKsgaw3ICQBg&ved=0CB4QFjAB&usg=AFQjCNEvqAih20Kl2W4ezu1iYsVx1v4bLw",
+      "/url?q=http://www.britannica.com/EBchecked/topic/184055/electrostatic-unit-of-charge&sa=U&ei=ynvYUdm5FMfKsgaw3ICQBg&ved=0CCUQFjAC&usg=AFQjCNH0Z1G5M0vUzJICMJU877Aqr7L40Q",
+      "/url?q=http://www.thefreedictionary.com/electrostatic%2Bunits&sa=U&ei=ynvYUdm5FMfKsgaw3ICQBg&ved=0CCkQFjAD&usg=AFQjCNG5ku2F2dBTHQwy0v4QGkiGRxvjPg",
+      "/url?q=http://answers.yahoo.com/question/index%3Fqid%3D20071002181935AARuqNy&sa=U&ei=ynvYUdm5FMfKsgaw3ICQBg&ved=0CCwQFjAE&usg=AFQjCNGwACgytSvg1rLkhZosApJGyjOwMg"
+   ],
+   "micro" : [
+      "electrostaticunit",
+      "measure",
+      "definite_quantity",
+      "unit",
+      "entity",
+      "quantity",
+      "unit_of_measurement",
+      "abstract_entity",
+      "abstraction",
+      "amount"
+   ],
+   "Lists" : [],
+   "micro-www-search" : [],
+   "micro-www" : {
+      "electrostatic_unit" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Units of electrical charge",
+         "Centimetre–gram–second system of units"
+      ],
+      "text" : "\n\nThe 'statcoulomb' ('statC') or 'franklin' ('Fr') or 'electrostatic unit of\ncharge' ('esu') is the physical unit for electrical charge used in the centimetre-gram-\nsecond system of units (cgs) and Gaussian units. It is a derived unit given by\n: 1 statC = 1 g<sup>1/2</sup> cm<sup>3/2</sup> s<sup>−1</sup> = 1\n: erg<sup>1/2</sup> cm<sup>1/2</sup>.\n\nThe SI system of units uses the coulomb (C) instead. The conversion between C\nand statC is different in different contexts. The most common contexts are:\n:1 C ↔ statC ≈ (for electric charge) 1 statC ↔ ≈ (for electric charge).\n\n:1 C ↔ 4π× statC ≈ (for electric flux Φ<sub>D</sub>) 1 statC ↔ ≈ (for electric\n:flux Φ<sub>D</sub>).\n\n:1 C/m<sup>2</sup> ↔ 4π××10<sup>-4</sup> statC/cm<sup>2</sup> ≈ (for electric\n:displacement field D) 1 statC/cm<sup>2</sup> ↔ ≈ (for electric displacement\n:field D).\n\nThe symbol \"↔\" is used instead of \"=\" because the two sides are not necessarily\ninterchangeable, as discussed below. The number is 10 times the value of the\nspeed of light expressed in meters/second, and the conversions are exact except\nwhere indicated.\n\nThe coulomb is an extremely large charge rarely encountered in electrostatics,\nwhile the statcoulomb is closer to everyday charges.\n",
+      "title" : "Statcoulomb",
+      "headings" : [
+         "Definition and relation to cgs base units",
+         "Dimensional relation between Statcoulomb and Coulomb"
+      ]
+   },
+   "micro-relation" : [
+      "5: SI",
+      "4: Electric_displacement_field",
+      "3: Gaussian_units",
+      "3: Coulomb",
+      "3: Electric_flux",
+      "2: Electrical_charge",
+      "2: Electric_charge",
+      "2: Dyne",
+      "2: Coulomb's_law",
+      "1: Units_of_measurement",
+      "1: Centimetre_gram_second_system_of_units",
+      "1: Speed_of_light",
+      "1: Dimensional_analysis",
+      "1: Vacuum_permittivity",
+      "1: Gauss's_law"
+   ]
+}

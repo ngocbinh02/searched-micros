@@ -1,0 +1,22 @@
+{
+   "micrownet" : [
+      "legal_power"
+   ],
+   "micro" : [
+      "quality",
+      "entity",
+      "legalpower",
+      "abstract_entity",
+      "jurisdiction",
+      "attribute",
+      "powerfulness",
+      "abstraction",
+      "power"
+   ],
+   "micro-www" : {
+      "legal_power" : [
+         ""
+      ]
+   },
+   "micro-www-search" : []
+}

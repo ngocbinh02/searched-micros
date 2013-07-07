@@ -1,0 +1,57 @@
+{
+   "micrownet" : [
+      "sound_unit"
+   ],
+   "google" : [
+      "/url?q=http://en.wikipedia.org/wiki/Sound_unit&sa=U&ei=fnrYUc79GsXEtAbxk4AQ&ved=0CBoQFjAA&usg=AFQjCNFKh7bkDRB26VazCKQVg3ZNgshLRg",
+      "/url?q=http://en.wikipedia.org/wiki/Talk%253ASound_unit&sa=U&ei=fnrYUc79GsXEtAbxk4AQ&ved=0CB4QFjAB&usg=AFQjCNFc3QeByzWkYAL3iCu41uhbgWaUFQ",
+      "/url?q=http://www.thefreedictionary.com/sound%2Bunit&sa=U&ei=fnrYUc79GsXEtAbxk4AQ&ved=0CCEQFjAC&usg=AFQjCNEqyvS78Ly5XI27WVTgnbPzjAPdsw",
+      "/url?q=http://www.specialsoundunit.com/&sa=U&ei=fnrYUc79GsXEtAbxk4AQ&ved=0CCUQFjAD&usg=AFQjCNHKtx6vkXwRXD62InUVK4nVZgMFtw"
+   ],
+   "micro" : [
+      "sone",
+      "soundunit",
+      "unit",
+      "db",
+      "b",
+      "amount",
+      "bel",
+      "entity",
+      "abstraction",
+      "abstract_entity",
+      "quantity",
+      "decibel",
+      "definite_quantity",
+      "phon",
+      "measure",
+      "unit_of_measurement"
+   ],
+   "Lists" : [],
+   "micro-www-search" : [],
+   "micro-www" : {
+      "sound_unit" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Sound",
+         "Systems of units"
+      ],
+      "text" : "{{Multiple issues\n | unreferenced=December 2009 orphan=November 2007\n}} A 'sound unit' is any acoustic unit of sound measurement.\n\n*bel, B - a logarithmic unit of sound pressure equal, measured a tenth of it in\ndecibels dB.\n\n*dB, decibel - a logarithmic unit of sound pressure; 20 times the logarithm of\nthe ratio of the sound pressure to reference pressure, the threshold of hearing.\nThe sound intensity may be calculated from that measurement.\n\n*sone - a unit of perceived loudness equal to the loudness of a 1000-hertz tone\nat 40 dB above threshold, starting with 1 sone.\n\n*phon - a unit of subjective loudness.\n\n*Hz, hertz - a unit to measure the frequency of a sound.\n",
+      "title" : "sound unit",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Sound",
+      "1: Bel",
+      "1: Logarithmic_scale",
+      "1: Decibel",
+      "1: Threshold_of_hearing",
+      "1: Sone",
+      "1: Absolute_threshold_of_hearing",
+      "1: Phon",
+      "1: Loudness",
+      "1: Hertz"
+   ]
+}

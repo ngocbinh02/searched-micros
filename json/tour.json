@@ -1,0 +1,152 @@
+{
+   "micrownet" : [
+      "duty_tour",
+      "georges_de_la_tour",
+      "grand_tour",
+      "la_tour",
+      "on_tour",
+      "package_tour",
+      "tour",
+      "tour_de_force",
+      "tour_de_france",
+      "tour_guide",
+      "touraco",
+      "tourer",
+      "tourette",
+      "tourette's_syndrome",
+      "touring_car",
+      "tourism",
+      "tourist",
+      "tourist_attraction",
+      "tourist_class",
+      "tourist_court",
+      "touristed",
+      "touristry",
+      "touristy",
+      "tourmaline",
+      "tournament",
+      "tournedos",
+      "tourney",
+      "tourniquet",
+      "tours",
+      "tourtiere",
+      "whistle-stop_tour"
+   ],
+   "google" : [
+      "/url?q=http://www.letour.fr/&sa=U&ei=tn3YUYKXHMn4sgbvhoH4DQ&ved=0CCEQFjAD&usg=AFQjCNFBWbB1J4o1iFty0pDrIz0Hn0Byyg",
+      "/url?q=http://www.pgatour.com/&sa=U&ei=tn3YUYKXHMn4sgbvhoH4DQ&ved=0CCoQFjAE&usg=AFQjCNEJR4TRe1Nbo74zBet8Idn7O-6SOA",
+      "/url?q=http://en.wikipedia.org/wiki/Tour&sa=U&ei=tn3YUYKXHMn4sgbvhoH4DQ&ved=0CC4QFjAF&usg=AFQjCNE8REClqZn2v-p9PA68ejQd9O_BBQ",
+      "/url?q=https://www.dropbox.com/tour&sa=U&ei=tn3YUYKXHMn4sgbvhoH4DQ&ved=0CDIQFjAG&usg=AFQjCNFhlRwkPsGBOjYkiVHGxUlsjNSDUw",
+      "/url?q=http://tour.golang.org/&sa=U&ei=tn3YUYKXHMn4sgbvhoH4DQ&ved=0CDUQFjAH&usg=AFQjCNGfPAoIpYq0NvuDt3BHlRelWW4VvQ"
+   ],
+   "duckduckgo" : {
+      "urls" : [
+         "\nhttp://duckduckgo.com/Tourism",
+         "\nhttp://duckduckgo.com/Tour_de_France",
+         "\nhttp://duckduckgo.com/Tours",
+         "\nhttp://duckduckgo.com/BlackBerry_Tour",
+         "\nhttp://duckduckgo.com/Tour_of_duty",
+         "\nhttp://duckduckgo.com/Campus_tour",
+         "\nhttp://duckduckgo.com/Concert_tour",
+         "\nhttp://duckduckgo.com/Professional_golf_tours",
+         "\nhttp://duckduckgo.com/Tennis_tour"
+      ]
+   },
+   "micro" : [
+      "human_action",
+      "traveling",
+      "movement",
+      "change",
+      "package_holiday",
+      "walkabout",
+      "travel",
+      "action",
+      "grand_tour",
+      "itineration",
+      "abstraction",
+      "psychological_feature",
+      "travelling",
+      "package_tour",
+      "whistle-stop_tour",
+      "journey",
+      "abstract_entity",
+      "circuit",
+      "move",
+      "event",
+      "entity",
+      "pub_crawl",
+      "act",
+      "human_activity",
+      "journeying",
+      "tour",
+      "motion",
+      "deed"
+   ],
+   "Lists" : [],
+   "micro-www-search" : [
+      [
+         "Tourist"
+      ],
+      [
+         "Tourelle_de_la_Plate",
+         ">image",
+         "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Raz-de-sein.jpg/250px-Raz-de-sein.jpg"
+      ],
+      [
+         "Touraine",
+         ">http",
+         "http://en.m.wikipedia.org/wiki/Touraine",
+         "http://en.wikipedia.org/w/index.php?title=Touraine&oldid=539819528",
+         "",
+         ">image",
+         "http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Touraine_flag.svg/100px-Touraine_flag.svg.png"
+      ],
+      [
+         "Tour_promoter"
+      ],
+      [
+         "Tour_operator",
+         ">http",
+         "http://en.m.wikipedia.org/wiki/Tour_operator",
+         "http://en.wikipedia.org/w/index.php?title=Tour_operator&oldid=540871894",
+         "http://www.dmoz.org/Recreation/Travel/Tour_Operators/",
+         "",
+         ">image",
+         "http://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png"
+      ]
+   ],
+   "micro-www" : {
+      "tour" : [
+         "Tourist",
+         "Tourelle_de_la_Plate",
+         "Touraine",
+         "Tour_promoter",
+         "Tour_operator",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Tour' may refer to:\n* Tourism, travel for pleasure\n* BlackBerry Tour, a mobile smartphone from RIM\n* Tour of duty, a period of time spent in military service\n* Campus tour\n* Concert tour\n* Professional golf tours\n* Tennis tour\n",
+      "title" : "tour",
+      "headings" : [
+         "People with the name",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Tourism",
+      "1: BlackBerry_Tour",
+      "1: Tour_of_duty",
+      "1: Campus_tour",
+      "1: Concert_tour",
+      "1: Professional_golf_tours",
+      "1: Tennis_tour",
+      "1: James_Tour",
+      "1: Tours",
+      "1: Grand_Tour",
+      "1: Tour_de_France",
+      "1: Tourist_attraction",
+      "1: Tourn"
+   ]
+}

@@ -1,0 +1,23 @@
+{
+   "micrownet" : [
+      "adoration"
+   ],
+   "micro" : [
+      "state",
+      "worship",
+      "emotion",
+      "attribute",
+      "love",
+      "abstract_entity",
+      "adoration",
+      "feeling",
+      "abstraction",
+      "entity"
+   ],
+   "micro-www" : {
+      "adoration" : [
+         ""
+      ]
+   },
+   "micro-www-search" : []
+}

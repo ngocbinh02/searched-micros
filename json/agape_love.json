@@ -1,0 +1,23 @@
+{
+   "micrownet" : [
+      "agape_love"
+   ],
+   "micro" : [
+      "love",
+      "agape",
+      "state",
+      "entity",
+      "attribute",
+      "abstract_entity",
+      "feeling",
+      "emotion",
+      "agape_love",
+      "abstraction"
+   ],
+   "micro-www" : {
+      "agape_love" : [
+         ""
+      ]
+   },
+   "micro-www-search" : []
+}

@@ -1,0 +1,32 @@
+{
+   "micrownet" : [
+      "brinell_number"
+   ],
+   "google" : [
+      "/url?q=http://en.wikipedia.org/wiki/Brinell_scale&sa=U&ei=nXvYUYOlD8jNtAaVyIHgDw&ved=0CB0QFjAA&usg=AFQjCNFezm30B3CuyPKnB4Rcz4ycyPt3-w",
+      "/url?q=http://www.engineeringtoolbox.com/bhn-brinell-hardness-number-d_1365.html&sa=U&ei=nXvYUYOlD8jNtAaVyIHgDw&ved=0CCYQFjAB&usg=AFQjCNHCfPu03UwYbztF--X7NXH9qcqNIw",
+      "/url?q=http://www.thefreedictionary.com/Brinell%2Bnumber&sa=U&ei=nXvYUYOlD8jNtAaVyIHgDw&ved=0CCoQFjAC&usg=AFQjCNH5fa9HfS3dTn1Y7oiy2FGGvuvt3g",
+      "/url?q=http://www.instron.com/wa/applications/test_types/hardness/brinell.aspx&sa=U&ei=nXvYUYOlD8jNtAaVyIHgDw&ved=0CC4QFjAD&usg=AFQjCNFG9voRsL5cQ9H1Wel5aaXsUJZijg",
+      "/url?q=http://easycalculation.com/physics/classical-physics/brinell-hardness.php&sa=U&ei=nXvYUYOlD8jNtAaVyIHgDw&ved=0CDIQFjAE&usg=AFQjCNFMaoUZ2FGJlDi2kHnRs9FadEa4Pw"
+   ],
+   "micro" : [
+      "brinellnumber",
+      "unit_of_measurement",
+      "abstraction",
+      "measure",
+      "abstract_entity",
+      "unit",
+      "quantity",
+      "amount",
+      "entity",
+      "definite_quantity"
+   ],
+   "micro-www" : {
+      "brinell_number" : [
+         ""
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "micro-relation" : []
+}

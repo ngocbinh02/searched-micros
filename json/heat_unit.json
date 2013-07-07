@@ -1,0 +1,81 @@
+{
+   "micrownet" : [
+      "heat_unit"
+   ],
+   "google" : [
+      "/url?q=http://en.wikipedia.org/wiki/Heat_unit&sa=U&ei=5HrYUbLaKcLGtQbDtoC4Ag&ved=0CBoQFjAA&usg=AFQjCNH_2NJtCLiJVGYwrxn5RHoB8R44rg",
+      "/url?q=http://www.audioenglish.org/dictionary/heat_unit.htm&sa=U&ei=5HrYUbLaKcLGtQbDtoC4Ag&ved=0CB0QFjAB&usg=AFQjCNHz1Xh1X2bkFtBKVT5JD4IVlnZ42A",
+      "/url?q=http://www.efunda.com/glossary/units/units--energy--celsius-heat_unit.cfm&sa=U&ei=5HrYUbLaKcLGtQbDtoC4Ag&ved=0CCAQFjAC&usg=AFQjCNGY-oK05VWzphUpbLblGXx9IHwvmg",
+      "/url?q=http://swat.tamu.edu/software/potential-heat-unit-program/&sa=U&ei=5HrYUbLaKcLGtQbDtoC4Ag&ved=0CCIQFjAD&usg=AFQjCNG3vrjcTjP3j9n8jgBKYWmRR81Adw",
+      "/url?q=http://www.thefreedictionary.com/heat%2Bunit&sa=U&ei=5HrYUbLaKcLGtQbDtoC4Ag&ved=0CCUQFjAE&usg=AFQjCNFMQvCo1CGrsrWaf1ttFgZXGaPSNQ"
+   ],
+   "micro" : [
+      "energy_unit",
+      "electron_volt",
+      "amount",
+      "j",
+      "abstraction",
+      "therm",
+      "nutritionist's_calorie",
+      "measure",
+      "foot-poundal",
+      "kilogram-meter",
+      "gram_calorie",
+      "horsepower-hour",
+      "kilowatt_hour",
+      "ev",
+      "kilocalorie",
+      "definite_quantity",
+      "watt-hour",
+      "erg",
+      "b.t.u.",
+      "calorie",
+      "watt_second",
+      "workunit",
+      "abstract_entity",
+      "kilogram_calorie",
+      "joule",
+      "board_of_trade_unit",
+      "b.th.u.",
+      "heat_unit",
+      "large_calorie",
+      "foot-pound",
+      "entity",
+      "unit",
+      "quantity",
+      "kw-hr",
+      "small_calorie",
+      "btu",
+      "foot-ton",
+      "british_thermal_unit",
+      "unit_of_measurement"
+   ],
+   "Lists" : [],
+   "micro-www-search" : [],
+   "micro-www" : {
+      "heat_unit" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Radiology"
+      ],
+      "text" : "\n\nIn radiography, in particular in radiology, a 'heat unit' ('HU') is a usual unit\nderived from the Joule and measuring the quantity of heat in a device, in\nparticular the thermal energy that an X-ray tube must be able to support and\ndissipate during and after an exam.\n\nHistorically, this unit comes from the need to express a quantity of energy\nwhatever the waveform of the electrical source power (direct or pulsating). The\nheat produced in these devices is (in Joule) :\n:<math>E_\\mathrm{heat} = V_\\mathrm{eff} . I_\\mathrm{eff} . \\mathrm{T}</math>\nIn radiography voltage is usually expressed in <math>\\mathrm{kV_p}</math>\n(thousands of volts peak), the effective current in mA and the time in seconds:\n:<math>E_\\mathrm{heat} = w . \\mathrm{kV_p} . \\mathrm{mA} . \\mathrm{T}</math>\nw being the waveform ratio. With a full-wave rectification of a sine wave it\nequals <math>\\frac{1}{\\sqrt{2}} \\approx 0.707</math>, thus the practical unit:\n:1 HU = 0.707 J or\n:1.4 HU = 1 J <ref>Perry Sprawls, Ph.D. [http://www.sprawls.org/ppmi2/XRAYHEAT/\n:  X-Ray Tube Heating and Cooling], from The web-based edition of The Physical\n:  Principles of Medical Imaging, 2nd Ed.</ref>\n",
+      "title" : "heat unit",
+      "headings" : [
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Radiography",
+      "1: Radiology",
+      "1: Joule",
+      "1: Heat",
+      "1: X-ray_tube",
+      "1: Waveform",
+      "1: Direct_current",
+      "1: Peak-to-peak#Peak-to-peak_amplitude",
+      "1: Sine_wave"
+   ]
+}

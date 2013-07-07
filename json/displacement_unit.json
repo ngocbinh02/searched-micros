@@ -1,0 +1,63 @@
+{
+   "micrownet" : [
+      "displacement_unit"
+   ],
+   "google" : [
+      "/url?q=http://answers.yahoo.com/question/index%3Fqid%3D20100601172741AAHUqg1&sa=U&ei=qXvYUb_jKJHjtQaUiIDACA&ved=0CBoQFjAA&usg=AFQjCNFeeq8aEdkhdJOnbIBdVPPWacHU7A",
+      "/url?q=http://whatis.techtarget.com/definition/displacement&sa=U&ei=qXvYUb_jKJHjtQaUiIDACA&ved=0CB8QFjAB&usg=AFQjCNFVxOPZM4Ybos3GkQ_DeeRP-Z1Ttg",
+      "/url?q=http://spiff.rit.edu/classes/phys211/lectures/disvel/disvel_all.html&sa=U&ei=qXvYUb_jKJHjtQaUiIDACA&ved=0CCIQFjAC&usg=AFQjCNHUMmYs0Vl6ltElNF29JMkcqcl2uQ",
+      "/url?q=https://www.vocabulary.com/dictionary/displacement%2520unit&sa=U&ei=qXvYUb_jKJHjtQaUiIDACA&ved=0CCYQFjAD&usg=AFQjCNGGTLoFSMYf9UGpBC6yxaZek9qr2g",
+      "/url?q=http://wiki.answers.com/Q/What_is_the_Si_unit_for_displacement&sa=U&ei=qXvYUb_jKJHjtQaUiIDACA&ved=0CCgQFjAE&usg=AFQjCNHNQc3vcrhV_2q1-GroJD-uOFzpeA"
+   ],
+   "micro" : [
+      "liquid_unit",
+      "cu_in",
+      "kor",
+      "last",
+      "definite_quantity",
+      "entity",
+      "abstraction",
+      "cubic_measure",
+      "unit",
+      "cran",
+      "acre_inch",
+      "cubic_inch",
+      "amount",
+      "quantity",
+      "cu_ft",
+      "standard",
+      "cubic_yard",
+      "fthm",
+      "cubic_content_unit",
+      "liquid_measure",
+      "field_capacity",
+      "dry_unit",
+      "displacement_unit",
+      "cord",
+      "volumeunit",
+      "capacity_unit",
+      "unit_of_measurement",
+      "cubage_unit",
+      "cubic_foot",
+      "dry_measure",
+      "capacity_measure",
+      "yard",
+      "fathom",
+      "abstract_entity",
+      "measure",
+      "homer",
+      "board_foot",
+      "cubature_unit",
+      "hin",
+      "metric_capacity_unit",
+      "acre-foot"
+   ],
+   "micro-www" : {
+      "displacement_unit" : [
+         ""
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "micro-relation" : []
+}

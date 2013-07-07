@@ -1,0 +1,35 @@
+{
+   "micrownet" : [
+      "insect_repellent",
+      "repellent",
+      "shark_repellent"
+   ],
+   "micro" : [
+      "repellent",
+      "abstraction",
+      "repellant",
+      "material",
+      "physical_entity",
+      "portion",
+      "chemical",
+      "constituent",
+      "chemical_compound",
+      "substance",
+      "matter",
+      "chemical_substance",
+      "component_part",
+      "part",
+      "abstract_entity",
+      "compound",
+      "relation",
+      "stuff",
+      "component",
+      "entity"
+   ],
+   "micro-www" : {
+      "repellent" : [
+         ""
+      ]
+   },
+   "micro-www-search" : []
+}

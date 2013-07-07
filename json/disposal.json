@@ -1,0 +1,26 @@
+{
+   "micrownet" : [
+      "disposal",
+      "disposal_plant",
+      "garbage_disposal",
+      "mine_disposal",
+      "sewage_disposal",
+      "sewage_disposal_plant"
+   ],
+   "micro" : [
+      "disposal",
+      "abstraction",
+      "powerfulness",
+      "abstract_entity",
+      "quality",
+      "power",
+      "attribute",
+      "entity"
+   ],
+   "micro-www" : {
+      "disposal" : [
+         ""
+      ]
+   },
+   "micro-www-search" : []
+}

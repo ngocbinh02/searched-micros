@@ -1,0 +1,25 @@
+{
+   "micrownet" : [
+      "lovingness"
+   ],
+   "micro" : [
+      "entity",
+      "warmth",
+      "abstraction",
+      "state",
+      "warmheartedness",
+      "caring",
+      "abstract_entity",
+      "feeling",
+      "love",
+      "lovingness",
+      "attribute",
+      "emotion"
+   ],
+   "micro-www" : {
+      "lovingness" : [
+         ""
+      ]
+   },
+   "micro-www-search" : []
+}

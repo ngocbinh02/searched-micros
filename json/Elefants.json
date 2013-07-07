@@ -1,0 +1,25 @@
+{
+   "micrownet" : [],
+   "google" : [
+      "/url?q=http://en.wikipedia.org/wiki/Elephant&sa=U&ei=IMfYUfv3H4XtPPT-gaAB&ved=0CBoQFjAA&usg=AFQjCNEDDMGtNDfXHm4BlGVI2OEDXhx5jA",
+      "/url?q=http://www.elephants.com/&sa=U&ei=IMfYUfv3H4XtPPT-gaAB&ved=0CCMQFjAB&usg=AFQjCNFVutyIkCcpAeVbOQw2dyDsepSWaA"
+   ],
+   "micro" : [],
+   "duck" : [],
+   "common" : {
+      "news" : "",
+      "image" : [
+         "<img alt=\"Search\" height=\"13\" src=\"//bits.wikimedia.org/static-1.22wmf8/skins/vector/images/search-ltr.png?303-4\" width=\"12\" />",
+         "<img alt=\"Wikimedia Foundation\" height=\"31\" src=\"//bits.wikimedia.org/images/wikimedia-button.png\" width=\"88\" />",
+         "<img alt=\"Powered by MediaWiki\" height=\"31\" src=\"//bits.wikimedia.org/static-1.22wmf8/skins/common/images/poweredby_mediawiki_88x31.png\" width=\"88\" />"
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "micro-www" : {
+      "Elefants" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

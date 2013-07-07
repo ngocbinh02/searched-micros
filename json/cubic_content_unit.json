@@ -1,0 +1,63 @@
+{
+   "micrownet" : [
+      "cubic_content_unit"
+   ],
+   "google" : [
+      "/url?q=http://www.thefreedictionary.com/cubic%2Bcontent%2Bunit&sa=U&ei=unvYUfWrOsvntQbCtYHwCA&ved=0CBoQFjAA&usg=AFQjCNGJ8fPuiywx2dvrPOsj1T2CmTc92A",
+      "/url?q=https://www.vocabulary.com/dictionary/cubic%2520content%2520unit&sa=U&ei=unvYUfWrOsvntQbCtYHwCA&ved=0CB4QFjAB&usg=AFQjCNGQn6EfFE1x3mDw7DAe1g0UHukhYA",
+      "/url?q=http://www.wordwebonline.com/en/CUBICCONTENTUNIT&sa=U&ei=unvYUfWrOsvntQbCtYHwCA&ved=0CCAQFjAC&usg=AFQjCNExM6l8s4oswuxwZySJjgi-YmbzQQ",
+      "/url?q=http://www.interglot.com/dictionary/en/es/translate/cubic%2520content%2520unit&sa=U&ei=unvYUfWrOsvntQbCtYHwCA&ved=0CCQQFjAD&usg=AFQjCNHeJN2QwbIRuGZMbLYZiY-tVeMJ9Q",
+      "/url?q=http://dictionary.reference.com/browse/cubic%2Bcontent%2Bunit&sa=U&ei=unvYUfWrOsvntQbCtYHwCA&ved=0CCcQFjAE&usg=AFQjCNF9fSPuqusuoUsy3GFJG6UWRaw_Aw"
+   ],
+   "micro" : [
+      "capacity_measure",
+      "yard",
+      "cubage_unit",
+      "field_capacity",
+      "cu_in",
+      "unit_of_measurement",
+      "capacity_unit",
+      "dry_unit",
+      "measure",
+      "dry_measure",
+      "volumeunit",
+      "last",
+      "entity",
+      "unit",
+      "cubic_yard",
+      "cubic_foot",
+      "cubic_measure",
+      "liquid_measure",
+      "quantity",
+      "abstract_entity",
+      "definite_quantity",
+      "hin",
+      "liquid_unit",
+      "kor",
+      "amount",
+      "board_foot",
+      "standard",
+      "metric_capacity_unit",
+      "cord",
+      "fathom",
+      "acre_inch",
+      "cubic_content_unit",
+      "homer",
+      "acre-foot",
+      "cubic_inch",
+      "abstraction",
+      "cran",
+      "fthm",
+      "displacement_unit",
+      "cu_ft",
+      "cubature_unit"
+   ],
+   "micro-www" : {
+      "cubic_content_unit" : [
+         ""
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "micro-relation" : []
+}

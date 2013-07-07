@@ -1,0 +1,23 @@
+{
+   "micrownet" : [
+      "benevolence"
+   ],
+   "micro" : [
+      "attribute",
+      "state",
+      "abstraction",
+      "love",
+      "abstract_entity",
+      "emotion",
+      "feeling",
+      "entity",
+      "beneficence",
+      "benevolence"
+   ],
+   "micro-www" : {
+      "benevolence" : [
+         ""
+      ]
+   },
+   "micro-www-search" : []
+}

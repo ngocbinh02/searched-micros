@@ -1,0 +1,63 @@
+{
+   "micrownet" : [
+      "cubic_measure"
+   ],
+   "google" : [
+      "/url?q=http://www.thefreedictionary.com/cubic%2Bmeasure&sa=U&ei=wHrYUYfmKoSItAaJz4HIDg&ved=0CBoQFjAA&usg=AFQjCNHqM3EXFKNPiQW2EJBAYkmZgrZ-6w",
+      "/url?q=http://www.sosmath.com/algebra/unitconv/unit4/unit4.html&sa=U&ei=wHrYUYfmKoSItAaJz4HIDg&ved=0CB4QFjAB&usg=AFQjCNFKXprkR0nblEcfiu0SV7laDwxgOg",
+      "/url?q=http://www.wikihow.com/Find-Cubic-Feet&sa=U&ei=wHrYUYfmKoSItAaJz4HIDg&ved=0CCIQFjAC&usg=AFQjCNHuw-C2wMeQzMxtvHnIVk8Y_TQbGA",
+      "/url?q=http://www.expresscargo.co.nz/measurement.html&sa=U&ei=wHrYUYfmKoSItAaJz4HIDg&ved=0CCUQFjAD&usg=AFQjCNFJZLM2ijaJ7hTE-1aHOeoWA5Mr9A",
+      "/url?q=http://dictionary.reference.com/browse/cubic%2Bmeasure&sa=U&ei=wHrYUYfmKoSItAaJz4HIDg&ved=0CCgQFjAE&usg=AFQjCNGhyZ7ZWU9ZVCvtsjQYF165JqKmJw"
+   ],
+   "micro" : [
+      "amount",
+      "yard",
+      "cubage_unit",
+      "acre-foot",
+      "board_foot",
+      "acre_inch",
+      "last",
+      "entity",
+      "fthm",
+      "liquid_measure",
+      "kor",
+      "homer",
+      "cubic_measure",
+      "definite_quantity",
+      "liquid_unit",
+      "cubic_inch",
+      "abstraction",
+      "standard",
+      "capacity_unit",
+      "cu_ft",
+      "cubature_unit",
+      "cubic_yard",
+      "hin",
+      "displacement_unit",
+      "quantity",
+      "volumeunit",
+      "unit",
+      "unit_of_measurement",
+      "fathom",
+      "dry_measure",
+      "capacity_measure",
+      "dry_unit",
+      "cran",
+      "metric_capacity_unit",
+      "abstract_entity",
+      "field_capacity",
+      "measure",
+      "cubic_foot",
+      "cubic_content_unit",
+      "cord",
+      "cu_in"
+   ],
+   "micro-www" : {
+      "cubic_measure" : [
+         ""
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "micro-relation" : []
+}

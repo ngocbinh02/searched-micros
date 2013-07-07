@@ -1,0 +1,26 @@
+{
+   "micrownet" : [
+      "heartstrings"
+   ],
+   "micro" : [
+      "abstract_entity",
+      "state",
+      "compassionateness",
+      "heartstrings",
+      "emotion",
+      "entity",
+      "attribute",
+      "fellow_feeling",
+      "compassion",
+      "feeling",
+      "abstraction",
+      "love",
+      "sympathy"
+   ],
+   "micro-www" : {
+      "heartstrings" : [
+         ""
+      ]
+   },
+   "micro-www-search" : []
+}

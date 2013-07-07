@@ -1,0 +1,40 @@
+{
+   "micrownet" : [
+      "atomic_mass_unit",
+      "mass_unit"
+   ],
+   "google" : [
+      "/url?q=http://www.thefreedictionary.com/atomic%2Bmass%2Bunit&sa=U&ei=aHvYUYiAPIXTsgb_woHYCw&ved=0CBoQFjAA&usg=AFQjCNFR6lqJ8keqPdM8_KtpcoBb67Fjuw",
+      "/url?q=http://www.merriam-webster.com/dictionary/atomic%2520mass%2520unit&sa=U&ei=aHvYUYiAPIXTsgb_woHYCw&ved=0CB4QFjAB&usg=AFQjCNHaUVY0YRRjdKeSKnzzCpfHRMWMUw",
+      "/url?q=http://dictionary.cambridge.org/dictionary/british/atomic-mass-unit&sa=U&ei=aHvYUYiAPIXTsgb_woHYCw&ved=0CCEQFjAC&usg=AFQjCNGj9onrdXorLixUbm5l0osOkbvIXw",
+      "/url?q=http://www.dict.cc/%3Fs%3Datomic%2Bmass%2Bunit&sa=U&ei=aHvYUYiAPIXTsgb_woHYCw&ved=0CCQQFjAD&usg=AFQjCNFOr3j_Qz1xWS_A_kiFS4EmR1apYg",
+      "/url?q=http://en.wiktionary.org/wiki/atomic_mass_unit&sa=U&ei=aHvYUYiAPIXTsgb_woHYCw&ved=0CCcQFjAE&usg=AFQjCNHSt1YGrZcrk25JiZEFJeb7DfB20Q"
+   ],
+   "micro" : [
+      "weight_unit",
+      "massunit",
+      "mass_number",
+      "measure",
+      "definite_quantity",
+      "metric_weight_unit",
+      "unit_of_measurement",
+      "slug",
+      "nucleon_number",
+      "atomic_mass_unit",
+      "quantity",
+      "avoirdupois_unit",
+      "entity",
+      "abstraction",
+      "unit",
+      "amount",
+      "abstract_entity"
+   ],
+   "micro-www" : {
+      "mass_unit" : [
+         ""
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "micro-relation" : []
+}

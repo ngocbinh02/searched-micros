@@ -1,0 +1,51 @@
+{
+   "micrownet" : [
+      "angular_unit"
+   ],
+   "google" : [
+      "/url?q=http://www.thefreedictionary.com/angular%2Bunit&sa=U&ei=-nrYUdLVCI31sgan4oGADw&ved=0CBoQFjAA&usg=AFQjCNHlPDxk-5jvuZ95KJ4j1Kf-uyEzcQ",
+      "/url?q=http://support.esri.com/knowledgebase/GISDictionary/term/angular%2520unit&sa=U&ei=-nrYUdLVCI31sgan4oGADw&ved=0CB4QFjAB&usg=AFQjCNEJXC3qatrvsI7fBTWi6x1q1I77Lw",
+      "/url?q=http://www.gmat.unsw.edu.au/snap/gps/clynch_pdfs/angunit.pdf&sa=U&ei=-nrYUdLVCI31sgan4oGADw&ved=0CCEQFjAC&usg=AFQjCNHlhizpKYJxNwMJi2Jbehocltw0DQ",
+      "/url?q=http://en.wikipedia.org/wiki/Angle&sa=U&ei=-nrYUdLVCI31sgan4oGADw&ved=0CCUQFjAD&usg=AFQjCNFCfgsGta-taoR-V_KPUhZ2lTfh6w",
+      "/url?q=http://publib.boulder.ibm.com/infocenter/idshelp/v10/topic/com.ibm.spatial.doc/spat261.htm&sa=U&ei=-nrYUdLVCI31sgan4oGADw&ved=0CCkQFjAE&usg=AFQjCNGuHMP6M4Z2aSPfdUbV0VLhL4YdYg"
+   ],
+   "micro" : [
+      "sr",
+      "oxtant",
+      "unit_of_measurement",
+      "sextant",
+      "unit",
+      "milliradian",
+      "grade",
+      "entity",
+      "quantity",
+      "degree",
+      "amount",
+      "grad",
+      "angularunit",
+      "definite_quantity",
+      "arcdegree",
+      "minute",
+      "minute_of_arc",
+      "second",
+      "mil",
+      "straight_angle",
+      "steradian",
+      "radian",
+      "microradian",
+      "abstraction",
+      "abstract_entity",
+      "arcsecond",
+      "arcminute",
+      "measure",
+      "rad"
+   ],
+   "micro-www" : {
+      "angular_unit" : [
+         ""
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "micro-relation" : []
+}

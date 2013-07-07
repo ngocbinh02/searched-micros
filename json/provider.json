@@ -1,0 +1,122 @@
+{
+   "micrownet" : [
+      "health_care_provider",
+      "primary_care_provider",
+      "provider"
+   ],
+   "google" : [
+      "/url?q=http://www.thefreedictionary.com/provider&sa=U&ei=FvfYUd8_x8XsBu_jgagG&ved=0CCQQFjAA&usg=AFQjCNH1elZuPJBPv11j71pu3dHWWOOO4Q",
+      "/url?q=http://en.wikipedia.org/wiki/Provider_(role_variant)&sa=U&ei=FvfYUd8_x8XsBu_jgagG&ved=0CC0QFjAB&usg=AFQjCNGqpsFCPyeTnawnCndRjV3znSR5jg",
+      "/url?q=http://en.wikipedia.org/wiki/Provider&sa=U&ei=FvfYUd8_x8XsBu_jgagG&ved=0CDEQFjAC&usg=AFQjCNHLPvIiZO7nq4HggHtkPrKMCs5pGA",
+      "/url?q=http://en.wikipedia.org/wiki/Health_care_provider&sa=U&ei=FvfYUd8_x8XsBu_jgagG&ved=0CDUQFjAD&usg=AFQjCNGr0liOuS0eHuJUesRCRazylJ9QTg",
+      "/url?q=http://www.providermagazine.com/&sa=U&ei=FvfYUd8_x8XsBu_jgagG&ved=0CDkQFjAE&usg=AFQjCNF9EIdJd4yRhJMczJ7g-GyQYSQIrg",
+      "/url?q=https://addons.mozilla.org/en-US/thunderbird/addon/provider-for-google-calendar/&sa=U&ei=FvfYUd8_x8XsBu_jgagG&ved=0CEIQFjAG&usg=AFQjCNHvJy09WCtBHZUoqy-gLtJE9gmHpw",
+      "/url?q=http://developer.android.com/guide/topics/manifest/provider-element.html&sa=U&ei=FvfYUd8_x8XsBu_jgagG&ved=0CEcQFjAH&usg=AFQjCNE4fHXTb4G4wP5xOH7BXl8vBGIBwg",
+      "/url?q=http://openid.net/add-openid/become-a-provider/&sa=U&ei=FvfYUd8_x8XsBu_jgagG&ved=0CEsQFjAI&usg=AFQjCNEdBMk9Zm0gPVERz2_auywHxikNkA",
+      "/url?q=http://www.dict.cc/englisch-deutsch/provider.html&sa=U&ei=FvfYUd8_x8XsBu_jgagG&ved=0CE8QFjAJ&usg=AFQjCNHS5LUn98w2nLaYJv0N8SjYzIKIAQ"
+   ],
+   "micro" : [
+      "unit",
+      "animate_thing",
+      "whole",
+      "physical_entity",
+      "provider",
+      "black_marketeer",
+      "bourgeois",
+      "being",
+      "distributer",
+      "dispenser",
+      "somebody",
+      "entity",
+      "person",
+      "caterer",
+      "physical_object",
+      "living_thing",
+      "purveyor",
+      "causal_agency",
+      "object",
+      "mortal",
+      "recruiter",
+      "cause",
+      "sutler",
+      "victualler",
+      "capitalist",
+      "soul",
+      "someone",
+      "distributor",
+      "stockist",
+      "causal_agent",
+      "supplier",
+      "provisioner",
+      "businessperson",
+      "connection",
+      "victualer",
+      "individual",
+      "organism"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Health_care_provider\">Health care provider</a>, an individual or institution that provides health care services",
+      "\nA <a href=\"http://duckduckgo.com/prostitute\">prostitute</a>",
+      "\n\"<a href=\"http://duckduckgo.com/Provider_(song)\">Provider</a>,\" a song by N*E*R*D from their 2001 album In Search Of...",
+      "\n<a href=\"http://duckduckgo.com/Providers\">Providers</a>, a Danish music production duo made up of Jeppe Federspiel and Rasmus Stabell",
+      "Provider",
+      "\n<a href=\"http://duckduckgo.com/Provider_(Angel)\">\"Provider\" (Angel)</a>, a 2002 episode of the television series Angel",
+      "\n<a href=\"http://duckduckgo.com/Internet_service_provider\">Internet service provider</a>,  a business or organization that offers access to the internet and related services",
+      "http://www.merriam-webster.com/dictionary/provider",
+      "\nA <a href=\"http://duckduckgo.com/distribution_(business)\">supplier</a>",
+      "provider definition: one that provides.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Provider_model\">Provider model</a>, a design pattern originally developed by Microsoft for use in the .NET framework",
+      "\n<a href=\"http://duckduckgo.com/fairchild_C-123_Provider\">C-123 Provider</a>, an American military transport aircraft"
+   ],
+   "common" : {
+      "news" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Complaint_made_against_internet_provider_iHug_upheld\" title=\"Complaint made against internet provider iHug upheld\">Complaint made against internet <span class=\"searchmatch\">provider</span> iHug upheld</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_mobile_provider_begins_TV-on-phone_trial\" title=\"UK mobile provider begins TV-on-phone trial\">UK mobile <span class=\"searchmatch\">provider</span> begins TV-on-phone trial</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/FCC_requires_VoIP_providers_to_have_911_service\" title=\"FCC requires VoIP providers to have 911 service\">FCC requires VoIP <span class=\"searchmatch\">providers</span> to have 911 service</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_satellite_radio_provider_Sirius_unveils_portable_player\" title=\"US satellite radio provider Sirius unveils portable player\">US satellite radio <span class=\"searchmatch\">provider</span> Sirius unveils portable player</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Vodafone_New_Zealand_buys_Internet_provider_ihug\" title=\"Vodafone New Zealand buys Internet provider ihug\">Vodafone New Zealand buys Internet <span class=\"searchmatch\">provider</span> ihug</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_ISPs_restrict_access_to_Wikipedia_amid_child_pornography_allegations\" title=\"British ISPs restrict access to Wikipedia amid child pornography allegations\">British ISPs restrict access to Wikipedia amid child pornography allegations</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Major_ISP_Level_3_experiences_downtime\" title=\"Major ISP Level 3 experiences downtime\">Major ISP Level 3 experiences downtime</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Arabsat_puts_Arabic_news_channel_back_on_the_air\" title=\"Arabsat puts Arabic news channel back on the air\">Arabsat puts Arabic news channel back on the air</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/IWF_reverses_censorship_of_Wikipedia\" title=\"IWF reverses censorship of Wikipedia\">IWF reverses censorship of Wikipedia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/California_passes_law_banning_gay-to-straight_therapy\" title=\"California passes law banning gay-to-straight therapy\">California passes law banning gay-to-straight therapy</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Orleans_DirectNIC_Offices,_%27Outpost_Crystal%27_visited_by_82nd_Airborne\" title=\"New Orleans DirectNIC Offices, &#39;Outpost Crystal&#39; visited by 82nd Airborne\">New Orleans DirectNIC Offices, &#39;Outpost Crystal&#39; visited by 82nd Airborne</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/VoIP_penetrates_emergency_calling_infrastructure\" title=\"VoIP penetrates emergency calling infrastructure\">VoIP penetrates emergency calling infrastructure</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/FCC_extends_911_deadline_for_VoIP\" title=\"FCC extends 911 deadline for VoIP\">FCC extends 911 deadline for VoIP</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Orcon_New_Zealand_to_provide_television_via_Internet\" title=\"Orcon New Zealand to provide television via Internet\">Orcon New Zealand to provide television via Internet</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/XM_and_Sirius_submit_FCC_transfer_request\" title=\"XM and Sirius submit FCC transfer request\">XM and Sirius submit FCC transfer request</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sprint/RealNetworks_to_provide_cell_phone_Internet_radio_and_podcasts_in_US\" title=\"Sprint/RealNetworks to provide cell phone Internet radio and podcasts in US\">Sprint/RealNetworks to provide cell phone Internet radio and podcasts in US</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Employees_of_Mumbai%27s_bus_service_BEST_announce_indefinite_strike\" title=\"Employees of Mumbai&#39;s bus service BEST announce indefinite strike\">Employees of Mumbai&#39;s bus service BEST announce indefinite strike</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/EBay_may_acquire_VoIP_firm_Skype\" title=\"EBay may acquire VoIP firm Skype\">EBay may acquire VoIP firm Skype</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Texas_baby_removed_from_life_support_against_mother%27s_wishes\" title=\"Texas baby removed from life support against mother&#39;s wishes\">Texas baby removed from life support against mother&#39;s wishes</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Lycos_launches_screensaver_to_increase_spammers%27_bills\" title=\"Lycos launches screensaver to increase spammers&#39; bills\">Lycos launches screensaver to increase spammers&#39; bills</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "book" : [],
+   "micro-www" : {
+      "provider" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Provider' may refer to:\n\n*\"Provider,\" a song by N*E*R*D from their 2001 album In Search Of... *Providers,\na Danish music production duo made up of Jeppe Federspiel and Rasmus Stabell\n*\"Provider\" (''Angel''), a 2002 episode of the television series Angel *Provider\nmodel, a design pattern originally developed by Microsoft for use in the .NET\nframework *Internet service provider, a business or organization that offers\naccess to the internet and related services *C-123 Provider, an American\nmilitary transport aircraft *Health care provider, an individual or institution\nthat provides health care services *\"Provider,\" a song by Days of the New from\ntheir 1999 album [[Days of the New II|Days of a New]]\n* A prostitute\n* A supplier\n",
+      "title" : "provider",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Providers",
+      "1: Provider_model",
+      "1: Internet_service_provider",
+      "1: C-123_Provider",
+      "1: Health_care_provider",
+      "1: Prostitute"
+   ]
+}

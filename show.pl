@@ -11,7 +11,7 @@ use AI::Classifier::Text::Analyzer;
 use Statistics::Basic qw(:all);
 use List::Util qw(min max);
 
-our $PATH = shift || "." ;
+our $PATH = shift @ARGV or die("Where are the files -d ");
 our $master = {};
 our $memd = new Cache::Memcached::Fast({
 	 servers => [ { address => 'localhost:11211', weight => 2.5 }],
@@ -28,7 +28,7 @@ our $memd = new Cache::Memcached::Fast({
 
 sub init { 
 	
-	$PATH = shift || "." ;
+	
 	print `cd   $PATH`;
 	
 	$master = $memd->get("master");
