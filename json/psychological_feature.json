@@ -1,7 +1,4 @@
 {
-   "micrownet" : [
-      "psychological_feature"
-   ],
    "google" : [
       "/url?q=http://www.wordreference.com/definition/psychological%2Bfeature&sa=U&ei=S1PYUcfCCsPOtQb6jIHIDQ&ved=0CBoQFjAA&usg=AFQjCNEyzorREpfKlEfB354rhufFp4PqnQ",
       "/url?q=http://onelook.com/%3Flang%3Dall%26w%3Dpsychological_feature%26refclue%3Dmental%2Bprominence%26loc%3Dresrd&sa=U&ei=S1PYUcfCCsPOtQb6jIHIDQ&ved=0CB0QFjAB&usg=AFQjCNEIsv3E7_-Hw7pu8wIF9KH_ycy2ww",
@@ -26,6 +23,9 @@
       "/url?q=http://www.iciba.com/psychological_feature&sa=U&ei=S1PYUcfCCsPOtQb6jIHIDQ&ved=0CFQQFjAU&usg=AFQjCNFyqMb0c79wCq7Y5QEehfjU-dUHPg",
       "/url?q=http://turing.bard.edu/~thomas/AAC/areasEx.txt&sa=U&ei=S1PYUcfCCsPOtQb6jIHIDQ&ved=0CFcQFjAV&usg=AFQjCNHNz44tX2fOjp_GJHBz2qEeNRK1LA",
       "/url?q=http://www.socbay.com/dic/search/anh-viet/psychological_feature&sa=U&ei=S1PYUcfCCsPOtQb6jIHIDQ&ved=0CFoQFjAW&usg=AFQjCNFVl1PuFiTziQT45p3VH5QIklkw4A"
+   ],
+   "micrownet" : [
+      "psychological_feature"
    ],
    "micro" : [
       "abstract_entity",

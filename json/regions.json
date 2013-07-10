@@ -78,11 +78,19 @@
       "the_pits",
       "transylvania"
    ],
-   "Lists" : [
-      "List_of_Church_of_England_dioceses",
-      "List_of_the_Roman_Catholic_dioceses_of_the_United_States",
-      "List_of_Quebec_regions",
-      "List_of_traditional_regions_of_Slovakia"
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Region_(disambiguation)",
+      "HASH(0x5ee6c48)",
+      "Wikipedia",
+      "Region",
+      "http://www.merriam-webster.com/dictionary/region",
+      "region definition: an administrative area, division, or district; '''especially'''.",
+      "Merriam-Webster",
+      "HASH(0x6134eb8)",
+      "\n<a href=\"http://duckduckgo.com/Regional_airline\">Regional airline</a>, any airline that services a limited area, or any of several specific regional airlines, including",
+      "\n<a href=\"http://duckduckgo.com/DVD_region_code\">DVD region code</a> - DVD region codes are a digital rights management technique designed to allow film distributors to control aspects of a release, including content, release date, and price, according to the region.",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Region\">Region</a> - Region is most commonly a term used in terrestrial sciences and astrophysics."
    ],
    "common" : {
       "milestones" : [
@@ -109,19 +117,11 @@
          []
       ]
    },
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Region_(disambiguation)",
-      "HASH(0x5ee6c48)",
-      "Wikipedia",
-      "Region",
-      "http://www.merriam-webster.com/dictionary/region",
-      "region definition: an administrative area, division, or district; '''especially'''.",
-      "Merriam-Webster",
-      "HASH(0x6134eb8)",
-      "\n<a href=\"http://duckduckgo.com/Regional_airline\">Regional airline</a>, any airline that services a limited area, or any of several specific regional airlines, including",
-      "\n<a href=\"http://duckduckgo.com/DVD_region_code\">DVD region code</a> - DVD region codes are a digital rights management technique designed to allow film distributors to control aspects of a release, including content, release date, and price, according to the region.",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Region\">Region</a> - Region is most commonly a term used in terrestrial sciences and astrophysics."
+   "Lists" : [
+      "List_of_Church_of_England_dioceses",
+      "List_of_the_Roman_Catholic_dioceses_of_the_United_States",
+      "List_of_Quebec_regions",
+      "List_of_traditional_regions_of_Slovakia"
    ],
    "micro-www-search" : [
       "regions\n>http\nhttp://water.usgs.gov/GIS/regions.html\n\n>pdf\nhttp://ftp-fc.sc.egov.usda.gov/NCGC/products/watershed/hu-standards.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/World-map-2004-cia-factbook-large-1.7m-whitespace-removed.jpg/390px-World-map-2004-cia-factbook-large-1.7m-whitespace-removed.jpg\n\n",
@@ -131,6 +131,7 @@
       "Regions_of_Belgium\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/7/7b/Nl-Vlaamse_Gemeenschap.ogg\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Belgium_provinces_regions_striped.png/268px-Belgium_provinces_regions_striped.png\n\n>media\nhttp://upload.wikimedia.org/wikipedia/commons/7/7b/Nl-Vlaamse_Gemeenschap.ogg\n"
    ],
    "created" : 1373457610,
+   "book" : [],
    "micro-www" : {
       "regions" : [
          "regions",
@@ -141,7 +142,6 @@
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [
          "Geography",

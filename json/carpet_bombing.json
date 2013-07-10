@@ -28,10 +28,7 @@
       "onslaught",
       "bombardment"
    ],
-   "duck" : [
-      "HASH(0x5cd8b38)",
-      "HASH(0x5cd3248)"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scores_killed_in_twin_Baghdad_marketplace_attacks\" title=\"Scores killed in twin Baghdad marketplace attacks\">Scores killed in twin Baghdad marketplace attacks</a>",
@@ -44,15 +41,18 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "HASH(0x5cd8b38)",
+      "HASH(0x5cd3248)"
+   ],
    "micro-www-search" : [],
    "created" : 1373455397,
-   "book" : [],
    "micro-www" : {
       "carpet_bombing" : [
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Aerial bombing"

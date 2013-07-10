@@ -139,10 +139,7 @@
       "printer",
       "soul"
    ],
-   "duck" : [
-      "HASH(0x4e2e3c8)",
-      "HASH(0x5ae03b8)"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [],
       "image" : [
@@ -150,14 +147,17 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "HASH(0x4e2e3c8)",
+      "HASH(0x5ae03b8)"
+   ],
    "micro-www-search" : [],
    "created" : 1373460994,
-   "book" : [],
    "micro-www" : {
       "skilled_workman" : [
          ""
       ]
    },
+   "book" : [],
    "micro-relation" : []
 }

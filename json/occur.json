@@ -15,7 +15,19 @@
       "occur",
       "happen"
    ],
-   "Lists" : [],
+   "duck" : [
+      "To be found to exist or appear: Copper deposits occur in the region.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=occur",
+      "HASH(0x50b3890)",
+      "The Free Dictionary",
+      "occur",
+      "http://www.merriam-webster.com/dictionary/occur",
+      "occur definition: to be found or met with.",
+      "Merriam-Webster",
+      "HASH(0x520bf48)",
+      "To be found to exist or appear: Copper deposits occur in the region.",
+      "A"
+   ],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/First_female_boxing_death_occurs_in_US_sanctioned_match\" title=\"First female boxing death occurs in US sanctioned match\">First female boxing death <span class=\"searchmatch\">occurs</span> in US sanctioned match</a>",
@@ -49,25 +61,14 @@
          []
       ]
    },
-   "duck" : [
-      "To be found to exist or appear: Copper deposits occur in the region.",
-      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=occur",
-      "HASH(0x50b3890)",
-      "The Free Dictionary",
-      "occur",
-      "http://www.merriam-webster.com/dictionary/occur",
-      "occur definition: to be found or met with.",
-      "Merriam-Webster",
-      "HASH(0x520bf48)",
-      "To be found to exist or appear: Copper deposits occur in the region.",
-      "A"
-   ],
+   "Lists" : [],
    "micro-www-search" : [
       "occurrence\n>http\nhttp://en.m.wikipedia.org/wiki/Type%E2%80%93token_distinction#Occurrences\nhttp://en.wikipedia.org/w/index.php?title=Type-token_distinction&oldid=542787586#Occurrences\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/a/ae/Flock_of_birds_at_Rome.ogg\n\n>media\nhttp://upload.wikimedia.org/wikipedia/commons/a/ae/Flock_of_birds_at_Rome.ogg\n\n",
       "Occurrent_belief\n>http\nhttp://en.m.wikipedia.org/wiki/Dispositional_and_occurrent_belief\nhttp://en.wikipedia.org/w/index.php?title=Dispositional_and_occurrent_belief&oldid=491641600\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n\n",
       "Occurrence\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/6/67/MPG-69_zdj.nr_3.jpg/180px-MPG-69_zdj.nr_3.jpg\n"
    ],
    "created" : 1373459867,
+   "book" : [],
    "micro-www" : {
       "occur" : [
          "occurrence",
@@ -76,6 +77,5 @@
          ""
       ]
    },
-   "book" : [],
    "micro-relation" : []
 }

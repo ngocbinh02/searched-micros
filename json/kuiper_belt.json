@@ -14,9 +14,10 @@
       "physical_object",
       "part"
    ],
-   "duck" : [
-      "HASH(0x51c1488)",
-      "HASH(0x51c01f8)"
+   "Lists" : [
+      "List_of_possible_dwarf_planets",
+      "List_of_possible_dwarf_planets",
+      "List_of_trans-Neptunian_objects"
    ],
    "common" : {
       "milestones" : [
@@ -30,22 +31,21 @@
          []
       ]
    },
-   "Lists" : [
-      "List_of_possible_dwarf_planets",
-      "List_of_possible_dwarf_planets",
-      "List_of_trans-Neptunian_objects"
+   "duck" : [
+      "HASH(0x51c1488)",
+      "HASH(0x51c01f8)"
    ],
    "micro-www-search" : [
       "Kuiper_belt\n>pdf\nhttp://occult.mit.edu/_assets/documents/publications/Elliot2005AJ129.1117.pdf\nhttp://web.archive.org/web/20070621182808http:///www.ifa.hawaii.edu/~jewitt/papers/50000/Quaoar.pdf\nhttp://web.archive.org/web/20070621182809http:///www.es.ucsc.edu/~cagnor/papers_pdf/2006AgnorHamilton.pdf\nhttp://web.archive.org/web/20070925203400http:///www.ifa.hawaii.edu/faculty/jewitt/papers/2006/DJ06.pdf\nhttp://web.gps.caltech.edu/~mbrown/papers/ps/gab.pdf\nhttp://www.astro.umd.edu/~hamilton/research/reprints/AgHam06.pdf\nhttp://www.astro.umd.edu/~hamilton/research/reprints/AgHam06.pdf\nhttp://www.es.ucsc.edu/~cagnor/papers_pdf/2006AgnorHamilton.pdf\nhttp://www.gps.caltech.edu/~mbrown/papers/ps/bernstein.pdf\nhttp://www.gps.caltech.edu/~mbrown/papers/ps/kbodeep.pdf\nhttp://www.gsmt.noao.edu/gsmt_swg/SWG_Apr03/The_Kuiper_Belt.pdf\nhttp://www.iau.org/static/resolutions/Resolution_GA26-5-6.pdf\nhttp://www.obs-nice.fr/morby/papers/6166a.pdf\nhttp://www.pnas.org/cgi/reprint/51/5/711.pdf\nhttp://www2.ess.ucla.edu/~jewitt/papers/2006/DJ06.pdf\nhttp://www2.ess.ucla.edu/~jewitt/papers/50000/Quaoar.pdf\nhttp://www.ifa.hawaii.edu/faculty/jewitt/papers/2006/DJ06.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/15px-Cscr-featured.svg.png\n"
    ],
    "created" : 1373461019,
-   "book" : [],
    "micro-www" : {
       "kuiper_belt" : [
          "Kuiper_belt",
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Kuiper belt objects|",

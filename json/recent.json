@@ -18,18 +18,8 @@
       "abstract_entity",
       "time"
    ],
-   "duck" : [
-      "Of, belonging to, or occurring at a time immediately before the present.",
-      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=recent",
-      "HASH(0x4d94928)",
-      "The Free Dictionary",
-      "recent",
-      "http://www.merriam-webster.com/dictionary/recent",
-      "recent definition: having lately come into existence.",
-      "Merriam-Webster",
-      "HASH(0x5757c88)",
-      "Of, belonging to, or occurring at a time immediately before the present.",
-      "A"
+   "Lists" : [
+      "List_of_oldest_continuously_inhabited_cities"
    ],
    "common" : {
       "milestones" : [
@@ -55,8 +45,18 @@
          []
       ]
    },
-   "Lists" : [
-      "List_of_oldest_continuously_inhabited_cities"
+   "duck" : [
+      "Of, belonging to, or occurring at a time immediately before the present.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=recent",
+      "HASH(0x4d94928)",
+      "The Free Dictionary",
+      "recent",
+      "http://www.merriam-webster.com/dictionary/recent",
+      "recent definition: having lately come into existence.",
+      "Merriam-Webster",
+      "HASH(0x5757c88)",
+      "Of, belonging to, or occurring at a time immediately before the present.",
+      "A"
    ],
    "micro-www-search" : [
       "recent\n>pdf\nhttp://www.eos.ubc.ca/research/glaciology/research/Publications/ClarkeLeveringtonTellerDyke(QSR-2004).pdf\nhttp://www.geo.arizona.edu/~reiners/blackmat.pdf\nhttp://www.stratigraphy.org/ics%20chart/ChronostratChart2012.pdf\nhttp://www.stratigraphy.org/ics%20chart/ChronostratChart2012.pdf\nhttp://www.geo.arizona.edu/~reiners/blackmat.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n\n",
@@ -64,7 +64,6 @@
       "Recent_African_origin_of_modern_humans\n>pdf\nhttp://anthropology.utoronto.ca/Faculty/Begun/DSA10%20Begun.pdf\nhttp://comm.colorado.edu/~jacksonj/research/coon.pdf\nhttp://muse.jhu.edu/journals/human_biology/v075/75.4long.pdf\nhttp://muse.jhu.edu/journals/human_biology/v075/75.4long.pdf\nhttp://www.eva.mpg.de/evolution/staff/c_smithpdf/Smith_et_al_Therma_ageJHE03.pdf\nhttp://www.human-evol.cam.ac.uk/Members/Lahr/pubs/AHG-65-01.pdf\nhttp://comm.colorado.edu/~jacksonj/research/coon.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png\n"
    ],
    "created" : 1373460556,
-   "book" : [],
    "micro-www" : {
       "recent" : [
          "recent",
@@ -73,6 +72,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Holocene|",

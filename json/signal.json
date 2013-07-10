@@ -92,20 +92,7 @@
       "signalize",
       "entity"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Signal",
-      "\n<a href=\"http://duckduckgo.com/Distress_signal\">Distress signal</a> - A distress signal is an internationally recognized means for obtaining help.",
-      "HASH(0x50b1f98)",
-      "Wikipedia",
-      "Signal",
-      "http://www.merriam-webster.com/dictionary/signal",
-      "signal definition: sign, indication.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Signalling_(economics)\">Signalling (economics)</a> in economic theory",
-      "HASH(0x50a4cc8)",
-      "\n<a href=\"http://duckduckgo.com/International_maritime_signal_flags\">International maritime signal flags</a>, using the <a href=\"http://duckduckgo.com/?q=International Code of Signals\">International Code of Signals</a>",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Signals_indicate_Texas_economy_continues_to_improve\" title=\"Signals indicate Texas economy continues to improve\"><span class=\"searchmatch\">Signals</span> indicate Texas economy continues to improve</a>",
@@ -134,7 +121,20 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Signal",
+      "\n<a href=\"http://duckduckgo.com/Distress_signal\">Distress signal</a> - A distress signal is an internationally recognized means for obtaining help.",
+      "HASH(0x50b1f98)",
+      "Wikipedia",
+      "Signal",
+      "http://www.merriam-webster.com/dictionary/signal",
+      "signal definition: sign, indication.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Signalling_(economics)\">Signalling (economics)</a> in economic theory",
+      "HASH(0x50a4cc8)",
+      "\n<a href=\"http://duckduckgo.com/International_maritime_signal_flags\">International maritime signal flags</a>, using the <a href=\"http://duckduckgo.com/?q=International Code of Signals\">International Code of Signals</a>",
+      "D"
+   ],
    "micro-www-search" : [
       "signals_intelligence\n>http\nhttp://en.m.wikipedia.org/wiki/Signals_intelligence\nhttp://en.wikipedia.org/w/index.php?title=Signals_intelligence&oldid=550423558\n\n>pdf\nhttp://fykse.dnsalias.com/radio/dok/german_sigint.pdf\nhttp://web.archive.org/web/20070901131123http:///www.nor.com.au/community/sarc/acp124~1.pdf\nhttp://www.darpa.mil/DARPATech2000/Presentations/tto_pdf/6KesslerDDBB&WRev1.pdf\nhttp://www.dtic.mil/doctrine/jel/new_pubs/jp1_02.pdf\nhttp://www.nor.com.au/community/sarc/acp124~1.pdf\nhttp://www.trft.org/TRFTPix/spies9eR2006.pdf\nhttp://www.tscmplus.com/sigintarchmsh.pdf\nhttp://www.tscmplus.com/sigintarchmsh.pdf\nhttp://www.trft.org/TRFTPix/spies9eR2006.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Menwith-hill-radomes.jpg/220px-Menwith-hill-radomes.jpg\n\n",
       "signal\n>http\nhttp://en.m.wikipedia.org/wiki/Signal\nhttp://en.wikipedia.org/w/index.php?title=Signal&oldid=540464130\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
@@ -172,7 +172,6 @@
       "SIGNAL_(programming_language)\n>http\nhttp://en.m.wikipedia.org/wiki/SIGNAL_(programming_language)\nhttp://en.wikipedia.org/w/index.php?title=SIGNAL_(programming_language)&oldid=536939261\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png\n"
    ],
    "created" : 1373460925,
-   "book" : [],
    "micro-www" : {
       "signal" : [
          "signals_intelligence",
@@ -212,6 +211,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Signal', 'signals', 'signaling', or 'signalling' may refer to:\n",

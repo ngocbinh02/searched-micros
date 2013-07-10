@@ -43,20 +43,7 @@
       "product_development",
       "progress"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Development",
-      "\n<a href=\"http://duckduckgo.com/Sustainable_development\">Sustainable development</a>, a pattern of resources use, that aims to meet human needs while preserving the environment",
-      "HASH(0x6497588)",
-      "Wikipedia",
-      "Development",
-      "\n<a href=\"http://duckduckgo.com/Human_Development_Index\">Human Development Index</a>,  used to rank countries by level of \"human development\"",
-      "http://www.merriam-webster.com/dictionary/development",
-      "development definition: the act, process, or result of developing.",
-      "Merriam-Webster",
-      "HASH(0x65a7d98)",
-      "\n<a href=\"http://duckduckgo.com/Child_development\">Child development</a>, the biological, psychological, and emotional changes that occur in human beings between birth and the end of adolescence",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sunshine_Coast_Council_ratifies_McDonald%27s_development_rejection\" title=\"Sunshine Coast Council ratifies McDonald&#39;s development rejection\">Sunshine Coast Council ratifies McDonald&#39;s <span class=\"searchmatch\">development</span> rejection</a>",
@@ -85,7 +72,20 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Development",
+      "\n<a href=\"http://duckduckgo.com/Sustainable_development\">Sustainable development</a>, a pattern of resources use, that aims to meet human needs while preserving the environment",
+      "HASH(0x6497588)",
+      "Wikipedia",
+      "Development",
+      "\n<a href=\"http://duckduckgo.com/Human_Development_Index\">Human Development Index</a>,  used to rank countries by level of \"human development\"",
+      "http://www.merriam-webster.com/dictionary/development",
+      "development definition: the act, process, or result of developing.",
+      "Merriam-Webster",
+      "HASH(0x65a7d98)",
+      "\n<a href=\"http://duckduckgo.com/Child_development\">Child development</a>, the biological, psychological, and emotional changes that occur in human beings between birth and the end of adolescence",
+      "D"
+   ],
    "micro-www-search" : [
       "developmental_biology\n>http\nhttp://en.wikipedia.org/w/index.php?title=Developmental_biology&oldid=551768536\n\n>pdf\nhttp://www.lawrencegaltman.com/Naugbio/Bio212/Lecture/UrinaryBladder%20Engineering.pdf\nhttp://www.lawrencegaltman.com/Naugbio/Bio212/Lecture/UrinaryBladder%20Engineering.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n\n",
       "developmental\n>http\nhttp://en.m.wikipedia.org/wiki/Human_development_(biology)\nhttp://en.wikipedia.org/w/index.php?title=Human_development_(biology)&oldid=542469963\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n\n",
@@ -110,7 +110,6 @@
       "Development_(album)\n>image\nhttp://upload.wikimedia.org/wikipedia/en/9/93/Nonpoint_Development.jpg\n"
    ],
    "created" : 1373457282,
-   "book" : [],
    "micro-www" : {
       "development" : [
          "developmental_biology",
@@ -137,6 +136,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Development' may refer to:\n",

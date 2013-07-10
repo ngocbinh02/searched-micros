@@ -28,23 +28,7 @@
       "french_foreign_office"
    ],
    "micro" : [],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Foreign",
-      "\n<a href=\"http://duckduckgo.com/Foreign_corporation\">Foreign corporation</a>, a U.S. concept for a corporation that can do business outside its jurisdiction",
-      "\n<a href=\"http://duckduckgo.com/Foreign_policy\">Foreign policy</a>, how a country interacts with other countries of the world",
-      "HASH(0x6497120)",
-      "Wikipedia",
-      "Foreign",
-      "http://www.merriam-webster.com/dictionary/foreign",
-      "\n<a href=\"http://duckduckgo.com/Foreign_Policy\">Foreign Policy</a>, an American magazine",
-      "foreign definition: situated outside a place or country; '''especially'''.",
-      "Merriam-Webster",
-      "HASH(0x65165a0)",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Foreign_language\">Foreign language</a>, a language not spoken by the people of a certain place",
-      "\n<a href=\"http://duckduckgo.com/Foreign_key\">Foreign key</a>, a constraint in a relational database",
-      "\n<a href=\"http://duckduckgo.com/Foreign_accent_syndrome\">Foreign accent syndrome</a>, a rare side effect of severe brain injury"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Palestinian_Foreign_Minister:_No_peace_with_Israel\" title=\"Palestinian Foreign Minister: No peace with Israel\">Palestinian <span class=\"searchmatch\">Foreign</span> Minister: No peace with Israel</a>",
@@ -73,13 +57,28 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Foreign",
+      "\n<a href=\"http://duckduckgo.com/Foreign_corporation\">Foreign corporation</a>, a U.S. concept for a corporation that can do business outside its jurisdiction",
+      "\n<a href=\"http://duckduckgo.com/Foreign_policy\">Foreign policy</a>, how a country interacts with other countries of the world",
+      "HASH(0x6497120)",
+      "Wikipedia",
+      "Foreign",
+      "http://www.merriam-webster.com/dictionary/foreign",
+      "\n<a href=\"http://duckduckgo.com/Foreign_Policy\">Foreign Policy</a>, an American magazine",
+      "foreign definition: situated outside a place or country; '''especially'''.",
+      "Merriam-Webster",
+      "HASH(0x65165a0)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Foreign_language\">Foreign language</a>, a language not spoken by the people of a certain place",
+      "\n<a href=\"http://duckduckgo.com/Foreign_key\">Foreign key</a>, a constraint in a relational database",
+      "\n<a href=\"http://duckduckgo.com/Foreign_accent_syndrome\">Foreign accent syndrome</a>, a rare side effect of severe brain injury"
+   ],
    "micro-www-search" : [
       "Foreign_exchange_controls\n>pdf\nhttp://www.kpmg.com.pk/download/Investments/Chapter%206%20-%20Foreign%20Exchange%20Controls.pdf\nhttp://www.kpmg.com.pk/download/Investments/Chapter%206%20-%20Foreign%20Exchange%20Controls.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/2/29/ThreeCoins.svg/40px-ThreeCoins.svg.png\n\n",
       "Foreign_direct_investment\n>pdf\nhttp://rbidocs.rbi.org.in/rdocs/notification/PDFs/40569a.pdf\nhttp://rbidocs.rbi.org.in/rdocs/notification/PDFs/40569a.pdf\nhttp://www.frbsf.org/publications/economics/papers/2008/wp08-27bk.pdf\nhttp://www.frbsf.org/publications/economics/papers/2008/wp08-27bk.pdf\n"
    ],
    "created" : 1373457377,
-   "book" : [],
    "micro-www" : {
       "foreign" : [
          "Foreign_exchange_controls",
@@ -87,6 +86,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Foreign' may refer to:\n\n*Foreign corporation, a U.S. concept for a corporation that can do business\noutside its jurisdiction *Foreign key, a constraint in a relational database\n*Foreign language, a language not spoken by the people of a certain place\n*Foreign policy, how a country interacts with other countries of the world\n*Foreign film, also known as world cinema, are films and film industries of non-\nEnglish speaking countries *Foreign accent syndrome, a rare side effect of\nsevere brain injury *Foreign Policy, an American magazine *Non-self, ** An\nexogenous antigen that stimulates an immune response ** A concept in Buddhist\nphilosophy, the \"non-self\" or \"absence of separate self\"\n",

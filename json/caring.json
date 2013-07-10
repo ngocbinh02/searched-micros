@@ -1,4 +1,7 @@
 {
+   "micrownet" : [
+      "caring"
+   ],
    "google" : [
       "/url?q=http://www.caringbridge.org/&sa=U&ei=-yHdUZTeI8TBO_GjgPAI&ved=0CBgQFjAA&usg=AFQjCNHwyehDvwmLEOWDIzjuHX-FagJXXw",
       "/url?q=http://www.thefreedictionary.com/caring&sa=U&ei=-yHdUZTeI8TBO_GjgPAI&ved=0CCEQFjAB&usg=AFQjCNHynqXFE0X--WfFm-25r8qMAqJ2bQ",
@@ -11,9 +14,6 @@
       "/url?q=https://twitter.com/Caring&sa=U&ei=-yHdUZTeI8TBO_GjgPAI&ved=0CEkQFjAM&usg=AFQjCNGF0NOuMs0BtyaZgzWQxnFjzTl4jQ",
       "/url?q=http://en.wiktionary.org/wiki/caring&sa=U&ei=-yHdUZTeI8TBO_GjgPAI&ved=0CEwQFjAN&usg=AFQjCNEls26m8H_RL2sGrzatd0ReOpjNjA",
       "/url?q=http://www.urbandictionary.com/define.php%3Fterm%3Dcaring&sa=U&ei=-yHdUZTeI8TBO_GjgPAI&ved=0CFAQFjAO&usg=AFQjCNFXO8T3nhRH5snaYTzw9brZOTZcmg"
-   ],
-   "micrownet" : [
-      "caring"
    ],
    "micro" : [
       "caring",
@@ -36,7 +36,13 @@
       "abstraction",
       "abstract_entity"
    ],
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Duty_of_care\">Duty of care</a>, a legal obligation in tort law",
+      "Care",
+      "\n<a href=\"http://duckduckgo.com/Foster_care\">Foster care</a>, a system by which a certified, stand-in \"parent(s)\" cares for minor children or young people",
+      "\n<a href=\"http://duckduckgo.com/Health_care\">Health care</a>, the treatment and management of illness, and the preservation of health through services offered",
+      "A burdened state of mind, as that arising from heavy responsibilities; worry."
+   ],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ayatollah_Emami-Kashani_calls_Americans_%27murderers%27\" title=\"Ayatollah Emami-Kashani calls Americans &#39;murderers&#39;\">Ayatollah Emami-Kashani calls Americans &#39;murderers&#39;</a>",
@@ -65,21 +71,15 @@
          []
       ]
    },
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Duty_of_care\">Duty of care</a>, a legal obligation in tort law",
-      "Care",
-      "\n<a href=\"http://duckduckgo.com/Foster_care\">Foster care</a>, a system by which a certified, stand-in \"parent(s)\" cares for minor children or young people",
-      "\n<a href=\"http://duckduckgo.com/Health_care\">Health care</a>, the treatment and management of illness, and the preservation of health through services offered",
-      "A burdened state of mind, as that arising from heavy responsibilities; worry."
-   ],
+   "Lists" : [],
    "micro-www-search" : [],
    "created" : 1373453800,
+   "book" : [],
    "micro-www" : {
       "caring" : [
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Care' may refer to:\n",

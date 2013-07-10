@@ -1,13 +1,13 @@
 {
+   "micrownet" : [
+      "denier"
+   ],
    "google" : [
       "/url?q=http://en.wikipedia.org/wiki/Denier&sa=U&ei=8nrYUZSGBcmctAaM-IFQ&ved=0CBgQFjAA&usg=AFQjCNHI6nNguV5_wVl5ReOX0wx6WA0eug",
       "/url?q=http://en.wikipedia.org/wiki/Units_of_textile_measurement&sa=U&ei=8nrYUZSGBcmctAaM-IFQ&ved=0CCAQFjAB&usg=AFQjCNHtMO8cjJK1zamBNdBjuPDYLA8gsw",
       "/url?q=http://www.thefreedictionary.com/denier&sa=U&ei=8nrYUZSGBcmctAaM-IFQ&ved=0CCQQFjAC&usg=AFQjCNGC0QvUeurmqXjQZHOgPcHjC_XYhg",
       "/url?q=http://www.mytights.com/hosieryadvice-denier-information/&sa=U&ei=8nrYUZSGBcmctAaM-IFQ&ved=0CCgQFjAD&usg=AFQjCNESeQZ--LPaivZuv0YHEs5YXc1t0w",
       "/url?q=http://www.merriam-webster.com/dictionary/denier&sa=U&ei=8nrYUZSGBcmctAaM-IFQ&ved=0CCsQFjAE&usg=AFQjCNFCXI4BJm83DCeqVMZy1xhJBeVjWA"
-   ],
-   "micrownet" : [
-      "denier"
    ],
    "duckduckgo" : {
       "urls" : [

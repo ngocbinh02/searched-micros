@@ -25,6 +25,19 @@
       "fellow",
       "ace"
    ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/National_Rugby_Competition_to_kick_off_in_Australia\" title=\"National Rugby Competition to kick off in Australia\">National Rugby Competition to kick off in Australia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Former_Australian_defence_chief%27s_son_to_be_discharged_from_the_Army\" title=\"Former Australian defence chief&#39;s son to be discharged from the Army\">Former Australian defence chief&#39;s son to be discharged from the Army</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Flooding_hits_NSW_Hunter_Region\" title=\"Flooding hits NSW Hunter Region\">Flooding hits NSW Hunter Region</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sprint_Nextel_customer_service_rep._harasses_client;_Sprint_cancels_his_account\" title=\"Sprint Nextel customer service rep. harasses client; Sprint cancels his account\">Sprint Nextel customer service rep. harasses client; Sprint cancels his account</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
    "duck" : [
       "https://en.wikipedia.org/wiki/Singleton",
       "\n<a href=\"http://duckduckgo.com/Singleton_variable\">Singleton variable</a>, a variable in computer programming that is referred to only once",
@@ -45,27 +58,14 @@
       "D",
       "\n<a href=\"http://duckduckgo.com/Singleton_(mathematics)\">Singleton (mathematics)</a>, a set with exactly one element"
    ],
-   "common" : {
-      "milestones" : [
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/National_Rugby_Competition_to_kick_off_in_Australia\" title=\"National Rugby Competition to kick off in Australia\">National Rugby Competition to kick off in Australia</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Former_Australian_defence_chief%27s_son_to_be_discharged_from_the_Army\" title=\"Former Australian defence chief&#39;s son to be discharged from the Army\">Former Australian defence chief&#39;s son to be discharged from the Army</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Flooding_hits_NSW_Hunter_Region\" title=\"Flooding hits NSW Hunter Region\">Flooding hits NSW Hunter Region</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sprint_Nextel_customer_service_rep._harasses_client;_Sprint_cancels_his_account\" title=\"Sprint Nextel customer service rep. harasses client; Sprint cancels his account\">Sprint Nextel customer service rep. harasses client; Sprint cancels his account</a>"
-      ],
-      "image" : [
-         [],
-         []
-      ]
-   },
-   "Lists" : [],
    "micro-www-search" : [],
    "created" : 1373455870,
-   "book" : [],
    "micro-www" : {
       "singleton" : [
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Singleton' may refer to\n* Singleton (mathematics), a set with exactly one element\n* Singleton (global governance), a single decision-maker at the highest level of\n  the world order\n* Singleton pattern, a design pattern used in object-oriented programming to\n  permit no more than one instance of a class\n* Singleton bound, used in coding theory\n* Singleton field, used in conformal field theory\n* Singleton, another name for the Catawba (grape)\n* Singleton variable, a variable in computer programming that is referred\n  to only once\n* A character encoded with one unit in variable-width encoding schemes for\n  computer character sets\n* A person that is not a twin or other multiple birth\n* Singleton (lifestyle), a self-description of individuals without romantic\n  partners, particularly applied to women in their thirties introduced in the\n  novel and film Bridget Jones's Diary\n* \"Singleton\", a short story by Greg Egan\n* An empty tag or self-closing tag in XHTML or XML coding\n* A single card in a suit, as part of a hand in contract bridge\n* In linguistics, a consonant that is not a geminate\n",

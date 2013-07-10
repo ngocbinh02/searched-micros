@@ -1,7 +1,4 @@
 {
-   "micrownet" : [
-      "knowledge_base"
-   ],
    "google" : [
       "/url?q=http://kb.mozillazine.org/&sa=U&ei=1VLYUb6UH4rdtAbL-4D4Cw&ved=0CBsQFjAA&usg=AFQjCNEucotFtfVEH52KDILMzeh-NXJSVA",
       "/url?q=https://en.wikipedia.org/wiki/Knowledge_base&sa=U&ei=1VLYUb6UH4rdtAbL-4D4Cw&ved=0CB8QFjAB&usg=AFQjCNGxUWVoTB80rSzR6kosnsqZA2U1Nw",
@@ -27,6 +24,9 @@
       "/url?q=http://www.aberdeenphoto.com/Knowledge_Base.html&sa=U&ei=1VLYUb6UH4rdtAbL-4D4Cw&ved=0CGcQFjAY&usg=AFQjCNF5c8PCxyyNOumlq1a7O37RaZ4QpQ",
       "/url?q=http://www.barbecuecountry.com/categories/knowledge-base.html%3Fcategory%3D19&sa=U&ei=1VLYUb6UH4rdtAbL-4D4Cw&ved=0CGoQFjAZ&usg=AFQjCNFTgFKAaM0bFsGla1IRog6FZXaYKg",
       "/url?q=http://www.aisquared.com/knowledge_base/&sa=U&ei=1VLYUb6UH4rdtAbL-4D4Cw&ved=0CG0QFjAa&usg=AFQjCNEsdVtlFrxo4i_6KZD4YpM9cWTjGg"
+   ],
+   "micrownet" : [
+      "knowledge_base"
    ],
    "micro" : [
       "noesis",

@@ -1,5 +1,4 @@
 {
-   "micrownet" : [],
    "google" : [
       "/url?q=http://en.wikipedia.org/wiki/Physics&sa=U&ei=khXdUavEKs3iO4SwgbgL&ved=0CCIQFjAA&usg=AFQjCNEURiK1e5evXHrwHBsUkXY9lounDA",
       "/url?q=http://www.physics.org/&sa=U&ei=khXdUavEKs3iO4SwgbgL&ved=0CCsQFjAB&usg=AFQjCNEYHAnXj8vfeFgXtg0hJ3-jUIsrRQ",
@@ -12,6 +11,7 @@
       "/url?q=http://ocw.mit.edu/courses/physics/index.htm&sa=U&ei=khXdUavEKs3iO4SwgbgL&ved=0CEUQFjAI&usg=AFQjCNGEKfE1lxRKqAg2mjx-OsHKGABnyw",
       "/url?q=http://www.physicscentral.com/&sa=U&ei=khXdUavEKs3iO4SwgbgL&ved=0CEgQFjAJ&usg=AFQjCNGgozz0ZjWLhUQFOhRU5ffE0Rsl5A"
    ],
+   "micrownet" : [],
    "micro" : [
       "seidlitz_powder",
       "high-energy_physics",
@@ -91,25 +91,11 @@
       "astronautics",
       "seidlitz_powders"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Fluid_dynamics\">Fluid dynamics</a> - In physics, fluid dynamics is a sub-discipline of fluid mechanics that deals with fluid flow—the natural science of fluids in motion.",
-      "\n<a href=\"http://duckduckgo.com/Mathematical_physics\">Mathematical physics</a> - Mathematical physics refers to development of mathematical methods  for application to problems in physics.",
-      "\n<a href=\"http://duckduckgo.com/Physics\">Physics</a> is the science of matter and its motion.",
-      "\nQuantum physics is known as <a href=\"http://duckduckgo.com/quantum_mechanics\">quantum mechanics</a>.",
-      "\n<a href=\"http://duckduckgo.com/Particle_physics\">Particle physics</a> -  Particle physics is a branch of physics that studies the elementary subatomic constituents of matter and radiation, and their interactions.",
-      "\n<a href=\"http://duckduckgo.com/PhysX\">PhysX</a> for NVIDIA's physics engine for computer games:",
-      "Physics",
-      "\n<a href=\"http://duckduckgo.com/Nobel_Prize_in_Physics\">Nobel Prize in Physics</a> - The Nobel Prize in Physics is awarded once a year by the Royal Swedish Academy of Sciences.",
-      "http://www.merriam-webster.com/dictionary/physics",
-      "physics definition: a science that deals with matter and energy and their interactions.",
-      "\n<a href=\"http://duckduckgo.com/Geophysics\">Geophysics</a> - Geophysics is the physics of the Earth and its environment in space.",
-      "\n<a href=\"http://duckduckgo.com/physical_Review\">Physics (journal)</a>, a scientific journal published by the American  Physical Society",
-      "\n<a href=\"http://duckduckgo.com/Theoretical_physics\">Theoretical physics</a> - Theoretical physics is a branch of physics which employs mathematical models and abstractions of physics to rationalize, explain and predict natural phenomena.",
-      "\n<a href=\"http://duckduckgo.com/Physics_in_medieval_Islam\">Physics in medieval Islam</a> - Physics in medieval Islam is the development of physics in the medieval Islamic world in the history of physics.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Mesoscopic_physics\">Mesoscopic physics</a> - Mesoscopic physics is a  sub-discipline of condensed matter physics which deals with materials of an intermediate length scale.",
-      "\n<a href=\"http://duckduckgo.com/Physics_(Aristotle)\">Physics (Aristotle)</a>, a key text in the philosophy of Aristotle",
-      "\n<a href=\"http://duckduckgo.com/Physics_(band)\">Physics (band)</a>, an American rock music group"
+   "Lists" : [
+      "List_of_elementary_physics_formulae",
+      "List_of_important_publications_in_physics",
+      "List_of_physicists",
+      "List_of_physics_concepts_in_primary_and_secondary_education_curricula"
    ],
    "common" : {
       "milestones" : [],
@@ -351,11 +337,25 @@
          ]
       ]
    },
-   "Lists" : [
-      "List_of_elementary_physics_formulae",
-      "List_of_important_publications_in_physics",
-      "List_of_physicists",
-      "List_of_physics_concepts_in_primary_and_secondary_education_curricula"
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Fluid_dynamics\">Fluid dynamics</a> - In physics, fluid dynamics is a sub-discipline of fluid mechanics that deals with fluid flow—the natural science of fluids in motion.",
+      "\n<a href=\"http://duckduckgo.com/Mathematical_physics\">Mathematical physics</a> - Mathematical physics refers to development of mathematical methods  for application to problems in physics.",
+      "\n<a href=\"http://duckduckgo.com/Physics\">Physics</a> is the science of matter and its motion.",
+      "\nQuantum physics is known as <a href=\"http://duckduckgo.com/quantum_mechanics\">quantum mechanics</a>.",
+      "\n<a href=\"http://duckduckgo.com/Particle_physics\">Particle physics</a> -  Particle physics is a branch of physics that studies the elementary subatomic constituents of matter and radiation, and their interactions.",
+      "\n<a href=\"http://duckduckgo.com/PhysX\">PhysX</a> for NVIDIA's physics engine for computer games:",
+      "Physics",
+      "\n<a href=\"http://duckduckgo.com/Nobel_Prize_in_Physics\">Nobel Prize in Physics</a> - The Nobel Prize in Physics is awarded once a year by the Royal Swedish Academy of Sciences.",
+      "http://www.merriam-webster.com/dictionary/physics",
+      "physics definition: a science that deals with matter and energy and their interactions.",
+      "\n<a href=\"http://duckduckgo.com/Geophysics\">Geophysics</a> - Geophysics is the physics of the Earth and its environment in space.",
+      "\n<a href=\"http://duckduckgo.com/physical_Review\">Physics (journal)</a>, a scientific journal published by the American  Physical Society",
+      "\n<a href=\"http://duckduckgo.com/Theoretical_physics\">Theoretical physics</a> - Theoretical physics is a branch of physics which employs mathematical models and abstractions of physics to rationalize, explain and predict natural phenomena.",
+      "\n<a href=\"http://duckduckgo.com/Physics_in_medieval_Islam\">Physics in medieval Islam</a> - Physics in medieval Islam is the development of physics in the medieval Islamic world in the history of physics.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Mesoscopic_physics\">Mesoscopic physics</a> - Mesoscopic physics is a  sub-discipline of condensed matter physics which deals with materials of an intermediate length scale.",
+      "\n<a href=\"http://duckduckgo.com/Physics_(Aristotle)\">Physics (Aristotle)</a>, a key text in the philosophy of Aristotle",
+      "\n<a href=\"http://duckduckgo.com/Physics_(band)\">Physics (band)</a>, an American rock music group"
    ],
    "micro-www-search" : [
       "physics\n>http\nhttp://en.wikipedia.org/w/index.php?title=Physics&oldid=560756879\nhttp://hyperphysics.phy-astr.gsu.edu/Hbase/hframe.html\nhttp://math.ucr.edu/home/baez/physics/\nhttp://musr.physics.ubc.ca/~jess/hr/skept/\nhttp://nobelprize.org/nobel_prizes/physics/\nhttp://physics.aps.org/\nhttp://physicstoday.org/journals/doc/PHTOAD-ft/vol_54/iss_12/14_1.shtml?bypassSSO=1\nhttp://physicsworld.com/\nhttp://planetphysics.org/\nhttp://scienceworld.wolfram.com/physics/\nhttp://www.archive.org/details/JustinMorganPhysicsLightningTour/\nhttp://www.dmoz.orghttp://Science/Physics/Publicationshttp://\nhttp://www.etymonline.com/index.php?term=physics&allowed_in_frame=0\nhttp://www.nature.com/naturephysics\nhttp://www.physics.org/\nhttp://www.physicscentral.com/\nhttp://www.princeton.edu/physics/people/display_person.xml?netid=pwa&display=faculty\nhttp://www.scholarpedia.org/article/Encyclopedia_of_physics\n\n>pdf\nhttp://www.aps.org/membership/units/upload/unit-yearly-counts12.pdf\nhttp://www.aps.org/membership/units/upload/unit-yearly-counts12.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png\n\n",
@@ -363,7 +363,6 @@
       "Physics\n>http\nhttp://en.m.wikipedia.org/wiki/Physics\nhttp://en.wikipedia.org/w/index.php?title=Physics&oldid=559884446\nhttp://hyperphysics.phy-astr.gsu.edu/Hbase/hframe.html\nhttp://math.ucr.edu/home/baez/physics/\nhttp://musr.physics.ubc.ca/~jess/hr/skept/\nhttp://nobelprize.org/nobel_prizes/physics/\nhttp://physics.aps.org/\nhttp://physicstoday.org/journals/doc/PHTOAD-ft/vol_54/iss_12/14_1.shtml?bypassSSO=1\nhttp://physicsworld.com/\nhttp://planetphysics.org/\nhttp://scienceworld.wolfram.com/physics/\nhttp://www.archive.org/details/JustinMorganPhysicsLightningTour/\nhttp://www.dmoz.orghttp://Science/Physics/Publicationshttp://\nhttp://www.etymonline.com/index.php?term=physics&allowed_in_frame=0\nhttp://www.nature.com/naturephysics\nhttp://www.physics.org/\nhttp://www.physicscentral.com/\nhttp://www.princeton.edu/physics/people/display_person.xml?netid=pwa&display=faculty\nhttp://www.scholarpedia.org/article/Encyclopedia_of_physics\n\n>pdf\nhttp://www.aps.org/membership/units/upload/unit-yearly-counts12.pdf\nhttp://www.aps.org/membership/units/upload/unit-yearly-counts12.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png\n"
    ],
    "created" : 1373450629,
-   "book" : [],
    "micro-www" : {
       "Physics" : [
          "physics",
@@ -372,6 +371,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Physics|",

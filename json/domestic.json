@@ -1,4 +1,16 @@
 {
+   "google" : [
+      "/url?q=http://www.domestic.fr/&sa=U&ei=2CLdUefKIsHpPL3YgagD&ved=0CBgQFjAA&usg=AFQjCNHnPYAG9wSdS7zoU7o9cO14dIbhSg",
+      "/url?q=http://en.wikipedia.org/wiki/Domestic&sa=U&ei=2CLdUefKIsHpPL3YgagD&ved=0CBwQFjAB&usg=AFQjCNHPOgld3tkmtzLWuS6SQpEi7ysIXA",
+      "/url?q=http://en.wikipedia.org/wiki/Domestic_airport&sa=U&ei=2CLdUefKIsHpPL3YgagD&ved=0CCQQFjAC&usg=AFQjCNGIfMnXWoFkiFviaJPh9E923NioTw",
+      "/url?q=http://dictionary.reference.com/browse/domestic&sa=U&ei=2CLdUefKIsHpPL3YgagD&ved=0CCgQFjAD&usg=AFQjCNFlbp6gC7p2x8R7kEHs1VXWezhUpQ",
+      "/url?q=http://www.merriam-webster.com/dictionary/domestic&sa=U&ei=2CLdUefKIsHpPL3YgagD&ved=0CCwQFjAE&usg=AFQjCNGE3rikU03XRckC94m9si8eb-EJrQ",
+      "/url?q=http://www.thefreedictionary.com/domestic&sa=U&ei=2CLdUefKIsHpPL3YgagD&ved=0CDAQFjAF&usg=AFQjCNH9-IxoIWGftyPbFc8tTNnyCx_96A",
+      "/url?q=http://www.gsa.gov/perdiem&sa=U&ei=2CLdUefKIsHpPL3YgagD&ved=0CDQQFjAG&usg=AFQjCNEgr1it3UGlDWiif6RZcxVu84VjGQ",
+      "/url?q=http://postcalc.usps.com/&sa=U&ei=2CLdUefKIsHpPL3YgagD&ved=0CDcQFjAH&usg=AFQjCNEB-f-by5hRs-F6tSj7ahO1mmaSGA",
+      "/url?q=http://en.wiktionary.org/wiki/domestic&sa=U&ei=2CLdUefKIsHpPL3YgagD&ved=0CDoQFjAI&usg=AFQjCNE5hK0__M9tuLYcf5cbW8nRBgz-fg",
+      "/url?q=http://www.thehotline.org/get-educated/what-is-domestic-violence/&sa=U&ei=2CLdUefKIsHpPL3YgagD&ved=0CD0QFjAJ&usg=AFQjCNF4coF58aKwSLk6c5rMzRyiwkvb0A"
+   ],
    "micrownet" : [
       "domestic",
       "domestic_(vs._foreign)",
@@ -31,18 +43,6 @@
       "domesticity",
       "domesticize",
       "gross_domestic_product"
-   ],
-   "google" : [
-      "/url?q=http://www.domestic.fr/&sa=U&ei=2CLdUefKIsHpPL3YgagD&ved=0CBgQFjAA&usg=AFQjCNHnPYAG9wSdS7zoU7o9cO14dIbhSg",
-      "/url?q=http://en.wikipedia.org/wiki/Domestic&sa=U&ei=2CLdUefKIsHpPL3YgagD&ved=0CBwQFjAB&usg=AFQjCNHPOgld3tkmtzLWuS6SQpEi7ysIXA",
-      "/url?q=http://en.wikipedia.org/wiki/Domestic_airport&sa=U&ei=2CLdUefKIsHpPL3YgagD&ved=0CCQQFjAC&usg=AFQjCNGIfMnXWoFkiFviaJPh9E923NioTw",
-      "/url?q=http://dictionary.reference.com/browse/domestic&sa=U&ei=2CLdUefKIsHpPL3YgagD&ved=0CCgQFjAD&usg=AFQjCNFlbp6gC7p2x8R7kEHs1VXWezhUpQ",
-      "/url?q=http://www.merriam-webster.com/dictionary/domestic&sa=U&ei=2CLdUefKIsHpPL3YgagD&ved=0CCwQFjAE&usg=AFQjCNGE3rikU03XRckC94m9si8eb-EJrQ",
-      "/url?q=http://www.thefreedictionary.com/domestic&sa=U&ei=2CLdUefKIsHpPL3YgagD&ved=0CDAQFjAF&usg=AFQjCNH9-IxoIWGftyPbFc8tTNnyCx_96A",
-      "/url?q=http://www.gsa.gov/perdiem&sa=U&ei=2CLdUefKIsHpPL3YgagD&ved=0CDQQFjAG&usg=AFQjCNEgr1it3UGlDWiif6RZcxVu84VjGQ",
-      "/url?q=http://postcalc.usps.com/&sa=U&ei=2CLdUefKIsHpPL3YgagD&ved=0CDcQFjAH&usg=AFQjCNEB-f-by5hRs-F6tSj7ahO1mmaSGA",
-      "/url?q=http://en.wiktionary.org/wiki/domestic&sa=U&ei=2CLdUefKIsHpPL3YgagD&ved=0CDoQFjAI&usg=AFQjCNE5hK0__M9tuLYcf5cbW8nRBgz-fg",
-      "/url?q=http://www.thehotline.org/get-educated/what-is-domestic-violence/&sa=U&ei=2CLdUefKIsHpPL3YgagD&ved=0CD0QFjAJ&usg=AFQjCNF4coF58aKwSLk6c5rMzRyiwkvb0A"
    ],
    "micro" : [
       "unit",
@@ -80,16 +80,7 @@
       "mortal",
       "ayah"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Domestic_of_the_Schools\">Domestic of the Schools</a>, commander-in-chief of the Byzantine army in the 9th-11th centuries",
-      "\n<a href=\"http://duckduckgo.com/Domestic_violence\">Domestic violence</a> - Domestic violence, also known as domestic abuse, spousal abuse, battering, family violence, and intimate partner violence, is defined as a pattern of abusive behavi...",
-      "\n<a href=\"http://duckduckgo.com/Domestic_airport\">Domestic airport</a> -   A domestic airport is an airport which handles only domestic flights or flights within the same country.",
-      "Domestic",
-      "http://www.merriam-webster.com/dictionary/domestic",
-      "domestic definition: living near or about human habitations.",
-      "Merriam-Webster",
-      "\nA <a href=\"http://duckduckgo.com/domestic_worker\">domestic worker</a>"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._wants_to_impose_its_%22no-fly%22_list_on_most_Canadian_domestic_flights\" title=\"U.S. wants to impose its &quot;no-fly&quot; list on most Canadian domestic flights\">U.S. wants to impose its &quot;no-fly&quot; list on most Canadian <span class=\"searchmatch\">domestic</span> flights</a>",
@@ -119,7 +110,16 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Domestic_of_the_Schools\">Domestic of the Schools</a>, commander-in-chief of the Byzantine army in the 9th-11th centuries",
+      "\n<a href=\"http://duckduckgo.com/Domestic_violence\">Domestic violence</a> - Domestic violence, also known as domestic abuse, spousal abuse, battering, family violence, and intimate partner violence, is defined as a pattern of abusive behavi...",
+      "\n<a href=\"http://duckduckgo.com/Domestic_airport\">Domestic airport</a> -   A domestic airport is an airport which handles only domestic flights or flights within the same country.",
+      "Domestic",
+      "http://www.merriam-webster.com/dictionary/domestic",
+      "domestic definition: living near or about human habitations.",
+      "Merriam-Webster",
+      "\nA <a href=\"http://duckduckgo.com/domestic_worker\">domestic worker</a>"
+   ],
    "micro-www-search" : [
       "domestication_of_the_dog\n>http\nhttp://archaeology.about.com/od/domestications/qt/dogs.htm\nhttp://en.m.wikipedia.org/wiki/Origin_of_the_domestic_dog\nhttp://en.wikipedia.org/w/index.php?title=Origin_of_the_domestic_dog&oldid=553727094\nhttp://www.genomeweb.com/african-dog-genetics-suggest-new-view-domestication-needed\n\n>pdf\nhttp://newguinea-singing-dog-conservation.org/Tidbits/OriginOfTheDog.pdf\nhttp://newguinea-singing-dog-conservation.org/Tidbits/OriginOfTheDog.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png\n\n",
       "domestication#animals\n>http\nhttp://dictionary.reference.com/browse/domesticate\nhttp://dienekes.blogspot.com/2008/10/dog-domestication-in-aurignacian-c.html\nhttp://en.m.wikipedia.org/wiki/Domestication\nhttp://en.wikipedia.org/w/index.php?title=Domestication&oldid=560476911\nhttp://hcs.osu.edu/hcs/TMI/HCS210/HortOrigins/BrDomestic.html\nhttp://www.csun.edu/~vcpsy00h/domestic.htm\nhttp://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=DetailsSearch&Term=domestication%5BTitle%5D+AND+%22loattrfree+full+text%22%5Bsb%5D\n\n>pdf\nhttp://www.adelaide.edu.au/ANZCCART/publications/dom_chicken.pdf\nhttp://www.animaltraction.net/donkeys/donkeys-blench-history.pdf\nhttp://www.animaltraction.net/donkeys/donkeys-blench-history.pdf\nhttp://www.hum.utah.edu/~bbenham/2510%20Spring%2009/Behavior%20Genetics/Farm-Fox%20Experiment.pdf\nhttp://www.sciencemag.org/content/307/5715/1618.full.pdf\nhttp://www.hum.utah.edu/~bbenham/2510%20Spring%2009/Behavior%20Genetics/Farm-Fox%20Experiment.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Backing_sheep_at_sheepdog_competition.jpg/250px-Backing_sheep_at_sheepdog_competition.jpg\n\n",
@@ -136,7 +136,6 @@
       "Domestic_Asian_Water_buffalo\n>pdf\nhttp://arts.anu.edu.au/grovco/J%20Arch%20Sci.pdf\nhttp://functionalfoodscenter.net/files/50948434.pdf\nhttp://vet.unne.edu.ar/revista/21-suple-1/12%20bufalos.pdf\nhttp://www.aseanbiotechnology.info/Abstract/21025230.pdf\nhttp://www.cienciaanimal.ufpa.br/CA_selecao/M/2010/biblio/Prod/complem/Borghese_2005.pdf\nhttp://www.environment.gov.au/biodiversity/invasive/publications/pubs/buffalo.pdf\nhttp://www.sfu.ca/~donyang/adnaweb/Yang%20et%20al.%202008.pdf\nhttp://www.whrc.org/resources/published_literature/pdf/SheikhetalAgSyst.06.pdf\nhttp://www4.zetatalk.com/docs/Animal_Power/The_Water_Buffalo_1977.pdf\nhttp://www4.zetatalk.com/docs/Animal_Power/The_Water_Buffalo_1977.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n"
    ],
    "created" : 1373454021,
-   "book" : [],
    "micro-www" : {
       "domestic" : [
          "domestication_of_the_dog",
@@ -155,6 +154,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n'Domestic' can refer to:\n\n* A domestic worker\n* Domestic airport\n* Domestic violence\n* [[Domestikos]] (), a Byzantine title ** Domestic of the Schools, commander-in-\n  chief of the Byzantine army in the 9th-11th centuries\n",

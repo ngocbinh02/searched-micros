@@ -29,6 +29,14 @@
       "compound",
       "chemical"
    ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
    "duck" : [
       "https://en.wikipedia.org/wiki/Lysine",
       "Wikipedia",
@@ -52,25 +60,17 @@
       "Lysine (abbreviated as Lys or K) is an α-amino acid with the chemical formula HO<sub>2</sub>CCH(NH<sub>2</sub>)(CH<sub>2</sub>)<sub>4</sub>NH<sub>2</sub>.",
       "\n<a href=\"http://duckduckgo.com/Saccharopine\">Saccharopine</a> - Saccharopine is an intermediate in the metabolism of amino acid lysine."
    ],
-   "common" : {
-      "milestones" : [],
-      "image" : [
-         [],
-         []
-      ]
-   },
-   "Lists" : [],
    "micro-www-search" : [
       "Lysine\n>pdf\nhttp://whqlibdoc.who.int/trs/WHO_TRS_935_eng.pdf\nhttp://whqlibdoc.who.int/trs/WHO_TRS_935_eng.pdf\nhttp://www.orgsyn.org/orgsyn/pdfs/CV2P0374.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/6/61/L-lysine-monocation-2D-skeletal.png/120px-L-lysine-monocation-2D-skeletal.png\n"
    ],
    "created" : 1373460211,
-   "book" : [],
    "micro-www" : {
       "lysine" : [
          "Lysine",
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Proteinogenic amino acids",

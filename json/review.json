@@ -49,31 +49,7 @@
       "analyze",
       "stocktaking"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Review_(disambiguation)",
-      "\n<a href=\"http://duckduckgo.com/Naval_Review\">Naval Review</a>, US Navy",
-      "Wikipedia",
-      "Review",
-      "\n<a href=\"http://duckduckgo.com/Systematic_review\">Systematic review</a>, a focused literature review that synthesizes high-quality research relevant to a specific topic",
-      "\n<a href=\"http://duckduckgo.com/Literature_review\">Literature review</a>, academic review of the scholarship within a field",
-      "The Review can refer to: an English-language weekly newspaper that covers Glengarry-Prescott-Russell, Ontario, Canada.",
-      "\n<a href=\"http://duckduckgo.com/Review_(band)\">Review (band)</a>, a Bulgarian New Wave band",
-      "\n<a href=\"http://duckduckgo.com/Adventist_Review\">Adventist Review</a>, the official newsmagazine of the Seventh-day Adventist Church",
-      "\n<a href=\"http://duckduckgo.com/Review_(Glay_album)\">Review (Glay album)</a>, 1997",
-      "\n<a href=\"http://duckduckgo.com/Review\">Review</a> is an article reviewing a book or other object.",
-      "\n<a href=\"http://duckduckgo.com/fleet_review_(Commonwealth_realms)\">Fleet review</a> - A fleet review is a traditional gathering of ships from a particular navy to be observed by the reigning monarch or his or her viceroy, a practice allegedly dating back to the 15th century.",
-      "HASH(0x52ec9a8)",
-      "\n<a href=\"http://duckduckgo.com/Pittsburgh_Tribune-Review\">Pittsburgh Tribune-Review</a> - The Pittsburgh Tribune-Review, also known as \"the Trib,\" is the second largest daily newspaper serving metropolitan Pittsburgh, Pennsylvania, in the United States.",
-      "\n<a href=\"http://duckduckgo.com/Revue\">Revue</a>, a type of multi-act popular theatrical entertainment that combines music, dance and sketches",
-      "\n<a href=\"http://duckduckgo.com/Peer_review\">Peer review</a>, the process by which scientists assess the work of their colleagues that has been submitted for publication in the scientific literature",
-      "\n<a href=\"http://duckduckgo.com/Review_with_Myles_Barlow\">Review with Myles Barlow</a>, an Australian television show",
-      "\n<a href=\"http://duckduckgo.com/Book_review\">Book review</a>, a description and evaluation of a book",
-      "\n<a href=\"http://duckduckgo.com/Review_(magazine)\">Review (magazine)</a> a magazine covering issues of economic policy and management published by the Federal Reserve Bank of St. Louis",
-      "\n<a href=\"http://duckduckgo.com/Software_review\">Software review</a>, a process or meeting during which a software product is examined",
-      "HASH(0x532edd8)",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Review_(Mikuni_Shimokawa_album)\">Review (Mikuni Shimokawa album)</a>, 2003"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/FAA_orders_review_of_Boeing_787_Dreamliners_following_week_of_incidents\" title=\"FAA orders review of Boeing 787 Dreamliners following week of incidents\">FAA orders <span class=\"searchmatch\">review</span> of Boeing 787 Dreamliners following week of incidents</a>",
@@ -101,7 +77,31 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Review_(disambiguation)",
+      "\n<a href=\"http://duckduckgo.com/Naval_Review\">Naval Review</a>, US Navy",
+      "Wikipedia",
+      "Review",
+      "\n<a href=\"http://duckduckgo.com/Systematic_review\">Systematic review</a>, a focused literature review that synthesizes high-quality research relevant to a specific topic",
+      "\n<a href=\"http://duckduckgo.com/Literature_review\">Literature review</a>, academic review of the scholarship within a field",
+      "The Review can refer to: an English-language weekly newspaper that covers Glengarry-Prescott-Russell, Ontario, Canada.",
+      "\n<a href=\"http://duckduckgo.com/Review_(band)\">Review (band)</a>, a Bulgarian New Wave band",
+      "\n<a href=\"http://duckduckgo.com/Adventist_Review\">Adventist Review</a>, the official newsmagazine of the Seventh-day Adventist Church",
+      "\n<a href=\"http://duckduckgo.com/Review_(Glay_album)\">Review (Glay album)</a>, 1997",
+      "\n<a href=\"http://duckduckgo.com/Review\">Review</a> is an article reviewing a book or other object.",
+      "\n<a href=\"http://duckduckgo.com/fleet_review_(Commonwealth_realms)\">Fleet review</a> - A fleet review is a traditional gathering of ships from a particular navy to be observed by the reigning monarch or his or her viceroy, a practice allegedly dating back to the 15th century.",
+      "HASH(0x52ec9a8)",
+      "\n<a href=\"http://duckduckgo.com/Pittsburgh_Tribune-Review\">Pittsburgh Tribune-Review</a> - The Pittsburgh Tribune-Review, also known as \"the Trib,\" is the second largest daily newspaper serving metropolitan Pittsburgh, Pennsylvania, in the United States.",
+      "\n<a href=\"http://duckduckgo.com/Revue\">Revue</a>, a type of multi-act popular theatrical entertainment that combines music, dance and sketches",
+      "\n<a href=\"http://duckduckgo.com/Peer_review\">Peer review</a>, the process by which scientists assess the work of their colleagues that has been submitted for publication in the scientific literature",
+      "\n<a href=\"http://duckduckgo.com/Review_with_Myles_Barlow\">Review with Myles Barlow</a>, an Australian television show",
+      "\n<a href=\"http://duckduckgo.com/Book_review\">Book review</a>, a description and evaluation of a book",
+      "\n<a href=\"http://duckduckgo.com/Review_(magazine)\">Review (magazine)</a> a magazine covering issues of economic policy and management published by the Federal Reserve Bank of St. Louis",
+      "\n<a href=\"http://duckduckgo.com/Software_review\">Software review</a>, a process or meeting during which a software product is examined",
+      "HASH(0x532edd8)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Review_(Mikuni_Shimokawa_album)\">Review (Mikuni Shimokawa album)</a>, 2003"
+   ],
    "micro-www-search" : [
       "reviews\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n\n",
       "review\n>http\nhttp://en.m.wikipedia.org/wiki/Review\nhttp://en.wikipedia.org/w/index.php?title=Review&oldid=541778200\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n\n",
@@ -109,7 +109,6 @@
       "Review_of_Economic_Studies\n>http\nhttp://en.m.wikipedia.org/wiki/The_Review_of_Economic_Studies\nhttp://en.wikipedia.org/w/index.php?title=The_Review_of_Economic_Studies&oldid=539579801\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Emile_Durkheim.jpg/30px-Emile_Durkheim.jpg\n"
    ],
    "created" : 1373460118,
-   "book" : [],
    "micro-www" : {
       "review" : [
          "reviews",
@@ -119,6 +118,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Writing occupations",

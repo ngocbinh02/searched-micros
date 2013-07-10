@@ -24,19 +24,8 @@
       "dust",
       "matter"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Fallout_(disambiguation)",
-      "HASH(0x5980308)",
-      "Wikipedia",
-      "\n<a href=\"http://duckduckgo.com/Fallout_(video_game)\">Fallout (video game)</a>, a 1997 post-apocalyptic computer role-playing game released by Interplay Entertainment",
-      "Fallout",
-      "http://www.merriam-webster.com/dictionary/fallout",
-      "fallout definition: the often radioactive particles stirred up by or resulting from a nuclear explosion and descending through the atmosphere.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Fallout_(series)\">Fallout (series)</a>, the sequels and spinoff games derived from Fallout",
-      "\n<a href=\"http://duckduckgo.com/Nuclear_fallout\">Nuclear fallout</a> is the residual radiation hazard from a nuclear explosion.",
-      "HASH(0x5a87e78)",
-      "D"
+   "Lists" : [
+      "List_of_nuclear_accidents"
    ],
    "common" : {
       "milestones" : [
@@ -65,17 +54,28 @@
          []
       ]
    },
-   "Lists" : [
-      "List_of_nuclear_accidents"
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Fallout_(disambiguation)",
+      "HASH(0x5980308)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Fallout_(video_game)\">Fallout (video game)</a>, a 1997 post-apocalyptic computer role-playing game released by Interplay Entertainment",
+      "Fallout",
+      "http://www.merriam-webster.com/dictionary/fallout",
+      "fallout definition: the often radioactive particles stirred up by or resulting from a nuclear explosion and descending through the atmosphere.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Fallout_(series)\">Fallout (series)</a>, the sequels and spinoff games derived from Fallout",
+      "\n<a href=\"http://duckduckgo.com/Nuclear_fallout\">Nuclear fallout</a> is the residual radiation hazard from a nuclear explosion.",
+      "HASH(0x5a87e78)",
+      "D"
    ],
    "micro-www-search" : [],
    "created" : 1373460688,
-   "book" : [],
    "micro-www" : {
       "fallout" : [
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Aftermath of war",

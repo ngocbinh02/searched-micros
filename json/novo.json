@@ -7,16 +7,7 @@
       "porto_novo"
    ],
    "micro" : [],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Novo_(disambiguation)",
-      "HASH(0x5d2fff8)",
-      "Wikipedia",
-      "Novo",
-      "HASH(0x2d4cf68)",
-      "\n<a href=\"http://duckduckgo.com/Novo_Industrial_Corporation\">Novo Industrial Corporation</a>, owner of <a href=\"http://duckduckgo.com/?q=Delta Electric Company\">Delta Electric Company</a>",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Novo\">Novo</a> is a 2002 film by Jean-Pierre Limosin."
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_explorer_Ranulph_Fiennes_leaves_Antarctic_expedition_after_frostbite\" title=\"British explorer Ranulph Fiennes leaves Antarctic expedition after frostbite\">British explorer Ranulph Fiennes leaves Antarctic expedition after frostbite</a>",
@@ -35,13 +26,21 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Novo_(disambiguation)",
+      "HASH(0x5d2fff8)",
+      "Wikipedia",
+      "Novo",
+      "HASH(0x2d4cf68)",
+      "\n<a href=\"http://duckduckgo.com/Novo_Industrial_Corporation\">Novo Industrial Corporation</a>, owner of <a href=\"http://duckduckgo.com/?q=Delta Electric Company\">Delta Electric Company</a>",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Novo\">Novo</a> is a 2002 film by Jean-Pierre Limosin."
+   ],
    "micro-www-search" : [
       "Novobiocin\n>http\nhttp://en.m.wikipedia.org/wiki/Novobiocin\nhttp://en.wikipedia.org/w/index.php?title=Novobiocin&oldid=544168029\nhttp://www.drugs.com/international/novobiocin.html\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Novobiocin.png/220px-Novobiocin.png\n\n",
       "Novo_Nordisk\n>http\nhttp://diabetesbus.novonordisk.com/Diabetes/Diabetes-Bus/frontpage-default.asp\nhttp://en.m.wikipedia.org/wiki/Novo_Nordisk\nhttp://en.wikipedia.org/w/index.php?title=Novo_Nordisk&oldid=540636798\nhttp://press.novonordisk-us.com/internal.aspx?rid=325\nhttp://www.cphpost.dk/business/business/45461-ethical-leadership-title-to-novo-companies.html\nhttp://www.eluta.ca/top-employer-novo-nordisk-canada\nhttp://www.novo.dk\nhttp://www.novonordisk.com\nhttp://www.novonordisk.com/\nhttp://www.novonordisk.com/press/news/news.asp?sNewsTypeGUID=&lMonth=&lYear=&sLanguageCode=&sSearchText=Anti-NKG2D&sShowNewsItemGUID=45cadd39-2d8c-4d42-9db0-ac81d01824cd&sShowLanguageCode=en-GB\nhttp://www.novonordisk.com/science/organisation/bru.asp\nhttp://www.novonordisk.com/science/organisation/bru.asp\\n\\nCompany\nhttp://www.novonordisk.com/science/partnering/inflammation.asp\nhttp://www.novonordisk.com/science/pipeline/rd_pipeline.asp?showid=9\nhttp://www.novonordiskfonden.dk/\nhttp://www.pharmalot.com/2011/03/novo-nordisk-reprimanded-for-poor-management/\nhttp://www.worlddiabetesday.org/news/novo-nordisk-in-united-effort-on-world-diabetes-day\nhttp://www.zenopa.com/news/801274048/Novo_Nordisk_named_world_s_most_sustainable_company\n\n>pdf\nhttp://annualreport.novonordisk.com/web-media/pdfs/Novo-Nordisk-AR-2010-en.pdf\nhttp://annualreport.novonordisk.com/web-media/pdfs/Novo-Nordisk-AR-2010-en.pdf\nhttp://annualreport.novonordisk.com/web-media/pdfs/Novo-Nordisk-AR-2010-en.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/f/f4/Ambox_content.png\n"
    ],
    "created" : 1373457184,
-   "book" : [],
    "micro-www" : {
       "novo" : [
          "Novobiocin",
@@ -49,6 +48,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "2002 films",

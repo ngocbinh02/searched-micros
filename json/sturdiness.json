@@ -17,19 +17,7 @@
       "status",
       "physiological_state"
    ],
-   "duck" : [
-      "Substantially made or built; stout: sturdy canvas.",
-      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=sturdiness",
-      "HASH(0x4fa7c88)",
-      "The Free Dictionary",
-      "sturdiness",
-      "http://www.merriam-webster.com/dictionary/sturdiness",
-      "sturdiness definition: firmly built or constituted.",
-      "Merriam-Webster",
-      "HASH(0x4fa5060)",
-      "Substantially made or built; stout: sturdy canvas.",
-      "A"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australians_need_bigger_toilets\" title=\"Australians need bigger toilets\">Australians need bigger toilets</a>",
@@ -45,14 +33,26 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "Substantially made or built; stout: sturdy canvas.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=sturdiness",
+      "HASH(0x4fa7c88)",
+      "The Free Dictionary",
+      "sturdiness",
+      "http://www.merriam-webster.com/dictionary/sturdiness",
+      "sturdiness definition: firmly built or constituted.",
+      "Merriam-Webster",
+      "HASH(0x4fa5060)",
+      "Substantially made or built; stout: sturdy canvas.",
+      "A"
+   ],
    "micro-www-search" : [],
    "created" : 1373461019,
-   "book" : [],
    "micro-www" : {
       "sturdiness" : [
          ""
       ]
    },
+   "book" : [],
    "micro-relation" : []
 }

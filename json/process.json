@@ -128,19 +128,9 @@
       "bear_on",
       "emergency_procedure"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Process",
-      "HASH(0x5470b48)",
-      "Wikipedia",
-      "Process",
-      "http://www.merriam-webster.com/dictionary/process",
-      "process definition: progress, advance.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Adiabatic_process\">Adiabatic process</a>, in thermodynamics, any process occurring without gain or loss of heat within a system",
-      "HASH(0x5620448)",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Software_development_process\">Software development process</a> - A software development process, also known as a software development life-cycle (SDLC), is a structure imposed on the development of a software product.",
-      "\n<a href=\"http://duckduckgo.com/Due_process\">Due process</a>, the concept that governments must respect the <a href=\"http://duckduckgo.com/?q=rule of law\">rule of law</a>"
+   "Lists" : [
+      "List_of_chemical_process_simulators",
+      "List_of_industrial_processes"
    ],
    "common" : {
       "milestones" : [
@@ -170,9 +160,19 @@
          []
       ]
    },
-   "Lists" : [
-      "List_of_chemical_process_simulators",
-      "List_of_industrial_processes"
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Process",
+      "HASH(0x5470b48)",
+      "Wikipedia",
+      "Process",
+      "http://www.merriam-webster.com/dictionary/process",
+      "process definition: progress, advance.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Adiabatic_process\">Adiabatic process</a>, in thermodynamics, any process occurring without gain or loss of heat within a system",
+      "HASH(0x5620448)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Software_development_process\">Software development process</a> - A software development process, also known as a software development life-cycle (SDLC), is a structure imposed on the development of a software product.",
+      "\n<a href=\"http://duckduckgo.com/Due_process\">Due process</a>, the concept that governments must respect the <a href=\"http://duckduckgo.com/?q=rule of law\">rule of law</a>"
    ],
    "micro-www-search" : [
       "processing\n>http\nhttp://en.m.wikipedia.org/wiki/Process\nhttp://en.wikipedia.org/w/index.php?title=Process&oldid=539770319\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
@@ -215,7 +215,6 @@
       "Process_(album)\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Process_%28album%29_cover.jpg/220px-Process_%28album%29_cover.jpg\n"
    ],
    "created" : 1373460372,
-   "book" : [],
    "micro-www" : {
       "process" : [
          "processing",
@@ -259,6 +258,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Process' or 'processing' may refer to:\n",

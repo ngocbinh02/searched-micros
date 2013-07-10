@@ -70,21 +70,8 @@
       "relation",
       "coattails_effect"
    ],
-   "duck" : [
-      "\nA <a href=\"http://duckduckgo.com/result\">result</a> or change of something",
-      "\n<a href=\"http://duckduckgo.com/efficacy\">Drug effect</a>, a change resulting from the administration of a drug",
-      "https://en.wikipedia.org/wiki/Effect",
-      "\n<a href=\"http://duckduckgo.com/Effect_size\">Effect size</a>, a measure of the strength of a relationship between two variables",
-      "HASH(0x51e27b0)",
-      "Wikipedia",
-      "Effect",
-      "http://www.merriam-webster.com/dictionary/effect",
-      "\n<a href=\"http://duckduckgo.com/Pragmatism\">Pragmatism</a>, the philosophy of causes and effects",
-      "effect definition: purport, intent.",
-      "Merriam-Webster",
-      "HASH(0x51728b8)",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/d/Affect\">Affect Meanings</a>"
+   "Lists" : [
+      "List_of_effects"
    ],
    "common" : {
       "milestones" : [
@@ -113,15 +100,27 @@
          []
       ]
    },
-   "Lists" : [
-      "List_of_effects"
+   "duck" : [
+      "\nA <a href=\"http://duckduckgo.com/result\">result</a> or change of something",
+      "\n<a href=\"http://duckduckgo.com/efficacy\">Drug effect</a>, a change resulting from the administration of a drug",
+      "https://en.wikipedia.org/wiki/Effect",
+      "\n<a href=\"http://duckduckgo.com/Effect_size\">Effect size</a>, a measure of the strength of a relationship between two variables",
+      "HASH(0x51e27b0)",
+      "Wikipedia",
+      "Effect",
+      "http://www.merriam-webster.com/dictionary/effect",
+      "\n<a href=\"http://duckduckgo.com/Pragmatism\">Pragmatism</a>, the philosophy of causes and effects",
+      "effect definition: purport, intent.",
+      "Merriam-Webster",
+      "HASH(0x51728b8)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/d/Affect\">Affect Meanings</a>"
    ],
    "micro-www-search" : [
       "effects\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "Effects_of_high_altitude_on_humans\n>pdf\nhttp://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.175.3270&rep=rep1&type=pdf\nhttp://www.cns.nyu.edu/events/spf/SPF_papers/fayed2006evidence.pdf\nhttp://www.usariem.army.mil/Pages/download/harshenvironmentsvol2.pdf\nhttp://zuniv.net/pub/Everest2.pdf\nhttp://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.175.3270&rep=rep1&type=pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/3/38/M_Rainier.jpg/170px-M_Rainier.jpg\n"
    ],
    "created" : 1373460346,
-   "book" : [],
    "micro-www" : {
       "effects" : [
          "effects",
@@ -129,6 +128,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n'Effect' may refer to:\n* A result or change of something ** List of effects ** Cause and effect, an\n  idiom describing causality In pharmacy and pharmacology:\n* Drug effect, a change resulting from the administration of a drug **\n  Therapeutic effect, a beneficial change in medical condition, often caused by\n  a drug ** Adverse effect or side effect, an unwanted change in medical\n  condition caused by a drug\n* Dose-response effect, the relationship between a drug dose and its effect,\n  plotted on a dose-response curve In media:\n* Special effect, an artificial illusion ** Sound effect, an artificially\n  created or enhanced sound ** Visual effects, artificially created or enhanced\n  images *Audio signal processing ** Effects unit, a device used to manipulate\n  electronic sound *** Effects pedal, a small device attached to an instrument\n  to modify its sound\n\nMiscellaneous:\n* Effects, one's personal property or belongings\n* Effects (G.I. Joe), a fictional character in the G.I. Joe universe\n* ''Effects'' (film), a 2005 film\n* Effect size, a measure of the strength of a relationship between two variables\n* Effect system, formal system which describes the computational effects of\n  computer programs\n\nAmendments to the constitution of the United States: (Bill of Rights) Amendment\nIV \"The right of the people to be secure in their persons, house, papers, and\n'effects'...\n",

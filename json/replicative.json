@@ -1,19 +1,7 @@
 {
    "micrownet" : [],
    "micro" : [],
-   "duck" : [
-      "To duplicate, copy, reproduce, or repeat.",
-      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=replicate",
-      "HASH(0x54def70)",
-      "The Free Dictionary",
-      "replicate",
-      "http://www.merriam-webster.com/dictionary/replicate",
-      "replicate definition: duplicate, repeat.",
-      "Merriam-Webster",
-      "HASH(0x53a7ca8)",
-      "To duplicate, copy, reproduce, or repeat.",
-      "A"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_scientist_creates_%27artificial_life%27\" title=\"US scientist creates &#39;artificial life&#39;\">US scientist creates &#39;artificial life&#39;</a>",
@@ -42,14 +30,26 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "To duplicate, copy, reproduce, or repeat.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=replicate",
+      "HASH(0x54def70)",
+      "The Free Dictionary",
+      "replicate",
+      "http://www.merriam-webster.com/dictionary/replicate",
+      "replicate definition: duplicate, repeat.",
+      "Merriam-Webster",
+      "HASH(0x53a7ca8)",
+      "To duplicate, copy, reproduce, or repeat.",
+      "A"
+   ],
    "micro-www-search" : [],
    "created" : 1373460981,
-   "book" : [],
    "micro-www" : {
       "replicative" : [
          ""
       ]
    },
+   "book" : [],
    "micro-relation" : []
 }

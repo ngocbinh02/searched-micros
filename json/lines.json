@@ -23,19 +23,8 @@
       "chorus_line",
       "entity"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Line",
-      "HASH(0x5dd6790)",
-      "Wikipedia",
-      "\n<a href=\"http://duckduckgo.com/Airline\">Airline</a> - An airline is a company that provides air transport services for traveling passengers and freight.",
-      "Line",
-      "http://www.merriam-webster.com/dictionary/line",
-      "line definition: a length of cord or cord-like material.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Line_level\">Line level</a>, a common standard for audio signals",
-      "\n<a href=\"http://duckduckgo.com/Line_(geometry)\">Line (geometry)</a>, a concept which includes an infinitely-extended one-dimensional figure with no curvature",
-      "HASH(0x5eb2060)",
-      "D"
+   "Lists" : [
+      "List_of_bus_operating_companies"
    ],
    "common" : {
       "milestones" : [
@@ -66,20 +55,31 @@
          []
       ]
    },
-   "Lists" : [
-      "List_of_bus_operating_companies"
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Line",
+      "HASH(0x5dd6790)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Airline\">Airline</a> - An airline is a company that provides air transport services for traveling passengers and freight.",
+      "Line",
+      "http://www.merriam-webster.com/dictionary/line",
+      "line definition: a length of cord or cord-like material.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Line_level\">Line level</a>, a common standard for audio signals",
+      "\n<a href=\"http://duckduckgo.com/Line_(geometry)\">Line (geometry)</a>, a concept which includes an infinitely-extended one-dimensional figure with no curvature",
+      "HASH(0x5eb2060)",
+      "D"
    ],
    "micro-www-search" : [
       "lines\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n"
    ],
    "created" : 1373458118,
-   "book" : [],
    "micro-www" : {
       "lines" : [
          "lines",
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Line' or 'lines' may refer to:\n",

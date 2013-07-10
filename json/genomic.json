@@ -3,20 +3,6 @@
       "genomics"
    ],
    "micro" : [],
-   "Lists" : [],
-   "common" : {
-      "milestones" : [
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mexico_presents_first_population-wide_genome_map_for_a_Latin_country\" title=\"Mexico presents first population-wide genome map for a Latin country\">Mexico presents first population-wide genome map for a Latin country</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Genetic_link_to_migraines_discovered_by_researchers\" title=\"Genetic link to migraines discovered by researchers\">Genetic link to migraines discovered by researchers</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Experiment_on_frozen_sperm_raises_hopes_of_%22restoring%22_extinct_mammals\" title=\"Experiment on frozen sperm raises hopes of &quot;restoring&quot; extinct mammals\">Experiment on frozen sperm raises hopes of &quot;restoring&quot; extinct mammals</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/African_HIV_prevalence_may_also_be_physiological\" title=\"African HIV prevalence may also be physiological\">African HIV prevalence may also be physiological</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Cloned_cattle%27s_milk_and_meat_seem_safe,_according_to_new_study\" title=\"Cloned cattle&#39;s milk and meat seem safe, according to new study\">Cloned cattle&#39;s milk and meat seem safe, according to new study</a>"
-      ],
-      "image" : [
-         [],
-         []
-      ]
-   },
    "duck" : [
       "https://en.wikipedia.org/wiki/Genomics",
       "\n<a href=\"http://duckduckgo.com/Computational_genomics\">Computational genomics</a> - Computational genomics refers to the use of computational analysis to decipher biology from genome sequences and related data, including both DNA and RNA sequence as well as other \"post-genomic\"...",
@@ -38,6 +24,20 @@
       "Genomics is a discipline in genetics that applies recombinant DNA, DNA sequencing methods, and bioinformatics to sequence, assemble, and analyze the function and structure of genomes (the complete set of DNA within a single cell of an organism).",
       "\n<a href=\"http://duckduckgo.com/Functional_genomics\">Functional genomics</a> - Functional genomics is a field of molecular biology that attempts to make use of the vast wealth of data produced by genomic projects to describe gene functions and interactions."
    ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mexico_presents_first_population-wide_genome_map_for_a_Latin_country\" title=\"Mexico presents first population-wide genome map for a Latin country\">Mexico presents first population-wide genome map for a Latin country</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Genetic_link_to_migraines_discovered_by_researchers\" title=\"Genetic link to migraines discovered by researchers\">Genetic link to migraines discovered by researchers</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Experiment_on_frozen_sperm_raises_hopes_of_%22restoring%22_extinct_mammals\" title=\"Experiment on frozen sperm raises hopes of &quot;restoring&quot; extinct mammals\">Experiment on frozen sperm raises hopes of &quot;restoring&quot; extinct mammals</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/African_HIV_prevalence_may_also_be_physiological\" title=\"African HIV prevalence may also be physiological\">African HIV prevalence may also be physiological</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Cloned_cattle%27s_milk_and_meat_seem_safe,_according_to_new_study\" title=\"Cloned cattle&#39;s milk and meat seem safe, according to new study\">Cloned cattle&#39;s milk and meat seem safe, according to new study</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
    "micro-www-search" : [
       "genomics\n>http\nhttp://en.m.wikipedia.org/wiki/Genomics\nhttp://en.wikipedia.org/w/index.php?title=Genomics&oldid=543586707\nhttp://genomicsnetwork.ac.uk\nhttp://ocw.mit.edu/courses/health-sciences-and-technology/hst-512-genomic-medicine-spring-2004/\nhttp://www.biomedcentral.com/bmcgenomics/\n\n>pdf\nhttp://144.206.159.178/ft/549/202477/5130774.pdf\nhttp://compbio.berkeley.edu/people/brenner/pubs/brenner-2001-nrg-strgen.pdf\nhttp://compbio.berkeley.edu/people/brenner/pubs/brenner-2001-nrg-strgen.pdf\nhttp://nobelprize.org/nobel_prizes/chemistry/laureates/1980/sanger-lecture.pdf\nhttp://www.genomics.arizona.edu/553/Readings/2012/Brent_2008.pdf\nhttp://www.illumina.com/Documents/products/Illumina_Sequencing_Introduction.pdf\nhttp://www.jbc.org/content/240/5/2122.full.pdf\nhttp://www.lcg.unam.mx/frontiers/files/frontiers/annurev.genom.9.081307.164359.pdf\nhttp://www.jbc.org/content/240/5/2122.full.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Symbol_template_class.svg/16px-Symbol_template_class.svg.png\n\n",
       "genomic\n>http\nhttp://en.m.wikipedia.org/wiki/Genomics\nhttp://en.wikipedia.org/w/index.php?title=Genomics&oldid=543586707\nhttp://genomicsnetwork.ac.uk\nhttp://ocw.mit.edu/courses/health-sciences-and-technology/hst-512-genomic-medicine-spring-2004/\nhttp://www.biomedcentral.com/bmcgenomics/\n\n>pdf\nhttp://144.206.159.178/ft/549/202477/5130774.pdf\nhttp://compbio.berkeley.edu/people/brenner/pubs/brenner-2001-nrg-strgen.pdf\nhttp://compbio.berkeley.edu/people/brenner/pubs/brenner-2001-nrg-strgen.pdf\nhttp://nobelprize.org/nobel_prizes/chemistry/laureates/1980/sanger-lecture.pdf\nhttp://www.genomics.arizona.edu/553/Readings/2012/Brent_2008.pdf\nhttp://www.illumina.com/Documents/products/Illumina_Sequencing_Introduction.pdf\nhttp://www.jbc.org/content/240/5/2122.full.pdf\nhttp://www.lcg.unam.mx/frontiers/files/frontiers/annurev.genom.9.081307.164359.pdf\nhttp://www.jbc.org/content/240/5/2122.full.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Symbol_template_class.svg/16px-Symbol_template_class.svg.png\n\n",
@@ -45,6 +45,7 @@
       "Genomic_imprinting\n>http\nhttp://en.m.wikipedia.org/wiki/Genomic_imprinting\nhttp://en.wikipedia.org/w/index.php?title=Genomic_imprinting&oldid=541165826\nhttp://www.har.mrc.ac.uk/research/genomic_imprinting/\nhttp://www.nlm.nih.gov/cgi/mesh/2011/MB_cgi?mode=&term=Genomic+imprinting\n\n>pdf\nhttp://champagnelab.psych.columbia.edu/docs/frontiers.pdf\nhttp://champagnelab.psych.columbia.edu/docs/frontiers.pdf\nhttp://champagnelab.psych.columbia.edu/docs/frontiers.pdf\n"
    ],
    "created" : 1373457724,
+   "book" : [],
    "micro-www" : {
       "genomic" : [
          "genomics",
@@ -54,7 +55,6 @@
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [
          "Genomics|*"

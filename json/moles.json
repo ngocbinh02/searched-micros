@@ -24,7 +24,18 @@
       "quantity",
       "mol"
    ],
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Moles",
+      "HASH(0x4fb0120)",
+      "Wikipedia",
+      "Moles",
+      "http://www.merriam-webster.com/dictionary/moles",
+      "moles definition: a pigmented spot, mark, or small permanent protuberance on the human body; '''especially''' nevus.",
+      "Merriam-Webster",
+      "HASH(0x4faf958)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Moles_de_Xert\">Moles de Xert</a>, a mountain range in the Baix Maestrat comarca, Valencian Community, Spain"
+   ],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Zealand_Department_of_Prime_Minister_and_Cabinet_employee_named_as_Telecom_mole\" title=\"New Zealand Department of Prime Minister and Cabinet employee named as Telecom mole\">New Zealand Department of Prime Minister and Cabinet employee named as Telecom <span class=\"searchmatch\">mole</span></a>",
@@ -52,26 +63,15 @@
          []
       ]
    },
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Moles",
-      "HASH(0x4fb0120)",
-      "Wikipedia",
-      "Moles",
-      "http://www.merriam-webster.com/dictionary/moles",
-      "moles definition: a pigmented spot, mark, or small permanent protuberance on the human body; '''especially''' nevus.",
-      "Merriam-Webster",
-      "HASH(0x4faf958)",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Moles_de_Xert\">Moles de Xert</a>, a mountain range in the Baix Maestrat comarca, Valencian Community, Spain"
-   ],
+   "Lists" : [],
    "micro-www-search" : [],
    "created" : 1373459618,
+   "book" : [],
    "micro-www" : {
       "moles" : [
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "'Moles' can refer to:\n\n*Moles de Xert, a mountain range in the Baix Maestrat comarca, Valencian\nCommunity, Spain\n",

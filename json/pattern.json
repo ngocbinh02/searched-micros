@@ -41,18 +41,7 @@
       "kaleidoscope",
       "grid"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Pattern_(disambiguation)",
-      "HASH(0x4fbb1d0)",
-      "Wikipedia",
-      "Pattern",
-      "\n<a href=\"http://duckduckgo.com/Pattern\">Pattern</a> - A pattern, apart from the term's use to mean \"Template\" is a discernible regularity in the world or in a manmade design.",
-      "http://www.merriam-webster.com/dictionary/pattern",
-      "pattern definition: a form or model proposed for imitation.",
-      "Merriam-Webster",
-      "HASH(0x4faed60)",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Science_of_champagne_bubbles_explained\" title=\"Science of champagne bubbles explained\">Science of champagne bubbles explained</a>",
@@ -80,7 +69,18 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Pattern_(disambiguation)",
+      "HASH(0x4fbb1d0)",
+      "Wikipedia",
+      "Pattern",
+      "\n<a href=\"http://duckduckgo.com/Pattern\">Pattern</a> - A pattern, apart from the term's use to mean \"Template\" is a discernible regularity in the world or in a manmade design.",
+      "http://www.merriam-webster.com/dictionary/pattern",
+      "pattern definition: a form or model proposed for imitation.",
+      "Merriam-Webster",
+      "HASH(0x4faed60)",
+      "D"
+   ],
    "micro-www-search" : [
       "patterns\n>http\nhttp://char.txa.cornell.edu/language/element/pattern/pattern.htm\nhttp://en.m.wikipedia.org/wiki/Pattern\nhttp://en.wikipedia.org/w/index.php?title=Pattern&oldid=541509623\nhttp://patternity.co.uk\nhttp://www.coas.howard.edu/mathematics/faculty/bayne/patterns.html\n\n>pdf\nhttp://polar.ncep.noaa.gov/mmab/papers/tn270/Howard_08.pdf\nhttp://polar.ncep.noaa.gov/mmab/papers/tn270/Howard_08.pdf\nhttp://www.ecs.syr.edu/faculty/lewalle/FluidDynamics/fluidsCh9.pdf\nhttp://www.scipress.org/journals/forma/pdf/1904/19040335.pdf\nhttp://www.scipress.org/journals/forma/pdf/1904/19040335.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Igreja_de_Campanha_Azulejo_4.jpg/300px-Igreja_de_Campanha_Azulejo_4.jpg\n\n",
       "pattern\n>http\nhttp://char.txa.cornell.edu/language/element/pattern/pattern.htm\nhttp://en.m.wikipedia.org/wiki/Pattern\nhttp://en.wikipedia.org/w/index.php?title=Pattern&oldid=541509623\nhttp://patternity.co.uk\nhttp://www.coas.howard.edu/mathematics/faculty/bayne/patterns.html\n\n>pdf\nhttp://polar.ncep.noaa.gov/mmab/papers/tn270/Howard_08.pdf\nhttp://polar.ncep.noaa.gov/mmab/papers/tn270/Howard_08.pdf\nhttp://www.ecs.syr.edu/faculty/lewalle/FluidDynamics/fluidsCh9.pdf\nhttp://www.scipress.org/journals/forma/pdf/1904/19040335.pdf\nhttp://www.scipress.org/journals/forma/pdf/1904/19040335.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Igreja_de_Campanha_Azulejo_4.jpg/300px-Igreja_de_Campanha_Azulejo_4.jpg\n\n",
@@ -93,7 +93,6 @@
       "Pattern\n>pdf\nhttp://polar.ncep.noaa.gov/mmab/papers/tn270/Howard_08.pdf\nhttp://polar.ncep.noaa.gov/mmab/papers/tn270/Howard_08.pdf\nhttp://www.ecs.syr.edu/faculty/lewalle/FluidDynamics/fluidsCh9.pdf\nhttp://www.scipress.org/journals/forma/pdf/1904/19040335.pdf\nhttp://www.scipress.org/journals/forma/pdf/1904/19040335.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Igreja_de_Campanha_Azulejo_4.jpg/300px-Igreja_de_Campanha_Azulejo_4.jpg\n"
    ],
    "created" : 1373458551,
-   "book" : [],
    "micro-www" : {
       "pattern" : [
          "patterns",
@@ -108,6 +107,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Design",

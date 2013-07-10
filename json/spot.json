@@ -119,22 +119,7 @@
       "holy_place",
       "point"
    ],
-   "duck" : [
-      "The common noun or verb spot has many meanings in English.",
-      "https://en.wikipedia.org/wiki/Spot",
-      "\n<a href=\"http://duckduckgo.com/Spot_price\">Spot price</a>, a financial term for price of trade done today",
-      "HASH(0x5d954d0)",
-      "Wikipedia",
-      "Spot",
-      "\n<a href=\"http://duckduckgo.com/Spot_market\">Spot market</a>, a financial market in which financial instruments or commodities are traded for immediate delivery (\"on the spot\")",
-      "http://www.merriam-webster.com/dictionary/spot",
-      "\n<a href=\"http://duckduckgo.com/Cool_Spot\">Cool Spot</a>, a mascot for 7 Up soft drinks",
-      "spot definition: a taint on character or reputation.",
-      "Merriam-Webster",
-      "HASH(0x5df99c0)",
-      "The common noun or verb spot has many meanings in English.",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Victoria_power_grid_collapses_due_to_spot_fires\" title=\"Victoria power grid collapses due to spot fires\">Victoria power grid collapses due to <span class=\"searchmatch\">spot</span> fires</a>",
@@ -163,7 +148,22 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "The common noun or verb spot has many meanings in English.",
+      "https://en.wikipedia.org/wiki/Spot",
+      "\n<a href=\"http://duckduckgo.com/Spot_price\">Spot price</a>, a financial term for price of trade done today",
+      "HASH(0x5d954d0)",
+      "Wikipedia",
+      "Spot",
+      "\n<a href=\"http://duckduckgo.com/Spot_market\">Spot market</a>, a financial market in which financial instruments or commodities are traded for immediate delivery (\"on the spot\")",
+      "http://www.merriam-webster.com/dictionary/spot",
+      "\n<a href=\"http://duckduckgo.com/Cool_Spot\">Cool Spot</a>, a mascot for 7 Up soft drinks",
+      "spot definition: a taint on character or reputation.",
+      "Merriam-Webster",
+      "HASH(0x5df99c0)",
+      "The common noun or verb spot has many meanings in English.",
+      "D"
+   ],
    "micro-www-search" : [
       "spots\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "Spot_(music_festival)\n>image\nhttp://upload.wikimedia.org/wikipedia/en/7/71/SPOT_logo2.png\n\n",
@@ -174,7 +174,6 @@
       "SPOT_(producer)\n>image\nhttp://upload.wikimedia.org/wikipedia/en/f/f4/Ambox_content.png\n"
    ],
    "created" : 1373455386,
-   "book" : [],
    "micro-www" : {
       "spot" : [
          "spots",
@@ -187,6 +186,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\nThe common noun or verb 'spot' has many meanings in English.\n\nOtherwise, 'Spot' or 'SPOT' may refer to:\n",

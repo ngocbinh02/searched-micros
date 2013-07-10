@@ -34,20 +34,7 @@
       "lowness",
       "calibre"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Level",
-      "HASH(0x4f88200)",
-      "Wikipedia",
-      "\n<a href=\"http://duckduckgo.com/Level_of_measurement\">Level of measurement</a>, a theory of the kinds of scales or levels used for measuring",
-      "Level",
-      "\n<a href=\"http://duckduckgo.com/Energy_level\">Energy level</a>s, discrete amounts of energy that can be held by a quantum mechanical system or confined particle",
-      "http://www.merriam-webster.com/dictionary/populated",
-      "populated definition: to have a place in.",
-      "Merriam-Webster",
-      "HASH(0x50f7d18)",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Sea_level\">Sea level</a>, the average height of the ocean's surface, reference of <a href=\"http://duckduckgo.com/?q=height\">height</a> systems"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Water_level_of_Great_Lakes_is_falling\" title=\"Water level of Great Lakes is falling\">Water <span class=\"searchmatch\">level</span> of Great Lakes is falling</a>",
@@ -77,18 +64,31 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Level",
+      "HASH(0x4f88200)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Level_of_measurement\">Level of measurement</a>, a theory of the kinds of scales or levels used for measuring",
+      "Level",
+      "\n<a href=\"http://duckduckgo.com/Energy_level\">Energy level</a>s, discrete amounts of energy that can be held by a quantum mechanical system or confined particle",
+      "http://www.merriam-webster.com/dictionary/populated",
+      "populated definition: to have a place in.",
+      "Merriam-Webster",
+      "HASH(0x50f7d18)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Sea_level\">Sea level</a>, the average height of the ocean's surface, reference of <a href=\"http://duckduckgo.com/?q=height\">height</a> systems"
+   ],
    "micro-www-search" : [
       "levels\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n"
    ],
    "created" : 1373459215,
-   "book" : [],
    "micro-www" : {
       "levels" : [
          "levels",
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n'Level' or 'levels' or 'levelling' may refer to:\n",

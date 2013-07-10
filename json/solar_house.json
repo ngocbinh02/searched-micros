@@ -1,0 +1,44 @@
+{
+   "micrownet" : [
+      "solar_house"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Greenpeace_protestors_put_solar_panels_on_British_Deputy_Prime_Minister%27s_house\" title=\"Greenpeace protestors put solar panels on British Deputy Prime Minister&#39;s house\">Greenpeace protestors put <span class=\"searchmatch\">solar</span> panels on British Deputy Prime Minister&#39;s <span class=\"searchmatch\">house</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Solar_powered_plane_completes_first_leg_of_transcontinental_trip\" title=\"Solar powered plane completes first leg of transcontinental trip\"><span class=\"searchmatch\">Solar</span> powered plane completes first leg of transcontinental trip</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/United_Nations_Report:_Deserts_threatened_by_global_warming\" title=\"United Nations Report: Deserts threatened by global warming\">United Nations Report: Deserts threatened by global warming</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Alan_Turing_Building_opens_at_University_of_Manchester\" title=\"Alan Turing Building opens at University of Manchester\">Alan Turing Building opens at University of Manchester</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hubble_Space_Telescope_successor_unveiled_by_NASA\" title=\"Hubble Space Telescope successor unveiled by NASA\">Hubble Space Telescope successor unveiled by NASA</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Senate_unanimously_confirms_Michael_Griffin_as_new_NASA_head\" title=\"Senate unanimously confirms Michael Griffin as new NASA head\">Senate unanimously confirms Michael Griffin as new NASA head</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_environmental_housing_regulations_for_Western_Australia\" title=\"New environmental housing regulations for Western Australia\">New environmental housing regulations for Western Australia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/California%27s_SB_1_Bill_Originators%27_and_Supporters_Turn_Against_Bill\" title=\"California&#39;s SB 1 Bill Originators&#39; and Supporters Turn Against Bill\">California&#39;s SB 1 Bill Originators&#39; and Supporters Turn Against Bill</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/CanadaVOTES:_NDP_candidate_Michael_McMahon_running_in_Prince_Edward%E2%80%94Hastings\" title=\"CanadaVOTES: NDP candidate Michael McMahon running in Prince Edward—Hastings\">CanadaVOTES: NDP candidate Michael McMahon running in Prince Edward—Hastings</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:June_8,_2010\" title=\"News briefs:June 8, 2010\">News briefs:June 8, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:June_8,_2010#US_White_House_correspondent_Helen_Thomas_retires_.286:28.29\" title=\"News briefs:June 8, 2010\">US White <span class=\"searchmatch\">House</span> correspondent Helen Thomas retires (6:28) </a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Voyager_space_probes_face_shutdown\" title=\"Voyager space probes face shutdown\">Voyager space probes face shutdown</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:August_3,_2010\" title=\"News briefs:August 3, 2010\">News briefs:August 3, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:August_3,_2010#Waters_on_trial_for_House_ethics_charges_.281:39.29\" title=\"News briefs:August 3, 2010\">Waters on trial for <span class=\"searchmatch\">House</span> ethics charges (1:39) </a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Searching_for_asteroids,_extraterrestrial_life_a_little_more_rocky:_Budget_cuts_threaten_to_close_Arecibo,_world%27s_largest_radio_telescope\" title=\"Searching for asteroids, extraterrestrial life a little more rocky: Budget cuts threaten to close Arecibo, world&#39;s largest radio telescope\">Searching for asteroids, extraterrestrial life a little more rocky: Budget cuts threaten to close Arecibo, world&#39;s largest radio telescope</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/President_Bush_delivers_2006_State_of_the_Union_Address\" title=\"President Bush delivers 2006 State of the Union Address\">President Bush delivers 2006 State of the Union Address</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NASA_plans_for_future_moon_missions\" title=\"NASA plans for future moon missions\">NASA plans for future moon missions</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:May_28,_2010\" title=\"News briefs:May 28, 2010\">News briefs:May 28, 2010</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "HASH(0x4967100)",
+      "HASH(0x4966f50)"
+   ],
+   "created" : 1373461283,
+   "book" : [],
+   "micro-www" : {
+      "solar_house" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

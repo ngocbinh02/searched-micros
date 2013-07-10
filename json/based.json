@@ -8,19 +8,7 @@
       "ground",
       "base"
    ],
-   "duck" : [
-      "The lowest or bottom part: the base of a cliff; the base of a lamp.",
-      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=based",
-      "HASH(0x4f7ec18)",
-      "The Free Dictionary",
-      "based",
-      "http://www.merriam-webster.com/dictionary/based",
-      "based definition: having each item justified on the basis of cost or need.",
-      "Merriam-Webster",
-      "HASH(0x4f7ea50)",
-      "The lowest or bottom part: the base of a cliff; the base of a lamp.",
-      "A"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Kentucky_faith-based_agency_under_fire_for_religious_coercion\" title=\"Kentucky faith-based agency under fire for religious coercion\">Kentucky faith-<span class=\"searchmatch\">based</span> agency under fire for religious coercion</a>",
@@ -49,14 +37,26 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "The lowest or bottom part: the base of a cliff; the base of a lamp.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=based",
+      "HASH(0x4f7ec18)",
+      "The Free Dictionary",
+      "based",
+      "http://www.merriam-webster.com/dictionary/based",
+      "based definition: having each item justified on the basis of cost or need.",
+      "Merriam-Webster",
+      "HASH(0x4f7ea50)",
+      "The lowest or bottom part: the base of a cliff; the base of a lamp.",
+      "A"
+   ],
    "micro-www-search" : [],
    "created" : 1373460352,
-   "book" : [],
    "micro-www" : {
       "based" : [
          ""
       ]
    },
+   "book" : [],
    "micro-relation" : []
 }

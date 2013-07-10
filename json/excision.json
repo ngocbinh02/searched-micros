@@ -1,0 +1,76 @@
+{
+   "micrownet" : [
+      "excision"
+   ],
+   "micro" : [
+      "excision",
+      "abstract_entity",
+      "editing",
+      "written_communication",
+      "cut",
+      "written_material",
+      "writing",
+      "entity",
+      "communication",
+      "black_and_white",
+      "abstraction",
+      "redaction",
+      "piece_of_writing",
+      "deletion",
+      "written_language"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "Excision means \"removal by cutting\".",
+      "https://en.wikipedia.org/wiki/Excision",
+      "\n<a href=\"http://duckduckgo.com/Excision_(musician)\">Excision (musician)</a>, a Canadian dubstep producer from British Columbia.",
+      "HASH(0x4d785c0)",
+      "Wikipedia",
+      "Excision",
+      "http://www.merriam-webster.com/dictionary/excision",
+      "excision definition: the act or procedure of removing by or as if by cutting out; '''especially''' surgical removal or resection.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Excision_(film)\">Excision (film)</a>, a 2012 American horror film",
+      "HASH(0x4f25c90)",
+      "\n<a href=\"http://duckduckgo.com/Excise\">Excise</a>, taxes charged on the purchase of goods or services",
+      "\n<a href=\"http://duckduckgo.com/Excision_theorem\">Excision theorem</a> in algebraic topology, a branch of mathematics",
+      "Excision means \"removal by cutting\".",
+      "D"
+   ],
+   "micro-www-search" : [
+      "excision\n>http\nhttp://en.m.wikipedia.org/wiki/Excision\nhttp://en.wikipedia.org/w/index.php?title=Excision&oldid=528626784\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
+      "Excision_theorem\n",
+      "Excision_(musician)\n>http\nhttp://djz.com/featured_djs/excision/\nhttp://en.m.wikipedia.org/wiki/Excision_(musician)\nhttp://en.wikipedia.org/w/index.php?title=Excision_(musician)&oldid=543336016\nhttp://excision.ca\nhttp://www.beatport.com/en-US/html/content/artist/detail/63621/excision\nhttp://www.excision.ca/\nhttp://www.excision.ca/?page_id=159\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png\n\n",
+      "Excision_(film)\n>http\nhttp://en.m.wikipedia.org/wiki/Excision_(film)\nhttp://en.wikipedia.org/w/index.php?title=Excision_(film)&oldid=543680802\nhttp://excisionmovie.com\nhttp://filmguide.sundance.org/film/120134/excision\nhttp://www.rottentomatoes.com/m/excision_2012/\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Excision_poster.jpg/215px-Excision_poster.jpg\n"
+   ],
+   "created" : 1373461202,
+   "micro-www" : {
+      "excision" : [
+         "excision",
+         "Excision_theorem",
+         "Excision_(musician)",
+         "Excision_(film)",
+         ""
+      ]
+   },
+   "book" : [],
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Excision' means \"removal by cutting\".\n\n* In surgery, the complete removal of an organ, tissue, bone or tumor\n  from a body\n* A term used by the Australian government as part of its definition of the\n  Australian migration zone\n* Excision theorem in algebraic topology, a branch of mathematics\n* Excise, taxes charged on the purchase of goods or services\n* Excision (musician), a Canadian dubstep producer from British Columbia.\n* ''Excision'' (film), a 2012 American horror film\n* Excision Gaming (Online Game Syndicate), A 30+ PVP-oriented online gaming\n  group http://www.exosyn.com.\n",
+      "title" : "excision",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Surgery",
+      "1: Australian_migration_zone",
+      "1: Excision_theorem",
+      "1: Excise"
+   ]
+}

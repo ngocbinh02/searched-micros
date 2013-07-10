@@ -1,0 +1,72 @@
+{
+   "micrownet" : [
+      "transcribed"
+   ],
+   "micro" : [
+      "set_down",
+      "get_down",
+      "transcribe",
+      "write_down",
+      "put_down"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Genetically_altered_mice_are_%22superathletes%22\" title=\"Genetically altered mice are &quot;superathletes&quot;\">Genetically altered mice are &quot;superathletes&quot;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2006_Nobel_Prize_in_chemistry_for_insight_into_cells\" title=\"2006 Nobel Prize in chemistry for insight into cells\">2006 Nobel Prize in chemistry for insight into cells</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/ANZACs_remembered_ninety_years_after_assault_on_Gallipoli\" title=\"ANZACs remembered ninety years after assault on Gallipoli\">ANZACs remembered ninety years after assault on Gallipoli</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:July_28,_2010\" title=\"News briefs:July 28, 2010\">News briefs:July 28, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Child_killer_Huntley_releases_confession_tape\" title=\"Child killer Huntley releases confession tape\">Child killer Huntley releases confession tape</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Full_video_of_Tigger_incident_reveals_different_story\" title=\"Full video of Tigger incident reveals different story\">Full video of Tigger incident reveals different story</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Transcription",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Transcription_(software)\">Transcription (software)</a>, software which helps (manually or automatically) convert speech into text transcript",
+      "Transcription",
+      "http://www.merriam-webster.com/dictionary/transcription",
+      "\n<a href=\"http://duckduckgo.com/Transcription_(genetics)\">Transcription (genetics)</a>, the copying of DNA into messenger RNA in gene expression",
+      "transcription definition: an act, process, or instance of transcribing.",
+      "\n<a href=\"http://duckduckgo.com/Transcription_(linguistics)\">Transcription (linguistics)</a>, the representation of speech in written form",
+      "\n<a href=\"http://duckduckgo.com/Medical_transcription\">Medical transcription</a>, documentation of patient medical records",
+      "\n<a href=\"http://duckduckgo.com/Transcription_(music)\">Transcription (music)</a>, notating an unnotated piece, or copying / rewriting a piece for clarity or as an arrangement for another instrument",
+      "HASH(0x5329088)",
+      "\n<a href=\"http://duckduckgo.com/Transcription_(service)\">Transcription (service)</a>, a business which converts speech into a written or electronic text document",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Transcription_disc\">Transcription disc</a>, a sound recording made during broadcasting for internal use by the broadcasting organization",
+      "HASH(0x543efd0)",
+      "\n<a href=\"http://duckduckgo.com/Piano_transcription\">Piano transcription</a>, a piece of music played on one or more pianos that is an approximation of a source piece of music",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Phonetic_transcription\">Phonetic transcription</a>, the representation specifically of speech sounds"
+   ],
+   "micro-www-search" : [
+      "transcribed\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n"
+   ],
+   "created" : 1373461128,
+   "micro-www" : {
+      "transcribed" : [
+         "transcribed",
+         ""
+      ]
+   },
+   "book" : [],
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Transcription' may refer to:\n\n*Transcription (service), a business which converts speech into a written or\nelectronic text document *Transcription (software), software which helps\n(manually or automatically) convert speech into text transcript *Transcription\n(genetics), the copying of DNA into messenger RNA in gene expression\n*Transcription (linguistics), the representation of speech in written form\n**Phonetic transcription, the representation specifically of speech sounds\n*Transcription (music), notating an unnotated piece, or copying / rewriting a\npiece for clarity or as an arrangement for another instrument *Piano\ntranscription, a piece of music played on one or more pianos that is an\napproximation of a source piece of music *Medical transcription, documentation\nof patient medical records *Transcription disc, a sound recording made during\nbroadcasting for internal use by the broadcasting organization\n",
+      "title" : "Transcription",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Phonetic_transcription",
+      "1: Piano_transcription",
+      "1: Medical_transcription",
+      "1: Transcription_disc"
+   ]
+}

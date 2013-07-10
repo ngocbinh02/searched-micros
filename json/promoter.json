@@ -34,23 +34,7 @@
       "being",
       "communicator"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Promoter_(genetics)\">Promoter (genetics)</a>, a regulatory region of DNA usually located upstream of a gene, providing a control point for regulated gene transcription",
-      "\n<a href=\"http://duckduckgo.com/Promoter_(role_variant)\">Promoter (role variant)</a>, one of the sixteen personality types of the Keirsey Temperament Sorter",
-      "https://en.wikipedia.org/wiki/Promoter",
-      "\n<a href=\"http://duckduckgo.com/Tour_promoter\">Tour promoter</a>, individuals or companies responsible for organizing a live concert tour or special event performance",
-      "HASH(0x5dff390)",
-      "Wikipedia",
-      "\n<a href=\"http://duckduckgo.com/catalysis\">Promoter (catalysis)</a>, an accelerator of a catalyst, though not a catalyst itself",
-      "\n<a href=\"http://duckduckgo.com/Promoter_(entertainment)\">Promoter (entertainment)</a>, one who makes arrangements for events",
-      "Promoter",
-      "http://www.merriam-webster.com/dictionary/promoter",
-      "\n<a href=\"http://duckduckgo.com/Corporate_promoter\">Corporate promoter</a>, an entity who takes active steps in the formation, organization, or financing of a corporation",
-      "promoter definition: one that promotes; '''especially'''.",
-      "Merriam-Webster",
-      "HASH(0x5dffe10)",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Music_promoter_Mean_Fiddler_sold_for_almost_%C2%A338m\" title=\"Music promoter Mean Fiddler sold for almost £38m\">Music <span class=\"searchmatch\">promoter</span> Mean Fiddler sold for almost £38m</a>",
@@ -77,7 +61,23 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Promoter_(genetics)\">Promoter (genetics)</a>, a regulatory region of DNA usually located upstream of a gene, providing a control point for regulated gene transcription",
+      "\n<a href=\"http://duckduckgo.com/Promoter_(role_variant)\">Promoter (role variant)</a>, one of the sixteen personality types of the Keirsey Temperament Sorter",
+      "https://en.wikipedia.org/wiki/Promoter",
+      "\n<a href=\"http://duckduckgo.com/Tour_promoter\">Tour promoter</a>, individuals or companies responsible for organizing a live concert tour or special event performance",
+      "HASH(0x5dff390)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/catalysis\">Promoter (catalysis)</a>, an accelerator of a catalyst, though not a catalyst itself",
+      "\n<a href=\"http://duckduckgo.com/Promoter_(entertainment)\">Promoter (entertainment)</a>, one who makes arrangements for events",
+      "Promoter",
+      "http://www.merriam-webster.com/dictionary/promoter",
+      "\n<a href=\"http://duckduckgo.com/Corporate_promoter\">Corporate promoter</a>, an entity who takes active steps in the formation, organization, or financing of a corporation",
+      "promoter definition: one that promotes; '''especially'''.",
+      "Merriam-Webster",
+      "HASH(0x5dffe10)",
+      "D"
+   ],
    "micro-www-search" : [
       "promoters\n>http\nhttp://en.m.wikipedia.org/wiki/Promoter\nhttp://en.wikipedia.org/w/index.php?title=Promoter&oldid=541957658\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "promoter\n>http\nhttp://en.m.wikipedia.org/wiki/Promoter\nhttp://en.wikipedia.org/w/index.php?title=Promoter&oldid=541957658\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
@@ -89,7 +89,6 @@
       "Promoter_(biology)\n>pdf\nhttp://www.biomedcentral.com/content/pdf/1471-2164-13-512.pdf\nhttp://www.biomedcentral.com/content/pdf/1471-2164-13-512.pdf\nhttp://www.cs.tau.ac.il/~roded/courses/bnet-a06/lec11.pdf\nhttp://www.cs.tau.ac.il/~roded/courses/bnet-a06/lec11.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lac_Operon.svg/250px-Lac_Operon.svg.png\n"
    ],
    "created" : 1373456976,
-   "book" : [],
    "micro-www" : {
       "promoter" : [
          "promoters",
@@ -103,6 +102,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n'Promoter' may refer to:\n\n* Promoter (entertainment), one who makes arrangements for events\n* Tour promoter, individuals or companies responsible for organizing a live\n  concert tour or special event performance\n* Corporate promoter, an entity who takes active steps in the formation,\n  organization, or financing of a corporation\n* Promoter (genetics), a regulatory region of DNA usually located upstream of a\n  gene, providing a control point for regulated gene transcription\n* Promoter (catalysis), an accelerator of a catalyst, though not a\n  catalyst itself\n* Promoter (role variant), one of the sixteen personality types of the Keirsey\n  Temperament Sorter\n* Promoter (Catholic church), an office of the Catholic Church such as Promoter\n  of the Laity, Promoter of Peace and Justice, or Promoter of the Faith (also\n  known as the Devil's advocate)\n* Promotor (Dutch-Belgian academia), a full professor of a Dutch or Flanders\n  university who formally promotes a PhD candidate to doctor, and is (formally)\n  the principal supervisor during the doctoral research.\n",

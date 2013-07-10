@@ -207,17 +207,9 @@
       "phenomenon",
       "entity"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Gas_(disambiguation)",
-      "HASH(0x2d54e48)",
-      "Wikipedia",
-      "Gas",
-      "http://www.merriam-webster.com/dictionary/gas",
-      "\n<a href=\"http://duckduckgo.com/Gas\">Gas</a> is one of the phases of matter (Gases, or Gasses Plural) along with solid and liquid. This may also refer to:",
-      "gas definition: a fluid (as air) that has neither independent shape nor volume but tends to expand indefinitely.",
-      "Merriam-Webster",
-      "HASH(0x5d804c0)",
-      "D"
+   "Lists" : [
+      "List_of_states_of_matter",
+      "List_of_refractive_indices"
    ],
    "common" : {
       "milestones" : [
@@ -247,9 +239,17 @@
          []
       ]
    },
-   "Lists" : [
-      "List_of_states_of_matter",
-      "List_of_refractive_indices"
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Gas_(disambiguation)",
+      "HASH(0x2d54e48)",
+      "Wikipedia",
+      "Gas",
+      "http://www.merriam-webster.com/dictionary/gas",
+      "\n<a href=\"http://duckduckgo.com/Gas\">Gas</a> is one of the phases of matter (Gases, or Gasses Plural) along with solid and liquid. This may also refer to:",
+      "gas definition: a fluid (as air) that has neither independent shape nor volume but tends to expand indefinitely.",
+      "Merriam-Webster",
+      "HASH(0x5d804c0)",
+      "D"
    ],
    "micro-www-search" : [
       "gastrotricha\n>http\nhttp://en.wikipedia.org/w/index.php?title=Gastrotrich&oldid=541174737\nhttp://www.gastrotricha.unimore.it/overview.htm\n\n>pdf\nhttp://mapress.com/zootaxa/2011/f/zt03148p012.pdf\nhttp://mapress.com/zootaxa/2011/f/zt03148p012.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Gastrotrich.jpg/220px-Gastrotrich.jpg\n\n",
@@ -303,7 +303,6 @@
       "Gas\n>http\nhttp://en.wikipedia.org/w/index.php?title=Gas&oldid=560669039\nhttp://www.etymonline.com/index.php?term=gas\nhttp://www.wordwebonline.com/en/GASEOUSSTATE\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/b/b6/Nitrogen.ogg\nhttp://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png\n\n>media\nhttp://upload.wikimedia.org/wikipedia/commons/b/b6/Nitrogen.ogg\n"
    ],
    "created" : 1373455161,
-   "book" : [],
    "micro-www" : {
       "gas" : [
          "gastrotricha",
@@ -358,6 +357,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Concepts in physics",

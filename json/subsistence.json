@@ -1,0 +1,75 @@
+{
+   "micrownet" : [
+      "subsistence",
+      "subsistence_farming"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_blitz_on_fish_poaching\" title=\"Australian blitz on fish poaching\">Australian blitz on fish poaching</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/IWC_passes_pro-whaling_resolution_after_close_vote\" title=\"IWC passes pro-whaling resolution after close vote\">IWC passes pro-whaling resolution after close vote</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Doha_round_of_trade_talks_suspended_after_negotiations_fail\" title=\"Doha round of trade talks suspended after negotiations fail\">Doha round of trade talks suspended after negotiations fail</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Malawi_appeals_for_further_humanitarian_aid\" title=\"Malawi appeals for further humanitarian aid\">Malawi appeals for further humanitarian aid</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ethiopians_vote_amid_opposition_charges_of_fraud\" title=\"Ethiopians vote amid opposition charges of fraud\">Ethiopians vote amid opposition charges of fraud</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Violence_in_Uganda_over_forest_clearing_proposal\" title=\"Violence in Uganda over forest clearing proposal\">Violence in Uganda over forest clearing proposal</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "A means of subsisting, especially means barely sufficient to maintain life.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=subsistence",
+      "HASH(0x4a502e0)",
+      "The Free Dictionary",
+      "subsistence",
+      "http://www.merriam-webster.com/dictionary/subsistence",
+      "subsistence definition: real being.",
+      "Merriam-Webster",
+      "HASH(0x4bfeae0)",
+      "A means of subsisting, especially means barely sufficient to maintain life.",
+      "A"
+   ],
+   "created" : 1373461630,
+   "book" : [],
+   "micro-www" : {
+      "subsistence" : [
+         "subsistence",
+         "Subsistence_economy",
+         "Subsistence_agriculture",
+         "Subsistence",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Agricultural economics"
+      ],
+      "text" : "\n\nSubsistence is the action or fact of maintaining or supporting oneself at a\nminimum level.\n\nThe following is a list of 'subsistence techniques':\n\n* '[[Hunter-gatherer|Hunting and Gathering]] techniques', also known as\n  Foraging: ** Artisan fishing — a term which particularly applies to coastal or\n  island ethnic groups using traditional techniques for subsistence fishing.\n* 'Cultivation': ** Horticulture — plant cultivation, based on the use of simple\n  tools. ** Subsistence agriculture — agricultural cultivation involving\n  continuous use of arable (crop) land, and is more labor-intensive than\n  horticulture.\n\n* '[[Animal husbandry|Pastoralism]]', the raising of grazing animals: **\n  Pastoral nomadism — all members of the pastoral society follow the herd\n  throughout the year. ** Transhumance or agro-pastoralism — part of the society\n  follows the herd, while the other part maintains a home village. ** Ranch\n  agriculture — non-nomadic pastoralism with a defined territory.\n\n* '[[distribution (business)|Distribution]]' and\n  '[[wiktionary:exchange|Exchange]]': ** Redistribution ** Reciprocity —\n  exchange between social equals. ** Potlatching — a widely studied ritual in\n  which sponsors (helped by their entourages) gave away resources and\n  manufactured wealth while generating prestige for themselves. ** LETS — Local\n  Exchange Trading Systems. *a parasitical society, subsisting on the produce of\n  a separate host society **raiding **conquest and taxation\n",
+      "title" : "List of subsistence techniques",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Subsistence_economy",
+      "1: Foraging",
+      "1: Artisan_fishing",
+      "1: Horticulture",
+      "1: Subsistence_agriculture",
+      "1: Agriculture",
+      "1: Arable_land",
+      "1: Nomad",
+      "1: Transhumance",
+      "1: Agro-pastoralism",
+      "1: Ranching",
+      "1: Norm_of_reciprocity",
+      "1: Potlatch",
+      "1: LETS",
+      "1: Taxation",
+      "1: Anthropological_theories_of_value",
+      "1: Staple_food",
+      "1: Society"
+   ]
+}

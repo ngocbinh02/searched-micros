@@ -15,9 +15,8 @@
       "measure",
       "angular_unit"
    ],
-   "duck" : [
-      "HASH(0x5c95f30)",
-      "HASH(0x5cac128)"
+   "Lists" : [
+      "List_of_XML_and_HTML_character_entity_references"
    ],
    "common" : {
       "milestones" : [
@@ -29,20 +28,21 @@
          []
       ]
    },
-   "Lists" : [
-      "List_of_XML_and_HTML_character_entity_references"
+   "duck" : [
+      "HASH(0x5c95f30)",
+      "HASH(0x5cac128)"
    ],
    "micro-www-search" : [
       "Straight_angle\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Angle_Symbol.svg/120px-Angle_Symbol.svg.png\n"
    ],
    "created" : 1373455784,
-   "book" : [],
    "micro-www" : {
       "straight_angle" : [
          "Straight_angle",
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Angle|"

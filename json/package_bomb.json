@@ -25,10 +25,7 @@
       "weaponry",
       "explosive_device"
    ],
-   "duck" : [
-      "HASH(0x5d43fb8)",
-      "HASH(0x5d80328)"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Spain%27s_Ibiza_airport_evacuated_after_bomb_alert\" title=\"Spain&#39;s Ibiza airport evacuated after bomb alert\">Spain&#39;s Ibiza airport evacuated after <span class=\"searchmatch\">bomb</span> alert</a>",
@@ -57,14 +54,17 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "HASH(0x5d43fb8)",
+      "HASH(0x5d80328)"
+   ],
    "micro-www-search" : [],
    "created" : 1373455394,
-   "book" : [],
    "micro-www" : {
       "package_bomb" : [
          ""
       ]
    },
+   "book" : [],
    "micro-relation" : []
 }

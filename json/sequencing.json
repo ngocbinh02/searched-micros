@@ -9,6 +9,20 @@
       "place",
       "order"
    ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chimpanzee_genome_sequenced\" title=\"Chimpanzee genome sequenced\">Chimpanzee genome sequenced</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mutant_gene_predicts_common_Parkinson%27s\" title=\"Mutant gene predicts common Parkinson&#39;s\">Mutant gene predicts common Parkinson&#39;s</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Large_scale_gene_transfer_between_single-celled_and_multicellular_organisms_reported\" title=\"Large scale gene transfer between single-celled and multicellular organisms reported\">Large scale gene transfer between single-celled and multicellular organisms reported</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ancient_neanderthal_protein_sequenced\" title=\"Ancient neanderthal protein sequenced\">Ancient neanderthal protein sequenced</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scientists_discover_300_new_species_on_island_of_Luzon_in_the_Philippines\" title=\"Scientists discover 300 new species on island of Luzon in the Philippines\">Scientists discover 300 new species on island of Luzon in the Philippines</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
    "duck" : [
       "https://en.wikipedia.org/wiki/Sequencing",
       "\n<a href=\"http://duckduckgo.com/c/Molecular_biology\">Molecular biology</a>",
@@ -31,31 +45,17 @@
       "A",
       "In genetics and biochemistry, sequencing means to determine the primary structure of an unbranched biopolymer."
    ],
-   "common" : {
-      "milestones" : [
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chimpanzee_genome_sequenced\" title=\"Chimpanzee genome sequenced\">Chimpanzee genome sequenced</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mutant_gene_predicts_common_Parkinson%27s\" title=\"Mutant gene predicts common Parkinson&#39;s\">Mutant gene predicts common Parkinson&#39;s</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Large_scale_gene_transfer_between_single-celled_and_multicellular_organisms_reported\" title=\"Large scale gene transfer between single-celled and multicellular organisms reported\">Large scale gene transfer between single-celled and multicellular organisms reported</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ancient_neanderthal_protein_sequenced\" title=\"Ancient neanderthal protein sequenced\">Ancient neanderthal protein sequenced</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scientists_discover_300_new_species_on_island_of_Luzon_in_the_Philippines\" title=\"Scientists discover 300 new species on island of Luzon in the Philippines\">Scientists discover 300 new species on island of Luzon in the Philippines</a>"
-      ],
-      "image" : [
-         [],
-         []
-      ]
-   },
-   "Lists" : [],
    "micro-www-search" : [
       "Sequencing\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n"
    ],
    "created" : 1373458354,
-   "book" : [],
    "micro-www" : {
       "sequencing" : [
          "Sequencing",
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Biochemistry methods",

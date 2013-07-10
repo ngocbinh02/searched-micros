@@ -119,16 +119,7 @@
       "mole",
       "metric_weight_unit"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Mol",
-      "HASH(0x6477b48)",
-      "Wikipedia",
-      "\n<a href=\"http://duckduckgo.com/John_de_Mol\">John de Mol</a> (b. 1955), Dutch media tycoon",
-      "Mol",
-      "HASH(0x651a940)",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Gretchen_Mol\">Gretchen Mol</a> (b. 1972), American actress"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Naperville,_Illinois_welcomes_home_Olympic_silver_medalist_Molly_Schaus\" title=\"Naperville, Illinois welcomes home Olympic silver medalist Molly Schaus\">Naperville, Illinois welcomes home Olympic silver medalist Molly Schaus</a>",
@@ -156,7 +147,16 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Mol",
+      "HASH(0x6477b48)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/John_de_Mol\">John de Mol</a> (b. 1955), Dutch media tycoon",
+      "Mol",
+      "HASH(0x651a940)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Gretchen_Mol\">Gretchen Mol</a> (b. 1972), American actress"
+   ],
    "micro-www-search" : [
       "molybdenum\n>http\nhttp://books.google.com/?id=HT4aAQAAIAAJ&q=Elmore+flotation+molybdenum+1913&dq=Elmore+flotation+molybdenum+1913\nhttp://books.google.com/?id=yUpYAAAAMAAJ&q=Japanese+sword+molybdenum&dq=Japanese+sword+molybdenum\nhttp://en.m.wikipedia.org/wiki/Molybdenum\nhttp://en.wikipedia.org/w/index.php?title=Molybdenum&oldid=558815318\nhttp://minerals.usgs.gov/minerals/pubs/commodity/molybdenum/\nhttp://openmopac.net/data_normal/molybdenum(i)%20fluoride_jmol.html\nhttp://rais.ornl.gov/tox/profiles/molybdenum_f_V1.shtml\nhttp://web.archive.org/web/20070919204536http:///rais.ornl.gov/tox/profiles/molybdenum_f_V1.shtml\nhttp://www.cdc.gov/niosh/idlh/moly-mo.html\nhttp://www.imoa.info/molybdenum/molydbenum_history.php\nhttp://www.infomine.com/investment/charts.aspx?c=molybdenum&u=mt&submit1=Display+Chart&x=usd&r=15y#chart\n\n>pdf\nhttp://cancerres.aacrjournals.org/content/40/8_Part_1/2633.full.pdf\nhttp://jdr.sagepub.com/content/50/1/74.full.pdf\nhttp://ric.uthscsa.edu/personalpages/lancaster/DI-II_Chapters/DI_chap4.pdf\nhttp://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf\nhttp://www.ams.ac.ir/AIM/08114/0010.pdf\nhttp://www.ciaaw.org/pubs/TSAW2007.pdf\nhttp://www.linguistics.ucla.edu/people/melchert/webpage/molybdos.pdf\nhttp://www.minsocam.org/msa/AmMin/TOC/Abstracts/2002_Abstracts/Jan02_Abstracts/Jambor_p181_02.pdf\nhttp://www.nutritionhealthinfo.com/nutrition/nutrition_0163_001.pdf\nhttp://www.nutritionhealthinfo.com/nutrition/nutrition_0163_001.pdf\nhttp://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif\n\n",
       "molten\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Melting_icecubes.gif/220px-Melting_icecubes.gif\n\n",
@@ -236,7 +236,6 @@
       "Molar_(grape)\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Listan_Negro_grapes_in_Tenerife.jpg/300px-Listan_Negro_grapes_in_Tenerife.jpg\n"
    ],
    "created" : 1373457342,
-   "book" : [],
    "micro-www" : {
       "mol" : [
          "molybdenum",
@@ -318,6 +317,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Mol' or 'MOL' may refer to:\n",

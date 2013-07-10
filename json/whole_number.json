@@ -24,10 +24,7 @@
       "quantity",
       "factor"
    ],
-   "duck" : [
-      "HASH(0x5dce990)",
-      "HASH(0x5d90648)"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_computer_scientist%27s_new_%22nullity%22_idea_provokes_reaction_from_mathematicians\" title=\"British computer scientist&#39;s new &quot;nullity&quot; idea provokes reaction from mathematicians\">British computer scientist&#39;s new &quot;nullity&quot; idea provokes reaction from mathematicians</a>",
@@ -57,15 +54,18 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "HASH(0x5dce990)",
+      "HASH(0x5d90648)"
+   ],
    "micro-www-search" : [],
    "created" : 1373455886,
-   "book" : [],
    "micro-www" : {
       "whole_number" : [
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "<!-- BEFORE YOU EDIT THIS PAGE, PLEASE READ COMMENT AT END. -->\n\n\n'Whole numbers' may variously refer to: *natural numbers beginning 1, 2, 3, ...;\nthe positive integers *natural numbers beginning 0, 1, 2, 3, ...; the non-\nnegative integers *all integers ..., -3, -2, -1, 0, 1, 2, 3, ...\n\n<!-- Below are references for each of the three ways whole number has been used\nin mathematical literature: Whole number as nonnegative integer:\n      + *Bourbaki, N. [http://www.amazon.com/exec/obidos/ASIN/3540225250/\n        Elements of Mathematics: Theory of Sets]. Paris: Hermann, 1968.\n      + *Halmos, P. R. [http://www.amazon.com/exec/obidos/ASIN/0387900926/ Naive\n        Set Theory]. New York: Springer-Verlag, 1974.\n      + *The Math Forum, in explaining real numbers, describes \"whole number\" as\n        [http://mathforum.org/library/drmath/view/57052.html \"0, 1, 2, 3, ...\"].\n        Whole number as positive integer:\n      + *The Math Forum, in explaining perfect numbers, describes whole number\n        as [http://mathforum.org/dr.math/faq/faq.perfect.html \"an integer\n        greater than zero\"].\n      + *Eric W. Weisstein. \"Whole Number.\" From\n        [http://mathworld.wolfram.com/WholeNumber.html MathWorld&mdash;A\n        Wolfram Web Resource]. (Weisstein's primary definition is as positive\n        integer. However, he acknowledges other definitions of whole number,\n        and is the source of the reference to Bourbaki and Halmos above.) Whole\n        number as integer:\n      + *Alan F. Beardon, Professor in Complex Analysis at the University of\n        Cambridge: [http://nrich.maths.org/1321 \"of course a whole number can be\n        negative...\"]\n      + *The [http://www.amazon.com/gp/product/0395825172/ American Heritage\n        Dictionary of the English Language], 4th edition, includes all three\n        possibilities as definitions of whole number. See also:\n        [http://dictionary.reference.com/browse/whole+number].\n      + *Webster's Third New International Dictionary (Unabridged) has the\n        following entry: \"whole number n : INTEGER\". -->\n",

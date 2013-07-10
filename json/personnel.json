@@ -61,18 +61,8 @@
       "armed_service",
       "abstract_entity"
    ],
-   "duck" : [
-      "The body of persons employed by or active in an organization, business, or service.",
-      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=personnel",
-      "HASH(0x5c49390)",
-      "The Free Dictionary",
-      "personnel",
-      "http://www.merriam-webster.com/dictionary/personnel",
-      "personnel definition: a body of persons usually employed (as in a factory, office, or organization).",
-      "Merriam-Webster",
-      "HASH(0x5c48500)",
-      "The body of persons employed by or active in an organization, business, or service.",
-      "A"
+   "Lists" : [
+      "List_of_largest_employers"
    ],
    "common" : {
       "milestones" : [
@@ -102,17 +92,27 @@
          []
       ]
    },
-   "Lists" : [
-      "List_of_largest_employers"
+   "duck" : [
+      "The body of persons employed by or active in an organization, business, or service.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=personnel",
+      "HASH(0x5c49390)",
+      "The Free Dictionary",
+      "personnel",
+      "http://www.merriam-webster.com/dictionary/personnel",
+      "personnel definition: a body of persons usually employed (as in a factory, office, or organization).",
+      "Merriam-Webster",
+      "HASH(0x5c48500)",
+      "The body of persons employed by or active in an organization, business, or service.",
+      "A"
    ],
    "micro-www-search" : [],
    "created" : 1373455184,
-   "book" : [],
    "micro-www" : {
       "personnel" : [
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Employment|"

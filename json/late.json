@@ -64,21 +64,7 @@
       "sleep_late"
    ],
    "micro" : [],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Late",
-      "HASH(0x4e8dee0)",
-      "Wikipedia",
-      "Late",
-      "http://www.merriam-webster.com/dictionary/late",
-      "late definition: coming or remaining after the due, usual, or proper time.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Late_(album)\">Late (album)</a>, a 2000 album by The 77s",
-      "\n<a href=\"http://duckduckgo.com/Late_(song)\">\"Late\" (song)</a>, a song by Blue Angel",
-      "\nA <a href=\"http://duckduckgo.com/death\">deceased</a> person or thing",
-      "HASH(0x56a1b50)",
-      "\n<a href=\"http://duckduckgo.com/Late_(rapper)\">Late (rapper)</a>, an underground rapper from Wolverhampton",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Airport_named_after_late_Nigerian_President_Umaru_Yar%E2%80%99Adua\" title=\"Airport named after late Nigerian President Umaru Yar’Adua\">Airport named after <span class=\"searchmatch\">late</span> Nigerian President Umaru Yar’Adua</a>",
@@ -108,7 +94,21 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Late",
+      "HASH(0x4e8dee0)",
+      "Wikipedia",
+      "Late",
+      "http://www.merriam-webster.com/dictionary/late",
+      "late definition: coming or remaining after the due, usual, or proper time.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Late_(album)\">Late (album)</a>, a 2000 album by The 77s",
+      "\n<a href=\"http://duckduckgo.com/Late_(song)\">\"Late\" (song)</a>, a song by Blue Angel",
+      "\nA <a href=\"http://duckduckgo.com/death\">deceased</a> person or thing",
+      "HASH(0x56a1b50)",
+      "\n<a href=\"http://duckduckgo.com/Late_(rapper)\">Late (rapper)</a>, an underground rapper from Wolverhampton",
+      "D"
+   ],
    "micro-www-search" : [
       "latex\n>http\nhttp://en.m.wikipedia.org/wiki/Latex\nhttp://en.wikipedia.org/w/index.php?title=Latex&oldid=545889738\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Latex-production.jpg/220px-Latex-production.jpg\n\n",
       "lateral\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
@@ -144,7 +144,6 @@
       "LaTeX\n>pdf\nhttp://www.latex-project.org/guides/ltx3info.pdf\nhttp://www.latex-project.org/guides/ltx3info.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/100px-LaTeX_logo.svg.png\n"
    ],
    "created" : 1373460624,
-   "book" : [],
    "micro-www" : {
       "late" : [
          "latex",
@@ -182,6 +181,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Late' may refer to:\n\n* A deceased person or thing\n* ''Late'' (album), a 2000 album by The 77s\n* Late!, a pseudonym used by Dave Grohl on his [[Pocketwatch\n  (album)|Pocketwatch]] album\n* Late (rapper), an underground rapper from Wolverhampton\n* \"Late\" (song), a song by Blue Angel\n* Late (Tonga), an uninhabited volcanic island southwest of Vavau in the\n  kingdom of Tonga\n* \"Late\", a song by Kanye West from [[Late Registration]]\n",

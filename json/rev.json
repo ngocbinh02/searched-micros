@@ -157,18 +157,7 @@
       "rate",
       "relation"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Mercury_Rev\">Mercury Rev</a>, an American rock music group",
-      "https://en.wikipedia.org/wiki/Rev",
-      "HASH(0x5ae0388)",
-      "Wikipedia",
-      "\n<a href=\"http://duckduckgo.com/The_Rev\">The Rev</a>, former drummer and back-up vocalist for the band Avenged Sevenfold",
-      "Rev",
-      "\n<a href=\"http://duckduckgo.com/Rev_Theory\">Rev Theory</a>, an American hard rock band based out of New York",
-      "Also known as Jimmy, The Rev, The Reverend Tholomew Plague, Fiction, Rat Head, Mr.",
-      "HASH(0x5b889c0)",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Witnesses_saw_truck_%22rev_up_and_race%22_before_recent_Texas_oil_refinery_blast\" title=\"Witnesses saw truck &quot;rev up and race&quot; before recent Texas oil refinery blast\">Witnesses saw truck &quot;<span class=\"searchmatch\">rev</span> up and race&quot; before recent Texas oil refinery blast</a>",
@@ -195,7 +184,18 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Mercury_Rev\">Mercury Rev</a>, an American rock music group",
+      "https://en.wikipedia.org/wiki/Rev",
+      "HASH(0x5ae0388)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/The_Rev\">The Rev</a>, former drummer and back-up vocalist for the band Avenged Sevenfold",
+      "Rev",
+      "\n<a href=\"http://duckduckgo.com/Rev_Theory\">Rev Theory</a>, an American hard rock band based out of New York",
+      "Also known as Jimmy, The Rev, The Reverend Tholomew Plague, Fiction, Rat Head, Mr.",
+      "HASH(0x5b889c0)",
+      "D"
+   ],
    "micro-www-search" : [
       "revolutionized\n>http\nhttp://books.google.com/books?id=IJBNvCsXfnIC&pg=PA16&dq=%22types+of+revolution%22&as_brr=3&ei=hdVQR6TVIpm4pgLFvJ2fBw&sig=A5SYZlQNKb5RMw9djQSnkmZtTYQ#PPA16\nhttp://books.google.com/books?id=L-3Vq3aadTYC&pg=PA226&dq=%22cultural+revolutions%22&as_brr=3&ei=ddtQR5aHKovqoQLy7J2UAg&sig=Nrc0rBp_zg_44liln8OLNsUu7UE\nhttp://books.google.com/books?id=fLL6Bil2gtcC&pg=PA86&dq=%22types+of+revolution%22&as_brr=3&ei=hdVQR6TVIpm4pgLFvJ2fBw&sig=ZEc373JU8-9qM9N4BgKjnvvHVD8#PPA86\nhttp://en.m.wikipedia.org/wiki/Revolution\nhttp://en.wikipedia.org/w/index.php?title=Revolution&oldid=543526765\nhttp://interfacejournal.nuim.ie/2010/11/interface-issue-2-volume-1-crises-social-movements-and-revolutionary-transformations/\nhttp://www.daemon.be/maarten/revolution.html\nhttp://www.etymonline.com/index.php?term=revolution\nhttp://www.marxists.org/archive/mandel/1989/xx/rev-today.htm\nhttp://www.polyarchy.org/documents/revolution.html\n\n>pdf\nhttp://www.tfp.org/what_we_think/rcr.pdf\nhttp://www.tfp.org/what_we_think/rcr.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png\n\n",
       "revision\n>http\nhttp://en.m.wikipedia.org/wiki/Revision\nhttp://en.wikipedia.org/w/index.php?title=Revision&oldid=541185775\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
@@ -279,7 +279,6 @@
       "Rev-Ola_Records\n>http\nhttp://en.m.wikipedia.org/wiki/Rev-Ola_Records\nhttp://en.wikipedia.org/w/index.php?title=Rev-Ola_Records&oldid=542763593\nhttp://www.revola.co.uk/\n\n>pdf\nhttp://www.cherryred.co.uk/crzone/newsletters/0801.pdf\nhttp://www.cherryred.co.uk/crzone/newsletters/0801.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n"
    ],
    "created" : 1373460975,
-   "book" : [],
    "micro-www" : {
       "rev" : [
          "revolutionized",
@@ -365,6 +364,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Rev' or 'Rév' may refer to:\n",

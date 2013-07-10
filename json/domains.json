@@ -1,0 +1,128 @@
+{
+   "micrownet" : [],
+   "micro" : [
+      "front",
+      "environment",
+      "field",
+      "orbit",
+      "responsibility",
+      "kingdom",
+      "distaff",
+      "sphere",
+      "arena",
+      "area",
+      "province",
+      "realm",
+      "entity",
+      "political_arena",
+      "state",
+      "state_of_affairs",
+      "situation",
+      "preserve",
+      "attribute",
+      "abstraction",
+      "lap",
+      "political_sphere",
+      "land",
+      "abstract_entity",
+      "domain"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/ICANN_rejects_.xxx_top-level_domain_name_proposal\" title=\"ICANN rejects .xxx top-level domain name proposal\">ICANN rejects .xxx top-level <span class=\"searchmatch\">domain</span> name proposal</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_top_level_domain_approved\" title=\"New top level domain approved\">New top level <span class=\"searchmatch\">domain</span> approved</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Egypt_registers_first_domain_name_in_Arabic\" title=\"Egypt registers first domain name in Arabic\">Egypt registers first <span class=\"searchmatch\">domain</span> name in Arabic</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_top-level_domain_names_created\" title=\"New top-level domain names created\">New top-level <span class=\"searchmatch\">domain</span> names created</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/.tel_top-level_domain_launched\" title=\".tel top-level domain launched\">.tel top-level <span class=\"searchmatch\">domain</span> launched</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/We%27ll_always_have_.paris:_ICANN_votes_for_top_level_domain_registration_in_2009\" title=\"We&#39;ll always have .paris: ICANN votes for top level domain registration in 2009\">We&#39;ll always have .paris: ICANN votes for top level <span class=\"searchmatch\">domain</span> registration in 2009</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/ICANN_approves_.xxx_domain_for_pornography\" title=\"ICANN approves .xxx domain for pornography\">ICANN approves .xxx <span class=\"searchmatch\">domain</span> for pornography</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Creator_of_website_satirizing_Glenn_Beck_on_winning_domain_name_case\" title=\"Creator of website satirizing Glenn Beck on winning domain name case\">Creator of website satirizing Glenn Beck on winning <span class=\"searchmatch\">domain</span> name case</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Man_calls_for_seizure_of_Justice_Souter_home,_under_eminent_domain_ruling\" title=\"Man calls for seizure of Justice Souter home, under eminent domain ruling\">Man calls for seizure of Justice Souter home, under eminent <span class=\"searchmatch\">domain</span> ruling</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Glenn_Beck_loses_domain_name_case_over_parody_website\" title=\"Glenn Beck loses domain name case over parody website\">Glenn Beck loses <span class=\"searchmatch\">domain</span> name case over parody website</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%22.asia%22_domain_applications_near_300,000_on_opening_of_registration\" title=\"&quot;.asia&quot; domain applications near 300,000 on opening of registration\">&quot;.asia&quot; <span class=\"searchmatch\">domain</span> applications near 300,000 on opening of registration</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/ICANN_top-level_.xxx_domain_name_not_dead_yet\" title=\"ICANN top-level .xxx domain name not dead yet\">ICANN top-level .xxx <span class=\"searchmatch\">domain</span> name not dead yet</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Authorities_search_home_of_owner_of_German_Wikileaks_domain\" title=\"Authorities search home of owner of German Wikileaks domain\">Authorities search home of owner of German Wikileaks <span class=\"searchmatch\">domain</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/American_evangelist_claims_copyright_on_public_domain_videos\" title=\"American evangelist claims copyright on public domain videos\">American evangelist claims copyright on public <span class=\"searchmatch\">domain</span> videos</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Google_News_seeks_patent_for_search_system_that_returns_%E2%80%98quality%E2%80%99_links\" title=\"Google News seeks patent for search system that returns âqualityâ links\">Google News seeks patent for search system that returns âqualityâ links</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Indian_Government_blocks_Blogger,_Typepad_and_Geocities\" title=\"Indian Government blocks Blogger, Typepad and Geocities\">Indian Government blocks Blogger, Typepad and Geocities</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tom_Cruise_parody_site_defiant_in_face_of_Scientology_threats,_demands_its_day_in_court\" title=\"Tom Cruise parody site defiant in face of Scientology threats, demands its day in court\">Tom Cruise parody site defiant in face of Scientology threats, demands its day in court</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.K._National_Portrait_Gallery_threatens_U.S._citizen_with_legal_action_over_Wikimedia_images\" title=\"U.K. National Portrait Gallery threatens U.S. citizen with legal action over Wikimedia images\">U.K. National Portrait Gallery threatens U.S. citizen with legal action over Wikimedia images</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Satirical_website_criticizes_Glenn_Beck_for_%27hypocritical%27_attempts_to_silence_free_speech\" title=\"Satirical website criticizes Glenn Beck for &#39;hypocritical&#39; attempts to silence free speech\">Satirical website criticizes Glenn Beck for &#39;hypocritical&#39; attempts to silence free speech</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/territory_(country_subdivision)\">Territory (administrative division)</a>, a non-sovereign geographic area which has come under the authority of another government",
+      "\n<a href=\"http://duckduckgo.com/Top-level_domain\">Top-level domain</a> one of the domains at the highest level in the hierarchical Domain Name System of the Internet",
+      "https://en.wikipedia.org/wiki/Domain",
+      "HASH(0x559fff8)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Domain_name\">Domain name</a>, the name of a realm of administrative autonomy, authority, or control on the Internet, under which a collection of network devices are organized, e.g., example.com.",
+      "Domain",
+      "http://www.merriam-webster.com/dictionary/domain",
+      "domain definition: complete and absolute ownership of land — compare eminent domain.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Domain_(biology)\">Domain (biology)</a>, a taxonomic subdivision even larger than a kingdom",
+      "HASH(0x5678150)",
+      "\n<a href=\"http://duckduckgo.com/Protein_domain\">Protein domain</a>, a part of a protein that can exist independently of the rest of the protein chain",
+      "\n<a href=\"http://duckduckgo.com/Magnetic_domain\">Magnetic domain</a>, a region within a magnetic material which has uniform magnetization",
+      "D"
+   ],
+   "micro-www-search" : [
+      "domains\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n"
+   ],
+   "created" : 1373461181,
+   "micro-www" : {
+      "domains" : [
+         "domains",
+         ""
+      ]
+   },
+   "book" : [],
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n\n'Domain' may refer to:\n\n\n*Domain (biology), a taxonomic subdivision even larger than a kingdom\n* Domain, a book trilogy by Steve Alten *Magnetic domain, a region within a\n  magnetic material which has uniform magnetization *Protein domain, a part of a\n  protein that can exist independently of the rest of the protein chain\n* Territory (administrative division), a non-sovereign geographic area which has\n  come under the authority of another government\n",
+      "title" : "Domain",
+      "headings" : [
+         "Information technology",
+         "Mathematics",
+         "Places",
+         "Entertainment"
+      ]
+   },
+   "micro-relation" : [
+      "1: Steve_Alten",
+      "1: Magnetic_domain",
+      "1: Protein_domain",
+      "1: Administrative_domain",
+      "1: Application_domain",
+      "1: Broadcast_domain",
+      "1: Collision_domain",
+      "1: Data_domain",
+      "1: Domain_name",
+      "1: Second-level_domain",
+      "1: Top-level_domain",
+      "1: Domain/OS",
+      "1: Windows_domain",
+      "1: Domain_of_a_function",
+      "1: Atomic_domain",
+      "1: Bézout_domain",
+      "1: Euclidean_domain",
+      "1: Dedekind_domain",
+      "1: GCD_domain",
+      "1: Integral_domain",
+      "1: Principal_ideal_domain",
+      "1: Unique_factorization_domain",
+      "1: Frequency_domain",
+      "1: Fundamental_domain",
+      "1: Time_domain",
+      "1: Domain_theory",
+      "1: Auckland_Domain",
+      "1: Kings_Domain,_Melbourne",
+      "1: Queens_Domain"
+   ]
+}

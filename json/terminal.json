@@ -44,20 +44,7 @@
       "artifact",
       "bus_depot"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Terminal",
-      "\n<a href=\"http://duckduckgo.com/The_Terminal\">The Terminal</a>, a 2004 film by Steven Spielberg, in which a man is trapped in an airport terminal",
-      "HASH(0x500ff58)",
-      "Wikipedia",
-      "\n<a href=\"http://duckduckgo.com/Terminal_velocity\">Terminal velocity</a> in physics, the speed of an object when the restraining force exerted by a fluid (such as air) is equal to other forces (such as gravity) (see also <a href=\"http://duckduckgo.com/?q=Terminal velocity\">Terminal velocity</a>)",
-      "Terminal",
-      "http://www.merriam-webster.com/dictionary/terminal",
-      "terminal definition: of or relating to an end, extremity, boundary, or terminus.",
-      "Merriam-Webster",
-      "HASH(0x5014bc8)",
-      "\n<a href=\"http://duckduckgo.com/Terminal_illness\">Terminal illness</a>, a progressive disease that is expected to cause death",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Lord_Falconer_proposes_bill_to_legalise_assisted_dying_for_terminal_ill_in_UK\" title=\"Lord Falconer proposes bill to legalise assisted dying for terminal ill in UK\">Lord Falconer proposes bill to legalise assisted dying for <span class=\"searchmatch\">terminal</span> ill in UK</a>",
@@ -86,7 +73,20 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Terminal",
+      "\n<a href=\"http://duckduckgo.com/The_Terminal\">The Terminal</a>, a 2004 film by Steven Spielberg, in which a man is trapped in an airport terminal",
+      "HASH(0x500ff58)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Terminal_velocity\">Terminal velocity</a> in physics, the speed of an object when the restraining force exerted by a fluid (such as air) is equal to other forces (such as gravity) (see also <a href=\"http://duckduckgo.com/?q=Terminal velocity\">Terminal velocity</a>)",
+      "Terminal",
+      "http://www.merriam-webster.com/dictionary/terminal",
+      "terminal definition: of or relating to an end, extremity, boundary, or terminus.",
+      "Merriam-Webster",
+      "HASH(0x5014bc8)",
+      "\n<a href=\"http://duckduckgo.com/Terminal_illness\">Terminal illness</a>, a progressive disease that is expected to cause death",
+      "D"
+   ],
    "micro-www-search" : [
       "terminal\n>http\nhttp://en.m.wikipedia.org/wiki/Terminal\nhttp://en.wikipedia.org/w/index.php?title=Terminal&oldid=543629624\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "Terminal_train_station\n>pdf\nhttp://web.archive.org/web/20080307170412http:///www.ratp.fr/common/ressources/concertation_p1.pdf\nhttp://www.ratp.fr/common/ressources/concertation_p1.pdf\nhttp://www.ratp.fr/common/ressources/concertation_p1.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/6/63/Three_rail_tracks_350.jpg/90px-Three_rail_tracks_350.jpg\n\n",
@@ -99,7 +99,6 @@
       "Terminal_(disambiguation)\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n"
    ],
    "created" : 1373458500,
-   "book" : [],
    "micro-www" : {
       "terminal" : [
          "terminal",
@@ -114,6 +113,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n'Terminal' may refer to:\n",

@@ -1,0 +1,54 @@
+{
+   "micrownet" : [
+      "human_activity"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mayors_back_global_warming_pact\" title=\"Mayors back global warming pact\">Mayors back global warming pact</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/PBS_show_asserts_greenhouse_gases,_atmospheric_pollutants_dimming_future\" title=\"PBS show asserts greenhouse gases, atmospheric pollutants dimming future\">PBS show asserts greenhouse gases, atmospheric pollutants dimming future</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._EPA_submits_2003_greenhouse_gas_inventory_to_U.N.\" title=\"U.S. EPA submits 2003 greenhouse gas inventory to U.N.\">U.S. EPA submits 2003 greenhouse gas inventory to U.N.</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Humans_may_have_contributed_to_2003_European_heatwave\" title=\"Humans may have contributed to 2003 European heatwave\"><span class=\"searchmatch\">Humans</span> may have contributed to 2003 European heatwave</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Indonesia_to_plug_mud_volcano\" title=\"Indonesia to plug mud volcano\">Indonesia to plug mud volcano</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Climate_change_threatens_world%27s_poorest_says_Oxfam\" title=\"Climate change threatens world&#39;s poorest says Oxfam\">Climate change threatens world&#39;s poorest says Oxfam</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Romania_switches_to_Winter_Time\" title=\"Romania switches to Winter Time\">Romania switches to Winter Time</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Largest_mass_extinction_in_65_million_years_underway,_scientists_say\" title=\"Largest mass extinction in 65 million years underway, scientists say\">Largest mass extinction in 65 million years underway, scientists say</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Endangered_Luzon_Buttonquail_photographed_alive_by_Philippines_documentary\" title=\"Endangered Luzon Buttonquail photographed alive by Philippines documentary\">Endangered Luzon Buttonquail photographed alive by Philippines documentary</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UN_report:_climate_change_and_food_shortage_major_problems_for_Earth%27s_future\" title=\"UN report: climate change and food shortage major problems for Earth&#39;s future\">UN report: climate change and food shortage major problems for Earth&#39;s future</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Observing_the_2012_Human_Trafficking_Awareness_Day_in_the_US,_and_wider_world\" title=\"Observing the 2012 Human Trafficking Awareness Day in the US, and wider world\">Observing the 2012 <span class=\"searchmatch\">Human</span> Trafficking Awareness Day in the US, and wider world</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scientists_find_key_human_language_gene\" title=\"Scientists find key human language gene\">Scientists find key <span class=\"searchmatch\">human</span> language gene</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Torture_and_mass_arrests_of_Christians_in_Vietnam\" title=\"Torture and mass arrests of Christians in Vietnam\">Torture and mass arrests of Christians in Vietnam</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Soviet_human_rights_activist_Yelena_Bonner_dies_aged_88\" title=\"Soviet human rights activist Yelena Bonner dies aged 88\">Soviet <span class=\"searchmatch\">human</span> rights activist Yelena Bonner dies aged 88</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Oldest_human_fossils_dated_as_200,000yrs_old\" title=\"Oldest human fossils dated as 200,000yrs old\">Oldest <span class=\"searchmatch\">human</span> fossils dated as 200,000yrs old</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Iran_bans_Shirin_Ebadi-led_human_rights_group\" title=\"Iran bans Shirin Ebadi-led human rights group\">Iran bans Shirin Ebadi-led <span class=\"searchmatch\">human</span> rights group</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Former_Russian_spy_Litvinenko_dies,_radioactive_poisoning_suspected\" title=\"Former Russian spy Litvinenko dies, radioactive poisoning suspected\">Former Russian spy Litvinenko dies, radioactive poisoning suspected</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Government_of_Zimbabwe_forces_thousands_out_of_their_homes\" title=\"Government of Zimbabwe forces thousands out of their homes\">Government of Zimbabwe forces thousands out of their homes</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_says_polar_bears_are_threatened_species\" title=\"US says polar bears are threatened species\">US says polar bears are threatened species</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/CIA_%22rendition%22_confirmed_in_Europe\" title=\"CIA &quot;rendition&quot; confirmed in Europe\">CIA &quot;rendition&quot; confirmed in Europe</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "HASH(0x4aba5d0)",
+      "HASH(0x4814b80)"
+   ],
+   "created" : 1373461288,
+   "book" : [],
+   "micro-www" : {
+      "human_activity" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "#redirectHuman behavior\n",
+      "title" : "human activity",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Human_behavior"
+   ]
+}

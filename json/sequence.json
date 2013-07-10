@@ -30,20 +30,7 @@
       "abstract_entity",
       "entity"
    ],
-   "duck" : [
-      "A sequence is a specific order of related events, numbers, or things.",
-      "https://en.wikipedia.org/wiki/Sequence_(disambiguation)",
-      "HASH(0x5cfd9e0)",
-      "Wikipedia",
-      "Sequence",
-      "\n<a href=\"http://duckduckgo.com/Sequence\">Sequence</a> (mathematics), an ordered list of elements",
-      "http://www.merriam-webster.com/dictionary/sequence",
-      "sequence definition: a hymn in irregular meter between the gradual and Gospel in masses for special occasions (as Easter).",
-      "Merriam-Webster",
-      "HASH(0x5c77340)",
-      "A sequence is a specific order of related events, numbers, or things.",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scientists_sequence_small_genome_of_a_pest:_spider_mite\" title=\"Scientists sequence small genome of a pest: spider mite\">Scientists <span class=\"searchmatch\">sequence</span> small genome of a pest: spider mite</a>",
@@ -70,7 +57,20 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "A sequence is a specific order of related events, numbers, or things.",
+      "https://en.wikipedia.org/wiki/Sequence_(disambiguation)",
+      "HASH(0x5cfd9e0)",
+      "Wikipedia",
+      "Sequence",
+      "\n<a href=\"http://duckduckgo.com/Sequence\">Sequence</a> (mathematics), an ordered list of elements",
+      "http://www.merriam-webster.com/dictionary/sequence",
+      "sequence definition: a hymn in irregular meter between the gradual and Gospel in masses for special occasions (as Easter).",
+      "Merriam-Webster",
+      "HASH(0x5c77340)",
+      "A sequence is a specific order of related events, numbers, or things.",
+      "D"
+   ],
    "micro-www-search" : [
       "sequences\n>http\nhttp://en.m.wikipedia.org/wiki/Sequence\nhttp://en.wikipedia.org/w/index.php?title=Sequence&oldid=542257201\nhttp://oeis.org/wiki/Welcome#Some_Famous_Sequences\nhttp://tutorial.math.lamar.edu/Classes/CalcII/Sequences.aspx\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Cauchy_sequence_illustration2.svg/350px-Cauchy_sequence_illustration2.svg.png\n\n",
       "sequence\n>http\nhttp://en.m.wikipedia.org/wiki/Sequence\nhttp://en.wikipedia.org/w/index.php?title=Sequence&oldid=557662047\nhttp://oeis.org/wiki/Welcome#Some_Famous_Sequences\nhttp://tutorial.math.lamar.edu/Classes/CalcII/Sequences.aspx\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Cauchy_sequence_illustration2.svg/350px-Cauchy_sequence_illustration2.svg.png\n\n",
@@ -80,7 +80,6 @@
       "Sequence\n>http\nhttp://en.m.wikipedia.org/wiki/Sequence\nhttp://en.wikipedia.org/w/index.php?title=Sequence&oldid=542257201\nhttp://oeis.org/wiki/Welcome#Some_Famous_Sequences\nhttp://tutorial.math.lamar.edu/Classes/CalcII/Sequences.aspx\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Cauchy_sequence_illustration2.svg/350px-Cauchy_sequence_illustration2.svg.png\n"
    ],
    "created" : 1373457062,
-   "book" : [],
    "micro-www" : {
       "sequence" : [
          "sequences",
@@ -92,6 +91,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Elementary mathematics",

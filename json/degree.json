@@ -50,20 +50,7 @@
       "calibre",
       "property"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Master's_degree\">Master's degree</a> - A master's degree is an advanced academic degree granted to individuals who have undergone study demonstrating a mastery or high-order overview of a specific field of study or area of profession...",
-      "https://en.wikipedia.org/wiki/Degree",
-      "HASH(0x5c8b050)",
-      "Wikipedia",
-      "Degree",
-      "\n<a href=\"http://duckduckgo.com/Academic_degree\">Academic degree</a>, an academic rank, title or award, including:",
-      "http://www.merriam-webster.com/dictionary/degree",
-      "degree definition: a step or stage in a process, course, or order of classification.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Bachelor's_degree\">Bachelor's degree</a> - A bachelor's degree is usually an academic degree earned for an undergraduate course of study or major that generally lasts four years, but can range widely in length of time, depending on abili...",
-      "HASH(0x5cdd5f8)",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scottish_university_to_introduce_comic_studies_degree\" title=\"Scottish university to introduce comic studies degree\">Scottish university to introduce comic studies <span class=\"searchmatch\">degree</span></a>",
@@ -92,7 +79,20 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Master's_degree\">Master's degree</a> - A master's degree is an advanced academic degree granted to individuals who have undergone study demonstrating a mastery or high-order overview of a specific field of study or area of profession...",
+      "https://en.wikipedia.org/wiki/Degree",
+      "HASH(0x5c8b050)",
+      "Wikipedia",
+      "Degree",
+      "\n<a href=\"http://duckduckgo.com/Academic_degree\">Academic degree</a>, an academic rank, title or award, including:",
+      "http://www.merriam-webster.com/dictionary/degree",
+      "degree definition: a step or stage in a process, course, or order of classification.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Bachelor's_degree\">Bachelor's degree</a> - A bachelor's degree is usually an academic degree earned for an undergraduate course of study or major that generally lasts four years, but can range widely in length of time, depending on abili...",
+      "HASH(0x5cdd5f8)",
+      "D"
+   ],
    "micro-www-search" : [
       "degrees\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/7/72/Disambig.svg/50px-Disambig.svg.png\n\n",
       "Degrees_of_freedom_(physics_and_chemistry)\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n\n",
@@ -114,7 +114,6 @@
       "Degree_(angle)\n>pdf\nhttp://www.dioi.org/vols/we0.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Degree_diagram.svg/220px-Degree_diagram.svg.png\n"
    ],
    "created" : 1373455749,
-   "book" : [],
    "micro-www" : {
       "degree" : [
          "degrees",
@@ -138,6 +137,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Degree' may refer to:\n",

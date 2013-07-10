@@ -34,17 +34,8 @@
       "digit",
       "pair"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Duet_(disambiguation)",
-      "\n<a href=\"http://duckduckgo.com/Duet\">Duet</a> -  A duet is a musical composition for two performers.",
-      "HASH(0x5cef0e8)",
-      "Wikipedia",
-      "Duet",
-      "http://www.merriam-webster.com/dictionary/duet",
-      "duet definition: a composition for two performers.",
-      "Merriam-Webster",
-      "HASH(0x5d06640)",
-      "D"
+   "Lists" : [
+      "List_of_compositions_for_piano_duo"
    ],
    "common" : {
       "milestones" : [
@@ -66,17 +57,26 @@
          []
       ]
    },
-   "Lists" : [
-      "List_of_compositions_for_piano_duo"
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Duet_(disambiguation)",
+      "\n<a href=\"http://duckduckgo.com/Duet\">Duet</a> -  A duet is a musical composition for two performers.",
+      "HASH(0x5cef0e8)",
+      "Wikipedia",
+      "Duet",
+      "http://www.merriam-webster.com/dictionary/duet",
+      "duet definition: a composition for two performers.",
+      "Merriam-Webster",
+      "HASH(0x5d06640)",
+      "D"
    ],
    "micro-www-search" : [],
    "created" : 1373455919,
-   "book" : [],
    "micro-www" : {
       "duet" : [
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Duets|",

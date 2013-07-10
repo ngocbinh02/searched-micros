@@ -75,29 +75,7 @@
       "matter_of_fact",
       "abstraction"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/FACT",
-      "\n<a href=\"http://duckduckgo.com/Fertilisers_and_Chemicals_Travancore\">Fertilisers and Chemicals Travancore Limited</a>, a fertiliser and chemical manufacturing company in Kochi, Kerala, India",
-      "\n<a href=\"http://duckduckgo.com/Fact_(United_Kingdom_magazine)\">Fact (United Kingdom magazine)</a>, stylized as FACT, a British music and culture magazine",
-      "Wikipedia",
-      "FACT",
-      "http://www.merriam-webster.com/dictionary/fact",
-      "fact definition: a thing done.",
-      "\n<a href=\"http://duckduckgo.com/Federation_Against_Copyright_Theft\">Federation Against Copyright Theft</a> - The Federation Against Copyright Theft is the UK’s leading trade organisation established to protect and represent the interests of its members’ Intellectual Property.",
-      "\n<a href=\"http://duckduckgo.com/FACT_(biology)\">FACT (biology)</a> (facilitates chromatin transcription), a protein factor affecting eukaryotic cells",
-      "\n<a href=\"http://duckduckgo.com/Cape_Town_International_Airport\">Cape Town International Airport</a>, its ICAO airport code",
-      "HASH(0x507ddf8)",
-      "\n<a href=\"http://duckduckgo.com/FACT_(computer_language)\">FACT (computer language)</a>, an early programming language that influenced the design of COBOL",
-      "\n<a href=\"http://duckduckgo.com/Fact\">Fact</a> - A fact is something that has really occurred or is actually the case.",
-      "\n<a href=\"http://duckduckgo.com/Falsely_Accused_Carers_and_Teachers\">Falsely Accused Carers and Teachers</a>, a British support group",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Federation_of_American_Consumers_and_Travelers\">Federation of American Consumers and Travelers</a> - The Federation of American Consumers and Travelers (FACT) is a not-for-profit consumer group based in Edwardsville, Illinois, United States.",
-      "\n<a href=\"http://duckduckgo.com/First_Aid_Care_Team\">First Aid Care Team</a> - The First Aid Care Team was a rapid-response emergency medical program unit serving areas of Chicago in conjunction with standard Emergency Medical Services units.",
-      "HASH(0x5079278)",
-      "\n<a href=\"http://duckduckgo.com/Frolikha_Adventure_Coastline_Track\">Frolikha Adventure Coastline Track</a> -   The Frolikha Adventure Coastline Track is a 100&nbsp;km Long-distance trail at the Northern part of  Lake Baikal in Siberia.",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/foundation_for_Art_and_Creative_Technology\">FACT (the Foundation for Art and Creative Technology)</a>, a multimedia complex based in Liverpool, England"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UN_hides_facts_about_war_in_Sri_Lanka,_says_French_Le_Monde\" title=\"UN hides facts about war in Sri Lanka, says French Le Monde\">UN hides <span class=\"searchmatch\">facts</span> about war in Sri Lanka, says French Le Monde</a>",
@@ -125,7 +103,29 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/FACT",
+      "\n<a href=\"http://duckduckgo.com/Fertilisers_and_Chemicals_Travancore\">Fertilisers and Chemicals Travancore Limited</a>, a fertiliser and chemical manufacturing company in Kochi, Kerala, India",
+      "\n<a href=\"http://duckduckgo.com/Fact_(United_Kingdom_magazine)\">Fact (United Kingdom magazine)</a>, stylized as FACT, a British music and culture magazine",
+      "Wikipedia",
+      "FACT",
+      "http://www.merriam-webster.com/dictionary/fact",
+      "fact definition: a thing done.",
+      "\n<a href=\"http://duckduckgo.com/Federation_Against_Copyright_Theft\">Federation Against Copyright Theft</a> - The Federation Against Copyright Theft is the UK’s leading trade organisation established to protect and represent the interests of its members’ Intellectual Property.",
+      "\n<a href=\"http://duckduckgo.com/FACT_(biology)\">FACT (biology)</a> (facilitates chromatin transcription), a protein factor affecting eukaryotic cells",
+      "\n<a href=\"http://duckduckgo.com/Cape_Town_International_Airport\">Cape Town International Airport</a>, its ICAO airport code",
+      "HASH(0x507ddf8)",
+      "\n<a href=\"http://duckduckgo.com/FACT_(computer_language)\">FACT (computer language)</a>, an early programming language that influenced the design of COBOL",
+      "\n<a href=\"http://duckduckgo.com/Fact\">Fact</a> - A fact is something that has really occurred or is actually the case.",
+      "\n<a href=\"http://duckduckgo.com/Falsely_Accused_Carers_and_Teachers\">Falsely Accused Carers and Teachers</a>, a British support group",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Federation_of_American_Consumers_and_Travelers\">Federation of American Consumers and Travelers</a> - The Federation of American Consumers and Travelers (FACT) is a not-for-profit consumer group based in Edwardsville, Illinois, United States.",
+      "\n<a href=\"http://duckduckgo.com/First_Aid_Care_Team\">First Aid Care Team</a> - The First Aid Care Team was a rapid-response emergency medical program unit serving areas of Chicago in conjunction with standard Emergency Medical Services units.",
+      "HASH(0x5079278)",
+      "\n<a href=\"http://duckduckgo.com/Frolikha_Adventure_Coastline_Track\">Frolikha Adventure Coastline Track</a> -   The Frolikha Adventure Coastline Track is a 100&nbsp;km Long-distance trail at the Northern part of  Lake Baikal in Siberia.",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/foundation_for_Art_and_Creative_Technology\">FACT (the Foundation for Art and Creative Technology)</a>, a multimedia complex based in Liverpool, England"
+   ],
    "micro-www-search" : [
       "facts\n>http\nhttp://en.m.wikipedia.org/wiki/Facts\nhttp://en.wikipedia.org/w/index.php?title=Facts&oldid=541208353\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "factory_farming\n>http\nhttp://en.m.wikipedia.org/wiki/Factory_farming\nhttp://en.wikipedia.org/w/index.php?title=Factory_farming&oldid=558792482\nhttp://pmep.cce.cornell.edu/facts-slides-self/core-tutorial/module06/index.html\nhttp://www.foodispower.org/factory_farm_workers.htm\nhttp://www.huffingtonpost.com/david-kirby/mexican-lawmaker-factory_b_191579.html\nhttp://www.nrdc.org/water/pollution/factor/stark.asp\n\n>pdf\nhttp://foodandwater.wpengine.netdna-cdn.com/wp-content/uploads/2010/11/FactoryFarmNation-web.pdf\nhttp://mrsa.rivm.nl/flash/Publicatie%20over%20MRSA%20bij%20varkens%20in%20slachthuizen.pdf\nhttp://usda.mannlib.cornell.edu/usda/current/USCatSup/USCatSup-12-17-2010.pdf\nhttp://www.btny.purdue.edu/Pubs/PPP/PPP-70.pdf\nhttp://www.fda.gov/downloads/ForIndustry/UserFees/AnimalDrugUserFeeActADUFA/UCM231851.pdf\nhttp://www.foodandwaterwatch.org:8080/Plone/food/factoryfarms/FoodSafetyFactoryFarms.pdf\nhttp://www.hsus.org/web-files/PDF/hsp/soa_ii_chap12.pdf\nhttp://www.hsus.org/web-files/PDF/hsp/soa_ii_chap12.pdf\nhttp://www.kt.iger.bbsrc.ac.uk/FACT%20sheet%20PDF%20files/kt32.pdf\nhttp://www.marketplaceforthemind.state.pa.us/m4m/lib/m4m/documents/value_of_industry_white_paper_drft_7.pdf\nhttp://www.mrsa-net.nl/de/files/file-bron-ant-10055-0-Khanna.pdf\nhttp://www.ucsusa.org/assets/documents/food_and_agriculture/cafos-uncovered.pdf\nhttp://usda.mannlib.cornell.edu/usda/current/USCatSup/USCatSup-12-17-2010.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/f/f4/Ambox_content.png\n\n",
@@ -154,7 +154,6 @@
       "FACTS_(newspaper)\n>http\nhttp://en.m.wikipedia.org/wiki/FACTS_(newspaper)\nhttp://en.wikipedia.org/w/index.php?title=FACTS_(newspaper)&oldid=544530777\nhttp://www.facts.ch/\n"
    ],
    "created" : 1373460480,
-   "book" : [],
    "micro-www" : {
       "fact" : [
          "facts",
@@ -185,6 +184,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Concepts in epistemology",

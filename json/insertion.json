@@ -15,24 +15,7 @@
       "message",
       "abstraction"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Insertion_reaction\">Insertion reaction</a>, a chemical reaction in which one chemical entity interposes itself into an existing bond of a second chemical entity (e.g.: A + B&ndash;C → B&ndash;A&ndash;C)",
-      "https://en.wikipedia.org/wiki/Insertion",
-      "Wikipedia",
-      "Insertion",
-      "\n<a href=\"http://duckduckgo.com/Local_insertion\">Local insertion</a>, in broadcasting",
-      "http://www.merriam-webster.com/dictionary/insertion",
-      "insertion definition: something that is inserted.",
-      "\n<a href=\"http://duckduckgo.com/Insertion_(genetics)\">Insertion (genetics)</a>, the addition of DNA into a genetic sequence",
-      "\n<a href=\"http://duckduckgo.com/Insertion_sort\">Insertion sort</a>, a simple computer algorithm for sorting arrays",
-      "HASH(0x4f69880)",
-      "Merriam-Webster",
-      "HASH(0x50b3890)",
-      "\n<a href=\"http://duckduckgo.com/Insertion_(anatomy)\">Insertion (anatomy)</a>, the point of a tendon or ligament onto the skeleton or other part of the body",
-      "D",
-      "\nSee also <a href=\"http://duckduckgo.com/Insert\">Insert</a>.",
-      "\n<a href=\"http://duckduckgo.com/Insertion_loss\">Insertion loss</a>, in electronics"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Space_Shuttle_Discovery_launches_on_mission_STS-124\" title=\"Space Shuttle Discovery launches on mission STS-124\">Space Shuttle Discovery launches on mission STS-124</a>",
@@ -53,18 +36,35 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Insertion_reaction\">Insertion reaction</a>, a chemical reaction in which one chemical entity interposes itself into an existing bond of a second chemical entity (e.g.: A + B&ndash;C → B&ndash;A&ndash;C)",
+      "https://en.wikipedia.org/wiki/Insertion",
+      "Wikipedia",
+      "Insertion",
+      "\n<a href=\"http://duckduckgo.com/Local_insertion\">Local insertion</a>, in broadcasting",
+      "http://www.merriam-webster.com/dictionary/insertion",
+      "insertion definition: something that is inserted.",
+      "\n<a href=\"http://duckduckgo.com/Insertion_(genetics)\">Insertion (genetics)</a>, the addition of DNA into a genetic sequence",
+      "\n<a href=\"http://duckduckgo.com/Insertion_sort\">Insertion sort</a>, a simple computer algorithm for sorting arrays",
+      "HASH(0x4f69880)",
+      "Merriam-Webster",
+      "HASH(0x50b3890)",
+      "\n<a href=\"http://duckduckgo.com/Insertion_(anatomy)\">Insertion (anatomy)</a>, the point of a tendon or ligament onto the skeleton or other part of the body",
+      "D",
+      "\nSee also <a href=\"http://duckduckgo.com/Insert\">Insert</a>.",
+      "\n<a href=\"http://duckduckgo.com/Insertion_loss\">Insertion loss</a>, in electronics"
+   ],
    "micro-www-search" : [
       "Insertion\n>http\nhttp://en.m.wikipedia.org/wiki/Insertion\nhttp://en.wikipedia.org/w/index.php?title=Insertion&oldid=541704448\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png\n"
    ],
    "created" : 1373460043,
-   "book" : [],
    "micro-www" : {
       "insertion" : [
          "Insertion",
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "'Insertion' may refer to: *Insertion (anatomy), the point of a tendon or\nligament onto the skeleton or other part of the body *Insertion (genetics), the\naddition of DNA into a genetic sequence *Insertion loss, in electronics\n*Insertion reaction, a chemical reaction in which one chemical entity interposes\nitself into an existing bond of a second chemical entity (e.g.: <span\nstyle=\"color:red;\">A</span> + <span style=\"color:blue;\">B&ndash;C</span> → <span\nstyle=\"color:blue;\">B&ndash;</span><span style=\"color:red;\">A</span><span\nstyle=\"color:blue;\">&ndash;C</span>) *Insertion sort, a simple computer\nalgorithm for sorting arrays *Local insertion, in broadcasting\n\nSee also Insert.\n",

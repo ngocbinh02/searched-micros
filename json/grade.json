@@ -39,20 +39,7 @@
       "form",
       "range"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Grade",
-      "HASH(0x5c91100)",
-      "Wikipedia",
-      "Grade",
-      "http://www.merriam-webster.com/dictionary/grade",
-      "grade definition: a position in a scale of ranks or qualities.",
-      "Merriam-Webster",
-      "HASH(0x5b05338)",
-      "\n<a href=\"http://duckduckgo.com/Grade_(climbing)\">Grade (climbing)</a>, a climber's assessment of the difficulty and danger of climbing a hill",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Grade_(slope)\">Grade (slope)</a>, the pitch of a slope such as a hill, road or railway.",
-      "\n<a href=\"http://duckduckgo.com/Grade_(education)\">Grade (education)</a>, a teacher's evaluation of a student's performance in class."
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Parlez-vous_fran%C3%A7ais%3F_Qapla%E2%80%99!_More_Grade_11_boys_proficient_in_Klingon_than_French:_local_survey\" title=\"Parlez-vous français? Qapla’! More Grade 11 boys proficient in Klingon than French: local survey\">Parlez-vous français? Qapla’! More <span class=\"searchmatch\">Grade</span> 11 boys proficient in Klingon than French: local survey</a>",
@@ -81,7 +68,20 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Grade",
+      "HASH(0x5c91100)",
+      "Wikipedia",
+      "Grade",
+      "http://www.merriam-webster.com/dictionary/grade",
+      "grade definition: a position in a scale of ranks or qualities.",
+      "Merriam-Webster",
+      "HASH(0x5b05338)",
+      "\n<a href=\"http://duckduckgo.com/Grade_(climbing)\">Grade (climbing)</a>, a climber's assessment of the difficulty and danger of climbing a hill",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Grade_(slope)\">Grade (slope)</a>, the pitch of a slope such as a hill, road or railway.",
+      "\n<a href=\"http://duckduckgo.com/Grade_(education)\">Grade (education)</a>, a teacher's evaluation of a student's performance in class."
+   ],
    "micro-www-search" : [
       "grade\n>http\nhttp://en.m.wikipedia.org/wiki/Grade\nhttp://en.wikipedia.org/w/index.php?title=Grade&oldid=540435652\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "Graded_poset\n>http\nhttp://en.m.wikipedia.org/wiki/Graded_poset\nhttp://en.wikipedia.org/w/index.php?title=Graded_poset&oldid=470375080\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Hasse_diagram_of_powerset_of_3.svg/300px-Hasse_diagram_of_powerset_of_3.svg.png\n\n",
@@ -94,7 +94,6 @@
       "Grade_(education)\n>http\nhttp://dictionary.reference.com/browse/grade\nhttp://en.m.wikipedia.org/wiki/Grade_(education)\nhttp://en.wikipedia.org/w/index.php?title=Grade_(education)&oldid=544221482\nhttp://www.gradeabase.com/\nhttp://www.psu.edu/dus/handbook/grades.html\nhttp://www.rmit.edu.au/browse/Current%20students%2FAdministration%2FResults%2FGPA%20-%20Grade%20point%20average/\nhttp://www.usask.ca/calendar/exams&grades/gradingsystem/\nhttp://www.wes.org/gradeconversionguide/\nhttp://www.wes.org/gradeconversionguide/index.asp\n\n>pdf\nhttp://www.bmwf.gv.at/uploads/tx_bmwfcontent/UG_2002_Stand_1._Jaenner_2009.pdf\nhttp://www.direction.umontreal.ca/secgen/pdf/reglem/francais/sec_30/ens30_8.pdf\nhttp://www.mcgill.ca/files/student-records/transcriptskey.pdf\nhttp://www.uac.edu.au/pdf/2007_uai_coffs_csp_main.pdf\nhttp://www.uac.edu.au/pdf/2007_uai_coffs_csp_main.pdf\nhttp://www.umanitoba.ca/student/u1/resources/media/Cumulative_GPA.pdf\nhttp://www.usherbrooke.ca/accueil/fileadmin/sites/accueil/documents/direction/politiques/2500-008-adm.pdf\nhttp://www.umanitoba.ca/student/u1/resources/media/Cumulative_GPA.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/f/f4/Ambox_content.png\n"
    ],
    "created" : 1373455772,
-   "book" : [],
    "micro-www" : {
       "grade" : [
          "grade",
@@ -109,6 +108,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Grade' may refer to:\n",

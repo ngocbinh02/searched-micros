@@ -18,23 +18,7 @@
       "weakness",
       "abstract_entity"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Preference_(disambiguation)",
-      "HASH(0x5866220)",
-      "Wikipedia",
-      "Preference",
-      "\n<a href=\"http://duckduckgo.com/Unfair_preference\">Unfair preference</a>, a legal term",
-      "http://www.merriam-webster.com/dictionary/preference",
-      "\n<a href=\"http://duckduckgo.com/Preference\">Preference</a> is a term used in scientific literature.",
-      "preference definition: the act of preferring.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Preferans\">Preferans</a>, the sophisticated Russian version of Préférence",
-      "HASH(0x5995ba8)",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Preferred_stock\">Preferred stock</a>, preference stock or preference shares, a form of corporate equity ownership",
-      "\n<a href=\"http://duckduckgo.com/Preference_(economics)\">Preference (economics)</a>, as the term is used in economics",
-      "\n<a href=\"http://duckduckgo.com/Pr%C3%A9f%C3%A9rence\">Préférence</a>, a card game played in Austria, Hungary and the West Balkans"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/India_subsidizes_girls%27_education_to_offset_gender_imbalance\" title=\"India subsidizes girls&#39; education to offset gender imbalance\">India subsidizes girls&#39; education to offset gender imbalance</a>",
@@ -62,18 +46,34 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Preference_(disambiguation)",
+      "HASH(0x5866220)",
+      "Wikipedia",
+      "Preference",
+      "\n<a href=\"http://duckduckgo.com/Unfair_preference\">Unfair preference</a>, a legal term",
+      "http://www.merriam-webster.com/dictionary/preference",
+      "\n<a href=\"http://duckduckgo.com/Preference\">Preference</a> is a term used in scientific literature.",
+      "preference definition: the act of preferring.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Preferans\">Preferans</a>, the sophisticated Russian version of Préférence",
+      "HASH(0x5995ba8)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Preferred_stock\">Preferred stock</a>, preference stock or preference shares, a form of corporate equity ownership",
+      "\n<a href=\"http://duckduckgo.com/Preference_(economics)\">Preference (economics)</a>, as the term is used in economics",
+      "\n<a href=\"http://duckduckgo.com/Pr%C3%A9f%C3%A9rence\">Préférence</a>, a card game played in Austria, Hungary and the West Balkans"
+   ],
    "micro-www-search" : [
       "Preference\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n"
    ],
    "created" : 1373460844,
-   "book" : [],
    "micro-www" : {
       "preference" : [
          "Preference",
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Psychological attitude"

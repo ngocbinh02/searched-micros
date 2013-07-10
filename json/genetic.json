@@ -25,7 +25,22 @@
       "genetics"
    ],
    "micro" : [],
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Genetic_recombination\">Genetic recombination</a>, refers to the recombining of alleles resulting in a new molecule of DNA",
+      "https://en.wikipedia.org/wiki/Genetic",
+      "\n<a href=\"http://duckduckgo.com/genetic_relationship_(linguistics)\">Genetic (linguistics)</a>, in linguistics, a relationship between two languages with a common ancestor language",
+      "HASH(0x6512b20)",
+      "Wikipedia",
+      "Genetic",
+      "http://www.merriam-webster.com/dictionary/genetic",
+      "genetic definition: relating to or determined by the origin, development, or causal antecedents of something.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Genetics\">Genetics</a>, in biology, the science of genes, heredity, and the variation of organisms",
+      "HASH(0x5ec8920)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Gene\">Gene</a>, a unit of heredity in the genome of an organism",
+      "\n<a href=\"http://duckduckgo.com/Genetic_algorithm\">Genetic algorithm</a>, in computer science, a kind of search technique modeled on evolutionary biology"
+   ],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Large_study_provides_new_insights_in_autism%27s_genetic_code\" title=\"Large study provides new insights in autism&#39;s genetic code\">Large study provides new insights in autism&#39;s <span class=\"searchmatch\">genetic</span> code</a>",
@@ -54,22 +69,7 @@
          []
       ]
    },
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Genetic_recombination\">Genetic recombination</a>, refers to the recombining of alleles resulting in a new molecule of DNA",
-      "https://en.wikipedia.org/wiki/Genetic",
-      "\n<a href=\"http://duckduckgo.com/genetic_relationship_(linguistics)\">Genetic (linguistics)</a>, in linguistics, a relationship between two languages with a common ancestor language",
-      "HASH(0x6512b20)",
-      "Wikipedia",
-      "Genetic",
-      "http://www.merriam-webster.com/dictionary/genetic",
-      "genetic definition: relating to or determined by the origin, development, or causal antecedents of something.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Genetics\">Genetics</a>, in biology, the science of genes, heredity, and the variation of organisms",
-      "HASH(0x5ec8920)",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Gene\">Gene</a>, a unit of heredity in the genome of an organism",
-      "\n<a href=\"http://duckduckgo.com/Genetic_algorithm\">Genetic algorithm</a>, in computer science, a kind of search technique modeled on evolutionary biology"
-   ],
+   "Lists" : [],
    "micro-www-search" : [
       "genetics\n>http\nhttp://en.m.wikipedia.org/wiki/Genetics\nhttp://en.wikipedia.org/w/index.php?title=Genetics&oldid=559845205\nhttp://faculty.users.cnu.edu/rcheney/Genetic%20Notation.htm\nhttp://tools.wmflabs.org/ftl/cgi-bin/ftl?st=&su=Genetics\nhttp://tools.wmflabs.org/ftl/cgi-bin/ftl?st=&su=Genetics&library=0CHOOSE0\nhttp://tools.wmflabs.org/ftl/cgi-bin/ftl?st=&su=Genetics&library=OLBP\nhttp://web.archive.org/web/20080103021518http:///faculty.users.cnu.edu/rcheney/Genetic%20Notation.htm\nhttp://web.archive.org/web/20100208123830http:///wrongdiagnosis.com/genetics/dna.htm\nhttp://www.bbc.co.uk/iplayer/console/p00547md/In_Our_Time_Genetics\nhttp://www.dmoz.org/Science/Biology/Genetics/\nhttp://www.etymonline.com/index.php?search=Genetic&searchmode=none\nhttp://www.wrongdiagnosis.com/genetics/dna.htm\n\n>pdf\nhttp://www.esp.org/foundations/genetics/classical/holdings/s/ahs-13.pdf\nhttp://www.nature.com/nature/dna50/watsoncrick.pdf\nhttp://www.nature.com/nature/dna50/watsoncrick2.pdf\nhttp://www.nature.com/nature/focus/crick/pdf/crick227.pdf\nhttp://www.nature.com/nature/focus/crick/pdf/crick227.pdf\nhttp://www.esp.org/foundations/genetics/classical/holdings/s/ahs-13.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Symbol_template_class.svg/16px-Symbol_template_class.svg.png\n\n",
       "genetic_linkage\n>http\nhttp://en.wikipedia.org/w/index.php?title=Genetic_linkage&oldid=553773569\nhttp://wiki.answers.com/Q/What_is_the_difference_between_genetic_linkage_and_linkage_disequilibrium\nhttp://www.ag.ndsu.nodak.edu/plantsci/adv_genetics/genetics/mf/mf09.htm\nhttp://www.hopkinsmedicine.org/epigen/what_is_genetic_mapping.htm\nhttp://www.nature.com/scitable/topicpage/discovery-and-types-of-genetic-linkage-500\nhttp://www.nslij-genetics.org/soft/\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/ScientistPedigree.JPG/220px-ScientistPedigree.JPG\n\n",
@@ -116,6 +116,7 @@
       "Genetic_(linguistics)\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n"
    ],
    "created" : 1373457963,
+   "book" : [],
    "micro-www" : {
       "genetic" : [
          "genetics",
@@ -164,7 +165,6 @@
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Genetic' may refer to: *Genetics, in biology, the science of genes, heredity,\nand the variation of organisms **Genetic, used as an adjective, refers to\nheredity of traits **Gene, a unit of heredity in the genome of an organism\n**Genetic recombination, refers to the recombining of alleles resulting in a new\nmolecule of DNA *Genetic (linguistics), in linguistics, a relationship between\ntwo languages with a common ancestor language *Genetic algorithm, in computer\nscience, a kind of search technique modeled on evolutionary biology\n",

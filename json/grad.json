@@ -51,20 +51,7 @@
       "definite_quantity",
       "grade"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Grad_Nite\">Grad Nite</a>, a Disneyland party for high-school graduates",
-      "https://en.wikipedia.org/wiki/Grad",
-      "HASH(0x5d683f0)",
-      "Wikipedia",
-      "Grad",
-      "\n<a href=\"http://duckduckgo.com/Gradient\">Gradient</a> of a <a href=\"http://duckduckgo.com/?q=scalar field\">scalar field</a>, a <a href=\"http://duckduckgo.com/?q=differential operator\">differential operator</a> in <a href=\"http://duckduckgo.com/?q=mathematics\">mathematics</a>",
-      "http://www.merriam-webster.com/dictionary/grad",
-      "grad definition: graduate.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Graduation\">Graduation</a> ceremony, <a href=\"http://duckduckgo.com/?q=prom\">prom</a>, or a graduate",
-      "HASH(0x5c6c850)",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Self-immolating_law_grad_dies_in_Morocco\" title=\"Self-immolating law grad dies in Morocco\">Self-immolating law <span class=\"searchmatch\">grad</span> dies in Morocco</a>",
@@ -88,7 +75,20 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Grad_Nite\">Grad Nite</a>, a Disneyland party for high-school graduates",
+      "https://en.wikipedia.org/wiki/Grad",
+      "HASH(0x5d683f0)",
+      "Wikipedia",
+      "Grad",
+      "\n<a href=\"http://duckduckgo.com/Gradient\">Gradient</a> of a <a href=\"http://duckduckgo.com/?q=scalar field\">scalar field</a>, a <a href=\"http://duckduckgo.com/?q=differential operator\">differential operator</a> in <a href=\"http://duckduckgo.com/?q=mathematics\">mathematics</a>",
+      "http://www.merriam-webster.com/dictionary/grad",
+      "grad definition: graduate.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Graduation\">Graduation</a> ceremony, <a href=\"http://duckduckgo.com/?q=prom\">prom</a>, or a graduate",
+      "HASH(0x5c6c850)",
+      "D"
+   ],
    "micro-www-search" : [
       "gradual\n>http\nhttp://en.m.wikipedia.org/wiki/Gradual\nhttp://en.wikipedia.org/w/index.php?title=Gradual&oldid=542218487\n\n>pdf\nhttp://www.musicasacra.com/pdf/graduale1961.pdf\nhttp://www.musicasacra.com/pdf/graduale1961.pdf\nhttp://www.musicasacra.com/pdf/propers1974.pdf\nhttp://www.musicasacra.com/pdf/propers1974.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Gradual_of_King_John_Albert.jpg/200px-Gradual_of_King_John_Albert.jpg\n\n",
       "gradients\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png\n\n",
@@ -110,7 +110,6 @@
       "Grade_(education)\n>http\nhttp://campustechnology.com/articles/2007/06/santa-ana-college-takes-grading-online.aspx\nhttp://dictionary.reference.com/browse/grade\nhttp://en.m.wikipedia.org/wiki/Grade_(education)\nhttp://en.wikipedia.org/w/index.php?title=Grade_(education)&oldid=544221482\nhttp://www.classbase.com/Countries/Kyrgyzstan/Grading-System\nhttp://www.gradeabase.com/\nhttp://www.psu.edu/dus/handbook/grades.html\nhttp://www.rmit.edu.au/browse/Current%20students%2FAdministration%2FResults%2FGPA%20-%20Grade%20point%20average/\nhttp://www.scribd.com/doc/22496537/Academic-Grading-in-India\nhttp://www.usask.ca/calendar/exams&grades/gradingsystem/\nhttp://www.wes.org/gradeconversionguide/\nhttp://www.wes.org/gradeconversionguide/index.asp\n\n>pdf\nhttp://www.bmwf.gv.at/uploads/tx_bmwfcontent/UG_2002_Stand_1._Jaenner_2009.pdf\nhttp://www.direction.umontreal.ca/secgen/pdf/reglem/francais/sec_30/ens30_8.pdf\nhttp://www.mcgill.ca/files/student-records/transcriptskey.pdf\nhttp://www.uac.edu.au/pdf/2007_uai_coffs_csp_main.pdf\nhttp://www.uac.edu.au/pdf/2007_uai_coffs_csp_main.pdf\nhttp://www.umanitoba.ca/student/u1/resources/media/Cumulative_GPA.pdf\nhttp://www.usherbrooke.ca/accueil/fileadmin/sites/accueil/documents/direction/politiques/2500-008-adm.pdf\nhttp://www.umanitoba.ca/student/u1/resources/media/Cumulative_GPA.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/f/f4/Ambox_content.png\n"
    ],
    "created" : 1373455738,
-   "book" : [],
    "micro-www" : {
       "grad" : [
          "gradual",
@@ -134,6 +133,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n'Grad' may refer to:\n",

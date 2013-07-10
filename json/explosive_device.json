@@ -1,0 +1,59 @@
+{
+   "micrownet" : [
+      "explosive_device",
+      "improvised_explosive_device"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Police_deactivate_explosive_device_in_Andaluc%C3%ADa,_Spain\" title=\"Police deactivate explosive device in Andalucía, Spain\">Police deactivate <span class=\"searchmatch\">explosive</span> <span class=\"searchmatch\">device</span> in Andalucía, Spain</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bob_Woodruff_injured_by_improvised_explosive_device_in_Iraq\" title=\"Bob Woodruff injured by improvised explosive device in Iraq\">Bob Woodruff injured by improvised <span class=\"searchmatch\">explosive</span> <span class=\"searchmatch\">device</span> in Iraq</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Twin_bomb_blasts_in_2_Philippine_malls_kill_6,_injure_38\" title=\"Twin bomb blasts in 2 Philippine malls kill 6, injure 38\">Twin bomb blasts in 2 Philippine malls kill 6, injure 38</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/ETA_places_explosives_on_Tour_de_France_route_in_Spain\" title=\"ETA places explosives on Tour de France route in Spain\">ETA places <span class=\"searchmatch\">explosives</span> on Tour de France route in Spain</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/United_States_military_death_toll_in_Iraq_reaches_4,000\" title=\"United States military death toll in Iraq reaches 4,000\">United States military death toll in Iraq reaches 4,000</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bangkok_blast_injures_two_tourists\" title=\"Bangkok blast injures two tourists\">Bangkok blast injures two tourists</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bomb_left_outside_police_station_in_Northern_Ireland\" title=\"Bomb left outside police station in Northern Ireland\">Bomb left outside police station in Northern Ireland</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bombing_in_Iraq_kills_US_Marines_and_civilians\" title=\"Bombing in Iraq kills US Marines and civilians\">Bombing in Iraq kills US Marines and civilians</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Afghan_attack_kills_five_Canadians\" title=\"Afghan attack kills five Canadians\">Afghan attack kills five Canadians</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Explosions_near_British_consulate_in_New_York_shatter_windows\" title=\"Explosions near British consulate in New York shatter windows\">Explosions near British consulate in New York shatter windows</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Live_grenade_thrown_at_George_Bush_in_Georgia\" title=\"Live grenade thrown at George Bush in Georgia\">Live grenade thrown at George Bush in Georgia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Gunman_holds_hostage_in_U.S._television_station_offices\" title=\"Gunman holds hostage in U.S. television station offices\">Gunman holds hostage in U.S. television station offices</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Iraqi_army_kills_seven,_detains_four\" title=\"Iraqi army kills seven, detains four\">Iraqi army kills seven, detains four</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bombings_in_Iraq_kill_eight;_many_wounded\" title=\"Bombings in Iraq kill eight; many wounded\">Bombings in Iraq kill eight; many wounded</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_army_bomb_disposal_expert_killed_in_Afghanistan\" title=\"British army bomb disposal expert killed in Afghanistan\">British army bomb disposal expert killed in Afghanistan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Airplane_hijacker_surrenders_in_Turkey\" title=\"Airplane hijacker surrenders in Turkey\">Airplane hijacker surrenders in Turkey</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Four_killed,_fourteen_others_injured_at_bus_blast_in_Philippines\" title=\"Four killed, fourteen others injured at bus blast in Philippines\">Four killed, fourteen others injured at bus blast in Philippines</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Al-Qaeda_inspired%27_bomb_plot_stopped_by_Canadian_police\" title=\"&#39;Al-Qaeda inspired&#39; bomb plot stopped by Canadian police\">&#39;Al-Qaeda inspired&#39; bomb plot stopped by Canadian police</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Straw_and_Bush_respond_to_Iran_situation\" title=\"Straw and Bush respond to Iran situation\">Straw and Bush respond to Iran situation</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_military_deaths_in_Afghanistan_reach_327\" title=\"UK military deaths in Afghanistan reach 327\">UK military deaths in Afghanistan reach 327</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "HASH(0x4ac50b8)",
+      "HASH(0x4ac5be0)"
+   ],
+   "created" : 1373461808,
+   "book" : [],
+   "micro-www" : {
+      "explosive_device" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Demolition"
+      ],
+      "text" : "]]\n\nAn 'explosive device' is device that relies on the exothermic reaction of an\nexplosive material to provide an extremely sudden and violent release of\nenergy. Explosive devices have applications as demolition devices and as\nweapons in the military.\n",
+      "title" : "explosive device",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Explosive_material",
+      "1: Explosive_demolition",
+      "1: Explosive_weapon"
+   ]
+}

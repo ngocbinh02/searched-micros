@@ -37,20 +37,7 @@
       "concept",
       "cognition"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Type_system\">Type system</a>, defines a programming language's response to data types",
-      "https://en.wikipedia.org/wiki/Type",
-      "HASH(0x556f0b8)",
-      "Wikipedia",
-      "Type",
-      "\n<a href=\"http://duckduckgo.com/Data_type\">Data type</a>, collection of values used for computations",
-      "http://www.merriam-webster.com/dictionary/type",
-      "type definition: a person or thing (as in the Old Testament) believed to foreshadow another (as in the New Testament).",
-      "Merriam-Webster",
-      "HASH(0x58b5800)",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Typeface\">Typeface</a>, used in <a href=\"http://duckduckgo.com/?q=typesetting\">typesetting</a>"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Study_finds_burning_your_food_could_cause_some_cancers\" title=\"Study finds burning your food could cause some cancers\">Study finds burning your food could cause some cancers</a>",
@@ -79,14 +66,26 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Type_system\">Type system</a>, defines a programming language's response to data types",
+      "https://en.wikipedia.org/wiki/Type",
+      "HASH(0x556f0b8)",
+      "Wikipedia",
+      "Type",
+      "\n<a href=\"http://duckduckgo.com/Data_type\">Data type</a>, collection of values used for computations",
+      "http://www.merriam-webster.com/dictionary/type",
+      "type definition: a person or thing (as in the Old Testament) believed to foreshadow another (as in the New Testament).",
+      "Merriam-Webster",
+      "HASH(0x58b5800)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Typeface\">Typeface</a>, used in <a href=\"http://duckduckgo.com/?q=typesetting\">typesetting</a>"
+   ],
    "micro-www-search" : [
       "types\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "Typesetting\n>pdf\nhttp://www.cs.uwaterloo.ca/40th/Chronology/ChronologyGlossary.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n\n",
       "Types_of_swords\n>http\nhttp://en.wikipedia.org/w/index.php?title=Types_of_swords&oldid=560694694\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n"
    ],
    "created" : 1373460588,
-   "book" : [],
    "micro-www" : {
       "types" : [
          "types",
@@ -95,6 +94,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n'Type' may refer to:\n\nIn 'philosophy': *Type (metaphysics), a concept in the type&ndash;token\ndistinction\n\nIn 'theology': *Type & Antitype in Typology (theology)\n\nIn 'mathematics': *Type (model theory) *Type theory, basis for the study of type\nsystems *Type or arity, the number of operands a function takes *Type, any\nproposition or set in the intuitionistic type theory\n\nIn 'computing': *Typing, producing text via a keyboard *Data type, collection of\nvalues used for computations *Type (command), a DOS command to display contents\nof a file *Type (Unix), a POSIX shell builtin that gives information about\ncommands *Type system, defines a programming language's response to data types\n\nIn 'sociology': *Ideal type *Normal type *Typification\n\n'Other':\n* ''Type'' (song), a 1990 song by the band Living Colour\n* Type (designation), a model numbering system used for vehicles or\n  military equipment\n* Typeface, used in typesetting ** Sort (typesetting), cast metal type for\n  printing ** Type Museum, museum about the above\n* Architectural type, classification of architecture by functional types\n  (houses, institutions), morphological types or historical types Architectural\n  style subcategories\n* Dog type, categorization by use or function of domestic dogs\n* Type (biology), which fixes a scientific name to a taxon\n",

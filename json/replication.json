@@ -23,20 +23,7 @@
       "psychological_feature",
       "copying"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/DNA_replication\">DNA replication</a> or DNA synthesis, the process of copying a double-stranded DNA molecule",
-      "https://en.wikipedia.org/wiki/Replication",
-      "HASH(0x5d2f728)",
-      "Wikipedia",
-      "Replication",
-      "\n<a href=\"http://duckduckgo.com/Self-replicating_machine\">Self-replicating machine</a>s",
-      "http://www.merriam-webster.com/dictionary/replication",
-      "replication definition: answer, reply.",
-      "Merriam-Webster",
-      "HASH(0x6493530)",
-      "\n<a href=\"http://duckduckgo.com/Semiconservative_replication\">Semiconservative replication</a>, mechanism of DNA replication",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Search-and-rescue_dog_that_found_9/11_survivor_to_be_cloned\" title=\"Search-and-rescue dog that found 9/11 survivor to be cloned\">Search-and-rescue dog that found 9/11 survivor to be cloned</a>",
@@ -65,7 +52,20 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/DNA_replication\">DNA replication</a> or DNA synthesis, the process of copying a double-stranded DNA molecule",
+      "https://en.wikipedia.org/wiki/Replication",
+      "HASH(0x5d2f728)",
+      "Wikipedia",
+      "Replication",
+      "\n<a href=\"http://duckduckgo.com/Self-replicating_machine\">Self-replicating machine</a>s",
+      "http://www.merriam-webster.com/dictionary/replication",
+      "replication definition: answer, reply.",
+      "Merriam-Webster",
+      "HASH(0x6493530)",
+      "\n<a href=\"http://duckduckgo.com/Semiconservative_replication\">Semiconservative replication</a>, mechanism of DNA replication",
+      "D"
+   ],
    "micro-www-search" : [
       "replication\n>http\nhttp://en.m.wikipedia.org/wiki/Replication\nhttp://en.wikipedia.org/w/index.php?title=Replication&oldid=540857389\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "Replication_factor_C\n>http\nhttp://en.m.wikipedia.org/wiki/Replication_factor_C\nhttp://en.wikipedia.org/w/index.php?title=Replication_factor_C&oldid=546550140\nhttp://www.nlm.nih.gov/cgi/mesh/2011/MB_cgi?mode=&term=Replication+Protein+C\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n\n",
@@ -76,7 +76,6 @@
       "Replication_(computing)\n>http\nhttp://doc.freenas.org/index.php/Replication_Tasks\nhttp://en.m.wikipedia.org/wiki/Replication_(computing)\nhttp://en.wikipedia.org/w/index.php?title=Replication_(computing)&oldid=543469313\nhttp://kb.open-e.com/What-is-the-difference-between-asynchronous-and-synchronous-volume-replication-_682.html\nhttp://perspectives.mvdirona.com/2010/05/10/InterDatacenterReplicationGeoRedundancy.aspx\nhttp://searchsqlserver.techtarget.com/definition/database-replication\nhttp://www.cofio.com/AIMstor-Replication/\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png\n"
    ],
    "created" : 1373457265,
-   "book" : [],
    "micro-www" : {
       "replication" : [
          "replication",
@@ -89,6 +88,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n'Replication' may refer to:\n\nIn 'music':\n\n* Replication - album indie-metal band KanZer.\n\nIn 'science':\n\n* Replication (scientific method) is one of the main principles of the\n  scientific method, a.k.a. reproducibility ** Replication (statistics), the\n  repetition of a test or complete experiment\n* Self-replication, the process in which an entity (a cell, virus, program,\n  etc.) makes a copy of itself. ** DNA replication or DNA synthesis, the process\n  of copying a double-stranded DNA molecule ** Semiconservative replication,\n  mechanism of DNA replication\n* Self-replicating machines\n* Replication (metallography), the use of thin plastic films to duplicate the\n  microstructure of a component\n\nIn 'computing':\n* Replication (computing), the use of redundant resources to improve\n  reliability, fault-tolerance, or performance\n* Replication (stochastic simulation), an individual run of a stochastic\n  simulation model\n* Replication (optical media), the manufacture of CDs and DVDs by means other\n  than burning writable discs\n\nIn 'finance':\n\n* Option replication, a trading strategy to ensure at a certain date the payoff\n  of an option without trading this option\n",

@@ -37,28 +37,7 @@
       "written_material",
       "bill_of_sale"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Covenant_(law)\">Covenant (law)</a> - A covenant, in its most general sense and historical sense, is a solemn promise to engage in or refrain from a specified action.",
-      "https://en.wikipedia.org/wiki/Deed",
-      "Wikipedia",
-      "Deed",
-      "http://www.merriam-webster.com/dictionary/deed",
-      "\n<a href=\"http://duckduckgo.com/c/Legal_documents\">Legal documents</a>",
-      "deed definition: something that is done.",
-      "\n<a href=\"http://duckduckgo.com/Warranty_deed\">Warranty deed</a> - A general warranty deed is a type of deed where the grantor guarantees that he or she holds clear title to a piece of real estate and has a right to sell it to the grantee.",
-      "\n<a href=\"http://duckduckgo.com/Grant_deed\">Grant deed</a> - A grant deed is used in some states and jurisdictions for the sale or other transfer of real property from one person or entity to another person or entity.",
-      "\n<a href=\"http://duckduckgo.com/Deed_poll\">Deed poll</a> - A deed poll (plural: deeds poll) is a legal document binding only to a single person or several persons acting jointly to express an active intention.",
-      "\n<a href=\"http://duckduckgo.com/SS_Deed\">SS Deed</a>",
-      "\n<a href=\"http://duckduckgo.com/c/Real_property_law\">Real property law</a>",
-      "A deed is any legal instrument in writing which passes, or affirms or confirms something which passes, an interest, right, or property and that is signed, attested, delivered, and in some jurisdictions sealed.",
-      "HASH(0x5ca0be0)",
-      "https://i.duckduckgo.com/i/3815a35d.jpg",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Quitclaim_deed\">Quitclaim deed</a> - A quitclaim deed (sometimes erroneously referred to as a \"quick-claim\" deed) is a legal instrument by which the owner of a piece of real property, called the grantor, transfers his or her in...",
-      "HASH(0x5cc1dc0)",
-      "A",
-      "A deed is any legal instrument in writing which passes, or affirms or confirms something which passes, an interest, right, or property and that is signed, attested, delivered, and in some jurisdictions sealed."
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Creigh_Deeds_wins_Virginia_Democratic_primary\" title=\"Creigh Deeds wins Virginia Democratic primary\">Creigh <span class=\"searchmatch\">Deeds</span> wins Virginia Democratic primary</a>",
@@ -88,18 +67,39 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Covenant_(law)\">Covenant (law)</a> - A covenant, in its most general sense and historical sense, is a solemn promise to engage in or refrain from a specified action.",
+      "https://en.wikipedia.org/wiki/Deed",
+      "Wikipedia",
+      "Deed",
+      "http://www.merriam-webster.com/dictionary/deed",
+      "\n<a href=\"http://duckduckgo.com/c/Legal_documents\">Legal documents</a>",
+      "deed definition: something that is done.",
+      "\n<a href=\"http://duckduckgo.com/Warranty_deed\">Warranty deed</a> - A general warranty deed is a type of deed where the grantor guarantees that he or she holds clear title to a piece of real estate and has a right to sell it to the grantee.",
+      "\n<a href=\"http://duckduckgo.com/Grant_deed\">Grant deed</a> - A grant deed is used in some states and jurisdictions for the sale or other transfer of real property from one person or entity to another person or entity.",
+      "\n<a href=\"http://duckduckgo.com/Deed_poll\">Deed poll</a> - A deed poll (plural: deeds poll) is a legal document binding only to a single person or several persons acting jointly to express an active intention.",
+      "\n<a href=\"http://duckduckgo.com/SS_Deed\">SS Deed</a>",
+      "\n<a href=\"http://duckduckgo.com/c/Real_property_law\">Real property law</a>",
+      "A deed is any legal instrument in writing which passes, or affirms or confirms something which passes, an interest, right, or property and that is signed, attested, delivered, and in some jurisdictions sealed.",
+      "HASH(0x5ca0be0)",
+      "https://i.duckduckgo.com/i/3815a35d.jpg",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Quitclaim_deed\">Quitclaim deed</a> - A quitclaim deed (sometimes erroneously referred to as a \"quick-claim\" deed) is a legal instrument by which the owner of a piece of real property, called the grantor, transfers his or her in...",
+      "HASH(0x5cc1dc0)",
+      "A",
+      "A deed is any legal instrument in writing which passes, or affirms or confirms something which passes, an interest, right, or property and that is signed, attested, delivered, and in some jurisdictions sealed."
+   ],
    "micro-www-search" : [
       "Deed\n>http\nhttp://en.m.wikipedia.org/wiki/Deed\nhttp://en.wikipedia.org/w/index.php?title=Deed&oldid=540409376\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/1/15/Providence%2C_Rhode_Island%2C_Original_Deed.jpg/220px-Providence%2C_Rhode_Island%2C_Original_Deed.jpg\n"
    ],
    "created" : 1373455439,
-   "book" : [],
    "micro-www" : {
       "deed" : [
          "Deed",
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Legal documents",

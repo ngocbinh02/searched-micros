@@ -225,17 +225,7 @@
       "attribute",
       "high"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/High",
-      "HASH(0x505a048)",
-      "Wikipedia",
-      "High",
-      "http://www.merriam-webster.com/dictionary/high",
-      "high definition: having large extension upward.",
-      "Merriam-Webster",
-      "HASH(0x5011bb8)",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/High-speed_train_derailment_in_central_Queensland_(Australia)\" title=\"High-speed train derailment in central Queensland (Australia)\"><span class=\"searchmatch\">High-</span>speed train derailment in central Queensland (Australia)</a>",
@@ -264,7 +254,17 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/High",
+      "HASH(0x505a048)",
+      "Wikipedia",
+      "High",
+      "http://www.merriam-webster.com/dictionary/high",
+      "high definition: having large extension upward.",
+      "Merriam-Webster",
+      "HASH(0x5011bb8)",
+      "D"
+   ],
    "micro-www-search" : [
       "highly\n>http\nhttp://en.m.wikipedia.org/wiki/High\nhttp://en.wikipedia.org/w/index.php?title=High&oldid=542492313\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "highlighting\n>http\nhttp://en.m.wikipedia.org/wiki/Highlight\nhttp://en.wikipedia.org/w/index.php?title=Highlight&oldid=544683867\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
@@ -312,7 +312,6 @@
       "High-altitude_wind_power\n>http\nhttp://en.m.wikipedia.org/wiki/High-altitude_wind_power\nhttp://en.wikipedia.org/w/index.php?title=High-altitude_wind_power&oldid=541681116\n\n>pdf\nhttp://140.112.208.155/apcwe/PAPERS/10118.pdf\nhttp://asta.fs.tum.de/asta/referate/umweltreferat/ringvorlesung-umwelt/archiv/wintersemester-2009-10/rivo_diehl_flugdrachen_ws200910.pdf\nhttp://asta.fs.tum.de/asta/referate/umweltreferat/ringvorlesung-umwelt/archiv/wintersemester-2009-10/rivo_diehl_flugdrachen_ws200910.pdf\nhttp://awec2010.com/public/presentations/padanamabhan_archan.pdf\nhttp://www.EnergyKiteSystems.net/Aerostat/LynnPotter/pat20080290665PublishedApp.pdf\nhttp://www.abundantre.com/windpowercurves.pdf\nhttp://www.awec2010.com/public/img/media/archer_caldeira.pdf\nhttp://www.awec2010.com/public/img/media/archer_caldeira.pdf\nhttp://www.carbontracking.com/reports/High_Altitude_Wind_Resource_in_Ireland.pdf\nhttp://www.drachen.org/journals/a04/Popocock.pdf\nhttp://www.drachen.org/journals/a10/Ladder-of-Kites.pdf\nhttp://www.earth-syst-dynam.net/2/201/2011/esd-2-201-2011.pdf\nhttp://www.kitegen.com/pdf/ACCNewYork2007.pdf\nhttp://www.physorg.com/pdf165082424.pdf\nhttp://awec2010.com/public/presentations/padanamabhan_archan.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Kitegen.jpg/220px-Kitegen.jpg\n"
    ],
    "created" : 1373458821,
-   "book" : [],
    "micro-www" : {
       "high" : [
          "highly",
@@ -362,6 +361,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'High' may refer to:\n",

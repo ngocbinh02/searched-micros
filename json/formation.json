@@ -27,22 +27,8 @@
       "secondary",
       "line"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Formation_(military)\">Formation (military)</a>, a high-level military organization",
-      "\n<a href=\"http://duckduckgo.com/Formation_flying\">Formation flying</a>, aerobatics performed with several aircraft",
-      "\n<a href=\"http://duckduckgo.com/Formation_(American_football)\">Formation (American football)</a>, a set-up before the snap in American football",
-      "https://en.wikipedia.org/wiki/Formation",
-      "HASH(0x51ab778)",
-      "Wikipedia",
-      "Formation",
-      "\n<a href=\"http://duckduckgo.com/Tactical_formation\">Tactical formation</a>, the physical deployment of military forces",
-      "http://www.merriam-webster.com/dictionary/formation",
-      "\n<a href=\"http://duckduckgo.com/Derivation_(linguistics)\">Derivation (linguistics)</a>, the process of creating new lexemes from other lexemes",
-      "formation definition: an act of giving form or shape to something or of taking form.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Offer_and_acceptance\">Offer and acceptance</a>, an analysis of contract formation in law",
-      "HASH(0x53ba3f0)",
-      "D"
+   "Lists" : [
+      "List_of_rock_formations"
    ],
    "common" : {
       "milestones" : [
@@ -71,8 +57,22 @@
          []
       ]
    },
-   "Lists" : [
-      "List_of_rock_formations"
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Formation_(military)\">Formation (military)</a>, a high-level military organization",
+      "\n<a href=\"http://duckduckgo.com/Formation_flying\">Formation flying</a>, aerobatics performed with several aircraft",
+      "\n<a href=\"http://duckduckgo.com/Formation_(American_football)\">Formation (American football)</a>, a set-up before the snap in American football",
+      "https://en.wikipedia.org/wiki/Formation",
+      "HASH(0x51ab778)",
+      "Wikipedia",
+      "Formation",
+      "\n<a href=\"http://duckduckgo.com/Tactical_formation\">Tactical formation</a>, the physical deployment of military forces",
+      "http://www.merriam-webster.com/dictionary/formation",
+      "\n<a href=\"http://duckduckgo.com/Derivation_(linguistics)\">Derivation (linguistics)</a>, the process of creating new lexemes from other lexemes",
+      "formation definition: an act of giving form or shape to something or of taking form.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Offer_and_acceptance\">Offer and acceptance</a>, an analysis of contract formation in law",
+      "HASH(0x53ba3f0)",
+      "D"
    ],
    "micro-www-search" : [
       "formation\n>http\nhttp://en.m.wikipedia.org/wiki/Formation\nhttp://en.wikipedia.org/w/index.php?title=Formation&oldid=540528067\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
@@ -86,7 +86,6 @@
       "Formation_(American_football)\n>image\nhttp://upload.wikimedia.org/wikipedia/en/f/f4/Ambox_content.png\n"
    ],
    "created" : 1373459186,
-   "book" : [],
    "micro-www" : {
       "formation" : [
          "formation",
@@ -101,6 +100,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n'Formation' may refer to:\n\n* Formation flying, aerobatics performed with several aircraft\n* Formation (military), a high-level military organization\n* Tactical formation, the physical deployment of military forces\n",

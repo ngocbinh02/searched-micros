@@ -274,6 +274,16 @@
       "entity",
       "group"
    ],
+   "Lists" : [
+      "List_of_bus_operating_companies"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
    "duck" : [
       "https://en.wikipedia.org/wiki/Line",
       "HASH(0x5c77c58)",
@@ -287,16 +297,6 @@
       "\n<a href=\"http://duckduckgo.com/Line_(geometry)\">Line (geometry)</a>, a concept which includes an infinitely-extended one-dimensional figure with no curvature",
       "HASH(0x5c9b2a8)",
       "D"
-   ],
-   "common" : {
-      "milestones" : [],
-      "image" : [
-         [],
-         []
-      ]
-   },
-   "Lists" : [
-      "List_of_bus_operating_companies"
    ],
    "micro-www-search" : [
       "lines\n>http\nhttp://en.m.wikipedia.org/wiki/Line\nhttp://en.wikipedia.org/w/index.php?title=Line&oldid=542256400\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
@@ -357,7 +357,6 @@
       "Line-line_intersection\n>http\nhttp://en.m.wikipedia.org/wiki/Line-line_intersection\nhttp://en.wikipedia.org/w/index.php?title=Line-line_intersection&oldid=544166927\nhttp://mathworld.wolfram.com/Line-LineIntersection.html\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Line-Line_Intersection.png/400px-Line-Line_Intersection.png\n"
    ],
    "created" : 1373458113,
-   "book" : [],
    "micro-www" : {
       "line" : [
          "lines",
@@ -419,6 +418,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Line' or 'lines' may refer to:\n",

@@ -52,20 +52,7 @@
       "content",
       "cognition"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Coordination_complex\">Coordination complex</a>, also called a \"coordination compound\" or \"metal complex\", a structure consisting of a central atom or molecule weakly connected to surrounding atoms or molecules (ligands)",
-      "https://en.wikipedia.org/wiki/Complex",
-      "HASH(0x4fb3250)",
-      "Wikipedia",
-      "\n<a href=\"http://duckduckgo.com/Complex_number\">Complex number</a>, an extension of real numbers obtained by adjoining imaginary numbers",
-      "Complex",
-      "http://www.merriam-webster.com/dictionary/complex",
-      "complex definition: a whole made up of complicated or interrelated parts.",
-      "Merriam-Webster",
-      "HASH(0x51caa78)",
-      "\nThe <a href=\"http://duckduckgo.com/Military%E2%80%93industrial_complex\">Military–industrial complex</a>",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Major_fire_results_in_significant_damage_to_Texas_apartment_complex\" title=\"Major fire results in significant damage to Texas apartment complex\">Major fire results in significant damage to Texas apartment <span class=\"searchmatch\">complex</span></a>",
@@ -95,7 +82,20 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Coordination_complex\">Coordination complex</a>, also called a \"coordination compound\" or \"metal complex\", a structure consisting of a central atom or molecule weakly connected to surrounding atoms or molecules (ligands)",
+      "https://en.wikipedia.org/wiki/Complex",
+      "HASH(0x4fb3250)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Complex_number\">Complex number</a>, an extension of real numbers obtained by adjoining imaginary numbers",
+      "Complex",
+      "http://www.merriam-webster.com/dictionary/complex",
+      "complex definition: a whole made up of complicated or interrelated parts.",
+      "Merriam-Webster",
+      "HASH(0x51caa78)",
+      "\nThe <a href=\"http://duckduckgo.com/Military%E2%80%93industrial_complex\">Military–industrial complex</a>",
+      "D"
+   ],
    "micro-www-search" : [
       "complexity\n>http\nhttp://cscs.umich.edu/~crshalizi/notebooks/complexity-measures.html\nhttp://en.m.wikipedia.org/wiki/Complexity\nhttp://en.wikipedia.org/w/index.php?title=Complexity&oldid=540199024\nhttp://web.cecs.pdx.edu/~mm/ExploringComplexityFall2009/index.html\n\n>pdf\nhttp://cs5594.userapi.com/u11728334/docs/25eb2e1350a5/Lokenath_Debnath_Sir_James_Lighthill_and_mode.pdf\nhttp://www.dodccrp.org/files/Alberts_Complexity_Global.pdf\nhttp://www.dodccrp.org/files/Alberts_Complexity_Global.pdf\nhttp://cs5594.userapi.com/u11728334/docs/25eb2e1350a5/Lokenath_Debnath_Sir_James_Lighthill_and_mode.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Complexity_Map.svg/800px-Complexity_Map.svg.png\n\n",
       "complexing\n>http\nhttp://en.m.wikipedia.org/wiki/Coordination_complex\nhttp://en.wikipedia.org/w/index.php?title=Coordination_complex&oldid=539053648\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Cisplatin-3D-balls.png/200px-Cisplatin-3D-balls.png\n\n",
@@ -139,7 +139,6 @@
       "CoMPLEX_(ucl)\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/1/14/UCL_Portico_Building.jpg/250px-UCL_Portico_Building.jpg\n"
    ],
    "created" : 1373458575,
-   "book" : [],
    "micro-www" : {
       "complex" : [
          "complexity",
@@ -185,6 +184,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\nA 'complex' is a whole that comprehends a number of intricate parts, especially\none with interconnected or mutually related parts; for example, a'complex' of\n[[building]]s.\n\n'Complex' may refer to:\n",

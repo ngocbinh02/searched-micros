@@ -53,20 +53,7 @@
       "originate_in",
       "form"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Stem",
-      "HASH(0x50ce680)",
-      "Wikipedia",
-      "Stem",
-      "http://www.merriam-webster.com/dictionary/stem",
-      "stem definition: the main trunk of a plant; '''specifically'''.",
-      "Merriam-Webster",
-      "HASH(0x54a8ac8)",
-      "\n<a href=\"http://duckduckgo.com/Stem_cell\">Stem cell</a> - Stem cells are biological cells found in all multicellular organisms, that can divide (through mitosis) and differentiate into diverse specialized cell types and can self-renew to produce more s...",
-      "\n<a href=\"http://duckduckgo.com/Plant_stem\">Plant stem</a>, the aboveground structures that have vascular tissue and that support leaves and flowers&nbsp;&nbsp;&nbsp;Also see similar:",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/STEM_fields\">STEM fields</a>, Science, Technology, Engineering, and Math"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Stem_cell_bills_passed_by_US_House_and_Senate\" title=\"Stem cell bills passed by US House and Senate\"><span class=\"searchmatch\">Stem</span> cell bills passed by US House and Senate</a>",
@@ -95,7 +82,20 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Stem",
+      "HASH(0x50ce680)",
+      "Wikipedia",
+      "Stem",
+      "http://www.merriam-webster.com/dictionary/stem",
+      "stem definition: the main trunk of a plant; '''specifically'''.",
+      "Merriam-Webster",
+      "HASH(0x54a8ac8)",
+      "\n<a href=\"http://duckduckgo.com/Stem_cell\">Stem cell</a> - Stem cells are biological cells found in all multicellular organisms, that can divide (through mitosis) and differentiate into diverse specialized cell types and can self-renew to produce more s...",
+      "\n<a href=\"http://duckduckgo.com/Plant_stem\">Plant stem</a>, the aboveground structures that have vascular tissue and that support leaves and flowers&nbsp;&nbsp;&nbsp;Also see similar:",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/STEM_fields\">STEM fields</a>, Science, Technology, Engineering, and Math"
+   ],
    "micro-www-search" : [
       "Stem_cells\n>pdf\nhttp://images.cell.com/images/Edimages/Cell/IEPs/3661.pdf\nhttp://stemcells.alphamedpress.org/cgi/reprint/2007-0252v1.pdf\nhttp://web.archive.org/web/20080625032536http:///stemcells.alphamedpress.org/cgi/reprint/2007-0252v1.pdf\nhttp://web.archive.org/web/20080625032536http:///stemcells.alphamedpress.org/cgi/reprint/2007-0252v1.pdf\nhttp://www.tianhecell.com/uploads/AutoimmunityReviewsT1D.pdf\nhttp://www.tianhecell.com/uploads/BMCMedicine.pdf\nhttp://www.tianhecell.com/uploads/CurrentDiabetesReports.pdf\nhttp://www.tianhecell.com/uploads/ECRStemCell.pdf\nhttp://www.tianhecell.com/uploads/ImmunologyLetters.pdf\nhttp://www.tianhecell.com/uploads/PlosOne.pdf\nhttp://www.tianhecell.com/uploads/TranslationalRes.pdf\nhttp://www.tianhecell.com/uploads/ECRStemCell.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Mouse_embryonic_stem_cells.jpg/250px-Mouse_embryonic_stem_cells.jpg\n\n",
       "Stem_cell_research\n>pdf\nhttp://images.cell.com/images/Edimages/Cell/IEPs/3661.pdf\nhttp://stemcells.alphamedpress.org/cgi/reprint/2007-0252v1.pdf\nhttp://web.archive.org/web/20080625032536http:///stemcells.alphamedpress.org/cgi/reprint/2007-0252v1.pdf\nhttp://web.archive.org/web/20080625032536http:///stemcells.alphamedpress.org/cgi/reprint/2007-0252v1.pdf\nhttp://www.tianhecell.com/uploads/AutoimmunityReviewsT1D.pdf\nhttp://www.tianhecell.com/uploads/BMCMedicine.pdf\nhttp://www.tianhecell.com/uploads/CurrentDiabetesReports.pdf\nhttp://www.tianhecell.com/uploads/ECRStemCell.pdf\nhttp://www.tianhecell.com/uploads/ImmunologyLetters.pdf\nhttp://www.tianhecell.com/uploads/PlosOne.pdf\nhttp://www.tianhecell.com/uploads/TranslationalRes.pdf\nhttp://www.tianhecell.com/uploads/ECRStemCell.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Mouse_embryonic_stem_cells.jpg/250px-Mouse_embryonic_stem_cells.jpg\n\n",
@@ -104,7 +104,6 @@
       "Stem-loop\n>http\nhttp://en.m.wikipedia.org/wiki/Stem-loop\nhttp://en.wikipedia.org/w/index.php?title=Stem-loop&oldid=540790392\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Stem-loop.svg/336px-Stem-loop.svg.png\n"
    ],
    "created" : 1373460171,
-   "book" : [],
    "micro-www" : {
       "stem" : [
          "Stem_cells",
@@ -115,6 +114,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Stem' may refer to:\n",

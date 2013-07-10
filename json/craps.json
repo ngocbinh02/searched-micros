@@ -67,6 +67,14 @@
       "egest",
       "deuce"
    ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
    "duck" : [
       "https://en.wikipedia.org/wiki/Craps",
       "Wikipedia",
@@ -89,22 +97,14 @@
       "A",
       "Craps is a dice game in which the players make wagers on the outcome of the roll, or a series of rolls, of a pair of dice."
    ],
-   "common" : {
-      "milestones" : [],
-      "image" : [
-         [],
-         []
-      ]
-   },
-   "Lists" : [],
    "micro-www-search" : [],
    "created" : 1373456438,
-   "book" : [],
    "micro-www" : {
       "craps" : [
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Dice games",

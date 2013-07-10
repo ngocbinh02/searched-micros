@@ -191,27 +191,7 @@
       "move",
       "residue"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/John_Part\">John Part</a> (born 1966), Canadian darts player",
-      "https://en.wikipedia.org/wiki/Part",
-      "\n<a href=\"http://duckduckgo.com/P%C3%A4rt_Uusberg\">Pärt Uusberg</a> (born 1986), Estonian composer and conductor",
-      "\n<a href=\"http://duckduckgo.com/Part_(music)\">Part (music)</a>, the music played or sung by an individual instrument or voice",
-      "Wikipedia",
-      "Part",
-      "http://www.merriam-webster.com/dictionary/part",
-      "\n<a href=\"http://duckduckgo.com/Arvo_P%C3%A4rt\">Arvo Pärt</a> (born 1935), Estonian classical composer",
-      "part definition: one of the often indefinite or unequal subdivisions into which something is or is regarded as divided and which together constitute the whole.",
-      "\n<a href=\"http://duckduckgo.com/Program_Assessment_Review_Tool\">Program Assessment Review Tool</a>, United States federal funding assessment",
-      "\n<a href=\"http://duckduckgo.com/Spare_part\">Spare part</a>, a component kept for replacement of other failed components",
-      "HASH(0x4de9958)",
-      "\n<a href=\"http://duckduckgo.com/Parts_(book)\">Parts (book)</a>, a 1997 children's book by Tedd Arnold",
-      "\n<a href=\"http://duckduckgo.com/hairstyle\">Part (haircut)</a> - A hairstyle, hairdo, or haircut refers to the styling of hair, usually on the human head.",
-      "\n<a href=\"http://duckduckgo.com/mereology\">Part (mathematics)</a>, a relation in mereology",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Parts_book\">Parts book</a> : a parts book or parts catalogue is a book published by <a href=\"http://duckduckgo.com/?q=manufacturer\">manufacturer</a>s which contains the <a href=\"http://duckduckgo.com/?q=part number\">part number</a>s and other relevant data for their products or parts thereof.",
-      "HASH(0x5226878)",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Comedian_Jim_Davidson_arrested_as_part_of_Yewtree_sex_abuse_inquiries\" title=\"Comedian Jim Davidson arrested as part of Yewtree sex abuse inquiries\">Comedian Jim Davidson arrested as <span class=\"searchmatch\">part</span> of Yewtree sex abuse inquiries</a>",
@@ -240,7 +220,27 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/John_Part\">John Part</a> (born 1966), Canadian darts player",
+      "https://en.wikipedia.org/wiki/Part",
+      "\n<a href=\"http://duckduckgo.com/P%C3%A4rt_Uusberg\">Pärt Uusberg</a> (born 1986), Estonian composer and conductor",
+      "\n<a href=\"http://duckduckgo.com/Part_(music)\">Part (music)</a>, the music played or sung by an individual instrument or voice",
+      "Wikipedia",
+      "Part",
+      "http://www.merriam-webster.com/dictionary/part",
+      "\n<a href=\"http://duckduckgo.com/Arvo_P%C3%A4rt\">Arvo Pärt</a> (born 1935), Estonian classical composer",
+      "part definition: one of the often indefinite or unequal subdivisions into which something is or is regarded as divided and which together constitute the whole.",
+      "\n<a href=\"http://duckduckgo.com/Program_Assessment_Review_Tool\">Program Assessment Review Tool</a>, United States federal funding assessment",
+      "\n<a href=\"http://duckduckgo.com/Spare_part\">Spare part</a>, a component kept for replacement of other failed components",
+      "HASH(0x4de9958)",
+      "\n<a href=\"http://duckduckgo.com/Parts_(book)\">Parts (book)</a>, a 1997 children's book by Tedd Arnold",
+      "\n<a href=\"http://duckduckgo.com/hairstyle\">Part (haircut)</a> - A hairstyle, hairdo, or haircut refers to the styling of hair, usually on the human head.",
+      "\n<a href=\"http://duckduckgo.com/mereology\">Part (mathematics)</a>, a relation in mereology",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Parts_book\">Parts book</a> : a parts book or parts catalogue is a book published by <a href=\"http://duckduckgo.com/?q=manufacturer\">manufacturer</a>s which contains the <a href=\"http://duckduckgo.com/?q=part number\">part number</a>s and other relevant data for their products or parts thereof.",
+      "HASH(0x5226878)",
+      "D"
+   ],
    "micro-www-search" : [
       "party\n>http\nhttp://en.m.wikipedia.org/wiki/Party\nhttp://en.wikipedia.org/w/index.php?title=Party&oldid=544736791\nhttp://www.hgtv.com/topics/dinner-party/index.html\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png\n\n",
       "partnership\n>http\nhttp://en.m.wikipedia.org/wiki/Partnership\nhttp://en.wikipedia.org/w/index.php?title=Partnership&oldid=542263445\nhttp://www.referenceforbusiness.com/small/Op-Qu/Partnership.html\nhttp://www.uvicblc.ca/2012/03/part-1-partnerships-am-i-in-one-and-why-does-it-matter/\n\n",
@@ -326,7 +326,6 @@
       "Part_(disambiguation)\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n"
    ],
    "created" : 1373458672,
-   "book" : [],
    "micro-www" : {
       "part" : [
          "party",
@@ -414,6 +413,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Estonian-language surnames"

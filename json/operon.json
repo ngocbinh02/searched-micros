@@ -27,6 +27,14 @@
       "desoxyribonucleic_acid",
       "substance"
    ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
    "duck" : [
       "https://en.wikipedia.org/wiki/Operon",
       "Wikipedia",
@@ -47,20 +55,11 @@
       "A",
       "In genetics, an operon is a functioning unit of genomic DNA containing a cluster of genes under the control of a single regulatory signal or promoter."
    ],
-   "common" : {
-      "milestones" : [],
-      "image" : [
-         [],
-         []
-      ]
-   },
-   "Lists" : [],
    "micro-www-search" : [
       "operon\n>http\nhttp://en.m.wikipedia.org/wiki/Operon\nhttp://en.wikipedia.org/w/index.php?title=Operon&oldid=540984088\nhttp://www.biotecnika.org/molecular-biology/operon-concept/\nhttp://www.broad.mit.edu/annotation/tbdb/operon/\n\n>pdf\nhttp://www.weizmann.ac.il/complex/tlusty/courses/landmark/JacobMonod1960.pdf\nhttp://www.weizmann.ac.il/complex/tlusty/courses/landmark/JacobMonod1960.pdf\nhttp://www.weizmann.ac.il/complex/tlusty/courses/landmark/JacobMonod1960.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Operon_1.png/350px-Operon_1.png\n\n",
       "Operon\n>pdf\nhttp://www.weizmann.ac.il/complex/tlusty/courses/landmark/JacobMonod1960.pdf\nhttp://www.weizmann.ac.il/complex/tlusty/courses/landmark/JacobMonod1960.pdf\nhttp://www.weizmann.ac.il/complex/tlusty/courses/landmark/JacobMonod1960.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Operon_1.png/350px-Operon_1.png\n"
    ],
    "created" : 1373455276,
-   "book" : [],
    "micro-www" : {
       "operon" : [
          "operon",
@@ -68,6 +67,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Gene expression"

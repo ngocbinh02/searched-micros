@@ -68,6 +68,34 @@
       "institute",
       "guild"
    ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Association_football\" title=\"Association football\"><span class=\"searchmatch\">Association</span> football</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/National_Basketball_Association\" title=\"National Basketball Association\">National Basketball <span class=\"searchmatch\">Association</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/President_of_National_Association_of_Evangelicals_resigns_over_gay_sex_scandal\" title=\"President of National Association of Evangelicals resigns over gay sex scandal\">President of National <span class=\"searchmatch\">Association</span> of Evangelicals resigns over gay sex scandal</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Association_of_Southeast_Asian_Nations\" title=\"Association of Southeast Asian Nations\"><span class=\"searchmatch\">Association</span> of Southeast Asian Nations</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Association_of_South_East_Asian_Nations\" title=\"Association of South East Asian Nations\"><span class=\"searchmatch\">Association</span> of South East Asian Nations</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_Medical_Association_withdraws_from_NT_Intervention\" title=\"Australian Medical Association withdraws from NT Intervention\">Australian Medical <span class=\"searchmatch\">Association</span> withdraws from NT Intervention</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Foreign_Press_Association_criticises_Israeli_footage_of_flotilla_raid\" title=\"Foreign Press Association criticises Israeli footage of flotilla raid\">Foreign Press <span class=\"searchmatch\">Association</span> criticises Israeli footage of flotilla raid</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Foreign_Press_Association_critical_of_Israeli_flotilla_footage\" title=\"Foreign Press Association critical of Israeli flotilla footage\">Foreign Press <span class=\"searchmatch\">Association</span> critical of Israeli flotilla footage</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/England%27s_Football_Association_complains_over_missed_goal\" title=\"England&#39;s Football Association complains over missed goal\">England&#39;s Football <span class=\"searchmatch\">Association</span> complains over missed goal</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_Medical_Association_backs_ethanol_blended_fuels\" title=\"Australian Medical Association backs ethanol blended fuels\">Australian Medical <span class=\"searchmatch\">Association</span> backs ethanol blended fuels</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Zealand_Medical_Association_says_no_party_pills\" title=\"New Zealand Medical Association says no party pills\">New Zealand Medical <span class=\"searchmatch\">Association</span> says no party pills</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Torrent_tracker_Demonoid.com_down,_possibly_shut_by_Canadian_Recording_Industry_Association\" title=\"Torrent tracker Demonoid.com down, possibly shut by Canadian Recording Industry Association\">Torrent tracker Demonoid.com down, possibly shut by Canadian Recording Industry <span class=\"searchmatch\">Association</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/English_Football_Association_sacks_national_team_manager_Steve_McClaren\" title=\"English Football Association sacks national team manager Steve McClaren\">English Football <span class=\"searchmatch\">Association</span> sacks national team manager Steve McClaren</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Foreign_Press_Association_criticises_%27pirated%27_Israeli_footage_of_Gaza_flotilla_raid\" title=\"Foreign Press Association criticises &#39;pirated&#39; Israeli footage of Gaza flotilla raid\">Foreign Press <span class=\"searchmatch\">Association</span> criticises &#39;pirated&#39; Israeli footage of Gaza flotilla raid</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Foreign_Press_Association_criticises_%27pirated%27_Israeli_footage_of_Freedom_Flotilla_raid\" title=\"Foreign Press Association criticises &#39;pirated&#39; Israeli footage of Freedom Flotilla raid\">Foreign Press <span class=\"searchmatch\">Association</span> criticises &#39;pirated&#39; Israeli footage of Freedom Flotilla raid</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Foreign_Press_Association_condems_%27pirated%27_Israeli_footage_of_Freedom_Flotilla_raid\" title=\"Foreign Press Association condems &#39;pirated&#39; Israeli footage of Freedom Flotilla raid\">Foreign Press <span class=\"searchmatch\">Association</span> condems &#39;pirated&#39; Israeli footage of Freedom Flotilla raid</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2009_was_worst_year_for_airlines,_says_International_Air_Transport_Association\" title=\"2009 was worst year for airlines, says International Air Transport Association\">2009 was worst year for airlines, says International Air Transport <span class=\"searchmatch\">Association</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Entertainment_Software_Association_says_new_Oklahoma_law_unconstitutional,_plans_to_sue\" title=\"Entertainment Software Association says new Oklahoma law unconstitutional, plans to sue\">Entertainment Software <span class=\"searchmatch\">Association</span> says new Oklahoma law unconstitutional, plans to sue</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/TIBE_joins_International_Publishers_Association_for_publishing_industry_in_Taiwan\" title=\"TIBE joins International Publishers Association for publishing industry in Taiwan\">TIBE joins International Publishers <span class=\"searchmatch\">Association</span> for publishing industry in Taiwan</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
    "duck" : [
       "\n<a href=\"http://duckduckgo.com/501(c)\">501(c)</a> non-profit organization (USA)",
       "https://en.wikipedia.org/wiki/Association",
@@ -99,34 +127,6 @@
       "D",
       "\n<a href=\"http://duckduckgo.com/Alumni_association\">Alumni association</a>, an association of former students of a college or university"
    ],
-   "common" : {
-      "milestones" : [
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Association_football\" title=\"Association football\"><span class=\"searchmatch\">Association</span> football</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/National_Basketball_Association\" title=\"National Basketball Association\">National Basketball <span class=\"searchmatch\">Association</span></a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/President_of_National_Association_of_Evangelicals_resigns_over_gay_sex_scandal\" title=\"President of National Association of Evangelicals resigns over gay sex scandal\">President of National <span class=\"searchmatch\">Association</span> of Evangelicals resigns over gay sex scandal</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Association_of_Southeast_Asian_Nations\" title=\"Association of Southeast Asian Nations\"><span class=\"searchmatch\">Association</span> of Southeast Asian Nations</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Association_of_South_East_Asian_Nations\" title=\"Association of South East Asian Nations\"><span class=\"searchmatch\">Association</span> of South East Asian Nations</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_Medical_Association_withdraws_from_NT_Intervention\" title=\"Australian Medical Association withdraws from NT Intervention\">Australian Medical <span class=\"searchmatch\">Association</span> withdraws from NT Intervention</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Foreign_Press_Association_criticises_Israeli_footage_of_flotilla_raid\" title=\"Foreign Press Association criticises Israeli footage of flotilla raid\">Foreign Press <span class=\"searchmatch\">Association</span> criticises Israeli footage of flotilla raid</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Foreign_Press_Association_critical_of_Israeli_flotilla_footage\" title=\"Foreign Press Association critical of Israeli flotilla footage\">Foreign Press <span class=\"searchmatch\">Association</span> critical of Israeli flotilla footage</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/England%27s_Football_Association_complains_over_missed_goal\" title=\"England&#39;s Football Association complains over missed goal\">England&#39;s Football <span class=\"searchmatch\">Association</span> complains over missed goal</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_Medical_Association_backs_ethanol_blended_fuels\" title=\"Australian Medical Association backs ethanol blended fuels\">Australian Medical <span class=\"searchmatch\">Association</span> backs ethanol blended fuels</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Zealand_Medical_Association_says_no_party_pills\" title=\"New Zealand Medical Association says no party pills\">New Zealand Medical <span class=\"searchmatch\">Association</span> says no party pills</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Torrent_tracker_Demonoid.com_down,_possibly_shut_by_Canadian_Recording_Industry_Association\" title=\"Torrent tracker Demonoid.com down, possibly shut by Canadian Recording Industry Association\">Torrent tracker Demonoid.com down, possibly shut by Canadian Recording Industry <span class=\"searchmatch\">Association</span></a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/English_Football_Association_sacks_national_team_manager_Steve_McClaren\" title=\"English Football Association sacks national team manager Steve McClaren\">English Football <span class=\"searchmatch\">Association</span> sacks national team manager Steve McClaren</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Foreign_Press_Association_criticises_%27pirated%27_Israeli_footage_of_Gaza_flotilla_raid\" title=\"Foreign Press Association criticises &#39;pirated&#39; Israeli footage of Gaza flotilla raid\">Foreign Press <span class=\"searchmatch\">Association</span> criticises &#39;pirated&#39; Israeli footage of Gaza flotilla raid</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Foreign_Press_Association_criticises_%27pirated%27_Israeli_footage_of_Freedom_Flotilla_raid\" title=\"Foreign Press Association criticises &#39;pirated&#39; Israeli footage of Freedom Flotilla raid\">Foreign Press <span class=\"searchmatch\">Association</span> criticises &#39;pirated&#39; Israeli footage of Freedom Flotilla raid</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Foreign_Press_Association_condems_%27pirated%27_Israeli_footage_of_Freedom_Flotilla_raid\" title=\"Foreign Press Association condems &#39;pirated&#39; Israeli footage of Freedom Flotilla raid\">Foreign Press <span class=\"searchmatch\">Association</span> condems &#39;pirated&#39; Israeli footage of Freedom Flotilla raid</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2009_was_worst_year_for_airlines,_says_International_Air_Transport_Association\" title=\"2009 was worst year for airlines, says International Air Transport Association\">2009 was worst year for airlines, says International Air Transport <span class=\"searchmatch\">Association</span></a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Entertainment_Software_Association_says_new_Oklahoma_law_unconstitutional,_plans_to_sue\" title=\"Entertainment Software Association says new Oklahoma law unconstitutional, plans to sue\">Entertainment Software <span class=\"searchmatch\">Association</span> says new Oklahoma law unconstitutional, plans to sue</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/TIBE_joins_International_Publishers_Association_for_publishing_industry_in_Taiwan\" title=\"TIBE joins International Publishers Association for publishing industry in Taiwan\">TIBE joins International Publishers <span class=\"searchmatch\">Association</span> for publishing industry in Taiwan</a>"
-      ],
-      "image" : [
-         [],
-         []
-      ]
-   },
-   "Lists" : [],
    "micro-www-search" : [
       "associations\n>http\nhttp://en.m.wikipedia.org/wiki/Association\nhttp://en.wikipedia.org/w/index.php?title=Association&oldid=539653037\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "association_theory\n",
@@ -153,7 +153,6 @@
       "Association_(astronomy)\n>http\nhttp://en.m.wikipedia.org/wiki/Association_(astronomy)\nhttp://en.wikipedia.org/w/index.php?title=Association_(astronomy)&oldid=405871678\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png\n"
    ],
    "created" : 1373460856,
-   "book" : [],
    "micro-www" : {
       "association" : [
          "associations",
@@ -182,6 +181,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Association' may refer to:\n\nVoluntary associations, groups of individuals who voluntarily enter into an\nagreement to accomplish a purpose\n* 501(c) non-profit organization (USA)\n* Alumni association, an association of former students of a college or\n  university\n* Professional association\n* Sports association\n* Trade association, another name of an industry trade group Association may\n  also refer to a corporate body consisting of a groups of associated persons\n  who usually meet periodically because of common interests, objectives, or\n  profession.\n\nAssociations in various fields of study:\n* Archaeological association, in archaeology, the relationship between objects\n  found together\n* Association (astronomy), combined or co-added group of astronomical exposures\n* Association (chemistry)\n* Association (ecology)\n* Association (genetics)\n* Association (object-oriented programming), a kind of grouping in object-\n  oriented programming\n* Association (psychology), a connection between two or more concepts in the\n  mind or imagination\n* Association (statistics)\n* File association, associates a file with a software application capable of\n  opening that file\n* Free association of producers, the goal of anarchists and communists\n* Security Association, the establishment of shared security attributes between\n  two network entities to support secure communication\n\nNames of particular entities or things:\n* Continental Association, often called the \"Association\", an economic boycott\n  during the American Revolution\n* HMS ''Association'' (1697), a Royal Navy ship which sank in 1707\n* L'Association, a French comic book publisher\n* The Association, a pop band\n",

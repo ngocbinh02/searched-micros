@@ -112,19 +112,8 @@
       "human_beings",
       "living_thing"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Human_(disambiguation)",
-      "HASH(0x5e11838)",
-      "Wikipedia",
-      "\n<a href=\"http://duckduckgo.com/Human_evolution\">Human evolution</a>, the evolutionary process leading up to the appearance of modern humans",
-      "Human",
-      "\n<a href=\"http://duckduckgo.com/Human\">Human</a>s are the only living members of the genus Homo.",
-      "http://www.merriam-webster.com/dictionary/human",
-      "human definition: of, relating to, or characteristic of humans.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Humanism\">Humanism</a> - Humanism is a group of philosophies and ethical perspectives which emphasize the value and agency of human beings, individually and collectively, and generally prefers individual thought and evi...",
-      "HASH(0x5f8f8b0)",
-      "D"
+   "Lists" : [
+      "List_of_academic_disciplines"
    ],
    "common" : {
       "milestones" : [
@@ -153,8 +142,19 @@
          []
       ]
    },
-   "Lists" : [
-      "List_of_academic_disciplines"
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Human_(disambiguation)",
+      "HASH(0x5e11838)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Human_evolution\">Human evolution</a>, the evolutionary process leading up to the appearance of modern humans",
+      "Human",
+      "\n<a href=\"http://duckduckgo.com/Human\">Human</a>s are the only living members of the genus Homo.",
+      "http://www.merriam-webster.com/dictionary/human",
+      "human definition: of, relating to, or characteristic of humans.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Humanism\">Humanism</a> - Humanism is a group of philosophies and ethical perspectives which emphasize the value and agency of human beings, individually and collectively, and generally prefers individual thought and evi...",
+      "HASH(0x5f8f8b0)",
+      "D"
    ],
    "micro-www-search" : [
       "humans\n>http\nhttp://en.wikipedia.org/w/index.php?title=Human&oldid=561209660\nhttp://humanorigins.si.edu/evidence/human-fossils/species/homo-sapiens\nhttp://www.articleworld.org/index.php/Human_weight\nhttp://www.nature.com/news/human-migrations-eastern-odyssey-1.10560\nhttp://www.nytimes.com/2011/11/01/world/united-nations-reports-7-billion-humans-but-others-dont-count-on-it.html?_r=1\nhttp://www.sciencenews.org/view/generic/id/69197/title/Hints_of_earlier_human_exit_from_Africa\nhttp://www.thefreelibrary.com/Meat+in+the+human+diet:+an+anthropological+perspective-a0169311689\nhttp://www.universetoday.com/27924/soyuz-rockets-to-space-13-humans-now-in-orbit/\n\n>pdf\nhttp://bjs.ojp.usdoj.gov/content/pub/pdf/usrv98.pdf\nhttp://researchcommons.waikato.ac.nz/bitstream/10289/2690/1/Lowe%202008%20Polynesian%20settlement%20guidebook.pdf\nhttp://unesdoc.unesco.org/images/0012/001282/128291eo.pdf\nhttp://unesdoc.unesco.org/images/0012/001282/128291eo.pdf\nhttp://www.bgsu.edu/departments/chem/faculty/leontis/chem447/PDF_files/Jablonski_skin_color_2000.pdf\nhttp://www.biology.ed.ac.uk/public/conferences/evolbiol2006/papers/Peccei.pdf\nhttp://www.emilianobruner.it/pdf/Bruner2007_CNS.pdf\nhttp://www.journals.royalsoc.ac.uk/content/711761513317h856/fulltext.pdf\nhttp://www.pnas.org/content/94/7/3100.full.pdf\nhttp://www.pnas.org/content/95/4/1961.full.pdf\nhttp://www.realfuture.org/GIST/Readings/Templeton(1998).pdf\nhttp://www.understandingrace.org/resources/pdf/disease/smedley.pdf\nhttp://researchcommons.waikato.ac.nz/bitstream/10289/2690/1/Lowe%202008%20Polynesian%20settlement%20guidebook.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png\nhttp://upload.wikimedia.org/wikipedia/en/f/ff/WIKIPEDIA_SPOKEN_ARTICLE_Human_Part_1_of_4.ogg\n\n>media\nhttp://upload.wikimedia.org/wikipedia/en/f/ff/WIKIPEDIA_SPOKEN_ARTICLE_Human_Part_1_of_4.ogg\n\n",
@@ -266,7 +266,6 @@
       "Human\n>http\nhttp://en.wikipedia.org/w/index.php?title=Human&oldid=561209660\nhttp://humanorigins.si.edu/evidence/human-fossils/species/homo-sapiens\nhttp://www.articleworld.org/index.php/Human_weight\nhttp://www.nature.com/news/human-migrations-eastern-odyssey-1.10560\nhttp://www.nytimes.com/2011/11/01/world/united-nations-reports-7-billion-humans-but-others-dont-count-on-it.html?_r=1\nhttp://www.sciencenews.org/view/generic/id/69197/title/Hints_of_earlier_human_exit_from_Africa\nhttp://www.thefreelibrary.com/Meat+in+the+human+diet:+an+anthropological+perspective-a0169311689\nhttp://www.universetoday.com/27924/soyuz-rockets-to-space-13-humans-now-in-orbit/\n\n>pdf\nhttp://bjs.ojp.usdoj.gov/content/pub/pdf/usrv98.pdf\nhttp://researchcommons.waikato.ac.nz/bitstream/10289/2690/1/Lowe%202008%20Polynesian%20settlement%20guidebook.pdf\nhttp://unesdoc.unesco.org/images/0012/001282/128291eo.pdf\nhttp://unesdoc.unesco.org/images/0012/001282/128291eo.pdf\nhttp://www.bgsu.edu/departments/chem/faculty/leontis/chem447/PDF_files/Jablonski_skin_color_2000.pdf\nhttp://www.biology.ed.ac.uk/public/conferences/evolbiol2006/papers/Peccei.pdf\nhttp://www.emilianobruner.it/pdf/Bruner2007_CNS.pdf\nhttp://www.journals.royalsoc.ac.uk/content/711761513317h856/fulltext.pdf\nhttp://www.pnas.org/content/94/7/3100.full.pdf\nhttp://www.pnas.org/content/95/4/1961.full.pdf\nhttp://www.realfuture.org/GIST/Readings/Templeton(1998).pdf\nhttp://www.understandingrace.org/resources/pdf/disease/smedley.pdf\nhttp://researchcommons.waikato.ac.nz/bitstream/10289/2690/1/Lowe%202008%20Polynesian%20settlement%20guidebook.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png\nhttp://upload.wikimedia.org/wikipedia/en/f/ff/WIKIPEDIA_SPOKEN_ARTICLE_Human_Part_1_of_4.ogg\n\n>media\nhttp://upload.wikimedia.org/wikipedia/en/f/ff/WIKIPEDIA_SPOKEN_ARTICLE_Human_Part_1_of_4.ogg\n"
    ],
    "created" : 1373456885,
-   "book" : [],
    "micro-www" : {
       "human" : [
          "humans",
@@ -379,6 +378,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Animals described in 1758",

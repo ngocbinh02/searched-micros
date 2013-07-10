@@ -16,20 +16,7 @@
       "plant_part",
       "plant_structure"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Kernel",
-      "HASH(0x5c05578)",
-      "Wikipedia",
-      "Kernel",
-      "http://www.merriam-webster.com/dictionary/kernel",
-      "kernel definition: '''chiefly dialect''' a fruit seed.",
-      "Merriam-Webster",
-      "\nThe <a href=\"http://duckduckgo.com/Linux_kernel\">Linux kernel</a>, used on many Linux-based operating systems",
-      "\n<a href=\"http://duckduckgo.com/Kernel_(computing)\">Kernel (computing)</a>, the central component of most operating systems",
-      "HASH(0x5d15e68)",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Kernel_(matrix)\">Kernel (matrix)</a>, kernel of a matrix"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bitmover_ends_free_Bitkeeper,_replacement_sought_for_managing_Linux_kernel_code\" title=\"Bitmover ends free Bitkeeper, replacement sought for managing Linux kernel code\">Bitmover ends free Bitkeeper, replacement sought for managing Linux <span class=\"searchmatch\">kernel</span> code</a>",
@@ -54,7 +41,20 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Kernel",
+      "HASH(0x5c05578)",
+      "Wikipedia",
+      "Kernel",
+      "http://www.merriam-webster.com/dictionary/kernel",
+      "kernel definition: '''chiefly dialect''' a fruit seed.",
+      "Merriam-Webster",
+      "\nThe <a href=\"http://duckduckgo.com/Linux_kernel\">Linux kernel</a>, used on many Linux-based operating systems",
+      "\n<a href=\"http://duckduckgo.com/Kernel_(computing)\">Kernel (computing)</a>, the central component of most operating systems",
+      "HASH(0x5d15e68)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Kernel_(matrix)\">Kernel (matrix)</a>, kernel of a matrix"
+   ],
    "micro-www-search" : [
       "kernel\n>http\nhttp://en.m.wikipedia.org/wiki/Kernel\nhttp://en.wikipedia.org/w/index.php?title=Kernel&oldid=540807661\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "Kernel_trick\n>http\nhttp://en.m.wikipedia.org/wiki/Kernel_trick\nhttp://en.wikipedia.org/w/index.php?title=Kernel_trick&oldid=543614439\n\n>pdf\nhttp://www.cs.tufts.edu/~roni/Teaching/CLT2008S/LN/lecture18.pdf\nhttp://www.cs.tufts.edu/~roni/Teaching/CLT2008S/LN/lecture18.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Merge-arrow.svg/50px-Merge-arrow.svg.png\n\n",
@@ -72,7 +72,6 @@
       "Kernel_(Lilo_&_Stitch)\n>pdf\nhttp://fp.scea.com/Content/games/SCUS-97145/manual/manual.pdf\nhttp://fp.scea.com/Content/games/SCUS-97145/manual/manual.pdf\nhttp://fp.scea.com/Content/games/SCUS-97145/manual/manual.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n\n[list]\nhttp://en.m.wikipedia.org/wiki/List_of_experiments_from_Lilo_%26_Stitch\nhttp://en.wikipedia.org/w/index.php?title=List_of_experiments_from_Lilo_%26_Stitch&oldid=542502529\n"
    ],
    "created" : 1373461055,
-   "book" : [],
    "micro-www" : {
       "kernel" : [
          "kernel",
@@ -92,6 +91,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n\n'Kernel' may refer to:\n",

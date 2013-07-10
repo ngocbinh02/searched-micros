@@ -1,0 +1,66 @@
+{
+   "micrownet" : [
+      "installation",
+      "installation_charge",
+      "military_installation",
+      "naval_installation"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Israeli_air_strikes_hit_government_compounds_in_Gaza\" title=\"Israeli air strikes hit government compounds in Gaza\">Israeli air strikes hit government compounds in Gaza</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Fort_Lee,_Virginia_adopts_RAPIDGate_for_fast_civilian_access\" title=\"Fort Lee, Virginia adopts RAPIDGate for fast civilian access\">Fort Lee, Virginia adopts RAPIDGate for fast civilian access</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Surveillance_cameras_in_New_South_Wales_schools_cause_alarm\" title=\"Surveillance cameras in New South Wales schools cause alarm\">Surveillance cameras in New South Wales schools cause alarm</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_Radar_station_could_aid_flood_warnings\" title=\"UK Radar station could aid flood warnings\">UK Radar station could aid flood warnings</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Polish_Archbishop_resigns_after_spying_revelations\" title=\"Polish Archbishop resigns after spying revelations\">Polish Archbishop resigns after spying revelations</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Liverpool_Biennial_2006_art_festival_starts\" title=\"Liverpool Biennial 2006 art festival starts\">Liverpool Biennial 2006 art festival starts</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Beijing_cracks_down_on_manhole_cover_thefts\" title=\"Beijing cracks down on manhole cover thefts\">Beijing cracks down on manhole cover thefts</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Columbus_module_added_to_ISS_during_spacewalk\" title=\"Columbus module added to ISS during spacewalk\">Columbus module added to ISS during spacewalk</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Marussia_F1_test_driver_Maria_de_Villota_seriously_injured_in_testing_accident\" title=\"Marussia F1 test driver Maria de Villota seriously injured in testing accident\">Marussia F1 test driver Maria de Villota seriously injured in testing accident</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_and_UK_forces_join_Libyan_attack\" title=\"US and UK forces join Libyan attack\">US and UK forces join Libyan attack</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NASA_launches_Space_Shuttle_Atlantis\" title=\"NASA launches Space Shuttle Atlantis\">NASA launches Space Shuttle Atlantis</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Israel_bombarding_Gaza_after_Hamas_mortar_attack\" title=\"Israel bombarding Gaza after Hamas mortar attack\">Israel bombarding Gaza after Hamas mortar attack</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ethiopia_plans_to_expand_country%27s_Internet_access\" title=\"Ethiopia plans to expand country&#39;s Internet access\">Ethiopia plans to expand country&#39;s Internet access</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Space_Shuttle_Atlantis_docks_with_International_Space_Station\" title=\"Space Shuttle Atlantis docks with International Space Station\">Space Shuttle Atlantis docks with International Space Station</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Astronauts_replace_ISS_nitrogen_tank_in_spacewalk\" title=\"Astronauts replace ISS nitrogen tank in spacewalk\">Astronauts replace ISS nitrogen tank in spacewalk</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Rare_Middle_East_cyclone_batters_Oman\" title=\"Rare Middle East cyclone batters Oman\">Rare Middle East cyclone batters Oman</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canadian_soldiers_kill_Afghan_police_officer\" title=\"Canadian soldiers kill Afghan police officer\">Canadian soldiers kill Afghan police officer</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Thermoelectric_plants_in_Arad,_Romania_to_be_modernised\" title=\"Thermoelectric plants in Arad, Romania to be modernised\">Thermoelectric plants in Arad, Romania to be modernised</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/China_offers_Africa_financial_aid_including_$10_billion_in_loans\" title=\"China offers Africa financial aid including $10 billion in loans\">China offers Africa financial aid including $10 billion in loans</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Thai_PM_Thaksin_ousted_by_coup\" title=\"Thai PM Thaksin ousted by coup\">Thai PM Thaksin ousted by coup</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Installation",
+      "HASH(0x4c5a948)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Installation_(computer_programs)\">Installation (computer programs)</a> - Installation (or setup) of a program (including drivers, plugins, etc.) is the act of putting the program onto a computer system so that it can be executed.",
+      "Installation",
+      "http://www.merriam-webster.com/dictionary/installation",
+      "installation definition: the act of installing.",
+      "Merriam-Webster",
+      "HASH(0x4c5aba0)",
+      "D"
+   ],
+   "created" : 1373461747,
+   "book" : [],
+   "micro-www" : {
+      "installation" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Installation' may refer to:\n\n* Installation (computer programs)\n* Installation, work of installation art\n* Installation, military base\n",
+      "title" : "installation",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Installation_art",
+      "1: Military_base"
+   ]
+}

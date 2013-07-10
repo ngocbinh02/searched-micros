@@ -35,20 +35,7 @@
       "face",
       "abstraction"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Expression",
-      "\n<a href=\"http://duckduckgo.com/Facial_expression\">Facial expression</a>, a movement of the face that conveys emotional state",
-      "HASH(0x5c76d70)",
-      "Wikipedia",
-      "Expression",
-      "\n<a href=\"http://duckduckgo.com/Gene_expression\">Gene expression</a>, the process by which information from a gene is used in biochemistry",
-      "http://www.merriam-webster.com/dictionary/expression",
-      "\n<a href=\"http://duckduckgo.com/Regular_expression\">Regular expression</a>, a means of matching strings of text in computing",
-      "expression definition: an act, process, or instance of representing in a medium (as words).",
-      "Merriam-Webster",
-      "HASH(0x5c7ac90)",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Stop_being_so_damn_respectful%27_say_free_speech_supporters_in_London\" title=\"&#39;Stop being so damn respectful&#39; say free speech supporters in London\">&#39;Stop being so damn respectful&#39; say free speech supporters in London</a>",
@@ -75,7 +62,20 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Expression",
+      "\n<a href=\"http://duckduckgo.com/Facial_expression\">Facial expression</a>, a movement of the face that conveys emotional state",
+      "HASH(0x5c76d70)",
+      "Wikipedia",
+      "Expression",
+      "\n<a href=\"http://duckduckgo.com/Gene_expression\">Gene expression</a>, the process by which information from a gene is used in biochemistry",
+      "http://www.merriam-webster.com/dictionary/expression",
+      "\n<a href=\"http://duckduckgo.com/Regular_expression\">Regular expression</a>, a means of matching strings of text in computing",
+      "expression definition: an act, process, or instance of representing in a medium (as words).",
+      "Merriam-Webster",
+      "HASH(0x5c7ac90)",
+      "D"
+   ],
    "micro-www-search" : [
       "expression\n>http\nhttp://en.m.wikipedia.org/wiki/Expression\nhttp://en.wikipedia.org/w/index.php?title=Expression&oldid=543637792\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "Expression_vector\n>http\nhttp://en.m.wikipedia.org/wiki/Expression_vector\nhttp://en.wikipedia.org/w/index.php?title=Expression_vector&oldid=543774698\nhttp://www.sci.sdsu.edu/~smaloy/MicrobialGenetics/topics/in-vitro-genetics/expression-vectors.html\n\n>pdf\nhttp://homes.bio.psu.edu/people/Faculty/lai/lab/protocols/GST%20Gene%20Fusion%20System.pdf\nhttp://lifeserv.bgu.ac.il/wb/zarivach/media/protocols/Novagen%20pET%20system%20manual.pdf\nhttp://tools.invitrogen.com/content/sfs/brochures/B-067202_Pichia_Flyer.pdf\nhttp://tools.invitrogen.com/content/sfs/manuals/bevtest.pdf\nhttp://www.sciencemag.org/site/feature/data/plants2001/PDFs/250-4983-959.pdf\nhttp://www.sciencemag.org/site/feature/data/plants2001/PDFs/250-4983-959.pdf\nhttp://homes.bio.psu.edu/people/Faculty/lai/lab/protocols/GST%20Gene%20Fusion%20System.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PGEX-3X_cloning_vector.png/220px-PGEX-3X_cloning_vector.png\n\n",
@@ -83,7 +83,6 @@
       "Expression_(album)\n>http\nhttp://en.m.wikipedia.org/wiki/Expression_(album)\nhttp://en.wikipedia.org/w/index.php?title=Expression_(album)&oldid=543811971\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/2/25/ColtraneExpression.jpg/220px-ColtraneExpression.jpg\n"
    ],
    "created" : 1373457177,
-   "book" : [],
    "micro-www" : {
       "expression" : [
          "expression",
@@ -93,6 +92,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n'Expression' may refer to:\n\n'Symbolic expression'\n* Expression (language), a thought communicated by language\n* Expression (mathematics), a finite combination of symbols that are well-formed\n  according to applicable rules\n* Expression (programming), an instruction to execute something that will\n  return a value\n* Regular expression, a means of matching strings of text in computing\n* [[Dynamics_(music)#Relative_loudness|Expression marks]], (music) notating the\n  musical dynamics\n\n'Bodily expression'\n* The [[Breastfeeding|expression]] of milk\n* Emotional expression, verbal and non-verbal behaviour that\n  communicates emotion\n* Facial expression, a movement of the face that conveys emotional state\n* Gene expression, the process by which information from a gene is used in\n  biochemistry\n* Expression (sign language), the expressions and postures of the face and body\n  that contribute to the formation of words when signing\n\n'Product names'\n* ''Expression'' (album), an album by John Coltrane\n* ''Expressions'' (album), an album by Chick Corea\n* Expressions, an album by Jon Secada\n* Expression crew, a breakdance crew.\n* Expressions, the annual magazine of Vidyalankar Institute of Technology,\n  Mumbai, India\n* Microsoft Expression Studio, a digital media and graphic design suite\n* Ex'pression College for Digital Arts, a college in Emeryville, California for\n  the entertainment industry\n",

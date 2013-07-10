@@ -13,19 +13,7 @@
       "property",
       "attribute"
    ],
-   "duck" : [
-      "Having strong features marked with furrows or wrinkles: the rugged face of the old sailor.",
-      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=ruggedness",
-      "HASH(0x4d8da70)",
-      "The Free Dictionary",
-      "ruggedness",
-      "http://www.merriam-webster.com/dictionary/ruggedness",
-      "ruggedness definition: '''obsolete''' shaggy, hairy.",
-      "Merriam-Webster",
-      "HASH(0x52adc38)",
-      "Having strong features marked with furrows or wrinkles: the rugged face of the old sailor.",
-      "A"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Afghan_coalition_forces_repel_Taliban_ambush:_8_killed,_16_captured\" title=\"Afghan coalition forces repel Taliban ambush: 8 killed, 16 captured\">Afghan coalition forces repel Taliban ambush: 8 killed, 16 captured</a>",
@@ -44,14 +32,26 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "Having strong features marked with furrows or wrinkles: the rugged face of the old sailor.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=ruggedness",
+      "HASH(0x4d8da70)",
+      "The Free Dictionary",
+      "ruggedness",
+      "http://www.merriam-webster.com/dictionary/ruggedness",
+      "ruggedness definition: '''obsolete''' shaggy, hairy.",
+      "Merriam-Webster",
+      "HASH(0x52adc38)",
+      "Having strong features marked with furrows or wrinkles: the rugged face of the old sailor.",
+      "A"
+   ],
    "micro-www-search" : [],
    "created" : 1373460948,
-   "book" : [],
    "micro-www" : {
       "ruggedness" : [
          ""
       ]
    },
+   "book" : [],
    "micro-relation" : []
 }

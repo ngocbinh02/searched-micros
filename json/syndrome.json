@@ -88,21 +88,8 @@
       "psychological_feature",
       "concept"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Syndrome_(disambiguation)",
-      "\n<a href=\"http://duckduckgo.com/Syndrome_(TV_series)\">Syndrome (TV series)</a>, is a 2012 JTBC television series starring  Han Hye-jin, Song Chang-ui and Park Geun-young",
-      "\n<a href=\"http://duckduckgo.com/Syndrome_decoding\">Syndrome decoding</a>, in coding theory",
-      "HASH(0x20294d8)",
-      "Wikipedia",
-      "Syndrome",
-      "\n<a href=\"http://duckduckgo.com/Syndrome_(video_game_series)\">Syndrome (video game series)</a> - Syndrome is a series of video games developed by Goichi Suda.",
-      "http://www.merriam-webster.com/dictionary/syndrome",
-      "syndrome definition: a group of signs and symptoms that occur together and characterize a particular abnormality or condition.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Syndrome_(The_Incredibles)\">Syndrome (The Incredibles)</a>, a fictional character",
-      "HASH(0x4f7f940)",
-      "\n<a href=\"http://duckduckgo.com/Syndrome\">Syndrome</a> in medicine",
-      "D"
+   "Lists" : [
+      "List_of_eponymous_diseases"
    ],
    "common" : {
       "milestones" : [
@@ -132,8 +119,21 @@
          []
       ]
    },
-   "Lists" : [
-      "List_of_eponymous_diseases"
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Syndrome_(disambiguation)",
+      "\n<a href=\"http://duckduckgo.com/Syndrome_(TV_series)\">Syndrome (TV series)</a>, is a 2012 JTBC television series starring  Han Hye-jin, Song Chang-ui and Park Geun-young",
+      "\n<a href=\"http://duckduckgo.com/Syndrome_decoding\">Syndrome decoding</a>, in coding theory",
+      "HASH(0x20294d8)",
+      "Wikipedia",
+      "Syndrome",
+      "\n<a href=\"http://duckduckgo.com/Syndrome_(video_game_series)\">Syndrome (video game series)</a> - Syndrome is a series of video games developed by Goichi Suda.",
+      "http://www.merriam-webster.com/dictionary/syndrome",
+      "syndrome definition: a group of signs and symptoms that occur together and characterize a particular abnormality or condition.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Syndrome_(The_Incredibles)\">Syndrome (The Incredibles)</a>, a fictional character",
+      "HASH(0x4f7f940)",
+      "\n<a href=\"http://duckduckgo.com/Syndrome\">Syndrome</a> in medicine",
+      "D"
    ],
    "micro-www-search" : [
       "Arming_sword\n>http\nhttp://en.m.wikipedia.org/wiki/Arming_sword\nhttp://en.wikipedia.org/w/index.php?title=Arming_sword&oldid=560472592\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png\n\n",
@@ -144,7 +144,6 @@
       "Syndrome\n>http\nhttp://en.m.wikipedia.org/wiki/Syndrome\nhttp://en.wikipedia.org/w/index.php?title=Syndrome&oldid=544353188\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n"
    ],
    "created" : 1373459345,
-   "book" : [],
    "micro-www" : {
       "syndrome" : [
          "syndromes",
@@ -153,6 +152,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Syndromes|"

@@ -76,7 +76,20 @@
       "moderateness",
       "level"
    ],
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Level",
+      "HASH(0x51a3778)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Level_of_measurement\">Level of measurement</a>, a theory of the kinds of scales or levels used for measuring",
+      "Level",
+      "\n<a href=\"http://duckduckgo.com/Energy_level\">Energy level</a>s, discrete amounts of energy that can be held by a quantum mechanical system or confined particle",
+      "http://www.merriam-webster.com/dictionary/populated",
+      "populated definition: to have a place in.",
+      "Merriam-Webster",
+      "HASH(0x5142428)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Sea_level\">Sea level</a>, the average height of the ocean's surface, reference of <a href=\"http://duckduckgo.com/?q=height\">height</a> systems"
+   ],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Major_ISP_Level_3_experiences_downtime\" title=\"Major ISP Level 3 experiences downtime\">Major ISP <span class=\"searchmatch\">Level</span> 3 experiences downtime</a>",
@@ -105,20 +118,7 @@
          []
       ]
    },
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Level",
-      "HASH(0x51a3778)",
-      "Wikipedia",
-      "\n<a href=\"http://duckduckgo.com/Level_of_measurement\">Level of measurement</a>, a theory of the kinds of scales or levels used for measuring",
-      "Level",
-      "\n<a href=\"http://duckduckgo.com/Energy_level\">Energy level</a>s, discrete amounts of energy that can be held by a quantum mechanical system or confined particle",
-      "http://www.merriam-webster.com/dictionary/populated",
-      "populated definition: to have a place in.",
-      "Merriam-Webster",
-      "HASH(0x5142428)",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Sea_level\">Sea level</a>, the average height of the ocean's surface, reference of <a href=\"http://duckduckgo.com/?q=height\">height</a> systems"
-   ],
+   "Lists" : [],
    "micro-www-search" : [
       "levels\n>http\nhttp://en.m.wikipedia.org/wiki/Level\nhttp://en.wikipedia.org/w/index.php?title=Level&oldid=540534907\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "level\n>http\nhttp://en.m.wikipedia.org/wiki/Level\nhttp://en.wikipedia.org/w/index.php?title=Level&oldid=540534907\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
@@ -131,6 +131,7 @@
       "Level_(algebra)\n>image\nhttp://upload.wikimedia.org/math/d/8/c/d8c226e759cf0fe11772bc0261ec344a.png\n"
    ],
    "created" : 1373459782,
+   "book" : [],
    "micro-www" : {
       "level" : [
          "levels",
@@ -145,7 +146,6 @@
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n'Level' or 'levels' or 'levelling' may refer to:\n",

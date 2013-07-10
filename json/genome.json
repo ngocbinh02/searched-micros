@@ -15,27 +15,8 @@
       "genome",
       "abstraction"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Lord_Genome\">Lord Genome</a>, A character from the anime series <a href=\"http://duckduckgo.com/?q=Tengen Toppa Gurren Lagann\">Tengen Toppa Gurren Lagann</a>.",
-      "https://en.wikipedia.org/wiki/Genome_(disambiguation)",
-      "\n<a href=\"http://duckduckgo.com/Bovine_genome\">Bovine genome</a>.",
-      "Wikipedia",
-      "Genome",
-      "http://www.merriam-webster.com/dictionary/genome",
-      "\nGenome, a superior humanoid race in Square's console role-playing game <a href=\"http://duckduckgo.com/Final_Fantasy_IX\">Final Fantasy IX</a>.",
-      "genome definition: one haploid set of chromosomes with the genes they contain; '''broadly'''.",
-      "\n<a href=\"http://duckduckgo.com/G-Nome\">G-Nome</a>, a PC game developed by <a href=\"http://duckduckgo.com/?q=7th Level\">7th Level</a>.",
-      "\n<a href=\"http://duckduckgo.com/Genome_(novel)\">Genome (novel)</a>, science fiction novel by <a href=\"http://duckduckgo.com/?q=Sergey Lukyanenko\">Sergey Lukyanenko</a>.",
-      "\n<a href=\"http://duckduckgo.com/Human_genome\">Human genome</a>.",
-      "\n<a href=\"http://duckduckgo.com/Chromosome_(genetic_algorithm)\">Chromosome (genetic algorithm)</a>, the parameter set of a proposed solution to a problem posed to a genetic algorithm.",
-      "\n<a href=\"http://duckduckgo.com/Genome_(book)\">Genome</a>, a 1999 popular science novel by Matt Ridley.",
-      "HASH(0x5d2d218)",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/mitochondrial_DNA\">Mitochondrial genome</a>.",
-      "\n<a href=\"http://duckduckgo.com/Exterro%2C_Inc.\">Fusion Genome</a>, A software solution for the legal industry.",
-      "HASH(0x5d0f610)",
-      "\n<a href=\"http://duckduckgo.com/Genome\">Genome</a>, the totality of genetic material carried by an organism.",
-      "D"
+   "Lists" : [
+      "List_of_sequenced_eukaryotic_genomes"
    ],
    "common" : {
       "milestones" : [
@@ -64,8 +45,27 @@
          []
       ]
    },
-   "Lists" : [
-      "List_of_sequenced_eukaryotic_genomes"
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Lord_Genome\">Lord Genome</a>, A character from the anime series <a href=\"http://duckduckgo.com/?q=Tengen Toppa Gurren Lagann\">Tengen Toppa Gurren Lagann</a>.",
+      "https://en.wikipedia.org/wiki/Genome_(disambiguation)",
+      "\n<a href=\"http://duckduckgo.com/Bovine_genome\">Bovine genome</a>.",
+      "Wikipedia",
+      "Genome",
+      "http://www.merriam-webster.com/dictionary/genome",
+      "\nGenome, a superior humanoid race in Square's console role-playing game <a href=\"http://duckduckgo.com/Final_Fantasy_IX\">Final Fantasy IX</a>.",
+      "genome definition: one haploid set of chromosomes with the genes they contain; '''broadly'''.",
+      "\n<a href=\"http://duckduckgo.com/G-Nome\">G-Nome</a>, a PC game developed by <a href=\"http://duckduckgo.com/?q=7th Level\">7th Level</a>.",
+      "\n<a href=\"http://duckduckgo.com/Genome_(novel)\">Genome (novel)</a>, science fiction novel by <a href=\"http://duckduckgo.com/?q=Sergey Lukyanenko\">Sergey Lukyanenko</a>.",
+      "\n<a href=\"http://duckduckgo.com/Human_genome\">Human genome</a>.",
+      "\n<a href=\"http://duckduckgo.com/Chromosome_(genetic_algorithm)\">Chromosome (genetic algorithm)</a>, the parameter set of a proposed solution to a problem posed to a genetic algorithm.",
+      "\n<a href=\"http://duckduckgo.com/Genome_(book)\">Genome</a>, a 1999 popular science novel by Matt Ridley.",
+      "HASH(0x5d2d218)",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/mitochondrial_DNA\">Mitochondrial genome</a>.",
+      "\n<a href=\"http://duckduckgo.com/Exterro%2C_Inc.\">Fusion Genome</a>, A software solution for the legal industry.",
+      "HASH(0x5d0f610)",
+      "\n<a href=\"http://duckduckgo.com/Genome\">Genome</a>, the totality of genetic material carried by an organism.",
+      "D"
    ],
    "micro-www-search" : [
       "genomes\n>http\nhttp://en.m.wikipedia.org/wiki/Genome\nhttp://en.wikipedia.org/w/index.php?title=Genome&oldid=544352492\nhttp://news.sciencemag.org/sciencenow/2010/10/scienceshot-biggest-genome-ever.html\nhttp://www.genome.gov/10001772\nhttp://www.genomecenter.howard.edu/\nhttp://www.genomenewsnetwork.org/\nhttp://www.genomenewsnetwork.org/articles/02_01/Sizing_genomes.shtml\nhttp://www.genomenewsnetwork.org/resources/whats_a_genome/Chp3_1.shtml\nhttp://www.genomesize.com\nhttp://www.genomesize.com/\nhttp://www.genomesize.com/statistics.php?stats=entire#stats_top\nhttp://www.genomesonline.org/\nhttp://www.ncbi.nlm.nih.gov/About/primer/genetics_genome.html\nhttp://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=genomeprj\nhttp://www.ncbi.nlm.nih.gov/sites/entrez?db=Genome&itool=toolbar\nhttp://www.ornl.gov/sci/techresources/Human_Genome/faq/compgen.shtml#genomesize\nhttp://www.yeastgenome.org/\n\n>pdf\nhttp://lhncbc.nlm.nih.gov/lhc/docs/published/2001/pub2001047.pdf\nhttp://lhncbc.nlm.nih.gov/lhc/docs/published/2001/pub2001047.pdf\nhttp://lhncbc.nlm.nih.gov/lhc/docs/published/2001/pub2001047.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Symbol_template_class.svg/16px-Symbol_template_class.svg.png\n\n",
@@ -77,7 +77,6 @@
       "Genome\n>http\nhttp://en.m.wikipedia.org/wiki/Genome\nhttp://en.wikipedia.org/w/index.php?title=Genome&oldid=543586477\nhttp://news.sciencemag.org/sciencenow/2010/10/scienceshot-biggest-genome-ever.html\nhttp://www.genome.gov/10001772\nhttp://www.genomecenter.howard.edu/\nhttp://www.genomenewsnetwork.org/\nhttp://www.genomenewsnetwork.org/articles/02_01/Sizing_genomes.shtml\nhttp://www.genomenewsnetwork.org/resources/whats_a_genome/Chp3_1.shtml\nhttp://www.genomesize.com\nhttp://www.genomesize.com/\nhttp://www.genomesize.com/statistics.php?stats=entire#stats_top\nhttp://www.genomesonline.org/\nhttp://www.ncbi.nlm.nih.gov/About/primer/genetics_genome.html\nhttp://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=genomeprj\nhttp://www.ncbi.nlm.nih.gov/sites/entrez?db=Genome&itool=toolbar\nhttp://www.ornl.gov/sci/techresources/Human_Genome/faq/compgen.shtml#genomesize\nhttp://www.yeastgenome.org/\n\n>pdf\nhttp://lhncbc.nlm.nih.gov/lhc/docs/published/2001/pub2001047.pdf\nhttp://lhncbc.nlm.nih.gov/lhc/docs/published/2001/pub2001047.pdf\nhttp://lhncbc.nlm.nih.gov/lhc/docs/published/2001/pub2001047.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Symbol_template_class.svg/16px-Symbol_template_class.svg.png\n"
    ],
    "created" : 1373456927,
-   "book" : [],
    "micro-www" : {
       "genome" : [
          "genomes",
@@ -90,6 +89,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Genetic mapping",

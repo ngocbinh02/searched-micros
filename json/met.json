@@ -271,19 +271,8 @@
       "meet",
       "see"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Met",
-      "\nThe <a href=\"http://duckduckgo.com/New_York_Mets\">New York Mets</a> baseball team, referring to both players and fans",
-      "HASH(0x4f9ff28)",
-      "Wikipedia",
-      "Met",
-      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=met",
-      "pref. Variant of meta-.",
-      "TheFreeDictionary",
-      "\n<a href=\"http://duckduckgo.com/Metropolitan_Museum_of_Art\">Metropolitan Museum of Art</a> in Manhattan, New York",
-      "HASH(0x4f5b310)",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Metastasis\">Metastasis</a>, the spread of a disease, such as <a href=\"http://duckduckgo.com/?q=cancer\">cancer</a>, to different parts of the body"
+   "Lists" : [
+      "List_of_Mega_Man_characters#Met"
    ],
    "common" : {
       "milestones" : [
@@ -314,8 +303,19 @@
          []
       ]
    },
-   "Lists" : [
-      "List_of_Mega_Man_characters#Met"
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Met",
+      "\nThe <a href=\"http://duckduckgo.com/New_York_Mets\">New York Mets</a> baseball team, referring to both players and fans",
+      "HASH(0x4f9ff28)",
+      "Wikipedia",
+      "Met",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=met",
+      "pref. Variant of meta-.",
+      "TheFreeDictionary",
+      "\n<a href=\"http://duckduckgo.com/Metropolitan_Museum_of_Art\">Metropolitan Museum of Art</a> in Manhattan, New York",
+      "HASH(0x4f5b310)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Metastasis\">Metastasis</a>, the spread of a disease, such as <a href=\"http://duckduckgo.com/?q=cancer\">cancer</a>, to different parts of the body"
    ],
    "micro-www-search" : [
       "metropolitan_area\n>http\nhttp://en.wikipedia.org/w/index.php?title=Metropolitan_area&oldid=560477525\nhttp://www.census.gov/population/www/metroareas/aboutmetro.html\nhttp://www.metropolis.org\nhttp://www.tdkterim.gov.tr/karsilik/?kelime=metropol&kategori=karsilik_liste&ayn=bas\n\n>pdf\nhttp://www.ons.gov.uk/ons/dcp171778_270487.pdf\nhttp://www.ons.gov.uk/ons/dcp171778_270487.pdf\nhttp://www.whitehouse.gov/sites/default/files/omb/bulletins/2013/b13-01.pdf\nhttp://www.whitehouse.gov/sites/default/files/omb/bulletins/2013/b13-01.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n\n",
@@ -504,7 +504,6 @@
       "METRIC\n>http\nhttp://en.m.wikipedia.org/wiki/METRIC\nhttp://en.wikipedia.org/w/index.php?title=METRIC&oldid=425814827\nhttp://www.idwr.idaho.gov/GeographicInfo/METRIC/et.htm\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG/40px-Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG\n"
    ],
    "created" : 1373461072,
-   "book" : [],
    "micro-www" : {
       "met" : [
          "metropolitan_area",
@@ -694,6 +693,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Met', 'MET' or 'The Met' may refer to:\n",

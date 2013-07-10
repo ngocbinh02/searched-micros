@@ -1,9 +1,4 @@
 {
-   "google" : [
-      "/url?q=http://us.playstation.com/ps3/playstation-move/&sa=U&ei=0X3YUcXFMIXEswan6oH4Bw&ved=0CBgQFjAA&usg=AFQjCNGwpjPFIMiRKtfIWcEWm8yKLAbeXg",
-      "/url?q=http://en.wikipedia.org/wiki/MOVE&sa=U&ei=0X3YUcXFMIXEswan6oH4Bw&ved=0CBwQFjAB&usg=AFQjCNGZ8k1SfzKRa_tJ6Lrk3KSyv4zGeA",
-      "/url?q=http://www.letsmove.gov/&sa=U&ei=0X3YUcXFMIXEswan6oH4Bw&ved=0CCgQFjAE&usg=AFQjCNFvaqtvZv3JxkBmdGvAn9LobYP9eA"
-   ],
    "micrownet" : [
       "chess_move",
       "move",
@@ -28,6 +23,11 @@
       "mover",
       "mover_and_shaker",
       "opening_move"
+   ],
+   "google" : [
+      "/url?q=http://us.playstation.com/ps3/playstation-move/&sa=U&ei=0X3YUcXFMIXEswan6oH4Bw&ved=0CBgQFjAA&usg=AFQjCNGwpjPFIMiRKtfIWcEWm8yKLAbeXg",
+      "/url?q=http://en.wikipedia.org/wiki/MOVE&sa=U&ei=0X3YUcXFMIXEswan6oH4Bw&ved=0CBwQFjAB&usg=AFQjCNGZ8k1SfzKRa_tJ6Lrk3KSyv4zGeA",
+      "/url?q=http://www.letsmove.gov/&sa=U&ei=0X3YUcXFMIXEswan6oH4Bw&ved=0CCgQFjAE&usg=AFQjCNFvaqtvZv3JxkBmdGvAn9LobYP9eA"
    ],
    "duckduckgo" : {
       "urls" : [

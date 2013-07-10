@@ -11,20 +11,7 @@
       "say",
       "order"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Executive_director\">Executive director</a> - Executive director is a term sometimes applied to the chief executive officer or managing director of an organization, company, or corporation.",
-      "https://en.wikipedia.org/wiki/Director",
-      "HASH(0x51c72a8)",
-      "Wikipedia",
-      "\n<a href=\"http://duckduckgo.com/Film_director\">Film director</a> - A film director is a person who directs the making of a film.",
-      "Director",
-      "\n<a href=\"http://duckduckgo.com/Creative_director\">Creative director</a>, a person usually responsible for creative development of Interactive Entertainment, and is generally regarded as the prime design authority across the company's product range.",
-      "http://www.merriam-webster.com/dictionary/director",
-      "director definition: one who directs.",
-      "Merriam-Webster",
-      "HASH(0x51dbac0)",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/FAA:_Jets_at_New_York_airport_directed_by_child\" title=\"FAA: Jets at New York airport directed by child\">FAA: Jets at New York airport <span class=\"searchmatch\">directed</span> by child</a>",
@@ -54,14 +41,26 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Executive_director\">Executive director</a> - Executive director is a term sometimes applied to the chief executive officer or managing director of an organization, company, or corporation.",
+      "https://en.wikipedia.org/wiki/Director",
+      "HASH(0x51c72a8)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Film_director\">Film director</a> - A film director is a person who directs the making of a film.",
+      "Director",
+      "\n<a href=\"http://duckduckgo.com/Creative_director\">Creative director</a>, a person usually responsible for creative development of Interactive Entertainment, and is generally regarded as the prime design authority across the company's product range.",
+      "http://www.merriam-webster.com/dictionary/director",
+      "director definition: one who directs.",
+      "Merriam-Webster",
+      "HASH(0x51dbac0)",
+      "D"
+   ],
    "micro-www-search" : [
       "directed-energy_weapon\n>http\nhttp://64.233.169.104/unclesam?q=cache:3_pQnrRIxDUJ:www.dtic.mil/doctrine/jel/jfq_pubs/1621.pdf+electromagnetic+microwave+directed-energy+weapons+lethal+human+death&hl=en&ct=clnk&cd=4&gl=us\nhttp://en.wikipedia.org/w/index.php?title=Directed-energy_weapon&oldid=559713265\nhttp://www.defenceiq.com/army-and-land-forces/articles/we-talk-to-dr-pali-ek-about-directed-energy-system/\n\n>pdf\nhttp://nobelprize.org/physics/laureates/1964/townes-lecture.pdf\nhttp://wstiac.alionscience.com/pdf/WSTV7N1.pdf\nhttp://wstiac.alionscience.com/pdf/WSTV7N1.pdf\nhttp://www.raytheon.com/capabilities/rtnwcm/groups/rms/documents/content/rtn_rms_ps_vigilanteagle_datas.pdf\nhttp://www.st.northropgrumman.com/media/SiteFiles/mediagallery/factsheet/JHPSSL.pdf\nhttp://www.raytheon.com/capabilities/rtnwcm/groups/rms/documents/content/rtn_rms_ps_vigilanteagle_datas.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png\n\n",
       "Directed_set\n>image\nhttp://upload.wikimedia.org/math/9/e/e/9eedd61e32f7a8e70e171028a7e5dc08.png\n\n",
       "Directed_mutation\n>pdf\nhttp://www.micab.umn.edu/current/adaprev01.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/f/f4/Ambox_content.png\n"
    ],
    "created" : 1373460018,
-   "book" : [],
    "micro-www" : {
       "directed" : [
          "directed-energy_weapon",
@@ -70,6 +69,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n'Director' may refer to:\n",

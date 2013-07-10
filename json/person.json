@@ -1,4 +1,11 @@
 {
+   "google" : [
+      "/url?q=http://en.wikipedia.org/wiki/Person&sa=U&ei=m3zYUcHhCo3ZsgbuzoCgBg&ved=0CBgQFjAA&usg=AFQjCNHVFxJLs57g2Z6efAg9f3YkULhpEQ",
+      "/url?q=http://www.person.com/&sa=U&ei=m3zYUcHhCo3ZsgbuzoCgBg&ved=0CBwQFjAB&usg=AFQjCNG_X51Gh6dGBLoVis2hSZ-Q1fTHwA",
+      "/url?q=http://schema.org/Person&sa=U&ei=m3zYUcHhCo3ZsgbuzoCgBg&ved=0CCQQFjAC&usg=AFQjCNE4Ldl01nGabrLw-pS2Mm5LeICkkw",
+      "/url?q=http://www.newadvent.org/cathen/11726a.htm&sa=U&ei=m3zYUcHhCo3ZsgbuzoCgBg&ved=0CCcQFjAD&usg=AFQjCNE0xRlxNfnVv4nDGhiZMKxMDeEyDQ",
+      "/url?q=http://en.wiktionary.org/wiki/person&sa=U&ei=m3zYUcHhCo3ZsgbuzoCgBg&ved=0CCsQFjAE&usg=AFQjCNHvXG-hPc7dpTfUJ1pSaa2_dmsdZA"
+   ],
    "micrownet" : [
       "abandoned_person",
       "aliterate_person",
@@ -159,13 +166,6 @@
       "white_person",
       "working_person",
       "young_person"
-   ],
-   "google" : [
-      "/url?q=http://en.wikipedia.org/wiki/Person&sa=U&ei=m3zYUcHhCo3ZsgbuzoCgBg&ved=0CBgQFjAA&usg=AFQjCNHVFxJLs57g2Z6efAg9f3YkULhpEQ",
-      "/url?q=http://www.person.com/&sa=U&ei=m3zYUcHhCo3ZsgbuzoCgBg&ved=0CBwQFjAB&usg=AFQjCNG_X51Gh6dGBLoVis2hSZ-Q1fTHwA",
-      "/url?q=http://schema.org/Person&sa=U&ei=m3zYUcHhCo3ZsgbuzoCgBg&ved=0CCQQFjAC&usg=AFQjCNE4Ldl01nGabrLw-pS2Mm5LeICkkw",
-      "/url?q=http://www.newadvent.org/cathen/11726a.htm&sa=U&ei=m3zYUcHhCo3ZsgbuzoCgBg&ved=0CCcQFjAD&usg=AFQjCNE0xRlxNfnVv4nDGhiZMKxMDeEyDQ",
-      "/url?q=http://en.wiktionary.org/wiki/person&sa=U&ei=m3zYUcHhCo3ZsgbuzoCgBg&ved=0CCsQFjAE&usg=AFQjCNHvXG-hPc7dpTfUJ1pSaa2_dmsdZA"
    ],
    "duckduckgo" : {
       "urls" : [

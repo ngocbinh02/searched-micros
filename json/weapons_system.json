@@ -66,9 +66,11 @@
       "fire_ship",
       "weaponry"
    ],
-   "duck" : [
-      "HASH(0x5e31f88)",
-      "HASH(0x5e32df8)"
+   "Lists" : [
+      "List_of_ancient_weapons",
+      "List_of_aircraft_weapons",
+      "List_of_martial_arts_weapons",
+      "List_of_practice_weapons"
    ],
    "common" : {
       "milestones" : [
@@ -97,20 +99,18 @@
          []
       ]
    },
-   "Lists" : [
-      "List_of_ancient_weapons",
-      "List_of_aircraft_weapons",
-      "List_of_martial_arts_weapons",
-      "List_of_practice_weapons"
+   "duck" : [
+      "HASH(0x5e31f88)",
+      "HASH(0x5e32df8)"
    ],
    "micro-www-search" : [],
    "created" : 1373455412,
-   "book" : [],
    "micro-www" : {
       "weapons_system" : [
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Military equipment",

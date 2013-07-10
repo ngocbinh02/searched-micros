@@ -1,8 +1,4 @@
 {
-   "micrownet" : [
-      "biotech",
-      "biotechnology"
-   ],
    "google" : [
       "/url?q=http://en.wikipedia.org/wiki/Biotechnology&sa=U&ei=mCHdUdWMIsfOOOv5gYgL&ved=0CBgQFjAA&usg=AFQjCNGh-cvmNy_kI6TfHG-9kCyHAjwitw",
       "/url?q=http://www.nature.com/biotech/&sa=U&ei=mCHdUdWMIsfOOOv5gYgL&ved=0CCAQFjAB&usg=AFQjCNGUpv565trywy9icQqaiui0GC6jwA",
@@ -15,6 +11,10 @@
       "/url?q=http://www.biotech-india.org/&sa=U&ei=mCHdUdWMIsfOOOv5gYgL&ved=0CDgQFjAI&usg=AFQjCNE126XlTz9KnIHXztmsVR6HfkP3Pg",
       "/images?hl=en&q=biotech&gbv=1&num=10&gl=&sa=X&oi=image_result_group&ei=mCHdUdWMIsfOOOv5gYgL&ved=0CDsQsAQ",
       "/url?q=http://www.ncbi.nlm.nih.gov/&sa=U&ei=mCHdUdWMIsfOOOv5gYgL&ved=0CEcQFjAO&usg=AFQjCNGVNOrGiapqB1XADbV23hNLi6hPqQ"
+   ],
+   "micrownet" : [
+      "biotech",
+      "biotechnology"
    ],
    "micro" : [
       "subject",
@@ -53,20 +53,10 @@
       "subject_area",
       "domain"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/biological_engineering\">Bioengineering</a> - Biological engineering or bioengineering is the application of concepts and methods of biology to solve real-world problems related to the life sciences and/or the application thereof, usi...",
-      "\n<a href=\"http://duckduckgo.com/Bioculture\">Bioculture</a> - Bioculture, comprises the emerging area bounded by the medical sciences, social sciences, area studies, culture studies, biotechnology, disability studies, the humanities, and the economic and g...",
-      "\n<a href=\"http://duckduckgo.com/c/Biotechnology\">Biotechnology Category</a>",
-      "\n<a href=\"http://duckduckgo.com/Biomimetics\">Biomimetics</a> - Biomimicry or biomimetics is the examination of nature, its models, systems, processes, and elements to emulate or take inspiration from in order to solve human problems.",
-      "\n<a href=\"http://duckduckgo.com/Bionic_architecture\">Bionic architecture</a> - Bionic architecture is a movement for the design and construction of expressive buildings whose layout and lines borrow from natural (i.e.",
-      "Biotechnology",
-      "http://www.merriam-webster.com/dictionary/biotechnology",
-      "biotechnology definition: the manipulation (as through genetic engineering) of living organisms or their components to produce useful usually commercial products (as pest resistant crops, new bacterial strains, or novel pharmaceuticals).",
-      "Merriam-Webster",
-      "https://i.duckduckgo.com/i/d6942ae1.jpg",
-      "\n<a href=\"http://duckduckgo.com/Competitions_and_prizes_in_biotechnology\">Competitions and prizes in biotechnology</a>",
-      "\n<a href=\"http://duckduckgo.com/Biotechnology_industrial_park\">Biotechnology industrial park</a> - Biotechnology industrial park, also called Bio-industrial park, Eco-industrial Clusters, bioincubators is a special form of industrial park that specialized in biotechnology.",
-      "Biotechnology is the use of living systems and organisms to develop or make useful products, or \"any technological application that uses biological systems, living organisms or derivatives thereof, to make or modify products or processes for specific use\" (UN Convention on Biological Diversity)."
+   "Lists" : [
+      "List_of_biotechnology_articles",
+      "List_of_biotechnology_companies",
+      "List_of_emerging_technologies#Biotechnology"
    ],
    "common" : {
       "milestones" : [
@@ -84,10 +74,20 @@
          []
       ]
    },
-   "Lists" : [
-      "List_of_biotechnology_articles",
-      "List_of_biotechnology_companies",
-      "List_of_emerging_technologies#Biotechnology"
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/biological_engineering\">Bioengineering</a> - Biological engineering or bioengineering is the application of concepts and methods of biology to solve real-world problems related to the life sciences and/or the application thereof, usi...",
+      "\n<a href=\"http://duckduckgo.com/Bioculture\">Bioculture</a> - Bioculture, comprises the emerging area bounded by the medical sciences, social sciences, area studies, culture studies, biotechnology, disability studies, the humanities, and the economic and g...",
+      "\n<a href=\"http://duckduckgo.com/c/Biotechnology\">Biotechnology Category</a>",
+      "\n<a href=\"http://duckduckgo.com/Biomimetics\">Biomimetics</a> - Biomimicry or biomimetics is the examination of nature, its models, systems, processes, and elements to emulate or take inspiration from in order to solve human problems.",
+      "\n<a href=\"http://duckduckgo.com/Bionic_architecture\">Bionic architecture</a> - Bionic architecture is a movement for the design and construction of expressive buildings whose layout and lines borrow from natural (i.e.",
+      "Biotechnology",
+      "http://www.merriam-webster.com/dictionary/biotechnology",
+      "biotechnology definition: the manipulation (as through genetic engineering) of living organisms or their components to produce useful usually commercial products (as pest resistant crops, new bacterial strains, or novel pharmaceuticals).",
+      "Merriam-Webster",
+      "https://i.duckduckgo.com/i/d6942ae1.jpg",
+      "\n<a href=\"http://duckduckgo.com/Competitions_and_prizes_in_biotechnology\">Competitions and prizes in biotechnology</a>",
+      "\n<a href=\"http://duckduckgo.com/Biotechnology_industrial_park\">Biotechnology industrial park</a> - Biotechnology industrial park, also called Bio-industrial park, Eco-industrial Clusters, bioincubators is a special form of industrial park that specialized in biotechnology.",
+      "Biotechnology is the use of living systems and organisms to develop or make useful products, or \"any technological application that uses biological systems, living organisms or derivatives thereof, to make or modify products or processes for specific use\" (UN Convention on Biological Diversity)."
    ],
    "micro-www-search" : [
       "biotechnology\n>http\nhttp://croplife.intraspin.com/Biotech/\nhttp://croplife.intraspin.com/Biotech/plant-biotechnology-current-and-potential-impact-for-improving-pest-management-in-u-s-agriculture-an-analysis-of-40-case-studies/\nhttp://en.m.wikipedia.org/wiki/Biotechnology\nhttp://en.wikipedia.org/w/index.php?title=Biotechnology&oldid=542847009\nhttp://en.wikipedia.org/wiki/Biotechnology_company\nhttp://naldr.nal.usda.gov/Exe/ZyNET.exe/E6870001.XML?ZyActionD=ZyDocument&Client=National%20Agricultural%20Library%20Digital%20Repository&Index=AH%7CAH2%7CAIB%7CBIC%7CBooks%7CERS%7CFVMNR%7CJAR%7CMP%7CROS%7CRural%7CTB%7CUSDA_Div_Bulletin%7CWPC%7CYOA1%7CYOA2&Docs=&Query=biotechnology&Time=&EndTime=&SearchMethod=1&TocRestrict=n&Toc=&TocEntry=&QField=&QFieldYear=&QFieldMonth=&QFieldDay=&UseQField=&IntQFieldOp=1&ExtQFieldOp=1&XmlQuery=&Doc=%3Cdocument%20name%3D%22E6870001.XML%22%20path%3D%22\\\\\\\\NALDR\\\\DIGITAL\\\\ZYFILES\\\\INDEXDATA\\\\ERS\\\\XML\\\\2008\\\\00000002\\\\%22%20index%3D%22ERS%22%2F%3E&File=\\\\\\\\NALDR\\\\DIGITAL\\\\ZYFILES\\\\INDEXDATA\\\\ERS\\\\XML\\\\2008\\\\00000002\\\\E6870001.XML&User=ANONYMOUS&Password=&SortMethod=h%7C-&MaximumDocuments=20&FuzzyDegree=0&ImageQuality=r85g16/r85g16/x150y150g16/i500&Display=hpfrw&DefSeekPage=f&SearchBack=ZyActionL&Back=ZyActionS&BackDesc=Results%20page\nhttp://usinfo.state.gov/ei/economic_issues/biotechnology/biotech_faq.html\nhttp://www.buildingbiotechnology.com\nhttp://www.economics.noaa.gov/?goal=ecosystems&file=users/business/biotech\nhttp://www.europabio.org/what-biotechnology\nhttp://www.fao.org/biotech/biotech-glossary/en/\nhttp://www.nigms.nih.gov/Training/InstPredoc/PredocInst-Biotechnology.htm\nhttp://www.oecd.org/sti/biotechnologypolicies/keybiotechnologyindicators.htm\nhttp://www.public.asu.edu/~langland/biotech-intro.html\n\n>pdf\nhttp://animalscience.ucdavis.edu/animalbiotech/My_Laboratory/Publications/futureanimalbiotech.pdf\nhttp://www.bio-entrepreneur.net/Advance-definition-biotech.pdf\nhttp://www.europabio.org/documents/cheese.pdf\nhttp://www.europabio.org/documents/painbread.pdf\nhttp://www.gpo.gov/fdsys/pkg/FR-2012-12-26/pdf/2012-31118.pdf\nhttp://www.gpo.gov/fdsys/pkg/FR-2012-12-26/pdf/2012-31118.pdf\nhttp://www.oecd.org/science/innovationinsciencetechnologyandindustry/49303992.pdf\nhttp://www.primate.or.kr/bioinformatics/Course/Yale/intro.pdf\nhttp://www.oecd.org/science/innovationinsciencetechnologyandindustry/49303992.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Insulincrystals.jpg/220px-Insulincrystals.jpg\n\n",
@@ -99,7 +99,6 @@
       "Biotechnology\n>pdf\nhttp://animalscience.ucdavis.edu/animalbiotech/My_Laboratory/Publications/futureanimalbiotech.pdf\nhttp://www.europabio.org/documents/cheese.pdf\nhttp://www.europabio.org/documents/painbread.pdf\nhttp://www.gpo.gov/fdsys/pkg/FR-2012-12-26/pdf/2012-31118.pdf\nhttp://www.primate.or.kr/bioinformatics/Course/Yale/intro.pdf\nhttp://www.oecd.org/science/innovationinsciencetechnologyandindustry/49303992.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/InsulinHexamer.jpg/220px-InsulinHexamer.jpg\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Microarray2.gif/220px-Microarray2.gif\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/2/24/The_Brewer_designed_and_engraved_in_the_Sixteenth._Century_by_J_Amman.png/220px-The_Brewer_designed_and_engraved_in_the_Sixteenth._Century_by_J_Amman.png\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Gene_therapy.jpg/220px-Gene_therapy.jpg\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Gel_electrophoresis_2.jpg/220px-Gel_electrophoresis_2.jpg\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/7/70/DNA_replication_split.svg/220px-DNA_replication_split.svg.png\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Insulincrystals.jpg/220px-Insulincrystals.jpg\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/40px-Wikiversity-logo.svg.png\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/E_coli_at_10000x%2C_original.jpg/220px-E_coli_at_10000x%2C_original.jpg\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/40px-Wikibooks-logo-en-noslogan.svg.png\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/99341.jpg/220px-99341.jpg\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/3d_tRNA.png/28px-3d_tRNA.png\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/16px-Wikiquote-logo.svg.png\nhttp://upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png\nhttp://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png\nhttp://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png\n"
    ],
    "created" : 1373453707,
-   "book" : [],
    "micro-www" : {
       "biotech" : [
          "biotechnology",
@@ -112,6 +111,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Biotechnology|"

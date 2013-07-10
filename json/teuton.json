@@ -34,6 +34,16 @@
       "causal_agent",
       "mortal"
    ],
+   "Lists" : [
+      "List_of_Germanic_peoples"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
    "duck" : [
       "\n<a href=\"http://duckduckgo.com/theodiscus\">Theodisca</a> - Theodiscus, the Latinised form of a Germanic word meaning \"vernacular\" or \"of the people\", is a Medieval Latin adjective referring to the Germanic vernaculars of the Early Middle Ages.",
       "https://en.wikipedia.org/wiki/Teutons",
@@ -53,24 +63,14 @@
       "  The Teutons (Latin: Teutones, Teutoni) were a Germanic tribe mentioned by Greek and Roman authors, notably Strabo and Marcus Velleius Paterculus.",
       "\n<a href=\"http://duckduckgo.com/c/Ancient_Germanic_peoples\">Ancient Germanic peoples</a>"
    ],
-   "common" : {
-      "milestones" : [],
-      "image" : [
-         [],
-         []
-      ]
-   },
-   "Lists" : [
-      "List_of_Germanic_peoples"
-   ],
    "micro-www-search" : [],
    "created" : 1373455503,
-   "book" : [],
    "micro-www" : {
       "teuton" : [
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Ancient Germanic peoples",

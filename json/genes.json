@@ -49,18 +49,9 @@
       "regulator_gene",
       "proto-oncogene"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Gene_(disambiguation)",
-      "HASH(0x5daf220)",
-      "Wikipedia",
-      "Gene",
-      "\n<a href=\"http://duckduckgo.com/Gene_(database)\">Gene (database)</a>, a database of genes maintained by the <a href=\"http://duckduckgo.com/?q=National Center for Biotechnology Information\">National Center for Biotechnology Information</a> and accessible through the <a href=\"http://duckduckgo.com/?q=Entrez\">Entrez</a> search system",
-      "http://www.merriam-webster.com/dictionary/gene",
-      "gene definition: a specific sequence of nucleotides in DNA or RNA that is located usually on a chromosome and that is the functional unit of inheritance controlling the transmission and expression of one or more traits by specifying the structure of a particular polypeptide and especially a protein or controlling the function of other genetic material.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Gene\">Gene</a> - A gene is a molecular unit of heredity of a living organism.",
-      "HASH(0x2d53908)",
-      "D"
+   "Lists" : [
+      "List_of_gene_prediction_software",
+      "List_of_notable_genes"
    ],
    "common" : {
       "milestones" : [
@@ -89,9 +80,18 @@
          []
       ]
    },
-   "Lists" : [
-      "List_of_gene_prediction_software",
-      "List_of_notable_genes"
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Gene_(disambiguation)",
+      "HASH(0x5daf220)",
+      "Wikipedia",
+      "Gene",
+      "\n<a href=\"http://duckduckgo.com/Gene_(database)\">Gene (database)</a>, a database of genes maintained by the <a href=\"http://duckduckgo.com/?q=National Center for Biotechnology Information\">National Center for Biotechnology Information</a> and accessible through the <a href=\"http://duckduckgo.com/?q=Entrez\">Entrez</a> search system",
+      "http://www.merriam-webster.com/dictionary/gene",
+      "gene definition: a specific sequence of nucleotides in DNA or RNA that is located usually on a chromosome and that is the functional unit of inheritance controlling the transmission and expression of one or more traits by specifying the structure of a particular polypeptide and especially a protein or controlling the function of other genetic material.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Gene\">Gene</a> - A gene is a molecular unit of heredity of a living organism.",
+      "HASH(0x2d53908)",
+      "D"
    ],
    "micro-www-search" : [
       "genes\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/1/16/Gene.ogg\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Gene.png/270px-Gene.png\n\n>media\nhttp://upload.wikimedia.org/wikipedia/commons/1/16/Gene.ogg\n\n",
@@ -101,7 +101,6 @@
       "Genes\n>http\nhttp://genesdev.cshlp.org/content/12/9/1243.full\nhttp://www.esp.org/books/devries/pangenesis/facsimile/\nhttp://www.globalgenes.org/\nhttp://www.mdpi.com/journal/genes/\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/1/16/Gene.ogg\n\n>media\nhttp://upload.wikimedia.org/wikipedia/commons/1/16/Gene.ogg\n"
    ],
    "created" : 1373456913,
-   "book" : [],
    "micro-www" : {
       "genes" : [
          "genes",
@@ -112,6 +111,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Cloning",

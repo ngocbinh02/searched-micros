@@ -67,20 +67,7 @@
       "encampment",
       "premises"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Sites",
-      "\n<a href=\"http://duckduckgo.com/Sites_(periodical)\">Sites (periodical)</a>, poetry",
-      "HASH(0x5d30148)",
-      "Wikipedia",
-      "Sites",
-      "\n<a href=\"http://duckduckgo.com/Sites%2C_California\">Sites, California</a> - Sites is an unincorporated community in Colusa County, California.",
-      "http://www.merriam-webster.com/dictionary/sites",
-      "sites definition: a region on the surface of an enzyme whose shape permits binding only of a specific molecular substrate that then undergoes catalysis.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/d/site\">site Meanings</a>",
-      "HASH(0x5d8db28)",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Indonesian_goverment_bans_pornographic_sites\" title=\"Indonesian goverment bans pornographic sites\">Indonesian goverment bans pornographic <span class=\"searchmatch\">sites</span></a>",
@@ -109,18 +96,31 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Sites",
+      "\n<a href=\"http://duckduckgo.com/Sites_(periodical)\">Sites (periodical)</a>, poetry",
+      "HASH(0x5d30148)",
+      "Wikipedia",
+      "Sites",
+      "\n<a href=\"http://duckduckgo.com/Sites%2C_California\">Sites, California</a> - Sites is an unincorporated community in Colusa County, California.",
+      "http://www.merriam-webster.com/dictionary/sites",
+      "sites definition: a region on the surface of an enzyme whose shape permits binding only of a specific molecular substrate that then undergoes catalysis.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/d/site\">site Meanings</a>",
+      "HASH(0x5d8db28)",
+      "D"
+   ],
    "micro-www-search" : [
       "sites\n>http\nhttp://en.m.wikipedia.org/wiki/Sites\nhttp://en.wikipedia.org/w/index.php?title=Sites&oldid=286046356\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png\n"
    ],
    "created" : 1373457133,
-   "book" : [],
    "micro-www" : {
       "sites" : [
          "sites",
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "'Sites' may refer to:\n* site\n* Sites, California\n* Sites (periodical), poetry\n\n<!-- This long comment was added to the page to prevent it being listed on\nSpecial:Shortpages. It and the accompanying monitoring template were generated\nvia Template:Longcomment. Please do not remove the monitor template without\nremoving the comment as well. -->\n",

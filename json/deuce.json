@@ -19,19 +19,8 @@
       "par",
       "attribute"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Deuce",
-      "\n<a href=\"http://duckduckgo.com/2_(number)\">Two</a> - 2 (Two;) is a number, numeral, and glyph.",
-      "HASH(0x5ceaeb8)",
-      "Wikipedia",
-      "Deuce",
-      "http://www.merriam-webster.com/dictionary/deuce",
-      "deuce definition: the face of a die that bears two spots.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Deuces_(song)\">\"Deuces\" (song)</a>, a song by Chris Brown and Tyga from Fan of a Fan",
-      "HASH(0x5cf0c00)",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/d/Two_dollar_bill\">A two-dollar bill Meanings</a>"
+   "Lists" : [
+      "List_of_Shake_It_Up_characters#Deuce_Martinez"
    ],
    "common" : {
       "milestones" : [
@@ -46,17 +35,28 @@
          []
       ]
    },
-   "Lists" : [
-      "List_of_Shake_It_Up_characters#Deuce_Martinez"
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Deuce",
+      "\n<a href=\"http://duckduckgo.com/2_(number)\">Two</a> - 2 (Two;) is a number, numeral, and glyph.",
+      "HASH(0x5ceaeb8)",
+      "Wikipedia",
+      "Deuce",
+      "http://www.merriam-webster.com/dictionary/deuce",
+      "deuce definition: the face of a die that bears two spots.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Deuces_(song)\">\"Deuces\" (song)</a>, a song by Chris Brown and Tyga from Fan of a Fan",
+      "HASH(0x5cf0c00)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/d/Two_dollar_bill\">A two-dollar bill Meanings</a>"
    ],
    "micro-www-search" : [],
    "created" : 1373456394,
-   "book" : [],
    "micro-www" : {
       "deuce" : [
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n'Deuce' may refer to:\n* Two ** Any 2 in a deck of playing cards ** The face of dice showing two pips\n  ** A two-dollar bill or sum of two dollars\n",

@@ -37,25 +37,7 @@
       "essence",
       "abstract_entity"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Essence_(Lucinda_Williams_album)\">Essence (Lucinda Williams album)</a>, 2001, or the title song",
-      "https://en.wikipedia.org/wiki/Essence_(disambiguation)",
-      "Wikipedia",
-      "Essence",
-      "http://www.merriam-webster.com/dictionary/essence",
-      "essence definition: the permanent as contrasted with the accidental element of being.",
-      "\n<a href=\"http://duckduckgo.com/Essence\">Essence</a> is the attribute (or set of attributes) that make an object or substance what it fundamentally is.",
-      "\n<a href=\"http://duckduckgo.com/Essence_(yacht)\">Essence (yacht)</a>, an American yacht sank in a collision with a cargo ship on 29 April 2009",
-      "\n<a href=\"http://duckduckgo.com/Essence_(Don_Ellis_album)\">Essence (Don Ellis album)</a>, 1962",
-      "HASH(0x543f5e8)",
-      "\n<a href=\"http://duckduckgo.com/Essence_(magazine)\">Essence (magazine)</a>, an African American magazine with a primarily female readership",
-      "\n<a href=\"http://duckduckgo.com/Essence_(The_X-Files)\">\"Essence\" (The X-Files)</a>, a 2001 episode of television show The X-Files",
-      "Merriam-Webster",
-      "\nThe <a href=\"http://duckduckgo.com/essential_oil\">essential oil</a> of a given substance",
-      "HASH(0x56b5468)",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Essence_(Electronic_Surveillance_System_for_the_Early_Notification_of_Community-based_Epidemics)\">Essence (Electronic Surveillance System for the Early Notification of Community-based Epidemics)</a>, a United States Department of Defense health-protection initiative"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/False_cancer_cure_claims_lead_to_federal_charges_against_five_US_companies\" title=\"False cancer cure claims lead to federal charges against five US companies\">False cancer cure claims lead to federal charges against five US companies</a>",
@@ -84,18 +66,36 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Essence_(Lucinda_Williams_album)\">Essence (Lucinda Williams album)</a>, 2001, or the title song",
+      "https://en.wikipedia.org/wiki/Essence_(disambiguation)",
+      "Wikipedia",
+      "Essence",
+      "http://www.merriam-webster.com/dictionary/essence",
+      "essence definition: the permanent as contrasted with the accidental element of being.",
+      "\n<a href=\"http://duckduckgo.com/Essence\">Essence</a> is the attribute (or set of attributes) that make an object or substance what it fundamentally is.",
+      "\n<a href=\"http://duckduckgo.com/Essence_(yacht)\">Essence (yacht)</a>, an American yacht sank in a collision with a cargo ship on 29 April 2009",
+      "\n<a href=\"http://duckduckgo.com/Essence_(Don_Ellis_album)\">Essence (Don Ellis album)</a>, 1962",
+      "HASH(0x543f5e8)",
+      "\n<a href=\"http://duckduckgo.com/Essence_(magazine)\">Essence (magazine)</a>, an African American magazine with a primarily female readership",
+      "\n<a href=\"http://duckduckgo.com/Essence_(The_X-Files)\">\"Essence\" (The X-Files)</a>, a 2001 episode of television show The X-Files",
+      "Merriam-Webster",
+      "\nThe <a href=\"http://duckduckgo.com/essential_oil\">essential oil</a> of a given substance",
+      "HASH(0x56b5468)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Essence_(Electronic_Surveillance_System_for_the_Early_Notification_of_Community-based_Epidemics)\">Essence (Electronic Surveillance System for the Early Notification of Community-based Epidemics)</a>, a United States Department of Defense health-protection initiative"
+   ],
    "micro-www-search" : [
       "essence\n>http\nhttp://en.m.wikipedia.org/wiki/Essence\nhttp://en.wikipedia.org/w/index.php?title=Essence&oldid=559253028\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Wikiquote-logo-en.svg/40px-Wikiquote-logo-en.svg.png\n"
    ],
    "created" : 1373461045,
-   "book" : [],
    "micro-www" : {
       "essence" : [
          "essence",
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Modal logic",

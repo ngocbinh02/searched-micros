@@ -1,0 +1,44 @@
+{
+   "micrownet" : [
+      "timelessness"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Robert_Wilson,_bassist_for_The_Gap_Band_dies_aged_53\" title=\"Robert Wilson, bassist for The Gap Band dies aged 53\">Robert Wilson, bassist for The Gap Band dies aged 53</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Jigme_Khesar_Namgyel_Wangchuck_becomes_king_of_Bhutan\" title=\"Jigme Khesar Namgyel Wangchuck becomes king of Bhutan\">Jigme Khesar Namgyel Wangchuck becomes king of Bhutan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australia_proposes_new_anti-terror_laws\" title=\"Australia proposes new anti-terror laws\">Australia proposes new anti-terror laws</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Timeless",
+      "HASH(0x49cfbc8)",
+      "Wikipedia",
+      "Timeless",
+      "http://www.merriam-webster.com/dictionary/timeless",
+      "timeless definition: '''archaic''' premature, untimely.",
+      "Merriam-Webster",
+      "HASH(0x4a6c7a0)",
+      "D"
+   ],
+   "created" : 1373461630,
+   "book" : [],
+   "micro-www" : {
+      "timelessness" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "#REDIRECTTimeless\n",
+      "title" : "timelessness",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Timeless"
+   ]
+}

@@ -1,7 +1,4 @@
 {
-   "micrownet" : [
-      "effectivity"
-   ],
    "google" : [
       "/url?q=http://www.thefreedictionary.com/effectivity&sa=U&ei=DCPdUYWqL82sPYHzgagF&ved=0CBgQFjAA&usg=AFQjCNHrFJMiKkxL-Yqj_Gd0Hx7BbY9_Kw",
       "/url?q=http://en.wiktionary.org/wiki/effectivity&sa=U&ei=DCPdUYWqL82sPYHzgagF&ved=0CBwQFjAB&usg=AFQjCNER2wYtPlqc9x4QnJgLhbCtnFteTA",
@@ -13,6 +10,9 @@
       "/url?q=http://www.wordreference.com/definition/effectivity&sa=U&ei=DCPdUYWqL82sPYHzgagF&ved=0CDIQFjAH&usg=AFQjCNEkoC49hGmRbOQTgFVsHMOqc38t_w",
       "/url?q=http://martinfowler.com/eaaDev/Effectivity.html&sa=U&ei=DCPdUYWqL82sPYHzgagF&ved=0CDYQFjAI&usg=AFQjCNGvci_FAaHRsr6mKRZW7FTCILD84w",
       "/url?q=http://www.ptc.com/appserver/wcms/relnotes/note.jsp%3F%26im_dbkey%3D136473%26icg_dbkey%3D826&sa=U&ei=DCPdUYWqL82sPYHzgagF&ved=0CDsQFjAJ&usg=AFQjCNGE0XQ9-OvZE3GSWOUMT9r_nfDTGQ"
+   ],
+   "micrownet" : [
+      "effectivity"
    ],
    "micro" : [
       "entity",
@@ -31,13 +31,7 @@
       "abstract_entity",
       "incisiveness"
    ],
-   "duck" : [
-      "effectivity",
-      "Producing a strong impression or response; striking: gave an effective performance as Othello.",
-      "http://www.merriam-webster.com/dictionary/effectivity",
-      "effectivity definition: producing a decided, decisive, or desired effect.",
-      "Merriam-Webster"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/California%27s_violent_video_game_ban_law_ruled_unconstitutional_by_US_Court_of_Appeals\" title=\"California&#39;s violent video game ban law ruled unconstitutional by US Court of Appeals\">California&#39;s violent video game ban law ruled unconstitutional by US Court of Appeals</a>",
@@ -65,14 +59,20 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "effectivity",
+      "Producing a strong impression or response; striking: gave an effective performance as Othello.",
+      "http://www.merriam-webster.com/dictionary/effectivity",
+      "effectivity definition: producing a decided, decisive, or desired effect.",
+      "Merriam-Webster"
+   ],
    "micro-www-search" : [],
    "created" : 1373454072,
-   "book" : [],
    "micro-www" : {
       "effectivity" : [
          ""
       ]
    },
+   "book" : [],
    "micro-relation" : []
 }

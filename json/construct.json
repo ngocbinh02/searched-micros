@@ -63,7 +63,29 @@
       "knowledge",
       "division"
    ],
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Construct_(software)\">Construct (software)</a>, an open source game creator",
+      "https://en.wikipedia.org/wiki/Construct",
+      "\n<a href=\"http://duckduckgo.com/Construct_(artificial_intelligence)\">Construct (artificial intelligence)</a>",
+      "Wikipedia",
+      "Construct",
+      "\n<a href=\"http://duckduckgo.com/Construct_(python_library)\">Construct (python library)</a> - Construct is a python library for the construction and deconstruction of data structures in a declarative fashion.",
+      "\n<a href=\"http://duckduckgo.com/Construct_state\">Construct state</a>, a noun form in Afro-Asiatic languages",
+      "http://www.merriam-webster.com/dictionary/construct",
+      "construct definition: to make or form by combining or arranging parts or elements.",
+      "\n<a href=\"http://duckduckgo.com/Construct_(album)\">Construct (album)</a>, a 2013 album by Dark Tranquillity",
+      "\n<a href=\"http://duckduckgo.com/Concrete_category\">Construct</a>, a concrete category over the category of sets",
+      "\n<a href=\"http://duckduckgo.com/social_constructionism\">Social construct</a>, an entity that exists purely because society has agreed upon it",
+      "\n<a href=\"http://duckduckgo.com/DNA_construct\">DNA construct</a>, artificially created segment of nucleic acid meant for transplantation into a target cell or tissue",
+      "\n<a href=\"http://duckduckgo.com/the_Wheel_of_Time\">Constructs in the Wheel of Time series</a>, biological creations",
+      "\n<a href=\"http://duckduckgo.com/Construct_(philosophy_of_science)\">Construct (philosophy of science)</a>, a hypothetical object whose phenomenal existence depends upon a subject's mind",
+      "HASH(0x54cf2e8)",
+      "\n<a href=\"http://duckduckgo.com/Construct_(comics)\">Construct (comics)</a>, a fictional character, an artificial intelligence in the DC Universe",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Construct_(Dungeons_%26_Dragons)\">Construct (Dungeons & Dragons)</a>, a type of creature",
+      "HASH(0x55b7f10)",
+      "D"
+   ],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Russia_agrees_to_construct_Turkish_nuclear_reactor\" title=\"Russia agrees to construct Turkish nuclear reactor\">Russia agrees to <span class=\"searchmatch\">construct</span> Turkish nuclear reactor</a>",
@@ -91,29 +113,7 @@
          []
       ]
    },
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Construct_(software)\">Construct (software)</a>, an open source game creator",
-      "https://en.wikipedia.org/wiki/Construct",
-      "\n<a href=\"http://duckduckgo.com/Construct_(artificial_intelligence)\">Construct (artificial intelligence)</a>",
-      "Wikipedia",
-      "Construct",
-      "\n<a href=\"http://duckduckgo.com/Construct_(python_library)\">Construct (python library)</a> - Construct is a python library for the construction and deconstruction of data structures in a declarative fashion.",
-      "\n<a href=\"http://duckduckgo.com/Construct_state\">Construct state</a>, a noun form in Afro-Asiatic languages",
-      "http://www.merriam-webster.com/dictionary/construct",
-      "construct definition: to make or form by combining or arranging parts or elements.",
-      "\n<a href=\"http://duckduckgo.com/Construct_(album)\">Construct (album)</a>, a 2013 album by Dark Tranquillity",
-      "\n<a href=\"http://duckduckgo.com/Concrete_category\">Construct</a>, a concrete category over the category of sets",
-      "\n<a href=\"http://duckduckgo.com/social_constructionism\">Social construct</a>, an entity that exists purely because society has agreed upon it",
-      "\n<a href=\"http://duckduckgo.com/DNA_construct\">DNA construct</a>, artificially created segment of nucleic acid meant for transplantation into a target cell or tissue",
-      "\n<a href=\"http://duckduckgo.com/the_Wheel_of_Time\">Constructs in the Wheel of Time series</a>, biological creations",
-      "\n<a href=\"http://duckduckgo.com/Construct_(philosophy_of_science)\">Construct (philosophy of science)</a>, a hypothetical object whose phenomenal existence depends upon a subject's mind",
-      "HASH(0x54cf2e8)",
-      "\n<a href=\"http://duckduckgo.com/Construct_(comics)\">Construct (comics)</a>, a fictional character, an artificial intelligence in the DC Universe",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Construct_(Dungeons_%26_Dragons)\">Construct (Dungeons & Dragons)</a>, a type of creature",
-      "HASH(0x55b7f10)",
-      "D"
-   ],
+   "Lists" : [],
    "micro-www-search" : [
       "constructs\n>http\nhttp://en.m.wikipedia.org/wiki/Construct\nhttp://en.wikipedia.org/w/index.php?title=Construct&oldid=534632373\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "construction\n>http\nhttp://blog.thservices.co.uk/uk-construction-careers-certificationsdegrees-and-occupations/\nhttp://en.m.wikipedia.org/wiki/Construction\nhttp://en.wikipedia.org/w/index.php?title=Construction&oldid=544132615\nhttp://onlinebooks.library.upenn.edu/webbin/ftl?st=wp&su=Construction\nhttp://onlinebooks.library.upenn.edu/webbin/ftl?st=wp&su=Construction&library=0CHOOSE0\nhttp://www.cdc.gov/niosh/topics/construction/\nhttp://www.constructionweekonline.com/article-11582-uk-website-launches-salary-comparison-tool/\nhttp://www.cskills.org/workinconstr/routesintoconstruction/apprenticeships/index.aspx\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Sky_scraper_construction.jpg/220px-Sky_scraper_construction.jpg\n\n",
@@ -135,6 +135,7 @@
       "Construct_(artificial_intelligence)\n>pdf\nhttp://people.csail.mit.edu/brooks/papers/elephants.pdf\nhttp://people.csail.mit.edu/brooks/papers/elephants.pdf\nhttp://vesicle.nsi.edu/users/izhikevich/publications/large-scale_model_of_human_brain.pdf\nhttp://vesicle.nsi.edu/users/izhikevich/publications/large-scale_model_of_human_brain.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/5/56/MRI.ogg\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Turing_Test_version_3.png/220px-Turing_Test_version_3.png\n\n>media\nhttp://upload.wikimedia.org/wikipedia/commons/5/56/MRI.ogg\n"
    ],
    "created" : 1373459844,
+   "book" : [],
    "micro-www" : {
       "construct" : [
          "constructs",
@@ -158,7 +159,6 @@
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n'Construct' may refer to:\n\n* Construct (artificial intelligence)\n* Construct (philosophy of science), a hypothetical object whose phenomenal\n  existence depends upon a subject's mind\n* Construct (software), an open source game creator\n* Constructs in the Wheel of Time series, biological creations\n* DNA construct, artificially created segment of nucleic acid meant for\n  transplantation into a target cell or tissue\n* Construct, a concrete category over the category of sets\n* Construct state, a noun form in Afro-Asiatic languages\n* Construct (comics), a fictional character, an artificial intelligence in the\n  DC Universe\n* Social construct, an entity that exists purely because society has\n  agreed upon it\n* ''Construct'' (album), a 2013 album by Dark Tranquillity\n* Construct (Dungeons & Dragons), a type of creature\n* Construct (python library)\n",

@@ -34,17 +34,10 @@
       "person",
       "organism"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Quarry_(disambiguation)",
-      "HASH(0x5c7bce8)",
-      "Wikipedia",
-      "Quarry",
-      "http://www.merriam-webster.com/dictionary/quarry",
-      "quarry definition: '''obsolete''' a heap of the game killed in a hunt.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Quarry\">Quarry</a>, a type of mine, usually <a href=\"http://duckduckgo.com/?q=open-cast\">open-cast</a>, generally for the extraction of stone, or sometimes fossil fuel.",
-      "HASH(0x5c83e60)",
-      "D"
+   "Lists" : [
+      "List_of_minerals",
+      "List_of_rock_types",
+      "List_of_stone"
    ],
    "common" : {
       "milestones" : [
@@ -66,19 +59,26 @@
          []
       ]
    },
-   "Lists" : [
-      "List_of_minerals",
-      "List_of_rock_types",
-      "List_of_stone"
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Quarry_(disambiguation)",
+      "HASH(0x5c7bce8)",
+      "Wikipedia",
+      "Quarry",
+      "http://www.merriam-webster.com/dictionary/quarry",
+      "quarry definition: '''obsolete''' a heap of the game killed in a hunt.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Quarry\">Quarry</a>, a type of mine, usually <a href=\"http://duckduckgo.com/?q=open-cast\">open-cast</a>, generally for the extraction of stone, or sometimes fossil fuel.",
+      "HASH(0x5c83e60)",
+      "D"
    ],
    "micro-www-search" : [],
    "created" : 1373455200,
-   "book" : [],
    "micro-www" : {
       "quarry" : [
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Quarries|",

@@ -73,7 +73,20 @@
       "content",
       "kind"
    ],
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Type_system\">Type system</a>, defines a programming language's response to data types",
+      "https://en.wikipedia.org/wiki/Type",
+      "HASH(0x658a7c8)",
+      "Wikipedia",
+      "Type",
+      "\n<a href=\"http://duckduckgo.com/Data_type\">Data type</a>, collection of values used for computations",
+      "http://www.merriam-webster.com/dictionary/type",
+      "type definition: a person or thing (as in the Old Testament) believed to foreshadow another (as in the New Testament).",
+      "Merriam-Webster",
+      "HASH(0x65a88c0)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Typeface\">Typeface</a>, used in <a href=\"http://duckduckgo.com/?q=typesetting\">typesetting</a>"
+   ],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Type_O_Negative_announce_US_tour_details;_Lordi_supporting\" title=\"Type O Negative announce US tour details; Lordi supporting\"><span class=\"searchmatch\">Type</span> O Negative announce US tour details; Lordi supporting</a>",
@@ -100,20 +113,7 @@
          []
       ]
    },
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Type_system\">Type system</a>, defines a programming language's response to data types",
-      "https://en.wikipedia.org/wiki/Type",
-      "HASH(0x658a7c8)",
-      "Wikipedia",
-      "Type",
-      "\n<a href=\"http://duckduckgo.com/Data_type\">Data type</a>, collection of values used for computations",
-      "http://www.merriam-webster.com/dictionary/type",
-      "type definition: a person or thing (as in the Old Testament) believed to foreshadow another (as in the New Testament).",
-      "Merriam-Webster",
-      "HASH(0x65a88c0)",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Typeface\">Typeface</a>, used in <a href=\"http://duckduckgo.com/?q=typesetting\">typesetting</a>"
-   ],
+   "Lists" : [],
    "micro-www-search" : [
       "types\n>http\nhttp://en.m.wikipedia.org/wiki/Type\nhttp://en.wikipedia.org/w/index.php?title=Type&oldid=537812159\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "type_2_diabetes\n>http\nhttp://en.m.wikipedia.org/wiki/Diabetes_mellitus_type_2\nhttp://en.wikipedia.org/w/index.php?title=Diabetes_mellitus_type_2&oldid=552576153\nhttp://www.dmoz.org/Health/Conditions_and_Diseases/Endocrine_Disorders/Pancreas/Diabetes/Type_2/\n\n>pdf\nhttp://www.ahrq.gov/downloads/pub/evidence/pdf/impglucose/impglucose.pdf\nhttp://www.ahrq.gov/downloads/pub/evidence/pdf/impglucose/impglucose.pdf\nhttp://www.who.int/diabetes/publications/Definition%20and%20diagnosis%20of%20diabetes_new.pdf\nhttp://www.who.int/diabetes/publications/Definition%20and%20diagnosis%20of%20diabetes_new.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png\n\n",
@@ -136,6 +136,7 @@
       "Type-token_distinction\n>http\nhttp://en.m.wikipedia.org/wiki/Type%E2%80%93token_distinction\nhttp://en.wikipedia.org/w/index.php?title=Type-token_distinction&oldid=558813471\nhttp://plato.stanford.edu/entries/types-tokens\nhttp://plato.stanford.edu/entries/types-tokens/\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/a/ae/Flock_of_birds_at_Rome.ogg\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flock_of_birds_at_Rome.ogg/300px-seek%3D6-Flock_of_birds_at_Rome.ogg.jpg\n\n>media\nhttp://upload.wikimedia.org/wikipedia/commons/a/ae/Flock_of_birds_at_Rome.ogg\n"
    ],
    "created" : 1373457690,
+   "book" : [],
    "micro-www" : {
       "type" : [
          "types",
@@ -160,7 +161,6 @@
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n'Type' may refer to:\n\nIn 'philosophy': *Type (metaphysics), a concept in the type&ndash;token\ndistinction\n\nIn 'theology': *Type & Antitype in Typology (theology)\n\nIn 'mathematics': *Type (model theory) *Type theory, basis for the study of type\nsystems *Type or arity, the number of operands a function takes *Type, any\nproposition or set in the intuitionistic type theory\n\nIn 'computing': *Typing, producing text via a keyboard *Data type, collection of\nvalues used for computations *Type (command), a DOS command to display contents\nof a file *Type (Unix), a POSIX shell builtin that gives information about\ncommands *Type system, defines a programming language's response to data types\n\nIn 'sociology': *Ideal type *Normal type *Typification\n\n'Other':\n* ''Type'' (song), a 1990 song by the band Living Colour\n* Type (designation), a model numbering system used for vehicles or\n  military equipment\n* Typeface, used in typesetting ** Sort (typesetting), cast metal type for\n  printing ** Type Museum, museum about the above\n* Architectural type, classification of architecture by functional types\n  (houses, institutions), morphological types or historical types Architectural\n  style subcategories\n* Dog type, categorization by use or function of domestic dogs\n* Type (biology), which fixes a scientific name to a taxon\n",

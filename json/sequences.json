@@ -25,20 +25,7 @@
       "codon",
       "grouping"
    ],
-   "duck" : [
-      "A sequence is a specific order of related events, numbers, or things.",
-      "https://en.wikipedia.org/wiki/Sequence_(disambiguation)",
-      "HASH(0x5fbe6f8)",
-      "Wikipedia",
-      "Sequence",
-      "\n<a href=\"http://duckduckgo.com/Sequence\">Sequence</a> (mathematics), an ordered list of elements",
-      "http://www.merriam-webster.com/dictionary/sequence",
-      "sequence definition: a hymn in irregular meter between the gradual and Gospel in masses for special occasions (as Easter).",
-      "Merriam-Webster",
-      "HASH(0x5d649f0)",
-      "A sequence is a specific order of related events, numbers, or things.",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scientists_sequence_small_genome_of_a_pest:_spider_mite\" title=\"Scientists sequence small genome of a pest: spider mite\">Scientists <span class=\"searchmatch\">sequence</span> small genome of a pest: spider mite</a>",
@@ -64,18 +51,31 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "A sequence is a specific order of related events, numbers, or things.",
+      "https://en.wikipedia.org/wiki/Sequence_(disambiguation)",
+      "HASH(0x5fbe6f8)",
+      "Wikipedia",
+      "Sequence",
+      "\n<a href=\"http://duckduckgo.com/Sequence\">Sequence</a> (mathematics), an ordered list of elements",
+      "http://www.merriam-webster.com/dictionary/sequence",
+      "sequence definition: a hymn in irregular meter between the gradual and Gospel in masses for special occasions (as Easter).",
+      "Merriam-Webster",
+      "HASH(0x5d649f0)",
+      "A sequence is a specific order of related events, numbers, or things.",
+      "D"
+   ],
    "micro-www-search" : [
       "sequences\n>http\nhttp://oeis.org/wiki/Welcome#Some_Famous_Sequences\nhttp://tutorial.math.lamar.edu/Classes/CalcII/Sequences.aspx\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Cauchy_sequence_illustration2.svg/350px-Cauchy_sequence_illustration2.svg.png\n"
    ],
    "created" : 1373456947,
-   "book" : [],
    "micro-www" : {
       "sequences" : [
          "sequences",
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Elementary mathematics",

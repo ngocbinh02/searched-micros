@@ -14,22 +14,7 @@
       "subdue",
       "suppress"
    ],
-   "duck" : [
-      "Silencing is a visual illusion in which a set of objects that change in luminance, hue, size, or shape appears to stop changing when it moves.",
-      "\n<a href=\"http://duckduckgo.com/Change_blindness\">Change blindness</a> - Change blindness is a psychological phenomenon that occurs when a change in a visual stimulus goes unnoticed by the observer.",
-      "https://en.wikipedia.org/wiki/Silencing",
-      "HASH(0x597d010)",
-      "Wikipedia",
-      "\n<a href=\"http://duckduckgo.com/c/Optical_illusions\">Optical illusions</a>",
-      "Silencing",
-      "http://www.merriam-webster.com/dictionary/silencing",
-      "silencing definition: to compel or reduce to silence.",
-      "Merriam-Webster",
-      "https://i.duckduckgo.com/i/680574e6.jpg",
-      "HASH(0x5ac4740)",
-      "Silencing is a visual illusion in which a set of objects that change in luminance, hue, size, or shape appears to stop changing when it moves.",
-      "A"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Former_Chilean_dictator_Pinochet_dies_at_91\" title=\"Former Chilean dictator Pinochet dies at 91\">Former Chilean dictator Pinochet dies at 91</a>",
@@ -57,18 +42,33 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "Silencing is a visual illusion in which a set of objects that change in luminance, hue, size, or shape appears to stop changing when it moves.",
+      "\n<a href=\"http://duckduckgo.com/Change_blindness\">Change blindness</a> - Change blindness is a psychological phenomenon that occurs when a change in a visual stimulus goes unnoticed by the observer.",
+      "https://en.wikipedia.org/wiki/Silencing",
+      "HASH(0x597d010)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/c/Optical_illusions\">Optical illusions</a>",
+      "Silencing",
+      "http://www.merriam-webster.com/dictionary/silencing",
+      "silencing definition: to compel or reduce to silence.",
+      "Merriam-Webster",
+      "https://i.duckduckgo.com/i/680574e6.jpg",
+      "HASH(0x5ac4740)",
+      "Silencing is a visual illusion in which a set of objects that change in luminance, hue, size, or shape appears to stop changing when it moves.",
+      "A"
+   ],
    "micro-www-search" : [
       "silencing\n>http\nhttp://en.m.wikipedia.org/wiki/Silencing\nhttp://en.wikipedia.org/w/index.php?title=Silencing&oldid=512838131\nhttp://visionlab.harvard.edu/silencing/\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Silencinghue.jpg/220px-Silencinghue.jpg\n"
    ],
    "created" : 1373457229,
-   "book" : [],
    "micro-www" : {
       "silencing" : [
          "silencing",
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Optical illusions"

@@ -10,25 +10,7 @@
       "maternalistic"
    ],
    "micro" : [],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Maternal_bond",
-      "\n<a href=\"http://duckduckgo.com/c/Motherhood\">Motherhood</a>",
-      "\n<a href=\"http://duckduckgo.com/Mother's_boy\">Mother's boy</a> -  Mother's boy, also mummy's boy or mama's boy, is a term for a man who is excessively attached to his mother at an age when men are expected to be independent (e.g.",
-      "Wikipedia",
-      "Maternal bond",
-      "Relating to or characteristic of a mother or motherhood; motherly: maternal instinct.",
-      "\n<a href=\"http://duckduckgo.com/haptic_medicine\">Haptic Medicine</a>, <a href=\"http://duckduckgo.com/?q=Babywearing\">Babywearing</a>, <a href=\"http://duckduckgo.com/?q=Co-sleeping\">Co-sleeping</a>",
-      "\n<a href=\"http://duckduckgo.com/c/Intimate_relationships\">Intimate relationships</a>",
-      "The maternal bond is typically the relationship between a mother and her child.",
-      "\n<a href=\"http://duckduckgo.com/Cinderella_effect\">Cinderella effect</a> - In evolutionary psychology, the Cinderella effect is the alleged higher incident of different forms of child-abuse and mistreatment by stepparents than by biological parents.",
-      "HASH(0x4fb57a0)",
-      "\n<a href=\"http://duckduckgo.com/Human_bonding\">Human bonding</a> - Human bonding is the process of development of a close, interpersonal relationship.",
-      "https://i.duckduckgo.com/i/93634f30.jpg",
-      "\n<a href=\"http://duckduckgo.com/Paternal_bond\">Paternal bond</a> - A paternal bond refers to the relationship between a father and his child.",
-      "HASH(0x52aa6d0)",
-      "A",
-      "The maternal bond is typically the relationship between a mother and her child."
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Grandmother_of_Barack_Obama_dies_at_86\" title=\"Grandmother of Barack Obama dies at 86\">Grandmother of Barack Obama dies at 86</a>",
@@ -53,13 +35,30 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Maternal_bond",
+      "\n<a href=\"http://duckduckgo.com/c/Motherhood\">Motherhood</a>",
+      "\n<a href=\"http://duckduckgo.com/Mother's_boy\">Mother's boy</a> -  Mother's boy, also mummy's boy or mama's boy, is a term for a man who is excessively attached to his mother at an age when men are expected to be independent (e.g.",
+      "Wikipedia",
+      "Maternal bond",
+      "Relating to or characteristic of a mother or motherhood; motherly: maternal instinct.",
+      "\n<a href=\"http://duckduckgo.com/haptic_medicine\">Haptic Medicine</a>, <a href=\"http://duckduckgo.com/?q=Babywearing\">Babywearing</a>, <a href=\"http://duckduckgo.com/?q=Co-sleeping\">Co-sleeping</a>",
+      "\n<a href=\"http://duckduckgo.com/c/Intimate_relationships\">Intimate relationships</a>",
+      "The maternal bond is typically the relationship between a mother and her child.",
+      "\n<a href=\"http://duckduckgo.com/Cinderella_effect\">Cinderella effect</a> - In evolutionary psychology, the Cinderella effect is the alleged higher incident of different forms of child-abuse and mistreatment by stepparents than by biological parents.",
+      "HASH(0x4fb57a0)",
+      "\n<a href=\"http://duckduckgo.com/Human_bonding\">Human bonding</a> - Human bonding is the process of development of a close, interpersonal relationship.",
+      "https://i.duckduckgo.com/i/93634f30.jpg",
+      "\n<a href=\"http://duckduckgo.com/Paternal_bond\">Paternal bond</a> - A paternal bond refers to the relationship between a father and his child.",
+      "HASH(0x52aa6d0)",
+      "A",
+      "The maternal bond is typically the relationship between a mother and her child."
+   ],
    "micro-www-search" : [
       "Maternal_death_rates\n>pdf\nhttp://www.cdc.gov/nchs/data/series/sr_03/sr03_033.pdf\nhttp://www.who.int/whosis/mme_2005.pdf\nhttp://www.unfpa.org/webdav/site/global/shared/documents/publications/reducing_mm.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Maternal_mortality_rate_worldwide.jpg/300px-Maternal_mortality_rate_worldwide.jpg\n\n",
       "Maternal-child_nursing\n>http\nhttp://en.m.wikipedia.org/wiki/Maternal-child_nursing\nhttp://en.wikipedia.org/w/index.php?title=Maternal-child_nursing&oldid=407971430\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Nursing_symbol.svg/32px-Nursing_symbol.svg.png\n"
    ],
    "created" : 1373458832,
-   "book" : [],
    "micro-www" : {
       "maternal" : [
          "Maternal_death_rates",
@@ -67,6 +66,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Motherhood",

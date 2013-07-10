@@ -19,6 +19,14 @@
       "entity",
       "part"
    ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
    "duck" : [
       "https://en.wikipedia.org/wiki/Monad",
       "HASH(0x5d83b20)",
@@ -31,22 +39,14 @@
       "\n<a href=\"http://duckduckgo.com/Monad_(functional_programming)\">Monad (functional programming)</a>, functional programming constructs that capture various notions of computation",
       "D"
    ],
-   "common" : {
-      "milestones" : [],
-      "image" : [
-         [],
-         []
-      ]
-   },
-   "Lists" : [],
    "micro-www-search" : [],
    "created" : 1373455857,
-   "book" : [],
    "micro-www" : {
       "monad" : [
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n'Monad' may refer to:\n",

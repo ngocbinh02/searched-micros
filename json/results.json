@@ -53,7 +53,23 @@
       "byproduct",
       "fallout"
    ],
-   "Lists" : [],
+   "duck" : [
+      "Results is the 1989 Liza Minnelli album produced by Pet Shop Boys and Julian Mendelsohn.",
+      "https://en.wikipedia.org/wiki/Results",
+      "\n<a href=\"http://duckduckgo.com/c/Pet_Shop_Boys_albums\">Pet Shop Boys albums</a>",
+      "\n<a href=\"http://duckduckgo.com/c/Liza_Minnelli_albums\">Liza Minnelli albums</a>",
+      "HASH(0x4f657b8)",
+      "Wikipedia",
+      "Results",
+      "\n<a href=\"http://duckduckgo.com/result\">result</a> - A result is the final consequence of a sequence of actions or events expressed qualitatively or quantitatively.",
+      "http://www.merriam-webster.com/dictionary/results",
+      "results definition: to proceed or arise as a consequence, effect, or conclusion.",
+      "Merriam-Webster",
+      "https://i.duckduckgo.com/i/051112d6.jpg",
+      "HASH(0x4f6c8e8)",
+      "Results is the 1989 Liza Minnelli album produced by Pet Shop Boys and Julian Mendelsohn.",
+      "A"
+   ],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Results_of_2005_United_Kingdom_General_Election\" title=\"Results of 2005 United Kingdom General Election\"><span class=\"searchmatch\">Results</span> of 2005 United Kingdom General Election</a>",
@@ -86,23 +102,7 @@
          []
       ]
    },
-   "duck" : [
-      "Results is the 1989 Liza Minnelli album produced by Pet Shop Boys and Julian Mendelsohn.",
-      "https://en.wikipedia.org/wiki/Results",
-      "\n<a href=\"http://duckduckgo.com/c/Pet_Shop_Boys_albums\">Pet Shop Boys albums</a>",
-      "\n<a href=\"http://duckduckgo.com/c/Liza_Minnelli_albums\">Liza Minnelli albums</a>",
-      "HASH(0x4f657b8)",
-      "Wikipedia",
-      "Results",
-      "\n<a href=\"http://duckduckgo.com/result\">result</a> - A result is the final consequence of a sequence of actions or events expressed qualitatively or quantitatively.",
-      "http://www.merriam-webster.com/dictionary/results",
-      "results definition: to proceed or arise as a consequence, effect, or conclusion.",
-      "Merriam-Webster",
-      "https://i.duckduckgo.com/i/051112d6.jpg",
-      "HASH(0x4f6c8e8)",
-      "Results is the 1989 Liza Minnelli album produced by Pet Shop Boys and Julian Mendelsohn.",
-      "A"
-   ],
+   "Lists" : [],
    "micro-www-search" : [
       "figures\n>http\nhttp://en.m.wikipedia.org/wiki/Figure\nhttp://en.wikipedia.org/w/index.php?title=Figure&oldid=539689168\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "figure_skating_competition\n>http\nhttp://en.m.wikipedia.org/wiki/Figure_skating_competition\nhttp://en.wikipedia.org/w/index.php?title=Figure_skating_competition&oldid=554559318\nhttp://www.usfigureskating.org/\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/f/f4/Ambox_content.png\n\n",
@@ -131,13 +131,13 @@
       "results\n>http\nhttp://en.m.wikipedia.org/wiki/Results\nhttp://en.wikipedia.org/w/index.php?title=Results&oldid=525689902\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n"
    ],
    "created" : 1373459126,
+   "book" : [],
    "micro-www" : {
       "results" : [
          "results",
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [
          "1989 albums",

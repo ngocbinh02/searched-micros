@@ -15,6 +15,14 @@
       "amount",
       "entity"
    ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
    "duck" : [
       "\n<a href=\"http://duckduckgo.com/Angular_frequency\">Angular frequency</a> - In physics, angular frequency ω (also referred to by the terms angular speed, radial frequency, circular frequency, orbital frequency, radian frequency, and puls...",
       "\n<a href=\"http://duckduckgo.com/Harmonic_analysis\">Harmonic analysis</a> - Harmonic analysis is a branch of mathematics concerned with the representation of functions or signals as the superposition of basic waves, and the study of and generalization of the notions of ...",
@@ -39,22 +47,14 @@
       "The radian is the standard unit of angular measure, used in many areas of mathematics.",
       "\n<a href=\"http://duckduckgo.com/c/Units_of_angle\">Units of angle</a>"
    ],
-   "common" : {
-      "milestones" : [],
-      "image" : [
-         [],
-         []
-      ]
-   },
-   "Lists" : [],
    "micro-www-search" : [],
    "created" : 1373455771,
-   "book" : [],
    "micro-www" : {
       "milliradian" : [
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Natural units",

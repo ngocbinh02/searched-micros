@@ -37,22 +37,10 @@
       "discipline",
       "radio_astronomy"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Astronomy_(disambiguation)",
-      "\n\"<a href=\"http://duckduckgo.com/Astronomy_Domine\">Astronomy Domine</a>\", a song by British psychedelic rock band Pink Floyd",
-      "\n<a href=\"http://duckduckgo.com/Astronomy_(song)\">\"Astronomy\" (song)</a>, by American rock band Blue Öyster Cult",
-      "\n<a href=\"http://duckduckgo.com/Astronomy_(magazine)\">Astronomy (magazine)</a>, an amateur American astronomy periodical",
-      "HASH(0x5cc9508)",
-      "Wikipedia",
-      "Astronomy",
-      "\n<a href=\"http://duckduckgo.com/Astronomy\">Astronomy</a> is the scientific study of celestial objects.",
-      "http://www.merriam-webster.com/dictionary/astronomy",
-      "\n<a href=\"http://duckduckgo.com/Astronomy_(Bleach_album)\">Astronomy (Bleach album)</a> - Astronomy is the fifth full-length album by the Christian rock band Bleach.",
-      "astronomy definition: the study of objects and matter outside the earth's atmosphere and of their physical and chemical properties.",
-      "Merriam-Webster",
-      "HASH(0x5cc5a28)",
-      "\n<a href=\"http://duckduckgo.com/Astronomy_(Dragonland_album)\">Astronomy (Dragonland album)</a>, an album by Swedish power metal band Dragonland",
-      "D"
+   "Lists" : [
+      "List_of_Arabic_star_names",
+      "List_of_astronomy_acronyms",
+      "List_of_Russian_astronomers_and_astrophysicists"
    ],
    "common" : {
       "milestones" : [],
@@ -377,10 +365,22 @@
          ]
       ]
    },
-   "Lists" : [
-      "List_of_Arabic_star_names",
-      "List_of_astronomy_acronyms",
-      "List_of_Russian_astronomers_and_astrophysicists"
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Astronomy_(disambiguation)",
+      "\n\"<a href=\"http://duckduckgo.com/Astronomy_Domine\">Astronomy Domine</a>\", a song by British psychedelic rock band Pink Floyd",
+      "\n<a href=\"http://duckduckgo.com/Astronomy_(song)\">\"Astronomy\" (song)</a>, by American rock band Blue Öyster Cult",
+      "\n<a href=\"http://duckduckgo.com/Astronomy_(magazine)\">Astronomy (magazine)</a>, an amateur American astronomy periodical",
+      "HASH(0x5cc9508)",
+      "Wikipedia",
+      "Astronomy",
+      "\n<a href=\"http://duckduckgo.com/Astronomy\">Astronomy</a> is the scientific study of celestial objects.",
+      "http://www.merriam-webster.com/dictionary/astronomy",
+      "\n<a href=\"http://duckduckgo.com/Astronomy_(Bleach_album)\">Astronomy (Bleach album)</a> - Astronomy is the fifth full-length album by the Christian rock band Bleach.",
+      "astronomy definition: the study of objects and matter outside the earth's atmosphere and of their physical and chemical properties.",
+      "Merriam-Webster",
+      "HASH(0x5cc5a28)",
+      "\n<a href=\"http://duckduckgo.com/Astronomy_(Dragonland_album)\">Astronomy (Dragonland album)</a>, an album by Swedish power metal band Dragonland",
+      "D"
    ],
    "micro-www-search" : [
       "Astronomy_and_Astrophysics_Letters\n>http\nhttp://catalogue.nla.gov.au/Record/777683?lookfor=title:(Astronomy%20and%20Astrophysics)%20%23\nhttp://en.m.wikipedia.org/wiki/Astronomy_and_Astrophysics\nhttp://en.wikipedia.org/w/index.php?title=Astronomy_and_Astrophysics&oldid=545855145\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/2/21/ESO_member_states.svg/80px-ESO_member_states.svg.png\n\n",
@@ -390,7 +390,6 @@
       "Astronomy\n>http\nhttp://archive.is/20120524http:///www.astronomy.ohio-state.edu/~pogge/Lectures/vistas97.html\nhttp://archive.is/20120921http:///www.erie.psu.edu/academic/science/degrees/astronomy/astrophysics.htm\nhttp://en.wikipedia.org/w/index.php?title=Astronomy&oldid=561593112\nhttp://web.archive.org/web/20070617131203http:///www.m-w.com/dictionary/astronomy\nhttp://web.archive.org/web/20070708092148http:///www.astronomycafe.net/qadir/q449.html\nhttp://www.astronomy.net.nz\nhttp://www.astronomy.ohio-state.edu/~pogge/Lectures/vistas97.html\nhttp://www.astronomy2009.org\nhttp://www.astronomycafe.net/qadir/q449.html\nhttp://www.erie.psu.edu/academic/science/degrees/astronomy/astrophysics.htm\nhttp://www.literature.at/elib/index.php5?title=Astronomy_-_A_History_-_George_Forbes_-_1909\nhttp://www.m-w.com/dictionary/astronomy\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/15px-Symbol_support_vote.svg.png\n"
    ],
    "created" : 1373457747,
-   "book" : [],
    "micro-www" : {
       "Astronomy" : [
          "Astronomy_and_Astrophysics_Letters",
@@ -401,6 +400,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Astronomy| Astronomy",

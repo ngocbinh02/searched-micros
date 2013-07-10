@@ -15,10 +15,7 @@
       "measure",
       "definite_quantity"
    ],
-   "duck" : [
-      "HASH(0x5c9af58)",
-      "HASH(0x5c983a8)"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_rules_football:_Drouin_through_to_2010_Gippsland_Football_League_Grand_Final\" title=\"Australian rules football: Drouin through to 2010 Gippsland Football League Grand Final\">Australian rules football: Drouin through to 2010 Gippsland Football League Grand Final</a>",
@@ -30,18 +27,21 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "HASH(0x5c9af58)",
+      "HASH(0x5c983a8)"
+   ],
    "micro-www-search" : [
       "Minute_of_arc\n>pdf\nhttp://www.bobwheeler.com/guns/GroupStat.pdf\nhttp://www.bobwheeler.com/guns/GroupStat.pdf\n\n>image\nhttp://upload.wikimedia.org/math/8/d/8/8d8209398588ede7c663c7446209a6e1.png\n"
    ],
    "created" : 1373455751,
-   "book" : [],
    "micro-www" : {
       "minute_of_arc" : [
          "Minute_of_arc",
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Units of angle|Arcminute"

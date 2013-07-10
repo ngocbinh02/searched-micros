@@ -33,18 +33,7 @@
       "inhabitant",
       "causal_agent"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Bavarian",
-      "HASH(0x5da63f8)",
-      "Wikipedia",
-      "Bavarian",
-      "\n<a href=\"http://duckduckgo.com/Bavarian_cream\">Bavarian cream</a>, a custard sauce",
-      "\n<a href=\"http://duckduckgo.com/Bavarian_language\">Bavarian language</a>, a group of closely related dialects of German, spoken in parts of Bavaria, most of Austria and <a href=\"http://duckduckgo.com/?q=South Tyrol\">South Tyrol</a>",
-      "\n<a href=\"http://duckduckgo.com/Bavarii\">Bavarii</a>, Bajuwari, Baiwaren, Bajuwaren tribe of <a href=\"http://duckduckgo.com/?q=Bavaria\">Bavaria</a>, The first part \"baio\" refers to the name of the <a href=\"http://duckduckgo.com/?q=Celtic\">Celtic</a> <a href=\"http://duckduckgo.com/?q=Boii\">Boii</a> tribe,",
-      "The High German dialect of Bavaria and Austria.",
-      "HASH(0x5da7dc0)",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/German_opposition_launches_election_campaign\" title=\"German opposition launches election campaign\">German opposition launches election campaign</a>",
@@ -64,15 +53,26 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Bavarian",
+      "HASH(0x5da63f8)",
+      "Wikipedia",
+      "Bavarian",
+      "\n<a href=\"http://duckduckgo.com/Bavarian_cream\">Bavarian cream</a>, a custard sauce",
+      "\n<a href=\"http://duckduckgo.com/Bavarian_language\">Bavarian language</a>, a group of closely related dialects of German, spoken in parts of Bavaria, most of Austria and <a href=\"http://duckduckgo.com/?q=South Tyrol\">South Tyrol</a>",
+      "\n<a href=\"http://duckduckgo.com/Bavarii\">Bavarii</a>, Bajuwari, Baiwaren, Bajuwaren tribe of <a href=\"http://duckduckgo.com/?q=Bavaria\">Bavaria</a>, The first part \"baio\" refers to the name of the <a href=\"http://duckduckgo.com/?q=Celtic\">Celtic</a> <a href=\"http://duckduckgo.com/?q=Boii\">Boii</a> tribe,",
+      "The High German dialect of Bavaria and Austria.",
+      "HASH(0x5da7dc0)",
+      "D"
+   ],
    "micro-www-search" : [],
    "created" : 1373455503,
-   "book" : [],
    "micro-www" : {
       "bavarian" : [
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "'Bavarian' is the adjective form of the German state of Bavaria, and refers to\npeople of ancestry from Bavaria. Bavarian may also refer to:\n* Bavarii, Bajuwari, Baiwaren, Bajuwaren tribe of Bavaria, The first part \"baio\"\n  refers to the name of the Celtic Boii tribe,\n* Bavarian language, a group of closely related dialects of German, spoken in\n  parts of Bavaria, most of Austria and South Tyrol\n* Bavarian cream, a custard sauce\n",

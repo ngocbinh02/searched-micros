@@ -16,7 +16,22 @@
       "physical_process",
       "action"
    ],
-   "Lists" : [],
+   "duck" : [
+      "Activation inchemical sciences generally refers to the process whereby something is prepared or excited for a subsequent reaction.",
+      "\n<a href=\"http://duckduckgo.com/Subroutine\">Subroutine</a> - In computer science, a subroutine, also termed procedure, function, routine, method, or subprogram, is a part of source code within a larger computer program that p...",
+      "https://en.wikipedia.org/wiki/Activation",
+      "\n<a href=\"http://duckduckgo.com/c/Chemical_kinetics\">Chemical kinetics</a>",
+      "HASH(0x5056cd0)",
+      "Wikipedia",
+      "Activation",
+      "http://www.merriam-webster.com/dictionary/activation",
+      "activation definition: neutron activation analysis.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Product_activation\">Product activation</a> - Product activation is a license validation procedure required by some proprietary computer software programs.",
+      "HASH(0x4f69aa8)",
+      "Activation inchemical sciences generally refers to the process whereby something is prepared or excited for a subsequent reaction.",
+      "A"
+   ],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Vodafone_begins_3G_activation,_services_in_NSW_fail\" title=\"Vodafone begins 3G activation, services in NSW fail\">Vodafone begins 3G <span class=\"searchmatch\">activation</span>, services in NSW fail</a>",
@@ -45,28 +60,14 @@
          []
       ]
    },
-   "duck" : [
-      "Activation inchemical sciences generally refers to the process whereby something is prepared or excited for a subsequent reaction.",
-      "\n<a href=\"http://duckduckgo.com/Subroutine\">Subroutine</a> - In computer science, a subroutine, also termed procedure, function, routine, method, or subprogram, is a part of source code within a larger computer program that p...",
-      "https://en.wikipedia.org/wiki/Activation",
-      "\n<a href=\"http://duckduckgo.com/c/Chemical_kinetics\">Chemical kinetics</a>",
-      "HASH(0x5056cd0)",
-      "Wikipedia",
-      "Activation",
-      "http://www.merriam-webster.com/dictionary/activation",
-      "activation definition: neutron activation analysis.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Product_activation\">Product activation</a> - Product activation is a license validation procedure required by some proprietary computer software programs.",
-      "HASH(0x4f69aa8)",
-      "Activation inchemical sciences generally refers to the process whereby something is prepared or excited for a subsequent reaction.",
-      "A"
-   ],
+   "Lists" : [],
    "micro-www-search" : [
       "activation\n>http\nhttp://en.m.wikipedia.org/wiki/Activation\nhttp://en.wikipedia.org/w/index.php?title=Activation&oldid=544226838\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/2/21/List_gray.svg/30px-List_gray.svg.png\n\n",
       "Activation_energy\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png\n\n",
       "Activation\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/2/21/List_gray.svg/30px-List_gray.svg.png\n"
    ],
    "created" : 1373459804,
+   "book" : [],
    "micro-www" : {
       "activation" : [
          "activation",
@@ -75,7 +76,6 @@
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [
          "Chemical kinetics"

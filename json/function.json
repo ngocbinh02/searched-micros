@@ -62,7 +62,27 @@
       "abstraction",
       "exponential"
    ],
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Function_model\">Function model</a>, a structured representation of the functions, activities or processes",
+      "https://en.wikipedia.org/wiki/Function",
+      "Wikipedia",
+      "Function",
+      "http://www.merriam-webster.com/dictionary/function",
+      "\n<a href=\"http://duckduckgo.com/functional_theories_of_grammar\">Function (language)</a>, in linguistics, a way of achieving an aim using language",
+      "function definition: professional or official position.",
+      "\n<a href=\"http://duckduckgo.com/Function_(biology)\">Function (biology)</a>, explaining why a feature survived selection",
+      "\n<a href=\"http://duckduckgo.com/subroutine\">Function (computer science)</a>, or subroutine, a portion of code within a larger program, performs a specific task",
+      "\n<a href=\"http://duckduckgo.com/Function_(engineering)\">Function (engineering)</a>, related to the selected property of a system",
+      "\n<a href=\"http://duckduckgo.com/Function_(E-40_song)\">Function (E-40 song)</a>, a 2012 song by American rapper <a href=\"http://duckduckgo.com/?q=E-40\">E-40</a> featuring <a href=\"http://duckduckgo.com/?q=YG\">YG</a>, iAmSu & Problem",
+      "\n<a href=\"http://duckduckgo.com/Function_object\">Function object</a>, or functor or functionoid, a concept of object-oriented programming",
+      "HASH(0x5b801c0)",
+      "\n<a href=\"http://duckduckgo.com/Function_(mathematics)\">Function (mathematics)</a>, an abstract entity that associates an input to a corresponding output according to some rule",
+      "\n<a href=\"http://duckduckgo.com/Function_Drinks\">Function Drinks</a>, a beverage company based in Redondo Beach, California.",
+      "Merriam-Webster",
+      "HASH(0x5ba4f28)",
+      "\n<a href=\"http://duckduckgo.com/Diatonic_function\">Diatonic function</a>, a term in music theory",
+      "D"
+   ],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Researchers_create_rat_kidneys_in_a_laboratory\" title=\"Researchers create rat kidneys in a laboratory\">Researchers create rat kidneys in a laboratory</a>",
@@ -91,27 +111,7 @@
          []
       ]
    },
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Function_model\">Function model</a>, a structured representation of the functions, activities or processes",
-      "https://en.wikipedia.org/wiki/Function",
-      "Wikipedia",
-      "Function",
-      "http://www.merriam-webster.com/dictionary/function",
-      "\n<a href=\"http://duckduckgo.com/functional_theories_of_grammar\">Function (language)</a>, in linguistics, a way of achieving an aim using language",
-      "function definition: professional or official position.",
-      "\n<a href=\"http://duckduckgo.com/Function_(biology)\">Function (biology)</a>, explaining why a feature survived selection",
-      "\n<a href=\"http://duckduckgo.com/subroutine\">Function (computer science)</a>, or subroutine, a portion of code within a larger program, performs a specific task",
-      "\n<a href=\"http://duckduckgo.com/Function_(engineering)\">Function (engineering)</a>, related to the selected property of a system",
-      "\n<a href=\"http://duckduckgo.com/Function_(E-40_song)\">Function (E-40 song)</a>, a 2012 song by American rapper <a href=\"http://duckduckgo.com/?q=E-40\">E-40</a> featuring <a href=\"http://duckduckgo.com/?q=YG\">YG</a>, iAmSu & Problem",
-      "\n<a href=\"http://duckduckgo.com/Function_object\">Function object</a>, or functor or functionoid, a concept of object-oriented programming",
-      "HASH(0x5b801c0)",
-      "\n<a href=\"http://duckduckgo.com/Function_(mathematics)\">Function (mathematics)</a>, an abstract entity that associates an input to a corresponding output according to some rule",
-      "\n<a href=\"http://duckduckgo.com/Function_Drinks\">Function Drinks</a>, a beverage company based in Redondo Beach, California.",
-      "Merriam-Webster",
-      "HASH(0x5ba4f28)",
-      "\n<a href=\"http://duckduckgo.com/Diatonic_function\">Diatonic function</a>, a term in music theory",
-      "D"
-   ],
+   "Lists" : [],
    "micro-www-search" : [
       "functions\n>http\nhttp://en.m.wikipedia.org/wiki/Function\nhttp://en.wikipedia.org/w/index.php?title=Function&oldid=539369297\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "functional_food\n>http\nhttp://en.m.wikipedia.org/wiki/Functional_food\nhttp://en.wikipedia.org/w/index.php?title=Functional_food&oldid=556366865\nhttp://www.cspinet.org/reports/functional_foods/\nhttp://www.mewburn.com/library/published-articles/functional-food-patents-beware-potential-pitfalls\n\n",
@@ -155,6 +155,7 @@
       "Function_(E-40_song)\n>http\nhttp://en.m.wikipedia.org/wiki/Function_(song)\nhttp://en.wikipedia.org/w/index.php?title=Function_(song)&oldid=543526385\nhttp://itunes.apple.com/us/album/function-feat.-yg-iamsu-problem/id505132283\nhttp://www.metrolyrics.com/function-lyrics-e40.html\n"
    ],
    "created" : 1373457787,
+   "book" : [],
    "micro-www" : {
       "function" : [
          "functions",
@@ -200,7 +201,6 @@
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Function' may refer to:\n\n*Function (biology), explaining why a feature survived selection *Function\n(computer science), or subroutine, a portion of code within a larger program,\nperforms a specific task *Function (engineering), related to the selected\nproperty of a system *Function (language), in linguistics, a way of achieving an\naim using language *Function (mathematics), an abstract entity that associates\nan input to a corresponding output according to some rule *Function model, a\nstructured representation of the functions, activities or processes *Function\nobject, or functor or functionoid, a concept of object-oriented programming\n*Function Drinks, a beverage company based in Redondo Beach, California.\n*Diatonic function, a term in music theory *Function (E-40 song), a 2012 song by\nAmerican rapper E-40 featuring YG, iAmSu & Problem\n",

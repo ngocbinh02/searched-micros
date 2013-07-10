@@ -9,7 +9,20 @@
       "express",
       "show"
    ],
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Expression",
+      "\n<a href=\"http://duckduckgo.com/Facial_expression\">Facial expression</a>, a movement of the face that conveys emotional state",
+      "HASH(0x54ceb68)",
+      "Wikipedia",
+      "Expression",
+      "\n<a href=\"http://duckduckgo.com/Gene_expression\">Gene expression</a>, the process by which information from a gene is used in biochemistry",
+      "http://www.merriam-webster.com/dictionary/expression",
+      "\n<a href=\"http://duckduckgo.com/Regular_expression\">Regular expression</a>, a means of matching strings of text in computing",
+      "expression definition: an act, process, or instance of representing in a medium (as words).",
+      "Merriam-Webster",
+      "HASH(0x54c3830)",
+      "D"
+   ],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/13_people_killed_in_Peru_plane_crash;_passengers_expressed_fears_prior_to_flying\" title=\"13 people killed in Peru plane crash; passengers expressed fears prior to flying\">13 people killed in Peru plane crash; passengers <span class=\"searchmatch\">expressed</span> fears prior to flying</a>",
@@ -38,26 +51,14 @@
          []
       ]
    },
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Expression",
-      "\n<a href=\"http://duckduckgo.com/Facial_expression\">Facial expression</a>, a movement of the face that conveys emotional state",
-      "HASH(0x54ceb68)",
-      "Wikipedia",
-      "Expression",
-      "\n<a href=\"http://duckduckgo.com/Gene_expression\">Gene expression</a>, the process by which information from a gene is used in biochemistry",
-      "http://www.merriam-webster.com/dictionary/expression",
-      "\n<a href=\"http://duckduckgo.com/Regular_expression\">Regular expression</a>, a means of matching strings of text in computing",
-      "expression definition: an act, process, or instance of representing in a medium (as words).",
-      "Merriam-Webster",
-      "HASH(0x54c3830)",
-      "D"
-   ],
+   "Lists" : [],
    "micro-www-search" : [
       "expressed\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "Expressed_sequence_tag\n",
       "Expressed_breast_milk\n>pdf\nhttp://www.bfmed.org/Resources/Download.aspx?filename=Protocol_8.pdf\nhttp://www.ebmonline.org/cgi/reprint/230/4/225.pdf\nhttp://www.nichd.nih.gov/publications/pubs/upload/NICHD_MM_Lactose_FS.pdf\nhttp://www.who.int/nutrition/publications/gs_infant_feeding_text_eng.pdf\nhttp://www.who.int/nutrition/publications/gs_infant_feeding_text_eng.pdf\nhttp://www.ebmonline.org/cgi/reprint/230/4/225.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/7/70/It_just_happens_naturally....jpg/220px-It_just_happens_naturally....jpg\n"
    ],
    "created" : 1373459695,
+   "book" : [],
    "micro-www" : {
       "expressed" : [
          "expressed",
@@ -66,7 +67,6 @@
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n'Expression' may refer to:\n\n'Symbolic expression'\n* Expression (language), a thought communicated by language\n* Expression (mathematics), a finite combination of symbols that are well-formed\n  according to applicable rules\n* Expression (programming), an instruction to execute something that will\n  return a value\n* Regular expression, a means of matching strings of text in computing\n* [[Dynamics_(music)#Relative_loudness|Expression marks]], (music) notating the\n  musical dynamics\n\n'Bodily expression'\n* The [[Breastfeeding|expression]] of milk\n* Emotional expression, verbal and non-verbal behaviour that\n  communicates emotion\n* Facial expression, a movement of the face that conveys emotional state\n* Gene expression, the process by which information from a gene is used in\n  biochemistry\n* Expression (sign language), the expressions and postures of the face and body\n  that contribute to the formation of words when signing\n\n'Product names'\n* ''Expression'' (album), an album by John Coltrane\n* ''Expressions'' (album), an album by Chick Corea\n* Expressions, an album by Jon Secada\n* Expression crew, a breakdance crew.\n* Expressions, the annual magazine of Vidyalankar Institute of Technology,\n  Mumbai, India\n* Microsoft Expression Studio, a digital media and graphic design suite\n* Ex'pression College for Digital Arts, a college in Emeryville, California for\n  the entertainment industry\n",

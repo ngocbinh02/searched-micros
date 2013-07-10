@@ -128,7 +128,18 @@
       "sulphonic_acid",
       "cyanic_acid"
    ],
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Acid\">Acid</a> - An acid (from the Latin acidus/acēre meaning sour) is a substance which reacts with a base.",
+      "https://en.wikipedia.org/wiki/Acid_(disambiguation)",
+      "HASH(0x5068950)",
+      "Wikipedia",
+      "Acid",
+      "http://www.merriam-webster.com/dictionary/acid",
+      "acid definition: sour, sharp, or biting to the taste.",
+      "Merriam-Webster",
+      "HASH(0x506a028)",
+      "D"
+   ],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hydrated_protons_pair_off\" title=\"Hydrated protons pair off\">Hydrated protons pair off</a>",
@@ -156,29 +167,18 @@
          []
       ]
    },
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Acid\">Acid</a> - An acid (from the Latin acidus/acēre meaning sour) is a substance which reacts with a base.",
-      "https://en.wikipedia.org/wiki/Acid_(disambiguation)",
-      "HASH(0x5068950)",
-      "Wikipedia",
-      "Acid",
-      "http://www.merriam-webster.com/dictionary/acid",
-      "acid definition: sour, sharp, or biting to the taste.",
-      "Merriam-Webster",
-      "HASH(0x506a028)",
-      "D"
-   ],
+   "Lists" : [],
    "micro-www-search" : [
       "Acids\n>pdf\nhttp://isites.harvard.edu/fs/docs/icb.topic776365.files/lecture%2017.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Zn_reaction_with_HCl.JPG/220px-Zn_reaction_with_HCl.JPG\n"
    ],
    "created" : 1373458481,
+   "book" : [],
    "micro-www" : {
       "acids" : [
          "Acids",
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [
          "Acids|",

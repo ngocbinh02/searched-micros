@@ -76,7 +76,20 @@
       "entity",
       "ground"
    ],
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Base_pair\">Base pair</a>, a pair of connected nucleotides on complementary DNA and RNA strands",
+      "https://en.wikipedia.org/wiki/Base",
+      "HASH(0x65d2020)",
+      "Wikipedia",
+      "Base",
+      "\n<a href=\"http://duckduckgo.com/Base_(chemistry)\">Base (chemistry)</a>, a substance that can accept hydrogen ions (protons)",
+      "http://www.merriam-webster.com/dictionary/base",
+      "base definition: the lower part of a wall, pier, or column considered as a separate architectural feature.",
+      "Merriam-Webster",
+      "HASH(0x69d9990)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/BASE_jumping\">BASE jumping</a> - BASE jumping, also sometimes written as B.A.S.E. jumping, is an activity where participants jump from fixed objects and use a parachute to break their fall."
+   ],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_base_in_Nuristan,_Afghanistan_attacked\" title=\"US base in Nuristan, Afghanistan attacked\">US <span class=\"searchmatch\">base</span> in Nuristan, Afghanistan attacked</a>",
@@ -105,20 +118,7 @@
          []
       ]
    },
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Base_pair\">Base pair</a>, a pair of connected nucleotides on complementary DNA and RNA strands",
-      "https://en.wikipedia.org/wiki/Base",
-      "HASH(0x65d2020)",
-      "Wikipedia",
-      "Base",
-      "\n<a href=\"http://duckduckgo.com/Base_(chemistry)\">Base (chemistry)</a>, a substance that can accept hydrogen ions (protons)",
-      "http://www.merriam-webster.com/dictionary/base",
-      "base definition: the lower part of a wall, pier, or column considered as a separate architectural feature.",
-      "Merriam-Webster",
-      "HASH(0x69d9990)",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/BASE_jumping\">BASE jumping</a> - BASE jumping, also sometimes written as B.A.S.E. jumping, is an activity where participants jump from fixed objects and use a parachute to break their fall."
-   ],
+   "Lists" : [],
    "micro-www-search" : [
       "base_10\n>pdf\nhttp://linguistics.berkeley.edu/~avelino/Avelino_2006.pdf\nhttp://www.cs.chalmers.se/~harald2/rara2006.pdf\nhttp://www.cs.chalmers.se/~harald2/rarapaper.pdf\nhttp://www.cs.chalmers.se/~harald2/rarapaper.pdf\nhttp://www.ethnomath.org/resources/bowers-lepi1975.pdf\nhttp://www1.aiatsis.gov.au/exhibitions/e_access/serial/m0029743_v_a.pdf\nhttp://linguistics.berkeley.edu/~avelino/Avelino_2006.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/f/f4/Ambox_content.png\n\n",
       "Basement_membrane\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Extracellular_Matrix.png/250px-Extracellular_Matrix.png\n\n",
@@ -145,6 +145,7 @@
       "Base-pair\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/2/21/GC_base_pair_jypx3.png/220px-GC_base_pair_jypx3.png\n"
    ],
    "created" : 1373457849,
+   "book" : [],
    "micro-www" : {
       "base" : [
          "base_10",
@@ -173,7 +174,6 @@
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n'Base' or 'BASE' may refer to:\n\nIn 'computing': *BASE (search engine), Bielefeld Academic Search Engine\n*Basically Available, Soft state, Eventual consistency (BASE), a consistency\nmodel *Google Base, an online database provided by Google *OpenOffice.org Base,\nOpenOffice.org's database module, also known as ooBase *<code><base></code>, an\nHTML element\n\nIn 'mathematics': *Base (geometry), a side of a plane figure (for example a\ntriangle) *Base (group theory), a sequence of distinct elements of a set *Base\n(exponentiation), the number b in an expression of the form b<sup>n</sup> *Base\n(topology), a topological space *Radix or base, the number of distinct digits in\na positional numeral system\n\nIn 'science': *Base (chemistry), a substance that can accept hydrogen ions\n(protons) *Beta-alumina solid electrolyte, a fast ion conductor material *Base\nof the heart, a portion of the heart opposite the apex of the heart *An\nattribute to medication in uncombined form, for example erythromycin base\n\nIn 'other uses': *Base (baseball), the first, second, and third base on a\nbaseball diamond *Base (company), an international design, communications,\naudiovisual, copywriting and publishing firm *Base (politics), a group of voters\nwho almost always support a single party's candidates *Base, Maharashtra,\nvillage in India *BASE (mobile), a Belgian mobile telecommunications operator\n*Bedini Audio Spectral Enhancer, an audio signal processor used in the early\n1990s *Cooking base, a concentrated flavouring compound *Binder (material), a\nmaterial that holds paint or other materials together *Foundation (cosmetics), a\ncosmetic applied to the face *Foundation (architecture), the lowest and\nsupporting layer of a structure *Military base, or non-military base, which\nprovides shelter, military equipment and personnel *Pedestal, a supporting\nfeature of a statue or other item *Budapest Aircraft Services' callsign *Bible\nArchaeology Search and Exploration Institute *Backward Society Education, a\nNepali non-governmental organization. *Base, a type of connection on a\ntransistor *Base, a position in some cheerleading stunts\n",

@@ -73,18 +73,6 @@
       "chemulpo"
    ],
    "micro" : [],
-   "Lists" : [],
-   "common" : {
-      "milestones" : [
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chemical_weapons_used_in_Iraq_by_US_military,_says_Italian_documentary\" title=\"Chemical weapons used in Iraq by US military, says Italian documentary\">Chemical weapons used in Iraq by US military, says Italian documentary</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Confirmed_bird_flu_death_in_Nigeria\" title=\"Confirmed bird flu death in Nigeria\">Confirmed bird flu death in Nigeria</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chemical_firm_LyondellBasell_collapses\" title=\"Chemical firm LyondellBasell collapses\">Chemical firm LyondellBasell collapses</a>"
-      ],
-      "image" : [
-         [],
-         []
-      ]
-   },
    "duck" : [
       "https://en.wikipedia.org/wiki/Chem",
       "\n<a href=\"http://duckduckgo.com/Min_(god)\">Min (god)</a>, in the past erroneously named Khem",
@@ -96,6 +84,18 @@
       "HASH(0x6873678)",
       "D"
    ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chemical_weapons_used_in_Iraq_by_US_military,_says_Italian_documentary\" title=\"Chemical weapons used in Iraq by US military, says Italian documentary\">Chemical weapons used in Iraq by US military, says Italian documentary</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Confirmed_bird_flu_death_in_Nigeria\" title=\"Confirmed bird flu death in Nigeria\">Confirmed bird flu death in Nigeria</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chemical_firm_LyondellBasell_collapses\" title=\"Chemical firm LyondellBasell collapses\">Chemical firm LyondellBasell collapses</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
    "micro-www-search" : [
       "chemotrophs\n>http\nhttp://books.google.com/books?id=MiwpFtTdmjQC&pg=PA238&dq=chemolithoheterotroph+sulfur+bacteria&cd=6#v=onepage&q=chemolithoheterotroph%20sulfur%20bacteria&f=false\nhttp://books.google.com/books?id=e0OsNiQthNQC&pg=PA133&dq=chemoheterotroph&lr=&cd=41#v=onepage&q=&f=false\nhttp://books.google.com/books?id=jtMLzaa5ONcC&pg=PA427&dq=chemolithotrophic+sulfur+bacteria&cd=1#v=onepage&q=chemolithotrophic%20sulfur%20bacteria&f=false\nhttp://books.google.com/books?id=uleTr2jKzJMC&pg=PA989&dq=chemolithoheterotroph+sulfur+bacteria&cd=3#v=onepage&q=chemolithoheterotroph%20sulfur%20bacteria&f=false\nhttp://en.m.wikipedia.org/wiki/Chemotroph\nhttp://en.wikipedia.org/w/index.php?title=Chemotroph&oldid=544650935\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Blacksmoker_in_Atlantic_Ocean.jpg/220px-Blacksmoker_in_Atlantic_Ocean.jpg\n\n",
       "chemotherapy\n>http\nhttp://en.m.wikipedia.org/wiki/Chemotherapy\nhttp://en.wikipedia.org/w/index.php?title=Chemotherapy&oldid=544411851\nhttp://www.cancer.org/docroot/ETO/content/ETO_1_2X_Chemotherapy_What_It_Is_How_It_Helps.asp\n\n>pdf\nhttp://humupd.oxfordjournals.org/content/7/4/394.full.pdf\nhttp://humupd.oxfordjournals.org/content/7/4/394.full.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chemotherapy_with_acral_cooling.jpg/220px-Chemotherapy_with_acral_cooling.jpg\n\n",
@@ -194,6 +194,7 @@
       "Chemical\n>http\nhttp://en.m.wikipedia.org/wiki/Chemical_substance\nhttp://en.wikipedia.org/w/index.php?title=Chemical_substance&oldid=559305941\nhttp://www.echemportal.org\nhttp://www.epa.gov/oppt/newchems/pubs/invntory.htm\nhttp://www.nicnas.gov.au/Industry/New_Chemicals/Does_My_Chemical_Require_Notification/What_Is_A_Chemical.asp\n\n>pdf\nhttp://www.cas.org/ASSETS/58D34DD3892142D18F5C3B0A004D3A0C/indexguideapp.pdf\nhttp://www.cas.org/ASSETS/58D34DD3892142D18F5C3B0A004D3A0C/indexguideapp.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kochendes_wasser02.jpg/220px-Kochendes_wasser02.jpg\n"
    ],
    "created" : 1373457944,
+   "book" : [],
    "micro-www" : {
       "chem" : [
          "chemotrophs",
@@ -294,7 +295,6 @@
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "'Chem' may refer to: *Chemistry *Post apocalyptic slang for \"drugs\", medicinal\nor otherwise in the Fallout video game series.\n\nIn Ancient Egyptian usage: *''Khem'' (also spelt Chem), the Egyptian word for\n\"black\" *Min (god), in the past erroneously named Khem\n\n'CHEM' may refer to : *A metabolic panel: for instance, CHEM-7, which is the\nbasic metabolic panel *CHEM-TV, a Canadian television channel\n",

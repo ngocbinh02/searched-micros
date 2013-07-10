@@ -15,6 +15,14 @@
       "abstract_entity",
       "amount"
    ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
    "duck" : [
       "https://en.wikipedia.org/wiki/Sextant_(disambiguation)",
       "HASH(0x5ca3718)",
@@ -30,22 +38,14 @@
       "D",
       "\n<a href=\"http://duckduckgo.com/Sextant\">Sextant</a>, a navigation instrument"
    ],
-   "common" : {
-      "milestones" : [],
-      "image" : [
-         [],
-         []
-      ]
-   },
-   "Lists" : [],
    "micro-www-search" : [],
    "created" : 1373455756,
-   "book" : [],
    "micro-www" : {
       "sextant" : [
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Navigational equipment",

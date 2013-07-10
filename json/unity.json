@@ -17,19 +17,7 @@
       "incompleteness",
       "completeness"
    ],
-   "duck" : [
-      "Unity is the state of being undivided or unbroken.",
-      "\n<a href=\"http://duckduckgo.com/Unity_(game_engine)\">Unity (game engine)</a>, a multi-platform game engine and development toolkit",
-      "https://en.wikipedia.org/wiki/Unity",
-      "\n<a href=\"http://duckduckgo.com/Unity_Church\">Unity Church</a>, also known as the Unity School of Christianity",
-      "HASH(0x5e45ca8)",
-      "Wikipedia",
-      "Unity",
-      "\n<a href=\"http://duckduckgo.com/Unity_Mitford\">Unity Mitford</a> (1914-1948), friend of Adolf Hitler",
-      "HASH(0x5eb5978)",
-      "Unity is the state of being undivided or unbroken.",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Zimbabwean_unity_talks_fail\" title=\"Zimbabwean unity talks fail\">Zimbabwean <span class=\"searchmatch\">unity</span> talks fail</a>",
@@ -58,15 +46,27 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "Unity is the state of being undivided or unbroken.",
+      "\n<a href=\"http://duckduckgo.com/Unity_(game_engine)\">Unity (game engine)</a>, a multi-platform game engine and development toolkit",
+      "https://en.wikipedia.org/wiki/Unity",
+      "\n<a href=\"http://duckduckgo.com/Unity_Church\">Unity Church</a>, also known as the Unity School of Christianity",
+      "HASH(0x5e45ca8)",
+      "Wikipedia",
+      "Unity",
+      "\n<a href=\"http://duckduckgo.com/Unity_Mitford\">Unity Mitford</a> (1914-1948), friend of Adolf Hitler",
+      "HASH(0x5eb5978)",
+      "Unity is the state of being undivided or unbroken.",
+      "D"
+   ],
    "micro-www-search" : [],
    "created" : 1373455853,
-   "book" : [],
    "micro-www" : {
       "unity" : [
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Unity' is the state of being undivided or unbroken.\n\n'Unity' may also refer to:\n",

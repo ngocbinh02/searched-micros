@@ -14,7 +14,27 @@
       "end",
       "complete"
    ],
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Complete",
+      "Wikipedia",
+      "Complete",
+      "\n<a href=\"http://duckduckgo.com/Complete_(News_from_Babel_album)\">Complete (News from Babel album)</a> - Complete is a three-CD box set by the English avant-rock band News from Babel.",
+      "http://www.merriam-webster.com/dictionary/complete",
+      "\n<a href=\"http://duckduckgo.com/Complete_(The_Veronicas_album)\">Complete (The Veronicas album)</a>, 2009",
+      "complete definition: having all necessary parts, elements, or steps.",
+      "\n<a href=\"http://duckduckgo.com/Compete.com\">Compete.com</a>, a web traffic analysis service",
+      "To be complete is to be in the state of requiring nothing else to be added.",
+      "HASH(0x533aa38)",
+      "\n<a href=\"http://duckduckgo.com/Complete_(The_Smiths_album)\">Complete (The Smiths album)</a> - Complete is a box set released by British band The Smiths.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Completeness\">Completeness</a> - In general, an object is complete if nothing needs to be added to it.",
+      "\n<a href=\"http://duckduckgo.com/Complete_(complexity)\">Complete (complexity)</a>, in mathematics",
+      "HASH(0x528a518)",
+      "D",
+      "To be complete is to be in the state of requiring nothing else to be added.",
+      "\n<a href=\"http://duckduckgo.com/Complete_metric_space\">Complete metric space</a>, in mathematics",
+      "\n<a href=\"http://duckduckgo.com/Complete_(Lila_McCann_album)\">Complete (Lila McCann album)</a> - Complete is the third album by country music artist Lila McCann."
+   ],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Solar_powered_plane_completes_first_leg_of_transcontinental_trip\" title=\"Solar powered plane completes first leg of transcontinental trip\">Solar powered plane <span class=\"searchmatch\">completes</span> first leg of transcontinental trip</a>",
@@ -43,27 +63,7 @@
          []
       ]
    },
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Complete",
-      "Wikipedia",
-      "Complete",
-      "\n<a href=\"http://duckduckgo.com/Complete_(News_from_Babel_album)\">Complete (News from Babel album)</a> - Complete is a three-CD box set by the English avant-rock band News from Babel.",
-      "http://www.merriam-webster.com/dictionary/complete",
-      "\n<a href=\"http://duckduckgo.com/Complete_(The_Veronicas_album)\">Complete (The Veronicas album)</a>, 2009",
-      "complete definition: having all necessary parts, elements, or steps.",
-      "\n<a href=\"http://duckduckgo.com/Compete.com\">Compete.com</a>, a web traffic analysis service",
-      "To be complete is to be in the state of requiring nothing else to be added.",
-      "HASH(0x533aa38)",
-      "\n<a href=\"http://duckduckgo.com/Complete_(The_Smiths_album)\">Complete (The Smiths album)</a> - Complete is a box set released by British band The Smiths.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Completeness\">Completeness</a> - In general, an object is complete if nothing needs to be added to it.",
-      "\n<a href=\"http://duckduckgo.com/Complete_(complexity)\">Complete (complexity)</a>, in mathematics",
-      "HASH(0x528a518)",
-      "D",
-      "To be complete is to be in the state of requiring nothing else to be added.",
-      "\n<a href=\"http://duckduckgo.com/Complete_metric_space\">Complete metric space</a>, in mathematics",
-      "\n<a href=\"http://duckduckgo.com/Complete_(Lila_McCann_album)\">Complete (Lila McCann album)</a> - Complete is the third album by country music artist Lila McCann."
-   ],
+   "Lists" : [],
    "micro-www-search" : [
       "completed\n>http\nhttp://en.m.wikipedia.org/wiki/Completeness\nhttp://en.wikipedia.org/w/index.php?title=Completeness&oldid=542786594\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "complete_protein\n>http\nhttp://en.m.wikipedia.org/wiki/Complete_protein\nhttp://en.wikipedia.org/w/index.php?title=Complete_protein&oldid=558927133\n\n>pdf\nhttp://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19940015664_1994015664.pdf\nhttp://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19940015664_1994015664.pdf\nhttp://whqlibdoc.who.int/trs/WHO_TRS_935_eng.pdf\nhttp://whqlibdoc.who.int/trs/WHO_TRS_935_eng.pdf\n\n",
@@ -79,6 +79,7 @@
       "Complete_(Lila_McCann_album)\n>http\nhttp://en.m.wikipedia.org/wiki/Complete_(Lila_McCann_album)\nhttp://en.wikipedia.org/w/index.php?title=Complete_(Lila_McCann_album)&oldid=507265421\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/2/27/Lilacomplete.jpg\n"
    ],
    "created" : 1373459652,
+   "book" : [],
    "micro-www" : {
       "complete" : [
          "completed",
@@ -96,7 +97,6 @@
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Complete' may refer to:\n\n* ''Complete'' (Lila McCann album)\n* ''Complete'' (News from Babel album)\n* ''Complete'' (The Smiths album)\n* ''Complete'' (The Veronicas album), 2009\n* Complete (complexity), in mathematics\n* Complete metric space, in mathematics\n* \"Complete\", a song by Kutless from [[To Know That You're Alive]]\n* \"Complete\", a 2007 song by Girls' Generation from the album [[Girls'\n  Generation (2007 album)|Girls' Generation]]\n* Compete.com, a web traffic analysis service\n",

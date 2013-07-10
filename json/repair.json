@@ -51,28 +51,7 @@
       "doctor",
       "patching"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Aircraft_maintenance\">Aircraft maintenance</a> - Aircraft maintenance is the overhaul, repair, inspection or modification of an aircraft or aircraft component.",
-      "https://en.wikipedia.org/wiki/Maintenance%2C_repair%2C_and_operations",
-      "\n<a href=\"http://duckduckgo.com/Delta_TechOps\">Delta TechOps</a> - Delta TechOps is the maintenance, repair and overhaul (MRO) division of Delta Air Lines, and is headquartered at Hartsfield-Jackson International Airport (ATL) in Atlanta, Georgia.",
-      "Wikipedia",
-      "\n<a href=\"http://duckduckgo.com/c/Reliability_engineering\">Reliability engineering</a>",
-      "Maintenance, repair, and operations",
-      "To keep in an existing state; preserve or retain: maintain one's composure.",
-      "\n<a href=\"http://duckduckgo.com/Logistics_center\">Logistics center</a> - A logistics center, or depot, is a facility dedicated to logistical operations.",
-      "\n<a href=\"http://duckduckgo.com/c/Maintenance\">Maintenance</a>",
-      "\n<a href=\"http://duckduckgo.com/Auto_maintenance\">Auto maintenance</a> - Auto maintenance describes the act of inspecting or testing the condition of car subsystems (e.g., engine) and servicing or replacing parts and fluids.",
-      "Maintenance, repair, and operations (MRO) or maintenance, repair, and overhaul involves fixing any sort of mechanical, plumbing or electrical device should it become out of order or broken (known as repair, unscheduled or casualty maintenance).",
-      "\n<a href=\"http://duckduckgo.com/c/Product_lifecycle_management\">Product lifecycle management</a>",
-      "HASH(0x5aba088)",
-      "\n<a href=\"http://duckduckgo.com/c/Mechanical_engineering\">Mechanical engineering</a>",
-      "https://i.duckduckgo.com/i/12a1bd24.jpg",
-      "HASH(0x5e353d0)",
-      "\n<a href=\"http://duckduckgo.com/Home_repair\">Home repair</a> - Home repair involves the diagnosis and resolution of problems in a home, and is related to home maintenance to avoid such problems.",
-      "A",
-      "Maintenance, repair, and operations (MRO) or maintenance, repair, and overhaul involves fixing any sort of mechanical, plumbing or electrical device should it become out of order or broken (known as repair, unscheduled or casualty maintenance).",
-      "\n<a href=\"http://duckduckgo.com/Darning\">Darning</a> - Darning is a sewing technique for repairing holes or worn areas in fabric or knitting using needle and thread alone."
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Wax_Hitler_will_return_to_museum_after_repairs\" title=\"Wax Hitler will return to museum after repairs\">Wax Hitler will return to museum after <span class=\"searchmatch\">repairs</span></a>",
@@ -100,7 +79,28 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Aircraft_maintenance\">Aircraft maintenance</a> - Aircraft maintenance is the overhaul, repair, inspection or modification of an aircraft or aircraft component.",
+      "https://en.wikipedia.org/wiki/Maintenance%2C_repair%2C_and_operations",
+      "\n<a href=\"http://duckduckgo.com/Delta_TechOps\">Delta TechOps</a> - Delta TechOps is the maintenance, repair and overhaul (MRO) division of Delta Air Lines, and is headquartered at Hartsfield-Jackson International Airport (ATL) in Atlanta, Georgia.",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/c/Reliability_engineering\">Reliability engineering</a>",
+      "Maintenance, repair, and operations",
+      "To keep in an existing state; preserve or retain: maintain one's composure.",
+      "\n<a href=\"http://duckduckgo.com/Logistics_center\">Logistics center</a> - A logistics center, or depot, is a facility dedicated to logistical operations.",
+      "\n<a href=\"http://duckduckgo.com/c/Maintenance\">Maintenance</a>",
+      "\n<a href=\"http://duckduckgo.com/Auto_maintenance\">Auto maintenance</a> - Auto maintenance describes the act of inspecting or testing the condition of car subsystems (e.g., engine) and servicing or replacing parts and fluids.",
+      "Maintenance, repair, and operations (MRO) or maintenance, repair, and overhaul involves fixing any sort of mechanical, plumbing or electrical device should it become out of order or broken (known as repair, unscheduled or casualty maintenance).",
+      "\n<a href=\"http://duckduckgo.com/c/Product_lifecycle_management\">Product lifecycle management</a>",
+      "HASH(0x5aba088)",
+      "\n<a href=\"http://duckduckgo.com/c/Mechanical_engineering\">Mechanical engineering</a>",
+      "https://i.duckduckgo.com/i/12a1bd24.jpg",
+      "HASH(0x5e353d0)",
+      "\n<a href=\"http://duckduckgo.com/Home_repair\">Home repair</a> - Home repair involves the diagnosis and resolution of problems in a home, and is related to home maintenance to avoid such problems.",
+      "A",
+      "Maintenance, repair, and operations (MRO) or maintenance, repair, and overhaul involves fixing any sort of mechanical, plumbing or electrical device should it become out of order or broken (known as repair, unscheduled or casualty maintenance).",
+      "\n<a href=\"http://duckduckgo.com/Darning\">Darning</a> - Darning is a sewing technique for repairing holes or worn areas in fabric or knitting using needle and thread alone."
+   ],
    "micro-www-search" : [
       "repair\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n\n",
       "Repair_permissions\n>http\nhttp://daringfireball.net/2006/04/repair_permissions_voodoo\nhttp://en.m.wikipedia.org/wiki/Repair_permissions\nhttp://en.wikipedia.org/w/index.php?title=Repair_permissions&oldid=544082960\n\n",
@@ -108,7 +108,6 @@
       "Repair\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n"
    ],
    "created" : 1373457254,
-   "book" : [],
    "micro-www" : {
       "repair" : [
          "repair",
@@ -118,6 +117,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Reliability engineering",

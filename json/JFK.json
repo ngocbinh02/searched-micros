@@ -1,4 +1,7 @@
 {
+   "micrownet" : [
+      "JFK"
+   ],
    "google" : [
       "/url?q=https://en.wikipedia.org/wiki/John_F._Kennedy&sa=U&ei=T9vYUbbnMIHatAbf-IGABA&ved=0CBkQFjAA&usg=AFQjCNF-T-wLc0YHkx4UNCxLhcWKMnQxJA",
       "/url?q=http://en.wikipedia.org/wiki/JFK_(film)&sa=U&ei=T9vYUbbnMIHatAbf-IGABA&ved=0CCIQFjAD&usg=AFQjCNF6pMRESCtGsRzY_9wldLE-tr8_OA",
@@ -8,9 +11,6 @@
       "/url?q=http://www.whitehouse.gov/about/presidents/johnfkennedy&sa=U&ei=T9vYUbbnMIHatAbf-IGABA&ved=0CD0QFjAG&usg=AFQjCNHVMI3K98to6SQjNbJn5DC4lgw6Tw",
       "/url?q=http://www.jfklibrary.org/&sa=U&ei=T9vYUbbnMIHatAbf-IGABA&ved=0CEEQFjAH&usg=AFQjCNHeCU4HFIsIwGH2YcTgJ7eWtIF7Kw",
       "/url?q=http://www.jfkiat.com/&sa=U&ei=T9vYUbbnMIHatAbf-IGABA&ved=0CEUQFjAI&usg=AFQjCNFHTBEMufC8BHkPbhimDbTGVBMlZA"
-   ],
-   "micrownet" : [
-      "JFK"
    ],
    "micro" : [
       "negotiant",
@@ -50,14 +50,22 @@
       "unit",
       "causal_agent"
    ],
-   "Lists" : [
-      "List_of_Presidents_of_the_United_States",
-      "List_of_Presidents_of_the_United_States",
-      "List_of_kings_of_Iraq",
-      "Gallup's_List_of_Widely_Admired_People",
-      "List_of_assassinated_American_politicians",
-      "List_of_Presidents_of_the_United_States",
-      "List_of_Presidents_of_the_United_States_who_died_in_office"
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Jesse_F._Keeler\">Jesse F. Keeler</a> or JFK, Canadian musician",
+      "\n<a href=\"http://duckduckgo.com/JFK%3A_Reloaded\">JFK: Reloaded</a>, a video game by Traffic Games",
+      "\n<a href=\"http://duckduckgo.com/john_F._Kennedy_Stadium\">JFK Stadium</a>, an open-air stadium in Philadelphia, Pennsylvania, demolished in 1992",
+      "\n<a href=\"http://duckduckgo.com/JFK_(magazine)\">JFK (magazine)</a>, Dutch man's magazine",
+      "JFK",
+      "\n<a href=\"http://duckduckgo.com/USS_John_F._Kennedy_(CV-67)\">USS John F. Kennedy (CV-67)</a>, an American supercarrier",
+      "\n<a href=\"http://duckduckgo.com/JFK_International_School\">JFK International School</a>, a school and summer camp situated in the Swiss Alps (Saanen/Gstaad)",
+      "\n<a href=\"http://duckduckgo.com/john_F._Kennedy\">john F. Kennedy</a> - John Fitzgerald \"Jack\" Kennedy, often referred to by his initials JFK, was the 35th President of the United States, serving from 1961 until his death in 1963.",
+      "\n<a href=\"http://duckduckgo.com/JFK_(film)\">JFK (film)</a>, a 1991 film by Oliver Stone",
+      "\n<a href=\"http://duckduckgo.com/Justice_for_Khojaly\">Justice for Khojaly</a>, a campaign to raise awareness of the 1992 massacre of ethnic Azerbaijanis in <a href=\"http://duckduckgo.com/?q=Khojaly\">Khojaly</a>",
+      "\n<a href=\"http://duckduckgo.com/john_F._Kennedy_University\">JFK University</a>, a university in Pleasant Hill, California",
+      "\n<a href=\"http://duckduckgo.com/clone_High\">JFK (Clone High)</a>, a character on Clone High",
+      "\n<a href=\"http://duckduckgo.com/John_F._Kennedy_International_Airport\">John F. Kennedy International Airport</a>, New York City, New York, USA, commonly known as JFK",
+      "\n<a href=\"http://duckduckgo.com/John_F._Kennedy_Memorial_Airport\">John F. Kennedy Memorial Airport</a>, Ashland, Wisconsin, USA, also known as JFK Memorial Airport",
+      "\n<a href=\"http://duckduckgo.com/JFK_Express\">JFK Express</a>, a defunct premium-fare subway service"
    ],
    "common" : {
       "news" : [
@@ -145,22 +153,14 @@
          "<img alt=\"Powered by MediaWiki\" height=\"31\" src=\"//bits.wikimedia.org/static-1.22wmf8/skins/common/images/poweredby_mediawiki_88x31.png\" width=\"88\" />"
       ]
    },
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Jesse_F._Keeler\">Jesse F. Keeler</a> or JFK, Canadian musician",
-      "\n<a href=\"http://duckduckgo.com/JFK%3A_Reloaded\">JFK: Reloaded</a>, a video game by Traffic Games",
-      "\n<a href=\"http://duckduckgo.com/john_F._Kennedy_Stadium\">JFK Stadium</a>, an open-air stadium in Philadelphia, Pennsylvania, demolished in 1992",
-      "\n<a href=\"http://duckduckgo.com/JFK_(magazine)\">JFK (magazine)</a>, Dutch man's magazine",
-      "JFK",
-      "\n<a href=\"http://duckduckgo.com/USS_John_F._Kennedy_(CV-67)\">USS John F. Kennedy (CV-67)</a>, an American supercarrier",
-      "\n<a href=\"http://duckduckgo.com/JFK_International_School\">JFK International School</a>, a school and summer camp situated in the Swiss Alps (Saanen/Gstaad)",
-      "\n<a href=\"http://duckduckgo.com/john_F._Kennedy\">john F. Kennedy</a> - John Fitzgerald \"Jack\" Kennedy, often referred to by his initials JFK, was the 35th President of the United States, serving from 1961 until his death in 1963.",
-      "\n<a href=\"http://duckduckgo.com/JFK_(film)\">JFK (film)</a>, a 1991 film by Oliver Stone",
-      "\n<a href=\"http://duckduckgo.com/Justice_for_Khojaly\">Justice for Khojaly</a>, a campaign to raise awareness of the 1992 massacre of ethnic Azerbaijanis in <a href=\"http://duckduckgo.com/?q=Khojaly\">Khojaly</a>",
-      "\n<a href=\"http://duckduckgo.com/john_F._Kennedy_University\">JFK University</a>, a university in Pleasant Hill, California",
-      "\n<a href=\"http://duckduckgo.com/clone_High\">JFK (Clone High)</a>, a character on Clone High",
-      "\n<a href=\"http://duckduckgo.com/John_F._Kennedy_International_Airport\">John F. Kennedy International Airport</a>, New York City, New York, USA, commonly known as JFK",
-      "\n<a href=\"http://duckduckgo.com/John_F._Kennedy_Memorial_Airport\">John F. Kennedy Memorial Airport</a>, Ashland, Wisconsin, USA, also known as JFK Memorial Airport",
-      "\n<a href=\"http://duckduckgo.com/JFK_Express\">JFK Express</a>, a defunct premium-fare subway service"
+   "Lists" : [
+      "List_of_Presidents_of_the_United_States",
+      "List_of_Presidents_of_the_United_States",
+      "List_of_kings_of_Iraq",
+      "Gallup's_List_of_Widely_Admired_People",
+      "List_of_assassinated_American_politicians",
+      "List_of_Presidents_of_the_United_States",
+      "List_of_Presidents_of_the_United_States_who_died_in_office"
    ],
    "micro-www-search" : [],
    "created" : 1373448855,

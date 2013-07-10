@@ -47,24 +47,7 @@
       "deed",
       "lieu"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Role%2C_Lublin_Voivodeship\">Role, Lublin Voivodeship</a> (east Poland)",
-      "https://en.wikipedia.org/wiki/Role_(disambiguation)",
-      "\n<a href=\"http://duckduckgo.com/Role%2C_Pomeranian_Voivodeship\">Role, Pomeranian Voivodeship</a> (north Poland)",
-      "Wikipedia",
-      "Role",
-      "\n<a href=\"http://duckduckgo.com/Role%2C_West_Pomeranian_Voivodeship\">Role, West Pomeranian Voivodeship</a> (north-west Poland)",
-      "http://www.merriam-webster.com/dictionary/role",
-      "role definition: a character assigned or assumed.",
-      "HASH(0x63c0c08)",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/character_(arts)\">Role (performing arts)</a> - A character is the representation  of a person  in a narrative  or dramatic work of art  (such as a novel, play, or film).",
-      "HASH(0x5e4ddf0)",
-      "\n<a href=\"http://duckduckgo.com/Rholes\">Rholes</a>, or Roles, the Getae chieftain",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Role\">Role</a> - A role (from the French rôle, and sometimes so spelt in English) or social role is a set of connected behaviours, rights, obligations, beliefs, and norms as conceptualised by act...",
-      "\n<a href=\"http://duckduckgo.com/role-oriented_programming\">Role (computer science)</a> - Role-oriented programming is a form of computer programming aimed at expressing things in terms which are analogous to human conceptual understanding of the world."
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/VP_Cheney_role_surfaces_in_U.S._domestic_spying\" title=\"VP Cheney role surfaces in U.S. domestic spying\">VP Cheney <span class=\"searchmatch\">role</span> surfaces in U.S. domestic spying</a>",
@@ -93,13 +76,29 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Role%2C_Lublin_Voivodeship\">Role, Lublin Voivodeship</a> (east Poland)",
+      "https://en.wikipedia.org/wiki/Role_(disambiguation)",
+      "\n<a href=\"http://duckduckgo.com/Role%2C_Pomeranian_Voivodeship\">Role, Pomeranian Voivodeship</a> (north Poland)",
+      "Wikipedia",
+      "Role",
+      "\n<a href=\"http://duckduckgo.com/Role%2C_West_Pomeranian_Voivodeship\">Role, West Pomeranian Voivodeship</a> (north-west Poland)",
+      "http://www.merriam-webster.com/dictionary/role",
+      "role definition: a character assigned or assumed.",
+      "HASH(0x63c0c08)",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/character_(arts)\">Role (performing arts)</a> - A character is the representation  of a person  in a narrative  or dramatic work of art  (such as a novel, play, or film).",
+      "HASH(0x5e4ddf0)",
+      "\n<a href=\"http://duckduckgo.com/Rholes\">Rholes</a>, or Roles, the Getae chieftain",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Role\">Role</a> - A role (from the French rôle, and sometimes so spelt in English) or social role is a set of connected behaviours, rights, obligations, beliefs, and norms as conceptualised by act...",
+      "\n<a href=\"http://duckduckgo.com/role-oriented_programming\">Role (computer science)</a> - Role-oriented programming is a form of computer programming aimed at expressing things in terms which are analogous to human conceptual understanding of the world."
+   ],
    "micro-www-search" : [
       "Role_model\n>pdf\nhttp://web.archive.org/web/20070811154926http:///www.aps-pub.com/proceedings/1484/480411.pdf\nhttp://www.amphilsoc.org/sites/default/files/480411.pdf\nhttp://www.aps-pub.com/proceedings/1484/480411.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/SNA_segment.png/180px-SNA_segment.png\n\n",
       "Role-playing_game\n>http\nhttp://books.google.com/books?id=gf4DQgAACAAJ&dq=Second+Person:+Roleplaying+and+Story+in+Playable+Media&hl=en&sa=X&ei=UXosT-a3FaX20gHe8t3rCg&ved=0CDIQ6AEwAA\nhttp://en.m.wikipedia.org/wiki/Role-playing_game\nhttp://en.wikipedia.org/w/index.php?title=Role-playing_game&oldid=543525901\nhttp://www.dmoz.org/Games/Roleplaying/\n\n>pdf\nhttp://www.colorado.edu/ibs/pb/thornberry/socy5031/pdfs/waskul_lust_role_playing.pdf\nhttp://www.digra.org/dl/db/06278.50594.pdf\nhttp://www.digra.org:8080/Plone/dl/db/07311.39029.pdf\nhttp://www.ropecon.fi/brap/ch6.pdf\nhttp://www.ropecon.fi/brap/ch6.pdf\nhttp://www.colorado.edu/ibs/pb/thornberry/socy5031/pdfs/waskul_lust_role_playing.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Dados_4_a_20_caras_trans.png/220px-Dados_4_a_20_caras_trans.png\n"
    ],
    "created" : 1373457515,
-   "book" : [],
    "micro-www" : {
       "role" : [
          "Role_model",
@@ -107,6 +106,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Identity",

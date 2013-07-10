@@ -58,24 +58,7 @@
       "cost_analysis",
       "anatomy"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Analysis_(disambiguation)",
-      "Wikipedia",
-      "Analysis",
-      "\n<a href=\"http://duckduckgo.com/Philosophical_analysis\">Philosophical analysis</a> - Philosophical analysis is a general term for techniques typically used by philosophers in the analytic tradition that involve \"breaking down\" philosophical issues.",
-      "http://www.merriam-webster.com/dictionary/analysis",
-      "analysis definition: separation of a whole into its component parts.",
-      "\n<a href=\"http://duckduckgo.com/Analysis_(radio_programme)\">Analysis (radio programme)</a>, a half-hour BBC Radio 4 documentary programme",
-      "\n<a href=\"http://duckduckgo.com/Psychoanalysis\">Psychoanalysis</a> - Psychoanalysis is a psychological and psychotherapeutic theory founded in the late 19th century by Austrian neurologist Sigmund Freud.",
-      "HASH(0x51865e0)",
-      "\n<a href=\"http://duckduckgo.com/Analysis\">Analysis</a> is the process of observing and breaking down a complex topic or substance into smaller parts to gain a better understanding of it.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Analysis_(journal)\">Analysis (journal)</a>, a major international journal of philosophy",
-      "HASH(0x52f29b8)",
-      "\n<a href=\"http://duckduckgo.com/Market_analysis\">Market analysis</a>, the study of the attractiveness and the dynamics of a <a href=\"http://duckduckgo.com/?q=market\">market</a> within an industry.",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Mathematical_analysis\">Mathematical analysis</a> - Mathematical analysis is a branch of mathematics that includes the theories of differentiation, integration, measure, limits, infinite series, and analytic functions."
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Analysis_reveals_that_New_York_City_tunnels_are_susceptible_to_attacks\" title=\"Analysis reveals that New York City tunnels are susceptible to attacks\"><span class=\"searchmatch\">Analysis</span> reveals that New York City tunnels are susceptible to attacks</a>",
@@ -103,14 +86,30 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Analysis_(disambiguation)",
+      "Wikipedia",
+      "Analysis",
+      "\n<a href=\"http://duckduckgo.com/Philosophical_analysis\">Philosophical analysis</a> - Philosophical analysis is a general term for techniques typically used by philosophers in the analytic tradition that involve \"breaking down\" philosophical issues.",
+      "http://www.merriam-webster.com/dictionary/analysis",
+      "analysis definition: separation of a whole into its component parts.",
+      "\n<a href=\"http://duckduckgo.com/Analysis_(radio_programme)\">Analysis (radio programme)</a>, a half-hour BBC Radio 4 documentary programme",
+      "\n<a href=\"http://duckduckgo.com/Psychoanalysis\">Psychoanalysis</a> - Psychoanalysis is a psychological and psychotherapeutic theory founded in the late 19th century by Austrian neurologist Sigmund Freud.",
+      "HASH(0x51865e0)",
+      "\n<a href=\"http://duckduckgo.com/Analysis\">Analysis</a> is the process of observing and breaking down a complex topic or substance into smaller parts to gain a better understanding of it.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Analysis_(journal)\">Analysis (journal)</a>, a major international journal of philosophy",
+      "HASH(0x52f29b8)",
+      "\n<a href=\"http://duckduckgo.com/Market_analysis\">Market analysis</a>, the study of the attractiveness and the dynamics of a <a href=\"http://duckduckgo.com/?q=market\">market</a> within an industry.",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Mathematical_analysis\">Mathematical analysis</a> - Mathematical analysis is a branch of mathematics that includes the theories of differentiation, integration, measure, limits, infinite series, and analytic functions."
+   ],
    "micro-www-search" : [
       "analysis\n>http\nhttp://en.m.wikipedia.org/wiki/Analysis\nhttp://en.wikipedia.org/w/index.php?title=Analysis&oldid=539735113\nhttp://philpapers.org/browse/conceptual-analysis\nhttp://plato.stanford.edu/entries/analysis\nhttp://plato.stanford.edu/entries/analysis/\nhttp://www.etymonline.com/index.php?term=analysis\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png\n\n",
       "Analysis_(mathematics)\n>pdf\nhttp://www.math.harvard.edu/~ctm/home/text/class/harvard/114/07/html/home/course/course.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Nuvola_apps_kmplot.svg/28px-Nuvola_apps_kmplot.svg.png\n\n",
       "Analysis\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png\n"
    ],
    "created" : 1373458955,
-   "book" : [],
    "micro-www" : {
       "analysis" : [
          "analysis",
@@ -119,6 +118,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Critical thinking",

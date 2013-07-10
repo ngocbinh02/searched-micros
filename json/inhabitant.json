@@ -70,19 +70,7 @@
       "cause",
       "whole"
    ],
-   "duck" : [
-      "One that inhabits a place, especially as a permanent resident: the inhabitants of a fishing village; snakes, lizards, and other inhabitants of the desert.",
-      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=inhabitant",
-      "HASH(0x5da94c8)",
-      "The Free Dictionary",
-      "inhabitant",
-      "http://www.merriam-webster.com/dictionary/inhabitant",
-      "inhabitant definition: one that occupies a particular place regularly, routinely, or for a period of time.",
-      "Merriam-Webster",
-      "HASH(0x5d7a920)",
-      "One that inhabits a place, especially as a permanent resident: the inhabitants of a fishing village; snakes, lizards, and other inhabitants of the desert.",
-      "A"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Philarmonia_Orchestra_of_Craiova,_Romania,_goes_on_%E2%80%9CTour_in_the_city%E2%80%9D\" title=\"Philarmonia Orchestra of Craiova, Romania, goes on “Tour in the city”\">Philarmonia Orchestra of Craiova, Romania, goes on “Tour in the city”</a>",
@@ -110,15 +98,27 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "One that inhabits a place, especially as a permanent resident: the inhabitants of a fishing village; snakes, lizards, and other inhabitants of the desert.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=inhabitant",
+      "HASH(0x5da94c8)",
+      "The Free Dictionary",
+      "inhabitant",
+      "http://www.merriam-webster.com/dictionary/inhabitant",
+      "inhabitant definition: one that occupies a particular place regularly, routinely, or for a period of time.",
+      "Merriam-Webster",
+      "HASH(0x5d7a920)",
+      "One that inhabits a place, especially as a permanent resident: the inhabitants of a fishing village; snakes, lizards, and other inhabitants of the desert.",
+      "A"
+   ],
    "micro-www-search" : [],
    "created" : 1373455522,
-   "book" : [],
    "micro-www" : {
       "inhabitant" : [
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Residency|*"

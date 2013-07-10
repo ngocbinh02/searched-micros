@@ -1,7 +1,4 @@
 {
-   "micrownet" : [
-      "cognition"
-   ],
    "google" : [
       "/url?q=http://en.wikipedia.org/wiki/Cognition&sa=U&ei=NVXYUeDNAoWItQbsjoCwCA&ved=0CBgQFjAA&usg=AFQjCNH4iU1eSj2tijJUu20jizHcLViZOQ",
       "/url?q=http://www.journals.elsevier.com/cognition/&sa=U&ei=NVXYUeDNAoWItQbsjoCwCA&ved=0CCEQFjAB&usg=AFQjCNHzZC903MMD6wrUngYoYP3wvYaQfw",
@@ -26,6 +23,9 @@
       "/url?q=http://en.wiktionary.org/wiki/cognition&sa=U&ei=NVXYUeDNAoWItQbsjoCwCA&ved=0CGkQFjAV&usg=AFQjCNEwapTX8_qDGY36pKsYJrg5yxVC6w",
       "/url?q=http://www.ccd.edu.au/&sa=U&ei=NVXYUeDNAoWItQbsjoCwCA&ved=0CGwQFjAW&usg=AFQjCNFiBVDOR4MCY7uou4bYORPyVKOBrg",
       "/url?q=http://www.columbia.edu/~ah2240/&sa=U&ei=NVXYUeDNAoWItQbsjoCwCA&ved=0CG8QFjAX&usg=AFQjCNFKaXqSTm9zpiC9ULEwvDWNwNtWVg"
+   ],
+   "micrownet" : [
+      "cognition"
    ],
    "duckduckgo" : {
       "urls" : [

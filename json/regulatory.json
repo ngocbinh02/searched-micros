@@ -9,7 +9,28 @@
       "regulatory_offense"
    ],
    "micro" : [],
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Regulation",
+      "\n<a href=\"http://duckduckgo.com/Rule_of_law\">Rule of law</a> - The rule of law generally refers to the \"authority and influence of law in society,\" especially as a constraint upon behavior, including behavior of government officials.",
+      "Wikipedia",
+      "Regulation",
+      "\n<a href=\"http://duckduckgo.com/Rulemaking\">Rulemaking</a> - In administrative law, rule-making refers to the process that executive and independent agencies use to create, or promulgate, regulations.",
+      "http://www.merriam-webster.com/dictionary/regulation",
+      "\n<a href=\"http://duckduckgo.com/Sociology_of_law\">Sociology of law</a> - The sociology of law is often described as a sub-discipline of sociology or an interdisciplinary approach within legal studies.",
+      "regulation definition: the act of regulating.",
+      "\n<a href=\"http://duckduckgo.com/Regulatory_State\">Regulatory State</a> - In United States constitutional law, police power is the capacity of the federal government and the states to regulate behavior and enforce order within their territory for the betterment of the...",
+      "\n<a href=\"http://duckduckgo.com/Media_regulation\">Media regulation</a> - Media regulation is the control or guidance of mass media by governments and other bodies.",
+      "Regulation is the promulgation, monitoring, and enforcement of rules.",
+      "HASH(0x5063400)",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/c/Legal_research\">Legal research</a>",
+      "\n<a href=\"http://duckduckgo.com/Consumer_protection\">Consumer protection</a> - Consumer protection is a group of laws and organizations designed to ensure the rights of consumers as well as fair trade competition and the free flow of truthful information in the marketplace.",
+      "\n<a href=\"http://duckduckgo.com/c/Economics_of_regulation\">Economics of regulation</a>",
+      "\n<a href=\"http://duckduckgo.com/c/Regulation\">Regulation Category</a>",
+      "HASH(0x50b3b78)",
+      "A",
+      "Regulation is the promulgation, monitoring, and enforcement of rules."
+   ],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Maine,_USA,_Land_Use_Regulatory_Commission_approves_reconstruction_of_camps_on_protected_Allagash_River\" title=\"Maine, USA, Land Use Regulatory Commission approves reconstruction of camps on protected Allagash River\">Maine, USA, Land Use <span class=\"searchmatch\">Regulatory</span> Commission approves reconstruction of camps on protected Allagash River</a>",
@@ -38,28 +59,7 @@
          []
       ]
    },
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Regulation",
-      "\n<a href=\"http://duckduckgo.com/Rule_of_law\">Rule of law</a> - The rule of law generally refers to the \"authority and influence of law in society,\" especially as a constraint upon behavior, including behavior of government officials.",
-      "Wikipedia",
-      "Regulation",
-      "\n<a href=\"http://duckduckgo.com/Rulemaking\">Rulemaking</a> - In administrative law, rule-making refers to the process that executive and independent agencies use to create, or promulgate, regulations.",
-      "http://www.merriam-webster.com/dictionary/regulation",
-      "\n<a href=\"http://duckduckgo.com/Sociology_of_law\">Sociology of law</a> - The sociology of law is often described as a sub-discipline of sociology or an interdisciplinary approach within legal studies.",
-      "regulation definition: the act of regulating.",
-      "\n<a href=\"http://duckduckgo.com/Regulatory_State\">Regulatory State</a> - In United States constitutional law, police power is the capacity of the federal government and the states to regulate behavior and enforce order within their territory for the betterment of the...",
-      "\n<a href=\"http://duckduckgo.com/Media_regulation\">Media regulation</a> - Media regulation is the control or guidance of mass media by governments and other bodies.",
-      "Regulation is the promulgation, monitoring, and enforcement of rules.",
-      "HASH(0x5063400)",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/c/Legal_research\">Legal research</a>",
-      "\n<a href=\"http://duckduckgo.com/Consumer_protection\">Consumer protection</a> - Consumer protection is a group of laws and organizations designed to ensure the rights of consumers as well as fair trade competition and the free flow of truthful information in the marketplace.",
-      "\n<a href=\"http://duckduckgo.com/c/Economics_of_regulation\">Economics of regulation</a>",
-      "\n<a href=\"http://duckduckgo.com/c/Regulation\">Regulation Category</a>",
-      "HASH(0x50b3b78)",
-      "A",
-      "Regulation is the promulgation, monitoring, and enforcement of rules."
-   ],
+   "Lists" : [],
    "micro-www-search" : [
       "regulatory\n>http\nhttp://regulatorylaw.co.uk/index.html\nhttp://www.mercatus.org/regulatorystudies/index.php\nhttp://www.parliament.uk/parliamentary_committees/regulatory_reform_committee/regulatory_reform_orders.cfm\nhttp://www.regulatorylawreview.com\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n\n",
       "Regulatory_sequence\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/6/61/DNA_stub.png/40px-DNA_stub.png\n\n",
@@ -71,6 +71,7 @@
       "Regulatory"
    ],
    "created" : 1373459857,
+   "book" : [],
    "micro-www" : {
       "regulatory" : [
          "regulatory",
@@ -84,7 +85,6 @@
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [
          "Regulation|",

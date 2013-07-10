@@ -12,32 +12,8 @@
       "sight",
       "observe"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Observation",
-      "\n<a href=\"http://duckduckgo.com/c/Aptitude\">Aptitude</a>",
-      "\n<a href=\"http://duckduckgo.com/Observational_learning\">Observational learning</a> - Observational learning is the learning that occurs through observing the behavior of other people.",
-      "Wikipedia",
-      "Observation",
-      "http://www.merriam-webster.com/dictionary/observation",
-      "observation definition: an act or instance of observing a custom, rule, or law.",
-      "\n<a href=\"http://duckduckgo.com/c/Experiments\">Experiments</a>",
-      "\n<a href=\"http://duckduckgo.com/c/Perception\">Perception</a>",
-      "\n<a href=\"http://duckduckgo.com/d/Observer_effect\">Observer effect Meanings</a>",
-      "\n<a href=\"http://duckduckgo.com/c/Sources_of_knowledge\">Sources of knowledge</a>",
-      "Observation is an activity of a living being, such as a human, which is necessary in order to receive knowledge of the world or about the environment through the senses, which often later involves the recording of data via the use of scientific instruments.",
-      "\n<a href=\"http://duckduckgo.com/Introspection\">Introspection</a> - Introspection is examination of one's own conscious thoughts and feelings.",
-      "HASH(0x4f67d48)",
-      "\n<a href=\"http://duckduckgo.com/c/Philosophy_of_science\">Philosophy of science</a>",
-      "\n<a href=\"http://duckduckgo.com/Observations_and_Measurements\">Observations and Measurements</a> - Observations and Measurements (O&M) is an International Standard  which defines a conceptual schema encoding for observations, and for features involved in sampling when making observations.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Observations_(Pierre_Belon)\">Observations (Pierre Belon)</a> - Les observations de plusieurs singularitez et choses memorables trouvées en Grèce, Asie, Judée, Egypte, Arabie et autres pays étrangèrs is a work of ethnographical, botanical and zoological ...",
-      "\n<a href=\"http://duckduckgo.com/Naturalistic_observation\">Naturalistic observation</a> - Naturalistic observation is, in contrast to analog observation, a research tool in which a subject is observed in its natural habitat without any manipulation by the observer.",
-      "\n<a href=\"http://duckduckgo.com/c/Scientific_method\">Scientific method</a>",
-      "HASH(0x51e5720)",
-      "\n<a href=\"http://duckduckgo.com/c/Observation\">Observation Category</a>",
-      "\n<a href=\"http://duckduckgo.com/c/Cognition\">Cognition</a>",
-      "A",
-      "Observation is an activity of a living being, such as a human, which is necessary in order to receive knowledge of the world or about the environment through the senses, which often later involves the recording of data via the use of scientific instruments."
+   "Lists" : [
+      "List_of_cognitive_biases"
    ],
    "common" : {
       "milestones" : [
@@ -68,20 +44,44 @@
          []
       ]
    },
-   "Lists" : [
-      "List_of_cognitive_biases"
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Observation",
+      "\n<a href=\"http://duckduckgo.com/c/Aptitude\">Aptitude</a>",
+      "\n<a href=\"http://duckduckgo.com/Observational_learning\">Observational learning</a> - Observational learning is the learning that occurs through observing the behavior of other people.",
+      "Wikipedia",
+      "Observation",
+      "http://www.merriam-webster.com/dictionary/observation",
+      "observation definition: an act or instance of observing a custom, rule, or law.",
+      "\n<a href=\"http://duckduckgo.com/c/Experiments\">Experiments</a>",
+      "\n<a href=\"http://duckduckgo.com/c/Perception\">Perception</a>",
+      "\n<a href=\"http://duckduckgo.com/d/Observer_effect\">Observer effect Meanings</a>",
+      "\n<a href=\"http://duckduckgo.com/c/Sources_of_knowledge\">Sources of knowledge</a>",
+      "Observation is an activity of a living being, such as a human, which is necessary in order to receive knowledge of the world or about the environment through the senses, which often later involves the recording of data via the use of scientific instruments.",
+      "\n<a href=\"http://duckduckgo.com/Introspection\">Introspection</a> - Introspection is examination of one's own conscious thoughts and feelings.",
+      "HASH(0x4f67d48)",
+      "\n<a href=\"http://duckduckgo.com/c/Philosophy_of_science\">Philosophy of science</a>",
+      "\n<a href=\"http://duckduckgo.com/Observations_and_Measurements\">Observations and Measurements</a> - Observations and Measurements (O&M) is an International Standard  which defines a conceptual schema encoding for observations, and for features involved in sampling when making observations.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Observations_(Pierre_Belon)\">Observations (Pierre Belon)</a> - Les observations de plusieurs singularitez et choses memorables trouvées en Grèce, Asie, Judée, Egypte, Arabie et autres pays étrangèrs is a work of ethnographical, botanical and zoological ...",
+      "\n<a href=\"http://duckduckgo.com/Naturalistic_observation\">Naturalistic observation</a> - Naturalistic observation is, in contrast to analog observation, a research tool in which a subject is observed in its natural habitat without any manipulation by the observer.",
+      "\n<a href=\"http://duckduckgo.com/c/Scientific_method\">Scientific method</a>",
+      "HASH(0x51e5720)",
+      "\n<a href=\"http://duckduckgo.com/c/Observation\">Observation Category</a>",
+      "\n<a href=\"http://duckduckgo.com/c/Cognition\">Cognition</a>",
+      "A",
+      "Observation is an activity of a living being, such as a human, which is necessary in order to receive knowledge of the world or about the environment through the senses, which often later involves the recording of data via the use of scientific instruments."
    ],
    "micro-www-search" : [
       "observed\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n"
    ],
    "created" : 1373458844,
-   "book" : [],
    "micro-www" : {
       "observed" : [
          "observed",
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Aptitude",

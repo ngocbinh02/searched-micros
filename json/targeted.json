@@ -10,17 +10,7 @@
       "take_aim",
       "place"
    ],
-   "duck" : [
-      "An object, such as a padded disk with a marked surface, that is shot at to test accuracy in rifle or archery practice.",
-      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=Targeted",
-      "HASH(0x4d8d830)",
-      "The Free Dictionary",
-      "Targeted",
-      "An object, such as a padded disk with a marked surface, that is shot at to test accuracy in rifle or archery practice.",
-      "HASH(0x4e19d28)",
-      "An object, such as a padded disk with a marked surface, that is shot at to test accuracy in rifle or archery practice.",
-      "A"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Targeted_killing\" title=\"Targeted killing\"><span class=\"searchmatch\">Targeted</span> killing</a>",
@@ -50,13 +40,22 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "An object, such as a padded disk with a marked surface, that is shot at to test accuracy in rifle or archery practice.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=Targeted",
+      "HASH(0x4d8d830)",
+      "The Free Dictionary",
+      "Targeted",
+      "An object, such as a padded disk with a marked surface, that is shot at to test accuracy in rifle or archery practice.",
+      "HASH(0x4e19d28)",
+      "An object, such as a padded disk with a marked surface, that is shot at to test accuracy in rifle or archery practice.",
+      "A"
+   ],
    "micro-www-search" : [
       "Targeted_therapy\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mechanism_imatinib.svg/300px-Mechanism_imatinib.svg.png\n\n",
       "Targeted_advertising\n>http\nhttp://curiosity.discovery.com/question/targeted-advertising\nhttp://en.m.wikipedia.org/wiki/Targeted_advertising\nhttp://en.wikipedia.org/w/index.php?title=Targeted_advertising&oldid=543826413\nhttp://news.yahoo.com/americans-not-fans-online-targeted-ads-survey-202406653.html\nhttp://www.privacyinternational.org/article/online-behavioural-targeted-advertising-%E2%80%93-privacy-international%E2%80%99s-position\n\n>pdf\nhttp://faculty.haas.berkeley.edu/giyer/index_files/tgtadv.pdf\nhttp://faculty.haas.berkeley.edu/giyer/index_files/tgtadv.pdf\nhttp://www.networkadvertising.org/pdfs/Beales_NAI_Study.pdf\nhttp://www2012.wwwconference.org/proceedings/proceedings/p111.pdf\nhttp://www.networkadvertising.org/pdfs/Beales_NAI_Study.pdf\n"
    ],
    "created" : 1373460284,
-   "book" : [],
    "micro-www" : {
       "targeted" : [
          "Targeted_therapy",
@@ -64,5 +63,6 @@
          ""
       ]
    },
+   "book" : [],
    "micro-relation" : []
 }

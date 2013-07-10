@@ -129,7 +129,27 @@
       "entry_word",
       "constituent"
    ],
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Form",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Form_(exercise)\">Form (exercise)</a>, a proper way of performing an exercise",
+      "Form",
+      "http://www.merriam-webster.com/dictionary/form",
+      "form definition: the shape and structure of something as distinguished from its material.",
+      "\n<a href=\"http://duckduckgo.com/Form_(document)\">Form (document)</a>, a document (printed or electronic) with spaces in which to write or enter data",
+      "\n<a href=\"http://duckduckgo.com/Form_(education)\">Form (education)</a>, a class, set or group of students",
+      "\n<a href=\"http://duckduckgo.com/Criminal_record\">Criminal record</a>, slang",
+      "HASH(0x4f680d8)",
+      "\n<a href=\"http://duckduckgo.com/Sixth_form\">Sixth form</a>, an English term for the final two years of secondary school",
+      "\n<a href=\"http://duckduckgo.com/Form_(horse_racing)\">Form (horse racing)</a>, a record of a racehorse's performance, or similarly for an athlete",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Form_(religion)\">Form (religion)</a>, an academic term for prescriptions or norms on religious practice",
+      "\n<a href=\"http://duckduckgo.com/Form_(nest)\">Form (nest)</a>, a shallow depression or flattened nest of grass used by a <a href=\"http://duckduckgo.com/?q=hare\">hare</a>",
+      "HASH(0x4f5fa10)",
+      "\n<a href=\"http://duckduckgo.com/Musical_form\">Musical form</a>, a generic type of composition or the structure of a particular piece",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Theory_of_Forms\">Theory of Forms</a>, asserts that ideas possess the highest and most fundamental kind of reality"
+   ],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tropical_Storm_Adrian_forms_in_Eastern_Pacific,_threatens_Central_America\" title=\"Tropical Storm Adrian forms in Eastern Pacific, threatens Central America\">Tropical Storm Adrian <span class=\"searchmatch\">forms</span> in Eastern Pacific, threatens Central America</a>",
@@ -158,27 +178,7 @@
          []
       ]
    },
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Form",
-      "Wikipedia",
-      "\n<a href=\"http://duckduckgo.com/Form_(exercise)\">Form (exercise)</a>, a proper way of performing an exercise",
-      "Form",
-      "http://www.merriam-webster.com/dictionary/form",
-      "form definition: the shape and structure of something as distinguished from its material.",
-      "\n<a href=\"http://duckduckgo.com/Form_(document)\">Form (document)</a>, a document (printed or electronic) with spaces in which to write or enter data",
-      "\n<a href=\"http://duckduckgo.com/Form_(education)\">Form (education)</a>, a class, set or group of students",
-      "\n<a href=\"http://duckduckgo.com/Criminal_record\">Criminal record</a>, slang",
-      "HASH(0x4f680d8)",
-      "\n<a href=\"http://duckduckgo.com/Sixth_form\">Sixth form</a>, an English term for the final two years of secondary school",
-      "\n<a href=\"http://duckduckgo.com/Form_(horse_racing)\">Form (horse racing)</a>, a record of a racehorse's performance, or similarly for an athlete",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Form_(religion)\">Form (religion)</a>, an academic term for prescriptions or norms on religious practice",
-      "\n<a href=\"http://duckduckgo.com/Form_(nest)\">Form (nest)</a>, a shallow depression or flattened nest of grass used by a <a href=\"http://duckduckgo.com/?q=hare\">hare</a>",
-      "HASH(0x4f5fa10)",
-      "\n<a href=\"http://duckduckgo.com/Musical_form\">Musical form</a>, a generic type of composition or the structure of a particular piece",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Theory_of_Forms\">Theory of Forms</a>, asserts that ideas possess the highest and most fundamental kind of reality"
-   ],
+   "Lists" : [],
    "micro-www-search" : [
       "formulation\n>http\nhttp://en.m.wikipedia.org/wiki/Formulation\nhttp://en.wikipedia.org/w/index.php?title=Formulation&oldid=543317507\nhttp://sites.google.com/site/formulationcalculation/\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Linguistics_stub.svg/40px-Linguistics_stub.svg.png\n\n",
       "formula\n>image\nhttp://upload.wikimedia.org/math/5/7/2/572d25e6055562df4d0f4fb65c0924e0.png\n\n",
@@ -229,6 +229,7 @@
       "Form_(disambiguation)\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n"
    ],
    "created" : 1373459709,
+   "book" : [],
    "micro-www" : {
       "form" : [
          "formulation",
@@ -281,7 +282,6 @@
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n\n\n'Form' is the shape, visual appearance, constitution or configuration of an\nobject. In a wider sense, the form is the way something is or happens, the\nanswer to \"how?\". When then considering the idea of global form, the sense of\nform reaches the one of [[Gestalt]], as in Gestalt psychology.\n\n'Form' may also refer to the following:\n\n*Form (document), a document (printed or electronic) with spaces in which to\nwrite or enter data *Form (education), a class, set or group of students *Form\n(exercise), a proper way of performing an exercise *Form (horse racing), a\nrecord of a racehorse's performance, or similarly for an athlete *Form (nest), a\nshallow depression or flattened nest of grass used by a hare *Form (religion),\nan academic term for prescriptions or norms on religious practice *Musical form,\na generic type of composition or the structure of a particular piece *Criminal\nrecord, slang\n",

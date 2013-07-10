@@ -1,0 +1,65 @@
+{
+   "micrownet" : [
+      "fomite"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "A fomite is any inanimate object or substance capable of carrying infectious organisms, such as germs or parasites, and hence transferring them from one individual to another.",
+      "https://en.wikipedia.org/wiki/Fomite",
+      "\n<a href=\"http://duckduckgo.com/c/Epidemiology\">Epidemiology</a>",
+      "HASH(0x4a8e140)",
+      "Wikipedia",
+      "Fomite",
+      "\n<a href=\"http://duckduckgo.com/c/Hygiene\">Hygiene</a>",
+      "http://www.merriam-webster.com/dictionary/fomite",
+      "\n<a href=\"http://duckduckgo.com/Vector_(epidemiology)\">Vector (epidemiology)</a> - In epidemiology, a vector is any agent that carries and transmits an infectious pathogen into another living organism.",
+      "fomite definition: an object (as a dish or an article of clothing) that may be contaminated with infectious organisms and serve in their transmission.",
+      "Merriam-Webster",
+      "HASH(0x4a8fc68)",
+      "A fomite is any inanimate object or substance capable of carrying infectious organisms, such as germs or parasites, and hence transferring them from one individual to another.",
+      "A"
+   ],
+   "created" : 1373461729,
+   "book" : [],
+   "micro-www" : {
+      "fomite" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Microbiology",
+         "Epidemiology",
+         "Hygiene",
+         "Medical terminology"
+      ],
+      "text" : "A 'fomite' is any object or substance capable of carrying infectious organisms,\nsuch as germs or parasites, and hence transferring them from one individual to\nanother. Skin cells, hair, clothing, and bedding are common hospital sources of\ncontamination.\n\nFomites are associated particularly with hospital acquired infections (HAI), as\nthey are possible routes to pass pathogens between patients. Stethoscopes and\nneckties are two such fomites associated with health care providers. Basic\nhospital equipment, such as IV drip tubes, catheters, and life support equipment\ncan also be carriers, when the pathogens form biofilms on the surfaces. Careful\nsterilization of such objects prevents cross-infection.\n\nResearchers have discovered that smooth (non-porous) surfaces (e.g. door knobs)\ntransmit bacteria and viruses better than porous materials (e.g. paper\nmoney).<ref>{{Cite journal\n| volume = 60 issue = 10 last = Abad first = F X coauthors = R M Pintó, A. Bosch\n| title = Survival of enteric viruses on environmental fomites journal = Applied\n| and Environmental Microbiology date = 1994-10\n|pmid= 7986043\n| pages = 3704–10 pmc = 201876\n}}</ref><ref>{{Cite journal\n| volume = 95 issue = 12 pages = 1408–10 last = Pope first = Theodore W\n| coauthors = Peter T Ender, William K Woelk, Michael A Koroscil, Thomas M\n| Koroscil title = Bacterial contamination of paper currency journal = Southern\n| Medical Journal date = 2002-12 pmid=12597308\n}}</ref> The reason is that porous, especially fibrous, materials absorb and\ntrap the contagion, making it harder to contract through simple touch.\n\nThe term “fomite” gained popularity after being used in the 2011 film\n[[Contagion (film)|Contagion]], although its use led people to believe that the\nterm referred to germs spread through touching such objects, instead of the\nobjects themselves.\n",
+      "title" : "fomite",
+      "headings" : [
+         "Etymology",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "1: Infectious_organism",
+      "1: Microorganism",
+      "1: Parasite",
+      "1: Nosocomial_infection",
+      "1: Stethoscope",
+      "1: Necktie",
+      "1: Health_care_providers",
+      "1: Intravenous_therapy",
+      "1: Catheter",
+      "1: Biofilm",
+      "1: Tinder"
+   ]
+}

@@ -82,20 +82,7 @@
       "effort",
       "line-drive_single"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Single",
-      "HASH(0x5c8d8d8)",
-      "Wikipedia",
-      "Single",
-      "\n<a href=\"http://duckduckgo.com/Single_coil\">Single coil</a>, an electromagnetic guitar pickup type",
-      "http://www.merriam-webster.com/dictionary/single",
-      "\n<a href=\"http://duckduckgo.com/Single_(music)\">Single (music)</a>, a song release",
-      "single definition: not married.",
-      "Merriam-Webster",
-      "HASH(0x5c93e60)",
-      "\n<a href=\"http://duckduckgo.com/Single_person\">Single person</a>, a person who is not married; usually refers today to someone who is neither married nor in a sexual relationship",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Swiss_reject_single_health_insurance\" title=\"Swiss reject single health insurance\">Swiss reject <span class=\"searchmatch\">single</span> health insurance</a>",
@@ -125,7 +112,20 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Single",
+      "HASH(0x5c8d8d8)",
+      "Wikipedia",
+      "Single",
+      "\n<a href=\"http://duckduckgo.com/Single_coil\">Single coil</a>, an electromagnetic guitar pickup type",
+      "http://www.merriam-webster.com/dictionary/single",
+      "\n<a href=\"http://duckduckgo.com/Single_(music)\">Single (music)</a>, a song release",
+      "single definition: not married.",
+      "Merriam-Webster",
+      "HASH(0x5c93e60)",
+      "\n<a href=\"http://duckduckgo.com/Single_person\">Single person</a>, a person who is not married; usually refers today to someone who is neither married nor in a sexual relationship",
+      "D"
+   ],
    "micro-www-search" : [
       "singlet\n>http\nhttp://en.m.wikipedia.org/wiki/Singlet\nhttp://en.wikipedia.org/w/index.php?title=Singlet&oldid=544375801\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "single-grain_experiment\n>http\nhttp://en.m.wikipedia.org/wiki/Single-grain_experiment\nhttp://en.wikipedia.org/w/index.php?title=Single-grain_experiment&oldid=498690649\n\n>pdf\nhttp://legistar.cityofmadison.com/attachments/4687.pdf\nhttp://legistar.cityofmadison.com/attachments/4687.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Foodlogo2.svg/32px-Foodlogo2.svg.png\n\n",
@@ -165,7 +165,6 @@
       "Single-access_key\n>http\nhttp://en.m.wikipedia.org/wiki/Single-access_key\nhttp://en.wikipedia.org/w/index.php?title=Single-access_key&oldid=540699775\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/40px-Wikibooks-logo-en-noslogan.svg.png\n"
    ],
    "created" : 1373455900,
-   "book" : [],
    "micro-www" : {
       "single" : [
          "singlet",
@@ -207,6 +206,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n'Single' may refer to:\n\nIn 'music':\n* Single (music), a song release\n* \"Single\" (Natasha Bedingfield song)\n* \"Single\" (New Kids on the Block and Ne-Yo song)\n* Single coil, an electromagnetic guitar pickup type\n\nIn 'sports':\n* Single (baseball), the most common type of base hit\n* Single (cricket), point in cricket\n* Single (football), Canadian football point\n* Single scull, a rowing boat propelled by a single rower with two oars\n\nIn 'other fields':\n* Single (mathematics) (1-tuple), a list or sequence with only one element\n* \"Single\", a slang term for a one dollar bill.\n* Single, a single-unit type of apartment dwelling also known as a studio\n* \"Single\", in Dublin and other parts of Ireland, a single portion of chips,\n  especially as part of the popular take-away meal fish and chips.\n* Single (bet), a type of bet made on one selection\n* Single (locomotive), a steam locomotive with a single pair of driving wheels\n* Single-cylinder engine, an engine with one piston\n* Single person, a person who is not married; usually refers today to someone\n  who is neither married nor in a sexual relationship\n* Single precision, a computer numbering format that occupies one storage\n  location in computer memory at a given address\n",

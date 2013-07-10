@@ -1,4 +1,5 @@
 {
+   "micrownet" : [],
    "google" : [
       "/url?q=https://en.wikipedia.org/wiki/Extraterrestrial&sa=U&ei=OeDYUaeKMYmGOJzegbgF&ved=0CBgQFjAA&usg=AFQjCNFsFl-fGmiNrYT2vWeYWzLc7kSLgA",
       "/url?q=http://en.wikipedia.org/wiki/Extraterrestrial_life&sa=U&ei=OeDYUaeKMYmGOJzegbgF&ved=0CBsQFjAB&usg=AFQjCNH66VGakWj4I0jc4yegGJUBScXBcQ",
@@ -10,7 +11,6 @@
       "/url?q=http://setiathome.berkeley.edu/&sa=U&ei=OeDYUaeKMYmGOJzegbgF&ved=0CEAQFjAJ&usg=AFQjCNE9kJQ0Pt5O8MsbMwFNZIDFR1TDMw",
       "/url?q=https://www.coursera.org/course/astrobio&sa=U&ei=OeDYUaeKMYmGOJzegbgF&ved=0CEQQFjAK&usg=AFQjCNFKZHTglHg8lOEJjaf29di3I9UslQ"
    ],
-   "micrownet" : [],
    "micro" : [
       "ability",
       "abstraction",
@@ -34,7 +34,19 @@
       "imaginary_being",
       "psychological_feature"
    ],
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Extraterrestrial_life\">Extraterrestrial life</a>, in scientific context, hypothetical life that exists outside Earth",
+      "\n<a href=\"http://duckduckgo.com/Extraterrestrial_(film)\">Extraterrestrial (film)</a>, 2012 film by Nacho Vigalondo",
+      "\n<a href=\"http://duckduckgo.com/Extraterrestrials_in_fiction\">Extraterrestrials in fiction</a>",
+      "\n<a href=\"http://duckduckgo.com/E.T._the_Extra-Terrestrial\">E.T. the Extra-Terrestrial</a>, 1982 film by Steven Spielberg",
+      "\n<a href=\"http://duckduckgo.com/E.T._(song)\">E.T. (song)</a>, song by Katy Perry",
+      "Extraterrestrial",
+      "http://www.merriam-webster.com/dictionary/extraterrestrial",
+      "extraterrestrial definition: originating, existing, or occurring outside the earth or its atmosphere.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/aurelia_and_Blue_Moon\">Extraterrestrial (TV program)</a>, a program on the National Geographic Channel",
+      "\n<a href=\"http://duckduckgo.com/Outer_space\">Outer space</a>, the location of things that are \"outside Earth\""
+   ],
    "common" : {
       "news" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Searching_for_asteroids,_extraterrestrial_life_a_little_more_rocky:_Budget_cuts_threaten_to_close_Arecibo,_world%27s_largest_radio_telescope\" title=\"Searching for asteroids, extraterrestrial life a little more rocky: Budget cuts threaten to close Arecibo, world&#39;s largest radio telescope\">Searching for asteroids, <span class=\"searchmatch\">extraterrestrial</span> life a little more rocky: Budget cuts threaten to close Arecibo, world&#39;s largest radio telescope</a>",
@@ -60,19 +72,7 @@
          []
       ]
    },
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Extraterrestrial_life\">Extraterrestrial life</a>, in scientific context, hypothetical life that exists outside Earth",
-      "\n<a href=\"http://duckduckgo.com/Extraterrestrial_(film)\">Extraterrestrial (film)</a>, 2012 film by Nacho Vigalondo",
-      "\n<a href=\"http://duckduckgo.com/Extraterrestrials_in_fiction\">Extraterrestrials in fiction</a>",
-      "\n<a href=\"http://duckduckgo.com/E.T._the_Extra-Terrestrial\">E.T. the Extra-Terrestrial</a>, 1982 film by Steven Spielberg",
-      "\n<a href=\"http://duckduckgo.com/E.T._(song)\">E.T. (song)</a>, song by Katy Perry",
-      "Extraterrestrial",
-      "http://www.merriam-webster.com/dictionary/extraterrestrial",
-      "extraterrestrial definition: originating, existing, or occurring outside the earth or its atmosphere.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/aurelia_and_Blue_Moon\">Extraterrestrial (TV program)</a>, a program on the National Geographic Channel",
-      "\n<a href=\"http://duckduckgo.com/Outer_space\">Outer space</a>, the location of things that are \"outside Earth\""
-   ],
+   "Lists" : [],
    "micro-www-search" : [
       "extraterrestrials\n>http\nhttp://en.wikipedia.org/w/index.php?title=Extraterrestrial_life&oldid=561074454\nhttp://erenlai.com/index.php?option=com_content&view=article&id=4610%3Ataiwans-museum-of-alien-studies-a-new-view-of-the-extraterrestrial&catid=673%3Aopinions-dreams-videos&Itemid=314&lang=en\nhttp://news.discovery.com/space/the-search-for-extraterrestrial-civilizations-comes-of-age.html\nhttp://www.guardian.co.uk/science/2011/mar/06/nasa-scientist-evidence-extraterrestrial-life\nhttp://www.newscientist.com/article/dn9943-top-10-controversial-pieces-of-evidence-for-extraterrestrial-life.html\nhttp://www.torah.org/features/secondlook/extraterrestrial.html\n\n>pdf\nhttp://arxiv.org/ftp/arxiv/papers/1104/1104.4462.pdf\nhttp://arxiv.org/ftp/arxiv/papers/1104/1104.4462.pdf\nhttp://arxiv.org/ftp/arxiv/papers/1304/1304.3381.pdf\nhttp://media.egu2012.eu/media/filer_public/2012/04/05/10_solarsystem_devera.pdf\nhttp://orca.phys.uvic.ca/~hsiao/talks/hsiao_europa.pdf\nhttp://web.archive.org/web/20110807004311http:///gltrs.grc.nasa.gov/reports/2003/TM-2003-212310.pdf\nhttp://www.buckingham.ac.uk/wp-content/uploads/2011/09/Polonnaruwa-meteorite.pdf\nhttp://www.eso.org/public/archives/releases/sciencepapers/eso1234/eso1234a.pdf\nhttp://www.fasebj.org/cgi/reprint/7/1/238.pdf\nhttp://www.ldsces.org/content/talks/general/2002-maxwell-our-creators-cosmos__eng.pdf\nhttp://arxiv.org/ftp/arxiv/papers/1304/1304.3381.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/White_House_position_on_ET.png/200px-White_House_position_on_ET.png\n\n",
       "extraterrestrial_life\n>http\nhttp://en.wikipedia.org/w/index.php?title=Extraterrestrial_life&oldid=561074454\nhttp://erenlai.com/index.php?option=com_content&view=article&id=4610%3Ataiwans-museum-of-alien-studies-a-new-view-of-the-extraterrestrial&catid=673%3Aopinions-dreams-videos&Itemid=314&lang=en\nhttp://news.discovery.com/space/the-search-for-extraterrestrial-civilizations-comes-of-age.html\nhttp://www.guardian.co.uk/science/2011/mar/06/nasa-scientist-evidence-extraterrestrial-life\nhttp://www.newscientist.com/article/dn9943-top-10-controversial-pieces-of-evidence-for-extraterrestrial-life.html\nhttp://www.torah.org/features/secondlook/extraterrestrial.html\n\n>pdf\nhttp://arxiv.org/ftp/arxiv/papers/1104/1104.4462.pdf\nhttp://arxiv.org/ftp/arxiv/papers/1104/1104.4462.pdf\nhttp://arxiv.org/ftp/arxiv/papers/1304/1304.3381.pdf\nhttp://media.egu2012.eu/media/filer_public/2012/04/05/10_solarsystem_devera.pdf\nhttp://orca.phys.uvic.ca/~hsiao/talks/hsiao_europa.pdf\nhttp://web.archive.org/web/20110807004311http:///gltrs.grc.nasa.gov/reports/2003/TM-2003-212310.pdf\nhttp://www.buckingham.ac.uk/wp-content/uploads/2011/09/Polonnaruwa-meteorite.pdf\nhttp://www.eso.org/public/archives/releases/sciencepapers/eso1234/eso1234a.pdf\nhttp://www.fasebj.org/cgi/reprint/7/1/238.pdf\nhttp://www.ldsces.org/content/talks/general/2002-maxwell-our-creators-cosmos__eng.pdf\nhttp://arxiv.org/ftp/arxiv/papers/1304/1304.3381.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/White_House_position_on_ET.png/200px-White_House_position_on_ET.png\n\n",
@@ -82,6 +82,7 @@
       "Extraterrestrial_life\n>pdf\nhttp://arxiv.org/ftp/arxiv/papers/1104/1104.4462.pdf\nhttp://media.egu2012.eu/media/filer_public/2012/04/05/10_solarsystem_devera.pdf\nhttp://www.buckingham.ac.uk/wp-content/uploads/2011/09/Polonnaruwa-meteorite.pdf\nhttp://www.eso.org/public/archives/releases/sciencepapers/eso1234/eso1234a.pdf\nhttp://www.ldsces.org/content/talks/general/2002-maxwell-our-creators-cosmos__eng.pdf\nhttp://www.fasebj.org/cgi/reprint/7/1/238.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/White_House_position_on_ET.png/200px-White_House_position_on_ET.png\n"
    ],
    "created" : 1373448854,
+   "book" : [],
    "micro-www" : {
       "Extraterrestrial" : [
          "extraterrestrials",
@@ -93,7 +94,6 @@
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n'Extraterrestrial' may refer to any object or being beyond () the planet Earth\n(). It is derived from the Latin Root extra (\"outside\", \"outwards\") and\nterrestris (\"earthly\", \"of or relating to the Earth\").\n\nIt may also refer to: *Extraterrestrial life, in scientific context,\nhypothetical life that exists outside Earth *Extraterrestrials in fiction\n*''Extraterrestrial'' (film), 2012 film by Nacho Vigalondo *''Extraterrestrial''\n(TV program), a program on the National Geographic Channel *Outer space, the\nlocation of things that are \"outside Earth\" *[[E.T. the Extra-Terrestrial]],\n1982 film by Steven Spielberg *E.T. (song), song by Issack Ahmed *E.T. (song)\nsong by Katy Perry\n",

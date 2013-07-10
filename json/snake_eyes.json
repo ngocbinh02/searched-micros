@@ -21,10 +21,7 @@
       "two",
       "snake_eyes"
    ],
-   "duck" : [
-      "HASH(0x5ceebe0)",
-      "HASH(0x5cc0588)"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [],
       "image" : [
@@ -32,15 +29,18 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "HASH(0x5ceebe0)",
+      "HASH(0x5cc0588)"
+   ],
    "micro-www-search" : [],
    "created" : 1373456416,
-   "book" : [],
    "micro-www" : {
       "snake_eyes" : [
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Dice",

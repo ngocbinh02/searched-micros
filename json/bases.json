@@ -33,16 +33,7 @@
       "artefact",
       "physical_entity"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Bases",
-      "HASH(0x4fee358)",
-      "Wikipedia",
-      "Bases",
-      "\n<a href=\"http://duckduckgo.com/Bases_(fashion)\">Bases (fashion)</a>, a military style of dress adopted by the chivalry of the sixteenth century.",
-      "\n<a href=\"http://duckduckgo.com/Business_Association_of_Stanford_Entrepreneurial_Students\">Business Association of Stanford Entrepreneurial Students</a> (BASES)",
-      "HASH(0x558f750)",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Israeli_Air_Force_attacks_militant_bases_in_Lebanon\" title=\"Israeli Air Force attacks militant bases in Lebanon\">Israeli Air Force attacks militant <span class=\"searchmatch\">bases</span> in Lebanon</a>",
@@ -71,15 +62,24 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Bases",
+      "HASH(0x4fee358)",
+      "Wikipedia",
+      "Bases",
+      "\n<a href=\"http://duckduckgo.com/Bases_(fashion)\">Bases (fashion)</a>, a military style of dress adopted by the chivalry of the sixteenth century.",
+      "\n<a href=\"http://duckduckgo.com/Business_Association_of_Stanford_Entrepreneurial_Students\">Business Association of Stanford Entrepreneurial Students</a> (BASES)",
+      "HASH(0x558f750)",
+      "D"
+   ],
    "micro-www-search" : [],
    "created" : 1373460871,
-   "book" : [],
    "micro-www" : {
       "bases" : [
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "'Bases' may refer to: *Bases (fashion), a military style of dress adopted by the\nchivalry of the sixteenth century. *Business Association of Stanford\nEntrepreneurial Students (BASES)\n",

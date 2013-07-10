@@ -1,7 +1,4 @@
 {
-   "micrownet" : [
-      "bailiwick"
-   ],
    "google" : [
       "/url?q=http://en.wikipedia.org/wiki/Bailiwick&sa=U&ei=vVTYUfjmHMKxtAbGoIBw&ved=0CBgQFjAA&usg=AFQjCNEezEkX4yyaQ0BV4oilc-8dU6kmRA",
       "/url?q=http://www.thefreedictionary.com/bailiwick&sa=U&ei=vVTYUfjmHMKxtAbGoIBw&ved=0CBwQFjAB&usg=AFQjCNFzq4MsKASO-IdnujXVHHU_ArfGBA",
@@ -26,6 +23,9 @@
       "/url?q=http://www.beales.ns.ca/&sa=U&ei=vVTYUfjmHMKxtAbGoIBw&ved=0CGIQFjAU&usg=AFQjCNEo2ZDkF2giiPxziXKBASOjAf9Xdw",
       "/url?q=http://www.theasc.com/blog/&sa=U&ei=vVTYUfjmHMKxtAbGoIBw&ved=0CGYQFjAV&usg=AFQjCNFaKKpgWKLaInH2w3JvQLyCs26JAQ",
       "/url?q=http://bailiwick.unbsj.ca/&sa=U&ei=vVTYUfjmHMKxtAbGoIBw&ved=0CGsQFjAW&usg=AFQjCNHtsakhfaxDJQW5P85fsN5t_QwLuA"
+   ],
+   "micrownet" : [
+      "bailiwick"
    ],
    "duckduckgo" : {
       "urls" : [

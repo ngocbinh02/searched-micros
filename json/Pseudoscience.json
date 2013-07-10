@@ -1,5 +1,4 @@
 {
-   "micrownet" : [],
    "google" : [
       "/url?q=https://en.wikipedia.org/wiki/Pseudoscience&sa=U&ei=rh_dUY33MMWxO_DUgPgF&ved=0CBgQFjAA&usg=AFQjCNFBzAUGEQhD5RvqacOm_EMkqDUPwQ",
       "/url?q=http://en.wikipedia.org/wiki/Category:Pseudoscience&sa=U&ei=rh_dUY33MMWxO_DUgPgF&ved=0CB8QFjAB&usg=AFQjCNGsZ8EgqhjUiaCBm_znwaDB-Em49Q",
@@ -12,6 +11,7 @@
       "/url?q=http://skeptoid.com/episodes/4368&sa=U&ei=rh_dUY33MMWxO_DUgPgF&ved=0CDsQFjAI&usg=AFQjCNGwgkCmaWNzj2y0Jq6FPDAhaFt30w",
       "/url?q=http://www.forbes.com/sites/stevensalzberg/&sa=U&ei=rh_dUY33MMWxO_DUgPgF&ved=0CD8QFjAJ&usg=AFQjCNGmMM1NdHaZFeLGS0K98CaxzI3WNA"
    ],
+   "micrownet" : [],
    "micro" : [
       "astrology",
       "knowledge",
@@ -33,23 +33,9 @@
       "abstraction",
       "fallacy"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Analytic_philosophy\">Analytic philosophy</a> - Analytic philosophy (sometimes analytical philosophy) is a style of philosophy that came to dominate English-speaking countries in the 20th century.",
-      "Pseudoscience",
-      "http://www.merriam-webster.com/dictionary/pseudoscience",
-      "\n<a href=\"http://duckduckgo.com/c/Types_of_scientific_fallacy\">Types of scientific fallacy</a>",
-      "pseudoscience definition: a system of theories, assumptions, and methods erroneously regarded as scientific.",
-      "\n<a href=\"http://duckduckgo.com/c/Pseudoscience\">Pseudoscience Category</a>",
-      "\n<a href=\"http://duckduckgo.com/Scientism\">Scientism</a> - Scientism is a term used, usually pejoratively, to refer to belief in the universal applicability of the scientific method and approach, and the view that empirical science constitutes the most ...",
-      "\n<a href=\"http://duckduckgo.com/c/Fringe_theory\">Fringe theory</a>",
-      "\n<a href=\"http://duckduckgo.com/c/Pejoratives\">Pejoratives</a>",
-      "\n<a href=\"http://duckduckgo.com/Credulity\">Credulity</a> - Credulity is a state of willingness to believe in one or many people or things in the absence of reasonable proof or knowledge.",
-      "https://i.duckduckgo.com/i/955c19dd.jpg",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Antiscience\">Antiscience</a> - Antiscience is a position that rejects science and the scientific method.",
-      "\n<a href=\"http://duckduckgo.com/scientific_racism\">Scientific Racism</a> - Scientific racism is the use of scientific or pseudo-scientific techniques and hypotheses to support or justify the belief in racism, racial inferiority, or racial superiority, or alternatively ...",
-      "Pseudoscience is a claim, belief, or practice which is presented as scientific, but does not adhere to a valid scientific method, lacks supporting evidence or plausibility, cannot be reliably tested, or otherwise lacks scientific status.",
-      "\n<a href=\"http://duckduckgo.com/Not_even_wrong\">Not even wrong</a> - The phrase not even wrong is generally attributed to  theoretical physicist Wolfgang Pauli, who was known for his colorful objections to incorrect or sloppy thinking."
+   "Lists" : [
+      "List_of_topics_characterized_as_pseudoscience",
+      "List_of_topics_characterized_as_pseudoscience"
    ],
    "common" : {
       "milestones" : [
@@ -193,21 +179,35 @@
          ]
       ]
    },
-   "Lists" : [
-      "List_of_topics_characterized_as_pseudoscience",
-      "List_of_topics_characterized_as_pseudoscience"
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Analytic_philosophy\">Analytic philosophy</a> - Analytic philosophy (sometimes analytical philosophy) is a style of philosophy that came to dominate English-speaking countries in the 20th century.",
+      "Pseudoscience",
+      "http://www.merriam-webster.com/dictionary/pseudoscience",
+      "\n<a href=\"http://duckduckgo.com/c/Types_of_scientific_fallacy\">Types of scientific fallacy</a>",
+      "pseudoscience definition: a system of theories, assumptions, and methods erroneously regarded as scientific.",
+      "\n<a href=\"http://duckduckgo.com/c/Pseudoscience\">Pseudoscience Category</a>",
+      "\n<a href=\"http://duckduckgo.com/Scientism\">Scientism</a> - Scientism is a term used, usually pejoratively, to refer to belief in the universal applicability of the scientific method and approach, and the view that empirical science constitutes the most ...",
+      "\n<a href=\"http://duckduckgo.com/c/Fringe_theory\">Fringe theory</a>",
+      "\n<a href=\"http://duckduckgo.com/c/Pejoratives\">Pejoratives</a>",
+      "\n<a href=\"http://duckduckgo.com/Credulity\">Credulity</a> - Credulity is a state of willingness to believe in one or many people or things in the absence of reasonable proof or knowledge.",
+      "https://i.duckduckgo.com/i/955c19dd.jpg",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Antiscience\">Antiscience</a> - Antiscience is a position that rejects science and the scientific method.",
+      "\n<a href=\"http://duckduckgo.com/scientific_racism\">Scientific Racism</a> - Scientific racism is the use of scientific or pseudo-scientific techniques and hypotheses to support or justify the belief in racism, racial inferiority, or racial superiority, or alternatively ...",
+      "Pseudoscience is a claim, belief, or practice which is presented as scientific, but does not adhere to a valid scientific method, lacks supporting evidence or plausibility, cannot be reliably tested, or otherwise lacks scientific status.",
+      "\n<a href=\"http://duckduckgo.com/Not_even_wrong\">Not even wrong</a> - The phrase not even wrong is generally attributed to  theoretical physicist Wolfgang Pauli, who was known for his colorful objections to incorrect or sloppy thinking."
    ],
    "micro-www-search" : [
       "pseudoscience\n>http\nhttp://books.google.com/books?vid=ISBN0262530740&id=_7CBvggqOE4C&pg=PA90&lpg=PA90&dq=%22operational+definitions.%22+pseudoscience&sig=hEPrs8b_et10WtXYwX2t3C2ubLg\nhttp://en.wikipedia.org/w/index.php?title=Pseudoscience&oldid=560553212\nhttp://oed.com/search?searchType=dictionary&q=pseudoscience\nhttp://www.csicop.org/si/show/why_is_pseudoscience_dangerous/\nhttp://www.foxandhoundsdaily.com/2011/02/8580-pseudoscience-plagues-health-our-nation/\nhttp://www.lse.ac.uk/collections/lakatos/scienceAndPseudoscience.htm\nhttp://www.scientificamerican.com/article.cfm?id=what-is-pseudoscience\nhttp://www.srmhp.org/0202/pseudoscience.html\nhttp://www2.lse.ac.uk/philosophy/About/lakatos/scienceAndPseudoscience.aspx\nhttp://www2.lse.ac.uk/philosophy/About/lakatos/scienceAndPseudoscienceTranscript.aspx\n\n>pdf\nhttp://eis.bris.ac.uk/~plajb/research/papers/The-Historical-Turn.pdf\nhttp://eis.bris.ac.uk/~plajb/research/papers/The-Historical-Turn.pdf\nhttp://philosophyfaculty.ucsd.edu/faculty/rarneson/Courses/popperphil1.pdf\nhttp://physics.uark.edu/hobson/pubs/00.12.JCST.pdf\nhttp://www.nsf.gov/statistics/seind06/pdf/volume2.pdf\nhttp://www.senseaboutscience.org.uk/PDF/peerReview.pdf\nhttp://physics.uark.edu/hobson/pubs/00.12.JCST.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/PhrenologyPix.jpg/220px-PhrenologyPix.jpg\n"
    ],
    "created" : 1373453214,
-   "book" : [],
    "micro-www" : {
       "Pseudoscience" : [
          "pseudoscience",
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Fringe theory",

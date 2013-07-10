@@ -1,0 +1,25 @@
+{
+   "micrownet" : [
+      "cypriot_monetary_unit"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "HASH(0x4c63ec0)",
+      "HASH(0x4aa5b20)"
+   ],
+   "created" : 1373461619,
+   "book" : [],
+   "micro-www" : {
+      "cypriot_monetary_unit" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

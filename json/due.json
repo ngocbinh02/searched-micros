@@ -41,21 +41,7 @@
       "concept",
       "construct"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/2_(number)\">two</a>, from the Italian due",
-      "https://en.wikipedia.org/wiki/Due",
-      "HASH(0x5059688)",
-      "Wikipedia",
-      "Due",
-      "http://www.merriam-webster.com/dictionary/due",
-      "\n<a href=\"http://duckduckgo.com/DNA_unwinding_element\">DNA unwinding element</a> - A DNA unwinding element, frequently abbreviated to DUE and on occasion DNAUE, is an enzyme complex that can be found during DNA synthesis at the origin of replication and is the init...",
-      "due definition: owed or owing as a debt.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Postage_due\">Postage due</a>, mail sent with insufficient postage",
-      "HASH(0x507e6c0)",
-      "\n<a href=\"http://duckduckgo.com/Union_dues\">Union dues</a>, a membership fee paid by members of labor unions",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mississippi_River_section_shut_down_due_to_sunken_tug_boat\" title=\"Mississippi River section shut down due to sunken tug boat\">Mississippi River section shut down <span class=\"searchmatch\">due</span> to sunken tug boat</a>",
@@ -85,13 +71,26 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/2_(number)\">two</a>, from the Italian due",
+      "https://en.wikipedia.org/wiki/Due",
+      "HASH(0x5059688)",
+      "Wikipedia",
+      "Due",
+      "http://www.merriam-webster.com/dictionary/due",
+      "\n<a href=\"http://duckduckgo.com/DNA_unwinding_element\">DNA unwinding element</a> - A DNA unwinding element, frequently abbreviated to DUE and on occasion DNAUE, is an enzyme complex that can be found during DNA synthesis at the origin of replication and is the init...",
+      "due definition: owed or owing as a debt.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Postage_due\">Postage due</a>, mail sent with insufficient postage",
+      "HASH(0x507e6c0)",
+      "\n<a href=\"http://duckduckgo.com/Union_dues\">Union dues</a>, a membership fee paid by members of labor unions",
+      "D"
+   ],
    "micro-www-search" : [
       "due\n>http\nhttp://en.m.wikipedia.org/wiki/Due\nhttp://en.wikipedia.org/w/index.php?title=Due&oldid=540687943\nhttp://toolserver.org/~geohack/geohack.php?pagename=Due&params=50.823611_N_142.109722_E_\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "Due_process\n>pdf\nhttp://students.law.umich.edu/mlr/archive/105/2/hawkins.pdf\nhttp://students.law.umich.edu/mlr/archive/105/2/hawkins.pdf\nhttp://www.constitution.org/18th/coke2nd1797/coke2nd1797_051-100.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png\n"
    ],
    "created" : 1373458865,
-   "book" : [],
    "micro-www" : {
       "due" : [
          "due",
@@ -99,6 +98,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n'DUE' may stand for:\n\n* DNA unwinding element\n* two, from the Italian due ** Due – Due, the football match between Denmark and\n  Sweden in the UEFA Euro 2004\n* Union dues, a membership fee paid by members of labor unions\n* Postage due, mail sent with insufficient postage\n* \"Due\", a song by the American musical group Mindless Self Indulgence\n* Due, a character in the anime Magical Girl Lyrical Nanoha Strikers\n* Due (place) (), Sakhalin Oblast, Russia, a coal mining area on the southwest\n  of Alexandrovsk-Sakhalinsky (town).\n",

@@ -14,26 +14,7 @@
       "call_for",
       "involve"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Requirements_management\">Requirements management</a> - Requirements management is the process of documenting, analyzing, tracing, prioritizing and agreeing on requirements and then controlling change and communicating to relevant stakeholders.",
-      "https://en.wikipedia.org/wiki/Requirement",
-      "Wikipedia",
-      "Requirement",
-      "http://www.merriam-webster.com/dictionary/requirement",
-      "requirement definition: something required.",
-      "\n<a href=\"http://duckduckgo.com/Requirements_elicitation\">Requirements elicitation</a> - In requirements engineering, requirements elicitation is the practice of collecting the requirements of a system from users, customers and other stakeholders.",
-      "In product development and process optimization, a requirement is a singular documented physical and functional need that a particular product or process must be able to perform.",
-      "HASH(0x4f70098)",
-      "\n<a href=\"http://duckduckgo.com/Software_requirements\">Software requirements</a> - Software Requirements is a field within Software Engineering that deals with establishing the needs of stakeholders that are to be solved by software.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/c/Software_requirements\">Software requirements</a>",
-      "HASH(0x4f667d0)",
-      "\n<a href=\"http://duckduckgo.com/Business_requirements\">Business requirements</a> - Business requirements are what must be delivered to provide value.",
-      "\n<a href=\"http://duckduckgo.com/Requirements_analysis\">Requirements analysis</a> - Requirements analysis in systems engineering and software engineering, encompasses those tasks that go into determining the needs or conditions to meet for a new or altered product, taking accou...",
-      "A",
-      "In product development and process optimization, a requirement is a singular documented physical and functional need that a particular product or process must be able to perform.",
-      "\n<a href=\"http://duckduckgo.com/Need\">Need</a> - A need is something that is necessary for organisms to live a healthy life."
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Elections_Canada_stands_by_decision,_Muslims_not_required_to_remove_veils_at_polls\" title=\"Elections Canada stands by decision, Muslims not required to remove veils at polls\">Elections Canada stands by decision, Muslims not <span class=\"searchmatch\">required</span> to remove veils at polls</a>",
@@ -63,18 +44,37 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Requirements_management\">Requirements management</a> - Requirements management is the process of documenting, analyzing, tracing, prioritizing and agreeing on requirements and then controlling change and communicating to relevant stakeholders.",
+      "https://en.wikipedia.org/wiki/Requirement",
+      "Wikipedia",
+      "Requirement",
+      "http://www.merriam-webster.com/dictionary/requirement",
+      "requirement definition: something required.",
+      "\n<a href=\"http://duckduckgo.com/Requirements_elicitation\">Requirements elicitation</a> - In requirements engineering, requirements elicitation is the practice of collecting the requirements of a system from users, customers and other stakeholders.",
+      "In product development and process optimization, a requirement is a singular documented physical and functional need that a particular product or process must be able to perform.",
+      "HASH(0x4f70098)",
+      "\n<a href=\"http://duckduckgo.com/Software_requirements\">Software requirements</a> - Software Requirements is a field within Software Engineering that deals with establishing the needs of stakeholders that are to be solved by software.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/c/Software_requirements\">Software requirements</a>",
+      "HASH(0x4f667d0)",
+      "\n<a href=\"http://duckduckgo.com/Business_requirements\">Business requirements</a> - Business requirements are what must be delivered to provide value.",
+      "\n<a href=\"http://duckduckgo.com/Requirements_analysis\">Requirements analysis</a> - Requirements analysis in systems engineering and software engineering, encompasses those tasks that go into determining the needs or conditions to meet for a new or altered product, taking accou...",
+      "A",
+      "In product development and process optimization, a requirement is a singular documented physical and functional need that a particular product or process must be able to perform.",
+      "\n<a href=\"http://duckduckgo.com/Need\">Need</a> - A need is something that is necessary for organisms to live a healthy life."
+   ],
    "micro-www-search" : [
       "required\n>pdf\nhttp://prod.sandia.gov/techlib/access-control.cgi/1996/961620.pdf\nhttp://prod.sandia.gov/techlib/access-control.cgi/1996/961620.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n"
    ],
    "created" : 1373459272,
-   "book" : [],
    "micro-www" : {
       "required" : [
          "required",
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Software requirements"

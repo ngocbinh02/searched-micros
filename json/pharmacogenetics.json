@@ -1,13 +1,13 @@
 {
+   "micrownet" : [
+      "pharmacogenetics"
+   ],
    "google" : [
       "/url?q=http://en.wikipedia.org/wiki/Pharmacogenetics&sa=U&ei=a37YUe_1KsbTsga40YCoDA&ved=0CBgQFjAA&usg=AFQjCNGDy9cJMOT3L3TRWDZYAGm9smwDQQ",
       "/url?q=http://www.ncbi.nlm.nih.gov/About/primer/pharm.html&sa=U&ei=a37YUe_1KsbTsga40YCoDA&ved=0CCEQFjAB&usg=AFQjCNHZvXsaP2M-DV3SR9bYFsDe3VJLsA",
       "/url?q=http://journals.lww.com/jpharmacogenetics/&sa=U&ei=a37YUe_1KsbTsga40YCoDA&ved=0CCUQFjAC&usg=AFQjCNFrP8VoqxBDwvICobSCvcHR4eTgcA",
       "/url?q=http://www.dartmouth.edu/~dmsheart/genetics/pharm/pharm.html&sa=U&ei=a37YUe_1KsbTsga40YCoDA&ved=0CCcQFjAD&usg=AFQjCNHagpZeJtZkDrnppW1OSuv-GmqGQA",
       "/url?q=http://www.pharmgkb.org/page/cpic&sa=U&ei=a37YUe_1KsbTsga40YCoDA&ved=0CCsQFjAE&usg=AFQjCNHU6tmTUwwATWo7TUxhw45JFmSNJw"
-   ],
-   "micrownet" : [
-      "pharmacogenetics"
    ],
    "duckduckgo" : {
       "urls" : [

@@ -13,20 +13,7 @@
       "higher_status"
    ],
    "micro" : [],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Higher_(Scottish)\">Higher (Scottish)</a>, a Scottish national school-leaving certificate exam and university entrance qualification",
-      "https://en.wikipedia.org/wiki/Higher",
-      "HASH(0x20253b8)",
-      "Wikipedia",
-      "Higher",
-      "http://www.merriam-webster.com/dictionary/higher",
-      "higher definition: study of biblical writings to determine their literary history and the purpose and meaning of the authors — compare lower criticism.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Higher_(The_Saturdays_song)\">\"Higher\" (The Saturdays song)</a> - \"Higher\" is the award winning song performed by British-Irish girl group The Saturdays taken from their mini-album, Headlines!.",
-      "HASH(0x52ddac8)",
-      "\n<a href=\"http://duckduckgo.com/Higher_(Taio_Cruz_song)\">\"Higher\" (Taio Cruz song)</a> - \"Higher\" is the fifth single from English singer-songwriter Taio Cruz's second studio album Rokstarr.",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Katrina_raised_gas_prices_higher_than_ever\" title=\"Katrina raised gas prices higher than ever\">Katrina raised gas prices <span class=\"searchmatch\">higher</span> than ever</a>",
@@ -56,7 +43,20 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Higher_(Scottish)\">Higher (Scottish)</a>, a Scottish national school-leaving certificate exam and university entrance qualification",
+      "https://en.wikipedia.org/wiki/Higher",
+      "HASH(0x20253b8)",
+      "Wikipedia",
+      "Higher",
+      "http://www.merriam-webster.com/dictionary/higher",
+      "higher definition: study of biblical writings to determine their literary history and the purpose and meaning of the authors — compare lower criticism.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Higher_(The_Saturdays_song)\">\"Higher\" (The Saturdays song)</a> - \"Higher\" is the award winning song performed by British-Irish girl group The Saturdays taken from their mini-album, Headlines!.",
+      "HASH(0x52ddac8)",
+      "\n<a href=\"http://duckduckgo.com/Higher_(Taio_Cruz_song)\">\"Higher\" (Taio Cruz song)</a> - \"Higher\" is the fifth single from English singer-songwriter Taio Cruz's second studio album Rokstarr.",
+      "D"
+   ],
    "micro-www-search" : [
       "higher\n>http\nhttp://en.m.wikipedia.org/wiki/Higher\nhttp://en.wikipedia.org/w/index.php?title=Higher&oldid=544054440\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "Higher_education\n>pdf\nhttp://www.ed.gov/about/bdscomm/list/hiedfuture/reports/pre-pub-report.pdf\nhttp://www.business.duq.edu/faculty/davies/research/roimba.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Text_document_with_page_number_icon.svg/40px-Text_document_with_page_number_icon.svg.png\n\n",
@@ -69,7 +69,6 @@
       "Higher-order_logic\n>http\nhttp://en.m.wikipedia.org/wiki/Higher-order_logic\nhttp://en.wikipedia.org/w/index.php?title=Higher-order_logic&oldid=540848933\nhttp://plato.stanford.edu/entries/logic-higher-order/\n\n>pdf\nhttp://www.math.helsinki.fi/logic/people/jouko.vaananen/JV96.pdf\nhttp://www.math.helsinki.fi/logic/people/jouko.vaananen/JV96.pdf\n"
    ],
    "created" : 1373459372,
-   "book" : [],
    "micro-www" : {
       "higher" : [
          "higher",
@@ -84,6 +83,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Higher' may refer to:\n",

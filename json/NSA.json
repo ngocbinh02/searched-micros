@@ -1,7 +1,4 @@
 {
-   "micrownet" : [
-      "NSA"
-   ],
    "google" : [
       "/url?q=http://www.nsa.gov/&sa=U&ei=-kvYUaj9BYWItQbsjoCwCA&ved=0CCEQFjAD&usg=AFQjCNFE4JjICIVSfOZrq2M5M4AwSVKiLA",
       "/url?q=http://en.wikipedia.org/wiki/National_Security_Agency&sa=U&ei=-kvYUaj9BYWItQbsjoCwCA&ved=0CCoQFjAE&usg=AFQjCNEi7pnyjwdS4ZTcIhn8CqKfuAHmyw",
@@ -24,6 +21,9 @@
       "/url?q=http://www.cbc.ca/news/yourcommunity/2013/07/internet-activists-rally-against-nsa-surveillance.html&sa=U&ei=-kvYUaj9BYWItQbsjoCwCA&ved=0CG0QFjAW&usg=AFQjCNEFQTNq3CKUkR7DVBqZAhZD5Pllaw",
       "/url?q=http://allthingsd.com/20130705/anti-nsa-surveillance-protests-gain-traction-on-independence-day/&sa=U&ei=-kvYUaj9BYWItQbsjoCwCA&ved=0CG8QFjAX&usg=AFQjCNFnRjyyv5n2eKkwrczirfRP9LIlBg",
       "/url?q=http://www.nsaspeaker.org/&sa=U&ei=-kvYUaj9BYWItQbsjoCwCA&ved=0CHIQFjAY&usg=AFQjCNFH50K7m_9PIQXs7BWTyx_fxXGjEg"
+   ],
+   "micrownet" : [
+      "NSA"
    ],
    "duckduckgo" : {
       "urls" : [

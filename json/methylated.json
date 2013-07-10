@@ -4,6 +4,14 @@
       "methylated_spirit"
    ],
    "micro" : [],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
    "duck" : [
       "https://en.wikipedia.org/wiki/Methylation",
       "Wikipedia",
@@ -25,22 +33,14 @@
       "A",
       "In the chemical sciences, methylation denotes the addition of a methyl group to a substrate or the substitution of an atom or group by a methyl group."
    ],
-   "common" : {
-      "milestones" : [],
-      "image" : [
-         [],
-         []
-      ]
-   },
-   "Lists" : [],
    "micro-www-search" : [],
    "created" : 1373456832,
-   "book" : [],
    "micro-www" : {
       "methylated" : [
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Epigenetics",

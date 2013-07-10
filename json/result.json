@@ -1,0 +1,124 @@
+{
+   "micrownet" : [
+      "final_result",
+      "result",
+      "resultant",
+      "resultant_role",
+      "resulting_trust"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Results_of_2005_United_Kingdom_General_Election\" title=\"Results of 2005 United Kingdom General Election\"><span class=\"searchmatch\">Results</span> of 2005 United Kingdom General Election</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2010_UK_general_election_results\" title=\"2010 UK general election results\">2010 UK general election <span class=\"searchmatch\">results</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/A-League_2007%E2%80%9308:_Round_7_Results\" title=\"A-League 2007–08: Round 7 Results\">A-League 2007–08: Round 7 <span class=\"searchmatch\">Results</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/A-League_2007%E2%80%9308:_Round_7_Results#Results\" title=\"A-League 2007–08: Round 7 Results\"><span class=\"searchmatch\">Results</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2006_U.S._Congressional_Elections\" title=\"2006 U.S. Congressional Elections\">2006 U.S. Congressional Elections</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/United_States_Congressional_Election_Results\" title=\"United States Congressional Election Results\">United States Congressional Election <span class=\"searchmatch\">Results</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/A-League_2007-08:_Round_6_Results\" title=\"A-League 2007-08: Round 6 Results\">A-League 2007-08: Round 6 <span class=\"searchmatch\">Results</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/A-League_2007-08:_Round_6_Results#Results\" title=\"A-League 2007-08: Round 6 Results\"><span class=\"searchmatch\">Results</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Day_2_Results_-_Olympic_Winter_Games\" title=\"Day 2 Results - Olympic Winter Games\">Day 2 <span class=\"searchmatch\">Results</span> - Olympic Winter Games</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Day_5_Results_-_Olympic_Winter_Games\" title=\"Day 5 Results - Olympic Winter Games\">Day 5 <span class=\"searchmatch\">Results</span> - Olympic Winter Games</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Day_6_Results_-_Olympic_Winter_Games\" title=\"Day 6 Results - Olympic Winter Games\">Day 6 <span class=\"searchmatch\">Results</span> - Olympic Winter Games</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Day_7_Results_-_Olympic_Winter_Games\" title=\"Day 7 Results - Olympic Winter Games\">Day 7 <span class=\"searchmatch\">Results</span> - Olympic Winter Games</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Day_4_Results_-_Olympic_Winter_Games\" title=\"Day 4 Results - Olympic Winter Games\">Day 4 <span class=\"searchmatch\">Results</span> - Olympic Winter Games</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Preliminary_investigation_results_released_on_Canadian_helicopter_crash\" title=\"Preliminary investigation results released on Canadian helicopter crash\">Preliminary investigation <span class=\"searchmatch\">results</span> released on Canadian helicopter crash</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Champions_League_round_of_sixteen%E2%80%94first_leg_results\" title=\"Champions League round of sixteen—first leg results\">Champions League round of sixteen—first leg <span class=\"searchmatch\">results</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Champions_League_round_of_sixteen%E2%80%94first_leg_results#Results\" title=\"Champions League round of sixteen—first leg results\"><span class=\"searchmatch\">Results</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Draw_results_for_UEFA_Euro_2008_announced\" title=\"Draw results for UEFA Euro 2008 announced\">Draw <span class=\"searchmatch\">results</span> for UEFA Euro 2008 announced</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Study:_Socialized_Canadian_surgery_half_the_U.S._cost_with_same_results\" title=\"Study: Socialized Canadian surgery half the U.S. cost with same results\">Study: Socialized Canadian surgery half the U.S. cost with same <span class=\"searchmatch\">results</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Results_of_British_local_elections_announced\" title=\"Results of British local elections announced\"><span class=\"searchmatch\">Results</span> of British local elections announced</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Zealand%27s_NCEA_results_due_today_onwards\" title=\"New Zealand&#39;s NCEA results due today onwards\">New Zealand&#39;s NCEA <span class=\"searchmatch\">results</span> due today onwards</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Intel_posts_best_ever_quarterly_results\" title=\"Intel posts best ever quarterly results\">Intel posts best ever quarterly <span class=\"searchmatch\">results</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Croatian_local_elections:_results_pending\" title=\"Croatian local elections: results pending\">Croatian local elections: <span class=\"searchmatch\">results</span> pending</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Day_3_Results_-_Olympic_Winter_Games\" title=\"Day 3 Results - Olympic Winter Games\">Day 3 <span class=\"searchmatch\">Results</span> - Olympic Winter Games</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_Labor_Party_leader_urges_supporters_to_%22take_a_cold_shower%22_over_poll_results\" title=\"Australian Labor Party leader urges supporters to &quot;take a cold shower&quot; over poll results\">Australian Labor Party leader urges supporters to &quot;take a cold shower&quot; over poll <span class=\"searchmatch\">results</span></a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "A result (also called upshot) is the final consequence of a sequence of actions or events expressed qualitatively or quantitatively.",
+      "https://en.wikipedia.org/wiki/Result",
+      "HASH(0x4c50488)",
+      "Wikipedia",
+      "Result",
+      "http://www.merriam-webster.com/dictionary/result",
+      "result definition: to proceed or arise as a consequence, effect, or conclusion.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Determinism\">Determinism</a> - Determinism is a metaphysical philosophical position stating that for everything that happens there are conditions such that, given those conditions, nothing else could happen.",
+      "HASH(0x4b32038)",
+      "A result (also called upshot) is the final consequence of a sequence of actions or events expressed qualitatively or quantitatively.",
+      "A",
+      "\n<a href=\"http://duckduckgo.com/c/Logical_consequence\">Logical consequence</a>"
+   ],
+   "created" : 1373461319,
+   "book" : [],
+   "micro-www" : {
+      "result" : [
+         "results",
+         "resultant",
+         "result",
+         "Result",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Logical consequence"
+      ],
+      "text" : "A 'result' (also called 'upshot') is the final consequence of a sequence of\nactions or events expressed qualitatively or quantitatively. Possible results\ninclude advantage, disadvantage, gain, injury, , value and victory. There may be\na range of possible outcomes associated with an event depending on the point of\nview, historical distance or relevance. Reaching no result can mean that actions\nare inefficient, ineffective, meaningless or flawed.\n\nSome types of result are as follows:\n* in general, the outcome of any kind of research, action or phenomenon\n* in games (e.g. cricket, lotteries) or wars, the result includes the identity\n  of the victorious party and possibly the effects on the environment\n* in mathematics, the final value of a calculation (e.g. arithmetic operation),\n  function or statistical expression, or the final statement of a theorem that\n  has been proven\n* in statistics, any information analyzed, extracted or interpolated from polls,\n  tests or logs\n* in computer sciences, the return value of a function, state of a system or\n  list of records matching a query (e.g. web search). The result type is the\n  data type of the data returned by a function.\n* in science, the outcome of an experiment (e.g. see null hypothesis)\n* in forensics and justice, the proof of guilt or innocence of a suspect after\n  evaluating evidence in a criminal investigation\n* in economics and accounting, the profit or loss at the end of a fiscal period.\n* in democracy, the election of a representative or the outcome of a vote\n  on a subject\n",
+      "title" : "result",
+      "headings" : [
+         "In management",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "2: Statistics",
+      "2: Information",
+      "2: Competition",
+      "1: Sequence",
+      "1: Advantage",
+      "1: Disadvantage",
+      "1: Gain",
+      "1: Injury",
+      "1: Victory",
+      "1: Research",
+      "1: Phenomenon",
+      "1: Game",
+      "1: The_result_in_cricket",
+      "1: Lottery",
+      "1: War",
+      "1: Mathematics",
+      "1: Calculation",
+      "1: Theorem",
+      "1: Opinion_poll",
+      "1: Test_method",
+      "1: Computer_sciences",
+      "1: Return_value",
+      "1: Data_type",
+      "1: Science",
+      "1: Experiment",
+      "1: Null_hypothesis",
+      "1: Forensics",
+      "1: Justice",
+      "1: Criminal_investigation",
+      "1: Economics",
+      "1: Accounting",
+      "1: Democracy",
+      "1: Election",
+      "1: Representative_democracy",
+      "1: Vote",
+      "1: Confrontation",
+      "1: Causality",
+      "1: Credibility",
+      "1: Consistency",
+      "1: Information_sensitivity",
+      "1: Accuracy",
+      "1: Relevance",
+      "1: Determinism"
+   ]
+}

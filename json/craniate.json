@@ -36,6 +36,14 @@
       "organism",
       "reptilian"
    ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
    "duck" : [
       "Craniata is a proposed clade of chordate animals that contains the Myxini, Petromyzontida, and Gnathostomata as living representatives.",
       "\n<a href=\"http://duckduckgo.com/c/Chordates\">Chordates</a>",
@@ -49,22 +57,14 @@
       "Craniata is a proposed clade of chordate animals that contains the Myxini, Petromyzontida, and Gnathostomata as living representatives.",
       "A"
    ],
-   "common" : {
-      "milestones" : [],
-      "image" : [
-         [],
-         []
-      ]
-   },
-   "Lists" : [],
    "micro-www-search" : [],
    "created" : 1373455211,
-   "book" : [],
    "micro-www" : {
       "craniate" : [
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Chordates"

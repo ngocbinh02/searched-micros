@@ -1,0 +1,47 @@
+{
+   "micrownet" : [
+      "primum_mobile"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "HASH(0x4d4e7f8)",
+      "HASH(0x4d26458)"
+   ],
+   "created" : 1373461923,
+   "book" : [],
+   "micro-www" : {
+      "primum_mobile" : [
+         ""
+      ]
+   },
+   "micro-relation" : [
+      "2: Firmament",
+      "1: Geocentric_model",
+      "1: Universe",
+      "1: Ptolemy",
+      "1: Avicenna",
+      "1: Heliocentric",
+      "1: Aristarchus",
+      "1: Copernicus",
+      "1: Naked-eye_planets",
+      "1: Spherical_Earth",
+      "1: Star",
+      "1: Empyrean",
+      "1: Celestial_spheres",
+      "1: Book_of_Genesis",
+      "1: Galileo",
+      "1: Francis_Bacon",
+      "1: Kepler",
+      "1: Dante",
+      "1: W._B._Yeats",
+      "1: Primum_movens",
+      "1: Unmoved_mover"
+   ]
+}

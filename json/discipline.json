@@ -1,16 +1,16 @@
 {
+   "micrownet" : [
+      "discipline",
+      "disciplined",
+      "humanistic_discipline",
+      "scientific_discipline"
+   ],
    "google" : [
       "/url?q=https://en.wikipedia.org/wiki/Discipline&sa=U&ei=WH7YUdLNBoTYswaPlYHIDQ&ved=0CBgQFjAA&usg=AFQjCNG6F7rSLNS5TyiY3r6z8z-RpAionw",
       "/url?q=http://www.merriam-webster.com/dictionary/discipline&sa=U&ei=WH7YUdLNBoTYswaPlYHIDQ&ved=0CBsQFjAB&usg=AFQjCNG5l7w9D_rsjQ9OAqc4gmRp5T6lpg",
       "/url?q=http://www.discipline.eu/&sa=U&ei=WH7YUdLNBoTYswaPlYHIDQ&ved=0CB8QFjAC&usg=AFQjCNFTlVYPXLTqtxFAj5MJwAFdJAeqNQ",
       "/url?q=http://dictionary.reference.com/browse/discipline&sa=U&ei=WH7YUdLNBoTYswaPlYHIDQ&ved=0CCIQFjAD&usg=AFQjCNEkcChe_1Y1429kmXke-aVJTZ9FjQ",
       "/url?q=http://www.stevepavlina.com/blog/2005/06/self-discipline/&sa=U&ei=WH7YUdLNBoTYswaPlYHIDQ&ved=0CCYQFjAE&usg=AFQjCNGvi8AiaWn7zWdhegSvkP587ZXsMg"
-   ],
-   "micrownet" : [
-      "discipline",
-      "disciplined",
-      "humanistic_discipline",
-      "scientific_discipline"
    ],
    "duckduckgo" : {
       "urls" : [

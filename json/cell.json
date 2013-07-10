@@ -180,22 +180,7 @@
       "abstraction",
       "form"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Galvanic_cell\">Galvanic cell</a> or Voltaic cell, a particular kind of electrochemical cell.",
-      "   Cells are the basic unit of structure and function in every living thing.",
-      "https://en.wikipedia.org/wiki/Cell",
-      "\n<a href=\"http://duckduckgo.com/Cell_(biology)\">Cell (biology)</a>, the functional basic unit of life",
-      "HASH(0x5d0be18)",
-      "Wikipedia",
-      "Cell",
-      "http://www.merriam-webster.com/dictionary/cell",
-      "cell definition: a small religious house dependent on a monastery or convent.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Cell_(microprocessor)\">Cell (microprocessor)</a>, a microprocessor architecture developed by Sony, Toshiba, and IBM",
-      "HASH(0x5d29df8)",
-      "   Cells are the basic unit of structure and function in every living thing.",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Gene_switch_turns_stem_cells_into_cancer_killers\" title=\"Gene switch turns stem cells into cancer killers\">Gene switch turns stem <span class=\"searchmatch\">cells</span> into cancer killers</a>",
@@ -224,7 +209,22 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Galvanic_cell\">Galvanic cell</a> or Voltaic cell, a particular kind of electrochemical cell.",
+      "   Cells are the basic unit of structure and function in every living thing.",
+      "https://en.wikipedia.org/wiki/Cell",
+      "\n<a href=\"http://duckduckgo.com/Cell_(biology)\">Cell (biology)</a>, the functional basic unit of life",
+      "HASH(0x5d0be18)",
+      "Wikipedia",
+      "Cell",
+      "http://www.merriam-webster.com/dictionary/cell",
+      "cell definition: a small religious house dependent on a monastery or convent.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Cell_(microprocessor)\">Cell (microprocessor)</a>, a microprocessor architecture developed by Sony, Toshiba, and IBM",
+      "HASH(0x5d29df8)",
+      "   Cells are the basic unit of structure and function in every living thing.",
+      "D"
+   ],
    "micro-www-search" : [
       "cellulose\n>http\nhttp://en.m.wikipedia.org/wiki/Cellulose\nhttp://en.wikipedia.org/w/index.php?title=Cellulose&oldid=559468056\nhttp://www.cermav.cnrs.fr/glyco3d/lessons/cellulose/index.html\nhttp://www.wzw.tum.de/mbiotec/cellmo.htm\nhttp://www1.eere.energy.gov/biomass/cellulase_enzyme.html\n\n>pdf\nhttp://jcs.biologists.org/content/s3-102/57/107.full.pdf\nhttp://jcs.biologists.org/content/s3-102/57/107.full.pdf\nhttp://www.arboranano.ca/pdfs/Chemistry%20and%20applications%20of%20nanocrystalline%20cellulose%20and%20its%20derivatives%20A%20nanotechnology%20perspective-2011.pdf\nhttp://www.biocore-europe.org/file/BIOCORE%20Multi-criteria%20evaluation%20of%20niche%20crops.pdf\nhttp://www.ipst.gatech.edu/faculty/ragauskas_art/technical_reviews/Chemical%20Overview%20of%20Wood.pdf\nhttp://www.ipst.gatech.edu/faculty/ragauskas_art/technical_reviews/Chemical%20Overview%20of%20Wood.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Cellulose_Sessel.svg/260px-Cellulose_Sessel.svg.png\n\n",
       "cellular\n>http\nhttp://en.m.wikipedia.org/wiki/Cellular\nhttp://en.wikipedia.org/w/index.php?title=Cellular&oldid=542512292\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
@@ -298,7 +298,6 @@
       "Cell-free_system\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Diagram_human_cell_nucleus_no_text.png/30px-Diagram_human_cell_nucleus_no_text.png\n"
    ],
    "created" : 1373456824,
-   "book" : [],
    "micro-www" : {
       "cell" : [
          "cellulose",
@@ -374,6 +373,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n'Cell(s)' may refer to:\n",

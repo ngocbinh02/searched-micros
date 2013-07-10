@@ -187,29 +187,7 @@
       "perturbation",
       "precedence"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/activity_theory\">Activity Theory</a>, social constructivism (learning theory), Education",
-      "\n<a href=\"http://duckduckgo.com/atterberg_limits\">Activity (soil mechanics)</a> - The Atterberg limits are a basic measure of the nature of a fine-grained soil.",
-      "https://en.wikipedia.org/wiki/Activity",
-      "\n<a href=\"http://duckduckgo.com/task_(project_management)\">Activity (project management)</a> - In project management, a task  is an activity that needs to be accomplished within a defined period of time or by a deadline.",
-      "Wikipedia",
-      "\n<a href=\"http://duckduckgo.com/Activiti_(software)\">Activiti</a>, an open source <a href=\"http://duckduckgo.com/?q=Business Process Management\">Business Process Management</a> (BPM) Platform",
-      "\n<a href=\"http://duckduckgo.com/action_theory_(philosophy)\">Action (philosophy)</a>, in general",
-      "Activity",
-      "http://www.merriam-webster.com/dictionary/activity",
-      "activity definition: the quality or state of being active.",
-      "\n<a href=\"http://duckduckgo.com/Activity_(chemistry)\">Activity (chemistry)</a>, the effective concentration of a solute for the purposes of  mass action",
-      "\n<a href=\"http://duckduckgo.com/HMS_Activity_(D94)\">HMS Activity (D94)</a>, an aircraft carrier of the Royal Navy",
-      "\n<a href=\"http://duckduckgo.com/Activity_(UML)\">Activity (UML)</a>, a major task in Unified Modeling Language",
-      "HASH(0x5da3628)",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Social_activity\">Social activity</a>, in social sciences",
-      "\n<a href=\"http://duckduckgo.com/Physical_exercise\">Physical exercise</a> - Physical exercise is any bodily activity that enhances or maintains physical fitness and overall health and wellness.",
-      "\n<a href=\"http://duckduckgo.com/activity_diagram\">Activity (software engineering)</a> -   Activity diagrams are graphical representations of workflows of stepwise activities and actions with support for choice, iteration and concurrency.",
-      "HASH(0x5d4a7e8)",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Activity_diagram\">Activity diagram</a>, a diagram representing activities in Unified Modeling Language"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Icelandic_Hekla_volcano_shows_signs_of_activity\" title=\"Icelandic Hekla volcano shows signs of activity\">Icelandic Hekla volcano shows signs of <span class=\"searchmatch\">activity</span></a>",
@@ -240,7 +218,29 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/activity_theory\">Activity Theory</a>, social constructivism (learning theory), Education",
+      "\n<a href=\"http://duckduckgo.com/atterberg_limits\">Activity (soil mechanics)</a> - The Atterberg limits are a basic measure of the nature of a fine-grained soil.",
+      "https://en.wikipedia.org/wiki/Activity",
+      "\n<a href=\"http://duckduckgo.com/task_(project_management)\">Activity (project management)</a> - In project management, a task  is an activity that needs to be accomplished within a defined period of time or by a deadline.",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Activiti_(software)\">Activiti</a>, an open source <a href=\"http://duckduckgo.com/?q=Business Process Management\">Business Process Management</a> (BPM) Platform",
+      "\n<a href=\"http://duckduckgo.com/action_theory_(philosophy)\">Action (philosophy)</a>, in general",
+      "Activity",
+      "http://www.merriam-webster.com/dictionary/activity",
+      "activity definition: the quality or state of being active.",
+      "\n<a href=\"http://duckduckgo.com/Activity_(chemistry)\">Activity (chemistry)</a>, the effective concentration of a solute for the purposes of  mass action",
+      "\n<a href=\"http://duckduckgo.com/HMS_Activity_(D94)\">HMS Activity (D94)</a>, an aircraft carrier of the Royal Navy",
+      "\n<a href=\"http://duckduckgo.com/Activity_(UML)\">Activity (UML)</a>, a major task in Unified Modeling Language",
+      "HASH(0x5da3628)",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Social_activity\">Social activity</a>, in social sciences",
+      "\n<a href=\"http://duckduckgo.com/Physical_exercise\">Physical exercise</a> - Physical exercise is any bodily activity that enhances or maintains physical fitness and overall health and wellness.",
+      "\n<a href=\"http://duckduckgo.com/activity_diagram\">Activity (software engineering)</a> -   Activity diagrams are graphical representations of workflows of stepwise activities and actions with support for choice, iteration and concurrency.",
+      "HASH(0x5d4a7e8)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Activity_diagram\">Activity diagram</a>, a diagram representing activities in Unified Modeling Language"
+   ],
    "micro-www-search" : [
       "activity\n>http\nhttp://en.m.wikipedia.org/wiki/Activity\nhttp://en.wikipedia.org/w/index.php?title=Activity&oldid=540291425\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "Activity_diagram\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n\n",
@@ -256,7 +256,6 @@
       "Activity\n>http\nhttp://en.m.wikipedia.org/wiki/Activity\nhttp://en.wikipedia.org/w/index.php?title=Activity&oldid=540291425\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n"
    ],
    "created" : 1373457030,
-   "book" : [],
    "micro-www" : {
       "activity" : [
          "activity",
@@ -274,6 +273,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n'Activity' may mean:\n\n* Action (philosophy), in general\n* Social activity, in social sciences\n* The Aristotelian concept of energeia, Latinized as actus\n* Physical exercise\n* Activity (UML), a major task in Unified Modeling Language\n* Activity diagram, a diagram representing activities in Unified\n  Modeling Language\n* Activity, an alternative name for the game charades\n* Activity, the rate of catalytic activity, such as enzyme activity (enzyme\n  assay), in physical chemistry and enzymology\n* Activity (chemistry), the effective concentration of a solute for the purposes\n  of mass action\n* Activity (project management)\n* Activity (radioactivity), radioactive decay#Radioactive decay rates, the\n  number of radioactive decays per second\n* Activity (software engineering)\n* Activity (soil mechanics)\n* [[HMS Activity (D94)]], an aircraft carrier of the Royal Navy\n* in military parlance, a military agency or unit (e.g. Intelligence\n  Support Activity)\n* Activity Theory, social constructivism (learning theory), Education The\n  special spelling 'Activiti' may mean:\n* Activiti, an open source Business Process Management (BPM) Platform\n",

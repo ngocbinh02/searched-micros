@@ -1,0 +1,133 @@
+{
+   "micrownet" : [
+      "enjoin",
+      "enjoining",
+      "enjoinment"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Judge_suspends_California_High_School_Exit_Exam_requirement\" title=\"Judge suspends California High School Exit Exam requirement\">Judge suspends California High School Exit Exam requirement</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Banned_film_%27The_Profit%27_appears_on_Web\" title=\"Banned film &#39;The Profit&#39; appears on Web\">Banned film &#39;The Profit&#39; appears on Web</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Wikileaks.org%27_taken_offline_in_many_areas_after_fire,_court_injunction\" title=\"&#39;Wikileaks.org&#39; taken offline in many areas after fire, court injunction\">&#39;Wikileaks.org&#39; taken offline in many areas after fire, court injunction</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/ACLU_commemorates_anniversary_of_US_Supreme_Court_decision_on_student_free_speech\" title=\"ACLU commemorates anniversary of US Supreme Court decision on student free speech\">ACLU commemorates anniversary of US Supreme Court decision on student free speech</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_federal_judge_and_Florida_judge_clash_over_Scientology_wrongful_death_case\" title=\"US federal judge and Florida judge clash over Scientology wrongful death case\">US federal judge and Florida judge clash over Scientology wrongful death case</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Church_of_Scientology_denied_injunction_against_Anonymous\" title=\"Church of Scientology denied injunction against Anonymous\">Church of Scientology denied injunction against Anonymous</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Illinois_judge_lifts_restraining_order_on_pre-abortion_parental_notification_law\" title=\"Illinois judge lifts restraining order on pre-abortion parental notification law\">Illinois judge lifts restraining order on pre-abortion parental notification law</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Payment_pending;_Canadian_recording_industry_set_for_six_billion_penalties%3F\" title=\"Payment pending; Canadian recording industry set for six billion penalties?\">Payment pending; Canadian recording industry set for six billion penalties?</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "To direct or impose with authority and emphasis.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=enjoin",
+      "HASH(0x4a4f918)",
+      "The Free Dictionary",
+      "enjoin",
+      "http://www.merriam-webster.com/dictionary/enjoin",
+      "enjoin definition: to direct or impose by authoritative order or with urgent admonition.",
+      "Merriam-Webster",
+      "HASH(0x4ace440)",
+      "To direct or impose with authority and emphasis.",
+      "A"
+   ],
+   "created" : 1373461817,
+   "book" : [],
+   "micro-www" : {
+      "enjoin" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Equity (law)",
+         "Judicial remedies",
+         "Legal terms"
+      ],
+      "text" : "\n\nAn 'injunction' is an equitable remedy in the form of a court order that\nrequires a party to do or refrain from doing specific acts. A party that fails\nto comply with an injunction faces criminal or civil penalties and may have to\npay damages or accept sanctions. In some cases, breaches of injunctions are\nconsidered serious criminal offenses that merit arrest and possible prison\nsentences.\n",
+      "title" : "Injunction",
+      "headings" : [
+         "Rationale and reasons for injunctions",
+         "Gag orders (many countries)",
+         "American injunctions",
+         "Australian apprehended violence orders",
+         "{{anchor|UK super-injunctions|UK superinjunction|UK super-injunction}}UK superinjunctions",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "3: Stalking",
+      "2: Domestic_violence",
+      "2: Harassment",
+      "1: Equitable_remedy",
+      "1: Court_order",
+      "1: Civil_penalty",
+      "1: Trespass",
+      "1: Discrimination",
+      "1: Bullying",
+      "1: Physical_abuse",
+      "1: Sexual_abuse",
+      "1: Real_property",
+      "1: Fraudulent_conveyance",
+      "1: Official_Secrets_Act_1989",
+      "1: Trade_dress",
+      "1: Trademark_infringement",
+      "1: Copyright_infringement",
+      "1: Patent_infringement",
+      "1: Trade_secrets",
+      "1: Tortious",
+      "1: Criminal_contempt",
+      "1: Civil_contempt",
+      "1: Unauthorized_practice_of_law",
+      "1: Gag_order",
+      "1: Preliminary_injunction",
+      "1: Trade_secret",
+      "1: Non-disclosure_agreement",
+      "1: Sexual_assault",
+      "1: Restraining_order",
+      "1: United_States_government",
+      "1: Pullman_Strike",
+      "1: United_States_federal_courts",
+      "1: Trade_union",
+      "1: United_Mine_Workers_of_America",
+      "1: Yellow_Dog_contract",
+      "1: Congress_of_the_United_States",
+      "1: Norris-LaGuardia_Act",
+      "1: Grievance",
+      "1: Arbitration",
+      "1: Collective_bargaining",
+      "1: Contract",
+      "1: Molestation",
+      "1: Defendant",
+      "1: Carter-Ruck",
+      "1: Trafigura",
+      "1: 2006_Côte_d'Ivoire_toxic_waste_dump",
+      "1: Parliamentary_privilege",
+      "1: Roy_Greenslade",
+      "1: Alan_Rusbridger",
+      "1: David_Neuberger,_Baron_Neuberger_of_Abbotsbury",
+      "1: Gagging_order",
+      "1: Anti-Social_Behaviour_Order",
+      "1: Anti-suit_injunction",
+      "1: Anti-Injunction_Act",
+      "1: Legal_burden_of_proof",
+      "1: Civil_litigation",
+      "1: Interim_order",
+      "1: Cross-border_injunction",
+      "1: Declaratory_judgment",
+      "1: Equity_court",
+      "1: Gang_injunction",
+      "1: Lawburrows",
+      "1: Lawsuit",
+      "1: Mareva_injunction",
+      "1: Petition_for_stay",
+      "1: Peace_bond",
+      "1: Protection_From_Abuse",
+      "1: Quia_timet"
+   ]
+}

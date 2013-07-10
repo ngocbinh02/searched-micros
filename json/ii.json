@@ -133,30 +133,7 @@
       "twain",
       "abstraction"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Ii",
-      "\n<a href=\"http://duckduckgo.com/Ii%2C_Finland\">Ii, Finland</a>, a municipality of Finland",
-      "Wikipedia",
-      "\n<a href=\"http://duckduckgo.com/iiNet\">iiNet</a>, a major Australian Internet service provider trading as simply ii;",
-      "Ii",
-      "\n<a href=\"http://duckduckgo.com/ii_(digraph)\">ii (digraph)</a>, a digraph in certain romanized alphabets",
-      "http://www.merriam-webster.com/dictionary/ii",
-      "\n<a href=\"http://duckduckgo.com/Invariant_chain\">Invariant chain</a> - The invariant chain (Abbreviated Ii) is a special polypeptide involved in the formation and deliverance of MHC class II protein.",
-      "ii definition: acceptance of the null hypothesis in statistical testing when it is false.",
-      "\n<a href=\"http://duckduckgo.com/John_Papa_%C4%AA%C4%AB\">John Papa Īī</a>, Hawaiian noble",
-      "\n<a href=\"http://duckduckgo.com/Ii_Naomasa\">Ii Naomasa</a>, one of four Guardians of the Tokugawa clan",
-      "\n<a href=\"http://duckduckgo.com/nuosu_language\">Yi language</a> (ISO 639 alpha-2, ii)",
-      "\n<a href=\"http://duckduckgo.com/2_(number)\">2 (number)</a>, in lowercase <a href=\"http://duckduckgo.com/?q=Roman numerals\">Roman numerals</a>",
-      "\n<a href=\"http://duckduckgo.com/Ii_clan\">Ii clan</a>, Japanese clan (Sengoku period)",
-      "\n<a href=\"http://duckduckgo.com/illegal_immigration\">Illegal immigrant</a> (especially in Hong Kong vernacular)",
-      "HASH(0x50b51b0)",
-      "\n<a href=\"http://duckduckgo.com/Naoyuki_Ii\">Ii Naoyuki</a>, a Japanese author",
-      "Merriam-Webster",
-      "HASH(0x514a648)",
-      "\n<a href=\"http://duckduckgo.com/ii_(IRC_client)\">ii (IRC client)</a>, short for IRC It, an Internet Relay Chat client for Unix-like operating systems",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Supertonic\">Supertonic</a>, in music"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Second_World_War\" title=\"Second World War\">Second World War</a>",
@@ -185,13 +162,35 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Ii",
+      "\n<a href=\"http://duckduckgo.com/Ii%2C_Finland\">Ii, Finland</a>, a municipality of Finland",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/iiNet\">iiNet</a>, a major Australian Internet service provider trading as simply ii;",
+      "Ii",
+      "\n<a href=\"http://duckduckgo.com/ii_(digraph)\">ii (digraph)</a>, a digraph in certain romanized alphabets",
+      "http://www.merriam-webster.com/dictionary/ii",
+      "\n<a href=\"http://duckduckgo.com/Invariant_chain\">Invariant chain</a> - The invariant chain (Abbreviated Ii) is a special polypeptide involved in the formation and deliverance of MHC class II protein.",
+      "ii definition: acceptance of the null hypothesis in statistical testing when it is false.",
+      "\n<a href=\"http://duckduckgo.com/John_Papa_%C4%AA%C4%AB\">John Papa Īī</a>, Hawaiian noble",
+      "\n<a href=\"http://duckduckgo.com/Ii_Naomasa\">Ii Naomasa</a>, one of four Guardians of the Tokugawa clan",
+      "\n<a href=\"http://duckduckgo.com/nuosu_language\">Yi language</a> (ISO 639 alpha-2, ii)",
+      "\n<a href=\"http://duckduckgo.com/2_(number)\">2 (number)</a>, in lowercase <a href=\"http://duckduckgo.com/?q=Roman numerals\">Roman numerals</a>",
+      "\n<a href=\"http://duckduckgo.com/Ii_clan\">Ii clan</a>, Japanese clan (Sengoku period)",
+      "\n<a href=\"http://duckduckgo.com/illegal_immigration\">Illegal immigrant</a> (especially in Hong Kong vernacular)",
+      "HASH(0x50b51b0)",
+      "\n<a href=\"http://duckduckgo.com/Naoyuki_Ii\">Ii Naoyuki</a>, a Japanese author",
+      "Merriam-Webster",
+      "HASH(0x514a648)",
+      "\n<a href=\"http://duckduckgo.com/ii_(IRC_client)\">ii (IRC client)</a>, short for IRC It, an Internet Relay Chat client for Unix-like operating systems",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Supertonic\">Supertonic</a>, in music"
+   ],
    "micro-www-search" : [
       "iizuka\n>http\nhttp://dossier.ogp.noaa.gov/GCOS/WMO-Normals/RA-II/JP/47809.TXT\nhttp://en.m.wikipedia.org/wiki/Iizuka\nhttp://en.wikipedia.org/w/index.php?title=Iizuka\nhttp://toolserver.org/~geohack/geohack.php?pagename=Iizuka\nhttp://www.city.iizuka.lg.jp/\nhttp://www.kyutech.ac.jp/english/iizuka/index.html\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Flag_of_Iizuka%2C_Fukuoka.svg/100px-Flag_of_Iizuka%2C_Fukuoka.svg.png\n\n",
       "iia\n>http\nhttp://en.m.wikipedia.org/wiki/Iia\nhttp://en.wikipedia.org/w/index.php?title=Iia\nhttp://toolserver.org/~geohack/geohack.php?pagename=Iia\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Estonia_location_map.svg/250px-Estonia_location_map.svg.png\n"
    ],
    "created" : 1373460836,
-   "book" : [],
    "micro-www" : {
       "ii" : [
          "iizuka",
@@ -199,6 +198,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Surnames"

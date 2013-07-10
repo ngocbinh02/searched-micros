@@ -17,6 +17,14 @@
       "deamination",
       "activity"
    ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
    "duck" : [
       "Deamination is the removal of an amine group from a molecule.",
       "https://en.wikipedia.org/wiki/Deamination",
@@ -33,20 +41,11 @@
       "Deamination is the removal of an amine group from a molecule.",
       "A"
    ],
-   "common" : {
-      "milestones" : [],
-      "image" : [
-         [],
-         []
-      ]
-   },
-   "Lists" : [],
    "micro-www-search" : [
       "deamination\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n\n",
       "Deamination\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n"
    ],
    "created" : 1373457434,
-   "book" : [],
    "micro-www" : {
       "deamination" : [
          "deamination",
@@ -54,6 +53,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Metabolism",

@@ -1,0 +1,53 @@
+{
+   "micrownet" : [
+      "geographic_region"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/National_Geographic_reporter_faces_espionage_charges_in_Sudan\" title=\"National Geographic reporter faces espionage charges in Sudan\">National <span class=\"searchmatch\">Geographic</span> reporter faces espionage charges in Sudan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_strain_of_Bird_Flu_appears_in_China\" title=\"New strain of Bird Flu appears in China\">New strain of Bird Flu appears in China</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_species_of_dart_frog_discovered_in_Colombia\" title=\"New species of dart frog discovered in Colombia\">New species of dart frog discovered in Colombia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_fossils_from_10_million_year_old_ape_found_in_Ethiopia\" title=\"New fossils from 10 million year old ape found in Ethiopia\">New fossils from 10 million year old ape found in Ethiopia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:January_11,_2008\" title=\"News briefs:January 11, 2008\">News briefs:January 11, 2008</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:January_11,_2008#Fourteen_days_left_to_send_National_Geographic_your_shoe_for_world_record\" title=\"News briefs:January 11, 2008\">Fourteen days left to send National <span class=\"searchmatch\">Geographic</span> your shoe for world </a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Passengers_rescued_from_stranded_Antarctic_cruise_ship\" title=\"Passengers rescued from stranded Antarctic cruise ship\">Passengers rescued from stranded Antarctic cruise ship</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Rocketeers_find_possible_impact_crater_in_Nevada\" title=\"Rocketeers find possible impact crater in Nevada\">Rocketeers find possible impact crater in Nevada</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Shimon_Peres_discusses_the_future_of_Israel\" title=\"Shimon Peres discusses the future of Israel\">Shimon Peres discusses the future of Israel</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Oldest_human_fossils_dated_as_200,000yrs_old\" title=\"Oldest human fossils dated as 200,000yrs old\">Oldest human fossils dated as 200,000yrs old</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Strongest_earthquake_in_40_years_hits_Southeast_Asia\" title=\"Strongest earthquake in 40 years hits Southeast Asia\">Strongest earthquake in 40 years hits Southeast Asia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ontario_Votes_2007:_Interview_with_Progessive_Conservative_candidate_Tyler_Currie,_Trinity-Spadina\" title=\"Ontario Votes 2007: Interview with Progessive Conservative candidate Tyler Currie, Trinity-Spadina\">Ontario Votes 2007: Interview with Progessive Conservative candidate Tyler Currie, Trinity-Spadina</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/World_Bank_gives_Kiribati_emergency_aid\" title=\"World Bank gives Kiribati emergency aid\">World Bank gives Kiribati emergency aid</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Six_soldiers_killed_in_Senegal_after_ambush\" title=\"Six soldiers killed in Senegal after ambush\">Six soldiers killed in Senegal after ambush</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_MPs_suggest_Australia_and_New_Zealand_unification\" title=\"Australian MPs suggest Australia and New Zealand unification\">Australian MPs suggest Australia and New Zealand unification</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Swine_flu:_recent_developments_worldwide\" title=\"Swine flu: recent developments worldwide\">Swine flu: recent developments worldwide</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/India,_China_to_jointly_construct_Buddhist_temple_in_Henan_Province\" title=\"India, China to jointly construct Buddhist temple in Henan Province\">India, China to jointly construct Buddhist temple in Henan Province</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Interview_with_Derek_Begley,_Regional_Council_candidate_for_Wards_9_%26_10_in_Brampton,_Canada\" title=\"Interview with Derek Begley, Regional Council candidate for Wards 9 &amp; 10 in Brampton, Canada\">Interview with Derek Begley, Regional Council candidate for Wards 9 &amp; 10 in Brampton, Canada</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Confidential_EU_report_about_Israels_annexation_of_East_Jerusalem\" title=\"Confidential EU report about Israels annexation of East Jerusalem\">Confidential EU report about Israels annexation of East Jerusalem</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "HASH(0x4ace458)",
+      "HASH(0x47cc9c0)"
+   ],
+   "created" : 1373461870,
+   "book" : [],
+   "micro-www" : {
+      "geographic_region" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "#redirectRegion\n",
+      "title" : "geographic region",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Region"
+   ]
+}

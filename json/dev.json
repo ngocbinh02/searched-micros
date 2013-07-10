@@ -108,20 +108,7 @@
       "devries"
    ],
    "micro" : [],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Dev_(singer)\">Dev (singer)</a> or Devin Star Tailes (born 1989), American rapper, singer and songwriter",
-      "https://en.wikipedia.org/wiki/Dev",
-      "HASH(0x501c210)",
-      "Wikipedia",
-      "Dev",
-      "\n<a href=\"http://duckduckgo.com/Dev_(actor)\">Dev (actor)</a> or Deepak Adhikari (born 1982), Bengali actor",
-      "http://www.merriam-webster.com/dictionary/dev",
-      "dev definition: deviation.",
-      "Merriam-Webster",
-      "HASH(0x5020160)",
-      "\n<a href=\"http://duckduckgo.com/Kapil_Dev\">Kapil Dev</a> (born 1959), Indian cricketer",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Test_article_for_dev_use\" title=\"Test article for dev use\">Test article for <span class=\"searchmatch\">dev</span> use</a>",
@@ -147,7 +134,20 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Dev_(singer)\">Dev (singer)</a> or Devin Star Tailes (born 1989), American rapper, singer and songwriter",
+      "https://en.wikipedia.org/wiki/Dev",
+      "HASH(0x501c210)",
+      "Wikipedia",
+      "Dev",
+      "\n<a href=\"http://duckduckgo.com/Dev_(actor)\">Dev (actor)</a> or Deepak Adhikari (born 1982), Bengali actor",
+      "http://www.merriam-webster.com/dictionary/dev",
+      "dev definition: deviation.",
+      "Merriam-Webster",
+      "HASH(0x5020160)",
+      "\n<a href=\"http://duckduckgo.com/Kapil_Dev\">Kapil Dev</a> (born 1959), Indian cricketer",
+      "D"
+   ],
    "micro-www-search" : [
       "devoted\n>http\nhttp://books.simonandschuster.com/Devoted/Hilary-Duff/9781442408555\nhttp://en.m.wikipedia.org/wiki/Devoted\nhttp://en.wikipedia.org/w/index.php?title=Devoted&oldid=532452337\nhttp://hollywoodcrush.mtv.com/2011/10/10/hilary-duff-devoted-novel/\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/4/4c/HilDuff_Devoted.jpg/150px-HilDuff_Devoted.jpg\n\n",
       "devoid\n>http\nhttp://en.m.wikipedia.org/wiki/Devoid\nhttp://en.wikipedia.org/w/index.php?title=Devoid&oldid=389119998\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n\n",
@@ -220,7 +220,6 @@
       "Dev_(actor)\n>pdf\nhttp://kalakarawards.co/images/listofawardees.pdf\nhttp://kalakarawards.co/images/listofawardees.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Acap.svg/36px-Acap.svg.png\n"
    ],
    "created" : 1373460185,
-   "book" : [],
    "micro-www" : {
       "dev" : [
          "devoted",
@@ -295,6 +294,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Dev' may refer to:\n",

@@ -24,22 +24,7 @@
       "attach",
       "abstraction"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Binding",
-      "\n<a href=\"http://duckduckgo.com/contract\">Legally binding</a>, in law",
-      "HASH(0x2d4f4d8)",
-      "Wikipedia",
-      "\n<a href=\"http://duckduckgo.com/Binding_(linguistics)\">Binding (linguistics)</a>, a property relating to anaphors (and pronouns and R-expressions) and c-command",
-      "Binding",
-      "\n<a href=\"http://duckduckgo.com/Binding_energy\">Binding energy</a>, the mechanical energy required to disassemble a whole into separate parts",
-      "http://www.merriam-webster.com/dictionary/binding",
-      "\n<a href=\"http://duckduckgo.com/Foot_binding\">Foot binding</a>, a custom practiced on young girls and women in China, beginning in the 10th century and ending in the first half of 20th century",
-      "binding definition: the action of one that binds.",
-      "Merriam-Webster",
-      "HASH(0x5b367e0)",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Bookbinding\">Bookbinding</a>, the protective cover of a book and the art of constructing this"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Kyoto_Treaty_becomes_legally_binding_on_February_16\" title=\"Kyoto Treaty becomes legally binding on February 16\">Kyoto Treaty becomes legally <span class=\"searchmatch\">binding</span> on February 16</a>",
@@ -69,7 +54,22 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Binding",
+      "\n<a href=\"http://duckduckgo.com/contract\">Legally binding</a>, in law",
+      "HASH(0x2d4f4d8)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Binding_(linguistics)\">Binding (linguistics)</a>, a property relating to anaphors (and pronouns and R-expressions) and c-command",
+      "Binding",
+      "\n<a href=\"http://duckduckgo.com/Binding_energy\">Binding energy</a>, the mechanical energy required to disassemble a whole into separate parts",
+      "http://www.merriam-webster.com/dictionary/binding",
+      "\n<a href=\"http://duckduckgo.com/Foot_binding\">Foot binding</a>, a custom practiced on young girls and women in China, beginning in the 10th century and ending in the first half of 20th century",
+      "binding definition: the action of one that binds.",
+      "Merriam-Webster",
+      "HASH(0x5b367e0)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Bookbinding\">Bookbinding</a>, the protective cover of a book and the art of constructing this"
+   ],
    "micro-www-search" : [
       "binding_energy\n>http\nhttp://en.m.wikipedia.org/wiki/Binding_energy\nhttp://en.wikipedia.org/w/index.php?title=Binding_energy&oldid=557329203\nhttp://library.thinkquest.org/17940/texts/binding_energy/binding_energy.html\nhttp://www.britannica.com/EBchecked/topic/65615/binding-energy\nhttp://www.nuceng.ca/igna/binding_energy.htm\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/NuclearReaction.png/200px-NuclearReaction.png\n\n",
       "binding\n>http\nhttp://en.m.wikipedia.org/wiki/Binding\nhttp://en.wikipedia.org/w/index.php?title=Binding&oldid=540538792\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
@@ -87,7 +87,6 @@
       "Binding_(knitting)\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Knit_gathers_pullover.jpg/220px-Knit_gathers_pullover.jpg\n"
    ],
    "created" : 1373457094,
-   "book" : [],
    "micro-www" : {
       "binding" : [
          "binding_energy",
@@ -107,6 +106,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n__NOTOC__ 'Binding' may refer to:\n\n* Binding (linguistics), a property relating to anaphors (and pronouns and R-\n  expressions) and c-command\n* Legally binding, in law\n",

@@ -12,22 +12,7 @@
       "modify",
       "estrange"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Alienation",
-      "\n<a href=\"http://duckduckgo.com/Social_alienation\">Social alienation</a>, the individual subject's estrangement from its community, society, or world",
-      "HASH(0x5c89a40)",
-      "Wikipedia",
-      "\n<a href=\"http://duckduckgo.com/Alienation_(property_law)\">Alienation (property law)</a>, the legal transfer of <a href=\"http://duckduckgo.com/?q=title\">title</a> of ownership to another party",
-      "Alienation",
-      "\n<a href=\"http://duckduckgo.com/distancing_effect\">Alienation effect</a>, a theatrical and cinematic device by which the audience is \"alienated\" from a play or film",
-      "http://www.merriam-webster.com/dictionary/alienation",
-      "alienation definition: a withdrawing or separation of a person or a person's affections from an object or position of former attachment.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Parental_alienation\">Parental alienation</a> or <a href=\"http://duckduckgo.com/?q=parental alienation syndrome\">parental alienation syndrome</a>, hostility between a child and its parent",
-      "HASH(0x5c90b78)",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Marx's_theory_of_alienation\">Marx's theory of alienation</a>, the separation of things that naturally belong together, or antagonism between things that are properly in harmony"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/John_Major_brings_%22Anglo_Saxon_way_of_life%22_into_terrorist_discussion\" title=\"John Major brings &quot;Anglo Saxon way of life&quot; into terrorist discussion\">John Major brings &quot;Anglo Saxon way of life&quot; into terrorist discussion</a>",
@@ -54,15 +39,30 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Alienation",
+      "\n<a href=\"http://duckduckgo.com/Social_alienation\">Social alienation</a>, the individual subject's estrangement from its community, society, or world",
+      "HASH(0x5c89a40)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Alienation_(property_law)\">Alienation (property law)</a>, the legal transfer of <a href=\"http://duckduckgo.com/?q=title\">title</a> of ownership to another party",
+      "Alienation",
+      "\n<a href=\"http://duckduckgo.com/distancing_effect\">Alienation effect</a>, a theatrical and cinematic device by which the audience is \"alienated\" from a play or film",
+      "http://www.merriam-webster.com/dictionary/alienation",
+      "alienation definition: a withdrawing or separation of a person or a person's affections from an object or position of former attachment.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Parental_alienation\">Parental alienation</a> or <a href=\"http://duckduckgo.com/?q=parental alienation syndrome\">parental alienation syndrome</a>, hostility between a child and its parent",
+      "HASH(0x5c90b78)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Marx's_theory_of_alienation\">Marx's theory of alienation</a>, the separation of things that naturally belong together, or antagonism between things that are properly in harmony"
+   ],
    "micro-www-search" : [],
    "created" : 1373455192,
-   "book" : [],
    "micro-www" : {
       "alienate" : [
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Alienation' may refer to:\n\n*Alienation (property law), the legal transfer of title of ownership to another\nparty *\"Alienation\", the medical term for splitting apart of the faculties of\nthe mind *Social alienation, the individual subject's estrangement from its\ncommunity, society, or world *Marx's theory of alienation, the separation of\nthings that naturally belong together, or antagonism between things that are\nproperly in harmony *Alienation effect, a theatrical and cinematic device by\nwhich the audience is \"alienated\" from a play or film\n* Parental alienation or parental alienation syndrome, hostility between a child\n  and its parent\n",

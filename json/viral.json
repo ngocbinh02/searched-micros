@@ -9,7 +9,19 @@
       "viral_pneumonia"
    ],
    "micro" : [],
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Viral",
+      "\n<a href=\"http://duckduckgo.com/viral_phenomenon\">viral phenomenon</a>, relating to contagion theory or the \"virality\" of network culture",
+      "HASH(0x5cfd950)",
+      "Wikipedia",
+      "Viral",
+      "http://www.merriam-webster.com/dictionary/viral",
+      "viral definition: of, relating to, or caused by a virus.",
+      "Merriam-Webster",
+      "HASH(0x5c779d0)",
+      "\n<a href=\"http://duckduckgo.com/viral_marketing\">viral marketing</a>, the use of existing social networks to spread a marketing message",
+      "D"
+   ],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bird_flu_resistant_to_anti-viral_drug\" title=\"Bird flu resistant to anti-viral drug\">Bird flu resistant to anti-<span class=\"searchmatch\">viral</span> drug</a>",
@@ -37,19 +49,7 @@
          []
       ]
    },
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Viral",
-      "\n<a href=\"http://duckduckgo.com/viral_phenomenon\">viral phenomenon</a>, relating to contagion theory or the \"virality\" of network culture",
-      "HASH(0x5cfd950)",
-      "Wikipedia",
-      "Viral",
-      "http://www.merriam-webster.com/dictionary/viral",
-      "viral definition: of, relating to, or caused by a virus.",
-      "Merriam-Webster",
-      "HASH(0x5c779d0)",
-      "\n<a href=\"http://duckduckgo.com/viral_marketing\">viral marketing</a>, the use of existing social networks to spread a marketing message",
-      "D"
-   ],
+   "Lists" : [],
    "micro-www-search" : [
       "viral\n>http\nhttp://en.m.wikipedia.org/wiki/Viral\nhttp://en.wikipedia.org/w/index.php?title=Viral&oldid=541277598\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "Viral_video\n>http\nhttp://en.m.wikipedia.org/wiki/Viral_video\nhttp://en.wikipedia.org/w/index.php?title=Viral_video&oldid=544321720\nhttp://www.dailymail.co.uk/news/article-1319626/Dancing-rain-Video-young-street-dancers-viral-internet-sensation.html\nhttp://www.guardian.co.uk/media/pda/2007/jun/08/guardianviralvideochart23\nhttp://www.guardian.co.uk/technology/2010/sep/08/youtube-viral-promotion-trivial-pursuit\nhttp://www.guardian.co.uk/technology/series/viralvideochart\nhttp://www.life.com/gallery/61831/photos-gone-viral#index/0\nhttp://www.northwestern.edu/newscenter/stories/2009/03/viralvideo.html\n\n>pdf\nhttp://eprints.qut.edu.au/18431/1/18431.pdf\nhttp://eprints.qut.edu.au/18431/1/18431.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Crystal_Clear_app_browser.png/28px-Crystal_Clear_app_browser.png\n\n",
@@ -65,6 +65,7 @@
       "Viral_disease\n>http\nhttp://en.m.wikipedia.org/wiki/Viral_disease\nhttp://en.wikipedia.org/w/index.php?title=Viral_disease&oldid=545380035\n"
    ],
    "created" : 1373457803,
+   "book" : [],
    "micro-www" : {
       "viral" : [
          "viral",
@@ -82,7 +83,6 @@
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\nThe adjective or adverb 'viral' and the noun 'virality' may refer to any viral\nphenomenon, that is, an object or pattern that is able to induce some agents to\nreplicate it, resulting in many copies being produced and spread around. For\nexample, virality relating to social, cultural, emotional and affective\ncontagions that spread through sociotechnical networks.\n\nIn medical terminology \"viral\" means pertaining to a virus.\n\nMore specifically, the terms may be used in reference to:\n* a biological virus\n* a computer virus\n* a meme\n* viral marketing, the use of existing social networks to spread a\n  marketing message\n* viral phenomenon, relating to contagion theory or the \"virality\" of\n  network culture\n* a viral video, a video that quickly attains a high popularity through\n  the Internet\n",

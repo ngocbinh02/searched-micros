@@ -1,0 +1,40 @@
+{
+   "micrownet" : [
+      "good_luck_charm"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "HASH(0x4a259e0)",
+      "HASH(0x4a5a9c8)"
+   ],
+   "created" : 1373461280,
+   "book" : [],
+   "micro-www" : {
+      "good_luck_charm" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Luck",
+         "Amulets|"
+      ],
+      "text" : "'Good luck charm' is a charm that is believed to bring good luck. An example of\nthis is a blessing that a minister or a priest gives at the end of a ceremony.\nLater on, people assumed that spoken words were temporary whereas a solid object\nis more permanent. Objects that have extraordinary significance such as the\nsplinter believed to be from the cross of Jesus Christ were substituted for the\noriginal spoken or sung charms.\n\nAlmost any object can be used as a charm. Coins and buttons are good examples.\nSmall objects that are given to you make very good lucky charms. It is because\nof the favorable associations they make. Several souvenir shops have a range of\ntiny items that may be used as good luck charms. Good luck charms are usually\nworn on the body although there are exceptions.<ref name=\"charms/\"></ref>\n",
+      "title" : "good luck charm",
+      "headings" : [
+         "History",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "1: Amulet",
+      "1: Luck"
+   ]
+}

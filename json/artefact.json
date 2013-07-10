@@ -1,0 +1,64 @@
+{
+   "micrownet" : [
+      "artefact",
+      "artefactual"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/National_Museum_of_Scotland_reopens_after_three-year_redevelopment\" title=\"National Museum of Scotland reopens after three-year redevelopment\">National Museum of Scotland reopens after three-year redevelopment</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/FanFiction.Net_adult_content_purge_felt_across_fandom_two_weeks_on\" title=\"FanFiction.Net adult content purge felt across fandom two weeks on\">FanFiction.Net adult content purge felt across fandom two weeks on</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/A_portrait_of_Scotland:_Gallery_reopens_after_%C2%A317.6_million_renovation\" title=\"A portrait of Scotland: Gallery reopens after £17.6 million renovation\">A portrait of Scotland: Gallery reopens after £17.6 million renovation</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Crosswords/2005/February/20\" title=\"Crosswords/2005/February/20\">Crosswords/2005/February/20</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:January_03,_2008\" title=\"News briefs:January 03, 2008\">News briefs:January 03, 2008</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Artifact_(software_development)\">Artifact (software development)</a>, one of many kinds of tangible byproducts produced during the development of software",
+      "https://en.wikipedia.org/wiki/Artifact",
+      "\n<a href=\"http://duckduckgo.com/Artifact_(archaeology)\">Artifact (archaeology)</a>, an object formed by humans, particularly one of interest to archaeologists",
+      "HASH(0x49d4708)",
+      "Wikipedia",
+      "Artifact",
+      "http://www.merriam-webster.com/dictionary/artifact",
+      "\n<a href=\"http://duckduckgo.com/Compression_artifact\">Compression artifact</a>, when the data compression of an image, audio, or video is too complex, resulting in a loss of clarity",
+      "artifact definition: something created by humans usually for a practical purpose; '''especially'''.",
+      "Merriam-Webster",
+      "HASH(0x4c86a40)",
+      "D"
+   ],
+   "created" : 1373461769,
+   "book" : [],
+   "micro-www" : {
+      "artefact" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Artifact(s)', or 'artefact(s)', may refer to:\n",
+      "title" : "Artifact",
+      "headings" : [
+         "Objects",
+         "Errors",
+         "In popular culture",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Cultural_artifact",
+      "1: Social_artifact",
+      "1: Virtual_artifact",
+      "1: Compression_artifact",
+      "1: Digital_artifact",
+      "1: Iatrogenesis",
+      "1: Visual_artifact",
+      "1: Gregory_Benford",
+      "1: American_and_British_English_spelling_differences#Miscellaneous_spelling_differences",
+      "1: Magic_item"
+   ]
+}

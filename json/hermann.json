@@ -52,17 +52,7 @@
       "whole",
       "denizen"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Hermann",
-      "\n<a href=\"http://duckduckgo.com/Hermann_AVA\">Hermann AVA</a>, Missouri wine region",
-      "HASH(0x5d6e040)",
-      "Wikipedia",
-      "Hermann",
-      "\n<a href=\"http://duckduckgo.com/Hermann%2C_Missouri\">Hermann, Missouri</a>, a town on the Missouri River in the United States",
-      "\n<a href=\"http://duckduckgo.com/Hermann_(name)\">Hermann (name)</a>, list of people with this name",
-      "HASH(0x5d4d500)",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/German_pilot_Elly_Beinhorn_dies,_aged_100\" title=\"German pilot Elly Beinhorn dies, aged 100\">German pilot Elly Beinhorn dies, aged 100</a>",
@@ -78,7 +68,17 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Hermann",
+      "\n<a href=\"http://duckduckgo.com/Hermann_AVA\">Hermann AVA</a>, Missouri wine region",
+      "HASH(0x5d6e040)",
+      "Wikipedia",
+      "Hermann",
+      "\n<a href=\"http://duckduckgo.com/Hermann%2C_Missouri\">Hermann, Missouri</a>, a town on the Missouri River in the United States",
+      "\n<a href=\"http://duckduckgo.com/Hermann_(name)\">Hermann (name)</a>, list of people with this name",
+      "HASH(0x5d4d500)",
+      "D"
+   ],
    "micro-www-search" : [
       "hermann\n>http\nhttp://en.m.wikipedia.org/wiki/Hermann\nhttp://en.wikipedia.org/w/index.php?title=Hermann&oldid=542442805\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png\n\n",
       "Hermann_von_Helmholtz\n>http\nhttp://books.google.com/?id=Gx-ZGgeF2EwC&printsec=frontcover&dq=intitle:%22Hermann+Von+Helmholtz+and+the+Foundations+of+Nineteenth-century+Science%22\nhttp://en.m.wikipedia.org/wiki/Hermann_von_Helmholtz\nhttp://en.wikipedia.org/w/index.php?title=Hermann_von_Helmholtz&oldid=557879444\nhttp://plato.stanford.edu/entries/hermann-helmholtz\nhttp://www.archive.org/details/hermannludwig00mckeiala\nhttp://www.archive.org/details/hermannvonhelmho00koenrich\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hermann_von_Helmholtz.jpg/225px-Hermann_von_Helmholtz.jpg\n\n",
@@ -90,7 +90,6 @@
       "Hermann_(disambiguation)\n>http\nhttp://en.m.wikipedia.org/wiki/Hermann\nhttp://en.wikipedia.org/w/index.php?title=Hermann&oldid=546439390\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png\n"
    ],
    "created" : 1373455521,
-   "book" : [],
    "micro-www" : {
       "hermann" : [
          "hermann",
@@ -104,6 +103,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "'Hermann' or 'Herrmann' may refer to:\n\n* Hermann (name), list of people with this name\n* Hermann, Missouri, a town on the Missouri River in the United States **\n  Hermann AVA, Missouri wine region\n* The German SC1000 bomb of WWII was nicknamed the \"Hermann\" by the British, in\n  reference to Göring\n* Herrmann Hall, the former Hotel Del Monte, at the Naval Postgraduate School,\n  Monterey, California\n",

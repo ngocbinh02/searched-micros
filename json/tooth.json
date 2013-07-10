@@ -89,26 +89,7 @@
       "bone",
       "fang"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Tooth_disease\">Tooth disease</a>s - diseases affecting the teeth.",
-      "\n<a href=\"http://duckduckgo.com/Egg_tooth\">Egg tooth</a> used by <a href=\"http://duckduckgo.com/?q=hatchling\">hatchling</a>s to break through the <a href=\"http://duckduckgo.com/?q=eggshell\">eggshell</a>",
-      "https://en.wikipedia.org/wiki/Tooth_(disambiguation)",
-      "Wikipedia",
-      "Tooth",
-      "\n<a href=\"http://duckduckgo.com/Teething\">Teething</a>, the process by which an infant's teeth sequentially appear by breaking through the gums",
-      "http://www.merriam-webster.com/dictionary/tooth",
-      "tooth definition: one of the hard bony appendages that are borne on the jaws or in many of the lower vertebrates on other bones in the walls of the mouth or pharynx and serve especially for the prehension and mastication of food and as weapons of offense and defense.",
-      "\n<a href=\"http://duckduckgo.com/The_Teeth_(Filipino_band)\">The Teeth (Filipino band)</a> - Teeth is a Filipino rock band.",
-      "\n<a href=\"http://duckduckgo.com/Dental_disease\">Dental disease</a>s - diseases affecting the teeth, the <a href=\"http://duckduckgo.com/?q=gums\">gums</a>, or other tissues and parts of the mouth",
-      "\n<a href=\"http://duckduckgo.com/Teeth_(Lady_Gaga_song)\">Teeth (Lady Gaga song)</a>, a song by <a href=\"http://duckduckgo.com/?q=Lady Gaga\">Lady Gaga</a> from her EP <a href=\"http://duckduckgo.com/?q=The Fame Monster\">The Fame Monster</a>",
-      "HASH(0x524a470)",
-      "\n<a href=\"http://duckduckgo.com/Tooth\">Tooth</a> for teeth in animals",
-      "\n<a href=\"http://duckduckgo.com/Dental_anatomy\">Dental anatomy</a> - field of anatomy involving the study of human tooth structures",
-      "Merriam-Webster",
-      "HASH(0x53f9558)",
-      "\n<a href=\"http://duckduckgo.com/Human_tooth\">Human tooth</a> for teeth in humans",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Toothpaste_fills_cavities_without_drilling\" title=\"Toothpaste fills cavities without drilling\">Toothpaste fills cavities without drilling</a>",
@@ -136,7 +117,26 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Tooth_disease\">Tooth disease</a>s - diseases affecting the teeth.",
+      "\n<a href=\"http://duckduckgo.com/Egg_tooth\">Egg tooth</a> used by <a href=\"http://duckduckgo.com/?q=hatchling\">hatchling</a>s to break through the <a href=\"http://duckduckgo.com/?q=eggshell\">eggshell</a>",
+      "https://en.wikipedia.org/wiki/Tooth_(disambiguation)",
+      "Wikipedia",
+      "Tooth",
+      "\n<a href=\"http://duckduckgo.com/Teething\">Teething</a>, the process by which an infant's teeth sequentially appear by breaking through the gums",
+      "http://www.merriam-webster.com/dictionary/tooth",
+      "tooth definition: one of the hard bony appendages that are borne on the jaws or in many of the lower vertebrates on other bones in the walls of the mouth or pharynx and serve especially for the prehension and mastication of food and as weapons of offense and defense.",
+      "\n<a href=\"http://duckduckgo.com/The_Teeth_(Filipino_band)\">The Teeth (Filipino band)</a> - Teeth is a Filipino rock band.",
+      "\n<a href=\"http://duckduckgo.com/Dental_disease\">Dental disease</a>s - diseases affecting the teeth, the <a href=\"http://duckduckgo.com/?q=gums\">gums</a>, or other tissues and parts of the mouth",
+      "\n<a href=\"http://duckduckgo.com/Teeth_(Lady_Gaga_song)\">Teeth (Lady Gaga song)</a>, a song by <a href=\"http://duckduckgo.com/?q=Lady Gaga\">Lady Gaga</a> from her EP <a href=\"http://duckduckgo.com/?q=The Fame Monster\">The Fame Monster</a>",
+      "HASH(0x524a470)",
+      "\n<a href=\"http://duckduckgo.com/Tooth\">Tooth</a> for teeth in animals",
+      "\n<a href=\"http://duckduckgo.com/Dental_anatomy\">Dental anatomy</a> - field of anatomy involving the study of human tooth structures",
+      "Merriam-Webster",
+      "HASH(0x53f9558)",
+      "\n<a href=\"http://duckduckgo.com/Human_tooth\">Human tooth</a> for teeth in humans",
+      "D"
+   ],
    "micro-www-search" : [
       "Toothwort\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Lathraea_squamaria.jpg/220px-Lathraea_squamaria.jpg\n\n",
       "Toothpaste\n>pdf\nhttp://thejcdp.com/issue033/anil/anil.pdf\nhttp://thejcdp.com/issue033/anil/anil.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Toothpasteonbrush.jpg/275px-Toothpasteonbrush.jpg\n\n",
@@ -147,7 +147,6 @@
       "Tooth\n>http\nhttp://en.m.wikipedia.org/wiki/Tooth\nhttp://en.wikipedia.org/w/index.php?title=Tooth&oldid=545763609\n\n>pdf\nhttp://www.unce.unr.edu/publications/files/ag/2000/sp0008.pdf\nhttp://www.unce.unr.edu/publications/files/ag/2000/sp0008.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png\n"
    ],
    "created" : 1373460683,
-   "book" : [],
    "micro-www" : {
       "tooth" : [
          "Toothwort",
@@ -160,6 +159,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Articles with inconsistent citation formats",

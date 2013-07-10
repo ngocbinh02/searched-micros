@@ -21,8 +21,18 @@
       "earlyish"
    ],
    "micro" : [],
-   "Lists" : [
-      "List_of_minor_characters_in_Firefly#Jubal_Early"
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Jubal_Anderson_Early\">Jubal Anderson Early</a>, American Civil War general",
+      "https://en.wikipedia.org/wiki/Early",
+      "HASH(0x503f8e0)",
+      "Wikipedia",
+      "Early",
+      "http://www.merriam-webster.com/dictionary/early",
+      "early definition: near the beginning of a period of time.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Early_Christianity\">Early Christianity</a> - Early Christianity is generally considered as Christianity before 325.",
+      "HASH(0x4fae418)",
+      "D"
    ],
    "common" : {
       "milestones" : [
@@ -54,18 +64,8 @@
          []
       ]
    },
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Jubal_Anderson_Early\">Jubal Anderson Early</a>, American Civil War general",
-      "https://en.wikipedia.org/wiki/Early",
-      "HASH(0x503f8e0)",
-      "Wikipedia",
-      "Early",
-      "http://www.merriam-webster.com/dictionary/early",
-      "early definition: near the beginning of a period of time.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Early_Christianity\">Early Christianity</a> - Early Christianity is generally considered as Christianity before 325.",
-      "HASH(0x4fae418)",
-      "D"
+   "Lists" : [
+      "List_of_minor_characters_in_Firefly#Jubal_Early"
    ],
    "micro-www-search" : [
       "early_thermal_weapons\n>http\nhttp://en.wikipedia.org/w/index.php?title=Early_thermal_weapons&oldid=561368240\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Roberts_Siege_and_Destruction_of_Jerusalem.jpg/300px-Roberts_Siege_and_Destruction_of_Jerusalem.jpg\n\n",
@@ -91,6 +91,7 @@
       "Early_Bronze_Age\n>pdf\nhttp://penn.museum/documents/publications/expedition/PDFs/43-2/Science.pdf\nhttp://sino-platonic.org/complete/spp185_silk_road.pdf\nhttp://www.biomedcentral.com/content/pdf/1741-7007-8-15.pdf\nhttp://www.biomedcentral.com/content/pdf/1741-7007-8-15.pdf\nhttp://sino-platonic.org/complete/spp185_silk_road.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Metallurgical_diffusion.png/250px-Metallurgical_diffusion.png\n"
    ],
    "created" : 1373458968,
+   "book" : [],
    "micro-www" : {
       "early" : [
          "early_thermal_weapons",
@@ -117,7 +118,6 @@
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Early' may refer to:\n\n'History'\n* the beginning or oldest part of a defined historical period, as opposed to\n  middle or late periods ** e.g., Early modern Europe\n\n'Places': *In the United States: ** Early, Iowa ** Early, Texas ** Early\nCounty, Georgia\n\n'People':\n* Gerald Early, writer, culture critic and professor\n* James M. Early, electrical engineer for whom the Early effect was named\n* Joseph Early, congressman from Massachusetts\n* Jubal Anderson Early, American Civil War general\n* Early Doucet, American football wide receiver for the Arizona Cardinals\n* Early Wynn, Major League baseball pitcher, elected to the Baseball Hall of\n  Fame in 1972\n\n'Popular culture':\n* Early Cuyler, an anthropomorphic hillbilly squid in The Squidbillies.\n* Early Grayce, a sociopath in the film Kalifornia.\n* Jubal Early a fictional bounty hunter from the television series Firefly\n\n'Other uses':\n* Early Christianity\n* Early Records, a record label\n* Early effect, an effect in transistor physics\n",

@@ -1,9 +1,4 @@
 {
-   "micrownet" : [
-      "German",
-      "German_language",
-      "High_German"
-   ],
    "google" : [
       "/url?q=http://en.wikipedia.org/wiki/German_language&sa=U&ei=o-fYUdeHC8TkOsnwgdgP&ved=0CBgQFjAA&usg=AFQjCNFIeU-zTScagLncIkLmipmJsUL9fg",
       "/url?q=https://en.wikipedia.org/wiki/Germans&sa=U&ei=o-fYUdeHC8TkOsnwgdgP&ved=0CCAQFjAB&usg=AFQjCNGPj0q3xSu4CDuWg-VrlaNchN3GJQ",
@@ -16,6 +11,11 @@
       "/url?q=http://www.uni.edu/becker/German2.html&sa=U&ei=o-fYUdeHC8TkOsnwgdgP&ved=0CD8QFjAI&usg=AFQjCNECb13dPsCLiHRJvkwmpgl9tXhhFA",
       "/images?hl=en&q=German&gbv=1&num=10&gl=&sa=X&oi=image_result_group&ei=o-fYUdeHC8TkOsnwgdgP&ved=0CEMQsAQ",
       "/url?q=http://www.behindthename.com/names/usage/german&sa=U&ei=o-fYUdeHC8TkOsnwgdgP&ved=0CE8QFjAO&usg=AFQjCNEmg-84_NbMNGJkoNcRg6_ckLQLQQ"
+   ],
+   "micrownet" : [
+      "German",
+      "German_language",
+      "High_German"
    ],
    "micro" : [
       "berliner",
@@ -58,13 +58,7 @@
       "habitant",
       "armin"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Germania\">Germania</a> - Germania (Greek: Γερμανία) was the Greek and Roman geographic term for the geographical regions inhabited  mainly by peoples considered to be Germani.",
-      "\n<a href=\"http://duckduckgo.com/Germanic_peoples\">Germanic peoples</a>, any of the historical Germanic peoples",
-      "German",
-      "\n<a href=\"http://duckduckgo.com/Germans\">Germans</a>,  the people associated with the country of Germany",
-      "\n<a href=\"http://duckduckgo.com/Ethnic_Germans\">Ethnic Germans</a>, a person who is of German descent"
-   ],
+   "Lists" : [],
    "common" : {
       "news" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Germany\" title=\"Germany\"><span class=\"searchmatch\">Germany</span></a>",
@@ -294,7 +288,13 @@
          ]
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Germania\">Germania</a> - Germania (Greek: Γερμανία) was the Greek and Roman geographic term for the geographical regions inhabited  mainly by peoples considered to be Germani.",
+      "\n<a href=\"http://duckduckgo.com/Germanic_peoples\">Germanic peoples</a>, any of the historical Germanic peoples",
+      "German",
+      "\n<a href=\"http://duckduckgo.com/Germans\">Germans</a>,  the people associated with the country of Germany",
+      "\n<a href=\"http://duckduckgo.com/Ethnic_Germans\">Ethnic Germans</a>, a person who is of German descent"
+   ],
    "micro-www-search" : [
       "germany\n>http\nhttp://academic.cuesta.edu/intlang/german/education.html\nhttp://articles.timesofindia.indiatimes.com/2008-06-21/pollution/27752791_1_energy-security-global-energy-germany\nhttp://berkleycenter.georgetown.edu/resources/countries/germany\nhttp://books.google.de/books?id=MORMAQAAIAAJ&q=bachelor%27s+button+national+flower+germany&dq=bachelor%27s+button+national+flower+germany&hl=de&sa=X&ei=8HiTUcT_MMXysgagyYHYDA&ved=0CGcQ6AEwBjhQ\nhttp://books.google.de/books?id=mys8YuDFD34C&pg=PA201&dq=bachelor%27s+button+national+flower+germany&hl=de&sa=X&ei=SW6TUcOjNYjqswa87ID4Dg&ved=0CD4Q6AEwAA#v=onepage&q&f=false\nhttp://books.google.de/books?id=z2jlRq_0gOMC&pg=PA431&dq=cornflower+national+flower+germany&hl=de&sa=X&ei=3NqSUZKbOIWNtAb3u4HIDQ&ved=0CD4Q6AEwATgK#v=onepage&q=cornflower%20national%20flower%20germany&f=false\nhttp://books.google.de/books?id=zWoLHFZx72kC&q=bachelor%27s+button+national+flower+germany&dq=bachelor%27s+button+national+flower+germany&hl=de&sa=X&ei=EnSTUcXNIs_2sgant4DIDQ&ved=0CG0Q6AEwBzgy\nhttp://countrystudies.us/germany/159.htm\nhttp://en.wikipedia.org/w/index.php?title=Germany&oldid=561227117\nhttp://in.reuters.com/article/2007/11/14/us-germany-food-idINL1447732320071114\nhttp://money.cnn.com/magazines/fortune/global500/2010/countries/Germany.html\nhttp://ucblibraries.colorado.edu/govpubs/for/germany.htm\nhttp://www.aircraft-charter-world.com/airports/europe/germany.htm\nhttp://www.ambafrance-uk.org/Declaration-by-the-Franco-German\nhttp://www.businessweek.com/news/2010-09-23/germany-has-1-000-market-leading-companies-manager-magazin-says.html\nhttp://www.dmoz.org/Regional/Europe/Germany/\nhttp://www.dw.de/german-population-rises-thanks-to-immigration/a-16525083\nhttp://www.dw.de/more-skilled-immigrants-find-work-in-germany/a-16696339\nhttp://www.dw.de/vocational-education-and-training-germanys-dual-system-as-a-role-model/a-15782050\nhttp://www.focus-migration.de/Germany.1509.0.html?&L=1\nhttp://www.france24.com/en/20090106-germany-agrees-new-50-billion-euro-stimulus-plan\nhttp://www.germanculture.com.ua/library/facts/bl_climate.htm\nhttp://www.germanfoods.org/consumer/facts/guidetoham.cfm\nhttp://www.germany.info/relaunch/culture/life/sports.html\nhttp://www.germany.travel/en/index.html\nhttp://www.guardian.co.uk/environment/2010/jul/07/germany-renewable-energy-electricity\nhttp://www.guardian.co.uk/world/2010/nov/22/germany-abolish-compulsory-military-service\nhttp://www.guardian.co.uk/world/2011/mar/16/conscription-germany-army\nhttp://www.news24.com/World/News/Germany-extends-gay-rights-20041029\nhttp://www.nytimes.com/1989/08/22/world/westward-tide-of-east-germans-is-a-popular-no-confidence-vote.html?pagewanted=all&src=pm\nhttp://www.nytimes.com/2002/01/01/world/germans-say-goodbye-to-the-mark-a-symbol-of-strength-and-unity.html\nhttp://www.nytimes.com/2006/10/31/world/europe/31iht-germany.3343963.html\nhttp://www.nytimes.com/2009/06/19/world/europe/19germany.html\nhttp://www.spiegel.de/international/germany/0\nhttp://www.spiegel.de/international/germany/elite-young-immigrants-could-provide-future-stability-for-german-economy-a-885647.html\nhttp://www.studyineurope.eu/study-in-germany/admission/tuition-fees\nhttp://www.tnr.com/book/review/orderly-humane-expulsion-germans-richard-evans?page=0\nhttp://www.worldheritagesite.org/countries/germany.html\n\n>pdf\nhttp://ec.europa.eu/public_opinion/archives/ebs/ebs_243_en.pdf\nhttp://ec.europa.eu/public_opinion/archives/ebs/ebs_243_sum_en.pdf\nhttp://ec.europa.eu/publications/booklets/move/45/en.pdf\nhttp://epp.eurostat.ec.europa.eu/cache/ITY_OFFPUB/KS-EI-11-001/EN/KS-EI-11-001-EN.PDF\nhttp://fowid.de/fileadmin/datenarchiv/Religionszugehoerigkeit_Bevoelkerung__1950-2008.pdf\nhttp://germany.usembassy.gov/germany/img/assets/9336/econ_factsheet_may2006.pdf\nhttp://hdr.undp.org/en/media/HDR_2010_EN_Tables_reprint.pdf\nhttp://hdr.undp.org/en/media/HDR_2013_CH.pdf\nhttp://lcweb2.loc.gov/frd/cs/profiles/Germany.pdf\nhttp://siteresources.worldbank.org/DATASTATISTICS/Resources/GDP.pdf\nhttp://siteresources.worldbank.org/DATASTATISTICS/Resources/GDP_PPP.pdf\nhttp://www.agribenchmark.org/fileadmin/freefiles/ccc_2010/Poster_Germany.pdf\nhttp://www.bcg.com/documents/file15445.pdf\nhttp://www.bmbf.de/pub/bufi_2010_en.pdf\nhttp://www.btg-bestellservice.de/pdf/80201000.pdf\nhttp://www.destatis.de/DE/Publikationen/Thematisch/Bevoelkerung/MigrationIntegration/Migrationshintergrund2010220107004.pdf\nhttp://www.deutsche-metropolregionen.org/fileadmin/ikm/01_monitoring/IKM_Monitoring2010.pdf\nhttp://www.euro.who.int/__data/assets/pdf_file/0010/80776/E68952.pdf\nhttp://www.fiapf.org/pdf/2006accreditedFestivalsDirectory.pdf\nhttp://www.fiapf.org/pdf/2006accreditedFestivalsDirectory.pdf\nhttp://www.gesetze-im-internet.de/bundesrecht/gg/gesamt.pdf\nhttp://www.ghi-dc.org/files/publications/bu_supp/supp1/supp-01_005.pdf\nhttp://www.kst.portalu.de/dokumente/Aktuelles/Inventar-Bericht_Treibhausgas_2008.pdf\nhttp://www.oecd.org/dataoecd/17/9/44981892.pdf\nhttp://www.un.org/esa/population/publications/2006Migration_Chart/Migration2006.pdf\nhttp://hdr.undp.org/en/media/HDR_2013_CH.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/c/cb/National_anthem_of_Germany_-_U.S._Army_1st_Armored_Division_Band.ogg\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png\n\n>media\nhttp://upload.wikimedia.org/wikipedia/commons/c/cb/National_anthem_of_Germany_-_U.S._Army_1st_Armored_Division_Band.ogg\n\n",
       "germans\n>http\nhttp://books.google.com/books?id=QRINAQAAIAAJ&pg=PA15&dq=German+territorial+losses+to+soviet+union&hl=en&ei=NUPiTbjVIIWftwfUrYCGBw&sa=X&oi=book_result&ct=result&resnum=1&ved=0CCoQ6AEwAA#v=onepage&q=German%20territorial%20losses%20to%20soviet%20union&f=false\nhttp://books.google.com/books?id=rzJh_whDGmIC&pg=PA151&dq=suppression+Volga+Germans&hl=en&ei=MkDiTYeoM9Ggtgfq6PWjBw&sa=X&oi=book_result&ct=result&resnum=1&ved=0CCoQ6AEwAA#v=onepage&q=suppression%20Volga%20Germans&f=false\nhttp://books.google.pl/books?id=OU4EAAAAMBAJ&pg=PA6&dq=austrians+are+not+germans&hl=pl&sa=X&ei=6R4-UcXFN8mp4ASlkIDYDg&ved=0CDIQ6AEwAQ#v=onepage&q&f=false\nhttp://economictimes.indiatimes.com/ET-Cetera/Germans-spend-most-on-foreign-trips-Industry-group/articleshow/4250332.cms\nhttp://en.m.wikipedia.org/wiki/Germans\nhttp://en.wikipedia.org/w/index.php?title=Germans&oldid=558931198\nhttp://famousdaily.com/history/austria-merges-with-germany.html\nhttp://german.about.com/library/blerfinder.htm\nhttp://german.about.com/library/blfamger100-01.htm\nhttp://news.bbc.co.uk/1/shared/spl/hi/uk/05/born_abroad/countries/html/germany.stm\nhttp://www.colby.edu/personal/r/rmscheck/GermanyA3.html\nhttp://www.dailymail.co.uk/news/article-1184220/Just-dont-mention-Hitler-Young-Germans-learn-fall-love-country-again.html\nhttp://www.germany.info/Vertretung/usa/en/07__Culture__Lifestyle__Travel/01/__Society.html\nhttp://www.germany.info/relaunch/culture/life/sports.html\nhttp://www.haaretz.com/print-edition/features/sudeten-germans-continue-fight-for-right-of-return-1.98974\nhttp://www.presseurop.eu/en/content/article/757-where-germans-dare\nhttp://www.teara.govt.nz/NewZealanders/NewZealandPeoples/Germans/1/en\nhttp://www.ukessays.com/essays/history/the-emergence-of-a-german-ethnic-identity-history-essay.php\n\n>pdf\nhttp://convergencia.uaemex.mx/rev38/38pdf/LIZCANO.pdf\nhttp://hpgl.stanford.edu/publications/EJHG_2002_v10_521-529.pdf\nhttp://hpgl.stanford.edu/publications/EJHG_2002_v10_521-\\n529.pdf\nhttp://news.bbc.co.uk/2/shared/bsp/hi/pdfs/160410bbcwspoll.pdf\nhttp://news.bbc.co.uk/2/shared/bsp/hi/pdfs/160410bbcwspoll.pdf\nhttp://web.archive.org/web/20110723084204http:///www.stat.kz/p_perepis/Documents/%D0%9F%D0%B5%D1%80%D0%B5%D0%BF%D0%B8%D1%81%D1%8C%20%D1%80%D1%83%D1%81.pdf\nhttp://www.bfs.admin.ch/bfs/portal/de/index/themen/01/22/publ.Document.67005.pdf\nhttp://www.cbs.nl/NR/rdonlyres/CCD504EA-9D41-40C2-AE28-BFB0A51C2045/0/2005k3b15p096art.pdf\nhttp://www.cso.ie/en/media/csoie/census/documents/census2011profile6/Profile%206%20Migration%20and%20Diversity%20Commentary.pdf\nhttp://www.ekd.de/download/kimi_2004.pdf\nhttp://www.fiapf.org/pdf/2006accreditedFestivalsDirectory.pdf\nhttp://www.provincia.bz.it/downloads/Siz_2006-eng.pdf\nhttp://www.stat.gov.pl/cps/rde/xbcr/gus/Przynaleznosc_narodowo-etniczna_w_2011_NSP.pdf\nhttp://www.stat.kz/p_perepis/Documents/%D0%9F%D0%B5%D1%80%D0%B5%D0%BF%D0%B8%D1%81%D1%8C%20%D1%80%D1%83%D1%81.pdf\nhttp://www.statistics.gr/portal/page/portal/ESYE/BUCKET/A1604/Other/A1604_SAP03_TB_DC_00_2001_09_F_GR.pdf\nhttp://www.un.org/esa/population/publications/sixbillion/sixbilpart1.pdf\nhttp://hpgl.stanford.edu/publications/EJHG_2002_v10_521-529.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png\n\n",
@@ -336,7 +336,6 @@
       "German\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n"
    ],
    "created" : 1373448854,
-   "book" : [],
    "micro-www" : {
       "German" : [
          "germany",
@@ -380,6 +379,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'German(s)' may refer to:\n\n* something deriving from or relating to Germany ** the German language, spoken\n  in Germany and nearby countries ** Germans, the people associated with the\n  country of Germany ** Ethnic Germans, a person who is of German descent **\n  Germanic peoples, any of the historical Germanic peoples\n",

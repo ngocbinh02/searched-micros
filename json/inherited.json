@@ -1,0 +1,68 @@
+{
+   "micrownet" : [
+      "inherited",
+      "inherited_disease",
+      "inherited_disorder",
+      "inherited_wealth"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/White_House_predicts_US_debt_will_double_in_10_years\" title=\"White House predicts US debt will double in 10 years\">White House predicts US debt will double in 10 years</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Multiple_sclerosis_more_often_transmitted_by_fathers\" title=\"Multiple sclerosis more often transmitted by fathers\">Multiple sclerosis more often transmitted by fathers</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NSW_Supreme_Court_upholds_non-publication_order_for_lawsuit_filed_against_Australia%27s_richest_person\" title=\"NSW Supreme Court upholds non-publication order for lawsuit filed against Australia&#39;s richest person\">NSW Supreme Court upholds non-publication order for lawsuit filed against Australia&#39;s richest person</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Former_British_Prime_Minister_Margaret_Thatcher_dies_aged_87\" title=\"Former British Prime Minister Margaret Thatcher dies aged 87\">Former British Prime Minister Margaret Thatcher dies aged 87</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_government_plans_to_replace_House_of_Lords_with_elected_chamber\" title=\"UK government plans to replace House of Lords with elected chamber\">UK government plans to replace House of Lords with elected chamber</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Iran_tries_to_launch_satellite_with_Safir_carrier_rocket\" title=\"Iran tries to launch satellite with Safir carrier rocket\">Iran tries to launch satellite with Safir carrier rocket</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bone_marrow_transplant_potentially_linked_to_cure_of_patient_with_AIDS\" title=\"Bone marrow transplant potentially linked to cure of patient with AIDS\">Bone marrow transplant potentially linked to cure of patient with AIDS</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bertie_Ahern_to_resign_as_Irish_premier\" title=\"Bertie Ahern to resign as Irish premier\">Bertie Ahern to resign as Irish premier</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:July_13,_2010\" title=\"News briefs:July 13, 2010\">News briefs:July 13, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australia%27s_Prime_Minister_Howard_marks_10_years_in_power\" title=\"Australia&#39;s Prime Minister Howard marks 10 years in power\">Australia&#39;s Prime Minister Howard marks 10 years in power</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Interview_with_Reggie_Bibbs_on_his_life_with_neurofibromatosis\" title=\"Interview with Reggie Bibbs on his life with neurofibromatosis\">Interview with Reggie Bibbs on his life with neurofibromatosis</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Plane_crashes_into_office_block_in_Austin,_Texas/suicide_note\" title=\"Plane crashes into office block in Austin, Texas/suicide note\">Plane crashes into office block in Austin, Texas/suicide note</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mutant_gene_predicts_common_Parkinson%27s\" title=\"Mutant gene predicts common Parkinson&#39;s\">Mutant gene predicts common Parkinson&#39;s</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/B%C3%BClent_Ecevit,_former_prime_minister_of_Turkey_and_poet,_has_died_at_81\" title=\"Bülent Ecevit, former prime minister of Turkey and poet, has died at 81\">Bülent Ecevit, former prime minister of Turkey and poet, has died at 81</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Spain_legalizes_same-sex_marriage\" title=\"Spain legalizes same-sex marriage\">Spain legalizes same-sex marriage</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Same-sex_marriage_allowed_in_Portugal\" title=\"Same-sex marriage allowed in Portugal\">Same-sex marriage allowed in Portugal</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Both_sides_of_Kenya%27s_constitution_dispute_are_negotiating\" title=\"Both sides of Kenya&#39;s constitution dispute are negotiating\">Both sides of Kenya&#39;s constitution dispute are negotiating</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/19th_century_stable_in_Buffalo,_New_York_officially_saved_from_demolition\" title=\"19th century stable in Buffalo, New York officially saved from demolition\">19th century stable in Buffalo, New York officially saved from demolition</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Lewis_Hamilton_wins_2007_Hungarian_Grand_Prix\" title=\"Lewis Hamilton wins 2007 Hungarian Grand Prix\">Lewis Hamilton wins 2007 Hungarian Grand Prix</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Inherit",
+      "HASH(0x4a4cca0)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Heredity\">Heredity</a>, passing of genetic traits to offspring",
+      "Inherit",
+      "http://www.merriam-webster.com/dictionary/inherit",
+      "inherit definition: to come into possession of or receive especially as a right or divine portion.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Inheritance_(object-oriented_programming)\">Inheritance (object-oriented programming)</a>, way to compartmentalize and re-use computer code",
+      "\n<a href=\"http://duckduckgo.com/Inheritance\">Inheritance</a>, passing on of property after someone's death",
+      "HASH(0x4a1a888)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Inherit_(album)\">Inherit (album)</a>, 2008 work by the group Free Kitten"
+   ],
+   "created" : 1373461257,
+   "book" : [],
+   "micro-www" : {
+      "inherited" : [
+         "inherited",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "#redirectinherit\n",
+      "title" : "inherited",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Inherit"
+   ]
+}

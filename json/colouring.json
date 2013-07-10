@@ -1,0 +1,56 @@
+{
+   "micrownet" : [
+      "colouring",
+      "colouring_material",
+      "food_colouring"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Kids_TV_star_Lunar_Jim_to_tour_malls_in_Canada\" title=\"Kids TV star Lunar Jim to tour malls in Canada\">Kids TV star Lunar Jim to tour malls in Canada</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Coloring",
+      "\n<a href=\"http://duckduckgo.com/ringtone\">Ring tone</a>, another nickname in Asia",
+      "\n<a href=\"http://duckduckgo.com/Food_coloring\">Food coloring</a> -  Food coloring, or color additive, is any dye, pigment or substance that imparts color when it is added to food or drink.",
+      "HASH(0x4989418)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/hair_coloring\">hair coloring</a> - Hair coloring is the practice of changing the color of hair.",
+      "Coloring",
+      "http://www.merriam-webster.com/dictionary/coloring",
+      "coloring definition: the act of applying colors.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/graph_coloring\">graph coloring</a>, in mathematics.",
+      "HASH(0x4a85230)",
+      "D"
+   ],
+   "created" : 1373461971,
+   "book" : [],
+   "micro-www" : {
+      "colouring" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Coloring' (or 'colouring', see spelling differences) can refer to:\n* the color, or the act of changing the color of an object, **The act of adding\n  color to the pages of a Coloring book **The act of adding color to comic book\n  pages, where the person's job title is Colorist\n* graph coloring, in mathematics.\n* hair coloring\n* Ring tone, another nickname in Asia\n* Food coloring\n",
+      "title" : "Coloring",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: American_and_British_English_spelling_differences",
+      "1: Color",
+      "1: Coloring_book",
+      "1: Colorist",
+      "1: Graph_coloring",
+      "1: Hair_coloring",
+      "1: Ring_tone",
+      "1: Asia",
+      "1: Food_coloring"
+   ]
+}

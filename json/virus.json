@@ -69,8 +69,19 @@
       "microorganism",
       "animate_thing"
    ],
-   "Lists" : [
-      "List_of_virus_families"
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Virus_(disambiguation)",
+      "HASH(0x51a93d8)",
+      "Wikipedia",
+      "Virus",
+      "\n<a href=\"http://duckduckgo.com/Mobile_virus\">Mobile virus</a>, a type of malicious cell phone program",
+      "http://www.merriam-webster.com/dictionary/virus",
+      "virus definition: '''archaic''' venom.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Computer_virus\">Computer virus</a>, a type of malicious computer program",
+      "HASH(0x51c5230)",
+      "\n<a href=\"http://duckduckgo.com/Virus\">Virus</a> - A virus is a small infectious agent that can replicate only inside the living cells of an organism.",
+      "D"
    ],
    "common" : {
       "milestones" : [
@@ -99,19 +110,8 @@
          []
       ]
    },
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Virus_(disambiguation)",
-      "HASH(0x51a93d8)",
-      "Wikipedia",
-      "Virus",
-      "\n<a href=\"http://duckduckgo.com/Mobile_virus\">Mobile virus</a>, a type of malicious cell phone program",
-      "http://www.merriam-webster.com/dictionary/virus",
-      "virus definition: '''archaic''' venom.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Computer_virus\">Computer virus</a>, a type of malicious computer program",
-      "HASH(0x51c5230)",
-      "\n<a href=\"http://duckduckgo.com/Virus\">Virus</a> - A virus is a small infectious agent that can replicate only inside the living cells of an organism.",
-      "D"
+   "Lists" : [
+      "List_of_virus_families"
    ],
    "micro-www-search" : [
       "virus_classification\n>http\nhttp://en.m.wikipedia.org/wiki/Virus_classification\nhttp://en.wikipedia.org/w/index.php?title=Virus_classification&oldid=559554826\nhttp://www.ictvonline.org/virusTaxonomy.asp?version=2012\nhttp://www.virustaxonomyonline.com/virtax/lpext.dll/vtax/ictvb/ictvb-sec1-0001\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Baltimore_Classification.png/300px-Baltimore_Classification.png\n\n",
@@ -122,6 +122,7 @@
       "Virus\n>http\nhttp://dx.doi.org/10.1016%2Fj.virusres.2003.12.007\nhttp://dx.doi.org/10.1016%2Fj.virusres.2005.07.011\nhttp://dx.doi.org/10.1016%2Fj.virusres.2006.01.009\nhttp://en.m.wikipedia.org/wiki/Virus\nhttp://en.wikipedia.org/w/index.php?title=Virus&oldid=559618744\nhttp://www.etymonline.com/index.php?term=virus\nhttp://www.ictvonline.org/virusTaxonomy.asp?version=2009\nhttp://www.khanacademy.org/video/viruses?playlist=Biology\nhttp://www.mdpi.com/journal/viruses/\nhttp://www.ncbi.nlm.nih.gov/books/bv.fcgi?highlight=Viruses&rid=mcb.section.1408#1422\nhttp://www.pdbe.org/emsearch/comp_type:virus%20AND%20status:REL\n\n>pdf\nhttp://data.unaids.org/pub/GlobalReport/2008/jc1510_2008_global_report_pp29_62_en.pdf\nhttp://data.unaids.org/pub/GlobalReport/2008/jc1510_2008_global_report_pp29_62_en.pdf\nhttp://www.icmr.nic.in/ijmr/2005/december/1201.pdf\nhttp://www.icmr.nic.in/ijmr/2005/december/1201.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png\n"
    ],
    "created" : 1373459528,
+   "book" : [],
    "micro-www" : {
       "virus" : [
          "virus_classification",
@@ -133,7 +134,6 @@
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [
          "Virology|*",

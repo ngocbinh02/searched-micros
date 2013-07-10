@@ -29,6 +29,26 @@
       "entity",
       "body"
    ],
+   "Lists" : [
+      "List_of_number_of_chromosomes_of_various_organisms"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_scientist_creates_%27artificial_life%27\" title=\"US scientist creates &#39;artificial life&#39;\">US scientist creates &#39;artificial life&#39;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_scientist_says_he_created_first_%27artificial_life_form%27\" title=\"US scientist says he created first &#39;artificial life form&#39;\">US scientist says he created first &#39;artificial life form&#39;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Large_study_provides_new_insights_in_autism%27s_genetic_code\" title=\"Large study provides new insights in autism&#39;s genetic code\">Large study provides new insights in autism&#39;s genetic code</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hammerhead_sharks_can_give_birth_without_mating,_study_shows\" title=\"Hammerhead sharks can give birth without mating, study shows\">Hammerhead sharks can give birth without mating, study shows</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:May_21,_2010\" title=\"News briefs:May 21, 2010\">News briefs:May 21, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Study_claims_to_show_difference_between_male_and_female_brains\" title=\"Study claims to show difference between male and female brains\">Study claims to show difference between male and female brains</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chimpanzee_genome_sequenced\" title=\"Chimpanzee genome sequenced\">Chimpanzee genome sequenced</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Crosswords/2005/February/13\" title=\"Crosswords/2005/February/13\">Crosswords/2005/February/13</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Virgin_lizard_reproduces\" title=\"Virgin lizard reproduces\">Virgin lizard reproduces</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
    "duck" : [
       "\n<a href=\"http://duckduckgo.com/Locus_(genetics)\">Locus</a> (explains gene location nomenclature)",
       "https://en.wikipedia.org/wiki/Chromosome",
@@ -52,26 +72,6 @@
       "A chromosome is an organized structure of DNA, protein, and RNA found in cells.",
       "\n<a href=\"http://duckduckgo.com/c/Chromosomes\">Chromosomes</a>"
    ],
-   "common" : {
-      "milestones" : [
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_scientist_creates_%27artificial_life%27\" title=\"US scientist creates &#39;artificial life&#39;\">US scientist creates &#39;artificial life&#39;</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_scientist_says_he_created_first_%27artificial_life_form%27\" title=\"US scientist says he created first &#39;artificial life form&#39;\">US scientist says he created first &#39;artificial life form&#39;</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Large_study_provides_new_insights_in_autism%27s_genetic_code\" title=\"Large study provides new insights in autism&#39;s genetic code\">Large study provides new insights in autism&#39;s genetic code</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hammerhead_sharks_can_give_birth_without_mating,_study_shows\" title=\"Hammerhead sharks can give birth without mating, study shows\">Hammerhead sharks can give birth without mating, study shows</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:May_21,_2010\" title=\"News briefs:May 21, 2010\">News briefs:May 21, 2010</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Study_claims_to_show_difference_between_male_and_female_brains\" title=\"Study claims to show difference between male and female brains\">Study claims to show difference between male and female brains</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chimpanzee_genome_sequenced\" title=\"Chimpanzee genome sequenced\">Chimpanzee genome sequenced</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Crosswords/2005/February/13\" title=\"Crosswords/2005/February/13\">Crosswords/2005/February/13</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Virgin_lizard_reproduces\" title=\"Virgin lizard reproduces\">Virgin lizard reproduces</a>"
-      ],
-      "image" : [
-         [],
-         []
-      ]
-   },
-   "Lists" : [
-      "List_of_number_of_chromosomes_of_various_organisms"
-   ],
    "micro-www-search" : [
       "chromosomes\n>http\nhttp://en.m.wikipedia.org/wiki/Chromosome\nhttp://en.wikipedia.org/w/index.php?title=Chromosome&oldid=542696562\nhttp://ghr.nlm.nih.gov/ghr/chromosomes\nhttp://users.rcn.com/jkimball.ma.ultranet/BiologyPages/C/Chromosomes.html\nhttp://www.chromosomehelpstation.com/eurochromnet.htm\nhttp://www.genomenewsnetwork.org/categories/index/genome/chromosomes.php\n\n>pdf\nhttp://www.esp.org/foundations/genetics/classical/holdings/Genetics/Genetics-1928-13-2-180.pdf\nhttp://www.esp.org/foundations/genetics/classical/holdings/Genetics/Genetics-1928-13-2-180.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Chromosome.svg/250px-Chromosome.svg.png\n\n",
       "chromosome\n>http\nhttp://en.m.wikipedia.org/wiki/Chromosome\nhttp://en.wikipedia.org/w/index.php?title=Chromosome&oldid=542696562\nhttp://ghr.nlm.nih.gov/ghr/chromosomes\nhttp://users.rcn.com/jkimball.ma.ultranet/BiologyPages/C/Chromosomes.html\nhttp://www.chromosomehelpstation.com/eurochromnet.htm\nhttp://www.genomenewsnetwork.org/categories/index/genome/chromosomes.php\n\n>pdf\nhttp://www.esp.org/foundations/genetics/classical/holdings/Genetics/Genetics-1928-13-2-180.pdf\nhttp://www.esp.org/foundations/genetics/classical/holdings/Genetics/Genetics-1928-13-2-180.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Chromosome.svg/250px-Chromosome.svg.png\n\n",
@@ -84,7 +84,6 @@
       "Chromosome\n>http\nhttp://en.m.wikipedia.org/wiki/Chromosome\nhttp://en.wikipedia.org/w/index.php?title=Chromosome&oldid=545765773\nhttp://ghr.nlm.nih.gov/ghr/chromosomes\nhttp://users.rcn.com/jkimball.ma.ultranet/BiologyPages/C/Chromosomes.html\nhttp://www.chromosomehelpstation.com/eurochromnet.htm\nhttp://www.genomenewsnetwork.org/categories/index/genome/chromosomes.php\n\n>pdf\nhttp://www.esp.org/foundations/genetics/classical/holdings/Genetics/Genetics-1928-13-2-180.pdf\nhttp://www.esp.org/foundations/genetics/classical/holdings/Genetics/Genetics-1928-13-2-180.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Chromosome.svg/250px-Chromosome.svg.png\n"
    ],
    "created" : 1373458891,
-   "book" : [],
    "micro-www" : {
       "chromosome" : [
          "chromosomes",
@@ -99,6 +98,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Chromosomes|",

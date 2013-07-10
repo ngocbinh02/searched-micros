@@ -55,19 +55,9 @@
       "stuff",
       "part"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Protein_(disambiguation)",
-      "HASH(0x5dd4e10)",
-      "Wikipedia",
-      "Protein",
-      "http://www.merriam-webster.com/dictionary/protein",
-      "protein definition: any of various naturally occurring extremely complex substances that consist of amino-acid residues joined by peptide bonds, contain the elements carbon, hydrogen, nitrogen, oxygen, usually sulfur, and occasionally other elements (as phosphorus or iron), and include many essential biological compounds (as enzymes, hormones, or antibodies).",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Protein_(nutrient)\">Protein (nutrient)</a> - Proteins are polymer chains made of amino acids linked together by peptide bonds.",
-      "\n<a href=\"http://duckduckgo.com/Protein_(band)\">Protein (band)</a> - Protein was a punk alternative, post-grunge metal band formed in 1994 in San Francisco, California.",
-      "HASH(0x5f92538)",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Protein\">Protein</a> is an organic compound made of amino acids."
+   "Lists" : [
+      "List_of_standard_amino_acids",
+      "List_of_proteins"
    ],
    "common" : {
       "milestones" : [
@@ -97,16 +87,25 @@
          []
       ]
    },
-   "Lists" : [
-      "List_of_standard_amino_acids",
-      "List_of_proteins"
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Protein_(disambiguation)",
+      "HASH(0x5dd4e10)",
+      "Wikipedia",
+      "Protein",
+      "http://www.merriam-webster.com/dictionary/protein",
+      "protein definition: any of various naturally occurring extremely complex substances that consist of amino-acid residues joined by peptide bonds, contain the elements carbon, hydrogen, nitrogen, oxygen, usually sulfur, and occasionally other elements (as phosphorus or iron), and include many essential biological compounds (as enzymes, hormones, or antibodies).",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Protein_(nutrient)\">Protein (nutrient)</a> - Proteins are polymer chains made of amino acids linked together by peptide bonds.",
+      "\n<a href=\"http://duckduckgo.com/Protein_(band)\">Protein (band)</a> - Protein was a punk alternative, post-grunge metal band formed in 1994 in San Francisco, California.",
+      "HASH(0x5f92538)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Protein\">Protein</a> is an organic compound made of amino acids."
    ],
    "micro-www-search" : [
       "proteins\n>http\nhttp://hopes.stanford.edu/basics/proteins/p0.html\nhttp://www.biochemweb.org/proteins.shtml\n\n>pdf\nhttp://www.expasy.org/NAR/enz00.pdf\nhttp://www.pnas.org/site/misc/Protein8.pdf\nhttp://www.pnas.org/site/misc/Protein8.pdf\nhttp://www.expasy.org/NAR/enz00.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png\n\n",
       "Proteins\n>http\nhttp://hopes.stanford.edu/basics/proteins/p0.html\nhttp://www.biochemweb.org/proteins.shtml\n\n>pdf\nhttp://www.expasy.org/NAR/enz00.pdf\nhttp://www.pnas.org/site/misc/Protein8.pdf\nhttp://www.pnas.org/site/misc/Protein8.pdf\nhttp://www.expasy.org/NAR/enz00.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png\n"
    ],
    "created" : 1373457222,
-   "book" : [],
    "micro-www" : {
       "proteins" : [
          "proteins",
@@ -114,6 +113,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Molecular biology",

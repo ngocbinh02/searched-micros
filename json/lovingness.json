@@ -16,17 +16,7 @@
       "warmheartedness",
       "warmth"
    ],
-   "duck" : [
-      "The only two bands of good will, loveliness and lovingness.",
-      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=Lovingness",
-      "HASH(0x5d38ec8)",
-      "The Free Dictionary",
-      "Lovingness",
-      "The only two bands of good will, loveliness and lovingness.",
-      "HASH(0x5cf5888)",
-      "The only two bands of good will, loveliness and lovingness.",
-      "A"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tennessee_Lieutenant_Governor_suggests_that_Islam_is_a_%27cult%27\" title=\"Tennessee Lieutenant Governor suggests that Islam is a &#39;cult&#39;\">Tennessee Lieutenant Governor suggests that Islam is a &#39;cult&#39;</a>",
@@ -54,14 +44,24 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "The only two bands of good will, loveliness and lovingness.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=Lovingness",
+      "HASH(0x5d38ec8)",
+      "The Free Dictionary",
+      "Lovingness",
+      "The only two bands of good will, loveliness and lovingness.",
+      "HASH(0x5cf5888)",
+      "The only two bands of good will, loveliness and lovingness.",
+      "A"
+   ],
    "micro-www-search" : [],
    "created" : 1373455631,
-   "book" : [],
    "micro-www" : {
       "lovingness" : [
          ""
       ]
    },
+   "book" : [],
    "micro-relation" : []
 }

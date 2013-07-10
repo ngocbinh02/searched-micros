@@ -1,7 +1,4 @@
 {
-   "micrownet" : [
-      "cryptography"
-   ],
    "google" : [
       "/url?q=http://en.wikipedia.org/wiki/Cryptography&sa=U&ei=dCLdUaa2Nce3PP-DgZAL&ved=0CBgQFjAA&usg=AFQjCNGAwrd4es82hr_QB0fvXrbF861hAA",
       "/url?q=https://www.coursera.org/course/crypto&sa=U&ei=dCLdUaa2Nce3PP-DgZAL&ved=0CCEQFjAB&usg=AFQjCNGWgEFcfasxoX7zXEcSExC92GJDkA",
@@ -14,6 +11,9 @@
       "/url?q=http://www.khanacademy.org/math/applied-math/cryptography/crypt/v/intro-to-cryptography&sa=U&ei=dCLdUaa2Nce3PP-DgZAL&ved=0CEEQFjAL&usg=AFQjCNH2ygKXRVUFaQyQJopI3Tx-TSJSFA",
       "/url?q=http://www.cl.cam.ac.uk/~rja14/Papers/SE-05.pdf&sa=U&ei=dCLdUaa2Nce3PP-DgZAL&ved=0CEQQFjAM&usg=AFQjCNHW-j8vPb_i1ZA1slcqGk7T5BQZEA",
       "/url?q=http://www.cryptography.org/&sa=U&ei=dCLdUaa2Nce3PP-DgZAL&ved=0CEgQFjAN&usg=AFQjCNGLcWfPpi8YrcT7WUVZoFyZpkUhHg"
+   ],
+   "micrownet" : [
+      "cryptography"
    ],
    "micro" : [
       "abstract_entity",
@@ -44,6 +44,25 @@
       "cognition",
       "field"
    ],
+   "Lists" : [
+      "List_of_cryptographers",
+      "List_of_important_publications_in_cryptography",
+      "List_of_multiple_discoveries#20th_century",
+      "List_of_unsolved_problems_in_computer_science"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chinese_researchers_crack_major_U.S._government_algorithm_used_in_digital_signatures\" title=\"Chinese researchers crack major U.S. government algorithm used in digital signatures\">Chinese researchers crack major U.S. government algorithm used in digital signatures</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Predictable_random_number_generator_discovered_in_the_Debian_version_of_OpenSSL\" title=\"Predictable random number generator discovered in the Debian version of OpenSSL\">Predictable random number generator discovered in the Debian version of OpenSSL</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/ACLU,_EFF_challenging_US_%27secret%27_court_orders_seeking_Twitter_data\" title=\"ACLU, EFF challenging US &#39;secret&#39; court orders seeking Twitter data\">ACLU, EFF challenging US &#39;secret&#39; court orders seeking Twitter data</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Researcher_claims_solution_to_P_vs_NP_math_problem\" title=\"Researcher claims solution to P vs NP math problem\">Researcher claims solution to P vs NP math problem</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Two_largest_known_prime_numbers_discovered_just_two_weeks_apart,_one_qualifies_for_$100k_prize\" title=\"Two largest known prime numbers discovered just two weeks apart, one qualifies for $100k prize\">Two largest known prime numbers discovered just two weeks apart, one qualifies for $100k prize</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
    "duck" : [
       "\n<a href=\"http://duckduckgo.com/Strong_cryptography\">Strong cryptography</a> - Strong cryptography or cryptographically strong are general terms applied cryptographic systems or components that are considered highly resistant to cryptanalysis.",
       "\n<a href=\"http://duckduckgo.com/c/Formal_sciences\">Formal sciences</a>",
@@ -61,32 +80,12 @@
       "Cryptography (or cryptology; from Greek  \"hidden, secret\"; and  graphein, \"writing\", or  -logia, \"study\", respectively) is the practice and study of techniques for secure communication in the presence of third parties (called adversaries).",
       "\n<a href=\"http://duckduckgo.com/Encyclopedia_of_Cryptography_and_Security\">Encyclopedia of Cryptography and Security</a> - The Encyclopedia of Cryptography and Security  is a comprehensive work on Cryptography for both information security professionals and experts in the fields of Computer Science, Applied Mathemat..."
    ],
-   "common" : {
-      "milestones" : [
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chinese_researchers_crack_major_U.S._government_algorithm_used_in_digital_signatures\" title=\"Chinese researchers crack major U.S. government algorithm used in digital signatures\">Chinese researchers crack major U.S. government algorithm used in digital signatures</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Predictable_random_number_generator_discovered_in_the_Debian_version_of_OpenSSL\" title=\"Predictable random number generator discovered in the Debian version of OpenSSL\">Predictable random number generator discovered in the Debian version of OpenSSL</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/ACLU,_EFF_challenging_US_%27secret%27_court_orders_seeking_Twitter_data\" title=\"ACLU, EFF challenging US &#39;secret&#39; court orders seeking Twitter data\">ACLU, EFF challenging US &#39;secret&#39; court orders seeking Twitter data</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Researcher_claims_solution_to_P_vs_NP_math_problem\" title=\"Researcher claims solution to P vs NP math problem\">Researcher claims solution to P vs NP math problem</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Two_largest_known_prime_numbers_discovered_just_two_weeks_apart,_one_qualifies_for_$100k_prize\" title=\"Two largest known prime numbers discovered just two weeks apart, one qualifies for $100k prize\">Two largest known prime numbers discovered just two weeks apart, one qualifies for $100k prize</a>"
-      ],
-      "image" : [
-         [],
-         []
-      ]
-   },
-   "Lists" : [
-      "List_of_cryptographers",
-      "List_of_important_publications_in_cryptography",
-      "List_of_multiple_discoveries#20th_century",
-      "List_of_unsolved_problems_in_computer_science"
-   ],
    "micro-www-search" : [
       "cryptography\n>http\nhttp://en.wikipedia.org/w/index.php?title=Cryptography&oldid=561347054\nhttp://www.bbc.co.uk/iplayer/console/p004y272/In_Our_Time_Cryptography\nhttp://www.cryptography-textbook.com/\n\n>pdf\nhttp://citeseer.ist.psu.edu/cache/papers/cs/22094/zSzzSzeprint.iacr.orgzSz2001zSz056.pdf/junod01complexity.pdf\nhttp://citeseer.ist.psu.edu/rd/86197922%2C340126%2C1%2C0.25%2CDownload/zSzzSzwww.cs.rutgers.eduzSz%7EtdnguyenzSzclasseszSzcs671zSzpresentationszSzArvind-NEWDIRS.pdf/diffie76new.pdf\nhttp://csrc.nist.gov/groups/ST/hash/documents/FR_Notice_Nov07.pdf\nhttp://theory.lcs.mit.edu/~rivest/rsapaper.pdf\nhttp://www.copyright.gov/legislation/dmca.pdf\nhttp://www.cryptool.org/download/CrypToolScript-en.pdf\nhttp://www.cryptool.org/images/ct1/presentations/CrypToolPresentation-en.pdf\nhttp://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf\nhttp://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf\nhttp://www.cs.ucdavis.edu/~rogaway/classes/227/spring05/book/main.pdf\nhttp://www.csrc.nist.gov/publications/fips/fips197/fips-197.pdf\nhttp://www.fi.muni.cz/usr/matyas/lecture/paper2.pdf\nhttp://www.ncua.gov/letters/2004/04-CU-09.pdf\nhttp://www.springerlink.com/index/K54H077NP8714058.pdf\nzSzzSzwww.cs.rutgers.eduzSz%7EtdnguyenzSzclasseszSzcs671zSzpresentationszSzArvind-NEWDIRS.pdf/diffie76new.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Crypto.png/300px-Crypto.png\n\n",
       "Cryptography_\n>pdf\nhttp://citeseer.ist.psu.edu/cache/papers/cs/22094/zSzzSzeprint.iacr.orgzSz2001zSz056.pdf/junod01complexity.pdf\nhttp://csrc.nist.gov/groups/ST/hash/documents/FR_Notice_Nov07.pdf\nhttp://theory.lcs.mit.edu/~rivest/rsapaper.pdf\nhttp://www.copyright.gov/legislation/dmca.pdf\nhttp://www.cryptool.org/download/CrypToolScript-en.pdf\nhttp://www.cryptool.org/images/ct1/presentations/CrypToolPresentation-en.pdf\nhttp://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf\nhttp://www.cs.ucdavis.edu/~rogaway/classes/227/spring05/book/main.pdf\nhttp://www.csrc.nist.gov/publications/fips/fips197/fips-197.pdf\nhttp://www.fi.muni.cz/usr/matyas/lecture/paper2.pdf\nhttp://www.ncua.gov/letters/2004/04-CU-09.pdf\nhttp://www.springerlink.com/index/K54H077NP8714058.pdf\nzSzzSzwww.cs.rutgers.eduzSz%7EtdnguyenzSzclasseszSzcs671zSzpresentationszSzArvind-NEWDIRS.pdf/diffie76new.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Crypto.png/300px-Crypto.png\n\n",
       "Cryptography\n>http\nhttp://en.wikipedia.org/w/index.php?title=Cryptography&oldid=561347054\nhttp://www.bbc.co.uk/iplayer/console/p004y272/In_Our_Time_Cryptography\nhttp://www.cryptography-textbook.com/\n\n>pdf\nhttp://citeseer.ist.psu.edu/cache/papers/cs/22094/zSzzSzeprint.iacr.orgzSz2001zSz056.pdf/junod01complexity.pdf\nhttp://citeseer.ist.psu.edu/rd/86197922%2C340126%2C1%2C0.25%2CDownload/zSzzSzwww.cs.rutgers.eduzSz%7EtdnguyenzSzclasseszSzcs671zSzpresentationszSzArvind-NEWDIRS.pdf/diffie76new.pdf\nhttp://csrc.nist.gov/groups/ST/hash/documents/FR_Notice_Nov07.pdf\nhttp://theory.lcs.mit.edu/~rivest/rsapaper.pdf\nhttp://www.copyright.gov/legislation/dmca.pdf\nhttp://www.cryptool.org/download/CrypToolScript-en.pdf\nhttp://www.cryptool.org/images/ct1/presentations/CrypToolPresentation-en.pdf\nhttp://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf\nhttp://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf\nhttp://www.cs.ucdavis.edu/~rogaway/classes/227/spring05/book/main.pdf\nhttp://www.csrc.nist.gov/publications/fips/fips197/fips-197.pdf\nhttp://www.fi.muni.cz/usr/matyas/lecture/paper2.pdf\nhttp://www.ncua.gov/letters/2004/04-CU-09.pdf\nhttp://www.springerlink.com/index/K54H077NP8714058.pdf\nzSzzSzwww.cs.rutgers.eduzSz%7EtdnguyenzSzclasseszSzcs671zSzpresentationszSzArvind-NEWDIRS.pdf/diffie76new.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Crypto.png/300px-Crypto.png\n"
    ],
    "created" : 1373453927,
-   "book" : [],
    "micro-www" : {
       "cryptography" : [
          "cryptography",
@@ -95,6 +94,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Cryptography|",

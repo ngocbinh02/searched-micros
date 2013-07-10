@@ -25,7 +25,19 @@
       "want",
       "requisite"
    ],
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Essential",
+      "\n<a href=\"http://duckduckgo.com/Essentialism\">Essentialism</a>, the philosophical view that an entity must have certain characteristics in order to belong to a certain defined group",
+      "HASH(0x52c20a8)",
+      "Wikipedia",
+      "Essential",
+      "http://www.merriam-webster.com/dictionary/essential",
+      "essential definition: of, relating to, or constituting essence.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Essential_amino_acid\">Essential amino acid</a>, one that the organism cannot produce by itself",
+      "HASH(0x529bcd8)",
+      "D"
+   ],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_government_advises_against_non-essential_travel_to_Kenya\" title=\"British government advises against non-essential travel to Kenya\">British government advises against non-<span class=\"searchmatch\">essential</span> travel to Kenya</a>",
@@ -53,19 +65,7 @@
          []
       ]
    },
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Essential",
-      "\n<a href=\"http://duckduckgo.com/Essentialism\">Essentialism</a>, the philosophical view that an entity must have certain characteristics in order to belong to a certain defined group",
-      "HASH(0x52c20a8)",
-      "Wikipedia",
-      "Essential",
-      "http://www.merriam-webster.com/dictionary/essential",
-      "essential definition: of, relating to, or constituting essence.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Essential_amino_acid\">Essential amino acid</a>, one that the organism cannot produce by itself",
-      "HASH(0x529bcd8)",
-      "D"
-   ],
+   "Lists" : [],
    "micro-www-search" : [
       "essential_oil\n>http\nhttp://appliedseparations.com/ASInteractive/Overviews/SCF/Essential_Oils/player.html\nhttp://en.m.wikipedia.org/wiki/Essential_oil\nhttp://en.wikipedia.org/w/index.php?title=Essential_oil&oldid=559784347\nhttp://www.greatestherbsonearth.com/articles/essential_oils.htm\n\n>pdf\nhttp://isotc.iso.org/livelink/livelink/971087/ISO_TC_054__Essential_oils_.pdf\nhttp://ntp.niehs.nih.gov/ntp/htdocs/Chem_Background/ExSumPdf/Turpentine.pdf\nhttp://www.zenitech.com/documents/Toxicity_of_essential_oils_p1.pdf\nhttp://www.zenitech.com/documents/Toxicity_of_essential_oils_p1.pdf\nhttp://isotc.iso.org/livelink/livelink/971087/ISO_TC_054__Essential_oils_.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SandalwoodEssOil.png/220px-SandalwoodEssOil.png\n\n",
       "essential_nutrient\n>http\nhttp://en.m.wikipedia.org/wiki/Essential_nutrient\nhttp://en.wikipedia.org/w/index.php?title=Essential_nutrient&oldid=555935024\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Foodlogo2.svg/32px-Foodlogo2.svg.png\n\n",
@@ -90,6 +90,7 @@
       "Essential_(CeCe_Peniston_album)\n>http\nhttp://en.m.wikipedia.org/wiki/Essential_(CeCe_Peniston_album)\nhttp://en.wikipedia.org/w/index.php?title=Essential_(CeCe_Peniston_album)&oldid=544114465\nhttp://www.discogs.com/Ce-Ce-Peniston-Essential/release/1273748\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/f/f3/It_Should_Have_Been_You..ogg\nhttp://upload.wikimedia.org/wikipedia/en/thumb/d/d9/CCP_E.jpg/220px-CCP_E.jpg\n\n>media\nhttp://upload.wikimedia.org/wikipedia/en/f/f3/It_Should_Have_Been_You..ogg\n"
    ],
    "created" : 1373459451,
+   "book" : [],
    "micro-www" : {
       "essential" : [
          "essential_oil",
@@ -116,7 +117,6 @@
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Essential' or 'essentials' may refer to:\n",

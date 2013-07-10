@@ -1,0 +1,36 @@
+{
+   "micrownet" : [
+      "money_handler"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:June_9,_2010\" title=\"News briefs:June 9, 2010\">News briefs:June 9, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_fans_turn_out_for_2012_Phoenix_Comicon\" title=\"US fans turn out for 2012 Phoenix Comicon\">US fans turn out for 2012 Phoenix Comicon</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak\" title=\"Philippines is culling 6500 hogs after Reston ebolavirus outbreak\">Philippines is culling 6500 hogs after Reston ebolavirus outbreak</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Al_Sharpton_speaks_out_on_race,_rights_and_what_bothers_him_about_his_critics\" title=\"Al Sharpton speaks out on race, rights and what bothers him about his critics\">Al Sharpton speaks out on race, rights and what bothers him about his critics</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "Software description: a Rails plugin (packaged as a gem) that does the locale-aware money handling shiznit (Ruby).",
+      "https://github.com/DanCheail/money_handler",
+      "HASH(0x49ff8c0)",
+      "GitHub",
+      "money_handler",
+      "HASH(0x4969348)",
+      "Software description: a Rails plugin (packaged as a gem) that does the locale-aware money handling shiznit (Ruby).",
+      "A"
+   ],
+   "created" : 1373461793,
+   "book" : [],
+   "micro-www" : {
+      "money_handler" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

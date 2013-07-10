@@ -1,0 +1,111 @@
+{
+   "micrownet" : [
+      "spectral_color"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "HASH(0x46ff230)",
+      "HASH(0x4a7d690)"
+   ],
+   "created" : 1373461958,
+   "book" : [],
+   "micro-www" : {
+      "spectral_color" : [
+         "Spectral_color",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Color"
+      ],
+      "text" : "\n[[File:CIE1931xy blank.svg|right|thumb| The CIE xy chromaticity diagram.\n\nThe spectral colors are the colors on the horseshoe-shaped curve on the outside\nof the diagram. All other colors are not spectral: the bottom straight line is\nthe [[line of purples]], while within the interior of the diagram are\nunsaturated colors that are various mixtures of a spectral color or a purple\ncolor with white, a grayscale color. White is in the central part of the\ninterior of the diagram, since when all colors of light are mixed together, they\nproduce white.]]\n\nA 'spectral color' is a color that is evoked by a single wavelength of light in\nthe visible spectrum, or by a relatively narrow band of wavelengths. Every\nwavelength of light is perceived as a spectral color, in a continuous spectrum;\nthe colors of sufficiently close wavelengths are indistinguishable.\n\nThe spectrum is often divided up into named colors, though any division is\nsomewhat arbitrary: the spectrum is continuous. Traditional colors include: red,\norange, yellow, green, blue, and violet.\n\nThe division used by Isaac Newton, in his color wheel, was Red, Orange, Yellow,\nGreen, Blue, Indigo and Violet; a mnemonic for this order is Roy G. Biv. In\nmodern divisions of the spectrum, indigo is often omitted; see indigo\n#Classification as a spectral color for details.\n\nOne needs a color vision at least trichromatic to distinguish spectral colors\nfrom non-spectral ones: trichromacy gives a possibility to perceive both hue and\nsaturation in the chroma. In color models capable to represent spectral\ncolors,<ref> HSL and HSV do not qualify because many spectral colors lie rather\nfar from its gamut.</ref> such as CIELUV, a spectral color has the maximal\nsaturation among all colors of the same hue.\n",
+      "title" : "spectral color",
+      "headings" : [
+         "In color spaces",
+         "Table of spectral or near-spectral colors",
+         "Non-spectral colors",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "3: Red",
+      "3: Hue",
+      "3: SRGB",
+      "3: CMYK_color_model",
+      "3: Line_of_purples",
+      "3: Natural_Color_System_",
+      "3: Munsell_color_system",
+      "2: White",
+      "2: Wavelength",
+      "2: Yellow",
+      "2: Green",
+      "2: Blue",
+      "2: Indigo",
+      "2: Colorfulness",
+      "2: Chromaticity",
+      "2: HSL_and_HSV",
+      "2: Luminance",
+      "2: Wide-gamut_RGB_color_space",
+      "1: CIE_1931_color_space#The_CIE_xy_chromaticity_diagram",
+      "1: Additive_colors",
+      "1: Color",
+      "1: Light",
+      "1: Visible_spectrum",
+      "1: Isaac_Newton",
+      "1: Color_theory#The_color_wheel",
+      "1: Mnemonic",
+      "1: Roy_G._Biv",
+      "1: Indigo_#Classification_as_a_spectral_color",
+      "1: Color_vision",
+      "1: Trichromacy",
+      "1: Color_model",
+      "1: Gamut",
+      "1: CIELUV",
+      "1: Color_space",
+      "1: Surface",
+      "1: Curve",
+      "1: RGB_color_model",
+      "1: Color_distance",
+      "1: Color_wheel",
+      "1: RGB_color_space",
+      "1: Bright_green",
+      "1: Color_science",
+      "1: Pantone_Matching_System",
+      "1: Dominant_wavelength",
+      "1: Color_term",
+      "1: Light source",
+      "1: Dye",
+      "1: Nanometre",
+      "1: Frequency",
+      "1: THz",
+      "1: Absolute_color_space",
+      "1: CIE_1931_color_space",
+      "1: Helium–neon_laser",
+      "1: Carmine",
+      "1: Near_infrared",
+      "1: Sodium-vapor_lamp",
+      "1: Secondary_color",
+      "1: Spring_green",
+      "1: Linear_interpolation",
+      "1: Cyan",
+      "1: Grayscale",
+      "1: Black",
+      "1: Pink",
+      "1: Purple",
+      "1: Color_theory",
+      "1: Magenta",
+      "1: Variations_of_purple",
+      "1: Variations_of_pink",
+      "1: Imaginary_color"
+   ]
+}

@@ -1,7 +1,4 @@
 {
-   "micrownet" : [
-      "effectuality"
-   ],
    "google" : [
       "/url?q=http://www.thefreedictionary.com/effectuality&sa=U&ei=FiPdUfmNB8KlO6TygJAL&ved=0CBgQFjAA&usg=AFQjCNEdlcNG_Udq92VbJQmuTjk83wvUvQ",
       "/url?q=http://www.thefreedictionary.com/effectual&sa=U&ei=FiPdUfmNB8KlO6TygJAL&ved=0CBsQFjAB&usg=AFQjCNGf8D_1H7u-0YMEReHgXCyYnHFg6Q",
@@ -13,6 +10,9 @@
       "/url?q=http://www.effectuality.co.uk/&sa=U&ei=FiPdUfmNB8KlO6TygJAL&ved=0CDEQFjAH&usg=AFQjCNG7L4GzeRWVI490EhuzcisK_dgb4A",
       "/url?q=http://dictionary.reference.com/browse/effectuality&sa=U&ei=FiPdUfmNB8KlO6TygJAL&ved=0CDUQFjAI&usg=AFQjCNEpnpQvDqBy8Qh1h2rhd2WmcMo5FQ",
       "/url?q=https://www.vocabulary.com/dictionary/effectuality&sa=U&ei=FiPdUfmNB8KlO6TygJAL&ved=0CDgQFjAJ&usg=AFQjCNFdAAHDq3xU-vsJV9m_IB-ShDTBZA"
+   ],
+   "micrownet" : [
+      "effectuality"
    ],
    "micro" : [
       "effectivity",
@@ -31,13 +31,7 @@
       "entity",
       "trenchancy"
    ],
-   "duck" : [
-      "effectuality",
-      "Producing or sufficient to produce a desired effect; fully adequate.",
-      "http://www.merriam-webster.com/dictionary/effectuality",
-      "effectuality definition: producing or able to produce a desired effect.",
-      "Merriam-Webster"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Endangered_Luzon_Buttonquail_photographed_alive_by_Philippines_documentary\" title=\"Endangered Luzon Buttonquail photographed alive by Philippines documentary\">Endangered Luzon Buttonquail photographed alive by Philippines documentary</a>"
@@ -47,14 +41,20 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "effectuality",
+      "Producing or sufficient to produce a desired effect; fully adequate.",
+      "http://www.merriam-webster.com/dictionary/effectuality",
+      "effectuality definition: producing or able to produce a desired effect.",
+      "Merriam-Webster"
+   ],
    "micro-www-search" : [],
    "created" : 1373454084,
-   "book" : [],
    "micro-www" : {
       "effectuality" : [
          ""
       ]
    },
+   "book" : [],
    "micro-relation" : []
 }

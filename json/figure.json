@@ -47,26 +47,7 @@
       "fig",
       "communication"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Vivian_Davis_Figures\">Vivian Davis Figures</a>, Democratic member of the Alabama State Senate",
-      "\n<a href=\"http://duckduckgo.com/Figure_(music)\">Musical figure</a>, distinguished from musical motif",
-      "https://en.wikipedia.org/wiki/Figure",
-      "\nA <a href=\"http://duckduckgo.com/shape\">shape</a>, <a href=\"http://duckduckgo.com/?q=drawing\">drawing</a>, or <a href=\"http://duckduckgo.com/?q=representation\">representation</a>",
-      "Wikipedia",
-      "Figure",
-      "\n<a href=\"http://duckduckgo.com/Figure_of_speech\">Figure of speech</a>, also called a rhetorical figure",
-      "http://www.merriam-webster.com/dictionary/figure",
-      "figure definition: a number symbol.",
-      "\n<a href=\"http://duckduckgo.com/Figure_(wood)\">Figure</a>, wood appearance",
-      "HASH(0x5cab508)",
-      "\n<a href=\"http://duckduckgo.com/dance_move\">Dance figure</a>, an elementary dance pattern",
-      "Merriam-Webster",
-      "HASH(0x5cafe30)",
-      "\n<a href=\"http://duckduckgo.com/Figure_skating\">Figure skating</a> - Figure skating is a sport and activity in which individuals, duos, or groups perform on figure skates on ice.",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Significant_figures\">Significant figures</a> in a decimal number",
-      "\n<a href=\"http://duckduckgo.com/Noise_figure\">Noise figure</a>, in telecommunication"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/California_woman_sees_holy_figure_in_burrito\" title=\"California woman sees holy figure in burrito\">California woman sees holy <span class=\"searchmatch\">figure</span> in burrito</a>",
@@ -93,7 +74,26 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Vivian_Davis_Figures\">Vivian Davis Figures</a>, Democratic member of the Alabama State Senate",
+      "\n<a href=\"http://duckduckgo.com/Figure_(music)\">Musical figure</a>, distinguished from musical motif",
+      "https://en.wikipedia.org/wiki/Figure",
+      "\nA <a href=\"http://duckduckgo.com/shape\">shape</a>, <a href=\"http://duckduckgo.com/?q=drawing\">drawing</a>, or <a href=\"http://duckduckgo.com/?q=representation\">representation</a>",
+      "Wikipedia",
+      "Figure",
+      "\n<a href=\"http://duckduckgo.com/Figure_of_speech\">Figure of speech</a>, also called a rhetorical figure",
+      "http://www.merriam-webster.com/dictionary/figure",
+      "figure definition: a number symbol.",
+      "\n<a href=\"http://duckduckgo.com/Figure_(wood)\">Figure</a>, wood appearance",
+      "HASH(0x5cab508)",
+      "\n<a href=\"http://duckduckgo.com/dance_move\">Dance figure</a>, an elementary dance pattern",
+      "Merriam-Webster",
+      "HASH(0x5cafe30)",
+      "\n<a href=\"http://duckduckgo.com/Figure_skating\">Figure skating</a> - Figure skating is a sport and activity in which individuals, duos, or groups perform on figure skates on ice.",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Significant_figures\">Significant figures</a> in a decimal number",
+      "\n<a href=\"http://duckduckgo.com/Noise_figure\">Noise figure</a>, in telecommunication"
+   ],
    "micro-www-search" : [
       "figures\n>http\nhttp://en.m.wikipedia.org/wiki/Figure\nhttp://en.wikipedia.org/w/index.php?title=Figure&oldid=539689168\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "figure_skating_competition\n>http\nhttp://en.m.wikipedia.org/wiki/Figure_skating_competition\nhttp://en.wikipedia.org/w/index.php?title=Figure_skating_competition&oldid=554559318\nhttp://www.usfigureskating.org/\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/f/f4/Ambox_content.png\n\n",
@@ -111,7 +111,6 @@
       "Figure-eight_knot_(ropes)\n>http\nhttp://en.m.wikipedia.org/wiki/Figure-eight_knot_(ropes)\nhttp://en.wikipedia.org/w/index.php?title=Figure-eight_knot_(ropes)&oldid=539689352\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n"
    ],
    "created" : 1373456024,
-   "book" : [],
    "micro-www" : {
       "figure" : [
          "figures",
@@ -131,6 +130,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Figure' may refer to:\n\n*A shape, drawing, or representation *Figure, wood appearance *Musical figure,\ndistinguished from musical motif *Shaping a mirror on a reflective telescope\n*Noise figure, in telecommunication *Dance figure, an elementary dance pattern\n*Vivian Davis Figures, Democratic member of the Alabama State Senate *A person's\nfigure, human physical appearance\n",

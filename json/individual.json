@@ -1,11 +1,4 @@
 {
-   "google" : [
-      "/url?q=http://en.wikipedia.org/wiki/Individual&sa=U&ei=E33YUZuZFIvKswb1g4DwCQ&ved=0CBgQFjAA&usg=AFQjCNFFYVonjZWecxyQo2G8_c-1twYQJw",
-      "/url?q=http://www.thefreedictionary.com/individual&sa=U&ei=E33YUZuZFIvKswb1g4DwCQ&ved=0CCEQFjAB&usg=AFQjCNGM_FaZ3RjDXMmnvN4i0ou1GyUuVQ",
-      "/url?q=http://www.merriam-webster.com/dictionary/individual&sa=U&ei=E33YUZuZFIvKswb1g4DwCQ&ved=0CCoQFjAC&usg=AFQjCNFUBO_Q5l_dRBnRFX4NqmRosruoEA",
-      "/url?q=http://www.businessdictionary.com/definition/individual.html&sa=U&ei=E33YUZuZFIvKswb1g4DwCQ&ved=0CC4QFjAD&usg=AFQjCNFP25blK4kgnPYOif48qv2ug6uKWQ",
-      "/url?q=http://dictionary.reference.com/browse/individual&sa=U&ei=E33YUZuZFIvKswb1g4DwCQ&ved=0CDIQFjAE&usg=AFQjCNEyPbC7iT6HaPD0AJ3BBRsaLbfXIg"
-   ],
    "micrownet" : [
       "individual",
       "individual(prenominal)",
@@ -21,6 +14,13 @@
       "individualization",
       "individualize",
       "individualized"
+   ],
+   "google" : [
+      "/url?q=http://en.wikipedia.org/wiki/Individual&sa=U&ei=E33YUZuZFIvKswb1g4DwCQ&ved=0CBgQFjAA&usg=AFQjCNFFYVonjZWecxyQo2G8_c-1twYQJw",
+      "/url?q=http://www.thefreedictionary.com/individual&sa=U&ei=E33YUZuZFIvKswb1g4DwCQ&ved=0CCEQFjAB&usg=AFQjCNGM_FaZ3RjDXMmnvN4i0ou1GyUuVQ",
+      "/url?q=http://www.merriam-webster.com/dictionary/individual&sa=U&ei=E33YUZuZFIvKswb1g4DwCQ&ved=0CCoQFjAC&usg=AFQjCNFUBO_Q5l_dRBnRFX4NqmRosruoEA",
+      "/url?q=http://www.businessdictionary.com/definition/individual.html&sa=U&ei=E33YUZuZFIvKswb1g4DwCQ&ved=0CC4QFjAD&usg=AFQjCNFP25blK4kgnPYOif48qv2ug6uKWQ",
+      "/url?q=http://dictionary.reference.com/browse/individual&sa=U&ei=E33YUZuZFIvKswb1g4DwCQ&ved=0CDIQFjAE&usg=AFQjCNEyPbC7iT6HaPD0AJ3BBRsaLbfXIg"
    ],
    "duckduckgo" : {
       "urls" : [

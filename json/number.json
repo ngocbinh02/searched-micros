@@ -101,19 +101,9 @@
       "add_up",
       "attribute"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Number_(disambiguation)",
-      "HASH(0x5f1e878)",
-      "Wikipedia",
-      "Number",
-      "\n<a href=\"http://duckduckgo.com/Number\">Number</a> - A number is a mathematical object used to count, label, and measure.",
-      "http://www.merriam-webster.com/dictionary/number",
-      "number definition: a sum of units.",
-      "Merriam-Webster",
-      "HASH(0x5c93548)",
-      "\n<a href=\"http://duckduckgo.com/Number_sign\">Number sign</a> or #, the octothorpe symbol",
-      "\n<a href=\"http://duckduckgo.com/Numbers_station\">Numbers station</a>, a spy radio station",
-      "D"
+   "Lists" : [
+      "List_of_numbers",
+      "List_of_numbers_in_various_languages"
    ],
    "common" : {
       "milestones" : [
@@ -144,9 +134,19 @@
          []
       ]
    },
-   "Lists" : [
-      "List_of_numbers",
-      "List_of_numbers_in_various_languages"
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Number_(disambiguation)",
+      "HASH(0x5f1e878)",
+      "Wikipedia",
+      "Number",
+      "\n<a href=\"http://duckduckgo.com/Number\">Number</a> - A number is a mathematical object used to count, label, and measure.",
+      "http://www.merriam-webster.com/dictionary/number",
+      "number definition: a sum of units.",
+      "Merriam-Webster",
+      "HASH(0x5c93548)",
+      "\n<a href=\"http://duckduckgo.com/Number_sign\">Number sign</a> or #, the octothorpe symbol",
+      "\n<a href=\"http://duckduckgo.com/Numbers_station\">Numbers station</a>, a spy radio station",
+      "D"
    ],
    "micro-www-search" : [
       "numbers_station\n>http\nhttp://en.m.wikipedia.org/wiki/Numbers_station\nhttp://en.wikipedia.org/w/index.php?title=Numbers_station&oldid=559532990\nhttp://numberstations.co.uk\nhttp://www.esquire.com/the-side/feature/numbers-station-07-31-08\nhttp://www.freewebs.com/meterbands/numberstations.html\nhttp://www.matadorpictures.com/inproduction_numbers.html\nhttp://www.salon.com/people/feature/1999/09/16/numbers/print.html\n\n>pdf\nhttp://i.cdn.turner.com/cnn/2009/images/06/05/myers.indictment.pdf\nhttp://irdial.hyperreal.org/www/conet_project_booklet.pdf\nhttp://users.telenet.be/d.rijmenants/papers/cuban_agent_communications.pdf\nhttp://www.iarums-r1.org/iarums/prcdragon.pdf\nhttp://www.iarums-r1.org/iarums/prcdragon.pdf\nhttp://users.telenet.be/d.rijmenants/papers/cuban_agent_communications.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/0/02/Tcp_d1_4_phonetic_alphabet_nato_irdial.ogg\nhttp://upload.wikimedia.org/wikipedia/en/f/f4/Ambox_content.png\n\n>media\nhttp://upload.wikimedia.org/wikipedia/commons/0/02/Tcp_d1_4_phonetic_alphabet_nato_irdial.ogg\n\n",
@@ -167,7 +167,6 @@
       "Number\n>http\nhttp://en.m.wikipedia.org/wiki/Number\nhttp://en.wikipedia.org/w/index.php?title=Number&oldid=559231952\nhttp://www.careerbless.com/aptitude/qa/numbers_imp.php\nhttp://www.cut-the-knot.org/do_you_know/numbers.shtml\nhttp://www.encyclopediaofmath.org/index.php?title=Number\nhttp://www.npr.org/blogs/krulwich/2011/07/22/138493147/what-s-your-favorite-number-world-wide-survey-v1\nhttp://www.numberphile.com/videos/exist.html\nhttp://www.stetson.edu/~efriedma/numbers.html\n\n>image\nhttp://upload.wikimedia.org/math/6/2/4/624e4cf68723f677d53e8cf2272f348a.png\n"
    ],
    "created" : 1373456002,
-   "book" : [],
    "micro-www" : {
       "number" : [
          "numbers_station",
@@ -189,6 +188,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Group theory",

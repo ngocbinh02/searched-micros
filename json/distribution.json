@@ -46,20 +46,7 @@
       "normal_distribution",
       "structure"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Distribution",
-      "\n<a href=\"http://duckduckgo.com/Linux_distribution\">Linux distribution</a>, one of several distributions built on the Linux kernel",
-      "HASH(0x506c960)",
-      "Wikipedia",
-      "Distribution",
-      "\n<a href=\"http://duckduckgo.com/Probability_distribution\">Probability distribution</a>, the probability of a particular values or value range of a variable",
-      "http://www.merriam-webster.com/dictionary/distribution",
-      "distribution definition: the act or process of distributing.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Distribution_(business)\">Distribution (business)</a>, or place, one of the four elements of marketing mix",
-      "HASH(0x50b4558)",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Enterprise_Linux_distribution_on_the_horizon\" title=\"New Enterprise Linux distribution on the horizon\">New Enterprise Linux <span class=\"searchmatch\">distribution</span> on the horizon</a>",
@@ -88,7 +75,20 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Distribution",
+      "\n<a href=\"http://duckduckgo.com/Linux_distribution\">Linux distribution</a>, one of several distributions built on the Linux kernel",
+      "HASH(0x506c960)",
+      "Wikipedia",
+      "Distribution",
+      "\n<a href=\"http://duckduckgo.com/Probability_distribution\">Probability distribution</a>, the probability of a particular values or value range of a variable",
+      "http://www.merriam-webster.com/dictionary/distribution",
+      "distribution definition: the act or process of distributing.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Distribution_(business)\">Distribution (business)</a>, or place, one of the four elements of marketing mix",
+      "HASH(0x50b4558)",
+      "D"
+   ],
    "micro-www-search" : [
       "distribution\n>http\nhttp://en.m.wikipedia.org/wiki/Distribution\nhttp://en.wikipedia.org/w/index.php?title=Distribution&oldid=539678518\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png\n\n",
       "Distribution_of_wealth\n>pdf\nhttp://arxiv.org/PS_cache/arxiv/pdf/1107/1107.5728v2.pdf\nhttp://www.census.gov/prod/1/pop/p25-1129.pdf\nhttp://www.census.gov/prod/2003pubs/p70-88.pdf\nhttp://www.iariw.org/abstracts/2006/daviesa.pdf\nhttp://www.levyinstitute.org/pubs/wp_589.pdf\nhttp://www.people.hbs.edu/mnorton/norton%20ariely%20in%20press.pdf\nhttp://www.taxjustice.net/cms/upload/pdf/Price_of_Offshore_Revisited_120722.pdf\nhttp://www.taxjustice.net/cms/upload/pdf/The_Price_of_Offshore_Revisited_Presser_120722.pdf\nhttp://www.federalreserve.gov/pubs/oss/oss2/papers/concentration.2001.10.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/World_distributionofwealth_GDP_and_population_by_region.gif/330px-World_distributionofwealth_GDP_and_population_by_region.gif\n\n",
@@ -105,7 +105,6 @@
       "Distribution_(business)\n>pdf\nhttp://faculty.piercecollege.edu/rskidmore/Ghost/library/Chapters/CHPT15-04.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/40px-Wikibooks-logo-en-noslogan.svg.png\n"
    ],
    "created" : 1373460897,
-   "book" : [],
    "micro-www" : {
       "distribution" : [
          "distribution",
@@ -124,6 +123,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\nIn mathematics, science, and technology In mathematics\n* Distribution (mathematics), generalized functions used to formulate solutions\n  of partial differential equations\n* Probability distribution, the probability of a particular values or value\n  range of a variable ** Cumulative distribution function, in which the\n  probability of a value is a function of that value\n* Frequency distribution, a list of the values recorded in a sample\n* Inner distribution and outer distribution, in coding theory\n* Distribution (differential geometry), a subset of the tangent bundle of\n  a manifold\n* Distributed parameter system, systems that have an infinite-dimensional\n  state-space\n* Distribution of terms, a situation in which all members of a category are\n  accounted for\n* Distributivity, is a property of binary operations that generalises the\n  distributive law from elementary algebra\n\nIn science\n* power distribution, in color science, the power per unit area per unit\n  wavelength of an illumination\n* Trip distribution, part of the four-step transportation forecasting model\n\nIn technology and computer science\n* Electric power distribution, the final stage in the delivery of electricity\n* Distributed generation is the use of technologies to provide electric power at\n  the source of consumption\n* Electronic brakeforce distribution, an automotive technology that varies brake\n  force based on prevailing conditions\n* Distributed computing, the coordinated use of physically distributed computers\n  (distributed systems) for tasks or storage\n* Software distribution, a bundle of a specific software already compiled and\n  configured ** Linux distribution, one of several distributions built on the\n  Linux kernel\n* Distribution (concurrency), the projection operator in a history monoid, a\n  representation of the histories of concurrent computer processes\n* Key distribution center, part of a cryptosystem intended to reduce the risks\n  inherent in exchanging keys\n* Content distribution, publishing and web design as method to provide\n  information\n* Digital distribution, publishing media digitally\n* Distributed production or Distributed manufacturing is the fabrication of\n  products by consumers such as with 3-D printing\n* Distribution of elements in the distributed element model of electric circuits\n* A specific packaging of an operating system containing components such as the\n  Kernel (computing), a toolchain, utilities and other software. The most common\n  use in this context is for Linux distributions Blood distribution\n\nIn economics\n* Distribution (economics), distribution of income or output among individuals\n  or factors of production\n* Distribution (business), or place, one of the four elements of marketing mix\n* Distribution of wealth, among members in a society ** Resource distribution,\n  among geographic entities such as states\n* Division of property, or equitable distribution, of property between spouses\n  during divorce\n* Food distribution, methods of transporting food\n* Good distribution practice, guidelines for distribution of medicines\n\nOther uses\n* Film distributor, an agent between a film producer and an exhibitor\n* Purse distribution, in a horse race, the distribution of winnings among the\n  highest finishers\n* Record distribution, process of shipping and promoting record labels\n* Font distribution, the units in which metal type is sold, containing relative\n  proportions of letters appropriate for a given language\n* Distribution Select, a Canadian record and video label\n\nSee also\n* Apportionment, means distribution or allotment in proper shares\n* Distributor (disambiguation)\n* Range (disambiguation)\n",

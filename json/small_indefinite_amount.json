@@ -88,10 +88,7 @@
       "mouthful",
       "drib"
    ],
-   "duck" : [
-      "HASH(0x5edaea0)",
-      "HASH(0x5cfec70)"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Colleges_offering_admission_to_displaced_New_Orleans_students/LA-ND\" title=\"Colleges offering admission to displaced New Orleans students/LA-ND\">Colleges offering admission to displaced New Orleans students/LA-ND</a>"
@@ -101,14 +98,17 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "HASH(0x5edaea0)",
+      "HASH(0x5cfec70)"
+   ],
    "micro-www-search" : [],
    "created" : 1373455384,
-   "book" : [],
    "micro-www" : {
       "small_indefinite_amount" : [
          ""
       ]
    },
+   "book" : [],
    "micro-relation" : []
 }

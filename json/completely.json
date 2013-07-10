@@ -1,19 +1,7 @@
 {
    "micrownet" : [],
    "micro" : [],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Completely",
-      "HASH(0x6607820)",
-      "Wikipedia",
-      "Completely",
-      "http://www.merriam-webster.com/dictionary/completely",
-      "completely definition: having all necessary parts, elements, or steps.",
-      "Merriam-Webster",
-      "HASH(0x68771d0)",
-      "\n<a href=\"http://duckduckgo.com/Completely_(Christian_Bautista_album)\">Completely (Christian Bautista album)</a>, 2005",
-      "\n<a href=\"http://duckduckgo.com/Completely_(Diamond_Rio_album)\">Completely (Diamond Rio album)</a> - Completely is the eighth album from noted country artists Diamond Rio.",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Completely_irresponsible%27_woman_called_emergency_services_to_report_theft_of_snowman\" title=\"&#39;Completely irresponsible&#39; woman called emergency services to report theft of snowman\">&#39;<span class=\"searchmatch\">Completely</span> irresponsible&#39; woman called emergency services to report theft of snowman</a>",
@@ -42,18 +30,30 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Completely",
+      "HASH(0x6607820)",
+      "Wikipedia",
+      "Completely",
+      "http://www.merriam-webster.com/dictionary/completely",
+      "completely definition: having all necessary parts, elements, or steps.",
+      "Merriam-Webster",
+      "HASH(0x68771d0)",
+      "\n<a href=\"http://duckduckgo.com/Completely_(Christian_Bautista_album)\">Completely (Christian Bautista album)</a>, 2005",
+      "\n<a href=\"http://duckduckgo.com/Completely_(Diamond_Rio_album)\">Completely (Diamond Rio album)</a> - Completely is the eighth album from noted country artists Diamond Rio.",
+      "D"
+   ],
    "micro-www-search" : [
       "Completely_(disambiguation)\n>http\nhttp://en.m.wikipedia.org/wiki/Completely\nhttp://en.wikipedia.org/w/index.php?title=Completely&oldid=505779701\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n"
    ],
    "created" : 1373458106,
-   "book" : [],
    "micro-www" : {
       "completely" : [
          "Completely_(disambiguation)",
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Completely' may refer to:\n\n*''Completely'' (Diamond Rio album) *''Completely'' (Christian Bautista\nalbum), 2005\n",

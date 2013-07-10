@@ -1,13 +1,13 @@
 {
+   "micrownet" : [
+      "diopter"
+   ],
    "google" : [
       "/url?q=http://en.wikipedia.org/wiki/Dioptre&sa=U&ei=hHrYUaj5EcyRswaL1oHoAg&ved=0CBgQFjAA&usg=AFQjCNHzh6gm5-_OHhb1A0SmQv8ws_jrpQ",
       "/url?q=http://www.arri.com/camera/tutorials/what_is_a_diopter.html&sa=U&ei=hHrYUaj5EcyRswaL1oHoAg&ved=0CCEQFjAB&usg=AFQjCNFM0W1xZCLETHb6g-ZKnSvtPaKfNw",
       "/url?q=http://digital-photography-school.com/using-diopter-adjustment&sa=U&ei=hHrYUaj5EcyRswaL1oHoAg&ved=0CCMQFjAC&usg=AFQjCNFFtAHYt8skx1iafRtu16BF_KWAFw",
       "/url?q=http://www.howardelectronics.com/heiscope/illumination/diopter.html&sa=U&ei=hHrYUaj5EcyRswaL1oHoAg&ved=0CCcQFjAD&usg=AFQjCNF_R3UxrA93iXikYxnL8TUXvdGMOw",
       "/url?q=http://www.thefreedictionary.com/diopter&sa=U&ei=hHrYUaj5EcyRswaL1oHoAg&ved=0CCoQFjAE&usg=AFQjCNE0zMr0hopWnPn1fIa0m1dVnb6VQA"
-   ],
-   "micrownet" : [
-      "diopter"
    ],
    "duckduckgo" : {
       "urls" : [

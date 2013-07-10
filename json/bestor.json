@@ -1,19 +1,7 @@
 {
    "micrownet" : [],
    "micro" : [],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Bestor",
-      "HASH(0x50dae88)",
-      "Wikipedia",
-      "Bestor",
-      "\n<a href=\"http://duckduckgo.com/Arthur_Bestor\">Arthur Bestor</a> (1908&ndash;1994), American historian and educational critic",
-      "\n<a href=\"http://duckduckgo.com/Arthur_E._Bestor\">Arthur E. Bestor</a> (1879&ndash;1944), American educator and civic leader",
-      "\n<a href=\"http://duckduckgo.com/Charles_L._Bestor\">Charles L. Bestor</a> (born 1924), American composer of electronic and orchestral music",
-      "\n<a href=\"http://duckduckgo.com/Theodore_C._Bestor\">Theodore C. Bestor</a> (born 1951), American professor of Anthropology and Japanese Studies at Harvard University",
-      "HASH(0x5052c10)",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Kurt_Bestor\">Kurt Bestor</a>, American composer, arranger, and entertainer"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2011_BRIT_Awards_highlights\" title=\"2011 BRIT Awards highlights\">2011 BRIT Awards highlights</a>",
@@ -41,18 +29,30 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Bestor",
+      "HASH(0x50dae88)",
+      "Wikipedia",
+      "Bestor",
+      "\n<a href=\"http://duckduckgo.com/Arthur_Bestor\">Arthur Bestor</a> (1908&ndash;1994), American historian and educational critic",
+      "\n<a href=\"http://duckduckgo.com/Arthur_E._Bestor\">Arthur E. Bestor</a> (1879&ndash;1944), American educator and civic leader",
+      "\n<a href=\"http://duckduckgo.com/Charles_L._Bestor\">Charles L. Bestor</a> (born 1924), American composer of electronic and orchestral music",
+      "\n<a href=\"http://duckduckgo.com/Theodore_C._Bestor\">Theodore C. Bestor</a> (born 1951), American professor of Anthropology and Japanese Studies at Harvard University",
+      "HASH(0x5052c10)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Kurt_Bestor\">Kurt Bestor</a>, American composer, arranger, and entertainer"
+   ],
    "micro-www-search" : [
       "bestor\n>http\nhttp://en.m.wikipedia.org/wiki/Bestor\nhttp://en.wikipedia.org/w/index.php?title=Bestor&oldid=533259289\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/30px-WPanthroponymy.svg.png\n"
    ],
    "created" : 1373458490,
-   "book" : [],
    "micro-www" : {
       "bestor" : [
          "bestor",
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "'Bestor' is an Anglo-American surname, and may refer to:\n\n*Arthur E. Bestor (1879&ndash;1944), American educator and civic leader\n*Arthur Bestor (1908&ndash;1994), American historian and educational critic\n*Charles L. Bestor (born 1924), American composer of electronic and orchestral\nmusic *Kurt Bestor, American composer, arranger, and entertainer *Theodore C.\nBestor (born 1951), American professor of Anthropology and Japanese Studies at\nHarvard University <!-- *Barbara Bestor, American architect *Don Bestor,\nAmerican jazz musician and big-band leader of the 1920s-1940s *Lawrence Bestor\n(born 1952), entrepreneur and inventor *Timothy H. Bestor, geneticist,\nColumbia University -->\n",

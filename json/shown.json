@@ -7,7 +7,19 @@
       "demonstrate",
       "exhibit"
    ],
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Shown",
+      "HASH(0x61955c8)",
+      "Wikipedia",
+      "Shown",
+      "http://www.merriam-webster.com/dictionary/shown",
+      "shown definition: to cause or permit to be seen.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Suzan_Shown_Harjo\">Suzan Shown Harjo</a> (born 1945), Native American activist",
+      "\n<a href=\"http://duckduckgo.com/Elizabeth_Shown_Mills\">Elizabeth Shown Mills</a> (born 1944), American genealogist",
+      "HASH(0x5cfd7b8)",
+      "D"
+   ],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Footage_of_7/7_bombers_shown_to_court\" title=\"Footage of 7/7 bombers shown to court\">Footage of 7/7 bombers <span class=\"searchmatch\">shown</span> to court</a>",
@@ -36,30 +48,18 @@
          []
       ]
    },
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Shown",
-      "HASH(0x61955c8)",
-      "Wikipedia",
-      "Shown",
-      "http://www.merriam-webster.com/dictionary/shown",
-      "shown definition: to cause or permit to be seen.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Suzan_Shown_Harjo\">Suzan Shown Harjo</a> (born 1945), Native American activist",
-      "\n<a href=\"http://duckduckgo.com/Elizabeth_Shown_Mills\">Elizabeth Shown Mills</a> (born 1944), American genealogist",
-      "HASH(0x5cfd7b8)",
-      "D"
-   ],
+   "Lists" : [],
    "micro-www-search" : [
       "shown\n>http\nhttp://en.m.wikipedia.org/wiki/Shown\nhttp://en.wikipedia.org/w/index.php?title=Shown&oldid=541888452\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n"
    ],
    "created" : 1373457675,
+   "book" : [],
    "micro-www" : {
       "shown" : [
          "shown",
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [
          "English-language surnames"

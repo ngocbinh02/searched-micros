@@ -32,21 +32,11 @@
       "mammal",
       "mammalian"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Mammal_(band)\">Mammal (band)</a>, Australian band",
-      "https://en.wikipedia.org/wiki/Mammal_(disambiguation)",
-      "\n<a href=\"http://duckduckgo.com/Mammal\">Mammal</a>, a class of vertebrate",
-      "HASH(0x4fb52f0)",
-      "Wikipedia",
-      "Mammal",
-      "\n<a href=\"http://duckduckgo.com/Mammal_(album)\">Mammal</a>, an album by Irish <a href=\"http://duckduckgo.com/?q=black metal\">black metal</a> band <a href=\"http://duckduckgo.com/?q=Altar of Plagues\">Altar of Plagues</a>",
-      "\n<a href=\"http://duckduckgo.com/The_Mammals\">The Mammals</a>, American folk rock band",
-      "http://www.merriam-webster.com/dictionary/mammal",
-      "mammal definition: any of a class (Mammalia) of warm-blooded higher vertebrates (as placentals, marsupials, or monotremes) that nourish their young with milk secreted by mammary glands, have the skin usually more or less covered with hair, and include humans.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Mammals_(play)\">Mammals (play)</a>, a play by Amelia Bullmore",
-      "HASH(0x5007760)",
-      "D"
+   "Lists" : [
+      "List_of_mammal_genera",
+      "List_of_extinct_mammals",
+      "List_of_mammalogists",
+      "List_of_prehistoric_mammals"
    ],
    "common" : {
       "milestones" : [
@@ -75,18 +65,27 @@
          []
       ]
    },
-   "Lists" : [
-      "List_of_mammal_genera",
-      "List_of_extinct_mammals",
-      "List_of_mammalogists",
-      "List_of_prehistoric_mammals"
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Mammal_(band)\">Mammal (band)</a>, Australian band",
+      "https://en.wikipedia.org/wiki/Mammal_(disambiguation)",
+      "\n<a href=\"http://duckduckgo.com/Mammal\">Mammal</a>, a class of vertebrate",
+      "HASH(0x4fb52f0)",
+      "Wikipedia",
+      "Mammal",
+      "\n<a href=\"http://duckduckgo.com/Mammal_(album)\">Mammal</a>, an album by Irish <a href=\"http://duckduckgo.com/?q=black metal\">black metal</a> band <a href=\"http://duckduckgo.com/?q=Altar of Plagues\">Altar of Plagues</a>",
+      "\n<a href=\"http://duckduckgo.com/The_Mammals\">The Mammals</a>, American folk rock band",
+      "http://www.merriam-webster.com/dictionary/mammal",
+      "mammal definition: any of a class (Mammalia) of warm-blooded higher vertebrates (as placentals, marsupials, or monotremes) that nourish their young with milk secreted by mammary glands, have the skin usually more or less covered with hair, and include humans.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Mammals_(play)\">Mammals (play)</a>, a play by Amelia Bullmore",
+      "HASH(0x5007760)",
+      "D"
    ],
    "micro-www-search" : [
       "mammals\n>http\nhttp://nlbif.eti.uva.nl/bis/marine_mammals.php\nhttp://paleocene-mammals.de/\nhttp://photos.archeozoo.org/index/category/60-mammiferes_langen_mammals_lang_langes_mamiferos_lang_?lang=en_UK\nhttp://www.enchantedlearning.com/subjects/mammals/Evolution.shtml\nhttp://www.european-mammals.org/php/mapmaker.php\nhttp://www.learnanimals.com/mammals.php\nhttp://www.nytimes.com/2013/02/08/science/common-ancestor-of-mammals-plucked-from-obscurity.html\n\n>pdf\nhttp://app.pan.pl/archive/published/app51/app51-393.pdf\nhttp://carnegiemnh.net/assets/science/vp/Luo%202007%20%28Mesozoic%20mammal%20review%29%5B1%5D.pdf\nhttp://darwin.wcupa.edu/~biology/fish/pubs/pdf/1991MRDolphinswimming.pdf\nhttp://jeb.biologists.org/content/207/12/2157.full.pdf\nhttp://psrd.hawaii.edu/engels/Stanley/Textbook_update/Science_302/Cifelli-03.pdf\nhttp://users.ox.ac.uk/~tskemp/pdfs/jeb2006.pdf\nhttp://www.carnegiemnh.org/assets/science/mammals/Maelestes.pdf\nhttp://www.dtabacaru.com/secret.pdf\nhttp://www.geo.utexas.edu/faculty/rowe/Publications/pdf/010%20Rowe%201988.pdf\nhttp://www.mnf.uni-greifswald.de/fileadmin/Zoologisches_Museum/Hildebrandt/Dokumente/graves08.pdf\nhttp://www.rci.rutgers.edu/~wmbrown/BROWN.TREE.pdf\nhttp://www.usp.br/mz/forum/pdf/Bergsten_2005_long_branch_attraction.pdf\nhttp://www.zi.ku.dk/evolbiology/courses/ME04/7_9/springer200-phyl.pdf\nhttp://www.zi.ku.dk/evolbiology/courses/ME04/7_9/springer200-phyl.pdf\nhttp://xa.yimg.com/kq/groups/13543816/1018125207/name/Luo+y+Martin+2007-+molar+structure+and+phylogeny+of+docodonts.pdf\nhttp://www.geo.utexas.edu/faculty/rowe/Publications/pdf/010%20Rowe%201988.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Mammal_Diversity_2011.png/275px-Mammal_Diversity_2011.png\n\n",
       "Mammals\n>pdf\nhttp://app.pan.pl/archive/published/app51/app51-393.pdf\nhttp://carnegiemnh.net/assets/science/vp/Luo%202007%20%28Mesozoic%20mammal%20review%29%5B1%5D.pdf\nhttp://darwin.wcupa.edu/~biology/fish/pubs/pdf/1991MRDolphinswimming.pdf\nhttp://jeb.biologists.org/content/207/12/2157.full.pdf\nhttp://users.ox.ac.uk/~tskemp/pdfs/jeb2006.pdf\nhttp://www.carnegiemnh.org/assets/science/mammals/Maelestes.pdf\nhttp://www.dtabacaru.com/secret.pdf\nhttp://www.geo.utexas.edu/faculty/rowe/Publications/pdf/010%20Rowe%201988.pdf\nhttp://www.mnf.uni-greifswald.de/fileadmin/Zoologisches_Museum/Hildebrandt/Dokumente/graves08.pdf\nhttp://www.rci.rutgers.edu/~wmbrown/BROWN.TREE.pdf\nhttp://www.usp.br/mz/forum/pdf/Bergsten_2005_long_branch_attraction.pdf\nhttp://www.zi.ku.dk/evolbiology/courses/ME04/7_9/springer200-phyl.pdf\nhttp://www.geo.utexas.edu/faculty/rowe/Publications/pdf/010%20Rowe%201988.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Mammal_Diversity_2011.png/275px-Mammal_Diversity_2011.png\n"
    ],
    "created" : 1373458701,
-   "book" : [],
    "micro-www" : {
       "mammals" : [
          "mammals",
@@ -94,6 +93,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Mammals|"

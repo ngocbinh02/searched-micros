@@ -175,18 +175,7 @@
       "weather",
       "low"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Low",
-      "HASH(0x201fe18)",
-      "Wikipedia",
-      "Low",
-      "Having little relative height; not high or tall.",
-      "\n<a href=\"http://duckduckgo.com/Low_(band)\">Low (band)</a>, an American indie rock group from Duluth, Minnesota",
-      "\n<a href=\"http://duckduckgo.com/Low_(Flo_Rida_song)\">\"Low\" (Flo Rida song)</a>, 2007",
-      "\n<a href=\"http://duckduckgo.com/Low-pressure_area\">Low-pressure area</a>, a concept in meteorology",
-      "HASH(0x5257420)",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Much_of_Texas_(US)_experiencing_low_seasonal_temperatures\" title=\"Much of Texas (US) experiencing low seasonal temperatures\">Much of Texas (US) experiencing <span class=\"searchmatch\">low</span> seasonal temperatures</a>",
@@ -215,7 +204,18 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Low",
+      "HASH(0x201fe18)",
+      "Wikipedia",
+      "Low",
+      "Having little relative height; not high or tall.",
+      "\n<a href=\"http://duckduckgo.com/Low_(band)\">Low (band)</a>, an American indie rock group from Duluth, Minnesota",
+      "\n<a href=\"http://duckduckgo.com/Low_(Flo_Rida_song)\">\"Low\" (Flo Rida song)</a>, 2007",
+      "\n<a href=\"http://duckduckgo.com/Low-pressure_area\">Low-pressure area</a>, a concept in meteorology",
+      "HASH(0x5257420)",
+      "D"
+   ],
    "micro-www-search" : [
       "lowers\n>http\nhttp://en.m.wikipedia.org/wiki/Raising_and_lowering_indices\nhttp://en.wikipedia.org/w/index.php?title=Raising_and_lowering_indices&oldid=541476895\n\n>image\nhttp://upload.wikimedia.org/math/c/1/d/c1dc64fa2a35c469cd7560fabd951188.png\n\n",
       "lowering\n>http\nhttp://en.m.wikipedia.org/wiki/Raising_and_lowering_indices\nhttp://en.wikipedia.org/w/index.php?title=Raising_and_lowering_indices&oldid=541476895\n\n>image\nhttp://upload.wikimedia.org/math/c/1/d/c1dc64fa2a35c469cd7560fabd951188.png\n\n",
@@ -254,7 +254,6 @@
       "LOW_Festival"
    ],
    "created" : 1373460490,
-   "book" : [],
    "micro-www" : {
       "low" : [
          "lowers",
@@ -295,6 +294,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "<!-- Each bulleted entry should have only one navigable (blue) link. 'Do not\nwikilink any other words in the line', per Wikipedia:Manual of Style\n(disambiguation pages) -->\n\n'Low' or 'LOW' may refer to:\n",

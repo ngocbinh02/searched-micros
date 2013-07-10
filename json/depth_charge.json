@@ -24,10 +24,7 @@
       "bomb",
       "weapons_system"
    ],
-   "duck" : [
-      "HASH(0x5d3d488)",
-      "HASH(0x5d398c8)"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:August_5,_2010\" title=\"News briefs:August 5, 2010\">News briefs:August 5, 2010</a>",
@@ -54,18 +51,21 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "HASH(0x5d3d488)",
+      "HASH(0x5d398c8)"
+   ],
    "micro-www-search" : [
       "Depth_charge_(disambiguation)\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png\n"
    ],
    "created" : 1373455410,
-   "book" : [],
    "micro-www" : {
       "depth_charge" : [
          "Depth_charge_(disambiguation)",
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Anti-submarine weapons",

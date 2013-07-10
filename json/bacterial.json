@@ -6,28 +6,8 @@
       "subacute_bacterial_endocarditis"
    ],
    "micro" : [],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Bacteria",
-      "Wikipedia",
-      "\n<a href=\"http://duckduckgo.com/Bacterium_(genus)\">Bacterium (genus)</a> - The genus Bacterium was a taxon described in 1828 by Christian Gottfried Ehrenberg.",
-      "Bacteria",
-      "http://www.merriam-webster.com/dictionary/bacteria",
-      "bacteria definition: bacterium —not usually used technically.",
-      "\n<a href=\"http://duckduckgo.com/Genetically_modified_bacteria\">Genetically modified bacteria</a> - Genetically modified bacteria were the first organisms to be modified in the laboratory, due to their simple genetics.",
-      "\n<a href=\"http://duckduckgo.com/c/Prokaryotes\">Prokaryotes</a>",
-      "\n<a href=\"http://duckduckgo.com/Psychrotrophic_bacteria\">Psychrotrophic bacteria</a> - Psychrotrophic bacteria are bacteria that are capable of surviving or even thriving in a cold environment.",
-      "\n<a href=\"http://duckduckgo.com/d/Bacteria\">Bacteria Meanings</a>",
-      "Bacteria (singular: bacterium) constitute a large domain (or kingdom) of prokaryotic microorganisms.",
-      "\n<a href=\"http://duckduckgo.com/c/Bacteria\">Bacteria Category</a>",
-      "HASH(0x5995650)",
-      "\n<a href=\"http://duckduckgo.com/Extremophile\">Extremophile</a> -  An extremophile (from Latin extremus meaning \"extreme\" and Greek meaning \"love\") is an organism that thrives in physically or geochemically extreme conditions that are detrimental to most l...",
-      "https://i.duckduckgo.com/i/ce84a51c.jpg",
-      "Merriam-Webster",
-      "HASH(0x585db90)",
-      "\n<a href=\"http://duckduckgo.com/Panspermia\">Panspermia</a> - Panspermia (πανσπερμία from πᾶς/πᾶν (pas/pan) \"all\" and σπέρμα (sperma) \"seed\") is the hypothesis that life exists throughout the Universe, distributed by meteoroids, asteroids and plane...",
-      "A",
-      "Bacteria (singular: bacterium) constitute a large domain (or kingdom) of prokaryotic microorganisms.",
-      "\n<a href=\"http://duckduckgo.com/c/Bacteriology\">Bacteriology</a>"
+   "Lists" : [
+      "List_of_bacterial_orders"
    ],
    "common" : {
       "milestones" : [
@@ -56,8 +36,28 @@
          []
       ]
    },
-   "Lists" : [
-      "List_of_bacterial_orders"
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Bacteria",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Bacterium_(genus)\">Bacterium (genus)</a> - The genus Bacterium was a taxon described in 1828 by Christian Gottfried Ehrenberg.",
+      "Bacteria",
+      "http://www.merriam-webster.com/dictionary/bacteria",
+      "bacteria definition: bacterium —not usually used technically.",
+      "\n<a href=\"http://duckduckgo.com/Genetically_modified_bacteria\">Genetically modified bacteria</a> - Genetically modified bacteria were the first organisms to be modified in the laboratory, due to their simple genetics.",
+      "\n<a href=\"http://duckduckgo.com/c/Prokaryotes\">Prokaryotes</a>",
+      "\n<a href=\"http://duckduckgo.com/Psychrotrophic_bacteria\">Psychrotrophic bacteria</a> - Psychrotrophic bacteria are bacteria that are capable of surviving or even thriving in a cold environment.",
+      "\n<a href=\"http://duckduckgo.com/d/Bacteria\">Bacteria Meanings</a>",
+      "Bacteria (singular: bacterium) constitute a large domain (or kingdom) of prokaryotic microorganisms.",
+      "\n<a href=\"http://duckduckgo.com/c/Bacteria\">Bacteria Category</a>",
+      "HASH(0x5995650)",
+      "\n<a href=\"http://duckduckgo.com/Extremophile\">Extremophile</a> -  An extremophile (from Latin extremus meaning \"extreme\" and Greek meaning \"love\") is an organism that thrives in physically or geochemically extreme conditions that are detrimental to most l...",
+      "https://i.duckduckgo.com/i/ce84a51c.jpg",
+      "Merriam-Webster",
+      "HASH(0x585db90)",
+      "\n<a href=\"http://duckduckgo.com/Panspermia\">Panspermia</a> - Panspermia (πανσπερμία from πᾶς/πᾶν (pas/pan) \"all\" and σπέρμα (sperma) \"seed\") is the hypothesis that life exists throughout the Universe, distributed by meteoroids, asteroids and plane...",
+      "A",
+      "Bacteria (singular: bacterium) constitute a large domain (or kingdom) of prokaryotic microorganisms.",
+      "\n<a href=\"http://duckduckgo.com/c/Bacteriology\">Bacteriology</a>"
    ],
    "micro-www-search" : [
       "bacterial\n>http\nhttp://www.lef.org/protocols/infections/bacterial_infection_01.htm\n\n>pdf\nhttp://ijs.sgmjournals.org/cgi/reprint/49/3/1119.pdf\nhttp://www.asm.org/ASM/files/ccLibraryFiles/Filename/000000002765/znw00107000025.pdf\nhttp://www.sci.uidaho.edu/newton/math501/Sp05/Shapiro.pdf\nhttp://www.sci.uidaho.edu/newton/math501/Sp05/Shapiro.pdf\nhttp://www.asm.org/ASM/files/ccLibraryFiles/Filename/000000002765/znw00107000025.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/d/d9/En-us-bacteria.ogg\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png\n\n>media\nhttp://upload.wikimedia.org/wikipedia/commons/d/d9/En-us-bacteria.ogg\n\n",
@@ -73,7 +73,6 @@
       "Bacterial_cell_structure\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bacterial_morphology_diagram.svg/350px-Bacterial_morphology_diagram.svg.png\n"
    ],
    "created" : 1373460794,
-   "book" : [],
    "micro-www" : {
       "bacterial" : [
          "bacterial",
@@ -90,6 +89,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Bacteria|",

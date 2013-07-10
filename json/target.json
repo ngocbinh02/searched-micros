@@ -39,7 +39,20 @@
       "point",
       "take"
    ],
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Target_Center\">Target Center</a>, an indoor sports arena",
+      "https://en.wikipedia.org/wiki/Target",
+      "HASH(0x5cc1268)",
+      "Wikipedia",
+      "Target",
+      "http://www.merriam-webster.com/dictionary/target",
+      "\n<a href=\"http://duckduckgo.com/Target_Field\">Target Field</a>, a baseball park",
+      "\n<a href=\"http://duckduckgo.com/Target_Corporation\">Target Corporation</a>, an American retail chain",
+      "target definition: a small round shield.",
+      "Merriam-Webster",
+      "HASH(0x5cd8088)",
+      "D"
+   ],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Syrian_citizen_journalists_risk_death,_targeted;_city_of_Homs_facing_starvation\" title=\"Syrian citizen journalists risk death, targeted; city of Homs facing starvation\">Syrian citizen journalists risk death, targeted; city of Homs facing starvation</a>",
@@ -69,20 +82,7 @@
          []
       ]
    },
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Target_Center\">Target Center</a>, an indoor sports arena",
-      "https://en.wikipedia.org/wiki/Target",
-      "HASH(0x5cc1268)",
-      "Wikipedia",
-      "Target",
-      "http://www.merriam-webster.com/dictionary/target",
-      "\n<a href=\"http://duckduckgo.com/Target_Field\">Target Field</a>, a baseball park",
-      "\n<a href=\"http://duckduckgo.com/Target_Corporation\">Target Corporation</a>, an American retail chain",
-      "target definition: a small round shield.",
-      "Merriam-Webster",
-      "HASH(0x5cd8088)",
-      "D"
-   ],
+   "Lists" : [],
    "micro-www-search" : [
       "targets\n>http\nhttp://en.m.wikipedia.org/wiki/Targets\nhttp://en.wikipedia.org/w/index.php?title=Targets&oldid=540074267\nhttp://www.culturecourt.com/F/Hollywood/Targets.htm\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/6/63/Targetsposter.jpg/220px-Targetsposter.jpg\n\n",
       "targeting\n>http\nhttp://en.m.wikipedia.org/wiki/Targeting\nhttp://en.wikipedia.org/w/index.php?title=Targeting&oldid=450961352\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
@@ -107,6 +107,7 @@
       "Target_(1952_film)\n>http\nhttp://en.m.wikipedia.org/wiki/Target_(1952_film)\nhttp://en.wikipedia.org/w/index.php?title=Target_(1952_film)&oldid=532247115\nhttp://upload.wikimedia.org/wikipedia/en/thumb/1/17/Target_FilmPoster.jpeg/220px-Target_FilmPoster.jpeg\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/1/17/Target_FilmPoster.jpeg/220px-Target_FilmPoster.jpeg\n"
    ],
    "created" : 1373457878,
+   "book" : [],
    "micro-www" : {
       "target" : [
          "targets",
@@ -133,7 +134,6 @@
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n'Target' may refer to:\n",

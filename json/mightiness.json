@@ -13,19 +13,7 @@
       "might",
       "power"
    ],
-   "duck" : [
-      "Having or showing great power, skill, strength, or force: a mighty orator; a mighty blow.",
-      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=mightiness",
-      "HASH(0x5073e78)",
-      "The Free Dictionary",
-      "mightiness",
-      "http://www.merriam-webster.com/dictionary/mightiness",
-      "mightiness definition: the quality or state of being mighty.",
-      "Merriam-Webster",
-      "HASH(0x4fe0e60)",
-      "Having or showing great power, skill, strength, or force: a mighty orator; a mighty blow.",
-      "A"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_%27Mighty_Mouse%27_from_Apple_debuts\" title=\"New &#39;Mighty Mouse&#39; from Apple debuts\">New &#39;<span class=\"searchmatch\">Mighty</span> Mouse&#39; from Apple debuts</a>",
@@ -52,14 +40,26 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "Having or showing great power, skill, strength, or force: a mighty orator; a mighty blow.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=mightiness",
+      "HASH(0x5073e78)",
+      "The Free Dictionary",
+      "mightiness",
+      "http://www.merriam-webster.com/dictionary/mightiness",
+      "mightiness definition: the quality or state of being mighty.",
+      "Merriam-Webster",
+      "HASH(0x4fe0e60)",
+      "Having or showing great power, skill, strength, or force: a mighty orator; a mighty blow.",
+      "A"
+   ],
    "micro-www-search" : [],
    "created" : 1373460948,
-   "book" : [],
    "micro-www" : {
       "mightiness" : [
          ""
       ]
    },
+   "book" : [],
    "micro-relation" : []
 }

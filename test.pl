@@ -8,5 +8,5 @@
   
  }
 
- threads->new(\&thread_job,$_) for(split("\n",`micro any 3`));
+ threads->new(\&thread_job,$_) for(split("\n",`micro any 10`));
  

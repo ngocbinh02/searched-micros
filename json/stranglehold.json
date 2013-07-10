@@ -15,19 +15,7 @@
       "attribute",
       "throttlehold"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Stranglehold_(disambiguation)",
-      "HASH(0x50b2238)",
-      "Wikipedia",
-      "Stranglehold",
-      "\n<a href=\"http://duckduckgo.com/Stranglehold_(video_game)\">Stranglehold (video game)</a>, the video game sequel to the movie Hard Boiled",
-      "http://www.merriam-webster.com/dictionary/stranglehold",
-      "stranglehold definition: an illegal wrestling hold by which one's opponent is choked.",
-      "Merriam-Webster",
-      "HASH(0x4e241d8)",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/chokehold\">chokehold</a> - A chokehold or choke is a general term for grappling hold that critically reduces or prevents either air or blood from passing through the neck of an opponent."
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2007/08_German_Bundesliga:_Bayern_Munich_has_early_stranglehold_on_championship_after_one-sided_game\" title=\"2007/08 German Bundesliga: Bayern Munich has early stranglehold on championship after one-sided game\">2007/08 German Bundesliga: Bayern Munich has early <span class=\"searchmatch\">stranglehold</span> on championship after one-sided game</a>",
@@ -42,15 +30,27 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Stranglehold_(disambiguation)",
+      "HASH(0x50b2238)",
+      "Wikipedia",
+      "Stranglehold",
+      "\n<a href=\"http://duckduckgo.com/Stranglehold_(video_game)\">Stranglehold (video game)</a>, the video game sequel to the movie Hard Boiled",
+      "http://www.merriam-webster.com/dictionary/stranglehold",
+      "stranglehold definition: an illegal wrestling hold by which one's opponent is choked.",
+      "Merriam-Webster",
+      "HASH(0x4e241d8)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/chokehold\">chokehold</a> - A chokehold or choke is a general term for grappling hold that critically reduces or prevents either air or blood from passing through the neck of an opponent."
+   ],
    "micro-www-search" : [],
    "created" : 1373461044,
-   "book" : [],
    "micro-www" : {
       "stranglehold" : [
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Grappling positions",

@@ -50,30 +50,7 @@
       "miracle",
       "abstract_entity"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Extinction_event\">Extinction event</a>, a sharp decrease in the number of species in a short period of time",
-      "https://en.wikipedia.org/wiki/Event",
-      "\nA <a href=\"http://duckduckgo.com/sport\">sporting event</a>",
-      "Wikipedia",
-      "Event",
-      "\nA <a href=\"http://duckduckgo.com/happening\">happening</a>, a performance or situation meant to be considered as art",
-      "http://www.merriam-webster.com/dictionary/event",
-      "event definition: '''archaic''' outcome.",
-      "\nA <a href=\"http://duckduckgo.com/media_event\">media event</a>, a happening that attracts coverage by mass media",
-      "\nA <a href=\"http://duckduckgo.com/competition\">competition</a>, for example, a sports competition",
-      "\nA <a href=\"http://duckduckgo.com/party\">party</a> (including internal business function or staff party)",
-      "\nA <a href=\"http://duckduckgo.com/festival\">festival</a>, for example, a musical event",
-      "\nAn <a href=\"http://duckduckgo.com/observable\">observable</a> occurrence, <a href=\"http://duckduckgo.com/?q=phenomenon\">phenomenon</a> or an extraordinary occurrence",
-      "HASH(0x5cc3860)",
-      "\nA <a href=\"http://duckduckgo.com/d/corporate\">corporate</a> or <a href=\"http://duckduckgo.com/?q=business\">business</a> function, a profit driven event meant to raise awareness of a company's brand and/or products & services.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Event_horizon\">Event horizon</a>, a boundary in spacetime, typically surrounding a black hole, beyond which events cannot affect an exterior observer",
-      "\nA <a href=\"http://duckduckgo.com/convention_(meeting)\">convention (meeting)</a>, also known as a conference",
-      "HASH(0x5cce170)",
-      "\n<a href=\"http://duckduckgo.com/The_Event\">The Event</a>, an American conspiracy thriller television series for NBC",
-      "D",
-      "\nA <a href=\"http://duckduckgo.com/ceremony\">ceremony</a>, for example, a marriage ceremony"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tsunami_Help/Fundraising_Events\" title=\"Tsunami Help/Fundraising Events\">Tsunami Help/Fundraising <span class=\"searchmatch\">Events</span></a>",
@@ -103,7 +80,30 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Extinction_event\">Extinction event</a>, a sharp decrease in the number of species in a short period of time",
+      "https://en.wikipedia.org/wiki/Event",
+      "\nA <a href=\"http://duckduckgo.com/sport\">sporting event</a>",
+      "Wikipedia",
+      "Event",
+      "\nA <a href=\"http://duckduckgo.com/happening\">happening</a>, a performance or situation meant to be considered as art",
+      "http://www.merriam-webster.com/dictionary/event",
+      "event definition: '''archaic''' outcome.",
+      "\nA <a href=\"http://duckduckgo.com/media_event\">media event</a>, a happening that attracts coverage by mass media",
+      "\nA <a href=\"http://duckduckgo.com/competition\">competition</a>, for example, a sports competition",
+      "\nA <a href=\"http://duckduckgo.com/party\">party</a> (including internal business function or staff party)",
+      "\nA <a href=\"http://duckduckgo.com/festival\">festival</a>, for example, a musical event",
+      "\nAn <a href=\"http://duckduckgo.com/observable\">observable</a> occurrence, <a href=\"http://duckduckgo.com/?q=phenomenon\">phenomenon</a> or an extraordinary occurrence",
+      "HASH(0x5cc3860)",
+      "\nA <a href=\"http://duckduckgo.com/d/corporate\">corporate</a> or <a href=\"http://duckduckgo.com/?q=business\">business</a> function, a profit driven event meant to raise awareness of a company's brand and/or products & services.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Event_horizon\">Event horizon</a>, a boundary in spacetime, typically surrounding a black hole, beyond which events cannot affect an exterior observer",
+      "\nA <a href=\"http://duckduckgo.com/convention_(meeting)\">convention (meeting)</a>, also known as a conference",
+      "HASH(0x5cce170)",
+      "\n<a href=\"http://duckduckgo.com/The_Event\">The Event</a>, an American conspiracy thriller television series for NBC",
+      "D",
+      "\nA <a href=\"http://duckduckgo.com/ceremony\">ceremony</a>, for example, a marriage ceremony"
+   ],
    "micro-www-search" : [
       "eventually\n>http\nhttp://en.m.wikipedia.org/wiki/Eventually\nhttp://en.wikipedia.org/w/index.php?title=Eventually&oldid=513061502\nhttp://www.rollingstone.com/artists/paulwesterberg/albums/album/98994/review/5941597/eventually\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/3/30/Eventually_Westerberg.jpg\n\n",
       "events\n>http\nhttp://en.m.wikipedia.org/wiki/Event\nhttp://en.wikipedia.org/w/index.php?title=Event&oldid=539356852\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
@@ -115,7 +115,6 @@
       "Event-related_potential\n>http\nhttp://en.m.wikipedia.org/wiki/Event-related_potential\nhttp://en.wikipedia.org/w/index.php?title=Event-related_potential&oldid=537205635\n\n>pdf\nhttp://l3d.cs.colorado.edu/~ctg/classes/lib/cogsci/Rugg-ColesChp1.pdf\nhttp://l3d.cs.colorado.edu/~ctg/classes/lib/cogsci/Rugg-ColesChp1.pdf\nhttp://l3d.cs.colorado.edu/~ctg/classes/lib/cogsci/Rugg-ColesChp1.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png\n"
    ],
    "created" : 1373455452,
-   "book" : [],
    "micro-www" : {
       "event" : [
          "eventually",
@@ -129,6 +128,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Concepts|",

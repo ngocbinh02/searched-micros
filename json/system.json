@@ -372,19 +372,7 @@
       "mechanical_system",
       "containment"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/System_(disambiguation)",
-      "\n<a href=\"http://duckduckgo.com/Meta-system\">Meta-system</a>, something composed of multiple smaller systems",
-      "HASH(0x5185378)",
-      "Wikipedia",
-      "System",
-      "http://www.merriam-webster.com/dictionary/system",
-      "system definition: a regularly interacting or interdependent group of items forming a unified whole.",
-      "Merriam-Webster",
-      "HASH(0x5283470)",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/System\">System</a>, a set of entities, real or abstract, comprising a whole"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Solar_system\" title=\"Solar system\">Solar <span class=\"searchmatch\">system</span></a>",
@@ -413,7 +401,19 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/System_(disambiguation)",
+      "\n<a href=\"http://duckduckgo.com/Meta-system\">Meta-system</a>, something composed of multiple smaller systems",
+      "HASH(0x5185378)",
+      "Wikipedia",
+      "System",
+      "http://www.merriam-webster.com/dictionary/system",
+      "system definition: a regularly interacting or interdependent group of items forming a unified whole.",
+      "Merriam-Webster",
+      "HASH(0x5283470)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/System\">System</a>, a set of entities, real or abstract, comprising a whole"
+   ],
    "micro-www-search" : [
       "systems_of_polynomial_equations\n>http\nhttp://en.m.wikipedia.org/wiki/System_of_polynomial_equations\nhttp://en.wikipedia.org/w/index.php?title=System_of_polynomial_equations&oldid=557477901\n\n>image\nhttp://upload.wikimedia.org/math/7/1/9/7194bf90b521f02d3a96b0fe7c80f6ed.png\n\n",
       "systems\n>http\nhttp://en.m.wikipedia.org/wiki/System\nhttp://en.wikipedia.org/w/index.php?title=System&oldid=539550618\nhttp://www.muellerscience.com/SPEZIALITAETEN/System/Lit.System%281556-2001%29.htm\nhttp://www.muellerscience.com/SPEZIALITAETEN/System/System_Definitionen.htm\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/System_boundary.svg/250px-System_boundary.svg.png\n\n",
@@ -472,7 +472,6 @@
       "System\n>http\nhttp://en.m.wikipedia.org/wiki/System\nhttp://en.wikipedia.org/w/index.php?title=System&oldid=555706091\nhttp://www.merriam-webster.com/dictionary/system\nhttp://www.muellerscience.com/SPEZIALITAETEN/System/Lit.System%281556-2001%29.htm\nhttp://www.muellerscience.com/SPEZIALITAETEN/System/System_Definitionen.htm\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/System_boundary.svg/250px-System_boundary.svg.png\n"
    ],
    "created" : 1373458657,
-   "book" : [],
    "micro-www" : {
       "system" : [
          "systems_of_polynomial_equations",
@@ -533,6 +532,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Cybernetics",

@@ -39,27 +39,11 @@
       "top_brass",
       "county_council"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Organization_(disambiguation)",
-      "Wikipedia",
-      "\n<a href=\"http://duckduckgo.com/communist_Party_of_Kampuchea\">Angkar</a>, \"the Organization\", the secretive governing body of Cambodia under Pol Pot.",
-      "Organization",
-      "http://www.merriam-webster.com/dictionary/organization",
-      "\n<a href=\"http://duckduckgo.com/Self-organization\">Self-organization</a>, a cross-discipline concept of a complex system defining its own internal structure.",
-      "organization definition: the act or process of organizing or of being organized.",
-      "\n<a href=\"http://duckduckgo.com/Universal_Zulu_Nation\">Universal Zulu Nation</a>, an international hiphop group known as \"The Organization\"",
-      "\n<a href=\"http://duckduckgo.com/The_O_(political_group)\">The O (political group)</a>, short for The Organization, was an American Maoist group led by Theo Smith, which is said by anti-cult groups and former members to have been a cult",
-      "\n<a href=\"http://duckduckgo.com/Organisation_(band)\">Organisation (band)</a> - Organisation was an experimental Krautrock band, that was the immediate predecessor of the band Kraftwerk.",
-      "HASH(0x5c7b1c0)",
-      "\n<a href=\"http://duckduckgo.com/Organization\">Organization</a> or organisation (for more information about the spelling differences, see American and British English spelling differences) is a formal group of people with one or more shared goals. It can be a <a href=\"http://duckduckgo.com/?q=non-profit organization\">non-profit organization</a>.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/The_Organization_(film)\">The Organization (film)</a>, a 1971 American crime film directed by Don Medford—the last in the Virgil Tibbs trilogy starring Sidney Poitier.",
-      "HASH(0x5caef98)",
-      "\n<a href=\"http://duckduckgo.com/The_Organization_(band)\">The Organization (band)</a> - The Organization was a heavy metal band formed in 1991 after the breakup of the thrash metal band Death Angel.",
-      "\n<a href=\"http://duckduckgo.com/Organisation_(album)\">Organisation (album)</a>, an album by Orchestral Manoeuvres in the Dark",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Organization_XIII\">Organization XIII</a>, the villains in Kingdom Hearts: Chain of Memories and Kingdom Hearts II",
-      "\n<a href=\"http://duckduckgo.com/Organizing\">Organizing</a>, the act of rearranging elements following one or more rules"
+   "Lists" : [
+      "List_of_civic,_fraternal,_service,_and_professional_organizations",
+      "List_of_environmental_organizations",
+      "List_of_professional_organizations",
+      "List_of_trade_unions"
    ],
    "common" : {
       "milestones" : [
@@ -90,11 +74,27 @@
          []
       ]
    },
-   "Lists" : [
-      "List_of_civic,_fraternal,_service,_and_professional_organizations",
-      "List_of_environmental_organizations",
-      "List_of_professional_organizations",
-      "List_of_trade_unions"
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Organization_(disambiguation)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/communist_Party_of_Kampuchea\">Angkar</a>, \"the Organization\", the secretive governing body of Cambodia under Pol Pot.",
+      "Organization",
+      "http://www.merriam-webster.com/dictionary/organization",
+      "\n<a href=\"http://duckduckgo.com/Self-organization\">Self-organization</a>, a cross-discipline concept of a complex system defining its own internal structure.",
+      "organization definition: the act or process of organizing or of being organized.",
+      "\n<a href=\"http://duckduckgo.com/Universal_Zulu_Nation\">Universal Zulu Nation</a>, an international hiphop group known as \"The Organization\"",
+      "\n<a href=\"http://duckduckgo.com/The_O_(political_group)\">The O (political group)</a>, short for The Organization, was an American Maoist group led by Theo Smith, which is said by anti-cult groups and former members to have been a cult",
+      "\n<a href=\"http://duckduckgo.com/Organisation_(band)\">Organisation (band)</a> - Organisation was an experimental Krautrock band, that was the immediate predecessor of the band Kraftwerk.",
+      "HASH(0x5c7b1c0)",
+      "\n<a href=\"http://duckduckgo.com/Organization\">Organization</a> or organisation (for more information about the spelling differences, see American and British English spelling differences) is a formal group of people with one or more shared goals. It can be a <a href=\"http://duckduckgo.com/?q=non-profit organization\">non-profit organization</a>.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/The_Organization_(film)\">The Organization (film)</a>, a 1971 American crime film directed by Don Medford—the last in the Virgil Tibbs trilogy starring Sidney Poitier.",
+      "HASH(0x5caef98)",
+      "\n<a href=\"http://duckduckgo.com/The_Organization_(band)\">The Organization (band)</a> - The Organization was a heavy metal band formed in 1991 after the breakup of the thrash metal band Death Angel.",
+      "\n<a href=\"http://duckduckgo.com/Organisation_(album)\">Organisation (album)</a>, an album by Orchestral Manoeuvres in the Dark",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Organization_XIII\">Organization XIII</a>, the villains in Kingdom Hearts: Chain of Memories and Kingdom Hearts II",
+      "\n<a href=\"http://duckduckgo.com/Organizing\">Organizing</a>, the act of rearranging elements following one or more rules"
    ],
    "micro-www-search" : [
       "Organisation_for_the_Maintenance_of_Supplies\n>http\nhttp://en.m.wikipedia.org/wiki/Organisation_for_the_Maintenance_of_Supplies\nhttp://en.wikipedia.org/w/index.php?title=Organisation_for_the_Maintenance_of_Supplies&oldid=544761505\n\n",
@@ -102,7 +102,6 @@
       "Organisation\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png\n"
    ],
    "created" : 1373455242,
-   "book" : [],
    "micro-www" : {
       "organisation" : [
          "Organisation_for_the_Maintenance_of_Supplies",
@@ -111,6 +110,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Organizations|*",

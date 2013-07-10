@@ -63,16 +63,7 @@
       "instance_of_diplomat",
       "somebody"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Genet",
-      "HASH(0x63ee6c8)",
-      "Wikipedia",
-      "Genet",
-      "\n<a href=\"http://duckduckgo.com/Genet_(animal)\">Genet (animal)</a>, a small predatory Old World carnivore related to civets",
-      "French writer who is best known for his absurdist plays, including The Balcony.",
-      "HASH(0x6259368)",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Edmund_White_on_writing,_incest,_life_and_Larry_Kramer\" title=\"Edmund White on writing, incest, life and Larry Kramer\">Edmund White on writing, incest, life and Larry Kramer</a>",
@@ -83,7 +74,16 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Genet",
+      "HASH(0x63ee6c8)",
+      "Wikipedia",
+      "Genet",
+      "\n<a href=\"http://duckduckgo.com/Genet_(animal)\">Genet (animal)</a>, a small predatory Old World carnivore related to civets",
+      "French writer who is best known for his absurdist plays, including The Balcony.",
+      "HASH(0x6259368)",
+      "D"
+   ],
    "micro-www-search" : [
       "genetics\n>http\nhttp://en.m.wikipedia.org/wiki/Genetics\nhttp://en.wikipedia.org/w/index.php?title=Genetics&oldid=559845205\nhttp://faculty.users.cnu.edu/rcheney/Genetic%20Notation.htm\nhttp://tools.wmflabs.org/ftl/cgi-bin/ftl?st=&su=Genetics\nhttp://tools.wmflabs.org/ftl/cgi-bin/ftl?st=&su=Genetics&library=0CHOOSE0\nhttp://tools.wmflabs.org/ftl/cgi-bin/ftl?st=&su=Genetics&library=OLBP\nhttp://web.archive.org/web/20080103021518http:///faculty.users.cnu.edu/rcheney/Genetic%20Notation.htm\nhttp://web.archive.org/web/20100208123830http:///wrongdiagnosis.com/genetics/dna.htm\nhttp://www.bbc.co.uk/iplayer/console/p00547md/In_Our_Time_Genetics\nhttp://www.dmoz.org/Science/Biology/Genetics/\nhttp://www.etymonline.com/index.php?search=Genetic&searchmode=none\nhttp://www.wrongdiagnosis.com/genetics/dna.htm\n\n>pdf\nhttp://www.esp.org/foundations/genetics/classical/holdings/s/ahs-13.pdf\nhttp://www.nature.com/nature/dna50/watsoncrick.pdf\nhttp://www.nature.com/nature/dna50/watsoncrick2.pdf\nhttp://www.nature.com/nature/focus/crick/pdf/crick227.pdf\nhttp://www.nature.com/nature/focus/crick/pdf/crick227.pdf\nhttp://www.esp.org/foundations/genetics/classical/holdings/s/ahs-13.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Symbol_template_class.svg/16px-Symbol_template_class.svg.png\n\n",
       "genetic_linkage\n>http\nhttp://en.wikipedia.org/w/index.php?title=Genetic_linkage&oldid=553773569\nhttp://wiki.answers.com/Q/What_is_the_difference_between_genetic_linkage_and_linkage_disequilibrium\nhttp://www.ag.ndsu.nodak.edu/plantsci/adv_genetics/genetics/mf/mf09.htm\nhttp://www.hopkinsmedicine.org/epigen/what_is_genetic_mapping.htm\nhttp://www.nature.com/scitable/topicpage/discovery-and-types-of-genetic-linkage-500\nhttp://www.nslij-genetics.org/soft/\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/ScientistPedigree.JPG/220px-ScientistPedigree.JPG\n\n",
@@ -133,7 +133,6 @@
       "Genet_(animal)\n>pdf\nhttp://rcin.org.pl/Content/12682/BI002_26987_Cz-40-2_Acta-T42-nr16-169-177_o.pdf\nhttp://www.catsg.org/cheetah/05_library/5_3_publications/C/Cuzin_1996_Repartition_actuelle_et_statut_des_grands_mammiferes_sauvages_du_Maroc.pdf\nhttp://www.catsg.org/cheetah/05_library/5_3_publications/C/Cuzin_1996_Repartition_actuelle_et_statut_des_grands_mammiferes_sauvages_du_Maroc.pdf\nhttp://www.catsg.org/cheetah/05_library/5_3_publications/S/Stuart_1981_Mammalian_carnivores_-_Cape_Province.pdf\nhttp://www.science.smith.edu/msi/pdf/680_Genetta_genetta.pdf\nhttp://www.sil.si.edu/smithsoniancontributions/zoology/pdf_hi/sctz-0239.pdf\nhttp://www.science.smith.edu/msi/pdf/680_Genetta_genetta.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Genetta_genetta_felina_%28Wroclaw_zoo%29.JPG/220px-Genetta_genetta_felina_%28Wroclaw_zoo%29.JPG\n"
    ],
    "created" : 1373457449,
-   "book" : [],
    "micro-www" : {
       "genet" : [
          "genetics",
@@ -185,6 +184,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Genet' may refer to:\n",

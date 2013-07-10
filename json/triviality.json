@@ -1,0 +1,101 @@
+{
+   "micrownet" : [
+      "triviality"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Pub_quiz\">Pub quiz</a> - A pub quiz is a quiz held in a public house.",
+      "https://en.wikipedia.org/wiki/Trivia",
+      "Wikipedia",
+      "Trivia",
+      "http://www.merriam-webster.com/dictionary/trivia",
+      "trivia definition: unimportant matters.",
+      "\n<a href=\"http://duckduckgo.com/FunTrivia\">FunTrivia</a> - FunTrivia is  the largest trivia website on the internet, with over 2.4 million registered users and over 6 million guests.",
+      "\n<a href=\"http://duckduckgo.com/Factoid\">Factoid</a> - A factoid is a questionable or spurious statement presented as a fact, but without supporting evidence.",
+      "The trivia (singular trivium) are  three lower Artes Liberales, i.e. grammar, logic and rhetoric.",
+      "\n<a href=\"http://duckduckgo.com/triviality_(mathematics)\">Trivial (mathematics)</a> - In mathematics, the adjective trivial is frequently used for objects (for example, groups or topological spaces) that have a very simple structure.",
+      "HASH(0x49bf8c0)",
+      "\n<a href=\"http://duckduckgo.com/Trivium_(education)\">Trivium (education)</a> - In medieval universities, the trivium comprised the three subjects that were taught first: grammar, logic, and rhetoric.",
+      "Merriam-Webster",
+      "HASH(0x4b0d448)",
+      "A",
+      "The trivia (singular trivium) are  three lower Artes Liberales, i.e. grammar, logic and rhetoric.",
+      "\n<a href=\"http://duckduckgo.com/c/Trivia\">Trivia Category</a>"
+   ],
+   "created" : 1373461714,
+   "book" : [],
+   "micro-www" : {
+      "triviality" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Trivia|*"
+      ],
+      "text" : "\n\n\nThe 'trivia' (singular '[[Trivium (education)|trivium]]') are three lower\n[[Artes Liberales]], i.e. grammar, logic and rhetoric. These were the topics of\nbasic education, foundational to the [[Quadrivium|quadrivia]] of higher\neducation, and hence the material of basic education and an important building\nblock for all undergraduates. The word trivia was also used to describe a place\nwhere three roads met in Ancient Rome.\n\nWhile the term is now obsolescent, in ancient times, it was appropriated to mean\nsomething very new.\n\nIn the 1960s, nostalgic college students and others began to informally trade\nquestions and answers about the popular culture of their youth. The first known\ndocumented labeling of this casual parlor game as \"Trivia\" was in a [[Columbia\nDaily Spectator]] column published on February&nbsp;5, 1965. The authors, Ed\nGoodgold and Dan Carlinsky, then started the first organized trivia contests,\ndescribed below. Since the 1960s, the plural trivia in particular has widened to\ninclude but not essential, specifically detailed knowledge on topics of popular\nculture. The expression has also come to suggest information of the kind useful\nalmost exclusively for answering quiz questions, hence the brand name [[Trivial\nPursuit]] (1982).\n",
+      "title" : "Trivia",
+      "headings" : [
+         "Etymology",
+         "Quiz shows and use in mass media",
+         "Quiz bowls",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Grammar",
+      "2: Logic",
+      "2: Rhetoric",
+      "2: OED",
+      "2: Pub_quiz",
+      "1: Basic_education",
+      "1: Popular_culture",
+      "1: Quiz",
+      "1: Early_Modern_English",
+      "1: Late_Latin",
+      "1: Medieval_Latin",
+      "1: Arithmetic",
+      "1: Geometry",
+      "1: Music",
+      "1: Astronomy",
+      "1: Ranulf_Higdon",
+      "1: Arnobius",
+      "1: Shakespeare",
+      "1: Logan_Pearsall_Smith",
+      "1: Columbia_University",
+      "1: Lawrence_University",
+      "1: Williams_College",
+      "1: Sacramento,_California",
+      "1: Air_traffic_controller",
+      "1: Trivial_Pursuit",
+      "1: Quiz_show_scandals",
+      "1: American_Broadcasting_Company",
+      "1: National_Trivia_Hall_of_Fame",
+      "1: Lincoln,_Nebraska",
+      "1: Robert_L._Ripley",
+      "1: Irish_American",
+      "1: NTN_Buzztime",
+      "1: TriviaGuy.com",
+      "1: Quizbowl",
+      "1: Reach_for_the_Top",
+      "1: National_Academic_Quiz_Tournaments",
+      "1: Brain_Bowl",
+      "1: Stevens_Point,_Wisconsin",
+      "1: University_of_Wisconsin–Stevens_Point",
+      "1: College",
+      "1: WWSP",
+      "1: University_of_Colorado_system",
+      "1: College_Bowl",
+      "1: Factoid",
+      "1: FunTrivia"
+   ]
+}

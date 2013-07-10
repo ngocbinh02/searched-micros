@@ -16,6 +16,14 @@
       "amount",
       "quantity"
    ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
    "duck" : [
       "The steradian (symbol: sr) is the SI unit of solid angle.",
       "https://en.wikipedia.org/wiki/Steradian",
@@ -30,22 +38,14 @@
       "A",
       "\n<a href=\"http://duckduckgo.com/c/Units_of_angle\">Units of angle</a>"
    ],
-   "common" : {
-      "milestones" : [],
-      "image" : [
-         [],
-         []
-      ]
-   },
-   "Lists" : [],
    "micro-www-search" : [],
    "created" : 1373455771,
-   "book" : [],
    "micro-www" : {
       "steradian" : [
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Natural units",

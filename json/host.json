@@ -45,23 +45,7 @@
       "hostess",
       "cause"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Host_(psychology)\">Host (psychology)</a>, \"personality\" emphasized in treating dissociative identity disorder",
-      "\n<a href=\"http://duckduckgo.com/Heavenly_host\">Heavenly host</a>, an \"army\" of good angels in Heaven",
-      "https://en.wikipedia.org/wiki/Host",
-      "\n<a href=\"http://duckduckgo.com/Host_(biology)\">Host (biology)</a>, organism harboring another organism on or in itself",
-      "HASH(0x59c9158)",
-      "Wikipedia",
-      "Host",
-      "http://www.merriam-webster.com/dictionary/host",
-      "host definition: army.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Host%2C_Pennsylvania\">Host, Pennsylvania</a> - Host is one of many unincorporated communities that dot the agriculture-covered landscape of Berks County, Pennsylvania.",
-      "\n<a href=\"http://duckduckgo.com/radio_personality\">Host (radio)</a>, the presenter or announcer on a radio show",
-      "\n<a href=\"http://duckduckgo.com/Internet_hosting_service\">Internet hosting service</a>, a service that runs Internet servers allowing organizations and individuals to serve content to the Internet",
-      "HASH(0x5453fa0)",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._Web_host_target_of_denial-of-service_attack\" title=\"U.S. Web host target of denial-of-service attack\">U.S. Web <span class=\"searchmatch\">host</span> target of denial-of-service attack</a>",
@@ -90,7 +74,23 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Host_(psychology)\">Host (psychology)</a>, \"personality\" emphasized in treating dissociative identity disorder",
+      "\n<a href=\"http://duckduckgo.com/Heavenly_host\">Heavenly host</a>, an \"army\" of good angels in Heaven",
+      "https://en.wikipedia.org/wiki/Host",
+      "\n<a href=\"http://duckduckgo.com/Host_(biology)\">Host (biology)</a>, organism harboring another organism on or in itself",
+      "HASH(0x59c9158)",
+      "Wikipedia",
+      "Host",
+      "http://www.merriam-webster.com/dictionary/host",
+      "host definition: army.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Host%2C_Pennsylvania\">Host, Pennsylvania</a> - Host is one of many unincorporated communities that dot the agriculture-covered landscape of Berks County, Pennsylvania.",
+      "\n<a href=\"http://duckduckgo.com/radio_personality\">Host (radio)</a>, the presenter or announcer on a radio show",
+      "\n<a href=\"http://duckduckgo.com/Internet_hosting_service\">Internet hosting service</a>, a service that runs Internet servers allowing organizations and individuals to serve content to the Internet",
+      "HASH(0x5453fa0)",
+      "D"
+   ],
    "micro-www-search" : [
       "hostile\n>http\nhttp://en.m.wikipedia.org/wiki/Hostility\nhttp://en.wikipedia.org/w/index.php?title=Hostility&oldid=540469777\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n\n",
       "Hosts_file\n",
@@ -99,7 +99,6 @@
       "Host_(biology)\n>http\nhttp://en.m.wikipedia.org/wiki/Host_(biology)\nhttp://en.wikipedia.org/w/index.php?title=Host_(biology)&oldid=539433080\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Roof_rat-%28rattus_rattus%29.jpg/220px-Roof_rat-%28rattus_rattus%29.jpg\n"
    ],
    "created" : 1373460942,
-   "book" : [],
    "micro-www" : {
       "host" : [
          "hostile",
@@ -110,6 +109,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "<!----------------------------------------------------------------------> <!--\nFrom MoS:DAB: use ONE LINK per entry, SHORT descriptions. --> <!-- AVOID: piping\nlinks, external links, redlinks with little potential, full sentences, and\nreferences --> <!----------------------------------------------------------------------\n>\n\n\nThe term 'host' is most often used to describe a male (hostess in feminine form)\npresenter for an event.\n\n'Host' or 'hosts' may refer to: *A person who provides hospitality *Host or\nsacramental bread *Host (biology), organism harboring another organism on or in\nitself *Host (psychology), \"personality\" emphasized in treating dissociative\nidentity disorder *Host (radio), the presenter or announcer on a radio show\n*Host, headwaiter (Maître d' or Maître d'hôtel) of a restaurant or hotel *Host,\nPennsylvania\n",

@@ -105,18 +105,7 @@
       "officer",
       "serviceman"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Major_League_Soccer\">Major League Soccer</a> - Major League Soccer (MLS) is a professional soccer league representing the sport's highest level in the United States and Canada, with headquarters in New York City.",
-      "https://en.wikipedia.org/wiki/Major_(disambiguation)",
-      "HASH(0x5258860)",
-      "Wikipedia",
-      "Major",
-      "British banker and conservative politician who served as prime minister from 1990 to 1997.",
-      "HASH(0x51ab758)",
-      "\n<a href=\"http://duckduckgo.com/Major\">Major</a> is a military rank. The word derives from Latin maior (also spelled major) which means greater. It may also refer to:",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Major_League_Baseball\">Major League Baseball</a> or majors, the highest level of North American professional baseball competition"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Major_police_operation_in_west_London\" title=\"Major police operation in west London\"><span class=\"searchmatch\">Major</span> police operation in west London</a>",
@@ -144,7 +133,18 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Major_League_Soccer\">Major League Soccer</a> - Major League Soccer (MLS) is a professional soccer league representing the sport's highest level in the United States and Canada, with headquarters in New York City.",
+      "https://en.wikipedia.org/wiki/Major_(disambiguation)",
+      "HASH(0x5258860)",
+      "Wikipedia",
+      "Major",
+      "British banker and conservative politician who served as prime minister from 1990 to 1997.",
+      "HASH(0x51ab758)",
+      "\n<a href=\"http://duckduckgo.com/Major\">Major</a> is a military rank. The word derives from Latin maior (also spelled major) which means greater. It may also refer to:",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Major_League_Baseball\">Major League Baseball</a> or majors, the highest level of North American professional baseball competition"
+   ],
    "micro-www-search" : [
       "majority\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Tennessee_map_for_voting_example.svg/500px-Tennessee_map_for_voting_example.svg.png\n\n",
       "major_planet\n>pdf\nhttp://arxiv.org/ftp/arxiv/papers/1112/1112.1640.pdf\nhttp://arxiv.org/ftp/arxiv/papers/1112/1112.1640.pdf\nhttp://web.archive.org/web/20080624225029http:///www.cfa.harvard.edu/iau/special/08747.pdf\nhttp://www.folklore.ee/Folklore/vol16/planets.pdf\nhttp://www.folklore.ee/Folklore/vol16/planets.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png\n\n",
@@ -170,7 +170,6 @@
       "Major_(disambiguation)\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n"
    ],
    "created" : 1373459385,
-   "book" : [],
    "micro-www" : {
       "major" : [
          "majority",
@@ -198,6 +197,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Military ranks",

@@ -20,29 +20,7 @@
       "event",
       "act"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Transition",
-      "\n<a href=\"http://duckduckgo.com/john_Digweed\">Transitions (radio show)</a>, a weekly two-hour radio show on Kiss 100 in the UK",
-      "\n<a href=\"http://duckduckgo.com/Transition_Towns\">Transition Towns</a>, a grassroots network of communities that are working to build resilience in response to peak oil, climate destruction, and economic instability",
-      "Wikipedia",
-      "Transition",
-      "\n<a href=\"http://duckduckgo.com/terrafugia_Transition\">Transition (roadable aircraft)</a>, a flying car (or drivable airplane) made by Terrafugia",
-      "\n<a href=\"http://duckduckgo.com/Transitions_Championship\">Transitions Championship</a>, a men's professional golf tournament on the PGA Tour",
-      "\n<a href=\"http://duckduckgo.com/Transitional_fossil\">Transitional fossil</a>, any fossilized remains of a lifeform that exhibits the characteristics of two distinct taxonomic groups",
-      "\n<a href=\"http://duckduckgo.com/The_University_Transition_Program\">The University Transition Program</a>, an early college entrance program based in the University of British Columbia",
-      "\n<a href=\"http://duckduckgo.com/Transitioning_(transgender)\">Transitioning (transgender)</a>, the process of changing one's gender presentation to accord with one's internal sense of one's gender - the idea of what it means to be a man or woman",
-      "\n<a href=\"http://duckduckgo.com/provisional_government\">Transitional government</a>, an emergency or interim government set up when a political void has been created by the collapse of a very large government",
-      "\n<a href=\"http://duckduckgo.com/Transition_(outsourcing)\">Transition (outsourcing)</a>, the process of migrating knowledge, systems, and operating capabilities from an outsourcing environment to an in-house staff",
-      "\n<a href=\"http://duckduckgo.com/Transition_Glacier\">Transition Glacier</a>, a glacier on the east coast of Alexander Island",
-      "HASH(0x59c1398)",
-      "\n<a href=\"http://duckduckgo.com/Transition_(Chipmunk_album)\">Transition (Chipmunk album)</a>, 2011",
-      "\n<a href=\"http://duckduckgo.com/Transition_economy\">Transition economy</a>, an economy which is changing from a centrally planned economy to a free market",
-      "\n<a href=\"http://duckduckgo.com/Transition_(grappling)\">Transition (grappling)</a>, in grappling is a move from one grappling hold or grappling position to another",
-      "HASH(0x5440fc0)",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Care_transition\">Care transition</a>, wherein a patient changes health care provider",
-      "\n<a href=\"http://duckduckgo.com/Transition_metal\">Transition metal</a>, either an element whose atom has an incomplete d sub-shell, or any element in the d-block of the periodic table"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Obama%27s_transition_website_%27frees_the_content%27\" title=\"Obama&#39;s transition website &#39;frees the content&#39;\">Obama&#39;s <span class=\"searchmatch\">transition</span> website &#39;frees the content&#39;</a>",
@@ -70,14 +48,35 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Transition",
+      "\n<a href=\"http://duckduckgo.com/john_Digweed\">Transitions (radio show)</a>, a weekly two-hour radio show on Kiss 100 in the UK",
+      "\n<a href=\"http://duckduckgo.com/Transition_Towns\">Transition Towns</a>, a grassroots network of communities that are working to build resilience in response to peak oil, climate destruction, and economic instability",
+      "Wikipedia",
+      "Transition",
+      "\n<a href=\"http://duckduckgo.com/terrafugia_Transition\">Transition (roadable aircraft)</a>, a flying car (or drivable airplane) made by Terrafugia",
+      "\n<a href=\"http://duckduckgo.com/Transitions_Championship\">Transitions Championship</a>, a men's professional golf tournament on the PGA Tour",
+      "\n<a href=\"http://duckduckgo.com/Transitional_fossil\">Transitional fossil</a>, any fossilized remains of a lifeform that exhibits the characteristics of two distinct taxonomic groups",
+      "\n<a href=\"http://duckduckgo.com/The_University_Transition_Program\">The University Transition Program</a>, an early college entrance program based in the University of British Columbia",
+      "\n<a href=\"http://duckduckgo.com/Transitioning_(transgender)\">Transitioning (transgender)</a>, the process of changing one's gender presentation to accord with one's internal sense of one's gender - the idea of what it means to be a man or woman",
+      "\n<a href=\"http://duckduckgo.com/provisional_government\">Transitional government</a>, an emergency or interim government set up when a political void has been created by the collapse of a very large government",
+      "\n<a href=\"http://duckduckgo.com/Transition_(outsourcing)\">Transition (outsourcing)</a>, the process of migrating knowledge, systems, and operating capabilities from an outsourcing environment to an in-house staff",
+      "\n<a href=\"http://duckduckgo.com/Transition_Glacier\">Transition Glacier</a>, a glacier on the east coast of Alexander Island",
+      "HASH(0x59c1398)",
+      "\n<a href=\"http://duckduckgo.com/Transition_(Chipmunk_album)\">Transition (Chipmunk album)</a>, 2011",
+      "\n<a href=\"http://duckduckgo.com/Transition_economy\">Transition economy</a>, an economy which is changing from a centrally planned economy to a free market",
+      "\n<a href=\"http://duckduckgo.com/Transition_(grappling)\">Transition (grappling)</a>, in grappling is a move from one grappling hold or grappling position to another",
+      "HASH(0x5440fc0)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Care_transition\">Care transition</a>, wherein a patient changes health care provider",
+      "\n<a href=\"http://duckduckgo.com/Transition_metal\">Transition metal</a>, either an element whose atom has an incomplete d sub-shell, or any element in the d-block of the periodic table"
+   ],
    "micro-www-search" : [
       "transitions\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "Transitions_Championship\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/22px-Flag_of_England.svg.png\n\n",
       "Transitions_(radio_show)\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/John_Digweed.jpg/220px-John_Digweed.jpg\n"
    ],
    "created" : 1373460719,
-   "book" : [],
    "micro-www" : {
       "transitions" : [
          "transitions",
@@ -86,6 +85,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n'Transition' or 'transitional' may refer to:\n\n* Transition economy, an economy which is changing from a centrally planned\n  economy to a free market\n* Transition (grappling), in grappling is a move from one grappling hold or\n  grappling position to another\n* Transitional government, an emergency or interim government set up when a\n  political void has been created by the collapse of a very large government\n* Transition (outsourcing), the process of migrating knowledge, systems, and\n  operating capabilities from an outsourcing environment to an in-house staff\n* Transitions (radio show), a weekly two-hour radio show on Kiss 100 in the UK\n* Transition (roadable aircraft), a flying car (or drivable airplane) made by\n  Terrafugia\n* Transitioning (transgender), the process of changing one's gender presentation\n  to accord with one's internal sense of one's gender - the idea of what it\n  means to be a man or woman\n* Transition Towns, a grassroots network of communities that are working to\n  build resilience in response to peak oil, climate destruction, and economic\n  instability\n* A phase of the project lifecycle in the Rational Unified Process\n* Transitions, a brand of photochromic eyeglass lens and sponsor of the PGA Tour\n  Transitions Championship\n* Transitions Championship, a men's professional golf tournament on the PGA Tour\n* Transition Glacier, a glacier on the east coast of Alexander Island\n* The University Transition Program, an early college entrance program based in\n  the University of British Columbia\n* \"Shifting gears\" on a railroad locomotive; see Diesel locomotive#Propulsion\n  system operation\n* Care transition, wherein a patient changes health care provider\n",

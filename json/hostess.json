@@ -28,16 +28,8 @@
       "host",
       "organism"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Hostess",
-      "HASH(0x5429d18)",
-      "Wikipedia",
-      "Hostess",
-      "http://www.merriam-webster.com/dictionary/hostess",
-      "hostess definition: a woman who entertains socially.",
-      "Merriam-Webster",
-      "HASH(0x543ece8)",
-      "D"
+   "Lists" : [
+      "List_of_Keeping_Up_Appearances_episodes"
    ],
    "common" : {
       "milestones" : [
@@ -51,17 +43,25 @@
          []
       ]
    },
-   "Lists" : [
-      "List_of_Keeping_Up_Appearances_episodes"
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Hostess",
+      "HASH(0x5429d18)",
+      "Wikipedia",
+      "Hostess",
+      "http://www.merriam-webster.com/dictionary/hostess",
+      "hostess definition: a woman who entertains socially.",
+      "Merriam-Webster",
+      "HASH(0x543ece8)",
+      "D"
    ],
    "micro-www-search" : [],
    "created" : 1373461025,
-   "book" : [],
    "micro-www" : {
       "hostess" : [
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\nA 'hostess' is a female host or presenter for an event.\n\n'Hostess' may also refer to:\n",

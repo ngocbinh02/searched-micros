@@ -104,19 +104,7 @@
       "location",
       "holy"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Sense_of_place\">Sense of place</a>, a phenomenon in which people strongly identify with a particular geographical area or location",
-      "https://en.wikipedia.org/wiki/Place",
-      "HASH(0x4f39868)",
-      "Wikipedia",
-      "Place",
-      "http://www.merriam-webster.com/dictionary/populated",
-      "populated definition: to have a place in.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Census-designated_place\">Census-designated place</a>, a populated area lacking its own municipal government",
-      "HASH(0x4f3b998)",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/CoolBrands:_New_Zealand_coolest_place_in_the_world\" title=\"CoolBrands: New Zealand coolest place in the world\">CoolBrands: New Zealand coolest <span class=\"searchmatch\">place</span> in the world</a>",
@@ -145,7 +133,19 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Sense_of_place\">Sense of place</a>, a phenomenon in which people strongly identify with a particular geographical area or location",
+      "https://en.wikipedia.org/wiki/Place",
+      "HASH(0x4f39868)",
+      "Wikipedia",
+      "Place",
+      "http://www.merriam-webster.com/dictionary/populated",
+      "populated definition: to have a place in.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Census-designated_place\">Census-designated place</a>, a populated area lacking its own municipal government",
+      "HASH(0x4f3b998)",
+      "D"
+   ],
    "micro-www-search" : [
       "places\n>http\nhttp://en.m.wikipedia.org/wiki/Place\nhttp://en.wikipedia.org/w/index.php?title=Place&oldid=540675816\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "placental\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Juramaia_NT.jpg/270px-Juramaia_NT.jpg\n\n",
@@ -165,7 +165,6 @@
       "Place-valued_system\n>pdf\nhttp://sciences.aum.edu/~sbrown/Hindu%20Arabic%20and%20Chinese.pdf\nhttp://sciences.aum.edu/~sbrown/Hindu%20Arabic%20and%20Chinese.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/f/f4/Ambox_content.png\n"
    ],
    "created" : 1373460748,
-   "book" : [],
    "micro-www" : {
       "place" : [
          "places",
@@ -187,6 +186,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n'Place' may refer to:\n",

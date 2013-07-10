@@ -41,20 +41,7 @@
       "habitant",
       "organism"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Armin",
-      "HASH(0x5cc85a8)",
-      "Wikipedia",
-      "Armin",
-      "http://www.merriam-webster.com/dictionary/armin",
-      "armin definition: a human upper limb; '''especially'''.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Armin_Meiwes\">Armin Meiwes</a>, Internet user who became known as the \"Rotenburg Cannibal\"",
-      "\n<a href=\"http://duckduckgo.com/Armin_Shimerman\">Armin Shimerman</a>, American actor who was born and raised in Lakewood, New Jersey",
-      "\n<a href=\"http://duckduckgo.com/Armin_van_Buuren\">Armin van Buuren</a>, world-renowned trance music DJ and producer",
-      "HASH(0x5cceba0)",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/German_cannibal_seeks_review_of_manslaughter_conviction\" title=\"German cannibal seeks review of manslaughter conviction\">German cannibal seeks review of manslaughter conviction</a>",
@@ -70,14 +57,26 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Armin",
+      "HASH(0x5cc85a8)",
+      "Wikipedia",
+      "Armin",
+      "http://www.merriam-webster.com/dictionary/armin",
+      "armin definition: a human upper limb; '''especially'''.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Armin_Meiwes\">Armin Meiwes</a>, Internet user who became known as the \"Rotenburg Cannibal\"",
+      "\n<a href=\"http://duckduckgo.com/Armin_Shimerman\">Armin Shimerman</a>, American actor who was born and raised in Lakewood, New Jersey",
+      "\n<a href=\"http://duckduckgo.com/Armin_van_Buuren\">Armin van Buuren</a>, world-renowned trance music DJ and producer",
+      "HASH(0x5cceba0)",
+      "D"
+   ],
    "micro-www-search" : [
       "Arming_sword\n>http\nhttp://en.m.wikipedia.org/wiki/Arming_sword\nhttp://en.wikipedia.org/w/index.php?title=Arming_sword&oldid=560472592\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png\n\n",
       "Armin_van_Buuren\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Armin_van_Buuren_-_0001.JPG/250px-Armin_van_Buuren_-_0001.JPG\n\n",
       "Armin_Mueller-Stahl\n>http\nhttp://en.m.wikipedia.org/wiki/Armin_Mueller-Stahl\nhttp://en.wikipedia.org/w/index.php?title=Armin_Mueller-Stahl&oldid=543769692\nhttp://www.berliner-zeitung.de/panorama/armin-mueller-stahl-ehrenbuerger-seiner-heimatstadt\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n"
    ],
    "created" : 1373455505,
-   "book" : [],
    "micro-www" : {
       "armin" : [
          "Arming_sword",
@@ -86,6 +85,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Surnames",

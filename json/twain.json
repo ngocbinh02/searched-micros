@@ -34,20 +34,7 @@
       "figure",
       "amount"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Twain",
-      "HASH(0x5d4d8c8)",
-      "Wikipedia",
-      "Twain",
-      "http://www.merriam-webster.com/dictionary/twain",
-      "twain definition: '''archaic''' two.",
-      "Merriam-Webster",
-      "HASH(0x5d8f090)",
-      "\n<a href=\"http://duckduckgo.com/TWAIN\">TWAIN</a>, a standard used in image scanning - TWAIN is a standard software protocol and applications programming interface (API) that regulates communication between software applications and imaging devices such as scanners and digital cameras.",
-      "\n<a href=\"http://duckduckgo.com/Mark_Twain\">Mark Twain</a>, American humorist writer",
-      "\n<a href=\"http://duckduckgo.com/Shania_Twain\">Shania Twain</a>, Canadian musician",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hillary_Clinton%27s_song_contest_reaches_final_round\" title=\"Hillary Clinton&#39;s song contest reaches final round\">Hillary Clinton&#39;s song contest reaches final round</a>",
@@ -62,15 +49,28 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Twain",
+      "HASH(0x5d4d8c8)",
+      "Wikipedia",
+      "Twain",
+      "http://www.merriam-webster.com/dictionary/twain",
+      "twain definition: '''archaic''' two.",
+      "Merriam-Webster",
+      "HASH(0x5d8f090)",
+      "\n<a href=\"http://duckduckgo.com/TWAIN\">TWAIN</a>, a standard used in image scanning - TWAIN is a standard software protocol and applications programming interface (API) that regulates communication between software applications and imaging devices such as scanners and digital cameras.",
+      "\n<a href=\"http://duckduckgo.com/Mark_Twain\">Mark Twain</a>, American humorist writer",
+      "\n<a href=\"http://duckduckgo.com/Shania_Twain\">Shania Twain</a>, Canadian musician",
+      "D"
+   ],
    "micro-www-search" : [],
    "created" : 1373456273,
-   "book" : [],
    "micro-www" : {
       "twain" : [
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Twain' may refer to:\n",

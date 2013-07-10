@@ -29,14 +29,6 @@
       "base",
       "constituent"
    ],
-   "Lists" : [],
-   "common" : {
-      "milestones" : [],
-      "image" : [
-         [],
-         []
-      ]
-   },
    "duck" : [
       "Adenine  (A, Ade) is a nucleobase (a purine derivative) with a variety of roles in biochemistry including cellular respiration, in the form of both the energy-rich adenosine triphosphate (ATP) and the cofactors nicotinamide adenine dinucleotide (NAD) and flavin adenine dinucleotide (FAD), and protein synthesis, as a chemical component of DNA and RNA. The shape of adenine is complementary to either thymine in DNA or uracil in RNA.",
       "\n<a href=\"http://duckduckgo.com/c/Purines\">Purines</a>",
@@ -54,17 +46,25 @@
       "A",
       "\n<a href=\"http://duckduckgo.com/Adenine_(programming_language)\">Adenine (programming language)</a> - Adenine, named after the nucleobase adenine, is a scripting language that is cross-platform, which is developed in the context of project Haystack and Project Oxygen of the Massachusetts Insti..."
    ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
    "micro-www-search" : [
       "Adenine\n>http\nhttp://en.m.wikipedia.org/wiki/Adenine\nhttp://en.wikipedia.org/w/index.php?title=Adenine&oldid=539412816\nhttp://ghr.nlm.nih.gov/ghr/glossary/adenine\nhttp://www.etymonline.com/index.php?term=adenine\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adenine.svg/120px-Adenine.svg.png\n"
    ],
    "created" : 1373458429,
+   "book" : [],
    "micro-www" : {
       "adenine" : [
          "Adenine",
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [
          "Purines",

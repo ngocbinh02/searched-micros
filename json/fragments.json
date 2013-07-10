@@ -36,19 +36,7 @@
       "piece",
       "thing"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Fragment",
-      "HASH(0x52ec5b8)",
-      "Wikipedia",
-      "Fragment",
-      "http://www.merriam-webster.com/dictionary/fragment",
-      "fragment definition: a part broken off, detached, or incomplete.",
-      "Merriam-Webster",
-      "HASH(0x535dac8)",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Fragments_(film)\">Fragments (film)</a> (a.k.a. Winged Creatures), a 2009 film",
-      "\n<a href=\"http://duckduckgo.com/Fragment_identifier\">Fragment identifier</a>, the segment of a URL following the \"#\" that identifies a portion of a larger document"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Two_explosives_factories_explode_in_India\" title=\"Two explosives factories explode in India\">Two explosives factories explode in India</a>",
@@ -76,7 +64,19 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Fragment",
+      "HASH(0x52ec5b8)",
+      "Wikipedia",
+      "Fragment",
+      "http://www.merriam-webster.com/dictionary/fragment",
+      "fragment definition: a part broken off, detached, or incomplete.",
+      "Merriam-Webster",
+      "HASH(0x535dac8)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Fragments_(film)\">Fragments (film)</a> (a.k.a. Winged Creatures), a 2009 film",
+      "\n<a href=\"http://duckduckgo.com/Fragment_identifier\">Fragment identifier</a>, the segment of a URL following the \"#\" that identifies a portion of a larger document"
+   ],
    "micro-www-search" : [
       "fragments\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "Fragments_(film)\n>http\nhttp://www.fandango.com/fragments_126557/movieoverview\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/1/12/Winged_creatures_ver2.jpg/220px-Winged_creatures_ver2.jpg\n\n",
@@ -84,7 +84,6 @@
       "Fragments_(Torchwood)\n>http\nhttp://en.m.wikipedia.org/wiki/Fragments_(Torchwood)\nhttp://en.wikipedia.org/w/index.php?title=Fragments_(Torchwood)&oldid=525244277\nhttp://www.wikia.com/wiki/c:tardis:Fragments\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/8/88/Fragments_%28Torchwood%29.jpg/275px-Fragments_%28Torchwood%29.jpg\n"
    ],
    "created" : 1373460306,
-   "book" : [],
    "micro-www" : {
       "fragments" : [
          "fragments",
@@ -94,6 +93,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n'Fragment' may refer to:\n",

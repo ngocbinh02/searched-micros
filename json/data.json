@@ -68,7 +68,26 @@
       "statistic",
       "cognition"
    ],
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Data_(disambiguation)",
+      "Wikipedia",
+      "Data",
+      "\n<a href=\"http://duckduckgo.com/Data\">Data</a> is another word for information.",
+      "http://www.merriam-webster.com/dictionary/data",
+      "data definition: factual information (as measurements or statistics) used as a basis for reasoning, discussion, or calculation.",
+      "\n<a href=\"http://duckduckgo.com/Data_URI_scheme\">Data URI scheme</a> - The data URI scheme is a URI scheme that provides a way to include data in-line in web pages as if they were external resources.",
+      "\n<a href=\"http://duckduckgo.com/DATA\">DATA</a>, a non-governmental organization founded by Bono",
+      "\n<a href=\"http://duckduckgo.com/Data_(moth)\">Data (moth)</a>, a moth genus",
+      "\n<a href=\"http://duckduckgo.com/Data_(Star_Trek)\">Data (Star Trek)</a>, a fictional android in the Star Trek universe",
+      "\n<a href=\"http://duckduckgo.com/Design_and_Technology_Academy\">Design and Technology Academy</a>, a school in San Antonio, Texas, USA",
+      "HASH(0x4f51390)",
+      "\n<a href=\"http://duckduckgo.com/Data_(computing)\">Data (computing)</a>, in computer science, often distinguished from code or software",
+      "\n<a href=\"http://duckduckgo.com/Data_(Euclid)\">Data (Euclid)</a>, a book by Euclid",
+      "Merriam-Webster",
+      "HASH(0x4f510d8)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Durham_Area_Transit_Authority\">Durham Area Transit Authority</a>, the public transit agency serving Durham, North Carolina, USA"
+   ],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/WC/Water_cooler_data_overflow_fix.\" title=\"WC/Water cooler data overflow fix.\">WC/Water cooler <span class=\"searchmatch\">data</span> overflow fix.</a>",
@@ -97,26 +116,7 @@
          []
       ]
    },
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Data_(disambiguation)",
-      "Wikipedia",
-      "Data",
-      "\n<a href=\"http://duckduckgo.com/Data\">Data</a> is another word for information.",
-      "http://www.merriam-webster.com/dictionary/data",
-      "data definition: factual information (as measurements or statistics) used as a basis for reasoning, discussion, or calculation.",
-      "\n<a href=\"http://duckduckgo.com/Data_URI_scheme\">Data URI scheme</a> - The data URI scheme is a URI scheme that provides a way to include data in-line in web pages as if they were external resources.",
-      "\n<a href=\"http://duckduckgo.com/DATA\">DATA</a>, a non-governmental organization founded by Bono",
-      "\n<a href=\"http://duckduckgo.com/Data_(moth)\">Data (moth)</a>, a moth genus",
-      "\n<a href=\"http://duckduckgo.com/Data_(Star_Trek)\">Data (Star Trek)</a>, a fictional android in the Star Trek universe",
-      "\n<a href=\"http://duckduckgo.com/Design_and_Technology_Academy\">Design and Technology Academy</a>, a school in San Antonio, Texas, USA",
-      "HASH(0x4f51390)",
-      "\n<a href=\"http://duckduckgo.com/Data_(computing)\">Data (computing)</a>, in computer science, often distinguished from code or software",
-      "\n<a href=\"http://duckduckgo.com/Data_(Euclid)\">Data (Euclid)</a>, a book by Euclid",
-      "Merriam-Webster",
-      "HASH(0x4f510d8)",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Durham_Area_Transit_Authority\">Durham Area Transit Authority</a>, the public transit agency serving Durham, North Carolina, USA"
-   ],
+   "Lists" : [],
    "micro-www-search" : [
       "database\n>http\nhttp://databases.about.com/od/sql/a/sqlfundamentals.htm\nhttp://drdobbs.com/blogs/database/228700616\nhttp://en.wikipedia.org/w/index.php?title=Database&oldid=561037996\nhttp://www.dmoz.org/Computers/Data_Formats/Database/\nhttp://www.springer.com/computer/database+management+&+information+retrieval/book/978-0-387-49616-0\n\n>pdf\nhttp://www.cs.uiuc.edu/class/fa05/cs511/Spring05/other_papers/p653-bachman.pdf\nhttp://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf\nhttp://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf\nhttp://www.cs.uiuc.edu/class/fa05/cs511/Spring05/other_papers/p653-bachman.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n\n",
       "data_protection\n>http\nhttp://www.rue89.com/2008/03/04/a-divided-europe-wants-to-protect-its-personal-data-wanted-by-the-us\nhttp://www.theregister.co.uk/2012/11/08/national_pupil_database_regulation_overhaul_in_private_sector_data_grab/\nhttp://www.usatoday.com/tech/news/surveillance/2006-06-18-data-mining-privacy_x.htm\n\n>pdf\nhttp://ec.europa.eu/justice_home/fsj/privacy/docs/adequacy/information_safe_harbour_en.pdf\nhttp://ec.europa.eu/justice_home/fsj/privacy/docs/adequacy/sec-2004-1323_en.pdf\nhttp://www.echr.coe.int/NR/rdonlyres/4FCF8133-AD91-4F7B-86F0-A448429BC2CC/0/FICHES_Protection_des_donnN.pdf\nhttp://www.echr.coe.int/NR/rdonlyres/4FCF8133-AD91-4F7B-86F0-A448429BC2CC/0/FICHES_Protection_des_donnN.pdf\nhttp://ec.europa.eu/justice_home/fsj/privacy/docs/adequacy/sec-2004-1323_en.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png\n\n",
@@ -175,6 +175,7 @@
       "Data\n>http\nhttp://blogs.wsj.com/economics/2012/07/05/is-data-is-or-is-data-aint-a-plural/\nhttp://dictionary.reference.com/browse/data\nhttp://en.wikipedia.org/w/index.php?title=Data&oldid=558373470\nhttp://nxg.me.uk/note/2005/singular-data/\nhttp://purl.org/nxg/note/singular-data\nhttp://www.askoxford.com/concise_oed/data?view=uk\nhttp://www.dwbiconcepts.com/data-warehousing/12-data-modelling/101-classifying-data-for-successful-modeling.html\nhttp://www.grammarist.com/usage/data/\n\n>pdf\nhttp://whqlibdoc.who.int/hq/2004/WHO_IMD_PUB_04.1.pdf\nhttp://whqlibdoc.who.int/hq/2004/WHO_IMD_PUB_04.1.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n"
    ],
    "created" : 1373458378,
+   "book" : [],
    "micro-www" : {
       "data" : [
          "database",
@@ -235,7 +236,6 @@
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [
          "Computer data|",

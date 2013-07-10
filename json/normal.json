@@ -37,18 +37,7 @@
       "mores",
       "cognition"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Normal_mode\">Normal mode</a>s of vibration in an oscillating system",
-      "https://en.wikipedia.org/wiki/Normal",
-      "\n<a href=\"http://duckduckgo.com/Normal_distribution\">Normal distribution</a>, the Gaussian continuous probability distribution",
-      "HASH(0x5045450)",
-      "Wikipedia",
-      "Normal",
-      "Conforming with, adhering to, or constituting a norm, standard, pattern, level, or type; typical: normal room temperature; one's normal weight; normal diplomatic relations.",
-      "HASH(0x50305d8)",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Surface_normal\">Surface normal</a>, a vector perpendicular to a surface (normal vector)"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/London_transport_system_returning_to_normal/Notes\" title=\"London transport system returning to normal/Notes\">London transport system returning to <span class=\"searchmatch\">normal/</span>Notes</a>",
@@ -77,7 +66,18 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Normal_mode\">Normal mode</a>s of vibration in an oscillating system",
+      "https://en.wikipedia.org/wiki/Normal",
+      "\n<a href=\"http://duckduckgo.com/Normal_distribution\">Normal distribution</a>, the Gaussian continuous probability distribution",
+      "HASH(0x5045450)",
+      "Wikipedia",
+      "Normal",
+      "Conforming with, adhering to, or constituting a norm, standard, pattern, level, or type; typical: normal room temperature; one's normal weight; normal diplomatic relations.",
+      "HASH(0x50305d8)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Surface_normal\">Surface normal</a>, a vector perpendicular to a surface (normal vector)"
+   ],
    "micro-www-search" : [
       "normalized\n>http\nhttp://en.m.wikipedia.org/wiki/Normalization\nhttp://en.wikipedia.org/w/index.php?title=Normalization&oldid=540636816\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "normalization\n>http\nhttp://en.m.wikipedia.org/wiki/Normalization\nhttp://en.wikipedia.org/w/index.php?title=Normalization&oldid=540636816\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
@@ -108,7 +108,6 @@
       "Normal-form_game\n>http\nhttp://en.wikipedia.org/w/index.php?title=Normal-form_game&oldid=557041169\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/SGPNEandPlainNE_explainingexample.svg/300px-SGPNEandPlainNE_explainingexample.svg.png\n"
    ],
    "created" : 1373458616,
-   "book" : [],
    "micro-www" : {
       "normal" : [
          "normalized",
@@ -141,6 +140,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n'Normal' may refer to:\n",

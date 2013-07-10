@@ -59,19 +59,7 @@
       "refresher",
       "inebriant"
    ],
-   "duck" : [
-      "Any one of various liquids for drinking, usually excluding water.",
-      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=beverage",
-      "HASH(0x5d21030)",
-      "The Free Dictionary",
-      "beverage",
-      "http://www.merriam-webster.com/dictionary/beverage",
-      "beverage definition: a drinkable liquid.",
-      "Merriam-Webster",
-      "HASH(0x5d692c8)",
-      "Any one of various liquids for drinking, usually excluding water.",
-      "A"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Study_suggests_48%25_of_US_soda_fountain_machines_have_coliform_bacteria\" title=\"Study suggests 48% of US soda fountain machines have coliform bacteria\">Study suggests 48% of US soda fountain machines have coliform bacteria</a>",
@@ -99,14 +87,25 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "Any one of various liquids for drinking, usually excluding water.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=beverage",
+      "HASH(0x5d21030)",
+      "The Free Dictionary",
+      "beverage",
+      "http://www.merriam-webster.com/dictionary/beverage",
+      "beverage definition: a drinkable liquid.",
+      "Merriam-Webster",
+      "HASH(0x5d692c8)",
+      "Any one of various liquids for drinking, usually excluding water.",
+      "A"
+   ],
    "micro-www-search" : [
       "beverage\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n\n",
       "Beverages\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n\n",
       "Beverage\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n"
    ],
    "created" : 1373455407,
-   "book" : [],
    "micro-www" : {
       "beverage" : [
          "beverage",
@@ -115,6 +114,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Beverages|",

@@ -1,0 +1,28 @@
+{
+   "micrownet" : [
+      "radioactivity_unit"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Japanese_nuclear_plant_operators_ordered_to_compensate_affected_families_amid_calls_for_prime_minister_to_resign\" title=\"Japanese nuclear plant operators ordered to compensate affected families amid calls for prime minister to resign\">Japanese nuclear plant operators ordered to compensate affected families amid calls for prime minister to resign</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/A_leak_at_the_Sellafield_nuclear_reprocessing_facility_on_Cumbrian_coast,_England\" title=\"A leak at the Sellafield nuclear reprocessing facility on Cumbrian coast, England\">A leak at the Sellafield nuclear reprocessing facility on Cumbrian coast, England</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "HASH(0x4a50ff8)",
+      "HASH(0x47f0228)"
+   ],
+   "created" : 1373461320,
+   "book" : [],
+   "micro-www" : {
+      "radioactivity_unit" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

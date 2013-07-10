@@ -66,21 +66,8 @@
       "entity",
       "malignance"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Tropic_of_Cancer\">Tropic of Cancer</a>, a major circle of latitude",
-      "\n<a href=\"http://duckduckgo.com/Cancer_(genus)\">Cancer (genus)</a>, a genus of crab",
-      "https://en.wikipedia.org/wiki/Cancer_(disambiguation)",
-      "HASH(0x63a3618)",
-      "Wikipedia",
-      "Cancer",
-      "A constellation in the Northern Hemisphere near Leo and Gemini.",
-      "\n<a href=\"http://duckduckgo.com/Cancer_(constellation)\">Cancer (constellation)</a> - Cancer is one of the twelve constellations of the zodiac.",
-      "HASH(0x63ee9e0)",
-      "\n<a href=\"http://duckduckgo.com/Cancer_(journal)\">Cancer (journal)</a>, an academic journal about the disease",
-      "\n<a href=\"http://duckduckgo.com/Cancer_(Chinese_astronomy)\">Cancer (Chinese astronomy)</a>, the constellation Cancer in Chinese astronomy",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Cancer_(astrology)\">Cancer (astrology)</a>, an astrological sign",
-      "\n<a href=\"http://duckduckgo.com/Cancer\">Cancer</a> is a class of diseases."
+   "Lists" : [
+      "List_of_distinct_cell_types_in_the_adult_human_body"
    ],
    "common" : {
       "milestones" : [
@@ -110,8 +97,21 @@
          []
       ]
    },
-   "Lists" : [
-      "List_of_distinct_cell_types_in_the_adult_human_body"
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Tropic_of_Cancer\">Tropic of Cancer</a>, a major circle of latitude",
+      "\n<a href=\"http://duckduckgo.com/Cancer_(genus)\">Cancer (genus)</a>, a genus of crab",
+      "https://en.wikipedia.org/wiki/Cancer_(disambiguation)",
+      "HASH(0x63a3618)",
+      "Wikipedia",
+      "Cancer",
+      "A constellation in the Northern Hemisphere near Leo and Gemini.",
+      "\n<a href=\"http://duckduckgo.com/Cancer_(constellation)\">Cancer (constellation)</a> - Cancer is one of the twelve constellations of the zodiac.",
+      "HASH(0x63ee9e0)",
+      "\n<a href=\"http://duckduckgo.com/Cancer_(journal)\">Cancer (journal)</a>, an academic journal about the disease",
+      "\n<a href=\"http://duckduckgo.com/Cancer_(Chinese_astronomy)\">Cancer (Chinese astronomy)</a>, the constellation Cancer in Chinese astronomy",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Cancer_(astrology)\">Cancer (astrology)</a>, an astrological sign",
+      "\n<a href=\"http://duckduckgo.com/Cancer\">Cancer</a> is a class of diseases."
    ],
    "micro-www-search" : [
       "cancers\n>http\nhttp://cancerhelp.cancerresearchuk.org/about-cancer/cancer-questions/how-many-different-types-of-cancer-are-there\nhttp://dx.doi.org/10.1016%2Fj.semcancer.2004.06.009\nhttp://en.m.wikipedia.org/wiki/Cancer\nhttp://en.wikipedia.org/w/index.php?title=Cancer&oldid=543931884\nhttp://journalistsresource.org/studies/society/health/cancer-facts-figures-2012/\nhttp://web.archive.org/web/20061204052746http:///www.cancer.org/docroot/NWS/content/NWS_1_1x_Vitamin_D_Has_Role_in_Colon_Cancer_Prevention.asp\nhttp://web.archive.org/web/20110716111312http:///www.cancerdecisions.com/speeches/galen1989.html\nhttp://www.atsdr.cdc.gov/COM/cancer-fs.html\nhttp://www.barbaraehrenreich.com/cancerland.htm\nhttp://www.cancer.gov/cancertopics/factsheet/cancervaccine\nhttp://www.cancer.gov/cancertopics/pdq/screening/overview/Patient\nhttp://www.cancer.gov/cancertopics/what-is-cancer\nhttp://www.cancer.org/docroot/NWS/content/NWS_1_1x_Vitamin_D_Has_Role_in_Colon_Cancer_Prevention.asp\nhttp://www.cancerdecisions.com/speeches/galen1989.html\nhttp://www.cancernetwork.com/cancer-management-11\nhttp://www.cdc.gov/niosh/topics/cancer/\nhttp://www.dmoz.org/Health/Conditions_and_Diseases/Cancerhttp://\nhttp://www.livescience.com/health/060919_bad_cancer.html\nhttp://www.mayoclinic.com/health/cancer-prevention/CA00024\nhttp://www.nytimes.com/2009/04/24/health/policy/24cancer.html\nhttp://www.nytimes.com/2010/12/28/health/28cancer.html\nhttp://www.who.int/uv/faq/skincancer/en/index1.html\n\n>pdf\nhttp://choosingwisely.org/wp-content/uploads/2012/04/5things_12_factsheet_Amer_Soc_Clin_Onc.pdf\nhttp://whqlibdoc.who.int/php/WHO_PHP_34.pdf\nhttp://www.iarc.fr/en/media-centre/pr/2011/pdfs/pr208_E.pdf\nhttp://www.nationalconsensusproject.org/guideline.pdf\nhttp://www.nationalconsensusproject.org/guideline.pdf\nhttp://www.iarc.fr/en/media-centre/pr/2011/pdfs/pr208_E.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/7/7b/En-us-cancer.ogg\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png\n\n>media\nhttp://upload.wikimedia.org/wikipedia/commons/7/7b/En-us-cancer.ogg\n\n",
@@ -124,7 +124,6 @@
       "Cancer\n>http\nhttp://cancerhelp.cancerresearchuk.org/about-cancer/cancer-questions/how-many-different-types-of-cancer-are-there\nhttp://dx.doi.org/10.1016%2Fj.semcancer.2004.06.009\nhttp://en.m.wikipedia.org/wiki/Cancer\nhttp://en.wikipedia.org/w/index.php?title=Cancer&oldid=546334168\nhttp://journalistsresource.org/studies/society/health/cancer-facts-figures-2012/\nhttp://web.archive.org/web/20061204052746http:///www.cancer.org/docroot/NWS/content/NWS_1_1x_Vitamin_D_Has_Role_in_Colon_Cancer_Prevention.asp\nhttp://web.archive.org/web/20110716111312http:///www.cancerdecisions.com/speeches/galen1989.html\nhttp://www.atsdr.cdc.gov/COM/cancer-fs.html\nhttp://www.barbaraehrenreich.com/cancerland.htm\nhttp://www.cancer.gov/cancertopics/factsheet/cancervaccine\nhttp://www.cancer.gov/cancertopics/pdq/screening/overview/Patient\nhttp://www.cancer.gov/cancertopics/what-is-cancer\nhttp://www.cancer.org/docroot/NWS/content/NWS_1_1x_Vitamin_D_Has_Role_in_Colon_Cancer_Prevention.asp\nhttp://www.cancerdecisions.com/speeches/galen1989.html\nhttp://www.cancernetwork.com/cancer-management-11\nhttp://www.cdc.gov/niosh/topics/cancer/\nhttp://www.dmoz.org/Health/Conditions_and_Diseases/Cancerhttp://\nhttp://www.livescience.com/health/060919_bad_cancer.html\nhttp://www.mayoclinic.com/health/cancer-prevention/CA00024\nhttp://www.nytimes.com/2009/04/24/health/policy/24cancer.html\nhttp://www.nytimes.com/2010/12/28/health/28cancer.html\nhttp://www.who.int/uv/faq/skincancer/en/index1.html\n\n>pdf\nhttp://choosingwisely.org/wp-content/uploads/2012/04/5things_12_factsheet_Amer_Soc_Clin_Onc.pdf\nhttp://whqlibdoc.who.int/php/WHO_PHP_34.pdf\nhttp://www.iarc.fr/en/media-centre/pr/2011/pdfs/pr208_E.pdf\nhttp://www.nationalconsensusproject.org/guideline.pdf\nhttp://www.nationalconsensusproject.org/guideline.pdf\nhttp://www.iarc.fr/en/media-centre/pr/2011/pdfs/pr208_E.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/7/7b/En-us-cancer.ogg\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png\n\n>media\nhttp://upload.wikimedia.org/wikipedia/commons/7/7b/En-us-cancer.ogg\n"
    ],
    "created" : 1373457401,
-   "book" : [],
    "micro-www" : {
       "cancer" : [
          "cancers",
@@ -138,6 +137,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Cancer|",

@@ -1,7 +1,4 @@
 {
-   "micrownet" : [
-      "cryptology"
-   ],
    "google" : [
       "/url?q=http://en.wikipedia.org/wiki/Cryptography&sa=U&ei=ZVXYUbjGF4v4sgaKlYHwBA&ved=0CBgQFjAA&usg=AFQjCNE5C5WSDhSz66LmbjkLcW2AJ10Ztw",
       "/url?q=http://www.merriam-webster.com/dictionary/cryptology&sa=U&ei=ZVXYUbjGF4v4sgaKlYHwBA&ved=0CCEQFjAB&usg=AFQjCNG_akHwfNok9Ni9uBOAsXkdG09Yvw",
@@ -27,6 +24,9 @@
       "/url?q=http://sourceforge.net/projects/cryptology/&sa=U&ei=ZVXYUbjGF4v4sgaKlYHwBA&ved=0CG4QFjAZ&usg=AFQjCNEBVNAZddiRsZFQka22TP8eYsZNxA",
       "/url?q=http://learnenglish.britishcouncil.org/en/magazine-articles/cryptology&sa=U&ei=ZVXYUbjGF4v4sgaKlYHwBA&ved=0CHMQFjAa&usg=AFQjCNH0ApiJRZUp6H5CLOCIBIMXrsRbrQ",
       "/url?q=http://www.fi.muni.cz/cecc/&sa=U&ei=ZVXYUbjGF4v4sgaKlYHwBA&ved=0CHYQFjAb&usg=AFQjCNG9VvbwwHZmsn8oEK0Pe5FWljCMtA"
+   ],
+   "micrownet" : [
+      "cryptology"
    ],
    "duckduckgo" : {
       "urls" : [

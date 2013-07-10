@@ -15,17 +15,7 @@
       "entity",
       "attribute"
    ],
-   "duck" : [
-      "Of, relating to, or consisting of muscle: muscular contraction.",
-      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=Muscularity",
-      "HASH(0x4dce840)",
-      "The Free Dictionary",
-      "Muscularity",
-      "Of, relating to, or consisting of muscle: muscular contraction.",
-      "HASH(0x50738d8)",
-      "Of, relating to, or consisting of muscle: muscular contraction.",
-      "A"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/41st_Jerry_Lewis_telethon_to_run_Sunday,_Monday\" title=\"41st Jerry Lewis telethon to run Sunday, Monday\">41st Jerry Lewis telethon to run Sunday, Monday</a>",
@@ -43,14 +33,24 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "Of, relating to, or consisting of muscle: muscular contraction.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=Muscularity",
+      "HASH(0x4dce840)",
+      "The Free Dictionary",
+      "Muscularity",
+      "Of, relating to, or consisting of muscle: muscular contraction.",
+      "HASH(0x50738d8)",
+      "Of, relating to, or consisting of muscle: muscular contraction.",
+      "A"
+   ],
    "micro-www-search" : [],
    "created" : 1373460958,
-   "book" : [],
    "micro-www" : {
       "muscularity" : [
          ""
       ]
    },
+   "book" : [],
    "micro-relation" : []
 }

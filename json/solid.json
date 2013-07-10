@@ -57,20 +57,7 @@
       "precipitate",
       "matter"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Solid_(disambiguation)",
-      "HASH(0x5c908c0)",
-      "Wikipedia",
-      "Solid",
-      "\n<a href=\"http://duckduckgo.com/Solid\">Solid</a> most commonly refers to a phase (or state) of matter.",
-      "http://www.merriam-webster.com/dictionary/solid",
-      "solid definition: being without an internal cavity.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Solid_Snake\">Solid Snake</a>, a fictional character in the Metal Gear games series",
-      "HASH(0x5d254e8)",
-      "\n<a href=\"http://duckduckgo.com/Polyhedron\">Polyhedron</a>, a geometric object with flat faces and straight edges",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Zealand_army_Unimog_crash_leaves_one_solider_dead\" title=\"New Zealand army Unimog crash leaves one solider dead\">New Zealand army Unimog crash leaves one solider dead</a>",
@@ -93,7 +80,20 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Solid_(disambiguation)",
+      "HASH(0x5c908c0)",
+      "Wikipedia",
+      "Solid",
+      "\n<a href=\"http://duckduckgo.com/Solid\">Solid</a> most commonly refers to a phase (or state) of matter.",
+      "http://www.merriam-webster.com/dictionary/solid",
+      "solid definition: being without an internal cavity.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Solid_Snake\">Solid Snake</a>, a fictional character in the Metal Gear games series",
+      "HASH(0x5d254e8)",
+      "\n<a href=\"http://duckduckgo.com/Polyhedron\">Polyhedron</a>, a geometric object with flat faces and straight edges",
+      "D"
+   ],
    "micro-www-search" : [
       "solids\n>http\nhttp://en.m.wikipedia.org/wiki/Solid\nhttp://en.wikipedia.org/w/index.php?title=Solid&oldid=541938449\nhttp://www.solidswiki.com\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/f/f4/Flyingsuperconductor.ogg\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Insulincrystals.jpg/300px-Insulincrystals.jpg\n\n>media\nhttp://upload.wikimedia.org/wikipedia/commons/f/f4/Flyingsuperconductor.ogg\n\n",
       "solid\n>http\nhttp://en.m.wikipedia.org/wiki/Solid\nhttp://en.wikipedia.org/w/index.php?title=Solid&oldid=541938449\nhttp://www.solidswiki.com\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/f/f4/Flyingsuperconductor.ogg\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Insulincrystals.jpg/300px-Insulincrystals.jpg\n\n>media\nhttp://upload.wikimedia.org/wikipedia/commons/f/f4/Flyingsuperconductor.ogg\n\n",
@@ -108,7 +108,6 @@
       "Solid\n>http\nhttp://en.m.wikipedia.org/wiki/Solid\nhttp://en.wikipedia.org/w/index.php?title=Solid&oldid=541938449\nhttp://www.solidswiki.com\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/f/f4/Flyingsuperconductor.ogg\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Insulincrystals.jpg/300px-Insulincrystals.jpg\n\n>media\nhttp://upload.wikimedia.org/wikipedia/commons/f/f4/Flyingsuperconductor.ogg\n"
    ],
    "created" : 1373455133,
-   "book" : [],
    "micro-www" : {
       "solid" : [
          "solids",
@@ -125,6 +124,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Phases of matter",

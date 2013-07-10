@@ -31,20 +31,7 @@
       "twin",
       "abstraction"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Couple",
-      "HASH(0x5c6abe0)",
-      "Wikipedia",
-      "\n<a href=\"http://duckduckgo.com/Thermocouple\">Thermocouple</a>, a type of temperature sensor",
-      "Couple",
-      "http://www.merriam-webster.com/dictionary/couple",
-      "couple definition: two persons married, engaged, or otherwise romantically paired.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/2_(number)\">Two</a> to <a href=\"http://duckduckgo.com/?q=five\">five</a> items of a type.",
-      "HASH(0x5d3baf0)",
-      "\n<a href=\"http://duckduckgo.com/Couple_(mechanics)\">Couple (mechanics)</a>, a system of forces with a resultant moment but no resultant force",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Iconic_gay_couple_split\" title=\"Iconic gay couple split\">Iconic gay <span class=\"searchmatch\">couple</span> split</a>",
@@ -72,14 +59,26 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Couple",
+      "HASH(0x5c6abe0)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Thermocouple\">Thermocouple</a>, a type of temperature sensor",
+      "Couple",
+      "http://www.merriam-webster.com/dictionary/couple",
+      "couple definition: two persons married, engaged, or otherwise romantically paired.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/2_(number)\">Two</a> to <a href=\"http://duckduckgo.com/?q=five\">five</a> items of a type.",
+      "HASH(0x5d3baf0)",
+      "\n<a href=\"http://duckduckgo.com/Couple_(mechanics)\">Couple (mechanics)</a>, a system of forces with a resultant moment but no resultant force",
+      "D"
+   ],
    "micro-www-search" : [
       "couple\n>http\nhttp://en.m.wikipedia.org/wiki/Couple\nhttp://en.wikipedia.org/w/index.php?title=Couple&oldid=530016942\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/f/f9/En-us-couple.ogg\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n>media\nhttp://upload.wikimedia.org/wikipedia/commons/f/f9/En-us-couple.ogg\n\n",
       "Coupler_(disambiguation)\n>http\nhttp://en.m.wikipedia.org/wiki/Coupler\nhttp://en.wikipedia.org/w/index.php?title=Coupler&oldid=543505681\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "Couple_(mechanics)\n>http\nhttp://en.m.wikipedia.org/wiki/Couple_(mechanics)\nhttp://en.wikipedia.org/w/index.php?title=Couple_(mechanics)&oldid=543364432\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Translation_to_english_arrow.svg/50px-Translation_to_english_arrow.svg.png\n"
    ],
    "created" : 1373456223,
-   "book" : [],
    "micro-www" : {
       "couple" : [
          "couple",
@@ -88,6 +87,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Integers",

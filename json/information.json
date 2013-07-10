@@ -77,7 +77,25 @@
       "gen",
       "tabular_matter"
    ],
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Information\">Information</a> is a collection of related data or knowledge about a topic.",
+      "https://en.wikipedia.org/wiki/Information_(disambiguation)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Information_(formal_criminal_charge)\">Information (formal criminal charge)</a>, a formal criminal charge made by a prosecutor without a grand-jury indictment",
+      "Information",
+      "http://www.merriam-webster.com/dictionary/information",
+      "information definition: the communication or reception of knowledge or intelligence.",
+      "\n<a href=\"http://duckduckgo.com/Fisher_information\">Fisher information</a>, in statistics",
+      "\n<a href=\"http://duckduckgo.com/Information_theory\">Information theory</a>, the mathematical theory of Information and communication",
+      "HASH(0x4f3f758)",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Dagbladet_Information\">Dagbladet Information</a>, a Danish newspaper",
+      "\n<a href=\"http://duckduckgo.com/Directory_assistance\">Directory assistance</a>, a phone service used to find out a specific telephone number and/or address of a residence, business, or government entity",
+      "HASH(0x4f46088)",
+      "\n<a href=\"http://duckduckgo.com/Physical_information\">Physical information</a> contained in a system",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Data\">Data</a>, or data used in computing"
+   ],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_government_loses_personal_information_of_25_million_people\" title=\"UK government loses personal information of 25 million people\">UK government loses personal <span class=\"searchmatch\">information</span> of 25 million people</a>",
@@ -108,25 +126,7 @@
          []
       ]
    },
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Information\">Information</a> is a collection of related data or knowledge about a topic.",
-      "https://en.wikipedia.org/wiki/Information_(disambiguation)",
-      "Wikipedia",
-      "\n<a href=\"http://duckduckgo.com/Information_(formal_criminal_charge)\">Information (formal criminal charge)</a>, a formal criminal charge made by a prosecutor without a grand-jury indictment",
-      "Information",
-      "http://www.merriam-webster.com/dictionary/information",
-      "information definition: the communication or reception of knowledge or intelligence.",
-      "\n<a href=\"http://duckduckgo.com/Fisher_information\">Fisher information</a>, in statistics",
-      "\n<a href=\"http://duckduckgo.com/Information_theory\">Information theory</a>, the mathematical theory of Information and communication",
-      "HASH(0x4f3f758)",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Dagbladet_Information\">Dagbladet Information</a>, a Danish newspaper",
-      "\n<a href=\"http://duckduckgo.com/Directory_assistance\">Directory assistance</a>, a phone service used to find out a specific telephone number and/or address of a residence, business, or government entity",
-      "HASH(0x4f46088)",
-      "\n<a href=\"http://duckduckgo.com/Physical_information\">Physical information</a> contained in a system",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Data\">Data</a>, or data used in computing"
-   ],
+   "Lists" : [],
    "micro-www-search" : [
       "information_systems\n>http\nhttp://books.google.com/books?id=brOkAAAACAAJ&dq=Exploring+information+systems+research+approaches:+readings+and+reflections\nhttp://books.google.com/books?id=jb-vrAHmG0wC&printsec=frontcover&dq=Labyrinths+of+Information\nhttp://en.wikipedia.org/w/index.php?title=Information_systems&oldid=560863282\nhttp://misq.org/the-information-technology-interaction-model-a-foundation-for-the-mba-core-course.html?SID=k2fh85s9nd5a2ne85qh5a3art7\nhttp://www3.imperial.ac.uk/electricalengineering/courses/undergraduate/informationengineering\n\n>pdf\nhttp://home.aisnet.org/associations/7499/files/Senior%20Scholars%20Letter.pdf\nhttp://mict.upol.cz/skolni_informacni_systemy.pdf\nhttp://mict.upol.cz/skolni_informacni_systemy.pdf\nhttp://www.acm.org/education/curric_vols/CC2005-March06Final.pdf\nhttp://www.acm.org/education/curric_vols/CC2005-March06Final.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/7/77/IS-Relationships-Chart.jpg/220px-IS-Relationships-Chart.jpg\n\n",
       "information_security\n>http\nhttp://en.wikipedia.org/w/index.php?title=Information_security&oldid=561071307\n\n>pdf\nhttp://csrc.nist.gov/publications/nistpubs/800-27A/SP800-27-RevA.pdf\nhttp://csrc.nist.gov/publications/nistpubs/800-30/sp800-30.pdf\nhttp://csrc.nist.gov/publications/nistpubs/800-30/sp800-30.pdf\nhttp://www.oecd.org/dataoecd/16/22/15582260.pdf\nhttp://csrc.nist.gov/publications/nistpubs/800-27A/SP800-27-RevA.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/CIAJMK1209.png/300px-CIAJMK1209.png\n\n",
@@ -167,6 +167,7 @@
       "Information\n>http\nhttp://en.wikipedia.org/w/index.php?title=Information&oldid=561030498\nhttp://plato.stanford.edu/entries/information-semantic/\nhttp://www.informationsordbogen.dk\nhttp://www.informationsordbogen.dk/concept.php?cid=902\nhttp://www.optics.arizona.edu/Frieden/Fisher_Information.htm\n\n>pdf\nhttp://philsci-archive.pitt.edu/archive/00002536/01/iimd.pdf\nhttp://philsci-archive.pitt.edu/archive/00002536/01/iimd.pdf\nhttp://www.lehigh.edu/~dac511/literature/casagrande1999.pdf\nhttp://www.lehigh.edu/~dac511/literature/casagrande1999.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/WikipediaBinary.svg/200px-WikipediaBinary.svg.png\n"
    ],
    "created" : 1373459108,
+   "book" : [],
    "micro-www" : {
       "information" : [
          "information_systems",
@@ -209,7 +210,6 @@
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [
          "Concepts in metaphysics",

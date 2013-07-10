@@ -10,29 +10,11 @@
       "relative_molecular_mass"
    ],
    "micro" : [],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/c/Molecular_physics\">Molecular physics</a>",
-      "\n<a href=\"http://duckduckgo.com/Diatomic_molecule\">Diatomic molecule</a> - Diatomic molecules are molecules composed only of two atoms, of either the same or different chemical elements.",
-      "https://en.wikipedia.org/wiki/Molecule",
-      "Wikipedia",
-      "Molecule",
-      "\n<a href=\"http://duckduckgo.com/Van_der_Waals_molecule\">Van der Waals molecule</a> - A van der Waals molecule is a stable cluster consisting of two or more molecules held together by van der Waals forces or by hydrogen bonds.",
-      "http://www.merriam-webster.com/dictionary/molecule",
-      "molecule definition: the smallest particle of a substance that retains all the properties of the substance and is composed of one or more atoms.",
-      "\n<a href=\"http://duckduckgo.com/c/Matter\">Matter</a>",
-      "A molecule  is an electrically neutral group of two or more atoms held together by covalent chemical bonds.",
-      "HASH(0x50e4aa0)",
-      "\n<a href=\"http://duckduckgo.com/Molecular_geometry\">Molecular geometry</a> -   Molecular geometry is the three-dimensional arrangement of the atoms that constitute a molecule.",
-      "\n<a href=\"http://duckduckgo.com/Small_molecule\">Small molecule</a> - In the fields of pharmacology and biochemistry, a small molecule is a low molecular weight (quince orchard high school",
-      "https://i.duckduckgo.com/i/b0a76ebe.png",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/c/Chemistry\">Chemistry</a>",
-      "\n<a href=\"http://duckduckgo.com/Chemical_polarity\">Chemical polarity</a> -  In chemistry, polarity refers to a separation of electric charge leading to a molecule or its chemical groups having an electric dipole or multipole moment.",
-      "HASH(0x5053cf8)",
-      "\n<a href=\"http://duckduckgo.com/c/Molecules\">Molecules</a>",
-      "\n<a href=\"http://duckduckgo.com/Atom\">Atom</a> - The atom is a basic unit of matter that consists of a dense central nucleus surrounded by a cloud of negatively charged electrons.",
-      "A",
-      "A molecule  is an electrically neutral group of two or more atoms held together by covalent chemical bonds."
+   "Lists" : [
+      "List_of_particles#Molecules",
+      "List_of_compounds",
+      "List_of_molecules_in_interstellar_space",
+      "List_of_software_for_molecular_mechanics_modeling"
    ],
    "common" : {
       "milestones" : [
@@ -59,11 +41,29 @@
          []
       ]
    },
-   "Lists" : [
-      "List_of_particles#Molecules",
-      "List_of_compounds",
-      "List_of_molecules_in_interstellar_space",
-      "List_of_software_for_molecular_mechanics_modeling"
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/c/Molecular_physics\">Molecular physics</a>",
+      "\n<a href=\"http://duckduckgo.com/Diatomic_molecule\">Diatomic molecule</a> - Diatomic molecules are molecules composed only of two atoms, of either the same or different chemical elements.",
+      "https://en.wikipedia.org/wiki/Molecule",
+      "Wikipedia",
+      "Molecule",
+      "\n<a href=\"http://duckduckgo.com/Van_der_Waals_molecule\">Van der Waals molecule</a> - A van der Waals molecule is a stable cluster consisting of two or more molecules held together by van der Waals forces or by hydrogen bonds.",
+      "http://www.merriam-webster.com/dictionary/molecule",
+      "molecule definition: the smallest particle of a substance that retains all the properties of the substance and is composed of one or more atoms.",
+      "\n<a href=\"http://duckduckgo.com/c/Matter\">Matter</a>",
+      "A molecule  is an electrically neutral group of two or more atoms held together by covalent chemical bonds.",
+      "HASH(0x50e4aa0)",
+      "\n<a href=\"http://duckduckgo.com/Molecular_geometry\">Molecular geometry</a> -   Molecular geometry is the three-dimensional arrangement of the atoms that constitute a molecule.",
+      "\n<a href=\"http://duckduckgo.com/Small_molecule\">Small molecule</a> - In the fields of pharmacology and biochemistry, a small molecule is a low molecular weight (quince orchard high school",
+      "https://i.duckduckgo.com/i/b0a76ebe.png",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/c/Chemistry\">Chemistry</a>",
+      "\n<a href=\"http://duckduckgo.com/Chemical_polarity\">Chemical polarity</a> -  In chemistry, polarity refers to a separation of electric charge leading to a molecule or its chemical groups having an electric dipole or multipole moment.",
+      "HASH(0x5053cf8)",
+      "\n<a href=\"http://duckduckgo.com/c/Molecules\">Molecules</a>",
+      "\n<a href=\"http://duckduckgo.com/Atom\">Atom</a> - The atom is a basic unit of matter that consists of a dense central nucleus surrounded by a cloud of negatively charged electrons.",
+      "A",
+      "A molecule  is an electrically neutral group of two or more atoms held together by covalent chemical bonds."
    ],
    "micro-www-search" : [
       "molecular_medicine\n>http\nhttp://en.m.wikipedia.org/wiki/Molecular_medicine\nhttp://en.wikipedia.org/w/index.php?title=Molecular_medicine&oldid=550402781\nhttp://www.sussex.ac.uk/Units/publications/ugrad2006/degrees/Molecular%20medicine\n\n",
@@ -108,7 +108,6 @@
       "Molecular\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Atisane3.png/400px-Atisane3.png\n"
    ],
    "created" : 1373458713,
-   "book" : [],
    "micro-www" : {
       "molecular" : [
          "molecular_medicine",
@@ -154,6 +153,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Matter",

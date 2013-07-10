@@ -1,0 +1,102 @@
+{
+   "micrownet" : [
+      "bakke_decision",
+      "decision",
+      "decision_maker",
+      "decision_making",
+      "decision_table",
+      "final_decision",
+      "judicial_decision",
+      "split_decision"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_government_under_fire_over_Haneef_visa_decision\" title=\"Australian government under fire over Haneef visa decision\">Australian government under fire over Haneef visa <span class=\"searchmatch\">decision</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Gay_Iranian_awaits_decision_on_asylum\" title=\"Gay Iranian awaits decision on asylum\">Gay Iranian awaits <span class=\"searchmatch\">decision</span> on asylum</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Gordon_Brown_defends_Iraq_decision\" title=\"Gordon Brown defends Iraq decision\">Gordon Brown defends Iraq <span class=\"searchmatch\">decision</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Judge_delays_exit_exam_decision_until_Friday\" title=\"Judge delays exit exam decision until Friday\">Judge delays exit exam <span class=\"searchmatch\">decision</span> until Friday</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/ACLU_commemorates_anniversary_of_US_Supreme_Court_decision_on_student_free_speech\" title=\"ACLU commemorates anniversary of US Supreme Court decision on student free speech\">ACLU commemorates anniversary of US Supreme Court <span class=\"searchmatch\">decision</span> on student free speech</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Elections_Canada_stands_by_decision,_Muslims_not_required_to_remove_veils_at_polls\" title=\"Elections Canada stands by decision, Muslims not required to remove veils at polls\">Elections Canada stands by <span class=\"searchmatch\">decision</span>, Muslims not required to remove veils at polls</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Government_of_Canada_okays_WIND_Mobile_launch,_overturning_CRTC_decision\" title=\"Government of Canada okays WIND Mobile launch, overturning CRTC decision\">Government of Canada okays WIND Mobile launch, overturning CRTC <span class=\"searchmatch\">decision</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Government_of_Canada_okays_WIND_Mobile_launch_after_CRTC_decision/Notes\" title=\"Government of Canada okays WIND Mobile launch after CRTC decision/Notes\">Government of Canada okays WIND Mobile launch after CRTC <span class=\"searchmatch\">decision/</span>Notes</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Kyrgyzstan_announces_decision_to_close_US_base\" title=\"Kyrgyzstan announces decision to close US base\">Kyrgyzstan announces <span class=\"searchmatch\">decision</span> to close US base</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Injunction_fails_to_stop_decision_on_waterfront_stadium_in_New_Zealand\" title=\"Injunction fails to stop decision on waterfront stadium in New Zealand\">Injunction fails to stop <span class=\"searchmatch\">decision</span> on waterfront stadium in New Zealand</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Iran_close_to_decision_on_nuclear_program\" title=\"Iran close to decision on nuclear program\">Iran close to <span class=\"searchmatch\">decision</span> on nuclear program</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/EU_fines_Microsoft_$1.35_billion_for_non-compliance_with_antitrust_decision\" title=\"EU fines Microsoft $1.35 billion for non-compliance with antitrust decision\">EU fines Microsoft $1.35 billion for non-compliance with antitrust <span class=\"searchmatch\">decision</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._jury_decision_moves_Moussaoui_closer_to_execution\" title=\"U.S. jury decision moves Moussaoui closer to execution\">U.S. jury <span class=\"searchmatch\">decision</span> moves Moussaoui closer to execution</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/City_Planning_Board_postpones_decision_on_Buffalo,_N.Y._hotel_proposal\" title=\"City Planning Board postpones decision on Buffalo, N.Y. hotel proposal\">City Planning Board postpones <span class=\"searchmatch\">decision</span> on Buffalo, N.Y. hotel proposal</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Zealand_police_defend_decision_to_charge_speeding_policeman\" title=\"New Zealand police defend decision to charge speeding policeman\">New Zealand police defend <span class=\"searchmatch\">decision</span> to charge speeding policeman</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Appeals_Court_asked_for_quick_decision_in_California_High_School_Exit_Exam_case\" title=\"Appeals Court asked for quick decision in California High School Exit Exam case\">Appeals Court asked for quick <span class=\"searchmatch\">decision</span> in California High School Exit Exam case</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Court_decision_means_Floyd_Landis_loses_Tour_de_France_title\" title=\"Court decision means Floyd Landis loses Tour de France title\">Court <span class=\"searchmatch\">decision</span> means Floyd Landis loses Tour de France title</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UNHCR_criticises_Rwanda%27s_and_Burundi%27s_decision_to_re-label_refugees_as_illegal_immigrants\" title=\"UNHCR criticises Rwanda&#39;s and Burundi&#39;s decision to re-label refugees as illegal immigrants\">UNHCR criticises Rwanda&#39;s and Burundi&#39;s <span class=\"searchmatch\">decision</span> to re-label refugees as illegal immigrants</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Judge_Dannii_Minogue_exits_UK_X_Factor_over_%27Australia%27s_Got_Talent%27_scheduling_clash\" title=\"Judge Dannii Minogue exits UK X Factor over &#39;Australia&#39;s Got Talent&#39; scheduling clash\">Judge Dannii Minogue exits UK X Factor over &#39;Australia&#39;s Got Talent&#39; scheduling clash</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "A decision is the selection between possible actions.",
+      "https://en.wikipedia.org/wiki/Decision",
+      "HASH(0x4c08158)",
+      "Wikipedia",
+      "Decision",
+      "http://www.merriam-webster.com/dictionary/decision",
+      "decision definition: the act or process of deciding.",
+      "Merriam-Webster",
+      "HASH(0x1a5fdf8)",
+      "\n<a href=\"http://duckduckgo.com/Decision_theory\">Decision theory</a> - Decision theory in economics, psychology, philosophy, mathematics, and statistics is concerned with identifying the values, uncertainties and other issues relevant in a given decision, its ratio...",
+      "\n<a href=\"http://duckduckgo.com/Decision_tree\">Decision tree</a> - A decision tree  is a decision support tool that uses a tree-like graph or model of decisions and their possible consequences, including chance event outcomes, resource costs, and utility.",
+      "\n<a href=\"http://duckduckgo.com/Decision_support_system\">Decision support system</a> - A decision support system (DSS) is a computer-based information system that supports business or organizational decision-making activities.",
+      "A decision is the selection between possible actions.",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Decision_making\">Decision making</a> - from douglas of arusha tanzania Decision making can be regarded as the cognitive process resulting in the selection of a course of action among several alternative scenarios."
+   ],
+   "created" : 1373461385,
+   "book" : [],
+   "micro-www" : {
+      "decision" : [
+         "decision",
+         "Decisions_(professional_wrestling)",
+         "Decisions_(album)",
+         "Decision_tree",
+         "Decision_theory",
+         "Decision_support_system",
+         "Decision_sciences",
+         "Decision_process",
+         "Decision_model",
+         "Decision_making_software",
+         "Decision_making_process",
+         "Decision_making",
+         "Decision_(baseball)",
+         "Decision-making",
+         "Decision",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Decision' may refer to:\n\n* Decision making\n* Decision support system\n* Decision theory\n* Decision tree\n",
+      "title" : "decision",
+      "headings" : [
+         "Law and politics",
+         "Sports, Arts, and Entertainment",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Decision_making",
+      "1: Decision_support_system",
+      "1: Decision_theory",
+      "1: Decision_tree",
+      "1: European_Union_decision",
+      "1: Landmark_decision",
+      "1: Per_curiam_decision",
+      "1: Discernment",
+      "1: Decision-making_software",
+      "1: Decision_sciences",
+      "1: Judgment"
+   ]
+}

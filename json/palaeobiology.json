@@ -1,7 +1,4 @@
 {
-   "micrownet" : [
-      "palaeobiology"
-   ],
    "google" : [
       "/url?q=https://en.wikipedia.org/wiki/Paleobiology&sa=U&ei=slPYUabzEs_Dswa1yIC4Bw&ved=0CBgQFjAA&usg=AFQjCNEinVbym7hqYPWWR3GV12rFVMz0mA",
       "/url?q=http://palaeo.gly.bris.ac.uk/msc/index.html&sa=U&ei=slPYUabzEs_Dswa1yIC4Bw&ved=0CCAQFjAB&usg=AFQjCNF1nxje8d1WEti_6NCMMocvK4pnMA",
@@ -26,6 +23,9 @@
       "/url?q=http://www.usask.ca/programs/colleges-schools/arts-science/palaeobiology/index.php&sa=U&ei=slPYUabzEs_Dswa1yIC4Bw&ved=0CGQQFjAU&usg=AFQjCNFTd1dB9IdzEGpQjHVVrO8QeSssww",
       "/url?q=http://www.mol-palaeo.de/&sa=U&ei=slPYUabzEs_Dswa1yIC4Bw&ved=0CGcQFjAV&usg=AFQjCNEjXSzRjukO9ToB13qjtc0ZdK-9Hg",
       "/url?q=http://www.port.ac.uk/departments/academic/sees/fieldwork/palaeobiologyandevolution/&sa=U&ei=slPYUabzEs_Dswa1yIC4Bw&ved=0CGsQFjAW&usg=AFQjCNFxnVWHAkFxqVzQ6hQwn9H1B36-eA"
+   ],
+   "micrownet" : [
+      "palaeobiology"
    ],
    "duckduckgo" : {
       "urls" : [

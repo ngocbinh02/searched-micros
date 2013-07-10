@@ -113,34 +113,6 @@
       "recreation",
       "carnival"
    ],
-   "Lists" : [],
-   "common" : {
-      "milestones" : [
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Contestant_seriously_injured_during_live_German_game_show\" title=\"Contestant seriously injured during live German game show\">Contestant seriously injured during live German game <span class=\"searchmatch\">show</span></a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2008_Taipei_Game_Show\" title=\"2008 Taipei Game Show\">2008 Taipei Game <span class=\"searchmatch\">Show</span></a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Plants_may_adapt_faster_to_climate_change_than_previously_thought,_new_study_shows\" title=\"Plants may adapt faster to climate change than previously thought, new study shows\">Plants may adapt faster to climate change than previously thought, new study <span class=\"searchmatch\">shows</span></a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Freshwater_lakes_in_Texas_show_signs_of_extreme_drought\" title=\"Freshwater lakes in Texas show signs of extreme drought\">Freshwater lakes in Texas <span class=\"searchmatch\">show</span> signs of extreme drought</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sir_Terry_Wogan_leaves_BBC_Radio_2_breakfast_show\" title=\"Sir Terry Wogan leaves BBC Radio 2 breakfast show\">Sir Terry Wogan leaves BBC Radio 2 breakfast <span class=\"searchmatch\">show</span></a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2008_Taipei_Game_Show_preview_highlights_computer_industry\" title=\"2008 Taipei Game Show preview highlights computer industry\">2008 Taipei Game <span class=\"searchmatch\">Show</span> preview highlights computer industry</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Images_show_new_dimension_to_Saturn%27s_rings\" title=\"Images show new dimension to Saturn&#39;s rings\">Images <span class=\"searchmatch\">show</span> new dimension to Saturn&#39;s rings</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Icelandic_Hekla_volcano_shows_signs_of_activity\" title=\"Icelandic Hekla volcano shows signs of activity\">Icelandic Hekla volcano <span class=\"searchmatch\">shows</span> signs of activity</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chris_Moyles_announces_departure_from_BBC_Radio_1_breakfast_show\" title=\"Chris Moyles announces departure from BBC Radio 1 breakfast show\">Chris Moyles announces departure from BBC Radio 1 breakfast <span class=\"searchmatch\">show</span></a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chris_Moyles_departs_from_BBC_Radio_1_breakfast_show\" title=\"Chris Moyles departs from BBC Radio 1 breakfast show\">Chris Moyles departs from BBC Radio 1 breakfast <span class=\"searchmatch\">show</span></a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Wikileaks_cable_disclosure_shows_Arab_fears_of_Iranian_ambitions\" title=\"Wikileaks cable disclosure shows Arab fears of Iranian ambitions\">Wikileaks cable disclosure <span class=\"searchmatch\">shows</span> Arab fears of Iranian ambitions</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Poll_shows_American_youth_more_politically_active,_socially_liberal\" title=\"Poll shows American youth more politically active, socially liberal\">Poll <span class=\"searchmatch\">shows</span> American youth more politically active, socially liberal</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/All_major_American_TV_networks_show_charity_concert_for_Katrina_victims\" title=\"All major American TV networks show charity concert for Katrina victims\">All major American TV networks <span class=\"searchmatch\">show</span> charity concert for Katrina victims</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Dutch_TV_kidney_reality_show_was_a_hoax\" title=\"Dutch TV kidney reality show was a hoax\">Dutch TV kidney reality <span class=\"searchmatch\">show</span> was a hoax</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/TV_show_Firefly%27s_%22Serenity%22_movie_trailer_released,_could_spoil_enjoyment_for_fans\" title=\"TV show Firefly&#39;s &quot;Serenity&quot; movie trailer released, could spoil enjoyment for fans\">TV <span class=\"searchmatch\">show</span> Firefly&#39;s &quot;Serenity&quot; movie trailer released, could spoil enjoyment for fans</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/TV_late_night_show_host_David_Letterman_marries_girlfriend_of_23_years\" title=\"TV late night show host David Letterman marries girlfriend of 23 years\">TV late night <span class=\"searchmatch\">show</span> host David Letterman marries girlfriend of 23 years</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/American_bandleader_Kevin_Eubanks_to_leave_%27Tonight_Show%27\" title=\"American bandleader Kevin Eubanks to leave &#39;Tonight Show&#39;\">American bandleader Kevin Eubanks to leave &#39;Tonight <span class=\"searchmatch\">Show</span>&#39;</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2008_Taipei_Game_Show_review:_Variations_differ_from_past_years\" title=\"2008 Taipei Game Show review: Variations differ from past years\">2008 Taipei Game <span class=\"searchmatch\">Show</span> review: Variations differ from past years</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/BBC%27s_political_show_makes_special_edition_from_Shanghai\" title=\"BBC&#39;s political show makes special edition from Shanghai\">BBC&#39;s political <span class=\"searchmatch\">show</span> makes special edition from Shanghai</a>"
-      ],
-      "image" : [
-         [],
-         []
-      ]
-   },
    "duck" : [
       "https://en.wikipedia.org/wiki/Show",
       "\n<a href=\"http://duckduckgo.com/Show_(magazine)\">Show (magazine)</a>, a men's magazine",
@@ -169,6 +141,34 @@
       "\n<a href=\"http://duckduckgo.com/conformation_show\">Conformation dog show</a> - Conformation shows, also referred to as breed shows, are a kind of dog show in which a judge familiar with a specific dog breed evaluates individual purebred dogs for how well the dogs '...",
       "\n<a href=\"http://duckduckgo.com/Cat_show\">Cat show</a> - A cat show is a judged event where the owners of cats compete to win titles in various cat registering organizations by entering their cats to be judged after a breed standard."
    ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Contestant_seriously_injured_during_live_German_game_show\" title=\"Contestant seriously injured during live German game show\">Contestant seriously injured during live German game <span class=\"searchmatch\">show</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2008_Taipei_Game_Show\" title=\"2008 Taipei Game Show\">2008 Taipei Game <span class=\"searchmatch\">Show</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Plants_may_adapt_faster_to_climate_change_than_previously_thought,_new_study_shows\" title=\"Plants may adapt faster to climate change than previously thought, new study shows\">Plants may adapt faster to climate change than previously thought, new study <span class=\"searchmatch\">shows</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Freshwater_lakes_in_Texas_show_signs_of_extreme_drought\" title=\"Freshwater lakes in Texas show signs of extreme drought\">Freshwater lakes in Texas <span class=\"searchmatch\">show</span> signs of extreme drought</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sir_Terry_Wogan_leaves_BBC_Radio_2_breakfast_show\" title=\"Sir Terry Wogan leaves BBC Radio 2 breakfast show\">Sir Terry Wogan leaves BBC Radio 2 breakfast <span class=\"searchmatch\">show</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2008_Taipei_Game_Show_preview_highlights_computer_industry\" title=\"2008 Taipei Game Show preview highlights computer industry\">2008 Taipei Game <span class=\"searchmatch\">Show</span> preview highlights computer industry</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Images_show_new_dimension_to_Saturn%27s_rings\" title=\"Images show new dimension to Saturn&#39;s rings\">Images <span class=\"searchmatch\">show</span> new dimension to Saturn&#39;s rings</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Icelandic_Hekla_volcano_shows_signs_of_activity\" title=\"Icelandic Hekla volcano shows signs of activity\">Icelandic Hekla volcano <span class=\"searchmatch\">shows</span> signs of activity</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chris_Moyles_announces_departure_from_BBC_Radio_1_breakfast_show\" title=\"Chris Moyles announces departure from BBC Radio 1 breakfast show\">Chris Moyles announces departure from BBC Radio 1 breakfast <span class=\"searchmatch\">show</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chris_Moyles_departs_from_BBC_Radio_1_breakfast_show\" title=\"Chris Moyles departs from BBC Radio 1 breakfast show\">Chris Moyles departs from BBC Radio 1 breakfast <span class=\"searchmatch\">show</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Wikileaks_cable_disclosure_shows_Arab_fears_of_Iranian_ambitions\" title=\"Wikileaks cable disclosure shows Arab fears of Iranian ambitions\">Wikileaks cable disclosure <span class=\"searchmatch\">shows</span> Arab fears of Iranian ambitions</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Poll_shows_American_youth_more_politically_active,_socially_liberal\" title=\"Poll shows American youth more politically active, socially liberal\">Poll <span class=\"searchmatch\">shows</span> American youth more politically active, socially liberal</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/All_major_American_TV_networks_show_charity_concert_for_Katrina_victims\" title=\"All major American TV networks show charity concert for Katrina victims\">All major American TV networks <span class=\"searchmatch\">show</span> charity concert for Katrina victims</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Dutch_TV_kidney_reality_show_was_a_hoax\" title=\"Dutch TV kidney reality show was a hoax\">Dutch TV kidney reality <span class=\"searchmatch\">show</span> was a hoax</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/TV_show_Firefly%27s_%22Serenity%22_movie_trailer_released,_could_spoil_enjoyment_for_fans\" title=\"TV show Firefly&#39;s &quot;Serenity&quot; movie trailer released, could spoil enjoyment for fans\">TV <span class=\"searchmatch\">show</span> Firefly&#39;s &quot;Serenity&quot; movie trailer released, could spoil enjoyment for fans</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/TV_late_night_show_host_David_Letterman_marries_girlfriend_of_23_years\" title=\"TV late night show host David Letterman marries girlfriend of 23 years\">TV late night <span class=\"searchmatch\">show</span> host David Letterman marries girlfriend of 23 years</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/American_bandleader_Kevin_Eubanks_to_leave_%27Tonight_Show%27\" title=\"American bandleader Kevin Eubanks to leave &#39;Tonight Show&#39;\">American bandleader Kevin Eubanks to leave &#39;Tonight <span class=\"searchmatch\">Show</span>&#39;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2008_Taipei_Game_Show_review:_Variations_differ_from_past_years\" title=\"2008 Taipei Game Show review: Variations differ from past years\">2008 Taipei Game <span class=\"searchmatch\">Show</span> review: Variations differ from past years</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/BBC%27s_political_show_makes_special_edition_from_Shanghai\" title=\"BBC&#39;s political show makes special edition from Shanghai\">BBC&#39;s political <span class=\"searchmatch\">show</span> makes special edition from Shanghai</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
    "micro-www-search" : [
       "shows\n>http\nhttp://en.m.wikipedia.org/wiki/Show\nhttp://en.wikipedia.org/w/index.php?title=Show&oldid=540759292\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "shown\n>http\nhttp://en.m.wikipedia.org/wiki/Shown\nhttp://en.wikipedia.org/w/index.php?title=Shown&oldid=541888452\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
@@ -180,6 +180,7 @@
       "Show\n>http\nhttp://en.m.wikipedia.org/wiki/Show\nhttp://en.wikipedia.org/w/index.php?title=Show&oldid=540759292\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n"
    ],
    "created" : 1373459956,
+   "book" : [],
    "micro-www" : {
       "show" : [
          "shows",
@@ -193,7 +194,6 @@
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Show' may refer to:\n\n* Show (fair)\n* Show (animal), a judged event in the hobby of animal fancy ** Conformation dog\n  show ** Cat show\n* Dog and pony show, an American idiom\n* [[Mr. Show]], a sketch comedy series\n* Show, a 3G telecommunication service of Korea Telecom\n* Bloody show, a term used in labour medicine\n* A television program\n* A theatrical production\n* A concert\n* A radio program\n* A trade fair\n* Showtime (TV network)\n* ''Show'' (magazine), a men's magazine\n* [[Le Show]], a weekly syndicated public radio show hosted by satirist\n  Harry Shearer\n* ''Show'' (film), a 2002 film\n",

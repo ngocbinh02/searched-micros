@@ -172,22 +172,7 @@
       "busywork",
       "task"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Work",
-      "HASH(0x527ef60)",
-      "Wikipedia",
-      "Work",
-      "\n<a href=\"http://duckduckgo.com/Work_(physics)\">Work (physics)</a>, the work done by, or energy transferred by, a force acting through a distance",
-      "http://www.merriam-webster.com/dictionary/work",
-      "\n<a href=\"http://duckduckgo.com/Wage_labour\">Wage labour</a>, in which a worker sells his labor and an employer buys it",
-      "work definition: activity in which one exerts strength or faculties to do or perform something.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Work_(thermodynamics)\">Work (thermodynamics)</a>, the quantity of total energy transferred from one system to another, not counting energy transferred by heat",
-      "HASH(0x5355c78)",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Working_the_system\">Working the system</a>, using the rules and procedures meant to protect a system, instead to manipulate that system",
-      "\n<a href=\"http://duckduckgo.com/Work_(project_management)\">Work (project management)</a>, the effort applied to produce a deliverable or accomplish a task"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Queensland_prisoners_put_to_work_manufacturing_water_tanks\" title=\"Queensland prisoners put to work manufacturing water tanks\">Queensland prisoners put to <span class=\"searchmatch\">work</span> manufacturing water tanks</a>",
@@ -216,7 +201,22 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Work",
+      "HASH(0x527ef60)",
+      "Wikipedia",
+      "Work",
+      "\n<a href=\"http://duckduckgo.com/Work_(physics)\">Work (physics)</a>, the work done by, or energy transferred by, a force acting through a distance",
+      "http://www.merriam-webster.com/dictionary/work",
+      "\n<a href=\"http://duckduckgo.com/Wage_labour\">Wage labour</a>, in which a worker sells his labor and an employer buys it",
+      "work definition: activity in which one exerts strength or faculties to do or perform something.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Work_(thermodynamics)\">Work (thermodynamics)</a>, the quantity of total energy transferred from one system to another, not counting energy transferred by heat",
+      "HASH(0x5355c78)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Working_the_system\">Working the system</a>, using the rules and procedures meant to protect a system, instead to manipulate that system",
+      "\n<a href=\"http://duckduckgo.com/Work_(project_management)\">Work (project management)</a>, the effort applied to produce a deliverable or accomplish a task"
+   ],
    "micro-www-search" : [
       "workshop\n>http\nhttp://en.m.wikipedia.org/wiki/Workshop\nhttp://en.wikipedia.org/w/index.php?title=Workshop&oldid=539571476\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n\n",
       "works\n>http\nhttp://en.m.wikipedia.org/wiki/Works\nhttp://en.wikipedia.org/w/index.php?title=Works&oldid=541379683\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
@@ -245,7 +245,6 @@
       "Work_(disambiguation)\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n"
    ],
    "created" : 1373460236,
-   "book" : [],
    "micro-www" : {
       "work" : [
          "workshop",
@@ -276,6 +275,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n'Work' may refer to:\n\nManual labour, physical work done by people\n* Wage labour, in which a worker sells his labor and an employer buys it\n* Work (project management), the effort applied to produce a deliverable or\n  accomplish a task\n* Working the system, using the rules and procedures meant to protect a system,\n  instead to manipulate that system\n",

@@ -82,16 +82,8 @@
       "piece",
       "thing"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Small",
-      "HASH(0x4e2ec98)",
-      "Wikipedia",
-      "Small",
-      "http://www.merriam-webster.com/dictionary/small",
-      "small definition: having comparatively little size or slight dimensions.",
-      "Merriam-Webster",
-      "HASH(0x54a8cf0)",
-      "D"
+   "Lists" : [
+      "List_of_people_known_as_the_Small"
    ],
    "common" : {
       "milestones" : [
@@ -121,8 +113,16 @@
          []
       ]
    },
-   "Lists" : [
-      "List_of_people_known_as_the_Small"
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Small",
+      "HASH(0x4e2ec98)",
+      "Wikipedia",
+      "Small",
+      "http://www.merriam-webster.com/dictionary/small",
+      "small definition: having comparatively little size or slight dimensions.",
+      "Merriam-Webster",
+      "HASH(0x54a8cf0)",
+      "D"
    ],
    "micro-www-search" : [
       "smallpox\n>pdf\nhttp://emergency.cdc.gov/agent/smallpox/training/overview/pdf/diseasemgmt.pdf\nhttp://usamriid.detrick.army.mil/education/bluebookpdf/USAMRIID%20Blue%20Book%205th%20Edition.pdf\nhttp://web.archive.org/web/20100409144819http:///www.cdc.gov/vaccines/pubs/pinkbook/downloads/smallpox.pdf\nhttp://whqlibdoc.who.int/smallpox/9241561106.pdf\nhttp://whqlibdoc.who.int/smallpox/9241561106.pdf\nhttp://whqlibdoc.who.int/smallpox/9241561106_chp9.pdf\nhttp://whqlibdoc.who.int/smallpox/WH_5_1980_p22.pdf\nhttp://www.biosafety-info.net/file_dir/413148854af122567.pdf\nhttp://www.bt.cdc.gov/agent/smallpox/training/overview/pdf/eradicationhistory.pdf\nhttp://www.bt.cdc.gov/agent/smallpox/vaccination/pdf/vaccine-overview.pdf\nhttp://www.cdc.gov/vaccines/pubs/pinkbook/downloads/smallpox.pdf\nhttp://www.smallpoxbiosafety.org/papers/WHAvariola2011.pdf\nhttp://www1.szu.cz/svi/cejph/archiv/2010-1-10-full.pdf\nhttp://www1.szu.cz/svi/cejph/archiv/2010-1-11-full.pdf\nhttp://whqlibdoc.who.int/smallpox/9241561106_chp5.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png\n\n",
@@ -148,7 +148,6 @@
       "SMALL"
    ],
    "created" : 1373460432,
-   "book" : [],
    "micro-www" : {
       "small" : [
          "smallpox",
@@ -175,6 +174,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n'Small' may refer to:\n",

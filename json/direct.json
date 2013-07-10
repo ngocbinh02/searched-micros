@@ -64,27 +64,7 @@
       "direct",
       "order"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Direct",
-      "Wikipedia",
-      "\n<a href=\"http://duckduckgo.com/Direct_sum_of_modules\">Direct sum of modules</a>, a construction in abstract algebra which combines several vector spaces",
-      "Direct",
-      "http://www.merriam-webster.com/dictionary/direct",
-      "\n<a href=\"http://duckduckgo.com/Direct_(Vangelis_album)\">Direct (Vangelis album)</a>, 1988 album by Vangelis",
-      "direct definition: '''obsolete''' to write (a letter) to a person.",
-      "\n<a href=\"http://duckduckgo.com/DIRECT\">DIRECT</a>, a proposed space shuttle-derived launch vehicle - DIRECT is a proposed alternative heavy lift launch vehicle architecture supporting NASA's Vision for Space Exploration, which would replace the space agency's planned Ares I and Ares V rockets.",
-      "\n<a href=\"http://duckduckgo.com/Direct_examination\">Direct examination</a>, the in-trial questioning of a witness by the party who has called him or her to testify",
-      "\n<a href=\"http://duckduckgo.com/Mars_Direct\">Mars Direct</a>, a proposal for a manned mission to Mars",
-      "\n<a href=\"http://duckduckgo.com/Direct_current\">Direct current</a>, a direct flow of electricity",
-      "\n<a href=\"http://duckduckgo.com/DirectX\">DirectX</a>, a proprietary dynamic media platform",
-      "HASH(0x5741f28)",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Direct_memory_access\">Direct memory access</a>, access to memory by hardware subsystems independently of the CPU",
-      "HASH(0x5892a20)",
-      "\n<a href=\"http://duckduckgo.com/Direct_(Tower_of_Power_album)\">Direct (Tower of Power album)</a>, 1981",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Direct_(EP)\">Direct (EP)</a>, a 2002 EP by The 77s"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Air_New_Zealand_opens_direct_route_to_Canada\" title=\"Air New Zealand opens direct route to Canada\">Air New Zealand opens <span class=\"searchmatch\">direct</span> route to Canada</a>",
@@ -115,7 +95,27 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Direct",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Direct_sum_of_modules\">Direct sum of modules</a>, a construction in abstract algebra which combines several vector spaces",
+      "Direct",
+      "http://www.merriam-webster.com/dictionary/direct",
+      "\n<a href=\"http://duckduckgo.com/Direct_(Vangelis_album)\">Direct (Vangelis album)</a>, 1988 album by Vangelis",
+      "direct definition: '''obsolete''' to write (a letter) to a person.",
+      "\n<a href=\"http://duckduckgo.com/DIRECT\">DIRECT</a>, a proposed space shuttle-derived launch vehicle - DIRECT is a proposed alternative heavy lift launch vehicle architecture supporting NASA's Vision for Space Exploration, which would replace the space agency's planned Ares I and Ares V rockets.",
+      "\n<a href=\"http://duckduckgo.com/Direct_examination\">Direct examination</a>, the in-trial questioning of a witness by the party who has called him or her to testify",
+      "\n<a href=\"http://duckduckgo.com/Mars_Direct\">Mars Direct</a>, a proposal for a manned mission to Mars",
+      "\n<a href=\"http://duckduckgo.com/Direct_current\">Direct current</a>, a direct flow of electricity",
+      "\n<a href=\"http://duckduckgo.com/DirectX\">DirectX</a>, a proprietary dynamic media platform",
+      "HASH(0x5741f28)",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Direct_memory_access\">Direct memory access</a>, access to memory by hardware subsystems independently of the CPU",
+      "HASH(0x5892a20)",
+      "\n<a href=\"http://duckduckgo.com/Direct_(Tower_of_Power_album)\">Direct (Tower of Power album)</a>, 1981",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Direct_(EP)\">Direct (EP)</a>, a 2002 EP by The 77s"
+   ],
    "micro-www-search" : [
       "director_of_national_intelligence\n>http\nhttp://en.m.wikipedia.org/wiki/Director_of_National_Intelligence\nhttp://en.wikipedia.org/w/index.php?title=Director_of_National_Intelligence&oldid=559397288\n\n>pdf\nhttp://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=108_cong_public_laws&docid=f:publ458.108.pdf\nhttp://www.dni.gov/press_releases/20070105_release.pdf\nhttp://www.dni.gov/press_releases/20070913_release.pdf\nhttp://www.dni.gov/press_releases/20091030_release.pdf\nhttp://www.dni.gov/speeches/20100421_speech.pdf\nhttp://www.gpo.gov/fdsys/pkg/BUDGET-2013-BUD/pdf/BUDGET-2013-BUD-8.pdf\nhttp://www.odni.gov/files/documents/USNI%202013%20Overview_web.pdf\nhttp://www.odni.gov/files/documents/USNI%202013%20Overview_web.pdf\nhttp://www.dni.gov/speeches/20100421_speech.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/4/47/The_Office_of_the_Director_of_National_Intelligence.svg/140px-The_Office_of_the_Director_of_National_Intelligence.svg.png\n\n",
       "directive\n>http\nhttp://en.m.wikipedia.org/wiki/Directive\nhttp://en.wikipedia.org/w/index.php?title=Directive&oldid=540537286\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
@@ -164,7 +164,6 @@
       "DIRECT\n>http\nhttp://en.m.wikipedia.org/wiki/DIRECT\nhttp://en.wikipedia.org/w/index.php?title=DIRECT&oldid=543738913\nhttp://www.directlauncher.org/documents/DIRECT_ISDC2008.pps\nhttp://www.directlauncher.org/documents/DIRECT_Presentation_080703.pps\nhttp://www.launchcomplexmodels.org/Direct/documents/Baseball_Cards/\nhttp://www.launchcomplexmodels.org/Direct/media.htm\nhttp://www.nasaspaceflight.com/2009/05/direct-rebuttal-nasa-analysis-jupiter-launch-vehicle/\n\n>pdf\nhttp://democrats.science.house.gov/Media/File/Reports/Ares1_GAOrep_2007nov29.pdf\nhttp://directlauncher.org/documents/DIRECT_Summary_v2.0.1.pdf\nhttp://www.directlauncher.org/documents/AIAA-2007-6231-LowRes.pdf\nhttp://www.directlauncher.org/documents/DIRECT_Analysis_Rebuttal_Final_090518.pdf\nhttp://www.directlauncher.org/documents/DIRECT_ISDC_2009.pdf\nhttp://www.directlauncher.org/documents/DIRECT_Summary_v2.0.1.pdf\nhttp://www.directlauncher.org/documents/DIRECT_Summary_v2.0.1.pdf\nhttp://www.directlauncher.org/documents/DIRECT_Summary_v2.0.2.pdf\nhttp://www.launchcomplexmodels.org/Direct/documents/Direct-Team-Declares-Success-PR-101310.pdf\nhttp://www.nasa.gov/pdf/256922main_Direct_vs_%20Ares%20_FINAL_62508.pdf\nhttp://www.nasa.gov/pdf/257003main_NASA%20Performance%20Assessment%20of%20(DIRECT%202)%20Compiled.0702.pdf\nhttp://www.nasa.gov/pdf/289914main_fs_altair_lunar_lander.pdf\nhttp://www.nasa.gov/pdf/306407main_orion_crew%20_expl_vehicle.pdf\nhttp://www.nss.org/isdc/ISDC_2009_Program_Agenda_Web.pdf\nhttp://www.ostp.gov/galleries/press_release_files/NASA%20Review.pdf\nhttp://www.launchcomplexmodels.org/Direct/documents/Direct-Team-Declares-Success-PR-101310.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Jupiter_Family.jpg/220px-Jupiter_Family.jpg\n"
    ],
    "created" : 1373460714,
-   "book" : [],
    "micro-www" : {
       "direct" : [
          "director_of_national_intelligence",
@@ -215,6 +214,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Direct' may refer to:\n\n* Direct current, a direct flow of electricity\n* Direct examination, the in-trial questioning of a witness by the party who has\n  called him or her to testify\n* Direct sum of modules, a construction in abstract algebra which combines\n  several vector spaces\n* ''Direct'' (Vangelis album), 1988 album by Vangelis\n* ''Direct'' (EP), a 2002 EP by The 77s\n* ''Direct'' (Tower of Power album), 1981\n* DirectX, a proprietary dynamic media platform\n* Mars Direct, a proposal for a manned mission to Mars\n* DIRECT, a proposed space shuttle-derived launch vehicle\n",

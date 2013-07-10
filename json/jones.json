@@ -43,25 +43,7 @@
       "living_thing",
       "unit"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Jones",
-      "Wikipedia",
-      "\n<a href=\"http://duckduckgo.com/L%26F_Jones\">Jones Convenience Stores</a>, a chain of shops based in Westfield, Somerset",
-      "Jones",
-      "\n<a href=\"http://duckduckgo.com/The_Jones_Sewing_Machine_Co.\">Jones Sewing Machine Company</a>, a UK sewing-machine manufacturer acquired in 1968 by Brother Industries",
-      "\n<a href=\"http://duckduckgo.com/Jones_(Law_%26_Order%3A_Criminal_Intent)\">\"Jones\" (Law & Order: Criminal Intent)</a>, an episode of the TV series Law & Order: Criminal Intent",
-      "\n<a href=\"http://duckduckgo.com/Jones_Bootmaker\">Jones Bootmaker</a>, a UK-based footwear retailer",
-      "American animator and animation director who helped bring to life cartoon characters such as Bugs Bunny and Daffy Duck for Warner Brothers.",
-      "\n<a href=\"http://duckduckgo.com/Jones_Soda\">Jones Soda</a>, a brand of soda pop",
-      "\n<a href=\"http://duckduckgo.com/Generation_Jones\">Generation Jones</a>, the generation of people born between 1954 and 1965",
-      "\n<a href=\"http://duckduckgo.com/Keeping_up_with_the_Joneses\">Keeping up with the Joneses</a> - \"Keeping up with the Joneses\" is an idiom in many parts of the English-speaking world referring to the comparison to one's neighbor as a benchmark for social caste or the accumulation of materia...",
-      "\n<a href=\"http://duckduckgo.com/Jones_(surname)\">Jones (surname)</a>, a common Anglo-Welsh surname",
-      "HASH(0x5052cd0)",
-      "\n<a href=\"http://duckduckgo.com/Jones_calculus\">Jones calculus</a>, a description of polarization in optics",
-      "\n<a href=\"http://duckduckgo.com/Jones_(Animal_Farm)\">Jones (Animal Farm)</a>, a human character in George Orwell's novel Animal Farm",
-      "HASH(0x53f9b88)",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Indiana_Jones_returns_to_the_screens\" title=\"Indiana Jones returns to the screens\">Indiana <span class=\"searchmatch\">Jones</span> returns to the screens</a>",
@@ -90,7 +72,25 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Jones",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/L%26F_Jones\">Jones Convenience Stores</a>, a chain of shops based in Westfield, Somerset",
+      "Jones",
+      "\n<a href=\"http://duckduckgo.com/The_Jones_Sewing_Machine_Co.\">Jones Sewing Machine Company</a>, a UK sewing-machine manufacturer acquired in 1968 by Brother Industries",
+      "\n<a href=\"http://duckduckgo.com/Jones_(Law_%26_Order%3A_Criminal_Intent)\">\"Jones\" (Law & Order: Criminal Intent)</a>, an episode of the TV series Law & Order: Criminal Intent",
+      "\n<a href=\"http://duckduckgo.com/Jones_Bootmaker\">Jones Bootmaker</a>, a UK-based footwear retailer",
+      "American animator and animation director who helped bring to life cartoon characters such as Bugs Bunny and Daffy Duck for Warner Brothers.",
+      "\n<a href=\"http://duckduckgo.com/Jones_Soda\">Jones Soda</a>, a brand of soda pop",
+      "\n<a href=\"http://duckduckgo.com/Generation_Jones\">Generation Jones</a>, the generation of people born between 1954 and 1965",
+      "\n<a href=\"http://duckduckgo.com/Keeping_up_with_the_Joneses\">Keeping up with the Joneses</a> - \"Keeping up with the Joneses\" is an idiom in many parts of the English-speaking world referring to the comparison to one's neighbor as a benchmark for social caste or the accumulation of materia...",
+      "\n<a href=\"http://duckduckgo.com/Jones_(surname)\">Jones (surname)</a>, a common Anglo-Welsh surname",
+      "HASH(0x5052cd0)",
+      "\n<a href=\"http://duckduckgo.com/Jones_calculus\">Jones calculus</a>, a description of polarization in optics",
+      "\n<a href=\"http://duckduckgo.com/Jones_(Animal_Farm)\">Jones (Animal Farm)</a>, a human character in George Orwell's novel Animal Farm",
+      "HASH(0x53f9b88)",
+      "D"
+   ],
    "micro-www-search" : [
       "jones\n>http\nhttp://en.m.wikipedia.org/wiki/Jones\nhttp://en.wikipedia.org/w/index.php?title=Jones&oldid=539712727\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "Jones_calculus\n>http\nhttp://en.m.wikipedia.org/wiki/Jones_calculus\nhttp://en.wikipedia.org/w/index.php?title=Jones_calculus&oldid=540517632\n\n>image\nhttp://upload.wikimedia.org/math/b/f/5/bf5c70a6b0302de61b0659b6d23394c1.png\n\n",
@@ -101,7 +101,6 @@
       "Jones_(Animal_Farm)\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Book-character.svg/27px-Book-character.svg.png\n"
    ],
    "created" : 1373458855,
-   "book" : [],
    "micro-www" : {
       "jones" : [
          "jones",
@@ -114,6 +113,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Jones' may refer to:\n\n* Jones (surname), a common Anglo-Welsh surname\n* Jones calculus, a description of polarization in optics\n* Jones Convenience Stores, a chain of shops based in Westfield, Somerset\n* Jones (''Animal Farm''), a human character in George Orwell's novel\n  Animal Farm\n* , an episode of the TV series Law & Order: Criminal Intent\n* Jones Bootmaker, a UK-based footwear retailer\n* Jones Soda, a brand of soda pop\n* Jones Sewing Machine Company, a UK sewing-machine manufacturer acquired in\n  1968 by Brother Industries\n* Jones, the unit of specific detectivity\n",

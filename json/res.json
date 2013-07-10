@@ -315,6 +315,35 @@
       "physical_entity",
       "portion"
    ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Air_Pacific_re-brands_as_Fiji_Airways\" title=\"Air Pacific re-brands as Fiji Airways\">Air Pacific <span class=\"searchmatch\">re-</span>brands as Fiji Airways</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Senator_Ted_Stevens_loses_re-election_bid_in_Alaska_ballot\" title=\"Senator Ted Stevens loses re-election bid in Alaska ballot\">Senator Ted Stevens loses <span class=\"searchmatch\">re-</span>election bid in Alaska ballot</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ron_Paul_announces_he_will_not_seek_U.S._House_re-election_in_2012;_will_focus_on_presidential_campaign\" title=\"Ron Paul announces he will not seek U.S. House re-election in 2012; will focus on presidential campaign\">Ron Paul announces he will not seek U.S. House <span class=\"searchmatch\">re-</span>election in 2012; will focus on presidential campaign</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Israelis_re-elect_Netanyahu,_centre-left_rises\" title=\"Israelis re-elect Netanyahu, centre-left rises\">Israelis <span class=\"searchmatch\">re-</span>elect Netanyahu, centre-left rises</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/United_States_re-elects_Barack_Obama\" title=\"United States re-elects Barack Obama\">United States <span class=\"searchmatch\">re-</span>elects Barack Obama</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Venezuelan_President_Hugo_Ch%C3%A1vez_re-elected\" title=\"Venezuelan President Hugo Chávez re-elected\">Venezuelan President Hugo Chávez <span class=\"searchmatch\">re-</span>elected</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Colombian_Constitutional_Court_passes_presidential_re-election\" title=\"Colombian Constitutional Court passes presidential re-election\">Colombian Constitutional Court passes presidential <span class=\"searchmatch\">re-</span>election</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Venezuela%27s_Hugo_Chavez_re-elected\" title=\"Venezuela&#39;s Hugo Chavez re-elected\">Venezuela&#39;s Hugo Chavez <span class=\"searchmatch\">re-</span>elected</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Egyptian_president_will_not_seek_re-election_in_September_after_protests\" title=\"Egyptian president will not seek re-election in September after protests\">Egyptian president will not seek <span class=\"searchmatch\">re-</span>election in September after protests</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Lula_re-elected_as_President_of_Brazil\" title=\"Lula re-elected as President of Brazil\">Lula <span class=\"searchmatch\">re-</span>elected as President of Brazil</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Barack_Obama_announces_2012_re-election_bid\" title=\"Barack Obama announces 2012 re-election bid\">Barack Obama announces 2012 <span class=\"searchmatch\">re-</span>election bid</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Missouri_town_re-elects_deceased_mayor\" title=\"Missouri town re-elects deceased mayor\">Missouri town <span class=\"searchmatch\">re-</span>elects deceased mayor</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ray_Nagin_re-elected_New_Orleans_mayor\" title=\"Ray Nagin re-elected New Orleans mayor\">Ray Nagin <span class=\"searchmatch\">re-</span>elected New Orleans mayor</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Alexander_Lukashenko_re-elected_for_the_4th_time_as_President_of_Belarus\" title=\"Alexander Lukashenko re-elected for the 4th time as President of Belarus\">Alexander Lukashenko <span class=\"searchmatch\">re-</span>elected for the 4th time as President of Belarus</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Google_re-opens_online_word_processor_service\" title=\"Google re-opens online word processor service\">Google <span class=\"searchmatch\">re-</span>opens online word processor service</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Alaska_GOP_calls_for_Begich_resignation_for_Senate_revote\" title=\"Alaska GOP calls for Begich resignation for Senate revote\">Alaska GOP calls for Begich resignation for Senate revote</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Activist_ejected_from_Virginia_senator%E2%80%99s_re-election_rally\" title=\"Activist ejected from Virginia senator’s re-election rally\">Activist ejected from Virginia senator’s <span class=\"searchmatch\">re-</span>election rally</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Van_der_Sloot_not_re-arrested_in_Holloway_case\" title=\"Van der Sloot not re-arrested in Holloway case\">Van der Sloot not <span class=\"searchmatch\">re-</span>arrested in Holloway case</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Conservatives_in_Alberta,_Canada_re-elected_11th_consecutive_time\" title=\"Conservatives in Alberta, Canada re-elected 11th consecutive time\">Conservatives in Alberta, Canada <span class=\"searchmatch\">re-</span>elected 11th consecutive time</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/McGuinty_wins_re-election_in_2007_Ontario_General_Election\" title=\"McGuinty wins re-election in 2007 Ontario General Election\">McGuinty wins <span class=\"searchmatch\">re-</span>election in 2007 Ontario General Election</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
    "duck" : [
       "https://en.wikipedia.org/wiki/Res",
       "Res",
@@ -352,35 +381,6 @@
       "\n<a href=\"http://duckduckgo.com/Res_nullius\">Res nullius</a> (An unowned thing)",
       "\n<a href=\"http://duckduckgo.com/De_rerum_natura\">De rerum natura</a>, a poem by the Roman poet and philosopher Lucretius"
    ],
-   "common" : {
-      "milestones" : [
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Air_Pacific_re-brands_as_Fiji_Airways\" title=\"Air Pacific re-brands as Fiji Airways\">Air Pacific <span class=\"searchmatch\">re-</span>brands as Fiji Airways</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Senator_Ted_Stevens_loses_re-election_bid_in_Alaska_ballot\" title=\"Senator Ted Stevens loses re-election bid in Alaska ballot\">Senator Ted Stevens loses <span class=\"searchmatch\">re-</span>election bid in Alaska ballot</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ron_Paul_announces_he_will_not_seek_U.S._House_re-election_in_2012;_will_focus_on_presidential_campaign\" title=\"Ron Paul announces he will not seek U.S. House re-election in 2012; will focus on presidential campaign\">Ron Paul announces he will not seek U.S. House <span class=\"searchmatch\">re-</span>election in 2012; will focus on presidential campaign</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Israelis_re-elect_Netanyahu,_centre-left_rises\" title=\"Israelis re-elect Netanyahu, centre-left rises\">Israelis <span class=\"searchmatch\">re-</span>elect Netanyahu, centre-left rises</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/United_States_re-elects_Barack_Obama\" title=\"United States re-elects Barack Obama\">United States <span class=\"searchmatch\">re-</span>elects Barack Obama</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Venezuelan_President_Hugo_Ch%C3%A1vez_re-elected\" title=\"Venezuelan President Hugo Chávez re-elected\">Venezuelan President Hugo Chávez <span class=\"searchmatch\">re-</span>elected</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Colombian_Constitutional_Court_passes_presidential_re-election\" title=\"Colombian Constitutional Court passes presidential re-election\">Colombian Constitutional Court passes presidential <span class=\"searchmatch\">re-</span>election</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Venezuela%27s_Hugo_Chavez_re-elected\" title=\"Venezuela&#39;s Hugo Chavez re-elected\">Venezuela&#39;s Hugo Chavez <span class=\"searchmatch\">re-</span>elected</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Egyptian_president_will_not_seek_re-election_in_September_after_protests\" title=\"Egyptian president will not seek re-election in September after protests\">Egyptian president will not seek <span class=\"searchmatch\">re-</span>election in September after protests</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Lula_re-elected_as_President_of_Brazil\" title=\"Lula re-elected as President of Brazil\">Lula <span class=\"searchmatch\">re-</span>elected as President of Brazil</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Barack_Obama_announces_2012_re-election_bid\" title=\"Barack Obama announces 2012 re-election bid\">Barack Obama announces 2012 <span class=\"searchmatch\">re-</span>election bid</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Missouri_town_re-elects_deceased_mayor\" title=\"Missouri town re-elects deceased mayor\">Missouri town <span class=\"searchmatch\">re-</span>elects deceased mayor</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ray_Nagin_re-elected_New_Orleans_mayor\" title=\"Ray Nagin re-elected New Orleans mayor\">Ray Nagin <span class=\"searchmatch\">re-</span>elected New Orleans mayor</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Alexander_Lukashenko_re-elected_for_the_4th_time_as_President_of_Belarus\" title=\"Alexander Lukashenko re-elected for the 4th time as President of Belarus\">Alexander Lukashenko <span class=\"searchmatch\">re-</span>elected for the 4th time as President of Belarus</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Google_re-opens_online_word_processor_service\" title=\"Google re-opens online word processor service\">Google <span class=\"searchmatch\">re-</span>opens online word processor service</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Alaska_GOP_calls_for_Begich_resignation_for_Senate_revote\" title=\"Alaska GOP calls for Begich resignation for Senate revote\">Alaska GOP calls for Begich resignation for Senate revote</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Activist_ejected_from_Virginia_senator%E2%80%99s_re-election_rally\" title=\"Activist ejected from Virginia senator’s re-election rally\">Activist ejected from Virginia senator’s <span class=\"searchmatch\">re-</span>election rally</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Van_der_Sloot_not_re-arrested_in_Holloway_case\" title=\"Van der Sloot not re-arrested in Holloway case\">Van der Sloot not <span class=\"searchmatch\">re-</span>arrested in Holloway case</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Conservatives_in_Alberta,_Canada_re-elected_11th_consecutive_time\" title=\"Conservatives in Alberta, Canada re-elected 11th consecutive time\">Conservatives in Alberta, Canada <span class=\"searchmatch\">re-</span>elected 11th consecutive time</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/McGuinty_wins_re-election_in_2007_Ontario_General_Election\" title=\"McGuinty wins re-election in 2007 Ontario General Election\">McGuinty wins <span class=\"searchmatch\">re-</span>election in 2007 Ontario General Election</a>"
-      ],
-      "image" : [
-         [],
-         []
-      ]
-   },
-   "Lists" : [],
    "micro-www-search" : [
       "results\n>http\nhttp://en.m.wikipedia.org/wiki/Results\nhttp://en.wikipedia.org/w/index.php?title=Results&oldid=525689902\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n\n",
       "resultant\n>http\nhttp://en.m.wikipedia.org/wiki/Resultant\nhttp://en.wikipedia.org/w/index.php?title=Resultant&oldid=543415691\nhttp://mathworld.wolfram.com/Resultant.html\n\n>image\nhttp://upload.wikimedia.org/math/4/4/4/44428a50ff96e235e450e33519d15cae.png\n\n",
@@ -525,7 +525,6 @@
       "RESFest\n>http\nhttp://en.m.wikipedia.org/wiki/RESFest\nhttp://en.wikipedia.org/w/index.php?title=RESFest&oldid=538058932\nhttp://www.res.com\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/1/10/United_States_film.svg/30px-United_States_film.svg.png\n"
    ],
    "created" : 1373457361,
-   "book" : [],
    "micro-www" : {
       "res" : [
          "results",
@@ -672,6 +671,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Res' or 'RES' may refer to:\n* Resistencia International Airport (IATA airport code: 'RES')\n* RES (magazine), a bimonthly media lifestyle magazine ** RESFest, a digital\n  short film festival run by the magazine\n* RES (Currency)\n* Review of Economic Studies\n* Russian and Eurasian Security Network\n* Res (singer), a soul/indie pop/experimental rock singer\n* RES - The School for Renewable Energy Science\n* Renewable Electricity Standard, a legal requirement for a system of\n  regulated utilities to derive a minimum fraction of electric power from\n  renewable sources\n* Renewable Energy Sources, ways to produce power that deplete extremely slowly\n  (such as sunlight)\n* Renewable Energy Systems, a UK-based renewable energy company\n* The Reticuloendothelial system, part of the immune system\n* An abbreviation of Electrical resonance used in conjunction with Sound\n  synthesis\n* Randomized Exchange Sort (or bogosort), an extremely inefficient sorting\n  algorithm that is not guaranteed to terminate\n* Railway Enthusiasts Society, a railway society in New Zealand\n* Rail Express Systems, the mail sector of British Rail up to privatisation\n* Spanish Supercomputing Network (Spanish: Red Espa�ola de Supercomputaci�n)\n* Red-eared slider, a species of aquatic turtle commonly kept as a pet\n* res, a predefined intranetwork protocol that is used for internal database\n  request. (other predfined protocol include: mailto)\n\n'Res' is also a very common Latin word meaning \"thing\", and as such is the first\nword of several Latin phrases:\n* [[Res divina]] (service of the gods)\n* [[Res Extensa]] Descartes' physical world\n* [[Res gestae]] (Things done)\n* [[Res inter alios acta]] (A thing done between others)\n* [[Res ipsa loquitur]] (The thing speaks for itself)\n* [[Res judicata]] (A matter [already] judged)\n* [[Res nullius]] (An unowned thing)\n* [[Res publica]] (A public thing), the origin of the word republic\n* [[List of Latin phrases: A#ad rem|Ad rem]] (to the matter)\n* [[De rerum natura]], a poem by the Roman poet and philosopher Lucretius\n* [[List of Latin phrases: A#ubi re vera|Ubi re vera]] whereas, in reality...\n",

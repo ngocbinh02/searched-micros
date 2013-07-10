@@ -1,11 +1,4 @@
 {
-   "google" : [
-      "/url?q=https://en.wikipedia.org/wiki/Go_(game)&sa=U&ei=6n3YUaqCFMjMswbOk4F4&ved=0CBgQFjAA&usg=AFQjCNFRQmENNnJudEnT_MHElOHgF3-asA",
-      "/url?q=http://www.gotransit.com/&sa=U&ei=6n3YUaqCFMjMswbOk4F4&ved=0CCAQFjAB&usg=AFQjCNFErWG7DDqo8MSXL6XsCpEIA_yF8Q",
-      "/url?q=http://go.com/&sa=U&ei=6n3YUaqCFMjMswbOk4F4&ved=0CCQQFjAC&usg=AFQjCNHhgq3z9Q3m2gvkDP7psffs7vDQ_w",
-      "/url?q=http://golang.org/&sa=U&ei=6n3YUaqCFMjMswbOk4F4&ved=0CCgQFjAD&usg=AFQjCNGASuzEQVPYW5_xITIIuZk9t30K7Q",
-      "/url?q=http://go.ninemsn.com/&sa=U&ei=6n3YUaqCFMjMswbOk4F4&ved=0CCwQFjAE&usg=AFQjCNHo8qGykxckOMProk1kyzKm1vqgdw"
-   ],
    "micrownet" : [
       "get_going",
       "go",
@@ -724,6 +717,13 @@
       "let_it_go",
       "on_the_go",
       "sentry_go"
+   ],
+   "google" : [
+      "/url?q=https://en.wikipedia.org/wiki/Go_(game)&sa=U&ei=6n3YUaqCFMjMswbOk4F4&ved=0CBgQFjAA&usg=AFQjCNFRQmENNnJudEnT_MHElOHgF3-asA",
+      "/url?q=http://www.gotransit.com/&sa=U&ei=6n3YUaqCFMjMswbOk4F4&ved=0CCAQFjAB&usg=AFQjCNFErWG7DDqo8MSXL6XsCpEIA_yF8Q",
+      "/url?q=http://go.com/&sa=U&ei=6n3YUaqCFMjMswbOk4F4&ved=0CCQQFjAC&usg=AFQjCNHhgq3z9Q3m2gvkDP7psffs7vDQ_w",
+      "/url?q=http://golang.org/&sa=U&ei=6n3YUaqCFMjMswbOk4F4&ved=0CCgQFjAD&usg=AFQjCNGASuzEQVPYW5_xITIIuZk9t30K7Q",
+      "/url?q=http://go.ninemsn.com/&sa=U&ei=6n3YUaqCFMjMswbOk4F4&ved=0CCwQFjAE&usg=AFQjCNHo8qGykxckOMProk1kyzKm1vqgdw"
    ],
    "duckduckgo" : {
       "urls" : [

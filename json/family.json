@@ -1470,20 +1470,7 @@
       "social_unit",
       "organization"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Family_(TV_series)\">Family (TV series)</a>, a 1976-80 drama series",
-      "https://en.wikipedia.org/wiki/Family_(disambiguation)",
-      "HASH(0x50323d0)",
-      "Wikipedia",
-      "Family",
-      "http://www.merriam-webster.com/dictionary/family",
-      "family definition: a group of individuals living under one roof and usually under one head.",
-      "Merriam-Webster",
-      "HASH(0x5054610)",
-      "\n<a href=\"http://duckduckgo.com/Family_Radio\">Family Radio</a>, a non-commercial traditional religious broadcasting network in the United States",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Family\">Family</a> - In human context, a family (from familia) is a group of people affiliated by consanguinity, affinity, or co-residence."
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ontario_Votes_2007:_Interview_with_Family_Coalition_Party_candidate_Carita_Murphy-Marketos,_Sudbury\" title=\"Ontario Votes 2007: Interview with Family Coalition Party candidate Carita Murphy-Marketos, Sudbury\">Ontario Votes 2007: Interview with <span class=\"searchmatch\">Family</span> Coalition Party candidate Carita Murphy-Marketos, Sudbury</a>",
@@ -1513,7 +1500,20 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Family_(TV_series)\">Family (TV series)</a>, a 1976-80 drama series",
+      "https://en.wikipedia.org/wiki/Family_(disambiguation)",
+      "HASH(0x50323d0)",
+      "Wikipedia",
+      "Family",
+      "http://www.merriam-webster.com/dictionary/family",
+      "family definition: a group of individuals living under one roof and usually under one head.",
+      "Merriam-Webster",
+      "HASH(0x5054610)",
+      "\n<a href=\"http://duckduckgo.com/Family_Radio\">Family Radio</a>, a non-commercial traditional religious broadcasting network in the United States",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Family\">Family</a> - In human context, a family (from familia) is a group of people affiliated by consanguinity, affinity, or co-residence."
+   ],
    "micro-www-search" : [
       "family_secret\n>http\nhttp://en.wikipedia.org/w/index.php?title=Family_secret&oldid=559722279\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Psi2.svg/30px-Psi2.svg.png\n\n",
       "family_practice\n>http\nhttp://en.m.wikipedia.org/wiki/Family_medicine\nhttp://en.wikipedia.org/w/index.php?title=Family_medicine&oldid=556470257\nhttp://fmignet.aafp.org/online/fmig/index/family-medicine/practice-options.html\nhttp://www.globalfamilydoctor.com/aboutWonca/aboutwonca.asp?refurl=aw\nhttp://www.payscale.com/research/US/Industry=Family_Medicine/Salary\n\n>pdf\nhttp://www.gao.gov/new.items/d08472t.pdf\nhttp://www.imacgpindia.org/pdf/DFM_Brochure1.pdf\nhttp://www.imampstate.com/publications/News_from_CGP_HQ.pdf\nhttp://www.imampstate.com/publications/News_from_CGP_HQ.pdf\nhttp://www.jabfm.com/content/15/1/77.full.pdf\nhttp://www.stfm.org/fmhub/fm2007/October/Sunil671.pdf\nhttp://www.jabfm.com/content/15/1/77.full.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/48px-Ambox_globe_content.svg.png\n\n",
@@ -1530,7 +1530,6 @@
       "Family\n>pdf\nhttp://seres.fcs.ucr.ac.cr/index_archivos/Version%20inglesa%20Historical%20CharacterRev.pdf\nhttp://www.glad.org/uploads/docs/cases/gill-v-office-of-personnel-management/2009-11-17-doma-aff-lamb.pdf\nhttp://www.bls.gov/opub/mlr/1981/09/art4full.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/3/35/ValentinianIIIfamily.jpg/220px-ValentinianIIIfamily.jpg\n"
    ],
    "created" : 1373458636,
-   "book" : [],
    "micro-www" : {
       "family" : [
          "family_secret",
@@ -1549,6 +1548,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Family|"

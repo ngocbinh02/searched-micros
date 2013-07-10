@@ -62,7 +62,19 @@
       "computing_system",
       "exhaust"
    ],
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/System_(disambiguation)",
+      "\n<a href=\"http://duckduckgo.com/Meta-system\">Meta-system</a>, something composed of multiple smaller systems",
+      "HASH(0x50fe688)",
+      "Wikipedia",
+      "System",
+      "http://www.merriam-webster.com/dictionary/system",
+      "system definition: a regularly interacting or interdependent group of items forming a unified whole.",
+      "Merriam-Webster",
+      "HASH(0x4f4ed78)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/System\">System</a>, a set of entities, real or abstract, comprising a whole"
+   ],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Israel_to_install_missile_defense_systems_on_airliners\" title=\"Israel to install missile defense systems on airliners\">Israel to install missile defense <span class=\"searchmatch\">systems</span> on airliners</a>",
@@ -92,19 +104,7 @@
          []
       ]
    },
-   "duck" : [
-      "https://en.wikipedia.org/wiki/System_(disambiguation)",
-      "\n<a href=\"http://duckduckgo.com/Meta-system\">Meta-system</a>, something composed of multiple smaller systems",
-      "HASH(0x50fe688)",
-      "Wikipedia",
-      "System",
-      "http://www.merriam-webster.com/dictionary/system",
-      "system definition: a regularly interacting or interdependent group of items forming a unified whole.",
-      "Merriam-Webster",
-      "HASH(0x4f4ed78)",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/System\">System</a>, a set of entities, real or abstract, comprising a whole"
-   ],
+   "Lists" : [],
    "micro-www-search" : [
       "systems_of_polynomial_equations\n>image\nhttp://upload.wikimedia.org/math/7/1/9/7194bf90b521f02d3a96b0fe7c80f6ed.png\n\n",
       "systems\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/System_boundary.svg/250px-System_boundary.svg.png\n\n",
@@ -125,6 +125,7 @@
       "Systems\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/System_boundary.svg/250px-System_boundary.svg.png\n"
    ],
    "created" : 1373458340,
+   "book" : [],
    "micro-www" : {
       "systems" : [
          "systems_of_polynomial_equations",
@@ -147,7 +148,6 @@
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [
          "Cybernetics",

@@ -1,7 +1,4 @@
 {
-   "micrownet" : [
-      "agrology"
-   ],
    "google" : [
       "/url?q=http://en.wikipedia.org/wiki/Agrology&sa=U&ei=eVTYUd6HLMGEtAbLwYDIAQ&ved=0CBgQFjAA&usg=AFQjCNGBcnfxUSAgfNefhm6VK1fRc91ZnQ",
       "/url?q=http://www.albertaagrologists.ca/&sa=U&ei=eVTYUd6HLMGEtAbLwYDIAQ&ved=0CCEQFjAB&usg=AFQjCNEYQXrxO9GFEL9v_8YG074kfW3IYg",
@@ -26,6 +23,9 @@
       "/url?q=http://web2.gov.mb.ca/laws/statutes/ccsm/a050e.php&sa=U&ei=eVTYUd6HLMGEtAbLwYDIAQ&ved=0CGoQFjAU&usg=AFQjCNGr5TKVjG_WpgitkTvL1QD38rp2xg",
       "/url?q=http://www.immigratemanitoba.com/working-in-manitoba/profession/agrologist-technical/&sa=U&ei=eVTYUd6HLMGEtAbLwYDIAQ&ved=0CG4QFjAV&usg=AFQjCNHwXeeaUjHeaoZyVFuDrd9RXjAXWQ",
       "/url?q=http://www.gov.pe.ca/law/statutes/pdf/a-10.pdf&sa=U&ei=eVTYUd6HLMGEtAbLwYDIAQ&ved=0CHEQFjAW&usg=AFQjCNE1vri2GRBfUUacBMvV9K9_HHxVoA"
+   ],
+   "micrownet" : [
+      "agrology"
    ],
    "duckduckgo" : {
       "urls" : [

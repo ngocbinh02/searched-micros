@@ -39,18 +39,8 @@
       "group",
       "genus"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Chen-style_t'ai_chi_ch'uan\">Chen-style t'ai chi ch'uan</a>, the well known Chinese martial art created by the Chen family",
-      "https://en.wikipedia.org/wiki/Chen",
-      "\n<a href=\"http://duckduckgo.com/Chen_(singer)\">Chen (singer)</a>, a member of the Chinese-South Korean boy band EXO",
-      "HASH(0x5113d50)",
-      "Wikipedia",
-      "Chen",
-      "\n<a href=\"http://duckduckgo.com/Chen_Dynasty\">Chen Dynasty</a>, dynasty in Chinese history",
-      "HASH(0x5082270)",
-      "\n<a href=\"http://duckduckgo.com/Chen_(state)\">Chen (state)</a> during the Zhou Dynasty, which is now part of present-day Anhui and Henan",
-      "\n<a href=\"http://duckduckgo.com/Chen_(genus)\">Chen (genus)</a>, a genus of geese which is sometimes included in Anser",
-      "D"
+   "Lists" : [
+      "List_of_Touhou_Project_characters#Chen"
    ],
    "common" : {
       "milestones" : [
@@ -80,17 +70,27 @@
          []
       ]
    },
-   "Lists" : [
-      "List_of_Touhou_Project_characters#Chen"
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Chen-style_t'ai_chi_ch'uan\">Chen-style t'ai chi ch'uan</a>, the well known Chinese martial art created by the Chen family",
+      "https://en.wikipedia.org/wiki/Chen",
+      "\n<a href=\"http://duckduckgo.com/Chen_(singer)\">Chen (singer)</a>, a member of the Chinese-South Korean boy band EXO",
+      "HASH(0x5113d50)",
+      "Wikipedia",
+      "Chen",
+      "\n<a href=\"http://duckduckgo.com/Chen_Dynasty\">Chen Dynasty</a>, dynasty in Chinese history",
+      "HASH(0x5082270)",
+      "\n<a href=\"http://duckduckgo.com/Chen_(state)\">Chen (state)</a> during the Zhou Dynasty, which is now part of present-day Anhui and Henan",
+      "\n<a href=\"http://duckduckgo.com/Chen_(genus)\">Chen (genus)</a>, a genus of geese which is sometimes included in Anser",
+      "D"
    ],
    "micro-www-search" : [],
    "created" : 1373458563,
-   "book" : [],
    "micro-www" : {
       "chen" : [
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n'Chen' is a Chinese surname (陳), and also a Hebrew word (\"חֵן\") meaning\n\"loveliness\", or \"grace\", which is also a common given name and surname. See\nChen (surname).\n\n'Chen' can also refer to: *Chen Dynasty, dynasty in Chinese history *Chen\n(state) during the Zhou Dynasty, which is now part of present-day Anhui and\nHenan *Chen Bridge Mutiny, a mythical story about a military uprising that led\nto the establishment of the Song Dynasty *Chen-style t'ai chi ch'uan, the well\nknown Chinese martial art created by the Chen family *[[Chen (genus)]], a genus\nof geese which is sometimes included in Anser *Chen's notation, a graphical entity-\nrelationship model devised by Peter Chen *Chen, a character from the Touhou\nProject video game series *Chen (singer), a member of the Chinese-South Korean\nboy band EXO\n* Chen, acronym in Hebrew for the Women's Army Corp, a defunct organization in\n  the Israeli Defence Force\n",

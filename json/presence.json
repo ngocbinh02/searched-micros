@@ -27,18 +27,7 @@
       "ubiquitousness",
       "attribute"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Presence_(album)\">Presence (album)</a>, a 1976 album by Led Zeppelin",
-      "https://en.wikipedia.org/wiki/Presence",
-      "HASH(0x4c50698)",
-      "Wikipedia",
-      "Presence",
-      "http://www.merriam-webster.com/dictionary/presence",
-      "presence definition: the fact or condition of being present.",
-      "Merriam-Webster",
-      "HASH(0x50fc938)",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NATO_to_expand_Afghanistan_presence\" title=\"NATO to expand Afghanistan presence\">NATO to expand Afghanistan <span class=\"searchmatch\">presence</span></a>",
@@ -67,7 +56,18 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Presence_(album)\">Presence (album)</a>, a 1976 album by Led Zeppelin",
+      "https://en.wikipedia.org/wiki/Presence",
+      "HASH(0x4c50698)",
+      "Wikipedia",
+      "Presence",
+      "http://www.merriam-webster.com/dictionary/presence",
+      "presence definition: the fact or condition of being present.",
+      "Merriam-Webster",
+      "HASH(0x50fc938)",
+      "D"
+   ],
    "micro-www-search" : [
       "presence\n>http\nhttp://en.m.wikipedia.org/wiki/Presence\nhttp://en.wikipedia.org/w/index.php?title=Presence&oldid=529841261\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "Presence_service\n",
@@ -80,7 +80,6 @@
       "Presence_(DC_Comics)\n>http\nhttp://en.m.wikipedia.org/wiki/Presence_(DC_Comics)\nhttp://en.wikipedia.org/w/index.php?title=Presence_(DC_Comics)&oldid=542466459\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Presence.png/250px-Presence.png\n"
    ],
    "created" : 1373459401,
-   "book" : [],
    "micro-www" : {
       "presence" : [
          "presence",
@@ -95,6 +94,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Presence' may refer to:\n",

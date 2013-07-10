@@ -77,20 +77,7 @@
       "plaything",
       "fixture"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Artifact_(software_development)\">Artifact (software development)</a>, one of many kinds of tangible byproducts produced during the development of software",
-      "https://en.wikipedia.org/wiki/Artifact",
-      "\n<a href=\"http://duckduckgo.com/Artifact_(archaeology)\">Artifact (archaeology)</a>, an object formed by humans, particularly one of interest to archaeologists",
-      "HASH(0x5c8a550)",
-      "Wikipedia",
-      "Artifact",
-      "http://www.merriam-webster.com/dictionary/artifact",
-      "\n<a href=\"http://duckduckgo.com/Compression_artifact\">Compression artifact</a>, when the data compression of an image, audio, or video is too complex, resulting in a loss of clarity",
-      "artifact definition: something created by humans usually for a practical purpose; '''especially'''.",
-      "Merriam-Webster",
-      "HASH(0x5d6bd98)",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Peruvian_necklace_identified_as_oldest_gold_artifact_in_the_Americas\" title=\"Peruvian necklace identified as oldest gold artifact in the Americas\">Peruvian necklace identified as oldest gold <span class=\"searchmatch\">artifact</span> in the Americas</a>",
@@ -117,13 +104,25 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Artifact_(software_development)\">Artifact (software development)</a>, one of many kinds of tangible byproducts produced during the development of software",
+      "https://en.wikipedia.org/wiki/Artifact",
+      "\n<a href=\"http://duckduckgo.com/Artifact_(archaeology)\">Artifact (archaeology)</a>, an object formed by humans, particularly one of interest to archaeologists",
+      "HASH(0x5c8a550)",
+      "Wikipedia",
+      "Artifact",
+      "http://www.merriam-webster.com/dictionary/artifact",
+      "\n<a href=\"http://duckduckgo.com/Compression_artifact\">Compression artifact</a>, when the data compression of an image, audio, or video is too complex, resulting in a loss of clarity",
+      "artifact definition: something created by humans usually for a practical purpose; '''especially'''.",
+      "Merriam-Webster",
+      "HASH(0x5d6bd98)",
+      "D"
+   ],
    "micro-www-search" : [
       "Artifact_(fantasy)\n>image\nhttp://upload.wikimedia.org/wikipedia/en/f/f4/Ambox_content.png\n\n",
       "Artifact_(archaeology)\n>http\nhttp://en.m.wikipedia.org/wiki/Artifact_(archaeology)\nhttp://en.wikipedia.org/w/index.php?title=Artifact_(archaeology)&oldid=558300164\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Mycenaean_stirrup_vase_Louvre_AO19201.jpg/200px-Mycenaean_stirrup_vase_Louvre_AO19201.jpg\n"
    ],
    "created" : 1373455171,
-   "book" : [],
    "micro-www" : {
       "artifact" : [
          "Artifact_(fantasy)",
@@ -131,6 +130,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n'Artifact(s)', or 'artefact(s)', may refer to:\n",

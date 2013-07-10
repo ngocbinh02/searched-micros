@@ -23,21 +23,7 @@
       "rule",
       "ordinance"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Regulation_(disambiguation)",
-      "HASH(0x4f69380)",
-      "Wikipedia",
-      "Regulation",
-      "\n<a href=\"http://duckduckgo.com/Regulation\">Regulation</a> of the polity, economy and society",
-      "http://www.merriam-webster.com/dictionary/regulation",
-      "regulation definition: the act of regulating.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Regulation_(magazine)\">Regulation (magazine)</a>, a magazine published by the Cato Institute",
-      "\n<a href=\"http://duckduckgo.com/Regulation_(European_Union)\">Regulation (European Union)</a>, a legislative instrument of the European Community",
-      "HASH(0x4f69a28)",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Regulation_of_gene_expression\">Regulation of gene expression</a>, the biological process where genes are selectively expressed"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hong_Kong%27s_only_railway_company_modifies_regulations\" title=\"Hong Kong&#39;s only railway company modifies regulations\">Hong Kong&#39;s only railway company modifies <span class=\"searchmatch\">regulations</span></a>",
@@ -66,7 +52,21 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Regulation_(disambiguation)",
+      "HASH(0x4f69380)",
+      "Wikipedia",
+      "Regulation",
+      "\n<a href=\"http://duckduckgo.com/Regulation\">Regulation</a> of the polity, economy and society",
+      "http://www.merriam-webster.com/dictionary/regulation",
+      "regulation definition: the act of regulating.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Regulation_(magazine)\">Regulation (magazine)</a>, a magazine published by the Cato Institute",
+      "\n<a href=\"http://duckduckgo.com/Regulation_(European_Union)\">Regulation (European Union)</a>, a legislative instrument of the European Community",
+      "HASH(0x4f69a28)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Regulation_of_gene_expression\">Regulation of gene expression</a>, the biological process where genes are selectively expressed"
+   ],
    "micro-www-search" : [
       "regulations\n>http\nhttp://en.m.wikipedia.org/wiki/Regulation\nhttp://en.wikipedia.org/w/index.php?title=Regulation&oldid=543674410\nhttp://legal.practitioner.com/regulation/\nhttp://www.businesslink.gov.uk/regulationupdates\nhttp://www.law.upenn.edu/academics/institutes/regulation\nhttp://www.regulation.upf.edu/\nhttp://www.regulationbodyofknowledge.org\nhttp://www.technology-essays.com/essays/ict_regulation_markets.htm\nhttp://www.tobinproject.org/books-papers/new-perspectives-regulation\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n\n",
       "regulation\n>http\nhttp://en.wikipedia.org/w/index.php?title=Regulation&oldid=558890442\nhttp://legal.practitioner.com/regulation/\nhttp://www.businesslink.gov.uk/regulationupdates\nhttp://www.law.upenn.edu/academics/institutes/regulation\nhttp://www.regulation.upf.edu/\nhttp://www.regulationbodyofknowledge.org\nhttp://www.technology-essays.com/essays/ict_regulation_markets.htm\nhttp://www.tobinproject.org/books-papers/new-perspectives-regulation\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n\n",
@@ -75,7 +75,6 @@
       "Regulation\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n"
    ],
    "created" : 1373458771,
-   "book" : [],
    "micro-www" : {
       "regulation" : [
          "regulations",
@@ -86,6 +85,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Regulation|",

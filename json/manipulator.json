@@ -1,0 +1,85 @@
+{
+   "micrownet" : [
+      "manipulator"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Space_Shuttle_Endeavour_launches_for_mission_STS-123\" title=\"Space Shuttle Endeavour launches for mission STS-123\">Space Shuttle Endeavour launches for mission STS-123</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Author_Amy_Scobee_recounts_abuse_as_Scientology_executive\" title=\"Author Amy Scobee recounts abuse as Scientology executive\">Author Amy Scobee recounts abuse as Scientology executive</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Obama,_Romney_battle_over_foreign_policy_in_final_U.S._presidential_debate\" title=\"Obama, Romney battle over foreign policy in final U.S. presidential debate\">Obama, Romney battle over foreign policy in final U.S. presidential debate</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Third_former_Williams_trader_admits_manipulating_natural_gas_prices\" title=\"Third former Williams trader admits manipulating natural gas prices\">Third former Williams trader admits manipulating natural gas prices</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/AP_Probe_suggests_Bolton_manipulated_Iraq_inspections_to_favor_War\" title=\"AP Probe suggests Bolton manipulated Iraq inspections to favor War\">AP Probe suggests Bolton manipulated Iraq inspections to favor War</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Obama%27s_choice_for_Treasury_issues_warning_on_China\" title=\"Obama&#39;s choice for Treasury issues warning on China\">Obama&#39;s choice for Treasury issues warning on China</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Documentary_suggests_nuns_were_excommunicated_for_exposing_paedophilic_priest\" title=\"Documentary suggests nuns were excommunicated for exposing paedophilic priest\">Documentary suggests nuns were excommunicated for exposing paedophilic priest</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Idaho_meterologist_promotes_Hurricane_Katrina_conspiracy_theory\" title=\"Idaho meterologist promotes Hurricane Katrina conspiracy theory\">Idaho meterologist promotes Hurricane Katrina conspiracy theory</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Senator_Xenophon_of_Australia_calls_for_criminal_investigation_into_Scientology\" title=\"Senator Xenophon of Australia calls for criminal investigation into Scientology\">Senator Xenophon of Australia calls for criminal investigation into Scientology</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Leaked_Syrian_government_emails_indicate_weapons_supplied_to_Hamas\" title=\"Leaked Syrian government emails indicate weapons supplied to Hamas\">Leaked Syrian government emails indicate weapons supplied to Hamas</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Archbishop_says_abortion_and_euthanasia_are_%27terrorism_with_a_human_face%27\" title=\"Archbishop says abortion and euthanasia are &#39;terrorism with a human face&#39;\">Archbishop says abortion and euthanasia are &#39;terrorism with a human face&#39;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/China_enters_UN_human_rights_council\" title=\"China enters UN human rights council\">China enters UN human rights council</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_officials_flood_Grand_Canyon_to_restore_ecosystem\" title=\"US officials flood Grand Canyon to restore ecosystem\">US officials flood Grand Canyon to restore ecosystem</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Greek_minister%27s_statement_causes_political_tension\" title=\"Greek minister&#39;s statement causes political tension\">Greek minister&#39;s statement causes political tension</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Anti-poverty_charity_Oxfam_criticises_UK_media_portrayal_of_Africa\" title=\"Anti-poverty charity Oxfam criticises UK media portrayal of Africa\">Anti-poverty charity Oxfam criticises UK media portrayal of Africa</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:August_3,_2010\" title=\"News briefs:August 3, 2010\">News briefs:August 3, 2010</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "In robotics a manipulator is a device used to manipulate materials without direct contact.",
+      "https://en.wikipedia.org/wiki/Manipulator",
+      "HASH(0x4d21188)",
+      "Wikipedia",
+      "Manipulator",
+      "http://www.merriam-webster.com/dictionary/manipulator",
+      "manipulator definition: to treat or operate with or as if with the hands or by mechanical means especially in a skillful manner.",
+      "Merriam-Webster",
+      "https://i.duckduckgo.com/i/4b921b95.jpg",
+      "HASH(0x4ee3418)",
+      "\n<a href=\"http://duckduckgo.com/industrial_robot\">Industrial robots</a> - An industrial robot is defined by ISO as an automatically controlled, reprogrammable, multipurpose manipulator programmable in three or more axes.",
+      "\n<a href=\"http://duckduckgo.com/Robotic_arm\">Robotic arm</a> - A robotic arm is a type of mechanical arm, usually programmable, with similar functions to a human arm; the arm may be the sum total of the mechanism or may be part of a more complex robot.",
+      "\n<a href=\"http://duckduckgo.com/remote_manipulator\">Telemanipulator</a> - A remote manipulator, also known as a telefactor, telemanipulator, or waldo, is a device which, through electronic, hydraulic, or mechanical linkages, allows a hand-like mechan...",
+      "In robotics a manipulator is a device used to manipulate materials without direct contact.",
+      "A"
+   ],
+   "created" : 1373461915,
+   "book" : [],
+   "micro-www" : {
+      "manipulator" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Robotic manipulation",
+         "Robotic manipulators|"
+      ],
+      "text" : "\n\n\nIn robotics a 'manipulator' is a device used to manipulate materials without\ndirect contact. The applications were originally for dealing with radioactive or\nbiohazardous materials, using robotic arms, or they were used in inaccessible\nplaces. In more recent developments they have been used in applications such as\nrobotically-assisted surgery and in space. It is an arm-like mechanism that\nconsists of a series of segments, usually sliding or jointed, which grasp and\nmove objects with a number of degrees of freedom.\n",
+      "title" : "manipulator",
+      "headings" : [
+         "Specialized types",
+         "Examples",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "3: Robotic_arm",
+      "1: Robotics",
+      "1: Ionizing_radiation",
+      "1: Biohazard",
+      "1: Robotic_surgery",
+      "1: Fire_protection",
+      "1: Explosion_protection",
+      "1: Compressed_air",
+      "1: Canadarm",
+      "1: Terabot-S",
+      "1: SCARA",
+      "1: Da_Vinci_Surgical_System",
+      "1: ANAT_Technology",
+      "1: Industrial_robots",
+      "1: Telemanipulator"
+   ]
+}

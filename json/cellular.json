@@ -11,24 +11,7 @@
       "cellularity"
    ],
    "micro" : [],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Cellular",
-      "Wikipedia",
-      "Cellular",
-      "http://www.merriam-webster.com/dictionary/cellular",
-      "cellular definition: of, relating to, or consisting of cells.",
-      "\n<a href=\"http://duckduckgo.com/Cellular_frequencies\">Cellular frequencies</a>, assigned to networks operating in cellular RF bands",
-      "\n<a href=\"http://duckduckgo.com/Cellular_network\">Cellular network</a>, cellular telephone and non-telephone radio networks",
-      "\n<a href=\"http://duckduckgo.com/Mobile_phone\">Mobile phone</a> - A mobile phone is a device which can make and receive telephone calls over a radio link whilst moving around a wide geographic area.",
-      "\n<a href=\"http://duckduckgo.com/Cellular_manufacturing\">Cellular manufacturing</a> - Cellular Manufacturing is a model for workplace design, and has become an integral part of lean manufacturing systems.",
-      "HASH(0x4fe84e8)",
-      "\n<a href=\"http://duckduckgo.com/Mobile_phone_accessories\">Mobile phone accessories</a> -  With the addition of popular culture, science, and marketing the cellular phone accessories industry has sky rocketed to meet the ever-growing needs of the consumer.",
-      "Merriam-Webster",
-      "HASH(0x4fe8158)",
-      "\n<a href=\"http://duckduckgo.com/Cellular_(film)\">Cellular (film)</a>, a 2004 movie",
-      "\n<a href=\"http://duckduckgo.com/Cellular_automaton\">Cellular automaton</a>, a model in discrete mathematics",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Media_reports_exaggerate_cell_phone_risks_again\" title=\"Media reports exaggerate cell phone risks again\">Media reports exaggerate cell phone risks again</a>",
@@ -58,7 +41,24 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Cellular",
+      "Wikipedia",
+      "Cellular",
+      "http://www.merriam-webster.com/dictionary/cellular",
+      "cellular definition: of, relating to, or consisting of cells.",
+      "\n<a href=\"http://duckduckgo.com/Cellular_frequencies\">Cellular frequencies</a>, assigned to networks operating in cellular RF bands",
+      "\n<a href=\"http://duckduckgo.com/Cellular_network\">Cellular network</a>, cellular telephone and non-telephone radio networks",
+      "\n<a href=\"http://duckduckgo.com/Mobile_phone\">Mobile phone</a> - A mobile phone is a device which can make and receive telephone calls over a radio link whilst moving around a wide geographic area.",
+      "\n<a href=\"http://duckduckgo.com/Cellular_manufacturing\">Cellular manufacturing</a> - Cellular Manufacturing is a model for workplace design, and has become an integral part of lean manufacturing systems.",
+      "HASH(0x4fe84e8)",
+      "\n<a href=\"http://duckduckgo.com/Mobile_phone_accessories\">Mobile phone accessories</a> -  With the addition of popular culture, science, and marketing the cellular phone accessories industry has sky rocketed to meet the ever-growing needs of the consumer.",
+      "Merriam-Webster",
+      "HASH(0x4fe8158)",
+      "\n<a href=\"http://duckduckgo.com/Cellular_(film)\">Cellular (film)</a>, a 2004 movie",
+      "\n<a href=\"http://duckduckgo.com/Cellular_automaton\">Cellular automaton</a>, a model in discrete mathematics",
+      "D"
+   ],
    "micro-www-search" : [
       "cellular\n>http\nhttp://en.m.wikipedia.org/wiki/Cellular\nhttp://en.wikipedia.org/w/index.php?title=Cellular&oldid=542512292\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "Cellular_respiration\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/5/58/Padlock-olive.svg/20px-Padlock-olive.svg.png\n\n",
@@ -75,7 +75,6 @@
       "Cellular_(disambiguation)\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n"
    ],
    "created" : 1373458276,
-   "book" : [],
    "micro-www" : {
       "cellular" : [
          "cellular",
@@ -94,6 +93,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n'Cellular' may refer to: *Cellular automaton, a model in discrete mathematics\n*''Cellular'' (film), a 2004 movie *Cellular frequencies, assigned to networks\noperating in cellular RF bands *Cellular manufacturing *Cellular network,\ncellular telephone and non-telephone radio networks *Mobile phone *Mobile phone\naccessories *Related to cell (biology)\n",

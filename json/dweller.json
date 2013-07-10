@@ -73,20 +73,7 @@
       "galilaean",
       "liver"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Dweller",
-      "\n<a href=\"http://duckduckgo.com/Dweller_(film)\">Dweller (film)</a>, a 2000 film by independent film icons the Polonia brothers",
-      "HASH(0x5c7ad10)",
-      "Wikipedia",
-      "Dweller",
-      "\n<a href=\"http://duckduckgo.com/dweller_(Banks)\">Dwellers</a>, a fictional species featured in Iain M. Banks' novel The Algebraist",
-      "http://www.merriam-webster.com/dictionary/dweller",
-      "dweller definition: one (as a prehistoric human) that dwells in a cave.",
-      "Merriam-Webster",
-      "\nDweller, a fictional <a href=\"http://duckduckgo.com/Dark_Hunter\">Dark Hunter</a> from the LEGO <a href=\"http://duckduckgo.com/?q=Bionicle\">Bionicle</a> franchise",
-      "HASH(0x5ce32f8)",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Researchers_discover_last_common_ancestor_of_apes_and_monkeys\" title=\"Researchers discover last common ancestor of apes and monkeys\">Researchers discover last common ancestor of apes and monkeys</a>",
@@ -115,15 +102,28 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Dweller",
+      "\n<a href=\"http://duckduckgo.com/Dweller_(film)\">Dweller (film)</a>, a 2000 film by independent film icons the Polonia brothers",
+      "HASH(0x5c7ad10)",
+      "Wikipedia",
+      "Dweller",
+      "\n<a href=\"http://duckduckgo.com/dweller_(Banks)\">Dwellers</a>, a fictional species featured in Iain M. Banks' novel The Algebraist",
+      "http://www.merriam-webster.com/dictionary/dweller",
+      "dweller definition: one (as a prehistoric human) that dwells in a cave.",
+      "Merriam-Webster",
+      "\nDweller, a fictional <a href=\"http://duckduckgo.com/Dark_Hunter\">Dark Hunter</a> from the LEGO <a href=\"http://duckduckgo.com/?q=Bionicle\">Bionicle</a> franchise",
+      "HASH(0x5ce32f8)",
+      "D"
+   ],
    "micro-www-search" : [],
    "created" : 1373455519,
-   "book" : [],
    "micro-www" : {
       "dweller" : [
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Dweller' might refer to\n* Dweller, a band from Detroit, Michigan.\n* Dweller (film), a 2000 film by independent film icons the Polonia brothers\n* Dwellers, a fictional species featured in Iain M. Banks' novel The Algebraist\n* Dweller, a fictional Dark Hunter from the LEGO Bionicle franchise\n",

@@ -196,19 +196,9 @@
       "case",
       "abstraction"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Time_signature\">Time signature</a>, a convention in musical notation",
-      "https://en.wikipedia.org/wiki/Time_(disambiguation)",
-      "\n<a href=\"http://duckduckgo.com/Time_(magazine)\">Time (magazine)</a>, a weekly American news magazine",
-      "HASH(0x583ac68)",
-      "Wikipedia",
-      "Time",
-      "http://www.merriam-webster.com/dictionary/time",
-      "time definition: the measured or measurable period during which an action, process, or condition exists or continues.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Time\">Time</a> is a common term for the experience of duration and a fundamental quantity of measuring systems. Time may also refer to:",
-      "HASH(0x590a700)",
-      "D"
+   "Lists" : [
+      "List_of_Chinese_inventions",
+      "List_of_cycles"
    ],
    "common" : {
       "milestones" : [
@@ -237,9 +227,19 @@
          []
       ]
    },
-   "Lists" : [
-      "List_of_Chinese_inventions",
-      "List_of_cycles"
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Time_signature\">Time signature</a>, a convention in musical notation",
+      "https://en.wikipedia.org/wiki/Time_(disambiguation)",
+      "\n<a href=\"http://duckduckgo.com/Time_(magazine)\">Time (magazine)</a>, a weekly American news magazine",
+      "HASH(0x583ac68)",
+      "Wikipedia",
+      "Time",
+      "http://www.merriam-webster.com/dictionary/time",
+      "time definition: the measured or measurable period during which an action, process, or condition exists or continues.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Time\">Time</a> is a common term for the experience of duration and a fundamental quantity of measuring systems. Time may also refer to:",
+      "HASH(0x590a700)",
+      "D"
    ],
    "micro-www-search" : [
       "timescales\n>http\nhttp://en.m.wikipedia.org/wiki/Time_scale\nhttp://en.wikipedia.org/w/index.php?title=Time_scale&oldid=543985266\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png\n\n",
@@ -271,7 +271,6 @@
       "Time\n>http\nhttp://ahdictionary.com/word/search.html?q=time\nhttp://books.google.com/?id=HrHvAAAAMAAJ&q=%22time+is+what+clocks+measure%22&dq=%22time+is+what+clocks+measure%22\nhttp://books.google.com/?id=kfsyfoO1IlYC&pg=RA1-PR19&dq=The+fundamental+wisdom+of+the+middle+way+time#v=onepage&q&f=false\nhttp://books.google.com/?id=y94cKeEVa3sC&printsec=frontcover&dq=Religion+and+time#v=onepage&q=Heidegger&f=false\nhttp://books.google.com/books?id=39KQY1FnSfkC&pg=PA98&lpg=PA98&dq=cummings+%22time+professor%22+%22keeps+everything%22#v=onepage&q=cummings%20%22time%20professor%22%20%22keeps%20everything%22&f=false\nhttp://dictionary.reference.com/browse/time?r=66\nhttp://en.wikipedia.org/w/index.php?title=Time&oldid=560667963\nhttp://exploringtime.org/?page=segments\nhttp://oxforddictionaries.com/definition/time\nhttp://physicsandphysicists.blogspot.com/2007/03/time-is-illusion.html\nhttp://plato.stanford.edu/archives/win2004/entries/time-experience\nhttp://plato.stanford.edu/entries/time/#3\nhttp://prespacetime.com/index.php/pst/article/view/10\nhttp://scienceworld.wolfram.com/physics/Time.html\nhttp://sydney.edu.au/time/price/TAAP.html\nhttp://tycho.usno.navy.mil/systime.html\nhttp://www-philosophy.ucdavis.edu/mattey/kant/TIMELEC.HTM\nhttp://www.bbc.co.uk/iplayer/console/p005465z/In_Our_Time_Time\nhttp://www.buddhasvillage.com/teachings/time.htm\nhttp://www.collinslanguage.com/results.aspx?context=3&reversed=False&action=define&homonym=-1&text=time\nhttp://www.cracked.com/article_19659_7-theories-time-that-would-make-doc-browns-head-explode.html\nhttp://www.dmoz.org/Reference/Time/\nhttp://www.foundalis.com/phi/WhyTimeFlows.htm\nhttp://www.hawking.org.uk/the-beginning-of-time.html\nhttp://www.iep.utm.edu/time/\nhttp://www.merriam-webster.com/dictionary/time\nhttp://www.newscientist.com/article/mg16422180.900-look-how-time-flies\nhttp://www.yourdictionary.com/time\n\n>pdf\nhttp://mind.ucsd.edu/papers/bhtc/Andersen&Grush.pdf\nhttp://mlb.mlb.com/mlb/downloads/y2011/Official_Baseball_Rules.pdf\nhttp://www.austinschools.org/curriculum/la/resources/documents/instResources/LA_res_Seq_ORS_Module.pdf\nhttp://www.austinschools.org/curriculum/la/resources/documents/instResources/LA_res_Seq_ORS_Module.pdf\nhttp://www1.bipm.org/utils/en/pdf/si-brochure.pdf\nhttp://mlb.mlb.com/mlb/downloads/y2011/Official_Baseball_Rules.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png\n"
    ],
    "created" : 1373460145,
-   "book" : [],
    "micro-www" : {
       "time" : [
          "timescales",
@@ -304,6 +303,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Time|",

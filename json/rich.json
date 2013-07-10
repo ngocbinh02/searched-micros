@@ -82,17 +82,7 @@
       "richpeople",
       "abstraction"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/B.C._Rich\">B.C. Rich</a>, guitar manufacturer",
-      "https://en.wikipedia.org/wiki/Rich",
-      "HASH(0x2022088)",
-      "Wikipedia",
-      "\n<a href=\"http://duckduckgo.com/Wealth\">Wealth</a> or <a href=\"http://duckduckgo.com/?q=abundance (economics)\">abundance (economics)</a>",
-      "Rich",
-      "HASH(0x20219b0)",
-      "\n<a href=\"http://duckduckgo.com/Big_%26_Rich\">Big & Rich</a>, American country music duo",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Lakshmi_Mittal_tops_Sunday_Times_Rich_List\" title=\"Lakshmi Mittal tops Sunday Times Rich List\">Lakshmi Mittal tops Sunday Times <span class=\"searchmatch\">Rich</span> List</a>",
@@ -120,7 +110,17 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/B.C._Rich\">B.C. Rich</a>, guitar manufacturer",
+      "https://en.wikipedia.org/wiki/Rich",
+      "HASH(0x2022088)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Wealth\">Wealth</a> or <a href=\"http://duckduckgo.com/?q=abundance (economics)\">abundance (economics)</a>",
+      "Rich",
+      "HASH(0x20219b0)",
+      "\n<a href=\"http://duckduckgo.com/Big_%26_Rich\">Big & Rich</a>, American country music duo",
+      "D"
+   ],
    "micro-www-search" : [
       "richter\n>http\nhttp://en.m.wikipedia.org/wiki/Richter\nhttp://en.wikipedia.org/w/index.php?title=Richter&oldid=539773769\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "richards_equation\n>http\nhttp://en.m.wikipedia.org/wiki/Richards_equation\nhttp://en.wikipedia.org/w/index.php?title=Richards_equation&oldid=559597243\n\n>image\nhttp://upload.wikimedia.org/math/4/3/c/43cebe2c099469da45dfbf51798e1f5d.png\n\n",
@@ -172,7 +172,6 @@
       "Rich_Cho\n>pdf\nhttp://www.nba.com/media/thunder/07_guide_2.pdf\nhttp://www.nba.com/media/thunder/07_guide_2.pdf\n"
    ],
    "created" : 1373460613,
-   "book" : [],
    "micro-www" : {
       "rich" : [
          "richter",
@@ -226,6 +225,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n'Rich' may refer:\n\n* Wealth or abundance (economics)\n",

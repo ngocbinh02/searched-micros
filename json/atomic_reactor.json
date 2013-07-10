@@ -23,9 +23,10 @@
       "atomic_reactor",
       "artifact"
    ],
-   "duck" : [
-      "HASH(0x5c631b0)",
-      "HASH(0x5c4ef18)"
+   "Lists" : [
+      "List_of_nuclear_reactors",
+      "List_of_United_States_Naval_reactors",
+      "List_of_small_nuclear_reactor_designs"
    ],
    "common" : {
       "milestones" : [
@@ -54,22 +55,21 @@
          []
       ]
    },
-   "Lists" : [
-      "List_of_nuclear_reactors",
-      "List_of_United_States_Naval_reactors",
-      "List_of_small_nuclear_reactor_designs"
+   "duck" : [
+      "HASH(0x5c631b0)",
+      "HASH(0x5c4ef18)"
    ],
    "micro-www-search" : [
       "atomic_reactor\n>pdf\nhttp://inlportal.inl.gov/portal/server.pt/gateway/PTARGS_0_200_816_259_0_43/http%3B/inlpublisher%3B7087/publishedcontent/publish/communities/inl_gov/about_inl/home_page_fact_sheets/sheets/experimental_breeder_reactor___i_4.pdf\nhttp://web.archive.org/web/20080423194722http:///www.hss.energy.gov/NuclearSafety/techstds/standard/hdbk1019/h1019v2.pdf\nhttp://web.mit.edu/nuclearpower/pdf/nuclearpower-full.pdf\nhttp://www.ans.org/pubs/magazines/nn/docs/2001-11-2.pdf\nhttp://www.gen-4.org/PDFs/GenIVRoadmap.pdf\nhttp://www.hss.energy.gov/NuclearSafety/techstds/standard/hdbk1019/h1019v2.pdf\nhttp://www.iaea.org/Publications/Magazines/Bulletin/Bull413/article1.pdf\nhttp://www.iaea.org/Publications/Magazines/Bulletin/Bull413/article1.pdf\nhttp://www.spp.nus.edu.sg/docs/policy-briefs/201101_RSU_PolicyBrief_1-2nd_Thought_Nuclear-Sovacool.pdf\nhttp://www.stanford.edu/group/efmh/jacobson/Articles/I/WWSEnergyPolicyPtI.pdf\nhttp://www.hss.energy.gov/NuclearSafety/techstds/standard/hdbk1019/h1019v2.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Crocus-p1020491.jpg/220px-Crocus-p1020491.jpg\n"
    ],
    "created" : 1373455322,
-   "book" : [],
    "micro-www" : {
       "atomic_reactor" : [
          "atomic_reactor",
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Energy conversion",

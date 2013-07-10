@@ -5,14 +5,6 @@
       "endogenous_depression"
    ],
    "micro" : [],
-   "Lists" : [],
-   "common" : {
-      "milestones" : [],
-      "image" : [
-         [],
-         []
-      ]
-   },
    "duck" : [
       "\n<a href=\"http://duckduckgo.com/c/Etymology\">Etymology</a>",
       "Endogenous substances are those that originate from within an organism, tissue, or cell.",
@@ -30,6 +22,14 @@
       "Endogenous substances are those that originate from within an organism, tissue, or cell.",
       "A"
    ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
    "micro-www-search" : [
       "endogenous\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "Endogenous_viral_element\n",
@@ -37,6 +37,7 @@
       "Endogenous\n>http\nhttp://dictionary.reference.com/search?q=endogenous\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n"
    ],
    "created" : 1373459878,
+   "book" : [],
    "micro-www" : {
       "endogenous" : [
          "endogenous",
@@ -46,7 +47,6 @@
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [
          "Etymology"

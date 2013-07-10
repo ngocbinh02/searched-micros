@@ -60,10 +60,7 @@
       "speciousness"
    ],
    "micro" : [],
-   "duck" : [
-      "HASH(0x5aba1d8)",
-      "HASH(0x5cf4dd8)"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [],
       "image" : [
@@ -71,7 +68,10 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "HASH(0x5aba1d8)",
+      "HASH(0x5cf4dd8)"
+   ],
    "micro-www-search" : [
       "specifically\n>http\nhttp://en.m.wikipedia.org/wiki/Specific\nhttp://en.wikipedia.org/w/index.php?title=Specific&oldid=542055497\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "specific\n>http\nhttp://en.m.wikipedia.org/wiki/Specific\nhttp://en.wikipedia.org/w/index.php?title=Specific&oldid=542055497\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
@@ -178,7 +178,6 @@
       "SPECIFIC"
    ],
    "created" : 1373456854,
-   "book" : [],
    "micro-www" : {
       "speci" : [
          "specifically",
@@ -287,5 +286,6 @@
          ""
       ]
    },
+   "book" : [],
    "micro-relation" : []
 }

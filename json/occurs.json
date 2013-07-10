@@ -11,19 +11,7 @@
       "occur",
       "come_about"
    ],
-   "duck" : [
-      "To be found to exist or appear: Copper deposits occur in the region.",
-      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=occur",
-      "HASH(0x5590210)",
-      "The Free Dictionary",
-      "occur",
-      "http://www.merriam-webster.com/dictionary/occur",
-      "occur definition: to be found or met with.",
-      "Merriam-Webster",
-      "HASH(0x53a7720)",
-      "To be found to exist or appear: Copper deposits occur in the region.",
-      "A"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/First_female_boxing_death_occurs_in_US_sanctioned_match\" title=\"First female boxing death occurs in US sanctioned match\">First female boxing death <span class=\"searchmatch\">occurs</span> in US sanctioned match</a>",
@@ -56,14 +44,26 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "To be found to exist or appear: Copper deposits occur in the region.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=occur",
+      "HASH(0x5590210)",
+      "The Free Dictionary",
+      "occur",
+      "http://www.merriam-webster.com/dictionary/occur",
+      "occur definition: to be found or met with.",
+      "Merriam-Webster",
+      "HASH(0x53a7720)",
+      "To be found to exist or appear: Copper deposits occur in the region.",
+      "A"
+   ],
    "micro-www-search" : [],
    "created" : 1373460905,
-   "book" : [],
    "micro-www" : {
       "occurs" : [
          ""
       ]
    },
+   "book" : [],
    "micro-relation" : []
 }

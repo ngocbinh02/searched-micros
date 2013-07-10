@@ -33,30 +33,7 @@
       "possession",
       "transferred_property"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Loss",
-      "\n<a href=\"http://duckduckgo.com/Attenuation\">Attenuation</a>, a reduction in amplitude and intensity of a signal",
-      "Wikipedia",
-      "Loss",
-      "\n<a href=\"http://duckduckgo.com/Insertion_loss\">Insertion loss</a>, the decrease in transmitted signal power resulting from the insertion of a device in a transmission line or optical fiber",
-      "\n<a href=\"http://duckduckgo.com/win%E2%80%93loss_record\">Loss (baseball)</a>, a pitching statistic in baseball",
-      "http://www.merriam-webster.com/dictionary/loss",
-      "\n<a href=\"http://duckduckgo.com/Bridging_loss\">Bridging loss</a>, the loss that results when an impedance is connected across a transmission line",
-      "loss definition: destruction, ruin.",
-      "\n<a href=\"http://duckduckgo.com/Loss_function\">Loss function</a>, in statistics, a function representing the cost associated with an event",
-      "\n<a href=\"http://duckduckgo.com/Grief\">Grief</a>, an emotional response to loss",
-      "\n<a href=\"http://duckduckgo.com/Return_loss\">Return loss</a>, the ratio of the amplitude of the reflected wave to the amplitude of the incident wave",
-      "HASH(0x5185ec0)",
-      "\n<a href=\"http://duckduckgo.com/Loss_leader\">Loss leader</a> a deliberate commercial loss made in the expectation of recouping it by profitable sales of other lines",
-      "\n<a href=\"http://duckduckgo.com/Coupling_loss\">Coupling loss</a>, the loss that occurs when energy is transferred from one circuit, optical device, or medium to another",
-      "Merriam-Webster",
-      "HASH(0x5323ec8)",
-      "\n<a href=\"http://duckduckgo.com/Angular_misalignment_loss\">Angular misalignment loss</a>, power loss caused by the deviation from optimum angular alignment",
-      "\n<a href=\"http://duckduckgo.com/Free-space_path_loss\">Free-space path loss</a>, the loss in signal strength that would result if all influences were sufficiently removed having no effect on its propagation",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Path_loss\">Path loss</a>, the attenuation undergone by an electromagnetic wave in transit from a transmitter to a receiver",
-      "\n<a href=\"http://duckduckgo.com/round-trip_gain\">Round-trip loss</a> in laser physics refers to energy lost due to scattering or absorption"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sydney_plans_loss_of_rainbow\" title=\"Sydney plans loss of rainbow\">Sydney plans <span class=\"searchmatch\">loss</span> of rainbow</a>",
@@ -85,13 +62,35 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Loss",
+      "\n<a href=\"http://duckduckgo.com/Attenuation\">Attenuation</a>, a reduction in amplitude and intensity of a signal",
+      "Wikipedia",
+      "Loss",
+      "\n<a href=\"http://duckduckgo.com/Insertion_loss\">Insertion loss</a>, the decrease in transmitted signal power resulting from the insertion of a device in a transmission line or optical fiber",
+      "\n<a href=\"http://duckduckgo.com/win%E2%80%93loss_record\">Loss (baseball)</a>, a pitching statistic in baseball",
+      "http://www.merriam-webster.com/dictionary/loss",
+      "\n<a href=\"http://duckduckgo.com/Bridging_loss\">Bridging loss</a>, the loss that results when an impedance is connected across a transmission line",
+      "loss definition: destruction, ruin.",
+      "\n<a href=\"http://duckduckgo.com/Loss_function\">Loss function</a>, in statistics, a function representing the cost associated with an event",
+      "\n<a href=\"http://duckduckgo.com/Grief\">Grief</a>, an emotional response to loss",
+      "\n<a href=\"http://duckduckgo.com/Return_loss\">Return loss</a>, the ratio of the amplitude of the reflected wave to the amplitude of the incident wave",
+      "HASH(0x5185ec0)",
+      "\n<a href=\"http://duckduckgo.com/Loss_leader\">Loss leader</a> a deliberate commercial loss made in the expectation of recouping it by profitable sales of other lines",
+      "\n<a href=\"http://duckduckgo.com/Coupling_loss\">Coupling loss</a>, the loss that occurs when energy is transferred from one circuit, optical device, or medium to another",
+      "Merriam-Webster",
+      "HASH(0x5323ec8)",
+      "\n<a href=\"http://duckduckgo.com/Angular_misalignment_loss\">Angular misalignment loss</a>, power loss caused by the deviation from optimum angular alignment",
+      "\n<a href=\"http://duckduckgo.com/Free-space_path_loss\">Free-space path loss</a>, the loss in signal strength that would result if all influences were sufficiently removed having no effect on its propagation",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Path_loss\">Path loss</a>, the attenuation undergone by an electromagnetic wave in transit from a transmitter to a receiver",
+      "\n<a href=\"http://duckduckgo.com/round-trip_gain\">Round-trip loss</a> in laser physics refers to energy lost due to scattering or absorption"
+   ],
    "micro-www-search" : [
       "Loss_tangent\n>image\nhttp://upload.wikimedia.org/math/8/4/9/8494ecde4f1fdc7be728fcb1f5c55b65.png\n\n",
       "Loss-of-coolant_accident\n>http\nhttp://en.m.wikipedia.org/wiki/Loss-of-coolant_accident\nhttp://en.wikipedia.org/w/index.php?title=Loss-of-coolant_accident&oldid=541147201\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n"
    ],
    "created" : 1373458930,
-   "book" : [],
    "micro-www" : {
       "loss" : [
          "Loss_tangent",
@@ -99,6 +98,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Loss' may refer to:\n\n*A negative difference between retail price and cost of production **Loss leader\na deliberate commercial loss made in the expectation of recouping it by\nprofitable sales of other lines *An event in which the team or individual in\nquestion did not win *Loss (baseball), a pitching statistic in baseball\n*Attenuation, a reduction in amplitude and intensity of a signal *In\ntelecommunications, loss is a decrease in signal in a communications system:\n**Angular misalignment loss, power loss caused by the deviation from optimum\nangular alignment **Bridging loss, the loss that results when an impedance is\nconnected across a transmission line **Coupling loss, the loss that occurs when\nenergy is transferred from one circuit, optical device, or medium to another\n**Insertion loss, the decrease in transmitted signal power resulting from the\ninsertion of a device in a transmission line or optical fiber **Path loss, the\nattenuation undergone by an electromagnetic wave in transit from a transmitter\nto a receiver ***Free-space path loss, the loss in signal strength that would\nresult if all influences were sufficiently removed having no effect on its\npropagation **Return loss, the ratio of the amplitude of the reflected wave to\nthe amplitude of the incident wave *Round-trip loss in laser physics refers to\nenergy lost due to scattering or absorption *Loss function, in statistics, a\nfunction representing the cost associated with an event\n",

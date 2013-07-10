@@ -9,28 +9,7 @@
       "show",
       "exhibit"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Demonstration",
-      "Wikipedia",
-      "\n<a href=\"http://duckduckgo.com/Demonstration_(acting)\">Demonstration (acting)</a> - Demonstration is a central part of the Brechtian approach to acting.",
-      "Demonstration",
-      "\n<a href=\"http://duckduckgo.com/mathematical_proof\">Demonstration (proof)</a>, a conclusive mathematical proof",
-      "http://www.merriam-webster.com/dictionary/demonstration",
-      "\n<a href=\"http://duckduckgo.com/Demonstration_(Tinie_Tempah_album)\">Demonstration (Tinie Tempah album)</a>, second album by Tinie Tempah",
-      "demonstration definition: an act, process, or means of demonstrating to the intelligence.",
-      "\n<a href=\"http://duckduckgo.com/Demonstration_(album)\">Demonstration (album)</a>, the first EP by We Came As Romans",
-      "\n<a href=\"http://duckduckgo.com/Demonstration_(people)\">Demonstration (people)</a>, a political rally or protest",
-      "\n<a href=\"http://duckduckgo.com/Exhibition_game\">Exhibition game</a> or Demonstration, a sporting event with no competitive value to any competitor",
-      "HASH(0x4f22e48)",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Product_demonstration\">Product demonstration</a>, a sales or marketing presentation such as a:",
-      "\n<a href=\"http://duckduckgo.com/Technology_demonstration\">Technology demonstration</a>, an incomplete version of product to showcase idea, performance, method or features of the product",
-      "\n<a href=\"http://duckduckgo.com/Scientific_demonstration\">Scientific demonstration</a>, a scientific experiment to illustrate principles",
-      "HASH(0x4f2d0e8)",
-      "\n<a href=\"http://duckduckgo.com/Demonstration_(teaching)\">Demonstration (teaching)</a>, a method of teaching by example rather than simple explanation",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Demonstration_(military)\">Demonstration (military)</a>, an attack or show of force on a front where a decision is not sought"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Thought-controlled_cybernetic_arms_demonstrated\" title=\"Thought-controlled cybernetic arms demonstrated\">Thought-controlled cybernetic arms <span class=\"searchmatch\">demonstrated</span></a>",
@@ -60,15 +39,36 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Demonstration",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Demonstration_(acting)\">Demonstration (acting)</a> - Demonstration is a central part of the Brechtian approach to acting.",
+      "Demonstration",
+      "\n<a href=\"http://duckduckgo.com/mathematical_proof\">Demonstration (proof)</a>, a conclusive mathematical proof",
+      "http://www.merriam-webster.com/dictionary/demonstration",
+      "\n<a href=\"http://duckduckgo.com/Demonstration_(Tinie_Tempah_album)\">Demonstration (Tinie Tempah album)</a>, second album by Tinie Tempah",
+      "demonstration definition: an act, process, or means of demonstrating to the intelligence.",
+      "\n<a href=\"http://duckduckgo.com/Demonstration_(album)\">Demonstration (album)</a>, the first EP by We Came As Romans",
+      "\n<a href=\"http://duckduckgo.com/Demonstration_(people)\">Demonstration (people)</a>, a political rally or protest",
+      "\n<a href=\"http://duckduckgo.com/Exhibition_game\">Exhibition game</a> or Demonstration, a sporting event with no competitive value to any competitor",
+      "HASH(0x4f22e48)",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Product_demonstration\">Product demonstration</a>, a sales or marketing presentation such as a:",
+      "\n<a href=\"http://duckduckgo.com/Technology_demonstration\">Technology demonstration</a>, an incomplete version of product to showcase idea, performance, method or features of the product",
+      "\n<a href=\"http://duckduckgo.com/Scientific_demonstration\">Scientific demonstration</a>, a scientific experiment to illustrate principles",
+      "HASH(0x4f2d0e8)",
+      "\n<a href=\"http://duckduckgo.com/Demonstration_(teaching)\">Demonstration (teaching)</a>, a method of teaching by example rather than simple explanation",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Demonstration_(military)\">Demonstration (military)</a>, an attack or show of force on a front where a decision is not sought"
+   ],
    "micro-www-search" : [],
    "created" : 1373460324,
-   "book" : [],
    "micro-www" : {
       "demonstrated" : [
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "#redirectDemonstration\n",

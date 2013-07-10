@@ -1,0 +1,43 @@
+{
+   "micrownet" : [
+      "iron_fist"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Heavy_fighting_continues_in_the_Gaza_Strip\" title=\"Heavy fighting continues in the Gaza Strip\">Heavy fighting continues in the Gaza Strip</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/North_Korean_leader_Kim_Jong-il_dead\" title=\"North Korean leader Kim Jong-il dead\">North Korean leader Kim Jong-il dead</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "HASH(0x4a56f48)",
+      "HASH(0x49b2ae0)"
+   ],
+   "created" : 1373461500,
+   "book" : [],
+   "micro-www" : {
+      "iron_fist" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Iron Fist' may refer to:\n* Iron Fist (comics), a Marvel Comics superhero/martial artist\n* ''Iron Fist'' (novel), a 1998 Star Wars novel by Aaron Allston in the X-\n  wing series\n* ''Tekken'' (series) (鉄拳, lit. Iron Fist), a series of fighting games by Namco\n* 20th Armoured Brigade (The Iron Fist), nickname of British Army armoured\n  formation based in Paderborn, Germany\n* Iron Fist (countermeasure), an Israeli counter-weapon system\n* Iron Fists, a chapter of Space Marines in the Warhammer 40,000 universe\n* Ironfist (Transformers), a character in the Transformers series\n* [[The Man with the Iron Fists]], a film starring Russell Crowe\n\nIn 'music':\n* ''Iron Fist'' (album), a 1982 album by metal band Motörhead ** \"Iron Fist\"\n  (song), a single from the album\n* Iron Fist, a progenitor of the band Helloween\n* \"Iron Fist\", a song from Die Apokalyptischen Reiter's debut album Soft\n  & Stronger\n* \"Iron Fist\", a song from Goldfinger's album [[Disconnection Notice]]\n* \"Iron Fist\", a song from Coheed and Cambria's 2013 album, [[The Afterman:\n  Descension]]. In 'sports':\n*  Dr. Ironfist, the Ukrainian heavyweight boxer and Ph.D., Vitali Klitschko\n   (a.k.a. Dr. Eisenfaust)\n",
+      "title" : "Iron%20Fist",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: X-wing",
+      "1: Warhammer_40,000",
+      "1: Helloween",
+      "1: Die_Apokalyptischen_Reiter",
+      "1: Coheed_and_Cambria",
+      "1: Vitali_Klitschko"
+   ]
+}

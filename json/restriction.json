@@ -31,7 +31,21 @@
       "limitation",
       "content"
    ],
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Restriction",
+      "\n<a href=\"http://duckduckgo.com/Restrictions_(album)\">Restrictions (album)</a>, an album by Cactus",
+      "HASH(0x533a558)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Restriction_(mathematics)\">Restriction (mathematics)</a>,  an aspect of a mathematical function",
+      "Restriction",
+      "\n<a href=\"http://duckduckgo.com/Restrictor_(linguistics)\">Restrictor (linguistics)</a>, a word or morpheme that specifies the meaning of a <a href=\"http://duckduckgo.com/?q=quantifier\">quantifier</a>",
+      "http://www.merriam-webster.com/dictionary/restriction",
+      "restriction definition: something that restricts.",
+      "Merriam-Webster",
+      "HASH(0x533ac90)",
+      "\n<a href=\"http://duckduckgo.com/Restriction_enzyme\">Restriction enzyme</a>, a type of enzyme that cleaves genetic material",
+      "D"
+   ],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pope_to_lift_restrictions_on_Latin_Mass\" title=\"Pope to lift restrictions on Latin Mass\">Pope to lift <span class=\"searchmatch\">restrictions</span> on Latin Mass</a>",
@@ -60,21 +74,7 @@
          []
       ]
    },
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Restriction",
-      "\n<a href=\"http://duckduckgo.com/Restrictions_(album)\">Restrictions (album)</a>, an album by Cactus",
-      "HASH(0x533a558)",
-      "Wikipedia",
-      "\n<a href=\"http://duckduckgo.com/Restriction_(mathematics)\">Restriction (mathematics)</a>,  an aspect of a mathematical function",
-      "Restriction",
-      "\n<a href=\"http://duckduckgo.com/Restrictor_(linguistics)\">Restrictor (linguistics)</a>, a word or morpheme that specifies the meaning of a <a href=\"http://duckduckgo.com/?q=quantifier\">quantifier</a>",
-      "http://www.merriam-webster.com/dictionary/restriction",
-      "restriction definition: something that restricts.",
-      "Merriam-Webster",
-      "HASH(0x533ac90)",
-      "\n<a href=\"http://duckduckgo.com/Restriction_enzyme\">Restriction enzyme</a>, a type of enzyme that cleaves genetic material",
-      "D"
-   ],
+   "Lists" : [],
    "micro-www-search" : [
       "Restriction_sites\n>http\nhttp://en.m.wikipedia.org/wiki/Restriction_site\nhttp://en.wikipedia.org/w/index.php?title=Restriction_site&oldid=541699406\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Diagram_human_cell_nucleus_no_text.png/30px-Diagram_human_cell_nucleus_no_text.png\n\n",
       "Restriction_modification_system\n>http\nhttp://en.m.wikipedia.org/wiki/Restriction_modification_system\nhttp://en.wikipedia.org/w/index.php?title=Restriction_modification_system&oldid=543128600\n\n>pdf\nhttp://www.pubmedcentral.nih.gov/picrender.fcgi?artid=328170&blobtype=pdf\nhttp://www.pubmedcentral.nih.gov/picrender.fcgi?artid=328170&blobtype=pdf\n\n",
@@ -83,6 +83,7 @@
       "Restriction_endonucleases\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/20px-Wiktionary-logo-en.svg.png\n"
    ],
    "created" : 1373459502,
+   "book" : [],
    "micro-www" : {
       "restriction" : [
          "Restriction_sites",
@@ -93,7 +94,6 @@
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n'Restriction', 'restrict' or 'restrictor' may refer to:\n* Restriction (mathematics), an aspect of a mathematical function\n* ''Restrictions'' (album), an album by Cactus\n* , a keyword in the C programming language used in pointer declarations\n* Restrictor (linguistics), a word or morpheme that specifies the meaning of a\n  quantifier\n* Restriction enzyme, a type of enzyme that cleaves genetic material\n* Restriction, a term in medieval Supposition theory\n",

@@ -40,27 +40,7 @@
       "abstract_entity",
       "scientific_discipline"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Genetics",
-      "Wikipedia",
-      "Genetics",
-      "http://www.merriam-webster.com/dictionary/genetics",
-      "genetics definition: a branch of biology that deals with the heredity and variation of organisms.",
-      "\n<a href=\"http://duckduckgo.com/c/Genetics\">Genetics Category</a>",
-      "\n<a href=\"http://duckduckgo.com/Genetics_(journal)\">Genetics (journal)</a> - Genetics is a monthly scientific journal publishing investigations bearing on heredity, genetics, biochemistry and molecular biology.",
-      "\n<a href=\"http://duckduckgo.com/Bacterial_genome_size\">Bacterial genome size</a> - Bacterial genomes are generally smaller and less variant in size between species when compared with genomes of animals and single cell eukaryotes.",
-      "Genetics (from Ancient Greek   \"genitive\" and that from   \"origin\"), a discipline of biology, is the science of genes, heredity, and variation in living organisms.",
-      "HASH(0x584cdb0)",
-      "\n<a href=\"http://duckduckgo.com/Outline_of_genetics\">Outline of genetics</a> - Genetics &ndash; science of genes, heredity, and variation in living organisms.",
-      "https://i.duckduckgo.com/i/a96d9bac.png",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Index_of_genetics_articles\">Index of genetics articles</a> - Genetics, a discipline of biology, is the science of heredity and variation in living organisms.",
-      "HASH(0x584c8a0)",
-      "\n<a href=\"http://duckduckgo.com/Genetic_disorder\">Genetic disorder</a> - A genetic disorder is an illness caused by one or more abnormalities in the genome, especially a condition that is present from birth (congenital).",
-      "\n<a href=\"http://duckduckgo.com/Modern_Evolution_of_Genetics_Timeline\">Modern Evolution of Genetics Timeline</a> - This is a timeline of events concerning the Modern Evolution of Genetics, from Gregor Mendel to present day.",
-      "A",
-      "Genetics (from Ancient Greek   \"genitive\" and that from   \"origin\"), a discipline of biology, is the science of genes, heredity, and variation in living organisms."
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Fascinating%27_and_%27provocative%27_research_examines_genetic_elements_of_bipolar,_schizophrenia\" title=\"&#39;Fascinating&#39; and &#39;provocative&#39; research examines genetic elements of bipolar, schizophrenia\">&#39;Fascinating&#39; and &#39;provocative&#39; research examines genetic elements of bipolar, schizophrenia</a>",
@@ -88,14 +68,33 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Genetics",
+      "Wikipedia",
+      "Genetics",
+      "http://www.merriam-webster.com/dictionary/genetics",
+      "genetics definition: a branch of biology that deals with the heredity and variation of organisms.",
+      "\n<a href=\"http://duckduckgo.com/c/Genetics\">Genetics Category</a>",
+      "\n<a href=\"http://duckduckgo.com/Genetics_(journal)\">Genetics (journal)</a> - Genetics is a monthly scientific journal publishing investigations bearing on heredity, genetics, biochemistry and molecular biology.",
+      "\n<a href=\"http://duckduckgo.com/Bacterial_genome_size\">Bacterial genome size</a> - Bacterial genomes are generally smaller and less variant in size between species when compared with genomes of animals and single cell eukaryotes.",
+      "Genetics (from Ancient Greek   \"genitive\" and that from   \"origin\"), a discipline of biology, is the science of genes, heredity, and variation in living organisms.",
+      "HASH(0x584cdb0)",
+      "\n<a href=\"http://duckduckgo.com/Outline_of_genetics\">Outline of genetics</a> - Genetics &ndash; science of genes, heredity, and variation in living organisms.",
+      "https://i.duckduckgo.com/i/a96d9bac.png",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Index_of_genetics_articles\">Index of genetics articles</a> - Genetics, a discipline of biology, is the science of heredity and variation in living organisms.",
+      "HASH(0x584c8a0)",
+      "\n<a href=\"http://duckduckgo.com/Genetic_disorder\">Genetic disorder</a> - A genetic disorder is an illness caused by one or more abnormalities in the genome, especially a condition that is present from birth (congenital).",
+      "\n<a href=\"http://duckduckgo.com/Modern_Evolution_of_Genetics_Timeline\">Modern Evolution of Genetics Timeline</a> - This is a timeline of events concerning the Modern Evolution of Genetics, from Gregor Mendel to present day.",
+      "A",
+      "Genetics (from Ancient Greek   \"genitive\" and that from   \"origin\"), a discipline of biology, is the science of genes, heredity, and variation in living organisms."
+   ],
    "micro-www-search" : [
       "genetics\n>http\nhttp://en.m.wikipedia.org/wiki/Genetics\nhttp://en.wikipedia.org/w/index.php?title=Genetics&oldid=559845205\nhttp://tools.wmflabs.org/ftl/cgi-bin/ftl?st=&su=Genetics\nhttp://tools.wmflabs.org/ftl/cgi-bin/ftl?st=&su=Genetics&library=0CHOOSE0\nhttp://tools.wmflabs.org/ftl/cgi-bin/ftl?st=&su=Genetics&library=OLBP\nhttp://web.archive.org/web/20100208123830http:///wrongdiagnosis.com/genetics/dna.htm\nhttp://www.bbc.co.uk/iplayer/console/p00547md/In_Our_Time_Genetics\nhttp://www.dmoz.org/Science/Biology/Genetics/\nhttp://www.wrongdiagnosis.com/genetics/dna.htm\n\n>pdf\nhttp://www.esp.org/foundations/genetics/classical/holdings/s/ahs-13.pdf\nhttp://www.nature.com/nature/dna50/watsoncrick.pdf\nhttp://www.nature.com/nature/dna50/watsoncrick2.pdf\nhttp://www.nature.com/nature/focus/crick/pdf/crick227.pdf\nhttp://www.nature.com/nature/focus/crick/pdf/crick227.pdf\nhttp://www.esp.org/foundations/genetics/classical/holdings/s/ahs-13.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Symbol_template_class.svg/16px-Symbol_template_class.svg.png\n\n",
       "Genetics_nursing\n>http\nhttp://en.m.wikipedia.org/wiki/Genetics_nursing\nhttp://en.wikipedia.org/w/index.php?title=Genetics_nursing&oldid=555384781\n\n>pdf\nhttp://www.genome.gov/Pages/Careers/HealthProfessionalEducation/geneticscompetency.pdf\nhttp://www.genome.gov/Pages/Careers/HealthProfessionalEducation/geneticscompetency.pdf\nhttp://www.jblearning.com/samples/0763752258/52258_ch01_roux.pdf\nhttp://www.jblearning.com/samples/0763752258/52258_ch01_roux.pdf\n\n",
       "Genetics\n>http\nhttp://en.m.wikipedia.org/wiki/Genetics\nhttp://en.wikipedia.org/w/index.php?title=Genetics&oldid=559845205\nhttp://tools.wmflabs.org/ftl/cgi-bin/ftl?st=&su=Genetics\nhttp://tools.wmflabs.org/ftl/cgi-bin/ftl?st=&su=Genetics&library=0CHOOSE0\nhttp://tools.wmflabs.org/ftl/cgi-bin/ftl?st=&su=Genetics&library=OLBP\nhttp://web.archive.org/web/20100208123830http:///wrongdiagnosis.com/genetics/dna.htm\nhttp://www.bbc.co.uk/iplayer/console/p00547md/In_Our_Time_Genetics\nhttp://www.dmoz.org/Science/Biology/Genetics/\nhttp://www.wrongdiagnosis.com/genetics/dna.htm\n\n>pdf\nhttp://www.esp.org/foundations/genetics/classical/holdings/s/ahs-13.pdf\nhttp://www.nature.com/nature/dna50/watsoncrick.pdf\nhttp://www.nature.com/nature/dna50/watsoncrick2.pdf\nhttp://www.nature.com/nature/focus/crick/pdf/crick227.pdf\nhttp://www.nature.com/nature/focus/crick/pdf/crick227.pdf\nhttp://www.esp.org/foundations/genetics/classical/holdings/s/ahs-13.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Symbol_template_class.svg/16px-Symbol_template_class.svg.png\n"
    ],
    "created" : 1373460523,
-   "book" : [],
    "micro-www" : {
       "genetics" : [
          "genetics",
@@ -104,6 +103,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Genetics|"

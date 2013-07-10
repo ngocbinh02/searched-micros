@@ -1,0 +1,75 @@
+{
+   "micrownet" : [
+      "nude_mouse"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Victoria_Wyndham_on_Another_World_and_another_life\" title=\"Victoria Wyndham on Another World and another life\">Victoria Wyndham on Another World and another life</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "HASH(0x4c3c6b0)",
+      "HASH(0x49bfb00)"
+   ],
+   "created" : 1373461729,
+   "book" : [],
+   "micro-www" : {
+      "nude_mouse" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Immunology mice"
+      ],
+      "text" : "\nA 'nude mouse' is a laboratory mouse from a strain with a genetic mutation that\ncauses a deteriorated or absent thymus, resulting in an inhibited immune system\ndue to a greatly reduced number of T cells. The phenotype, or main outward\nappearance of the mouse is a lack of body hair, which gives it the \"nude\"\nnickname. The nude mouse is valuable to research because it can receive many\ndifferent types of tissue and tumor grafts, as it mounts no rejection response.\nThese xenografts are commonly used in research to test new methods of imaging\nand treating tumors. The genetic basis of the nude mouse mutation is a\ndisruption of the FOXN1 gene.<ref></ref><ref></ref>\n",
+      "title" : "nude mouse",
+      "headings" : [
+         "Nomenclature",
+         "History and significance",
+         "Genetics",
+         "Life span",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Immune_system",
+      "2: Xenografts",
+      "1: Laboratory_mouse",
+      "1: Genetic_mutation",
+      "1: Thymus",
+      "1: T_cells",
+      "1: Rejection",
+      "1: FOXN1",
+      "1: Gene",
+      "1: Ruchill",
+      "1: Glasgow",
+      "1: T_lymphocytes",
+      "1: Immune_response",
+      "1: CD4",
+      "1: Helper_T_cells",
+      "1: Cell-mediated_immunity",
+      "1: Hypersensitivity",
+      "1: Malignant",
+      "1: CD8",
+      "1: Cytotoxic_T_cells",
+      "1: Graft_rejection",
+      "1: Leukemia",
+      "1: Tumors",
+      "1: AIDS",
+      "1: Immune_deficiency",
+      "1: Leprosy",
+      "1: Allografts",
+      "1: Knockout_mice",
+      "1: Heterozygous",
+      "1: Skinny_pig",
+      "1: Earmouse"
+   ]
+}

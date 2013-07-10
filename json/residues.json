@@ -12,7 +12,23 @@
       "ash",
       "physical_entity"
    ],
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Residue_(complex_analysis)\">Residue (complex analysis)</a>, complex number describing the behavior of line integrals of a meromorphic function around a singularity",
+      "https://en.wikipedia.org/wiki/Residue",
+      "\n<a href=\"http://duckduckgo.com/residuary_estate\">Residue (law)</a>, portion of the testator's estate that is not specifically devised to someone in the will",
+      "HASH(0x68727a8)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Residue_(chemistry)\">Residue (chemistry)</a>, material remaining after a distillation or an evaporation, or portion of a larger molecule",
+      "Residue",
+      "http://www.merriam-webster.com/dictionary/residue",
+      "\n<a href=\"http://duckduckgo.com/Crop_residue\">Crop residue</a>, materials left after agricultural processes",
+      "residue definition: something that remains after a part is taken, separated, or designated or after the completion of a process.",
+      "Merriam-Webster",
+      "HASH(0x67f5210)",
+      "D",
+      "\nThe <a href=\"http://duckduckgo.com/remainder\">remainder</a> in <a href=\"http://duckduckgo.com/?q=modular arithmetic\">modular arithmetic</a>",
+      "\n<a href=\"http://duckduckgo.com/Heaviside_cover-up_method\">Residue (partial fraction decomposition)</a>, the numerator of the expanded terms"
+   ],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Davos_man%27_versus_%27Camp_Igloo%27;_42nd_World_Economic_Forum_convenes_in_Swiss_alps\" title=\"&#39;Davos man&#39; versus &#39;Camp Igloo&#39;; 42nd World Economic Forum convenes in Swiss alps\">&#39;Davos man&#39; versus &#39;Camp Igloo&#39;; 42nd World Economic Forum convenes in Swiss alps</a>",
@@ -37,34 +53,18 @@
          []
       ]
    },
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Residue_(complex_analysis)\">Residue (complex analysis)</a>, complex number describing the behavior of line integrals of a meromorphic function around a singularity",
-      "https://en.wikipedia.org/wiki/Residue",
-      "\n<a href=\"http://duckduckgo.com/residuary_estate\">Residue (law)</a>, portion of the testator's estate that is not specifically devised to someone in the will",
-      "HASH(0x68727a8)",
-      "Wikipedia",
-      "\n<a href=\"http://duckduckgo.com/Residue_(chemistry)\">Residue (chemistry)</a>, material remaining after a distillation or an evaporation, or portion of a larger molecule",
-      "Residue",
-      "http://www.merriam-webster.com/dictionary/residue",
-      "\n<a href=\"http://duckduckgo.com/Crop_residue\">Crop residue</a>, materials left after agricultural processes",
-      "residue definition: something that remains after a part is taken, separated, or designated or after the completion of a process.",
-      "Merriam-Webster",
-      "HASH(0x67f5210)",
-      "D",
-      "\nThe <a href=\"http://duckduckgo.com/remainder\">remainder</a> in <a href=\"http://duckduckgo.com/?q=modular arithmetic\">modular arithmetic</a>",
-      "\n<a href=\"http://duckduckgo.com/Heaviside_cover-up_method\">Residue (partial fraction decomposition)</a>, the numerator of the expanded terms"
-   ],
+   "Lists" : [],
    "micro-www-search" : [
       "residues\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n"
    ],
    "created" : 1373457742,
+   "book" : [],
    "micro-www" : {
       "residues" : [
          "residues",
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Residue' may refer to:\n* Residue (chemistry), material remaining after a distillation or an\n  evaporation, or portion of a larger molecule ** In particular, in biology,\n  often refers specifically to an amino acid\n* Residue (law), portion of the testator's estate that is not specifically\n  devised to someone in the will\n* Residue (complex analysis), complex number describing the behavior of line\n  integrals of a meromorphic function around a singularity\n* Residue (partial fraction decomposition), the numerator of the expanded terms\n* Crop residue, materials left after agricultural processes\n* A variant title of a British folk song also known as [[Levy-Dew]] and New\n  Year Carol.\n\n'Residue' may also be:\n* The remainder in modular arithmetic\n* The heavier fractions of crude oil that fail to vaporize in an oil refinery\n* residual value\n",

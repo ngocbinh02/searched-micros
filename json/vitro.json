@@ -3,7 +3,18 @@
       "in_vitro"
    ],
    "micro" : [],
-   "Lists" : [],
+   "duck" : [
+      "Vitro Corporation was a major United States defense contractor which became part of BAE Systems Inc. in 1999.",
+      "https://en.wikipedia.org/wiki/Vitro_Corporation",
+      "HASH(0x4f3f650)",
+      "Wikipedia",
+      "Vitro Corporation",
+      "Vitro Corporation was a major United States defense contractor which became part of BAE Systems in 1999.",
+      "HASH(0x5016290)",
+      "\n<a href=\"http://duckduckgo.com/c/Defense_companies_of_the_United_States\">Defense companies of the United States</a>",
+      "Vitro Corporation was a major United States defense contractor which became part of BAE Systems Inc. in 1999.",
+      "A"
+   ],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Experiment_on_frozen_sperm_raises_hopes_of_%22restoring%22_extinct_mammals\" title=\"Experiment on frozen sperm raises hopes of &quot;restoring&quot; extinct mammals\">Experiment on frozen sperm raises hopes of &quot;restoring&quot; extinct mammals</a>",
@@ -20,29 +31,18 @@
          []
       ]
    },
-   "duck" : [
-      "Vitro Corporation was a major United States defense contractor which became part of BAE Systems Inc. in 1999.",
-      "https://en.wikipedia.org/wiki/Vitro_Corporation",
-      "HASH(0x4f3f650)",
-      "Wikipedia",
-      "Vitro Corporation",
-      "Vitro Corporation was a major United States defense contractor which became part of BAE Systems in 1999.",
-      "HASH(0x5016290)",
-      "\n<a href=\"http://duckduckgo.com/c/Defense_companies_of_the_United_States\">Defense companies of the United States</a>",
-      "Vitro Corporation was a major United States defense contractor which became part of BAE Systems Inc. in 1999.",
-      "A"
-   ],
+   "Lists" : [],
    "micro-www-search" : [
       "vitro\n>http\nhttp://en.m.wikipedia.org/wiki/Vitro_Corporation\nhttp://en.wikipedia.org/w/index.php?title=Vitro_Corporation&oldid=475809522\nhttp://www.fundinguniverse.com/company-histories/Vitro-Corp-Company-History.html\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n"
    ],
    "created" : 1373459466,
+   "book" : [],
    "micro-www" : {
       "vitro" : [
          "vitro",
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [
          "Defense companies of the United States"

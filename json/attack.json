@@ -66,29 +66,7 @@
       "abstract_entity",
       "operation"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Attack_(fencing)\">Attack (fencing)</a> - In fencing, an attack is the first offensive movement of a phrase.",
-      "https://en.wikipedia.org/wiki/Attack",
-      "\n<a href=\"http://duckduckgo.com/Attack!_Books\">Attack! Books</a>, publisher",
-      "Wikipedia",
-      "Attack",
-      "http://www.merriam-webster.com/dictionary/attack",
-      "\n<a href=\"http://duckduckgo.com/The_Attack_(band)\">The Attack (band)</a>, 1960s",
-      "attack definition: to set upon or work against forcefully.",
-      "\n<a href=\"http://duckduckgo.com/Attack_Attack!_(album)\">Attack Attack! (album)</a>, 2010",
-      "\n<a href=\"http://duckduckgo.com/Attack_(political_party)\">Political Party Attack</a>, a political party in Bulgaria",
-      "HASH(0x5cd2f38)",
-      "\n<a href=\"http://duckduckgo.com/Offensive_(military)\">Offensive (military)</a> - An offensive is a military operation that seeks through aggressive projection of armed force to occupy territory, gain an objective or achieve some larger strategic, operational or tactical goal.",
-      "\n<a href=\"http://duckduckgo.com/Charge_(warfare)\">Charge (warfare)</a> - A charge is a maneuver in battle in which soldiers advance towards their enemy at their best speed in an attempt to engage in close combat.",
-      "\n<a href=\"http://duckduckgo.com/Attack_Records\">Attack Records</a>, label",
-      "\n<a href=\"http://duckduckgo.com/Strike_(attack)\">Strike (attack)</a> - A strike is a directed physical attack with either an inanimate object or with a part of the human body intended to cause blunt trauma or penetrating trauma upon an opponent.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Attack_(computing)\">Attack (computing)</a> - In computer and computer networks an attack is any attempt to destroy, expose, alter, disable, steal or gain unauthorized access to or make unauthorized use of an asset.",
-      "HASH(0x5cf65d8)",
-      "\n<a href=\"http://duckduckgo.com/Attack_(music)\">Attack (music)</a>, the prefix or initial phase of a sound",
-      "\n<a href=\"http://duckduckgo.com/Attack_Attack!\">Attack Attack!</a>, a metalcore band from Westerville, Ohio, United States",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Two_killed_in_gun_attack_in_Northern_Ireland\" title=\"Two killed in gun attack in Northern Ireland\">Two killed in gun <span class=\"searchmatch\">attack</span> in Northern Ireland</a>",
@@ -117,7 +95,29 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Attack_(fencing)\">Attack (fencing)</a> - In fencing, an attack is the first offensive movement of a phrase.",
+      "https://en.wikipedia.org/wiki/Attack",
+      "\n<a href=\"http://duckduckgo.com/Attack!_Books\">Attack! Books</a>, publisher",
+      "Wikipedia",
+      "Attack",
+      "http://www.merriam-webster.com/dictionary/attack",
+      "\n<a href=\"http://duckduckgo.com/The_Attack_(band)\">The Attack (band)</a>, 1960s",
+      "attack definition: to set upon or work against forcefully.",
+      "\n<a href=\"http://duckduckgo.com/Attack_Attack!_(album)\">Attack Attack! (album)</a>, 2010",
+      "\n<a href=\"http://duckduckgo.com/Attack_(political_party)\">Political Party Attack</a>, a political party in Bulgaria",
+      "HASH(0x5cd2f38)",
+      "\n<a href=\"http://duckduckgo.com/Offensive_(military)\">Offensive (military)</a> - An offensive is a military operation that seeks through aggressive projection of armed force to occupy territory, gain an objective or achieve some larger strategic, operational or tactical goal.",
+      "\n<a href=\"http://duckduckgo.com/Charge_(warfare)\">Charge (warfare)</a> - A charge is a maneuver in battle in which soldiers advance towards their enemy at their best speed in an attempt to engage in close combat.",
+      "\n<a href=\"http://duckduckgo.com/Attack_Records\">Attack Records</a>, label",
+      "\n<a href=\"http://duckduckgo.com/Strike_(attack)\">Strike (attack)</a> - A strike is a directed physical attack with either an inanimate object or with a part of the human body intended to cause blunt trauma or penetrating trauma upon an opponent.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Attack_(computing)\">Attack (computing)</a> - In computer and computer networks an attack is any attempt to destroy, expose, alter, disable, steal or gain unauthorized access to or make unauthorized use of an asset.",
+      "HASH(0x5cf65d8)",
+      "\n<a href=\"http://duckduckgo.com/Attack_(music)\">Attack (music)</a>, the prefix or initial phase of a sound",
+      "\n<a href=\"http://duckduckgo.com/Attack_Attack!\">Attack Attack!</a>, a metalcore band from Westerville, Ohio, United States",
+      "D"
+   ],
    "micro-www-search" : [
       "attacks\n>http\nhttp://en.m.wikipedia.org/wiki/Attack\nhttp://en.wikipedia.org/w/index.php?title=Attack&oldid=543811970\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "attack\n>http\nhttp://en.m.wikipedia.org/wiki/Attack\nhttp://en.wikipedia.org/w/index.php?title=Attack&oldid=543811970\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
@@ -130,7 +130,6 @@
       "Attack!_Books\n>http\nhttp://en.m.wikipedia.org/wiki/Attack!_Books\nhttp://en.wikipedia.org/w/index.php?title=Attack!_Books&oldid=514382107\nhttp://web.archive.org/web/20010202215500http:///creationbooks.com/attack.html\nhttp://www.3ammagazine.com/magazine/issue_5/articles/attack_books.html\nhttp://www.gleeson0.demon.co.uk/attack.htm\n"
    ],
    "created" : 1373455394,
-   "book" : [],
    "micro-www" : {
       "attack" : [
          "attacks",
@@ -145,6 +144,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Attack' may refer to:\n\n* Offensive (military)\n* Charge (warfare)\n* Attack (fencing)\n* Strike (attack)\n* The Attack (band), 1960s\n* Attack Records, label\n* Attack! Books, publisher\n* Attack (computing)\n* Attack (music), the prefix or initial phase of a sound\n* Political Party Attack, a political party in Bulgaria\n",

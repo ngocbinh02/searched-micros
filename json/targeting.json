@@ -10,7 +10,31 @@
       "direct",
       "point"
    ],
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Targeting",
+      "\n<a href=\"http://duckduckgo.com/geotargeting\">Geo targeting</a>, in internet marketing",
+      "Wikipedia",
+      "Targeting",
+      "http://www.merriam-webster.com/dictionary/targeting",
+      "targeting definition: to make a target of.",
+      "\n<a href=\"http://duckduckgo.com/Targeted_advertising\">Targeted advertising</a>, to select a demographic or other group of people to <a href=\"http://duckduckgo.com/?q=advertise\">advertise</a> to, and create advertisements appropriately",
+      "\n<a href=\"http://duckduckgo.com/Geographic_targeting\">Geographic targeting</a>, in geography",
+      "\n<a href=\"http://duckduckgo.com/Behavioral_targeting\">Behavioral targeting</a>, in marketing",
+      "Targeting is to make a thing or group of things a target, to select it or them to be acted upon.",
+      "\n<a href=\"http://duckduckgo.com/Gene_targeting\">Gene targeting</a>, in genetics",
+      "HASH(0x51e5468)",
+      "\n<a href=\"http://duckduckgo.com/Targeting_pods\">Targeting pods</a>, in warfare",
+      "\n<a href=\"http://duckduckgo.com/Inflation_targeting\">Inflation targeting</a>, in economics",
+      "https://i.duckduckgo.com/i/495ae058.png",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Targeting_(politics)\">Targeting (politics)</a>, to determine where to spend the resources of time, money, manpower and attention when campaigning for election",
+      "HASH(0x51aae00)",
+      "\n<a href=\"http://duckduckgo.com/Targeting_(warfare)\">Targeting (warfare)</a>, to select objects or installations to be attacked, taken, or destroyed",
+      "D",
+      "Targeting is to make a thing or group of things a target, to select it or them to be acted upon.",
+      "\n<a href=\"http://duckduckgo.com/Targeting_tower\">Targeting tower</a>, a radio frequency antenna",
+      "\n<a href=\"http://duckduckgo.com/Protein_targeting\">Protein targeting</a>, in cell biology, is the mechanism by which a protein is transported to its proper destination"
+   ],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Insurgency_targeting_of_teachers_causes_south_Thailand_school_closures\" title=\"Insurgency targeting of teachers causes south Thailand school closures\">Insurgency <span class=\"searchmatch\">targeting</span> of teachers causes south Thailand school closures</a>",
@@ -41,31 +65,7 @@
          []
       ]
    },
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Targeting",
-      "\n<a href=\"http://duckduckgo.com/geotargeting\">Geo targeting</a>, in internet marketing",
-      "Wikipedia",
-      "Targeting",
-      "http://www.merriam-webster.com/dictionary/targeting",
-      "targeting definition: to make a target of.",
-      "\n<a href=\"http://duckduckgo.com/Targeted_advertising\">Targeted advertising</a>, to select a demographic or other group of people to <a href=\"http://duckduckgo.com/?q=advertise\">advertise</a> to, and create advertisements appropriately",
-      "\n<a href=\"http://duckduckgo.com/Geographic_targeting\">Geographic targeting</a>, in geography",
-      "\n<a href=\"http://duckduckgo.com/Behavioral_targeting\">Behavioral targeting</a>, in marketing",
-      "Targeting is to make a thing or group of things a target, to select it or them to be acted upon.",
-      "\n<a href=\"http://duckduckgo.com/Gene_targeting\">Gene targeting</a>, in genetics",
-      "HASH(0x51e5468)",
-      "\n<a href=\"http://duckduckgo.com/Targeting_pods\">Targeting pods</a>, in warfare",
-      "\n<a href=\"http://duckduckgo.com/Inflation_targeting\">Inflation targeting</a>, in economics",
-      "https://i.duckduckgo.com/i/495ae058.png",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Targeting_(politics)\">Targeting (politics)</a>, to determine where to spend the resources of time, money, manpower and attention when campaigning for election",
-      "HASH(0x51aae00)",
-      "\n<a href=\"http://duckduckgo.com/Targeting_(warfare)\">Targeting (warfare)</a>, to select objects or installations to be attacked, taken, or destroyed",
-      "D",
-      "Targeting is to make a thing or group of things a target, to select it or them to be acted upon.",
-      "\n<a href=\"http://duckduckgo.com/Targeting_tower\">Targeting tower</a>, a radio frequency antenna",
-      "\n<a href=\"http://duckduckgo.com/Protein_targeting\">Protein targeting</a>, in cell biology, is the mechanism by which a protein is transported to its proper destination"
-   ],
+   "Lists" : [],
    "micro-www-search" : [
       "targeting\n>http\nhttp://en.m.wikipedia.org/wiki/Targeting\nhttp://en.wikipedia.org/w/index.php?title=Targeting&oldid=450961352\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "Targeting_tower\n>http\nhttp://edwardbetts.com/find_link?q=Targeting_tower\nhttp://en.m.wikipedia.org/wiki/Targeting_tower\nhttp://en.wikipedia.org/w/index.php?title=Special%3ASearch&redirs=1&search=Targeting+tower&fulltext=Search&ns0=1&title=Special%3ASearch&advanced=1&fulltext=Targeting+tower\nhttp://en.wikipedia.org/w/index.php?title=Targeting_tower&oldid=539236362\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/40px-Wiki_letter_w.svg.png\n\n",
@@ -74,6 +74,7 @@
       "Targeting_(politics)\n>http\nhttp://en.m.wikipedia.org/wiki/Targeting_(politics)\nhttp://en.wikipedia.org/w/index.php?title=Targeting_(politics)&oldid=432913601\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n"
    ],
    "created" : 1373459044,
+   "book" : [],
    "micro-www" : {
       "targeting" : [
          "targeting",
@@ -84,7 +85,6 @@
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n\n\n'Targeting' is to make a thing or group of things a target, to select it or them\nto be acted upon.\n\n* Targeting (warfare), to select objects or installations to be attacked, taken,\n  or destroyed\n* Targeting (politics), to determine where to spend the resources of time,\n  money, manpower and attention when campaigning for election\n* Targeted advertising, to select a demographic or other group of people to\n  advertise to, and create advertisements appropriately\n* Targeting pods, in warfare\n* Targeting tower, a radio frequency antenna\n* Behavioral targeting, in marketing\n* Gene targeting, in genetics\n* Geo targeting, in internet marketing\n* Geographic targeting, in geography\n* Inflation targeting, in economics\n* Protein targeting, in cell biology, is the mechanism by which a protein is\n  transported to its proper destination\n",

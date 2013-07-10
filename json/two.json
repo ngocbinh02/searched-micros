@@ -107,16 +107,8 @@
       "duo",
       "digit"
    ],
-   "duck" : [
-      "Captain Howard Rappaport was a 24th century Starfleet officer and commander of the.",
-      "http://memory-beta.wikia.com/wiki/Howard_Rappaport",
-      "HASH(0x5c7ee10)",
-      "Memory Beta",
-      "Howard Rappaport",
-      "HASH(0x5c801d0)",
-      "\n<a href=\"http://duckduckgo.com/7/c/Starfleet_captains\">Starfleet captains</a>",
-      "Captain Howard Rappaport was a 24th century Starfleet officer and commander of the.",
-      "A"
+   "Lists" : [
+      "List_of_twins"
    ],
    "common" : {
       "milestones" : [
@@ -146,8 +138,16 @@
          []
       ]
    },
-   "Lists" : [
-      "List_of_twins"
+   "duck" : [
+      "Captain Howard Rappaport was a 24th century Starfleet officer and commander of the.",
+      "http://memory-beta.wikia.com/wiki/Howard_Rappaport",
+      "HASH(0x5c7ee10)",
+      "Memory Beta",
+      "Howard Rappaport",
+      "HASH(0x5c801d0)",
+      "\n<a href=\"http://duckduckgo.com/7/c/Starfleet_captains\">Starfleet captains</a>",
+      "Captain Howard Rappaport was a 24th century Starfleet officer and commander of the.",
+      "A"
    ],
    "micro-www-search" : [
       "Twos_(Enneagram_of_Personality)\n>http\nhttp://en.m.wikipedia.org/wiki/Enneagram_of_Personality#Twos\nhttp://en.wikipedia.org/w/index.php?title=Enneagram_of_Personality&oldid=539448327#Twos\n\n>pdf\nhttp://www.awarenesstoaction.com/downloads/the_instincts.pdf\nhttp://www.awarenesstoaction.com/downloads/the_instincts.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n\n",
@@ -162,7 +162,6 @@
       "Two\n>image\nhttp://upload.wikimedia.org/math/9/5/7/9578d15dcd41fd488c7b07e838c98322.png\nhttp://upload.wikimedia.org/wikipedia/commons/4/47/En-us-two.ogg\n\n>media\nhttp://upload.wikimedia.org/wikipedia/commons/4/47/En-us-two.ogg\n"
    ],
    "created" : 1373456257,
-   "book" : [],
    "micro-www" : {
       "two" : [
          "Twos_(Enneagram_of_Personality)",
@@ -178,6 +177,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "2 (number)",

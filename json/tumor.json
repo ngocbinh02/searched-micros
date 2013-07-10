@@ -74,24 +74,7 @@
       "neurofibroma",
       "physiological_condition"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Tumor",
-      "Wikipedia",
-      "Tumor",
-      "http://www.merriam-webster.com/dictionary/tumor",
-      "tumor definition: a swollen or distended part.",
-      "\n<a href=\"http://duckduckgo.com/c/Anatomical_pathology\">Anatomical pathology</a>",
-      "A tumor (American English) or tumour (British English) is commonly used as a synonym for a neoplasm (a solid or fluid-filled [cystic] lesion that may or may not be formed by an abnormal growth of neoplastic cells) that appears enlarged in size.",
-      "HASH(0x4f67700)",
-      "\n<a href=\"http://duckduckgo.com/History_of_medicine\">History of medicine</a>",
-      "https://i.duckduckgo.com/i/4d49ee7f.jpg",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/c/Medical_signs\">Medical signs</a>",
-      "HASH(0x50105a8)",
-      "\n<a href=\"http://duckduckgo.com/c/Oncology\">Oncology</a>",
-      "A",
-      "A tumor (American English) or tumour (British English) is commonly used as a synonym for a neoplasm (a solid or fluid-filled [cystic] lesion that may or may not be formed by an abnormal growth of neoplastic cells) that appears enlarged in size."
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ted_Kennedy_diagnosed_with_brain_tumor\" title=\"Ted Kennedy diagnosed with brain tumor\">Ted Kennedy diagnosed with brain <span class=\"searchmatch\">tumor</span></a>",
@@ -120,7 +103,24 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Tumor",
+      "Wikipedia",
+      "Tumor",
+      "http://www.merriam-webster.com/dictionary/tumor",
+      "tumor definition: a swollen or distended part.",
+      "\n<a href=\"http://duckduckgo.com/c/Anatomical_pathology\">Anatomical pathology</a>",
+      "A tumor (American English) or tumour (British English) is commonly used as a synonym for a neoplasm (a solid or fluid-filled [cystic] lesion that may or may not be formed by an abnormal growth of neoplastic cells) that appears enlarged in size.",
+      "HASH(0x4f67700)",
+      "\n<a href=\"http://duckduckgo.com/History_of_medicine\">History of medicine</a>",
+      "https://i.duckduckgo.com/i/4d49ee7f.jpg",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/c/Medical_signs\">Medical signs</a>",
+      "HASH(0x50105a8)",
+      "\n<a href=\"http://duckduckgo.com/c/Oncology\">Oncology</a>",
+      "A",
+      "A tumor (American English) or tumour (British English) is commonly used as a synonym for a neoplasm (a solid or fluid-filled [cystic] lesion that may or may not be formed by an abnormal growth of neoplastic cells) that appears enlarged in size."
+   ],
    "micro-www-search" : [
       "tumors\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Hidradenoma.jpg/200px-Hidradenoma.jpg\n\n",
       "tumorigenesis\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cancer_requires_multiple_mutations_from_NIHen.png/150px-Cancer_requires_multiple_mutations_from_NIHen.png\n\n",
@@ -137,7 +137,6 @@
       "Tumor\n>http\nhttp://en.m.wikipedia.org/wiki/Tumor\nhttp://en.wikipedia.org/w/index.php?title=Tumor&oldid=543626572\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Hidradenoma.jpg/200px-Hidradenoma.jpg\n"
    ],
    "created" : 1373458537,
-   "book" : [],
    "micro-www" : {
       "tumor" : [
          "tumors",
@@ -156,6 +155,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Anatomical pathology",

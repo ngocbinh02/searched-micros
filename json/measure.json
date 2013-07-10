@@ -1,4 +1,11 @@
 {
+   "google" : [
+      "/url?q=http://en.wikipedia.org/wiki/Measurement&sa=U&ei=x3rYUdGDMIPGtQbh24G4BQ&ved=0CBgQFjAA&usg=AFQjCNFXYh0J1HtPpYd8BswBZvNtwNcrBA",
+      "/url?q=http://en.wikipedia.org/wiki/Measure_(mathematics)&sa=U&ei=x3rYUdGDMIPGtQbh24G4BQ&ved=0CBwQFjAB&usg=AFQjCNGSu97qpEJRAr3fZF40JL36v54Xow",
+      "/url?q=http://www.thefreedictionary.com/measure&sa=U&ei=x3rYUdGDMIPGtQbh24G4BQ&ved=0CCUQFjAC&usg=AFQjCNEbpVpArMPh0L2UjB65-5HuOKJWRA",
+      "/url?q=http://thesaurus.com/browse/measure&sa=U&ei=x3rYUdGDMIPGtQbh24G4BQ&ved=0CC4QFjAD&usg=AFQjCNHgqDuQjQgtP33TT396tB_MXypCIw",
+      "/url?q=http://www.cpc.unc.edu/measure&sa=U&ei=x3rYUdGDMIPGtQbh24G4BQ&ved=0CDIQFjAE&usg=AFQjCNHc3-kHygYrG_MZc-vbAiq9Bt5O9w"
+   ],
    "micrownet" : [
       "board_measure",
       "capacity_measure",
@@ -25,13 +32,6 @@
       "square_measure",
       "tape_measure",
       "yard_measure"
-   ],
-   "google" : [
-      "/url?q=http://en.wikipedia.org/wiki/Measurement&sa=U&ei=x3rYUdGDMIPGtQbh24G4BQ&ved=0CBgQFjAA&usg=AFQjCNFXYh0J1HtPpYd8BswBZvNtwNcrBA",
-      "/url?q=http://en.wikipedia.org/wiki/Measure_(mathematics)&sa=U&ei=x3rYUdGDMIPGtQbh24G4BQ&ved=0CBwQFjAB&usg=AFQjCNGSu97qpEJRAr3fZF40JL36v54Xow",
-      "/url?q=http://www.thefreedictionary.com/measure&sa=U&ei=x3rYUdGDMIPGtQbh24G4BQ&ved=0CCUQFjAC&usg=AFQjCNEbpVpArMPh0L2UjB65-5HuOKJWRA",
-      "/url?q=http://thesaurus.com/browse/measure&sa=U&ei=x3rYUdGDMIPGtQbh24G4BQ&ved=0CC4QFjAD&usg=AFQjCNHgqDuQjQgtP33TT396tB_MXypCIw",
-      "/url?q=http://www.cpc.unc.edu/measure&sa=U&ei=x3rYUdGDMIPGtQbh24G4BQ&ved=0CDIQFjAE&usg=AFQjCNHc3-kHygYrG_MZc-vbAiq9Bt5O9w"
    ],
    "duckduckgo" : {
       "urls" : [

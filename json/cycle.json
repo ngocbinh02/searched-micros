@@ -36,8 +36,19 @@
       "quantity",
       "rhythm"
    ],
-   "Lists" : [
-      "List_of_cycles"
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Cycle",
+      "HASH(0x4f802a0)",
+      "Wikipedia",
+      "Cycle",
+      "http://www.merriam-webster.com/dictionary/cycle",
+      "cycle definition: an interval of time during which a sequence of a recurring succession of events or phenomena is completed.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Instruction_cycle\">Instruction cycle</a>, the time period during which a computer processes a machine language instruction",
+      "\n<a href=\"http://duckduckgo.com/Business_cycle\">Business cycle</a>, economy-wide fluctuations in production or economic activity over several months or years",
+      "HASH(0x201f398)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Bicycle\">Bicycle</a> or <a href=\"http://duckduckgo.com/?q=Motorcycle\">Motorcycle</a>"
    ],
    "common" : {
       "milestones" : [
@@ -67,19 +78,8 @@
          []
       ]
    },
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Cycle",
-      "HASH(0x4f802a0)",
-      "Wikipedia",
-      "Cycle",
-      "http://www.merriam-webster.com/dictionary/cycle",
-      "cycle definition: an interval of time during which a sequence of a recurring succession of events or phenomena is completed.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Instruction_cycle\">Instruction cycle</a>, the time period during which a computer processes a machine language instruction",
-      "\n<a href=\"http://duckduckgo.com/Business_cycle\">Business cycle</a>, economy-wide fluctuations in production or economic activity over several months or years",
-      "HASH(0x201f398)",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Bicycle\">Bicycle</a> or <a href=\"http://duckduckgo.com/?q=Motorcycle\">Motorcycle</a>"
+   "Lists" : [
+      "List_of_cycles"
    ],
    "micro-www-search" : [
       "cycles\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
@@ -97,6 +97,7 @@
       "Cycle_(algebraic_topology)\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Chainline.svg/220px-Chainline.svg.png\n"
    ],
    "created" : 1373459285,
+   "book" : [],
    "micro-www" : {
       "cycle" : [
          "cycles",
@@ -115,7 +116,6 @@
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Cycle', and in some cases 'cyclic', may refer to:\n\n* Bicycle\n* Motorcycle\n* Tricycle\n* Unicycle\n* See also List of cycles\n",

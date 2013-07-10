@@ -1,0 +1,113 @@
+{
+   "micrownet" : [
+      "rifle_grenade"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Japanese_anime_producer_Yoshinobu_Nishizaki_dies_at_age_75\" title=\"Japanese anime producer Yoshinobu Nishizaki dies at age 75\">Japanese anime producer Yoshinobu Nishizaki dies at age 75</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Grenade_attack_on_fellow_soldiers_puts_sergeant_on_death_row\" title=\"Grenade attack on fellow soldiers puts sergeant on death row\"><span class=\"searchmatch\">Grenade</span> attack on fellow soldiers puts sergeant on death row</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Drug_cartel_and_police_shootouts_erupt_in_Mexico\" title=\"Drug cartel and police shootouts erupt in Mexico\">Drug cartel and police shootouts erupt in Mexico</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Red_Shirts_cause_state_of_emergency_in_Thai_capital\" title=\"Red Shirts cause state of emergency in Thai capital\">Red Shirts cause state of emergency in Thai capital</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tourists_evacuated_following_shootout_between_Mexican_army_and_drug_hitmen\" title=\"Tourists evacuated following shootout between Mexican army and drug hitmen\">Tourists evacuated following shootout between Mexican army and drug hitmen</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hearing_testimony;_U.S._soldiers_took_turns_raping_14_year_old_Iraqi_girl_before_killing_her\" title=\"Hearing testimony; U.S. soldiers took turns raping 14 year old Iraqi girl before killing her\">Hearing testimony; U.S. soldiers took turns raping 14 year old Iraqi girl before killing her</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "HASH(0x4bb4c70)",
+      "HASH(0x4b33ab0)"
+   ],
+   "created" : 1373461808,
+   "book" : [],
+   "micro-www" : {
+      "rifle_grenade" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Grenades",
+         "Grenade launchers",
+         "Explosive weapons",
+         "Rifle grenades"
+      ],
+      "text" : "\n\n cutaway]]\n\nA 'rifle grenade' is a grenade that uses a rifle-based launcher to permit a\nlonger effective range than would be possible if the grenade was thrown by hand.\nThe practice of projecting grenades with rifle-mounted launchers was first\nwidely used during World War I and continues to the present, with the term\n\"rifle grenade\" now encompassing many different types of payloads including high\nexplosive, fragmentation, and anti-tank warheads as well as concussion, smoke,\nincendiary, and flare missiles. Many armies have replaced rifle grenades with\ndedicated grenade launchers - often attached as an auxiliary weapon on a rifle.\n",
+      "title" : "rifle grenade",
+      "headings" : [
+         "Advantages and disadvantages",
+         "Operation",
+         "History",
+         "Types",
+         "Legal issues",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "4: Grenade_launcher",
+      "4: 22_mm_grenade",
+      "3: APAV40",
+      "3: AC58",
+      "2: World_War_I",
+      "2: Trench_warfare",
+      "2: No_2_grenade",
+      "2: Hales_rifle_grenade",
+      "2: Mills_bomb",
+      "2: Type_89_grenade_discharger",
+      "2: M203_grenade_launcher",
+      "2: ENERGA_anti-tank_rifle_grenade",
+      "2: SIMON_breach_grenade",
+      "1: Grenade",
+      "1: Rifle",
+      "1: Hand-grenade",
+      "1: Rocket_launcher",
+      "1: Battle_of_Port_Arthur",
+      "1: Russo-Japanese_War",
+      "1: Mills_Bomb",
+      "1: Muzzle_blast",
+      "1: Springfield_1903",
+      "1: Blank_cartridge",
+      "1: Carcano",
+      "1: High_explosive_anti-tank_warhead",
+      "1: NATO",
+      "1: STANAG",
+      "1: M79_Grenade_launcher",
+      "1: Assault_rifle",
+      "1: M16_rifle",
+      "1: Israel_Military_Industries",
+      "1: FN_Herstal",
+      "1: Combined_arms",
+      "1: Grenadier",
+      "1: USMC",
+      "1: RGD-5",
+      "1: No_68_AT_Grenade",
+      "1: Less_lethal",
+      "1: Riot_shotgun",
+      "1: Nazi_Germany",
+      "1: Propaganda",
+      "1: United_States",
+      "1: National_Firearms_Act",
+      "1: Destructive_device",
+      "1: Gun_laws_in_California",
+      "1: M1_Garand_rifle",
+      "1: Karabiner_98k",
+      "1: No._68_AT_Grenade",
+      "1: M31_HEAT_rifle_grenade",
+      "1: Type_06_rifle_grenade",
+      "1: Type_91_grenade",
+      "1: Mk_2_grenade",
+      "1: M7_grenade_launcher",
+      "1: Schiessbecher",
+      "1: Dilagrama_m/65",
+      "1: Portugal",
+      "1: 7.62×51mm_NATO",
+      "1: Heckler_&_Koch_G3",
+      "1: Battle_rifle",
+      "1: Hand_mortar"
+   ]
+}

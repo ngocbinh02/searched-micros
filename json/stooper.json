@@ -1,0 +1,30 @@
+{
+   "micrownet" : [
+      "stooper"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NYC_students_attempt_to_revive_stoop_culture\" title=\"NYC students attempt to revive stoop culture\">NYC students attempt to revive <span class=\"searchmatch\">stoop</span> culture</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Newspaper_photos_highlight_New_Zealand_PM%27s_husband%27s_friendship_with_gay_doctor\" title=\"Newspaper photos highlight New Zealand PM&#39;s husband&#39;s friendship with gay doctor\">Newspaper photos highlight New Zealand PM&#39;s husband&#39;s friendship with gay doctor</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Spain_beat_Ukraine_4-0_in_Group_H\" title=\"Spain beat Ukraine 4-0 in Group H\">Spain beat Ukraine 4-0 in Group H</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Florida_wins_BCS_National_Championship_Game_over_Oklahoma\" title=\"Florida wins BCS National Championship Game over Oklahoma\">Florida wins BCS National Championship Game over Oklahoma</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "HASH(0x4a26b90)",
+      "HASH(0x49f31a8)"
+   ],
+   "created" : 1373461787,
+   "book" : [],
+   "micro-www" : {
+      "stooper" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

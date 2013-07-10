@@ -1,0 +1,51 @@
+{
+   "micrownet" : [
+      "vocalizer"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Elephants_recognize_mirror_image_of_themselves\" title=\"Elephants recognize mirror image of themselves\">Elephants recognize mirror image of themselves</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Crosswords/2005/February/21\" title=\"Crosswords/2005/February/21\">Crosswords/2005/February/21</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Vocalization",
+      "\n<a href=\"http://duckduckgo.com/Speech_production\">Speech production</a>, including <a href=\"http://duckduckgo.com/?q=animal communication\">animal communication</a> produced by vocal cords",
+      "Wikipedia",
+      "Vocalization",
+      "\n<a href=\"http://duckduckgo.com/Babylonian_vocalization\">Babylonian vocalization</a> - The Babylonian vocalization is a system of diacritics devised by the Masoretes to add to the consonantal Masoretic text of the Hebrew Bible to indicate vowel quality, reflecting the Hebrew of Ba...",
+      "http://www.merriam-webster.com/dictionary/vocalization",
+      "vocalization definition: to give voice to.",
+      "\nA <a href=\"http://duckduckgo.com/sound_change\">sound change</a> whereby a consonant becomes a vowel, particularly common with",
+      "HASH(0x4cd9b78)",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Tiberian_vocalization\">Tiberian vocalization</a> - The Tiberian vocalization is a system of diacritics devised by the Masoretes to add to the consonantal Masoretic text of the Hebrew Bible; this system soon became used to vocalize other texts as...",
+      "\n<a href=\"http://duckduckgo.com/arabic_diacritics\">Harakat</a>, in the Arabic alphabet",
+      "HASH(0x4c2b938)",
+      "\n<a href=\"http://duckduckgo.com/Vocal_music\">Vocal music</a> - Vocal music is a genre of music performed by one or more singers, with or without instrumental accompaniment, in which singing provides the main focus of the piece.",
+      "\n<a href=\"http://duckduckgo.com/Niqqud\">Niqqud</a>, in the Hebrew alphabet",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/L-vocalization\">L-vocalization</a> - In linguistics, l-vocalization is a process by which an  sound is replaced by a vowel or semivowel sound."
+   ],
+   "created" : 1373461532,
+   "book" : [],
+   "micro-www" : {
+      "vocalizer" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "#redirectVocalization\n",
+      "title" : "vocalizer",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Vocalization"
+   ]
+}

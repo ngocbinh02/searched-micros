@@ -56,27 +56,9 @@
       "look_into",
       "research"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Research",
-      "Wikipedia",
-      "\n<a href=\"http://duckduckgo.com/Operations_research\">Operations research</a> - Operations research, or operational research in British usage, is a discipline that deals with the application of advanced analytical methods to help make better decisions.",
-      "Research",
-      "http://www.merriam-webster.com/dictionary/research",
-      "research definition: careful or diligent search.",
-      "\n<a href=\"http://duckduckgo.com/Open_research\">Open research</a> - Open research is research conducted in the spirit of free and open source software.",
-      "\n<a href=\"http://duckduckgo.com/European_Charter_for_Researchers\">European Charter for Researchers</a> - The European Charter for Researchers is a recommendation of good practice for researchers and employers and/or funders of researchers issued by the European Commission (DG Research).",
-      "\n<a href=\"http://duckduckgo.com/c/Research_methods\">Research methods</a>",
-      "\n<a href=\"http://duckduckgo.com/c/Research\">Research Category</a>",
-      "\n<a href=\"http://duckduckgo.com/Internet_research\">Internet research</a> - Internet research is the practice of using Internet information, especially free information on the World Wide Web, in research.",
-      "\"Research and experimental development (R&D) comprise creative work undertaken on a systematic basis in order to increase the stock of knowledge, including knowledge of man, culture and society, and the use of this stock of knowledge to devise new applications.\"",
-      "HASH(0x2020488)",
-      "https://i.duckduckgo.com/i/2d83d17c.jpeg",
-      "Merriam-Webster",
-      "HASH(0x4f615b8)",
-      "A",
-      "\"Research and experimental development (R&D) comprise creative work undertaken on a systematic basis in order to increase the stock of knowledge, including knowledge of man, culture and society, and the use of this stock of knowledge to devise new applications.\"",
-      "\n<a href=\"http://duckduckgo.com/Research%2C_Victoria\">Research, Victoria</a> - Research is a suburb of Melbourne, Victoria, Australia,  north-east from Melbourne's Central Business District.",
-      "\n<a href=\"http://duckduckgo.com/?q=RE/Search\">RE/Search</a> - RE/Search Publications is an American magazine and book publisher, based in San Francisco, founded and edited by Andrea Juno and V. Vale in 1980."
+   "Lists" : [
+      "List_of_academic_disciplines",
+      "List_of_countries_by_research_and_development_spending"
    ],
    "common" : {
       "milestones" : [
@@ -105,9 +87,27 @@
          []
       ]
    },
-   "Lists" : [
-      "List_of_academic_disciplines",
-      "List_of_countries_by_research_and_development_spending"
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Research",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Operations_research\">Operations research</a> - Operations research, or operational research in British usage, is a discipline that deals with the application of advanced analytical methods to help make better decisions.",
+      "Research",
+      "http://www.merriam-webster.com/dictionary/research",
+      "research definition: careful or diligent search.",
+      "\n<a href=\"http://duckduckgo.com/Open_research\">Open research</a> - Open research is research conducted in the spirit of free and open source software.",
+      "\n<a href=\"http://duckduckgo.com/European_Charter_for_Researchers\">European Charter for Researchers</a> - The European Charter for Researchers is a recommendation of good practice for researchers and employers and/or funders of researchers issued by the European Commission (DG Research).",
+      "\n<a href=\"http://duckduckgo.com/c/Research_methods\">Research methods</a>",
+      "\n<a href=\"http://duckduckgo.com/c/Research\">Research Category</a>",
+      "\n<a href=\"http://duckduckgo.com/Internet_research\">Internet research</a> - Internet research is the practice of using Internet information, especially free information on the World Wide Web, in research.",
+      "\"Research and experimental development (R&D) comprise creative work undertaken on a systematic basis in order to increase the stock of knowledge, including knowledge of man, culture and society, and the use of this stock of knowledge to devise new applications.\"",
+      "HASH(0x2020488)",
+      "https://i.duckduckgo.com/i/2d83d17c.jpeg",
+      "Merriam-Webster",
+      "HASH(0x4f615b8)",
+      "A",
+      "\"Research and experimental development (R&D) comprise creative work undertaken on a systematic basis in order to increase the stock of knowledge, including knowledge of man, culture and society, and the use of this stock of knowledge to devise new applications.\"",
+      "\n<a href=\"http://duckduckgo.com/Research%2C_Victoria\">Research, Victoria</a> - Research is a suburb of Melbourne, Victoria, Australia,  north-east from Melbourne's Central Business District.",
+      "\n<a href=\"http://duckduckgo.com/?q=RE/Search\">RE/Search</a> - RE/Search Publications is an American magazine and book publisher, based in San Francisco, founded and edited by Andrea Juno and V. Vale in 1980."
    ],
    "micro-www-search" : [
       "researchers\n>http\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Research-Warner-Highsmith.jpeg/220px-Research-Warner-Highsmith.jpeg\n\n>pdf\nhttp://marketing.wharton.upenn.edu/documents/research/Business%20School%20Prestige.pdf\nhttp://marketing.wharton.upenn.edu/documents/research/On%20the%20interpretation%20of%20factor%20analysis.pdf\nhttp://marketing.wharton.upenn.edu/ideas/pdf/Armstrong/MakingProgressinForecasting.pdf\nhttp://marketing.wharton.upenn.edu/ideas/pdf/Armstrong/Replications.pdf\nhttp://www.aare.edu.au/09pap/li091380.pdf\nhttp://www.artandresearch.org.uk/v2n2/pdfs/lesage.pdf\nhttp://www.artandresearch.org.uk/v2n2/pdfs/lesage.pdf\nhttp://marketing.wharton.upenn.edu/documents/research/Business%20School%20Prestige.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Research-Warner-Highsmith.jpeg/220px-Research-Warner-Highsmith.jpeg\n\n",
@@ -126,7 +126,6 @@
       "Research\n>http\nhttp://books.google.com/books?id=oFFWt5oyA3oC&pg=PA178&dq=%22original+research%22&lr=&cd=90#v=onepage&q=%22original%20research%22&f=false\nhttp://en.m.wikipedia.org/wiki/Research\nhttp://en.wikipedia.org/w/index.php?title=Research&oldid=558598585\nhttp://people.uwec.edu/piercech/ResearchMethods/Data%20collection%20methods/DATA%20COLLECTION%20METHODS.htm\nhttp://tools.wmflabs.org/ftl/cgi-bin/ftl?st=wp&su=Research\nhttp://tools.wmflabs.org/ftl/cgi-bin/ftl?st=wp&su=Research&library=0CHOOSE0\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Research-Warner-Highsmith.jpeg/220px-Research-Warner-Highsmith.jpeg\nhttp://www.doch.se/web/Artistic_Research.aspx\nhttp://www.experiment-resources.com/definition-of-research.html\nhttp://www.merriam-webster.com/dictionary/research\nhttp://www.unf.edu/library/guides/originalresearch.html\n\n>pdf\nhttp://marketing.wharton.upenn.edu/documents/research/Business%20School%20Prestige.pdf\nhttp://marketing.wharton.upenn.edu/documents/research/On%20the%20interpretation%20of%20factor%20analysis.pdf\nhttp://marketing.wharton.upenn.edu/ideas/pdf/Armstrong/MakingProgressinForecasting.pdf\nhttp://marketing.wharton.upenn.edu/ideas/pdf/Armstrong/Replications.pdf\nhttp://www.aare.edu.au/09pap/li091380.pdf\nhttp://www.artandresearch.org.uk/v2n2/pdfs/lesage.pdf\nhttp://www.artandresearch.org.uk/v2n2/pdfs/lesage.pdf\nhttp://marketing.wharton.upenn.edu/documents/research/Business%20School%20Prestige.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Research-Warner-Highsmith.jpeg/220px-Research-Warner-Highsmith.jpeg\n"
    ],
    "created" : 1373461095,
-   "book" : [],
    "micro-www" : {
       "research" : [
          "researchers",
@@ -146,6 +145,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Research|",

@@ -3,14 +3,7 @@
       "drms"
    ],
    "micro" : [],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/DRM",
-      "HASH(0x523dc90)",
-      "HASH(0x50749d0)",
-      "Wikipedia",
-      "DRM",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sony_faces_class_action_lawsuits_for_DRM\" title=\"Sony faces class action lawsuits for DRM\">Sony faces class action lawsuits for <span class=\"searchmatch\">DRM</span></a>",
@@ -36,15 +29,22 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/DRM",
+      "HASH(0x523dc90)",
+      "HASH(0x50749d0)",
+      "Wikipedia",
+      "DRM",
+      "D"
+   ],
    "micro-www-search" : [],
    "created" : 1373460731,
-   "book" : [],
    "micro-www" : {
       "drm" : [
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'DRM' may refer to:\n",

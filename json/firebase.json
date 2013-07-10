@@ -1,0 +1,79 @@
+{
+   "micrownet" : [
+      "firebase"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "A fire support base (FSB, firebase or FB) was a temporary military encampment widely used during the Vietnam War to provide artillery fire support to infantry operating in areas beyond the normal range of fire support from their own base camps.",
+      "https://en.wikipedia.org/wiki/Fire_support_base",
+      "HASH(0x4a9b4e0)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/c/Fire_support_bases\">Fire support bases</a>",
+      "Fire support base",
+      "A military base or site from which heavy fire is directed against the enemy.",
+      "https://i.duckduckgo.com/i/4bfa4ddb.jpg",
+      "HASH(0x49e3c78)",
+      "\n<a href=\"http://duckduckgo.com/Forward_operating_base\">Forward operating base</a> - A forward operating base (FOB) is any secured forward military position, commonly a military base, that is used to support tactical operations.",
+      "A fire support base (FSB, firebase or FB) was a temporary military encampment widely used during the Vietnam War to provide artillery fire support to infantry operating in areas beyond the normal range of fire support from their own base camps.",
+      "A"
+   ],
+   "created" : 1373461739,
+   "book" : [],
+   "micro-www" : {
+      "firebase" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Fortification by type",
+         "Fire support bases|"
+      ],
+      "text" : "A 'fire support base' ('FSB', 'firebase' or 'FB') was a temporary military\nencampment widely used during the Vietnam War to provide artillery fire support\nto infantry operating in areas beyond the normal range of fire support from\ntheir own base camps. FSBs followed a number of plans, their shape and\nconstruction varying based on the terrain they occupied and the projected\ngarrison. The concept has continued on through current military operations.\n",
+      "title" : "Fire%20support%20base",
+      "headings" : [
+         "Components during Vietnam War",
+         "Use in Afghanistan",
+         "See also",
+         "Notes",
+         "Sources",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Infantry",
+      "2: Tactical_Operations_Center",
+      "1: Military",
+      "1: Vietnam_War",
+      "1: Artillery",
+      "1: Fire_support",
+      "1: Howitzers",
+      "1: Platoon",
+      "1: Military_engineer",
+      "1: Battlefield_medicine",
+      "1: Combat_medic",
+      "1: Bunker",
+      "1: Battalion",
+      "1: Firebase_Bastogne",
+      "1: 101st_Airborne_Division",
+      "1: Battle_of_FSB_Mary_Ann",
+      "1: Afghanistan",
+      "1: Taliban",
+      "1: Pakistan",
+      "1: Kunar_Province",
+      "1: Firebase_Phoenix",
+      "1: Helmand_Province",
+      "1: Nangarhar_Province",
+      "1: Towr_Kham_Fire_Base",
+      "1: Firebase_Thomas",
+      "1: Firebase_Tinsley",
+      "1: Forward_operating_base"
+   ]
+}

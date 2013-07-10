@@ -1,0 +1,25 @@
+{
+   "micrownet" : [
+      "eutherian_mammal"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "HASH(0x4a78a08)",
+      "HASH(0x48630a8)"
+   ],
+   "created" : 1373461729,
+   "book" : [],
+   "micro-www" : {
+      "eutherian_mammal" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

@@ -44,15 +44,8 @@
       "earth",
       "physical_object"
    ],
-   "duck" : [
-      "Software description: team code for 2011 (C++).",
-      "https://github.com/KouretesNoxious/Monas",
-      "HASH(0x5ca3bc8)",
-      "GitHub",
-      "Monas",
-      "HASH(0x5c98768)",
-      "Software description: team code for 2011 (C++).",
-      "A"
+   "Lists" : [
+      "List_of_National_Heroes_of_Indonesia"
    ],
    "common" : {
       "milestones" : [
@@ -72,8 +65,15 @@
          []
       ]
    },
-   "Lists" : [
-      "List_of_National_Heroes_of_Indonesia"
+   "duck" : [
+      "Software description: team code for 2011 (C++).",
+      "https://github.com/KouretesNoxious/Monas",
+      "HASH(0x5ca3bc8)",
+      "GitHub",
+      "Monas",
+      "HASH(0x5c98768)",
+      "Software description: team code for 2011 (C++).",
+      "A"
    ],
    "micro-www-search" : [
       "Monasticism\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n\n",
@@ -82,7 +82,6 @@
       "Monastery\n>http\nhttp://en.m.wikipedia.org/wiki/Monastery\nhttp://en.wikipedia.org/w/index.php?title=Monastery&oldid=542125173\nhttp://www.etymonline.com/index.php?search=monastery&searchmode=none\nhttp://www.historyfish.net/monastics/monastics.html\nhttp://www.vaticanoweb.com/monasteri/initalia.asp\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Prokudin-Gorskii-09-edit2.jpg/220px-Prokudin-Gorskii-09-edit2.jpg\n"
    ],
    "created" : 1373455870,
-   "book" : [],
    "micro-www" : {
       "monas" : [
          "Monasticism",
@@ -92,6 +91,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Buildings and structures in Jakarta",

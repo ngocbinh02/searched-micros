@@ -36,7 +36,20 @@
       "someone",
       "soul"
    ],
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Dependency",
+      "HASH(0x50cdfc0)",
+      "Wikipedia",
+      "Dependency",
+      "http://www.merriam-webster.com/dictionary/dependency",
+      "dependency definition: dependence.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Dependency_ratio\">Dependency ratio</a>, in economics, the ratio of the economically dependent part of the economy to the productive part",
+      "HASH(0x4e13180)",
+      "\n<a href=\"http://duckduckgo.com/Dependency_theory\">Dependency theory</a>, an economic worldview which states that resources flow from poor states to wealthy states",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Functional_dependency\">Functional dependency</a>, a relation between database attributes allowing normalization."
+   ],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_courts_give_green_light_for_assisted_dying_case\" title=\"British courts give green light for assisted dying case\">British courts give green light for assisted dying case</a>",
@@ -64,20 +77,7 @@
          []
       ]
    },
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Dependency",
-      "HASH(0x50cdfc0)",
-      "Wikipedia",
-      "Dependency",
-      "http://www.merriam-webster.com/dictionary/dependency",
-      "dependency definition: dependence.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Dependency_ratio\">Dependency ratio</a>, in economics, the ratio of the economically dependent part of the economy to the productive part",
-      "HASH(0x4e13180)",
-      "\n<a href=\"http://duckduckgo.com/Dependency_theory\">Dependency theory</a>, an economic worldview which states that resources flow from poor states to wealthy states",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Functional_dependency\">Functional dependency</a>, a relation between database attributes allowing normalization."
-   ],
+   "Lists" : [],
    "micro-www-search" : [
       "dependent_adult_abuse\n",
       "dependent\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
@@ -87,6 +87,7 @@
       "Dependent_and_independent_verb_forms"
    ],
    "created" : 1373459567,
+   "book" : [],
    "micro-www" : {
       "dependent" : [
          "dependent_adult_abuse",
@@ -98,7 +99,6 @@
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n'Dependency', 'dependent' or 'depend' may refer to:\n",

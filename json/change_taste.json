@@ -8,10 +8,7 @@
       "modify",
       "changetaste"
    ],
-   "duck" : [
-      "HASH(0x5e04460)",
-      "HASH(0x5d1a8e0)"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK%27s_ITV_cancels_police_drama_%22The_Bill%22_after_27_years\" title=\"UK&#39;s ITV cancels police drama &quot;The Bill&quot; after 27 years\">UK&#39;s ITV cancels police drama &quot;The Bill&quot; after 27 years</a>",
@@ -39,14 +36,17 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "HASH(0x5e04460)",
+      "HASH(0x5d1a8e0)"
+   ],
    "micro-www-search" : [],
    "created" : 1373455416,
-   "book" : [],
    "micro-www" : {
       "change_taste" : [
          ""
       ]
    },
+   "book" : [],
    "micro-relation" : []
 }

@@ -1,7 +1,4 @@
 {
-   "micrownet" : [
-      "devotedness"
-   ],
    "google" : [
       "/url?q=http://www.thefreedictionary.com/devotedness&sa=U&ei=piLdUcnsJcHpPL3YgagD&ved=0CBgQFjAA&usg=AFQjCNHV20L3z96Dva8DXeHsImI3QeySBA",
       "/url?q=http://www.merriam-webster.com/thesaurus/devotedness&sa=U&ei=piLdUcnsJcHpPL3YgagD&ved=0CBwQFjAB&usg=AFQjCNFEM5Oz5PntO2HRTaLgmxyace3QHQ",
@@ -13,6 +10,9 @@
       "/url?q=http://www.lexipedia.com/english/devotedness&sa=U&ei=piLdUcnsJcHpPL3YgagD&ved=0CDEQFjAH&usg=AFQjCNFv3QSGJRtYFyiTSlz57vD8ley00w",
       "/url?q=http://www.gutenberg.org/ebooks/24293&sa=U&ei=piLdUcnsJcHpPL3YgagD&ved=0CDQQFjAI&usg=AFQjCNHPVRaS2-5MUP5adiKmEjZmZaYMFw",
       "/url?q=http://www.onelook.com/%3Floc%3Drescb%26refclue%3Dardent%26w%3Ddevotedness&sa=U&ei=piLdUcnsJcHpPL3YgagD&ved=0CDkQFjAJ&usg=AFQjCNHcUQK_FnWAhNs6OljD7qNyFsmr4A"
+   ],
+   "micrownet" : [
+      "devotedness"
    ],
    "micro" : [
       "state",
@@ -26,13 +26,7 @@
       "devotion",
       "abstract_entity"
    ],
-   "duck" : [
-      "devotedness",
-      "Feeling or displaying strong affection or attachment; ardent: a devoted friend.",
-      "http://www.merriam-webster.com/dictionary/devotedness",
-      "devotedness definition: characterized by loyalty and devotion.",
-      "Merriam-Webster"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Nazi_hunter_Simon_Wiesenthal_dead_at_96\" title=\"Nazi hunter Simon Wiesenthal dead at 96\">Nazi hunter Simon Wiesenthal dead at 96</a>",
@@ -60,14 +54,20 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "devotedness",
+      "Feeling or displaying strong affection or attachment; ardent: a devoted friend.",
+      "http://www.merriam-webster.com/dictionary/devotedness",
+      "devotedness definition: characterized by loyalty and devotion.",
+      "Merriam-Webster"
+   ],
    "micro-www-search" : [],
    "created" : 1373453969,
-   "book" : [],
    "micro-www" : {
       "devotedness" : [
          ""
       ]
    },
+   "book" : [],
    "micro-relation" : []
 }

@@ -1,0 +1,40 @@
+{
+   "micrownet" : [
+      "actuality"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Author_Amy_Scobee_recounts_abuse_as_Scientology_executive\" title=\"Author Amy Scobee recounts abuse as Scientology executive\">Author Amy Scobee recounts abuse as Scientology executive</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Iran%27s_morality_police_crack_down_on_un-Islamic_dress\" title=\"Iran&#39;s morality police crack down on un-Islamic dress\">Iran&#39;s morality police crack down on un-Islamic dress</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Actuality",
+      "HASH(0x51b71c0)",
+      "Wikipedia",
+      "Actuality",
+      "http://www.merriam-webster.com/dictionary/actuality",
+      "actuality definition: the quality or state of being actual.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Actuality_film\">Actuality film</a> - The actuality film is a non-fiction film genre that like the documentary film uses footage of real events, places, and things, yet unlike the documentary is not structured into a larger argument...",
+      "HASH(0x503c2c8)",
+      "\n<a href=\"http://duckduckgo.com/Potentiality_and_actuality\">Potentiality and actuality</a> - In philosophy, Potentiality and Actuality are principles of a dichotomy which Aristotle used throughout his philosophical works to analyze motion, causality, ethics, and physiology in his Phys...",
+      "D"
+   ],
+   "created" : 1373461669,
+   "book" : [],
+   "micro-www" : {
+      "actuality" : [
+         ""
+      ]
+   },
+   "micro-relation" : [
+      "1: Potentiality_and_actuality",
+      "1: Actuality_film"
+   ]
+}

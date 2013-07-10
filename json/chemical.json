@@ -1,17 +1,4 @@
 {
-   "google" : [
-      "/url?q=https://en.wikipedia.org/wiki/Chemical_substance&sa=U&ei=DyLdUZ6GNMf_PLuwgagE&ved=0CBgQFjAA&usg=AFQjCNFq9S-xzpYEUcZpP_SNWdcShXJFSA",
-      "/url?q=https://en.wikipedia.org/wiki/Chemistry&sa=U&ei=DyLdUZ6GNMf_PLuwgagE&ved=0CCAQFjAB&usg=AFQjCNHwnrpCdX0tM4G1sDbxI7ygzU-rMA",
-      "/url?q=http://en.wikipedia.org/wiki/Chemical_compound&sa=U&ei=DyLdUZ6GNMf_PLuwgagE&ved=0CCMQFjAC&usg=AFQjCNHsF4EYxIua-A2djuatjCSMRLZusw",
-      "/url?q=http://www.chemical-records.co.uk/&sa=U&ei=DyLdUZ6GNMf_PLuwgagE&ved=0CCcQFjAD&usg=AFQjCNFDghvrrykg3WUBsZCDG4v38076YA",
-      "/url?q=http://www.acs.org/&sa=U&ei=DyLdUZ6GNMf_PLuwgagE&ved=0CDAQFjAE&usg=AFQjCNEvB-WsGfa3f5_VqUGEheBkI8e1Qw",
-      "/url?q=http://cen.acs.org/&sa=U&ei=DyLdUZ6GNMf_PLuwgagE&ved=0CDQQFjAF&usg=AFQjCNEeTIFemFqZcXdkCSSWyjqDvv5Blg",
-      "/url?q=http://www.chemicalbankmi.com/&sa=U&ei=DyLdUZ6GNMf_PLuwgagE&ved=0CDcQFjAG&usg=AFQjCNGTpoL_0S_qRAeoDw6-wqhHNTTSyQ",
-      "/url?q=https://www.cas.org/&sa=U&ei=DyLdUZ6GNMf_PLuwgagE&ved=0CDsQFjAH&usg=AFQjCNHa7ugDIMEMctcifDme5lQ1JyRFDA",
-      "/images?hl=en&q=chemical&gbv=1&num=10&gl=&sa=X&oi=image_result_group&ei=DyLdUZ6GNMf_PLuwgagE&ved=0CD4QsAQ",
-      "/url?q=http://www.chemicalelements.com/&sa=U&ei=DyLdUZ6GNMf_PLuwgagE&ved=0CEoQFjAN&usg=AFQjCNFM9GTH7aFBHUwktG2VMSM2U4-2aA",
-      "/url?q=http://www.thefreedictionary.com/chemical&sa=U&ei=DyLdUZ6GNMf_PLuwgagE&ved=0CE4QFjAO&usg=AFQjCNEuNr1FNPVM_L0UtZN1a7WhWs3LRg"
-   ],
    "micrownet" : [
       "chemical",
       "chemical_action",
@@ -53,6 +40,19 @@
       "chemical_weapon",
       "chemical_weapons_convention",
       "quantitative_chemical_analysis"
+   ],
+   "google" : [
+      "/url?q=https://en.wikipedia.org/wiki/Chemical_substance&sa=U&ei=DyLdUZ6GNMf_PLuwgagE&ved=0CBgQFjAA&usg=AFQjCNFq9S-xzpYEUcZpP_SNWdcShXJFSA",
+      "/url?q=https://en.wikipedia.org/wiki/Chemistry&sa=U&ei=DyLdUZ6GNMf_PLuwgagE&ved=0CCAQFjAB&usg=AFQjCNHwnrpCdX0tM4G1sDbxI7ygzU-rMA",
+      "/url?q=http://en.wikipedia.org/wiki/Chemical_compound&sa=U&ei=DyLdUZ6GNMf_PLuwgagE&ved=0CCMQFjAC&usg=AFQjCNHsF4EYxIua-A2djuatjCSMRLZusw",
+      "/url?q=http://www.chemical-records.co.uk/&sa=U&ei=DyLdUZ6GNMf_PLuwgagE&ved=0CCcQFjAD&usg=AFQjCNFDghvrrykg3WUBsZCDG4v38076YA",
+      "/url?q=http://www.acs.org/&sa=U&ei=DyLdUZ6GNMf_PLuwgagE&ved=0CDAQFjAE&usg=AFQjCNEvB-WsGfa3f5_VqUGEheBkI8e1Qw",
+      "/url?q=http://cen.acs.org/&sa=U&ei=DyLdUZ6GNMf_PLuwgagE&ved=0CDQQFjAF&usg=AFQjCNEeTIFemFqZcXdkCSSWyjqDvv5Blg",
+      "/url?q=http://www.chemicalbankmi.com/&sa=U&ei=DyLdUZ6GNMf_PLuwgagE&ved=0CDcQFjAG&usg=AFQjCNGTpoL_0S_qRAeoDw6-wqhHNTTSyQ",
+      "/url?q=https://www.cas.org/&sa=U&ei=DyLdUZ6GNMf_PLuwgagE&ved=0CDsQFjAH&usg=AFQjCNHa7ugDIMEMctcifDme5lQ1JyRFDA",
+      "/images?hl=en&q=chemical&gbv=1&num=10&gl=&sa=X&oi=image_result_group&ei=DyLdUZ6GNMf_PLuwgagE&ved=0CD4QsAQ",
+      "/url?q=http://www.chemicalelements.com/&sa=U&ei=DyLdUZ6GNMf_PLuwgagE&ved=0CEoQFjAN&usg=AFQjCNFM9GTH7aFBHUwktG2VMSM2U4-2aA",
+      "/url?q=http://www.thefreedictionary.com/chemical&sa=U&ei=DyLdUZ6GNMf_PLuwgagE&ved=0CE4QFjAO&usg=AFQjCNEuNr1FNPVM_L0UtZN1a7WhWs3LRg"
    ],
    "micro" : [
       "abstract_entity",
@@ -101,7 +101,18 @@
       "larvicide",
       "stuff"
    ],
-   "Lists" : [],
+   "duck" : [
+      "\n\"<a href=\"http://duckduckgo.com/Chemicals_(song)\">Chemicals (song)</a>, the debut single from Arizona rock ensemble Love and Death",
+      "\n<a href=\"http://duckduckgo.com/Drug\">Drug</a>, any substance that, when absorbed into the body of a living organism, alters normal bodily function",
+      "Chemical",
+      "\n<a href=\"http://duckduckgo.com/Chemical_(song)\">Chemical (song)</a>, a song with the Swedish <a href=\"http://duckduckgo.com/?q=Glam Metal\">Glam Metal</a> band <a href=\"http://duckduckgo.com/?q=Crashdïet\">Crashdïet</a>",
+      "http://www.merriam-webster.com/dictionary/chemical",
+      "chemical definition: of, relating to, used in, or produced by chemistry or the phenomena of chemistry.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Chemistry\">Chemistry</a>, relating to the science of matter and the changes it undergoes",
+      "\n<a href=\"http://duckduckgo.com/chemical_substance\">chemical substance</a> - In chemistry, a chemical substance is  a form of matter that has constant chemical composition and characteristic properties.",
+      "\n<a href=\"http://duckduckgo.com/Chemical_(Joseph_Arthur_song)\">\"Chemical\" (Joseph Arthur song)</a>, a 2000 alternative rock song"
+   ],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chemistry\" title=\"Chemistry\">Chemistry</a>",
@@ -130,18 +141,7 @@
          []
       ]
    },
-   "duck" : [
-      "\n\"<a href=\"http://duckduckgo.com/Chemicals_(song)\">Chemicals (song)</a>, the debut single from Arizona rock ensemble Love and Death",
-      "\n<a href=\"http://duckduckgo.com/Drug\">Drug</a>, any substance that, when absorbed into the body of a living organism, alters normal bodily function",
-      "Chemical",
-      "\n<a href=\"http://duckduckgo.com/Chemical_(song)\">Chemical (song)</a>, a song with the Swedish <a href=\"http://duckduckgo.com/?q=Glam Metal\">Glam Metal</a> band <a href=\"http://duckduckgo.com/?q=Crashdïet\">Crashdïet</a>",
-      "http://www.merriam-webster.com/dictionary/chemical",
-      "chemical definition: of, relating to, used in, or produced by chemistry or the phenomena of chemistry.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/Chemistry\">Chemistry</a>, relating to the science of matter and the changes it undergoes",
-      "\n<a href=\"http://duckduckgo.com/chemical_substance\">chemical substance</a> - In chemistry, a chemical substance is  a form of matter that has constant chemical composition and characteristic properties.",
-      "\n<a href=\"http://duckduckgo.com/Chemical_(Joseph_Arthur_song)\">\"Chemical\" (Joseph Arthur song)</a>, a 2000 alternative rock song"
-   ],
+   "Lists" : [],
    "micro-www-search" : [
       "chemicals\n>http\nhttp://en.m.wikipedia.org/wiki/Chemical_substance\nhttp://en.wikipedia.org/w/index.php?title=Chemical_substance&oldid=544258664\nhttp://www.nicnas.gov.au/Industry/New_Chemicals/Does_My_Chemical_Require_Notification/What_Is_A_Chemical.asp\n\n>pdf\nhttp://www.cas.org/ASSETS/58D34DD3892142D18F5C3B0A004D3A0C/indexguideapp.pdf\nhttp://www.cas.org/ASSETS/58D34DD3892142D18F5C3B0A004D3A0C/indexguideapp.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kochendes_wasser02.jpg/220px-Kochendes_wasser02.jpg\n\n",
       "chemically\n>http\nhttp://en.m.wikipedia.org/wiki/Chemical_reaction\nhttp://en.wikipedia.org/w/index.php?title=Chemical_reaction&oldid=543015613\nhttp://misterguch.brinkster.net/6typesofchemicalrxn.html\n\n>pdf\nhttp://www.aiche-cf.org/Clearwater/2008/Paper2/8.2.7.pdf\nhttp://www.aiche-cf.org/Clearwater/2008/Paper2/8.2.7.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png\n\n",
@@ -210,6 +210,7 @@
       "Chemical\n>http\nhttp://en.m.wikipedia.org/wiki/Chemical_substance\nhttp://en.wikipedia.org/w/index.php?title=Chemical_substance&oldid=559305941\nhttp://www.nicnas.gov.au/Industry/New_Chemicals/Does_My_Chemical_Require_Notification/What_Is_A_Chemical.asp\n\n>pdf\nhttp://www.cas.org/ASSETS/58D34DD3892142D18F5C3B0A004D3A0C/indexguideapp.pdf\nhttp://www.cas.org/ASSETS/58D34DD3892142D18F5C3B0A004D3A0C/indexguideapp.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kochendes_wasser02.jpg/220px-Kochendes_wasser02.jpg\n"
    ],
    "created" : 1373453828,
+   "book" : [],
    "micro-www" : {
       "chemical" : [
          "chemicals",
@@ -280,7 +281,6 @@
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [
          "Chemistry",

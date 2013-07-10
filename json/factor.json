@@ -113,20 +113,7 @@
       "releasing_factor",
       "factor_in"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Factors_of_production\">Factors of production</a>, a resource used in the production of goods and services",
-      "https://en.wikipedia.org/wiki/Factor",
-      "HASH(0x4f9d008)",
-      "Wikipedia",
-      "Factor",
-      "http://www.merriam-webster.com/dictionary/factor",
-      "factor definition: one who acts or transacts business for another.",
-      "Merriam-Webster",
-      "HASH(0x4f26a88)",
-      "\n<a href=\"http://duckduckgo.com/Factor_analysis\">Factor analysis</a> is the study of how factors or certain variables affect other variables",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Factoring_(finance)\">Factoring (finance)</a>, an entity providing commercial finance services"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Judge_Dannii_Minogue_exits_UK_X_Factor_over_%27Australia%27s_Got_Talent%27_scheduling_clash\" title=\"Judge Dannii Minogue exits UK X Factor over &#39;Australia&#39;s Got Talent&#39; scheduling clash\">Judge Dannii Minogue exits UK X <span class=\"searchmatch\">Factor</span> over &#39;Australia&#39;s Got Talent&#39; scheduling clash</a>",
@@ -156,7 +143,20 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Factors_of_production\">Factors of production</a>, a resource used in the production of goods and services",
+      "https://en.wikipedia.org/wiki/Factor",
+      "HASH(0x4f9d008)",
+      "Wikipedia",
+      "Factor",
+      "http://www.merriam-webster.com/dictionary/factor",
+      "factor definition: one who acts or transacts business for another.",
+      "Merriam-Webster",
+      "HASH(0x4f26a88)",
+      "\n<a href=\"http://duckduckgo.com/Factor_analysis\">Factor analysis</a> is the study of how factors or certain variables affect other variables",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Factoring_(finance)\">Factoring (finance)</a>, an entity providing commercial finance services"
+   ],
    "micro-www-search" : [
       "factory_farming\n>http\nhttp://en.m.wikipedia.org/wiki/Factory_farming\nhttp://en.wikipedia.org/w/index.php?title=Factory_farming&oldid=558792482\nhttp://www.foodispower.org/factory_farm_workers.htm\nhttp://www.huffingtonpost.com/david-kirby/mexican-lawmaker-factory_b_191579.html\nhttp://www.nrdc.org/water/pollution/factor/stark.asp\n\n>pdf\nhttp://foodandwater.wpengine.netdna-cdn.com/wp-content/uploads/2010/11/FactoryFarmNation-web.pdf\nhttp://mrsa.rivm.nl/flash/Publicatie%20over%20MRSA%20bij%20varkens%20in%20slachthuizen.pdf\nhttp://usda.mannlib.cornell.edu/usda/current/USCatSup/USCatSup-12-17-2010.pdf\nhttp://www.btny.purdue.edu/Pubs/PPP/PPP-70.pdf\nhttp://www.fda.gov/downloads/ForIndustry/UserFees/AnimalDrugUserFeeActADUFA/UCM231851.pdf\nhttp://www.foodandwaterwatch.org:8080/Plone/food/factoryfarms/FoodSafetyFactoryFarms.pdf\nhttp://www.hsus.org/web-files/PDF/hsp/soa_ii_chap12.pdf\nhttp://www.hsus.org/web-files/PDF/hsp/soa_ii_chap12.pdf\nhttp://www.kt.iger.bbsrc.ac.uk/FACT%20sheet%20PDF%20files/kt32.pdf\nhttp://www.marketplaceforthemind.state.pa.us/m4m/lib/m4m/documents/value_of_industry_white_paper_drft_7.pdf\nhttp://www.mrsa-net.nl/de/files/file-bron-ant-10055-0-Khanna.pdf\nhttp://www.ucsusa.org/assets/documents/food_and_agriculture/cafos-uncovered.pdf\nhttp://usda.mannlib.cornell.edu/usda/current/USCatSup/USCatSup-12-17-2010.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/f/f4/Ambox_content.png\n\n",
       "factors\n>http\nhttp://en.m.wikipedia.org/wiki/Factor\nhttp://en.wikipedia.org/w/index.php?title=Factor&oldid=539687829\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
@@ -180,7 +180,6 @@
       "Factor_(Scotland)\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n"
    ],
    "created" : 1373459314,
-   "book" : [],
    "micro-www" : {
       "factor" : [
          "factory_farming",
@@ -206,6 +205,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\nA factor, a Latin word meaning 'who/which acts', may refer to:\n\nIn 'commerce':\n* Factor (agent), a person who acts for another, notably a mercantile and/or\n  colonial agent\n* Factor (Scotland), a person or firm managing a Scottish estate\n* Factors of production, a resource used in the production of goods and services\n* Factoring (finance), an entity providing commercial finance services\n* Max Factor, a cosmetics company founded by Max Factor, Sr.\n\nIn 'biology':\n* Factor B and factor D, peptides involved in the alternate pathway of immune\n  system complement activation\n* Coagulation factors, substances essential for blood coagulation\n* Environmental factor, any abiotic or biotic factor that affects life\n* An enzyme, proteins that catalyze chemical reactions\n\nIn 'mathematics':\n* A term in multiplication\n* Divisor, an integer which evenly divides a number without leaving a remainder\n* Factorization, the decomposition of an object into a product of other objects\n* Integer factorization, the process of breaking down a composite number into\n  smaller non-trivial divisors\n* A coefficient, a multiplicative factor in an expression, usually a number\n* A von Neumann algebra with a trivial center\n* Factor (graph theory), a spanning subgraph\n* Any finite contiguous subsequence of a word\n\nIn 'statistics':\n* An independent variable, either categorical or continuous, controlled by the\n  experimenter. However, \"factor\" is sometimes used synonymously with\n  categorical variable, regardless whether it is controlled.\n* Factor analysis is the study of how factors or certain variables affect\n  other variables\n\nIn 'physics':\n* Sun protection factor, a unit describing reduction in transmitted\n  ultraviolet light\n\nIn 'technology':\n* Human factors, a profession that focuses on how people interact with products,\n  tools, or procedures.\n\nIn 'computer science' and 'information technology':\n* Authentication factor, a piece of information used to verify a person's\n  identity for security purposes\n* Factor (programming language), a concatenative stack-oriented\n  programming language\n* A substring, a subsequence of consecutive symbols in a string\n\nIn 'scientific method':\n* A phenomenon presumed to affect an experiment; see design of experiments\n\nIn 'television':\n* [[The O'Reilly Factor]], an American talk show hosted by Bill O'Reilly\n  on Fox News\n* [[The Krypton Factor]], a British game show hosted by Gordon Burns, formerly\n  on ITV ** ''The Krypton Factor'' (US game show) American version\n\n'People':\n* Max Factor, Sr., a Polish-American businessman and cosmetician\n* Max Factor, Jr., son of the above, born Francis Factor\n* John Factor, a Prohibition-era gangster\n\n'Organizations':\n* FACTOR, the Foundation to Assist Canadian Talent on Records\n",

@@ -111,18 +111,7 @@
       "digit",
       "abstract_entity"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Ace_(disambiguation)",
-      "\n<a href=\"http://duckduckgo.com/Ace\">Ace</a> - An ace is a playing card.",
-      "HASH(0x5ff8d40)",
-      "Wikipedia",
-      "Ace",
-      "http://www.merriam-webster.com/dictionary/ace",
-      "ace definition: a die face marked with one spot.",
-      "Merriam-Webster",
-      "HASH(0x5e3fa10)",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Toowoomba,_Brisbane_City_take_out_Roller_Derby_wins_on_Australia%27s_Sunshine_Coast\" title=\"Toowoomba, Brisbane City take out Roller Derby wins on Australia&#39;s Sunshine Coast\">Toowoomba, Brisbane City take out Roller Derby wins on Australia&#39;s Sunshine Coast</a>",
@@ -149,7 +138,18 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Ace_(disambiguation)",
+      "\n<a href=\"http://duckduckgo.com/Ace\">Ace</a> - An ace is a playing card.",
+      "HASH(0x5ff8d40)",
+      "Wikipedia",
+      "Ace",
+      "http://www.merriam-webster.com/dictionary/ace",
+      "ace definition: a die face marked with one spot.",
+      "Merriam-Webster",
+      "HASH(0x5e3fa10)",
+      "D"
+   ],
    "micro-www-search" : [
       "acetylglucosamine\n>http\nhttp://en.m.wikipedia.org/wiki/N-Acetylglucosamine\nhttp://en.wikipedia.org/w/index.php?title=N-Acetylglucosamine&oldid=540270944\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/9/96/N-Acetylglucosamine.svg/200px-N-Acetylglucosamine.svg.png\n\n",
       "acetylgalactosamine\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Acetylgalactosamine.png/150px-Acetylgalactosamine.png\n\n",
@@ -199,7 +199,6 @@
       "ACE_inhibitor\n>http\nhttp://en.m.wikipedia.org/wiki/ACE_inhibitor\nhttp://en.wikipedia.org/w/index.php?title=ACE_inhibitor&oldid=558428428\nhttp://web.archive.org/web/20100326095902http:///www.medicinenet.com/ace_inhibitors/article.htm\nhttp://www.consumerreports.org/health/best-buy-drugs/ace-inhibitors.htm\nhttp://www.globalrph.com/aceinh.cgi\nhttp://www.medicinenet.com/ace_inhibitors/article.htm\nhttp://www.tripanswers.org/answer.aspx?criteria=&tagtrail=%2fACE+Inhibitors%2fdose+equivalence%2fCardiovascular+disease%2f&qid=3447&src=0\n\n>pdf\nhttp://www.jstage.jst.go.jp/article/yakushi/121/3/253/_pdf\nhttp://www.jstage.jst.go.jp/article/yakushi/121/3/253/_pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png\n"
    ],
    "created" : 1373455894,
-   "book" : [],
    "micro-www" : {
       "ace" : [
          "acetylglucosamine",
@@ -251,6 +250,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Playing cards|Ace"

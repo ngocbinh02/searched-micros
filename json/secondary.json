@@ -1,4 +1,16 @@
 {
+   "google" : [
+      "/url?q=https://en.wikipedia.org/wiki/Secondary_education&sa=U&ei=QhXdUefQHonAOOe5gPAD&ved=0CBgQFjAA&usg=AFQjCNHv3FBzLY68SNgIINHeDcz9RpO5jA",
+      "/url?q=http://en.wikipedia.org/wiki/Secondary&sa=U&ei=QhXdUefQHonAOOe5gPAD&ved=0CCAQFjAB&usg=AFQjCNG09ndZbHbtVSpVOejyv0IOGOU9aQ",
+      "/url?q=http://en.wikipedia.org/wiki/Secondary_school&sa=U&ei=QhXdUefQHonAOOe5gPAD&ved=0CCQQFjAC&usg=AFQjCNFgaSXNxcD9HL27nM_3jh4no5DcSg",
+      "/url?q=http://www.merriam-webster.com/dictionary/secondary&sa=U&ei=QhXdUefQHonAOOe5gPAD&ved=0CCgQFjAD&usg=AFQjCNHZ36RCUb_JF0zaEYSNItqQpLhg3g",
+      "/url?q=http://thesaurus.com/browse/secondary&sa=U&ei=QhXdUefQHonAOOe5gPAD&ved=0CCwQFjAE&usg=AFQjCNGG3DWrRXZrA_vBduYFBGFaB4Nxlw",
+      "/url?q=http://www.thefreedictionary.com/secondary&sa=U&ei=QhXdUefQHonAOOe5gPAD&ved=0CDAQFjAF&usg=AFQjCNHT4Qw5kaY6bxuObOqLqkOvtKFrfQ",
+      "/url?q=http://rajeduboard.nic.in/&sa=U&ei=QhXdUefQHonAOOe5gPAD&ved=0CDQQFjAG&usg=AFQjCNF4iKCnR3JJNhqkckCnRKeVrA7dRA",
+      "/url?q=http://www.dict.cc/englisch-deutsch/secondary.html&sa=U&ei=QhXdUefQHonAOOe5gPAD&ved=0CDgQFjAH&usg=AFQjCNHTmBRUzf6828-ExtZ2KBqFcdtO6Q",
+      "/url?q=http://en.wiktionary.org/wiki/secondary&sa=U&ei=QhXdUefQHonAOOe5gPAD&ved=0CDwQFjAI&usg=AFQjCNHPhIDDK79hc4CIRBakIXEqxxBjmQ",
+      "/url?q=http://www.gsmarena.com/glossary.php3%3Fterm%3Dvideo-call&sa=U&ei=QhXdUefQHonAOOe5gPAD&ved=0CEAQFjAJ&usg=AFQjCNE9Pajw97j2C2fcN4nNOAAv4a_pZg"
+   ],
    "micrownet" : [
       "secondary",
       "secondary_(vs._primary)",
@@ -21,18 +33,6 @@
       "secondary_syphilis",
       "secondary_winding"
    ],
-   "google" : [
-      "/url?q=https://en.wikipedia.org/wiki/Secondary_education&sa=U&ei=QhXdUefQHonAOOe5gPAD&ved=0CBgQFjAA&usg=AFQjCNHv3FBzLY68SNgIINHeDcz9RpO5jA",
-      "/url?q=http://en.wikipedia.org/wiki/Secondary&sa=U&ei=QhXdUefQHonAOOe5gPAD&ved=0CCAQFjAB&usg=AFQjCNG09ndZbHbtVSpVOejyv0IOGOU9aQ",
-      "/url?q=http://en.wikipedia.org/wiki/Secondary_school&sa=U&ei=QhXdUefQHonAOOe5gPAD&ved=0CCQQFjAC&usg=AFQjCNFgaSXNxcD9HL27nM_3jh4no5DcSg",
-      "/url?q=http://www.merriam-webster.com/dictionary/secondary&sa=U&ei=QhXdUefQHonAOOe5gPAD&ved=0CCgQFjAD&usg=AFQjCNHZ36RCUb_JF0zaEYSNItqQpLhg3g",
-      "/url?q=http://thesaurus.com/browse/secondary&sa=U&ei=QhXdUefQHonAOOe5gPAD&ved=0CCwQFjAE&usg=AFQjCNGG3DWrRXZrA_vBduYFBGFaB4Nxlw",
-      "/url?q=http://www.thefreedictionary.com/secondary&sa=U&ei=QhXdUefQHonAOOe5gPAD&ved=0CDAQFjAF&usg=AFQjCNHT4Qw5kaY6bxuObOqLqkOvtKFrfQ",
-      "/url?q=http://rajeduboard.nic.in/&sa=U&ei=QhXdUefQHonAOOe5gPAD&ved=0CDQQFjAG&usg=AFQjCNF4iKCnR3JJNhqkckCnRKeVrA7dRA",
-      "/url?q=http://www.dict.cc/englisch-deutsch/secondary.html&sa=U&ei=QhXdUefQHonAOOe5gPAD&ved=0CDgQFjAH&usg=AFQjCNHTmBRUzf6828-ExtZ2KBqFcdtO6Q",
-      "/url?q=http://en.wiktionary.org/wiki/secondary&sa=U&ei=QhXdUefQHonAOOe5gPAD&ved=0CDwQFjAI&usg=AFQjCNHPhIDDK79hc4CIRBakIXEqxxBjmQ",
-      "/url?q=http://www.gsmarena.com/glossary.php3%3Fterm%3Dvideo-call&sa=U&ei=QhXdUefQHonAOOe5gPAD&ved=0CEAQFjAJ&usg=AFQjCNE9Pajw97j2C2fcN4nNOAAv4a_pZg"
-   ],
    "micro" : [
       "entity",
       "formation",
@@ -43,24 +43,7 @@
       "grouping",
       "secondary"
    ],
-   "duck" : [
-      "Secondary",
-      "http://www.merriam-webster.com/dictionary/secondary",
-      "\n<a href=\"http://duckduckgo.com/Secondary_emission\">Secondary emission</a>, the phenomenon where primary incident particles of sufficient energy, when hitting a surface or passing through some material, induce the emission of secondary particles",
-      "\n<a href=\"http://duckduckgo.com/Secondary_market\">Secondary market</a>, an aftermarket where financial assets are traded",
-      "secondary definition: of second rank, importance, or value.",
-      "\n<a href=\"http://duckduckgo.com/Secondary_market_offering\">Secondary market offering</a> - A secondary market offering, according to the U.S. Financial Industry Regulatory Authority, is a registered offering of a large block of a security that has been previously issued to the public.",
-      "\n<a href=\"http://duckduckgo.com/Secondary_neoplasm\">Secondary neoplasm</a> -  Neoplasm is an abnormal mass of tissue as a result of neoplasia.",
-      "\n<a href=\"http://duckduckgo.com/Secondary_dominant\">Secondary dominant</a> in music",
-      "\n<a href=\"http://duckduckgo.com/Secondary_color\">Secondary color</a> - A secondary color is a color made by mixing two primary colors in a given color space.",
-      "\n<a href=\"http://duckduckgo.com/Secondary_school\">Secondary school</a> - The type of school at the secondary level of education",
-      "\n<a href=\"http://duckduckgo.com/Secondary_electrons\">Secondary electrons</a>, electrons generated as ionization products",
-      "\n<a href=\"http://duckduckgo.com/Secondary_crater\">Secondary crater</a>s are often called \"secondaries\"",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/private_equity_secondary_market\">Private equity secondary</a>, investment in an existing private equity fund or other alternative asset",
-      "\n<a href=\"http://duckduckgo.com/Secondary_mirror\">Secondary mirror</a>, second mirror element/focusing surface in a reflecting telescope",
-      "\n<a href=\"http://duckduckgo.com/Secondary_education\">Secondary education</a> - Secondary education is the stage of education following primary education."
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/General_Certificate_of_Secondary_Education\" title=\"General Certificate of Secondary Education\">General Certificate of <span class=\"searchmatch\">Secondary</span> Education</a>",
@@ -89,7 +72,24 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "Secondary",
+      "http://www.merriam-webster.com/dictionary/secondary",
+      "\n<a href=\"http://duckduckgo.com/Secondary_emission\">Secondary emission</a>, the phenomenon where primary incident particles of sufficient energy, when hitting a surface or passing through some material, induce the emission of secondary particles",
+      "\n<a href=\"http://duckduckgo.com/Secondary_market\">Secondary market</a>, an aftermarket where financial assets are traded",
+      "secondary definition: of second rank, importance, or value.",
+      "\n<a href=\"http://duckduckgo.com/Secondary_market_offering\">Secondary market offering</a> - A secondary market offering, according to the U.S. Financial Industry Regulatory Authority, is a registered offering of a large block of a security that has been previously issued to the public.",
+      "\n<a href=\"http://duckduckgo.com/Secondary_neoplasm\">Secondary neoplasm</a> -  Neoplasm is an abnormal mass of tissue as a result of neoplasia.",
+      "\n<a href=\"http://duckduckgo.com/Secondary_dominant\">Secondary dominant</a> in music",
+      "\n<a href=\"http://duckduckgo.com/Secondary_color\">Secondary color</a> - A secondary color is a color made by mixing two primary colors in a given color space.",
+      "\n<a href=\"http://duckduckgo.com/Secondary_school\">Secondary school</a> - The type of school at the secondary level of education",
+      "\n<a href=\"http://duckduckgo.com/Secondary_electrons\">Secondary electrons</a>, electrons generated as ionization products",
+      "\n<a href=\"http://duckduckgo.com/Secondary_crater\">Secondary crater</a>s are often called \"secondaries\"",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/private_equity_secondary_market\">Private equity secondary</a>, investment in an existing private equity fund or other alternative asset",
+      "\n<a href=\"http://duckduckgo.com/Secondary_mirror\">Secondary mirror</a>, second mirror element/focusing surface in a reflecting telescope",
+      "\n<a href=\"http://duckduckgo.com/Secondary_education\">Secondary education</a> - Secondary education is the stage of education following primary education."
+   ],
    "micro-www-search" : [
       "secondary\n>http\nhttp://en.m.wikipedia.org/wiki/Secondary\nhttp://en.wikipedia.org/w/index.php?title=Secondary&oldid=543530414\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "Secondary_suite\n>http\nhttp://en.m.wikipedia.org/wiki/Secondary_suite\nhttp://en.wikipedia.org/w/index.php?title=Secondary_suite&oldid=526529210\n\n>pdf\nhttp://lrbhawaii.info/lrbrpts/88/88ohana.pdf\nhttp://lrbhawaii.info/lrbrpts/88/88ohana.pdf\nhttp://www.actpla.act.gov.au/__data/assets/pdf_file/0011/2162/dualreview2002.pdf\nhttp://www.housing.gov.bc.ca/housing/docs/web_secondary_suites.pdf\nhttp://www1.honolulu.gov/council/ocs/roh/21990.pdf\nhttp://www.actpla.act.gov.au/__data/assets/pdf_file/0011/2162/dualreview2002.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/48px-Ambox_globe_content.svg.png\n\n",
@@ -115,7 +115,6 @@
       "Secondary_active_transport\n>http\nhttp://en.m.wikipedia.org/wiki/Secondary_active_transport\nhttp://en.wikipedia.org/w/index.php?title=Secondary_active_transport&oldid=544700254\nhttp://www.physiologyweb.com/lecture_notes/membrane_transport/secondary_active_transport.html\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Merge-arrow.svg/50px-Merge-arrow.svg.png\n"
    ],
    "created" : 1373450543,
-   "book" : [],
    "micro-www" : {
       "secondary" : [
          "secondary",
@@ -143,6 +142,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Secondary' is an adjective meaning \"second\" or \"second hand\". It may refer to:\n\n* The group of (usually at least four) defensive backs in American football and\n  Canadian football\n* An obsolete name for the Mesozoic in geosciences\n* The secondary winding, or the electrical or electronic circuit connected to\n  the secondary winding in a transformer\n* Secondary emission, the phenomenon where primary incident particles of\n  sufficient energy, when hitting a surface or passing through some material,\n  induce the emission of secondary particles ** Secondary electrons, electrons\n  generated as ionization products\n* Secondary color\n* Secondary craters are often called \"secondaries\"\n* Secondary consumers in ecology Trophic dynamics\n* Secondary dominant in music\n* Secondary education ** Secondary school - The type of school at the secondary\n  level of education\n* Secondary market, an aftermarket where financial assets are traded\n* Secondary market offering\n* Secondary mirror, second mirror element/focusing surface in a\n  reflecting telescope\n* Secondary neoplasm\n* Secondaries, the second-largest group of remiges (wing feathers), which attach\n  to the inner lower arm\n* Private equity secondary, investment in an existing private equity fund or\n  other alternative asset\n",

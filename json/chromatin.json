@@ -23,6 +23,14 @@
       "abstraction",
       "abstract_entity"
    ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
    "duck" : [
       "https://en.wikipedia.org/wiki/Chromatin",
       "Wikipedia",
@@ -45,20 +53,11 @@
       "A",
       "Chromatin is the combination of DNA and proteins that make up the contents of the nucleus of a cell."
    ],
-   "common" : {
-      "milestones" : [],
-      "image" : [
-         [],
-         []
-      ]
-   },
-   "Lists" : [],
    "micro-www-search" : [
       "chromatin\n>http\nhttp://chromatin.net/\nhttp://en.m.wikipedia.org/wiki/Chromatin\nhttp://en.wikipedia.org/w/index.php?title=Chromatin&oldid=539284932\nhttp://www.chromatin.co.uk\nhttp://www.nature.com/encode/#/threads/chromatin-patterns-at-transcription-factor-binding-sites\n\n>pdf\nhttp://www.activemotif.com/documents/134.pdf\nhttp://www.activemotif.com/documents/134.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Chromatin_Structures.png/360px-Chromatin_Structures.png\n\n",
       "Chromatin\n>http\nhttp://chromatin.net/\nhttp://en.m.wikipedia.org/wiki/Chromatin\nhttp://en.wikipedia.org/w/index.php?title=Chromatin&oldid=539284932\nhttp://www.chromatin.co.uk\nhttp://www.nature.com/encode/#/threads/chromatin-patterns-at-transcription-factor-binding-sites\n\n>pdf\nhttp://www.activemotif.com/documents/134.pdf\nhttp://www.activemotif.com/documents/134.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Chromatin_Structures.png/360px-Chromatin_Structures.png\n"
    ],
    "created" : 1373457243,
-   "book" : [],
    "micro-www" : {
       "chromatin" : [
          "chromatin",
@@ -66,6 +65,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Molecular genetics",

@@ -16,26 +16,7 @@
       "functionally_illiterate"
    ],
    "micro" : [],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Functionalism_(architecture)\">Functionalism</a> and Functional form, movements in <a href=\"http://duckduckgo.com/?q=architectural design\">architectural design</a>",
-      "https://en.wikipedia.org/wiki/Functional",
-      "\n<a href=\"http://duckduckgo.com/Functional_programming\">Functional programming</a>, a programming paradigm based on mathematical functions rather than changes in variable states",
-      "\n<a href=\"http://duckduckgo.com/Functional_group\">Functional group</a>, certain atomic combinations that occur in various molecules, e.g. carbonyl, amine",
-      "Wikipedia",
-      "Functional",
-      "http://www.merriam-webster.com/dictionary/functional",
-      "\n<a href=\"http://duckduckgo.com/Functional_organization\">Functional organization</a>, a type of organization structure",
-      "functional definition: of, connected with, or being a function.",
-      "\n<a href=\"http://duckduckgo.com/Functional_analysis\">Functional analysis</a> - Functional analysis is a branch of mathematical analysis, the core of which is formed by the study of vector spaces endowed with some kind of limit-related structure (e.g.",
-      "Generally, functional refers to something able to fulfill its purpose or function.",
-      "HASH(0x20200e0)",
-      "\n<a href=\"http://duckduckgo.com/Functional_symptom\">Functional symptom</a>, <a href=\"http://duckduckgo.com/?q=functional disorder\">functional disorder</a>, sometimes used in medicine to describe symptoms and conditions that have no current visible organic basis",
-      "\n<a href=\"http://duckduckgo.com/Functional_classification\">Functional classification</a>, a classification system for roads in the United States.",
-      "Merriam-Webster",
-      "HASH(0x501d6e0)",
-      "D",
-      "Generally, functional refers to something able to fulfill its purpose or function."
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Taiwanese_consumer_laptop_market_faces_change_following_ASUStek_winning_sustainability_award\" title=\"Taiwanese consumer laptop market faces change following ASUStek winning sustainability award\">Taiwanese consumer laptop market faces change following ASUStek winning sustainability award</a>",
@@ -64,7 +45,26 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Functionalism_(architecture)\">Functionalism</a> and Functional form, movements in <a href=\"http://duckduckgo.com/?q=architectural design\">architectural design</a>",
+      "https://en.wikipedia.org/wiki/Functional",
+      "\n<a href=\"http://duckduckgo.com/Functional_programming\">Functional programming</a>, a programming paradigm based on mathematical functions rather than changes in variable states",
+      "\n<a href=\"http://duckduckgo.com/Functional_group\">Functional group</a>, certain atomic combinations that occur in various molecules, e.g. carbonyl, amine",
+      "Wikipedia",
+      "Functional",
+      "http://www.merriam-webster.com/dictionary/functional",
+      "\n<a href=\"http://duckduckgo.com/Functional_organization\">Functional organization</a>, a type of organization structure",
+      "functional definition: of, connected with, or being a function.",
+      "\n<a href=\"http://duckduckgo.com/Functional_analysis\">Functional analysis</a> - Functional analysis is a branch of mathematical analysis, the core of which is formed by the study of vector spaces endowed with some kind of limit-related structure (e.g.",
+      "Generally, functional refers to something able to fulfill its purpose or function.",
+      "HASH(0x20200e0)",
+      "\n<a href=\"http://duckduckgo.com/Functional_symptom\">Functional symptom</a>, <a href=\"http://duckduckgo.com/?q=functional disorder\">functional disorder</a>, sometimes used in medicine to describe symptoms and conditions that have no current visible organic basis",
+      "\n<a href=\"http://duckduckgo.com/Functional_classification\">Functional classification</a>, a classification system for roads in the United States.",
+      "Merriam-Webster",
+      "HASH(0x501d6e0)",
+      "D",
+      "Generally, functional refers to something able to fulfill its purpose or function."
+   ],
    "micro-www-search" : [
       "functional_food\n>http\nhttp://en.m.wikipedia.org/wiki/Functional_food\nhttp://en.wikipedia.org/w/index.php?title=Functional_food&oldid=556366865\nhttp://www.cspinet.org/reports/functional_foods/\nhttp://www.mewburn.com/library/published-articles/functional-food-patents-beware-potential-pitfalls\n\n",
       "functional\n>http\nhttp://en.m.wikipedia.org/wiki/Functional\nhttp://en.wikipedia.org/w/index.php?title=Functional&oldid=543706684\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
@@ -88,7 +88,6 @@
       "Functional_(mathematics)\n>http\nhttp://en.m.wikipedia.org/wiki/Functional_(mathematics)\nhttp://en.wikipedia.org/w/index.php?title=Functional_(mathematics)&oldid=539694047\nhttp://mathworld.wolfram.com/Functional.html\n\n>image\nhttp://upload.wikimedia.org/math/a/d/9/ad9f16143f69958e8df4222aec556a0f.png\n"
    ],
    "created" : 1373459990,
-   "book" : [],
    "micro-www" : {
       "functional" : [
          "functional_food",
@@ -114,6 +113,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\nGenerally, 'functional' refers to something able to fulfill its purpose\nor function.\n\n* Functionalism and 'Functional form', movements in architectural design\n* Functional group, certain atomic combinations that occur in various molecules,\n  e.g. carbonyl, amine\n* Functional symptom, functional disorder, sometimes used in medicine to\n  describe symptoms and conditions that have no current visible organic basis\n* Functional classification, a classification system for roads in the\n  United States.\n* Functional organization, a type of organization structure\n",

@@ -177,22 +177,7 @@
       "varna",
       "group"
    ],
-   "duck" : [
-      "A group is a number of things or persons being in some relation to one another.",
-      "https://en.wikipedia.org/wiki/Group",
-      "\n<a href=\"http://duckduckgo.com/Functional_group\">Functional group</a>, a functional entity consisting of certain atoms whose presence provides a certain property to a molecule",
-      "\n<a href=\"http://duckduckgo.com/Group_(mathematics)\">Group (mathematics)</a>, a set together with a binary operation satisfying certain algebraic conditions",
-      "HASH(0x4e2e5c0)",
-      "Wikipedia",
-      "\n<a href=\"http://duckduckgo.com/Ethnic_group\">Ethnic group</a> - Ethnicity or ethnic group is a socially defined category based on common culture or nationality.",
-      "Group",
-      "http://www.merriam-webster.com/dictionary/group",
-      "group definition: two or more figures forming a complete unit in a composition.",
-      "Merriam-Webster",
-      "HASH(0x560cd10)",
-      "A group is a number of things or persons being in some relation to one another.",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Anonymous_(group)\" title=\"Anonymous (group)\">Anonymous (<span class=\"searchmatch\">group</span>)</a>",
@@ -221,7 +206,22 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "A group is a number of things or persons being in some relation to one another.",
+      "https://en.wikipedia.org/wiki/Group",
+      "\n<a href=\"http://duckduckgo.com/Functional_group\">Functional group</a>, a functional entity consisting of certain atoms whose presence provides a certain property to a molecule",
+      "\n<a href=\"http://duckduckgo.com/Group_(mathematics)\">Group (mathematics)</a>, a set together with a binary operation satisfying certain algebraic conditions",
+      "HASH(0x4e2e5c0)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Ethnic_group\">Ethnic group</a> - Ethnicity or ethnic group is a socially defined category based on common culture or nationality.",
+      "Group",
+      "http://www.merriam-webster.com/dictionary/group",
+      "group definition: two or more figures forming a complete unit in a composition.",
+      "Merriam-Webster",
+      "HASH(0x560cd10)",
+      "A group is a number of things or persons being in some relation to one another.",
+      "D"
+   ],
    "micro-www-search" : [
       "groups\n>http\nhttp://en.m.wikipedia.org/wiki/Group\nhttp://en.wikipedia.org/w/index.php?title=Group&oldid=540200248\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "group_theory\n>http\nhttp://en.m.wikipedia.org/wiki/Group_theory\nhttp://en.wikipedia.org/w/index.php?title=Group_theory&oldid=554885469\nhttp://www-history.mcs.st-andrews.ac.uk/history/HistTopics/Abstract_groups.html\n\n>image\nhttp://upload.wikimedia.org/math/8/b/5/8b58468e3d827120beeea755262eca84.png\n\n",
@@ -275,7 +275,6 @@
       "Group-serving_bias\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Merge-arrow.svg/50px-Merge-arrow.svg.png\n"
    ],
    "created" : 1373460199,
-   "book" : [],
    "micro-www" : {
       "group" : [
          "groups",
@@ -331,6 +330,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\n\nA 'group' is a number of things or persons being in some relation to one\nanother.\n",

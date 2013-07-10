@@ -389,18 +389,7 @@
       "component",
       "carboxylic_acid"
    ],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Acid\">Acid</a> - An acid (from the Latin acidus/acēre meaning sour) is a substance which reacts with a base.",
-      "https://en.wikipedia.org/wiki/Acid_(disambiguation)",
-      "HASH(0x5126210)",
-      "Wikipedia",
-      "Acid",
-      "http://www.merriam-webster.com/dictionary/acid",
-      "acid definition: sour, sharp, or biting to the taste.",
-      "Merriam-Webster",
-      "HASH(0x5231888)",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hydrated_protons_pair_off\" title=\"Hydrated protons pair off\">Hydrated protons pair off</a>",
@@ -428,7 +417,18 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Acid\">Acid</a> - An acid (from the Latin acidus/acēre meaning sour) is a substance which reacts with a base.",
+      "https://en.wikipedia.org/wiki/Acid_(disambiguation)",
+      "HASH(0x5126210)",
+      "Wikipedia",
+      "Acid",
+      "http://www.merriam-webster.com/dictionary/acid",
+      "acid definition: sour, sharp, or biting to the taste.",
+      "Merriam-Webster",
+      "HASH(0x5231888)",
+      "D"
+   ],
    "micro-www-search" : [
       "Acids\n>pdf\nhttp://isites.harvard.edu/fs/docs/icb.topic776365.files/lecture%2017.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Zn_reaction_with_HCl.JPG/220px-Zn_reaction_with_HCl.JPG\n\n",
       "Acidity_regulator\n>http\nhttp://en.m.wikipedia.org/wiki/Acidity_regulator\nhttp://en.wikipedia.org/w/index.php?title=Acidity_regulator&oldid=540328285\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flours.jpg/40px-Flours.jpg\n\n",
@@ -442,7 +442,6 @@
       "Acid\n>http\nhttp://en.m.wikipedia.org/wiki/Acid\nhttp://en.wikipedia.org/w/index.php?title=Acid&oldid=559663542\nhttp://scienceaid.co.uk/chemistry/physical/acidbases.html\nhttp://www.merriam-webster.com/dictionary/acid\n\n>pdf\nhttp://isites.harvard.edu/fs/docs/icb.topic776365.files/lecture%2017.pdf\nhttp://isites.harvard.edu/fs/docs/icb.topic776365.files/lecture%2017.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Zn_reaction_with_HCl.JPG/220px-Zn_reaction_with_HCl.JPG\n"
    ],
    "created" : 1373458306,
-   "book" : [],
    "micro-www" : {
       "acid" : [
          "Acids",
@@ -458,6 +457,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Acids|",

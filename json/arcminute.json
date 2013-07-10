@@ -17,6 +17,14 @@
       "entity",
       "unit"
    ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
    "duck" : [
       "A minute of arc, arcminute, or minute arc (MOA), is a unit of angular measurement equal to one sixtieth of one degree.",
       "https://en.wikipedia.org/wiki/Minute_of_arc",
@@ -29,22 +37,14 @@
       "A",
       "\n<a href=\"http://duckduckgo.com/c/Units_of_angle\">Units of angle</a>"
    ],
-   "common" : {
-      "milestones" : [],
-      "image" : [
-         [],
-         []
-      ]
-   },
-   "Lists" : [],
    "micro-www-search" : [],
    "created" : 1373455727,
-   "book" : [],
    "micro-www" : {
       "arcminute" : [
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Units of angle|Arcminute"

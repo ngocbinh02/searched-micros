@@ -5,19 +5,7 @@
       "similarity"
    ],
    "micro" : [],
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Shimla&v=n\">Shimla</a> - Shimla, formerly known as Simla, is the capital city of the Indian state of Himachal Pradesh, located in northern India.",
-      "https://en.wikipedia.org/wiki/Similarity",
-      "\n<a href=\"http://duckduckgo.com/Similarity_(geometry)\">Similarity (geometry)</a>, a shape-preserving transformation",
-      "HASH(0x4f88668)",
-      "Wikipedia",
-      "Similarity",
-      "http://www.merriam-webster.com/dictionary/similarity",
-      "similarity definition: the quality or state of being similar.",
-      "Merriam-Webster",
-      "HASH(0x2026fc8)",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US,_UK_investigators_collaborating_after_US_777_incident_similar_to_London_crash\" title=\"US, UK investigators collaborating after US 777 incident similar to London crash\">US, UK investigators collaborating after US 777 incident <span class=\"searchmatch\">similar</span> to London crash</a>",
@@ -47,7 +35,19 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Shimla&v=n\">Shimla</a> - Shimla, formerly known as Simla, is the capital city of the Indian state of Himachal Pradesh, located in northern India.",
+      "https://en.wikipedia.org/wiki/Similarity",
+      "\n<a href=\"http://duckduckgo.com/Similarity_(geometry)\">Similarity (geometry)</a>, a shape-preserving transformation",
+      "HASH(0x4f88668)",
+      "Wikipedia",
+      "Similarity",
+      "http://www.merriam-webster.com/dictionary/similarity",
+      "similarity definition: the quality or state of being similar.",
+      "Merriam-Webster",
+      "HASH(0x2026fc8)",
+      "D"
+   ],
    "micro-www-search" : [
       "similarity\n>http\nhttp://en.m.wikipedia.org/wiki/Similarity\nhttp://en.wikipedia.org/w/index.php?title=Similarity&oldid=542518834\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "similarities\n>http\nhttp://en.m.wikipedia.org/wiki/Similarity\nhttp://en.wikipedia.org/w/index.php?title=Similarity&oldid=542518834\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
@@ -56,7 +56,6 @@
       "Similarity_(geometry)\n>http\nhttp://en.m.wikipedia.org/wiki/Similarity_(geometry)\nhttp://en.wikipedia.org/w/index.php?title=Similarity_(geometry)&oldid=542362222\nhttp://www.mathopenref.com/similartriangles.html\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Similar-geometric-shapes.svg/300px-Similar-geometric-shapes.svg.png\n"
    ],
    "created" : 1373459057,
-   "book" : [],
    "micro-www" : {
       "similar" : [
          "similarity",
@@ -67,6 +66,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n\nSpecific definitions\n\nDifferent fields provide differing definitions of similarity:\n\nIn mathematics\n* Similarity (geometry), a shape-preserving transformation\n* Matrix similarity, a relation between matrices\n\nIn computer science\n* string metric, aka string similarity\n* semantic similarity in computational linguistics\n\nIn other fields\n* In engineering, Similitude (model) describe the geometric, kinematic and\n  dynamic 'likeness' of two (or more) systems.\n* In psychology, similarity (psychology)\n* In music, musical similarity\n* In chemistry, chemical similarity\n\nSee also\n* Same (disambiguation)\n* Difference (disambiguation)\n* Equality (mathematics)\n* Identity (philosophy)\n",

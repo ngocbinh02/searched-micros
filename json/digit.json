@@ -150,25 +150,7 @@
       "viii",
       "nine"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Digit",
-      "\n<a href=\"http://duckduckgo.com/telephone_number\">Phone number</a>, slang as digit, as in \"Let me get your digits so I can call you tonight.\"",
-      "Wikipedia",
-      "Digit",
-      "http://www.merriam-webster.com/dictionary/digit",
-      "digit definition: any of the Arabic numerals 1 to 9 and usually the symbol 0.",
-      "\n<a href=\"http://duckduckgo.com/Digit_(magazine)\">Digit (magazine)</a>, an Indian information technology magazine",
-      "\n<a href=\"http://duckduckgo.com/Numerical_digit\">Numerical digit</a>, as used in mathematics or computer science",
-      "\n<a href=\"http://duckduckgo.com/Hexadecimal\">Hexadecimal</a>, representing a four-bit number",
-      "\n<a href=\"http://duckduckgo.com/Digit_(unit)\">Digit (unit)</a>, an ancient measurement unit",
-      "HASH(0x5d02548)",
-      "\n<a href=\"http://duckduckgo.com/Digit_(anatomy)\">Digit (anatomy)</a>, one of several most distal parts of a limb—fingers, thumbs, and toes on hands and feet",
-      "\n<a href=\"http://duckduckgo.com/liquid_and_digits\">digits dancing</a>, a type of gestural, interpretive, rave and urban street dance",
-      "\n<a href=\"http://duckduckgo.com/Digit_(Cyberchase)\">Digit (Cyberchase)</a>, a Cyberchase character",
-      "Merriam-Webster",
-      "HASH(0x5c81198)",
-      "D"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Two_hundred_digit_number_factored\" title=\"Two hundred digit number factored\">Two hundred <span class=\"searchmatch\">digit</span> number factored</a>",
@@ -197,7 +179,25 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Digit",
+      "\n<a href=\"http://duckduckgo.com/telephone_number\">Phone number</a>, slang as digit, as in \"Let me get your digits so I can call you tonight.\"",
+      "Wikipedia",
+      "Digit",
+      "http://www.merriam-webster.com/dictionary/digit",
+      "digit definition: any of the Arabic numerals 1 to 9 and usually the symbol 0.",
+      "\n<a href=\"http://duckduckgo.com/Digit_(magazine)\">Digit (magazine)</a>, an Indian information technology magazine",
+      "\n<a href=\"http://duckduckgo.com/Numerical_digit\">Numerical digit</a>, as used in mathematics or computer science",
+      "\n<a href=\"http://duckduckgo.com/Hexadecimal\">Hexadecimal</a>, representing a four-bit number",
+      "\n<a href=\"http://duckduckgo.com/Digit_(unit)\">Digit (unit)</a>, an ancient measurement unit",
+      "HASH(0x5d02548)",
+      "\n<a href=\"http://duckduckgo.com/Digit_(anatomy)\">Digit (anatomy)</a>, one of several most distal parts of a limb—fingers, thumbs, and toes on hands and feet",
+      "\n<a href=\"http://duckduckgo.com/liquid_and_digits\">digits dancing</a>, a type of gestural, interpretive, rave and urban street dance",
+      "\n<a href=\"http://duckduckgo.com/Digit_(Cyberchase)\">Digit (Cyberchase)</a>, a Cyberchase character",
+      "Merriam-Webster",
+      "HASH(0x5c81198)",
+      "D"
+   ],
    "micro-www-search" : [
       "digitalis\n>http\nhttp://dictionary.reference.com/browse/digitalis\nhttp://en.m.wikipedia.org/wiki/Digitalis\nhttp://en.wikipedia.org/w/index.php?title=Digitalis&oldid=543065541\nhttp://plants.usda.gov/java/profile?symbol=DIGIT\nhttp://rbg-web2.rbge.org.uk/cgi-bin/nph-readbtree.pl/feout?FAMILY_XREF=&GENUS_XREF=Digitalis&SPECIES_XREF=&TAXON_NAME_XREF=&RANK=species\nhttp://www.arkive.org/foxglove/digitalis-purpurea/range-and-habitat.html\nhttp://www.bris.ac.uk/Depts/Chemistry/MOTM/digitalis/digtalis.htm\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Digitalis_purpurea2.jpg/220px-Digitalis_purpurea2.jpg\n\n",
       "digital_identity\n>http\nhttp://en.wikipedia.org/w/index.php?title=Digital_identity&oldid=556966056\nhttp://wiki.eclipse.org/Digital_Identity\nhttp://www.adelaide.edu.au/press/titles/digital-identity/\nhttp://www.digitalidnews.com/\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png\n\n",
@@ -236,7 +236,6 @@
       "Digital\n>http\nhttp://en.m.wikipedia.org/wiki/Digital\nhttp://en.wikipedia.org/w/index.php?title=Digital&oldid=543555438\n\n>pdf\nhttp://www.sciencemag.org/content/suppl/2011/02/08/science.1200970.DC1/Hilbert-SOM.pdf\nhttp://www.sciencemag.org/content/suppl/2011/02/08/science.1200970.DC1/Hilbert-SOM.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/f/f4/Ambox_content.png\n"
    ],
    "created" : 1373455878,
-   "book" : [],
    "micro-www" : {
       "digit" : [
          "digitalis",
@@ -277,6 +276,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Digit' may refer to:\n\n* Digit (anatomy), one of several most distal parts of a limb—fingers, thumbs,\n  and toes on hands and feet\n* Numerical digit, as used in mathematics or computer science\n* Hexadecimal, representing a four-bit number\n* Dit or digit, synonym of Ban (information), a unit of information entropy\n* Digit (unit), an ancient measurement unit\n* Phone number, slang as digit, as in \"Let me get your digits so I can call you\n  tonight.\" <!--* Digit (E1/Royal Bloodline Records Recording Artist), Seven\n  \"Digit\" Hughes, Recording artist from Atlanta, GA--> <!--* ''DiGIT''\n  (magazine), a free online IT magazine based in Sri Lanka-->\n* ''Digit'' (magazine), an Indian information technology magazine\n* digits dancing, a type of gestural, interpretive, rave and urban street dance\n* Digit (Cyberchase), a Cyberchase character\n* Digit, an obscure robotic Muppet character\n",

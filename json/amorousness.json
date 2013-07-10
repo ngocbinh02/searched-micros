@@ -1,7 +1,4 @@
 {
-   "micrownet" : [
-      "amorousness"
-   ],
    "google" : [
       "/url?q=http://www.thefreedictionary.com/Amorousness&sa=U&ei=xCPdUbqdKofGPaqDgNgF&ved=0CBgQFjAA&usg=AFQjCNHQIepJ29kCS_GE6Pll6854ovX9_g",
       "/url?q=http://www.thefreedictionary.com/amorous&sa=U&ei=xCPdUbqdKofGPaqDgNgF&ved=0CBwQFjAB&usg=AFQjCNGaZ2iShha8tetnwZirfMwKRpcaOA",
@@ -13,6 +10,9 @@
       "/url?q=http://www.urbandictionary.com/define.php%3Fterm%3Damorousness&sa=U&ei=xCPdUbqdKofGPaqDgNgF&ved=0CDEQFjAH&usg=AFQjCNHmyG2_LTcP62kaBmvQiAQZzCyUoQ",
       "/url?q=http://www.interglot.com/dictionary/en/en/translate/amorousness&sa=U&ei=xCPdUbqdKofGPaqDgNgF&ved=0CDQQFjAI&usg=AFQjCNEll5wIQ8vGdI-r9fXsvf_TWVNHRg",
       "/url?q=http://www.onelook.com/%3Floc%3Drescb%26refclue%3Dlove%26w%3Damorousness&sa=U&ei=xCPdUbqdKofGPaqDgNgF&ved=0CDcQFjAJ&usg=AFQjCNHNcw04FNKkV_uHRHM2jzkNcem9jg"
+   ],
+   "micrownet" : [
+      "amorousness"
    ],
    "micro" : [
       "emotion",
@@ -26,11 +26,7 @@
       "amorousness",
       "state"
    ],
-   "duck" : [
-      "Amorousness",
-      "Strongly attracted or disposed to love, especially sexual love.",
-      "Strongly attracted or disposed to love, especially sexual love."
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Woman_dies_when_pet_camel_tries_to_mate_with_her\" title=\"Woman dies when pet camel tries to mate with her\">Woman dies when pet camel tries to mate with her</a>",
@@ -41,14 +37,18 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "Amorousness",
+      "Strongly attracted or disposed to love, especially sexual love.",
+      "Strongly attracted or disposed to love, especially sexual love."
+   ],
    "micro-www-search" : [],
    "created" : 1373454258,
-   "book" : [],
    "micro-www" : {
       "amorousness" : [
          ""
       ]
    },
+   "book" : [],
    "micro-relation" : []
 }

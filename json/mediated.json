@@ -12,7 +12,20 @@
       "liaise",
       "negotiate"
    ],
-   "Lists" : [],
+   "duck" : [
+      "Mediated: How the Media Shapes Your World and the Way You Live in It is a non-fiction book by anthropologist Thomas de Zengotita published in 2005 by Bloomsbury about the effect of the media in the Western world.",
+      "https://en.wikipedia.org/wiki/Mediated",
+      "HASH(0x5e8aca8)",
+      "Wikipedia",
+      "Mediated",
+      "http://www.merriam-webster.com/dictionary/mediated",
+      "mediated definition: relating to or being the part of immunity or the immune response that is mediated primarily by T cells.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/c/Books_about_the_media\">Books about the media</a>",
+      "HASH(0x5e74100)",
+      "Mediated: How the Media Shapes Your World and the Way You Live in It is a non-fiction book by anthropologist Thomas de Zengotita published in 2005 by Bloomsbury about the effect of the media in the Western world.",
+      "A"
+   ],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/United_States_and_Iran_hold_talks_on_Iraq_security\" title=\"United States and Iran hold talks on Iraq security\">United States and Iran hold talks on Iraq security</a>",
@@ -41,31 +54,18 @@
          []
       ]
    },
-   "duck" : [
-      "Mediated: How the Media Shapes Your World and the Way You Live in It is a non-fiction book by anthropologist Thomas de Zengotita published in 2005 by Bloomsbury about the effect of the media in the Western world.",
-      "https://en.wikipedia.org/wiki/Mediated",
-      "HASH(0x5e8aca8)",
-      "Wikipedia",
-      "Mediated",
-      "http://www.merriam-webster.com/dictionary/mediated",
-      "mediated definition: relating to or being the part of immunity or the immune response that is mediated primarily by T cells.",
-      "Merriam-Webster",
-      "\n<a href=\"http://duckduckgo.com/c/Books_about_the_media\">Books about the media</a>",
-      "HASH(0x5e74100)",
-      "Mediated: How the Media Shapes Your World and the Way You Live in It is a non-fiction book by anthropologist Thomas de Zengotita published in 2005 by Bloomsbury about the effect of the media in the Western world.",
-      "A"
-   ],
+   "Lists" : [],
    "micro-www-search" : [
       "mediated\n>http\nhttp://en.m.wikipedia.org/wiki/Mediated\nhttp://en.wikipedia.org/w/index.php?title=Mediated&oldid=520663520\nhttp://www.mediatedtdez.com/\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png\n"
    ],
    "created" : 1373458126,
+   "book" : [],
    "micro-www" : {
       "mediated" : [
          "mediated",
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [
          "2005 books",

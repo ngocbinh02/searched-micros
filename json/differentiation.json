@@ -28,7 +28,28 @@
       "abstraction",
       "demarcation"
    ],
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Differentiation",
+      "Wikipedia",
+      "Differentiation",
+      "http://www.merriam-webster.com/dictionary/differentiation",
+      "\n<a href=\"http://duckduckgo.com/Inductive_reasoning_aptitude\">Inductive reasoning aptitude</a> in psychology",
+      "differentiation definition: the act or process of differentiating.",
+      "\n<a href=\"http://duckduckgo.com/Planetary_differentiation\">Planetary differentiation</a> - in <a href=\"http://duckduckgo.com/?q=planetary science\">planetary science</a> and <a href=\"http://duckduckgo.com/?q=geology\">geology</a>",
+      "\n<a href=\"http://duckduckgo.com/Product_differentiation\">Product differentiation</a> in marketing",
+      "\n<a href=\"http://duckduckgo.com/Igneous_differentiation\">Igneous differentiation</a> in geology",
+      "\n<a href=\"http://duckduckgo.com/Differentiation_(sociology)\">Differentiation (sociology)</a> - Differentiation is a term in system theory From the viewpoint of this theory, the principal feature of modern society is the increased process of system differentiation as a way of dealing with ...",
+      "HASH(0x5579888)",
+      "\n<a href=\"http://duckduckgo.com/derivative\">Differentiation (mathematics)</a>, the process of finding a derivative",
+      "\n<a href=\"http://duckduckgo.com/Differentiation_(linguistics)\">Differentiation (linguistics)</a> - Differentiation in semantics is defined by Löbner (2002) as a meaning shift reached by \"adding concepts to the original concepts\".",
+      "Merriam-Webster",
+      "HASH(0x5281960)",
+      "\n<a href=\"http://duckduckgo.com/Cellular_differentiation\">Cellular differentiation</a> in biology",
+      "\n<a href=\"http://duckduckgo.com/Differentiated_instruction\">Differentiated instruction</a> in education",
+      "\n<a href=\"http://duckduckgo.com/Differentiation_(economics)\">Differentiation (economics)</a>, the making a product different from other similar products",
+      "\n<a href=\"http://duckduckgo.com/cannibal_Culture\">Differentiation (ethnography)</a>, the invention of ostensible differences between cultures",
+      "D"
+   ],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Conditions_in_the_womb_determine_male_sexuality\" title=\"Conditions in the womb determine male sexuality\">Conditions in the womb determine male sexuality</a>",
@@ -54,34 +75,14 @@
          []
       ]
    },
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Differentiation",
-      "Wikipedia",
-      "Differentiation",
-      "http://www.merriam-webster.com/dictionary/differentiation",
-      "\n<a href=\"http://duckduckgo.com/Inductive_reasoning_aptitude\">Inductive reasoning aptitude</a> in psychology",
-      "differentiation definition: the act or process of differentiating.",
-      "\n<a href=\"http://duckduckgo.com/Planetary_differentiation\">Planetary differentiation</a> - in <a href=\"http://duckduckgo.com/?q=planetary science\">planetary science</a> and <a href=\"http://duckduckgo.com/?q=geology\">geology</a>",
-      "\n<a href=\"http://duckduckgo.com/Product_differentiation\">Product differentiation</a> in marketing",
-      "\n<a href=\"http://duckduckgo.com/Igneous_differentiation\">Igneous differentiation</a> in geology",
-      "\n<a href=\"http://duckduckgo.com/Differentiation_(sociology)\">Differentiation (sociology)</a> - Differentiation is a term in system theory From the viewpoint of this theory, the principal feature of modern society is the increased process of system differentiation as a way of dealing with ...",
-      "HASH(0x5579888)",
-      "\n<a href=\"http://duckduckgo.com/derivative\">Differentiation (mathematics)</a>, the process of finding a derivative",
-      "\n<a href=\"http://duckduckgo.com/Differentiation_(linguistics)\">Differentiation (linguistics)</a> - Differentiation in semantics is defined by Löbner (2002) as a meaning shift reached by \"adding concepts to the original concepts\".",
-      "Merriam-Webster",
-      "HASH(0x5281960)",
-      "\n<a href=\"http://duckduckgo.com/Cellular_differentiation\">Cellular differentiation</a> in biology",
-      "\n<a href=\"http://duckduckgo.com/Differentiated_instruction\">Differentiated instruction</a> in education",
-      "\n<a href=\"http://duckduckgo.com/Differentiation_(economics)\">Differentiation (economics)</a>, the making a product different from other similar products",
-      "\n<a href=\"http://duckduckgo.com/cannibal_Culture\">Differentiation (ethnography)</a>, the invention of ostensible differences between cultures",
-      "D"
-   ],
+   "Lists" : [],
    "micro-www-search" : [
       "Differentiation_operator\n>image\nhttp://upload.wikimedia.org/math/1/c/a/1ca227aec0e11790b029ce5ae762a60c.png\n\n",
       "Differentiation_(economics)\n>http\nhttp://en.wikipedia.org/w/index.php?title=Product_differentiation&oldid=559720858\n\n",
       "Differentiation\n>http\nhttp://en.m.wikipedia.org/wiki/Differentiation\nhttp://en.wikipedia.org/w/index.php?title=Differentiation&oldid=540407771\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n"
    ],
    "created" : 1373459533,
+   "book" : [],
    "micro-www" : {
       "differentiation" : [
          "Differentiation_operator",
@@ -90,7 +91,6 @@
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Differentiation' may refer to:\n\n* Differentiation (mathematics), the process of finding a derivative\n* Differentiated instruction in education\n* Cellular differentiation in biology\n* Planetary differentiation - in planetary science and geology\n* Inductive reasoning aptitude in psychology\n* Igneous differentiation in geology\n* Product differentiation in marketing\n* Differentiation (linguistics)\n* Differentiation (sociology)\n* Differentiation (economics), the making a product different from other\n  similar products\n* Differentiation (ethnography), the invention of ostensible differences\n  between cultures\n",

@@ -121,25 +121,7 @@
       "leap_second",
       "time_unit"
    ],
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Second_(disambiguation)",
-      "Wikipedia",
-      "Second",
-      "\n<a href=\"http://duckduckgo.com/Second_(curling)\">Second (curling)</a>, a curling position",
-      "http://www.merriam-webster.com/dictionary/second",
-      "second definition: next to the first in place or time.",
-      "\n<a href=\"http://duckduckgo.com/minute_of_arc\">Arcsecond</a>, a unit of angle",
-      "\n<a href=\"http://duckduckgo.com/Used_good\">Used good</a>s, known as seconds or second-hand goods",
-      "HASH(0x5c968a8)",
-      "\n<a href=\"http://duckduckgo.com/Second\">Second</a> is a unit of time.",
-      "\n<a href=\"http://duckduckgo.com/Second_dealing\">Second dealing</a>, a method of cheating in card games",
-      "Merriam-Webster",
-      "HASH(0x5b05470)",
-      "\n<a href=\"http://duckduckgo.com/Second_(parliamentary_procedure)\">Second (parliamentary procedure)</a>, to support a proposal",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/2_(number)\">2 (number)</a>, as an ordinal (also written as 2nd, 2d or 2nd)",
-      "\n<a href=\"http://duckduckgo.com/Second-in-command\">Second-in-command</a>, a deputy commander in British and Commonwealth armies"
-   ],
+   "Lists" : [],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Philippine_economic_growth_slows_slightly_in_2nd_quarter_of_2012\" title=\"Philippine economic growth slows slightly in 2nd quarter of 2012\">Philippine economic growth slows slightly in 2nd quarter of 2012</a>",
@@ -168,7 +150,25 @@
          []
       ]
    },
-   "Lists" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Second_(disambiguation)",
+      "Wikipedia",
+      "Second",
+      "\n<a href=\"http://duckduckgo.com/Second_(curling)\">Second (curling)</a>, a curling position",
+      "http://www.merriam-webster.com/dictionary/second",
+      "second definition: next to the first in place or time.",
+      "\n<a href=\"http://duckduckgo.com/minute_of_arc\">Arcsecond</a>, a unit of angle",
+      "\n<a href=\"http://duckduckgo.com/Used_good\">Used good</a>s, known as seconds or second-hand goods",
+      "HASH(0x5c968a8)",
+      "\n<a href=\"http://duckduckgo.com/Second\">Second</a> is a unit of time.",
+      "\n<a href=\"http://duckduckgo.com/Second_dealing\">Second dealing</a>, a method of cheating in card games",
+      "Merriam-Webster",
+      "HASH(0x5b05470)",
+      "\n<a href=\"http://duckduckgo.com/Second_(parliamentary_procedure)\">Second (parliamentary procedure)</a>, to support a proposal",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/2_(number)\">2 (number)</a>, as an ordinal (also written as 2nd, 2d or 2nd)",
+      "\n<a href=\"http://duckduckgo.com/Second-in-command\">Second-in-command</a>, a deputy commander in British and Commonwealth armies"
+   ],
    "micro-www-search" : [
       "secondary\n>http\nhttp://en.m.wikipedia.org/wiki/Secondary\nhttp://en.wikipedia.org/w/index.php?title=Secondary&oldid=543530414\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
       "second_name\n>image\nhttp://upload.wikimedia.org/wikipedia/en/f/f4/Ambox_content.png\n\n",
@@ -209,7 +209,6 @@
       "Second\n>pdf\nhttp://physics.nist.gov/Pubs/SP330/sp330.pdf\nhttp://resource.npl.co.uk/docs/networks/time/meeting3/klein.pdf\nhttp://www.cl.cam.ac.uk/~mgk25/time/metrologia-leapsecond.pdf\nhttp://www.cl.cam.ac.uk/~mgk25/time/metrologia-leapsecond.pdf\nhttp://www.leapsecond.com/history/1958-PhysRev-v1-n3-Markowitz-Hall-Essen-Parry.pdf\nhttp://www.leapsecond.com/history/1968-Metrologia-v4-n4-Essen.pdf\nhttp://physics.nist.gov/Pubs/SP330/sp330.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flashingsecond.gif/20px-Flashingsecond.gif\n"
    ],
    "created" : 1373455788,
-   "book" : [],
    "micro-www" : {
       "second" : [
          "secondary",
@@ -252,6 +251,7 @@
          ""
       ]
    },
+   "book" : [],
    "wiki" : {
       "cat" : [
          "Centimetre–gram–second system of units",

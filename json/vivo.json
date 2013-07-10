@@ -4,7 +4,17 @@
       "in_vivo"
    ],
    "micro" : [],
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/VivoCity\">VivoCity</a>, the largest shopping mall in Singapore",
+      "\n<a href=\"http://duckduckgo.com/In_vivo\">In vivo</a> or <a href=\"http://duckduckgo.com/?q=Ex vivo\">Ex vivo</a>",
+      "https://en.wikipedia.org/wiki/Vivo",
+      "HASH(0x554ae40)",
+      "Wikipedia",
+      "Vivo",
+      "HASH(0x576ba98)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/HTC_Incredible_S\">HTC Incredible S</a>, Internal codename for the HTC Incredible S"
+   ],
    "common" : {
       "milestones" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Experiment_on_frozen_sperm_raises_hopes_of_%22restoring%22_extinct_mammals\" title=\"Experiment on frozen sperm raises hopes of &quot;restoring&quot; extinct mammals\">Experiment on frozen sperm raises hopes of &quot;restoring&quot; extinct mammals</a>",
@@ -17,25 +27,15 @@
          []
       ]
    },
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/VivoCity\">VivoCity</a>, the largest shopping mall in Singapore",
-      "\n<a href=\"http://duckduckgo.com/In_vivo\">In vivo</a> or <a href=\"http://duckduckgo.com/?q=Ex vivo\">Ex vivo</a>",
-      "https://en.wikipedia.org/wiki/Vivo",
-      "HASH(0x554ae40)",
-      "Wikipedia",
-      "Vivo",
-      "HASH(0x576ba98)",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/HTC_Incredible_S\">HTC Incredible S</a>, Internal codename for the HTC Incredible S"
-   ],
+   "Lists" : [],
    "micro-www-search" : [],
    "created" : 1373459924,
+   "book" : [],
    "micro-www" : {
       "vivo" : [
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Vivo' may refer to:\n",
