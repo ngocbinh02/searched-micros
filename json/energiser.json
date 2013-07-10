@@ -1,0 +1,75 @@
+{
+   "micrownet" : [
+      "energiser"
+   ],
+   "duck" : [
+      "Energizer Holdings is an American manufacturer of batteries and personal care products, headquartered in Town and Country, Missouri.",
+      "https://en.wikipedia.org/wiki/Energizer_Holdings",
+      "HASH(0x4971a58)",
+      "Wikipedia",
+      "Energizer Holdings",
+      "\n<a href=\"http://duckduckgo.com/c/Consumer_battery_manufacturers\">Consumer battery manufacturers</a>",
+      "https://i.duckduckgo.com/i/3fd87270.png",
+      "\n<a href=\"http://duckduckgo.com/c/American_brands\">American brands</a>",
+      "\n<a href=\"http://duckduckgo.com/c/Companies_based_in_St._Louis_County%2C_Missouri\">Companies based in St. Louis County, Missouri</a>",
+      "HASH(0x4975798)",
+      "Energizer Holdings is an American manufacturer of batteries and personal care products, headquartered in Town and Country, Missouri.",
+      "A",
+      "ARRAY(0x4973eb0)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465020,
+   "book" : [],
+   "micro-www" : {
+      "energiser" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "American brands",
+         "Companies listed on the New York Stock Exchange",
+         "Consumer battery manufacturers",
+         "Companies based in St. Louis County, Missouri",
+         "Companies established in 1896"
+      ],
+      "text" : "{{Infobox Company\n|  company_name = Energizer Holdings, Inc. company_logo = company_type = Public\n|  traded_as = foundation = 1896 (as the American Electrical Novelty &\n|  Manufacturing Company, spun off from Ralston Purina Company in 2000) location\n|  = Town and Country, Missouri, United States key_people = Ward M. Klein, CEO\n|  num_employees = 14,848 (2006) industry = Consumer Products products =\n|  Energizer Batteries<br/>Schick Products<br/>Playtex Products revenue = $3.4\n|  Billion (2007)<ref\n|  name=\"GoogleFinance\">[http://finance.google.com/finance?q=Energizer Google\n|  Finance]</ref> operating_income = $434 Million (2007)<ref\n|  name=\"GoogleFinance\" /> net_income = $321 Million (2007)<ref\n|  name=\"GoogleFinance\" /> assets = $3.5 Billion (2007)<ref name=\"GoogleFinance\"\n|  /> equity = $654 Million (2007)<ref name=\"GoogleFinance\" /> homepage =\n|  [http://energizerholdings.com/Pages/default.aspx Energizer Holdings]\n}} 'Energizer Holdings' is an American manufacturer of batteries and personal\ncare products, headquartered in Town and Country, Missouri.<ref>\"[http://www.energizer.com/Pages/enr-\ncontact.aspx Contact Energizer].\" Energizer Holdings. Retrieved on August 18,\n2009.</ref><ref>\"[http://www.town-and-country.org/uploads/ZONING%20MAP.pdf\nZoning Map].\" City of Town and Country. Retrieved on August 18, 2009.</ref><ref-\n>\"[http://factfinder.census.gov/servlet/MapItDrawServlet?geo_id=16000US2973618&-\n_bucket_id=50&tree_id=420&context=saff&_lang=en&_sse=on Town and Country city].\"\nU.S. Census Bureau. Retrieved on August 18, 2009.</ref><ref>Volkmann, Kelsey.\n\"[http://stlouis.bizjournals.com/stlouis/stories/2009/07/27/daily21.html\nEnergizer to cut jobs as sales slump].\" [[St. Louis Business Journal]]. Tuesday\nJuly 28, 2009. Retrieved on August 18, 2009.</ref> Its most well known brands\nare Energizer and [[Eveready Battery Company|Eveready]] batteries, [[Schick\n(razors)|Schick]], [[Wilkinson Sword]] and [[Edge (shaving gel)|Edge]] shaving\nproducts, [[Playtex]] feminine hygiene and baby products, and [[Hawaiian\nTropic]] and Banana Boat sunscreen products. The company sells in over 165\ncountries.<ref>2006 Annual Report, pg. 5</ref>\n",
+      "title" : "Energizer%20Holdings",
+      "headings" : [
+         "History",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "3: Town_and_Country,_Missouri",
+      "2: Playtex",
+      "1: Public_company",
+      "1: Spin_out",
+      "1: Ralston_Purina_Company",
+      "1: United_States",
+      "1: Ward_M._Klein",
+      "1: Consumer_Products",
+      "1: Energizer",
+      "1: Personal_care",
+      "1: Missouri",
+      "1: U.S._Census_Bureau",
+      "1: Shaving",
+      "1: Feminine_hygiene",
+      "1: Baby",
+      "1: Eveready_Battery_Company",
+      "1: Ralston_Purina",
+      "1: New_York_Stock_Exchange",
+      "1: Razor",
+      "1: Wilkinson_Sword",
+      "1: Pfizer",
+      "1: S.C._Johnson_&_Son"
+   ]
+}

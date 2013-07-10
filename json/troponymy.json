@@ -1,0 +1,46 @@
+{
+   "micrownet" : [
+      "troponymy"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/c/Lexical_semantics\">Lexical semantics</a>",
+      "Troponymy",
+      "Troponymy is the presence of a ‘manner’ relation between two lexemes."
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373470338,
+   "book" : [],
+   "micro-www" : {
+      "troponymy" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Lexical semantics"
+      ],
+      "text" : "\n\n'Troponymy' is the presence of a ‘manner’ relation between two lexemes.\n\nThe notion was originally proposed by Christiane Fellbaum and George\nMiller.<ref> p.566</ref> Some examples they gave are “to nibble is to eat in a\ncertain manner, and to gorge is to eat in a different manner. Similarly, to\ntraipse or to mince is to walk in some manner”.<ref> p.567</ref>\n\nTroponymy is one of the possible relations between verbs in the semantic network\nof the WordNet database.\n",
+      "title" : "troponymy",
+      "headings" : [
+         "Notes",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "1: Lexeme",
+      "1: Christiane_Fellbaum",
+      "1: George_Armitage_Miller",
+      "1: Verb",
+      "1: Semantic_network",
+      "1: WordNet",
+      "1: Hyponymy"
+   ]
+}

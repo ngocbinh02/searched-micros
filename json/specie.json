@@ -1,0 +1,66 @@
+{
+   "micrownet" : [
+      "specie",
+      "species"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Specie",
+      "Wikipedia",
+      "Specie",
+      "http://www.merriam-webster.com/dictionary/specie",
+      "specie definition: money in coin.",
+      "\n<a href=\"http://duckduckgo.com/Specie_Circular\">Specie Circular</a>, 1836 executive order by US President Andrew Jackson regarding hard money",
+      "\n<a href=\"http://duckduckgo.com/Specie_Payment_Resumption_Act\">Specie Payment Resumption Act</a> - The Specie Payment Resumption Act of January 14, 1875, was a law in the United States which restored the nation to the gold standard through the redemption of previously unbacked United States N...",
+      "\n<a href=\"http://duckduckgo.com/Bullion_coin\">Bullion coin</a>s",
+      "\n<a href=\"http://duckduckgo.com/Hard_money_(policy)\">Hard money (policy)</a> - Hard money policies support a specie standard, usually gold or silver, typically implemented with representative money.",
+      "HASH(0x49c9b60)",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Species\">Species</a>, unrelated classification system for flora and fauna",
+      "\n<a href=\"http://duckduckgo.com/Coin\">Coin</a>s or other metal money in mass circulation",
+      "HASH(0x49cbbe0)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Commodity_money\">Commodity money</a> - Commodity money is money whose value comes from a commodity of which it is made."
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Large_scale_gene_transfer_between_single-celled_and_multicellular_organisms_reported\" title=\"Large scale gene transfer between single-celled and multicellular organisms reported\">Large scale gene transfer between single-celled and multicellular organisms reported</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Fast_evolution_observed_in_butterflies\" title=\"Fast evolution observed in butterflies\">Fast evolution observed in butterflies</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464802,
+   "book" : [],
+   "micro-www" : {
+      "specie" : [
+         "species_plantarum",
+         "species",
+         "Species_selection",
+         "Species_problem",
+         "Species_diversity",
+         "Species_(disambiguation)",
+         "Species_(biology)",
+         "Species",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Specie' may refer to:\n* Coins or other metal money in mass circulation\n* Bullion coins\n* Hard money (policy)\n* Commodity money\n* Specie Circular, 1836 executive order by US President Andrew Jackson regarding\n  hard money\n* Specie Payment Resumption Act\n",
+      "title" : "specie",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Coin",
+      "1: Bullion_coin",
+      "1: Commodity_money",
+      "1: Specie_Circular",
+      "1: Specie_Payment_Resumption_Act",
+      "1: Species"
+   ]
+}

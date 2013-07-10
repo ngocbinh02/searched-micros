@@ -1,0 +1,112 @@
+{
+   "micrownet" : [
+      "exhaust_system"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Team_formed_to_investigate_suspicious_Pakistan_PNSC_office_fire\" title=\"Team formed to investigate suspicious Pakistan PNSC office fire\">Team formed to investigate suspicious Pakistan PNSC office fire</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Lib_Dems_launch_manifesto\" title=\"Lib Dems launch manifesto\">Lib Dems launch manifesto</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Internet_addresses_tested_on_World_IPv6_Day\" title=\"New Internet addresses tested on World IPv6 Day\">New Internet addresses tested on World IPv6 Day</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Steve_Kubby,_co-author_of_California_Proposition_215,_grows_dangerously_ill_in_US_custody\" title=\"Steve Kubby, co-author of California Proposition 215, grows dangerously ill in US custody\">Steve Kubby, co-author of California Proposition 215, grows dangerously ill in US custody</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Prime_suspect_in_Northern%27s_Ireland%27s_Omagh_bombing_found_not_guilty\" title=\"Prime suspect in Northern&#39;s Ireland&#39;s Omagh bombing found not guilty\">Prime suspect in Northern&#39;s Ireland&#39;s Omagh bombing found not guilty</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Locally_designed,_low_emissions_car_launched_in_Qatar\" title=\"Locally designed, low emissions car launched in Qatar\">Locally designed, low emissions car launched in Qatar</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/High_Court_of_Australia_dismisses_appeal_against_conviction,_compulsory_voting\" title=\"High Court of Australia dismisses appeal against conviction, compulsory voting\">High Court of Australia dismisses appeal against conviction, compulsory voting</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:May_20,_2010\" title=\"News briefs:May 20, 2010\">News briefs:May 20, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Two_airliners_come_within_seconds_of_collision_over_Indiana,_US\" title=\"Two airliners come within seconds of collision over Indiana, US\">Two airliners come within seconds of collision over Indiana, US</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UNICEF:_An_increasing_number_of_children_are_living_in_slums\" title=\"UNICEF: An increasing number of children are living in slums\">UNICEF: An increasing number of children are living in slums</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/BDSM_as_business:_An_interview_with_the_owners_of_a_dungeon\" title=\"BDSM as business: An interview with the owners of a dungeon\">BDSM as business: An interview with the owners of a dungeon</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373467735,
+   "book" : [],
+   "micro-www" : {
+      "exhaust_system" : [
+         "Exhaust_system",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Exhaust systems|",
+         "Engine components"
+      ],
+      "text" : "\n\n) on a car engine]]\n\nAn 'exhaust system' is usually piping used to guide reaction exhaust gases away\nfrom a controlled combustion inside an engine or stove. The entire system\nconveys burnt gases from the engine and includes one or more 'exhaust pipes'.\nDepending on the overall system design, the exhaust gas may flow through one or\nmore of: *Cylinder head and exhaust manifold *A turbocharger to increase engine\npower. *A catalytic converter to reduce air pollution. *A muffler (North\nAmerica) / silencer (Europe), to reduce noise.\n",
+      "title" : "exhaust system",
+      "headings" : [
+         "Design criteria",
+         "Terminology",
+         "Exhaust system tuning",
+         "Images",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "3: Muffler",
+      "2: Exhaust_manifold",
+      "2: Turbocharger",
+      "2: Catalytic_converter",
+      "2: Chrome_plate",
+      "2: Truck",
+      "2: Expansion_chamber",
+      "2: Back_pressure",
+      "1: Exhaust_gas",
+      "1: Combustion",
+      "1: Engine",
+      "1: Stove",
+      "1: Cylinder_head",
+      "1: Air_pollution",
+      "1: Electrical_generator",
+      "1: Furnace",
+      "1: Carbon_monoxide",
+      "1: Chimney",
+      "1: Internal_combustion_engine",
+      "1: Tuned_pipe",
+      "1: Motorcycle",
+      "1: Kawasaki_Heavy_Industries",
+      "1: Ninja_250",
+      "1: Honda",
+      "1: Yamaha",
+      "1: Suzuki",
+      "1: Lorries",
+      "1: Two-stroke_engine",
+      "1: Dirt_bike",
+      "1: Pump",
+      "1: Kadenacy_effect",
+      "1: Thermal_insulation",
+      "1: Outboard_motor",
+      "1: Cast_iron",
+      "1: Australia",
+      "1: Revolutions_per_minute",
+      "1: Car_dealership",
+      "1: Mandrel",
+      "1: Glasspack",
+      "1: Engine_displacement",
+      "1: Driving_on_the_left",
+      "1: Driving_on_the_right",
+      "1: Chrome_plating",
+      "1: Bus",
+      "1: Tractor",
+      "1: Excavator",
+      "1: Droppings",
+      "1: Building_site",
+      "1: Engine_tuning",
+      "1: Four-stroke_engine",
+      "1: Exhaust_Heat_Management",
+      "1: Ceramic_coating",
+      "1: Thermal_spraying",
+      "1: Waste_collection_vehicle",
+      "1: Car",
+      "1: Aftermarket_exhaust_parts",
+      "1: Automobile_emissions_control",
+      "1: Nitrogen_oxide_sensor",
+      "1: Motor_vehicle_emissions"
+   ]
+}

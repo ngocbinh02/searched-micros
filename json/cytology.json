@@ -1,0 +1,53 @@
+{
+   "micrownet" : [
+      "cytology"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Cytology",
+      "HASH(0x4a8e5e8)",
+      "Wikipedia",
+      "Cytology",
+      "http://www.merriam-webster.com/dictionary/cytology",
+      "cytology definition: a branch of biology dealing with the structure, function, multiplication, pathology, and life history of cells.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Cell_biology\">Cell biology</a>: the study of (normal) cellular <a href=\"http://duckduckgo.com/?q=anatomy\">anatomy</a>, function and <a href=\"http://duckduckgo.com/?q=chemistry\">chemistry</a>.",
+      "HASH(0x4a3d400)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Cytopathology\">Cytopathology</a>: the study of cellular disease and the use of cellular changes for the diagnosis of disease."
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Study_says_dogs_can_smell_lung_and_breast_cancer\" title=\"Study says dogs can smell lung and breast cancer\">Study says dogs can smell lung and breast cancer</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mexican_therapy_increases_survival_of_cervical_cancer_patients\" title=\"Mexican therapy increases survival of cervical cancer patients\">Mexican therapy increases survival of cervical cancer patients</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465871,
+   "book" : [],
+   "micro-www" : {
+      "cytology" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Cytology' (from Greek , kytos, \"a hollow\";<ref></ref> and , [[wiktionary:-logia|-\nlogia]]) means \"the study of cells\".<ref></ref> Cytology is that branch of life\nscience, which deals with the study of cells in terms of structure, function and\nchemistry. Father of Cytology - Robert Hooke. Based on usage it can refer to:\n*Cytopathology: the study of cellular disease and the use of cellular changes\nfor the diagnosis of disease. *Cell biology: the study of (normal) cellular\nanatomy, function and chemistry.\n",
+      "title" : "cytology",
+      "headings" : [
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "1: Ancient_Greek",
+      "1: Cytopathology",
+      "1: Cell_biology",
+      "1: Anatomy",
+      "1: Chemistry",
+      "1: Liver_cytology"
+   ]
+}

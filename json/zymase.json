@@ -1,0 +1,65 @@
+{
+   "micrownet" : [
+      "zymase"
+   ],
+   "duck" : [
+      "Zymase is an enzyme complex that catalyzes the fermentation of sugar into ethanol and carbon dioxide.",
+      "https://en.wikipedia.org/wiki/Zymase",
+      "\n<a href=\"http://duckduckgo.com/c/Enzymes\">Enzymes</a>",
+      "HASH(0x49e5b48)",
+      "Wikipedia",
+      "Zymase",
+      "http://www.merriam-webster.com/dictionary/zymase",
+      "zymase definition: an enzyme or enzyme complex of yeast that promotes fermentation of sugar.",
+      "Merriam-Webster",
+      "HASH(0x49e5d88)",
+      "Zymase is an enzyme complex that catalyzes the fermentation of sugar into ethanol and carbon dioxide.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464458,
+   "book" : [],
+   "micro-www" : {
+      "zymase" : [
+         "Zymase",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Enzymes"
+      ],
+      "text" : "\n\n'Zymase' is an enzyme complex that catalyzes the fermentation of sugar into\nethanol and carbon dioxide. It occurs naturally in yeasts. Zymase activity\nvaries among yeast strains.<ref></ref>\n\nZymase is also the brand name of the drug pancrelipase.\n",
+      "title" : "zymase",
+      "headings" : [
+         "Cell-free fermentation experiment",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Carbon_dioxide",
+      "2: Yeast",
+      "2: Eduard_Buchner",
+      "1: Enzyme",
+      "1: Catalysis",
+      "1: Sugar",
+      "1: Ethanol",
+      "1: Pancrelipase",
+      "1: Vitalism",
+      "1: Quartz",
+      "1: Kieselguhr",
+      "1: Glucose",
+      "1: Fructose",
+      "1: Maltose",
+      "1: Arthur_Harden",
+      "1: Antoine_Béchamp",
+      "1: Invertase"
+   ]
+}

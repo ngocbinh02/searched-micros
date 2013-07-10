@@ -1,0 +1,25 @@
+{
+   "micrownet" : [
+      "primary_care_provider"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_army_gives_medical_assistance_to_Iraq_school\" title=\"US army gives medical assistance to Iraq school\">US army gives medical assistance to Iraq school</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ontario_Votes_2007:_Interview_with_Libertarian_candidate_Larry_Stevens,_Kitchener-Conestoga\" title=\"Ontario Votes 2007: Interview with Libertarian candidate Larry Stevens, Kitchener-Conestoga\">Ontario Votes 2007: Interview with Libertarian candidate Larry Stevens, Kitchener-Conestoga</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373474304,
+   "book" : [],
+   "micro-www" : {
+      "primary_care_provider" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

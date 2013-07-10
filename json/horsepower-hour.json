@@ -1,0 +1,48 @@
+{
+   "micrownet" : [
+      "horsepower-hour"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/c/Imperial_units\">Imperial units</a>",
+      "\n<a href=\"http://duckduckgo.com/c/Units_of_energy\">Units of energy</a>",
+      "Horsepower-hour",
+      "A Horsepower-hour (hph) is an outdated unit of energy, not used in the SI system of units.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=horsepower%252Dhour",
+      "n an fps unit of work or energy equal to the work done by 1 horsepower in 1 hour.",
+      "TheFreeDictionary"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Solar_powered_plane_completes_first_leg_of_transcontinental_trip\" title=\"Solar powered plane completes first leg of transcontinental trip\">Solar powered plane completes first leg of transcontinental trip</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373469128,
+   "book" : [],
+   "micro-www" : {
+      "horsepower-hour" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Imperial units",
+         "Units of energy"
+      ],
+      "text" : "A 'Horsepower-hour' (hph) is an outdated unit of energy, not used in the SI\nsystem of units. The unit represents an amount of work a horse is supposed\ncapable of delivering during an hour (a horsepower integrated over a time\ninterval of an hour). Based on differences in the definition of what constitutes\nthe 'power of a horse', a horsepower-hour differs slightly from the German\n\"Pferdestärkenstunde\" (PSh):\n\n:1.014 PSh = 1 hph = 1,980,000 lb·ft = 0.7457 kWh.\n\n:1 PSh = 0.73549875 kWh = 2647.7955 kJ (exactly by definition)\n\nThe horsepower-hour is still used in the railroad industry when sharing motive\npower (locomotives.) For example, if railroad A borrows a 2,500 horsepower\nlocomotive from Railroad B and operates it for twelve hours, Railroad A owes a\ndebt of (2,500 * 12) 30,000 horsepower-hours. Railroad A may repay the debt by\nloaning Railroad B a 3,000 horsepower locomotive for ten\nhours.<ref>http://www.trains.com/trn/default.aspx?c=a&id=4172</ref>\n",
+      "title" : "horsepower-hour",
+      "headings" : [
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "1: Energy",
+      "1: International_System_of_Units",
+      "1: Horsepower",
+      "1: Joule"
+   ]
+}

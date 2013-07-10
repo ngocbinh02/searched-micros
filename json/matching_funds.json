@@ -1,0 +1,69 @@
+{
+   "micrownet" : [
+      "matching_funds"
+   ],
+   "duck" : [
+      "HASH(0x49d6f00)",
+      "HASH(0x49defd8)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465742,
+   "book" : [],
+   "micro-www" : {
+      "matching_funds" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Grants",
+         "Charitable organizations"
+      ],
+      "text" : "\n'Matching funds' are funds that are set to be paid in equal amount to funds\navailable from other sources. Matching fund payments usually arise in situations\nof charity or public good.\n",
+      "title" : "matching funds",
+      "headings" : [
+         "Charitable causes",
+         "U.S. federal funding",
+         "In politics",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "1: Public_interest",
+      "1: Booker_T._Washington",
+      "1: African-American",
+      "1: Educator",
+      "1: Millionaire",
+      "1: Industrialist",
+      "1: Henry_H._Rogers",
+      "1: Julius_Rosenwald",
+      "1: Rosenwald_Fund",
+      "1: Rosenwald_School",
+      "1: Black_people",
+      "1: Interstate_Highway_System",
+      "1: Detroit_River_International_Crossing",
+      "1: Interstate_75_in_Michigan",
+      "1: US_dollar",
+      "1: Michigan",
+      "1: National_Register_of_Historic_Places",
+      "1: President_of_the_United_States",
+      "1: Federal_government_of_the_United_States",
+      "1: Ross_Perot",
+      "1: Reform_Party_of_the_United_States_of_America",
+      "1: Pat_Buchanan",
+      "1: Presidential_election_campaign_fund_checkoff",
+      "1: Gary_Johnson",
+      "1: 2012_US_presidential_election",
+      "1: Green_Party_of_the_United_States",
+      "1: Jill_Stein",
+      "1: Federal_Election_Commission"
+   ]
+}

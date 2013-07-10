@@ -1,0 +1,112 @@
+{
+   "micrownet" : [],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Warning_in_Colombia_about_possible_volcanic_eruption\" title=\"Warning in Colombia about possible volcanic eruption\">Warning in Colombia about possible volcanic eruption</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/How_tall_is_tallest%3F_Chinese_researchers_measure_tallest_mountain\" title=\"How tall is tallest? Chinese researchers measure tallest mountain\">How tall is tallest? Chinese researchers measure tallest mountain</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Keep_your_eyes_peeled_for_cosmic_debris:_Andrew_Westphal_about_Stardust@home\" title=\"Keep your eyes peeled for cosmic debris: Andrew Westphal about Stardust@home\">Keep your eyes peeled for cosmic debris: Andrew Westphal about Stardust@home</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Stanford_physicists_print_smallest-ever_letters_%27SU%27_at_subatomic_level_of_1.5_nanometres_tall\" title=\"Stanford physicists print smallest-ever letters &#39;SU&#39; at subatomic level of 1.5 nanometres tall\">Stanford physicists print smallest-ever letters &#39;SU&#39; at subatomic level of 1.5 nanometres tall</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Research_articles_predict_next_earthquake\" title=\"Research articles predict next earthquake\">Research articles predict next earthquake</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/National_Oceanic_and_Atmospheric_Administration_launches_VORTEX2_to_study_tornadoes\" title=\"National Oceanic and Atmospheric Administration launches VORTEX2 to study tornadoes\">National Oceanic and Atmospheric Administration launches VORTEX2 to study tornadoes</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:May_18,_2010\" title=\"News briefs:May 18, 2010\">News briefs:May 18, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Magnitude_7.7_earthquake_strikes_off_Indonesia_coast\" title=\"Magnitude 7.7 earthquake strikes off Indonesia coast\">Magnitude 7.7 earthquake strikes off Indonesia coast</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_analyses_of_categorical_data"
+   ],
+   "created" : 1373468342,
+   "book" : [],
+   "micro-www" : {
+      "scale_of_measurement" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Articles with inconsistent citation formats",
+         "Scientific method|Scales of measure",
+         "Statistical data types",
+         "Measurement",
+         "Cognitive science"
+      ],
+      "text" : "In statistics and quantitative research methodology, 'levels of measurement' or\n'scales of measure' are types of data that arise in the 'theory of scale types'\ndeveloped by the psychologist Stanley Smith Stevens. The types are nominal,\nordinal, interval, and ratio.\n",
+      "title" : "Level%20of%20measurement",
+      "headings" : [
+         "Typology",
+         "Nominal scale",
+         "Ordinal scale{{anchor | Ordinal scale}}<!-- This section is linked from [[IQ classification]], [[Ceiling effect]] and other articles -->",
+         "Interval scale",
+         "Ratio scale",
+         "Debate on typology",
+         "See also",
+         "Notes",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "4: Median",
+      "3: Central_tendency",
+      "2: Norman_Cliff",
+      "1: Statistics",
+      "1: Quantitative_research",
+      "1: Stanley_Smith_Stevens",
+      "1: Measurement",
+      "1: R._Duncan_Luce",
+      "1: Arithmetic_Mean",
+      "1: Geometric_Mean",
+      "1: Rank_order",
+      "1: Truth_value",
+      "1: Opinion",
+      "1: Validity",
+      "1: Operationalization",
+      "1: Questionnaire",
+      "1: Psychometric",
+      "1: Cognitive",
+      "1: Prima_facie",
+      "1: Degree_Celsius",
+      "1: Affine_space",
+      "1: Affine_line",
+      "1: Arithmetic_mean",
+      "1: Standard_deviation",
+      "1: Mass",
+      "1: Length",
+      "1: Time",
+      "1: Plane_angle",
+      "1: Energy",
+      "1: Electric_charge",
+      "1: Kelvin",
+      "1: Absolute_zero",
+      "1: Geometric_mean",
+      "1: Harmonic_mean",
+      "1: Studentized_range",
+      "1: Coefficient_of_variation",
+      "1: PSPP",
+      "1: L._L._Thurstone",
+      "1: Law_of_comparative_judgment",
+      "1: Analytic_hierarchy_process",
+      "1: Georg_Rasch",
+      "1: Rasch_model",
+      "1: Behavioral_sciences",
+      "1: British_Association_for_the_Advancement_of_Science",
+      "1: Sone",
+      "1: Otto_Hölder",
+      "1: Norman_Robert_Campbell",
+      "1: Theory_of_conjoint_measurement",
+      "1: Nobel_prize",
+      "1: Percy_Bridgman",
+      "1: William_Rozeboom",
+      "1: Inter-rater_reliability",
+      "1: Cohen's_kappa",
+      "1: Category_theory",
+      "1: Ramsey–Lewis_method",
+      "1: List_of_analyses_of_categorical_data",
+      "1: Earl_Babbie"
+   ]
+}

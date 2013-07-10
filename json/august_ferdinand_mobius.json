@@ -1,0 +1,82 @@
+{
+   "micrownet" : [
+      "august_ferdinand_mobius"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373470999,
+   "book" : [],
+   "micro-www" : {
+      "august_ferdinand_mobius" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "1790 births",
+         "1868 deaths",
+         "People from Burgenlandkreis",
+         "German astronomers",
+         "19th-century astronomers",
+         "19th-century German mathematicians",
+         "Number theorists",
+         "Geometers",
+         "University of Leipzig faculty"
+      ],
+      "text" : "{{Infobox scientist |name = August Möbius |image = August Ferdinand Möbius.png\n|image_size = 250px |caption = August Ferdinand Möbius (1790&ndash;1868)\n|birth_date = |birth_place = Schulpforta, Electorate of Saxony |death_date =\n|death_place = Leipzig |residence = Germany |citizenship = <!--Not needed. But\nreatian as template placeholder--> |nationality = German |ethnicity = <!--Not\nneeded. But reatian as template placeholder--> |fields = Mathematician\n|workplaces = University of Leipzig |alma_mater = University of\nLeipzig<br>University of Göttingen<br>University of Halle |doctoral_advisor =\nJohann Pfaff |academic_advisors = Carl Friedrich Gauss<br>Karl Mollweide\n|doctoral_students = Otto Wilhelm Fiedler |notable_students = Hermann Hankel\n|known_for = Möbius strip<br>Möbius transformations<br>Möbius\ntransform<br>Möbius function<br>Möbius inversion formula<br>Möbius–Kantor\nconfiguration<br>Möbius–Kantor graph |author_abbrev_bot = |author_abbrev_zoo =\n|influences = |influenced = |awards = |religion = |signature = <!--(filename only)--\n> |footnotes = }}\n\n'August Ferdinand Möbius' (November 17, 1790 &ndash; September 26, 1868; ) was a\nGerman mathematician and theoretical astronomer.\n\nHe is best known for his discovery of the Möbius strip, a non-orientable two-\ndimensional surface with only one side when embedded in three-dimensional\nEuclidean space. It was independently discovered by Johann Benedict Listing\naround the same time. The Möbius configuration, formed by two mutually inscribed\ntetrahedra, is also named after him. Möbius was the first to introduce\nhomogeneous coordinates into projective geometry.\n\nMany mathematical concepts are named after him, including the Möbius\ntransformations, important in projective geometry, and the Möbius transform of\nnumber theory. His interest in number theory led to the important Möbius\nfunction μ(n) and the Möbius inversion formula. In Euclidean geometry, he\nsystematically developed the use of signed angles and line segments as a way of\nsimplifying and unifying results.<ref>Howard Eves, A Survey of Geometry (1963),\np. 64 (Revised edition 1972, Allyn & Bacon, ISBN 0-205-03226-5)</ref>\n\nMöbius was born in Schulpforta, Saxony-Anhalt, and was descended on his mother's\nside from religious reformer Martin Luther.<ref></ref> He studied mathematics\nunder Carl Friedrich Gauss and Johann Pfaff. Möbius died in Leipzig in 1868 at\nthe age of 77.\n",
+      "title" : "August%20Ferdinand%20M%C3%B6bius",
+      "headings" : [
+         "Collected works",
+         "Tributes",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "4: Germany",
+      "3: Schulpforta",
+      "3: Leipzig",
+      "2: Mathematician",
+      "2: University_of_Leipzig",
+      "2: Johann_Pfaff",
+      "2: Carl_Friedrich_Gauss",
+      "2: MÃ¶bius_strip",
+      "2: MÃ¶bius_transformation",
+      "2: MÃ¶bius_transform",
+      "2: MÃ¶bius_function",
+      "2: MÃ¶bius_inversion_formula",
+      "2: Saxony-Anhalt",
+      "1: Electorate_of_Saxony",
+      "1: University_of_GÃ¶ttingen",
+      "1: University_of_Halle",
+      "1: Karl_Mollweide",
+      "1: Otto_Wilhelm_Fiedler",
+      "1: Hermann_Hankel",
+      "1: MÃ¶biusâKantor_configuration",
+      "1: MÃ¶biusâKantor_graph",
+      "1: Astronomer",
+      "1: Non-orientable",
+      "1: Embedding",
+      "1: Euclidean_space",
+      "1: Johann_Benedict_Listing",
+      "1: MÃ¶bius_configuration",
+      "1: Homogeneous_coordinates",
+      "1: Projective_geometry",
+      "1: Number_theory",
+      "1: Howard_Eves",
+      "1: Martin_Luther",
+      "1: DÃ¼rrenmatt",
+      "1: Asteroid",
+      "1: 28516_MÃ¶bius",
+      "1: Brian_Lumley",
+      "1: Jean_Giraud",
+      "1: SatAM"
+   ]
+}

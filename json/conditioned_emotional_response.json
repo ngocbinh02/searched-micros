@@ -1,0 +1,48 @@
+{
+   "micrownet" : [
+      "conditioned_emotional_response"
+   ],
+   "duck" : [
+      "HASH(0x4a88db8)",
+      "HASH(0x46fea68)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Author_Amy_Scobee_recounts_abuse_as_Scientology_executive\" title=\"Author Amy Scobee recounts abuse as Scientology executive\">Author Amy Scobee recounts abuse as Scientology executive</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/On_the_campaign_trail,_September_2012\" title=\"On the campaign trail, September 2012\">On the campaign trail, September 2012</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462901,
+   "book" : [],
+   "micro-www" : {
+      "conditioned_emotional_response" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Emotion",
+         "Learning"
+      ],
+      "text" : "\n\n\n\nThe 'conditioned emotional response (CER)', specifically the conditioned fear\nresponse (CFR)<ref></ref> is an emotional response that results from classical\nconditioning, usually from the association of a relatively neutral stimulus with\na painful or fear-inducing experience. As a result, the formerly neutral\nstimulus elicits fear. For example, if seeing a dog (a neutral stimulus) is\npaired with the pain of being bitten by the dog (unconditioned stimulus), seeing\na dog may become a conditioned stimulus that elicits fear (conditioned\nresponse).\n\nIn 1920 John B. Watson and Rosalie Rayner demonstrated such fear conditioning in\nthe Little Albert experiment. They started with a 9-month boy called “Albert”,\nwho was unemotional but was made to cry by the loud noise (unconditioned\nstimulus) of a hammer striking a steel bar. Albert initially showed no fear of a\nwhite rat (neutral stimulus), but after the sight of the rat had been\naccompanied five times by the loud noise, he cried and tried to escape the rat,\nshowing that the rat had become a conditioned stimulus for fear.\n\nIn 1941 B.F. Skinner and William Kaye Estes demonstrated the CFR using electric\nshocks on rats.<ref>[http://books.google.com/books?id=-\n5vx3vhstNoC&pg=PA367&lpg=PA367&dq=conditioned+emotional+response+skinner+1941&s-\nource=bl&ots=a-\n92gvoE9N&sig=mZuPyMNoi97pmwpGq_yVVstEGw4&hl=en&sa=X&ei=EeN5UayFBY-\nArQHkmYDoBA&ved=0CEUQ6AEwAg#v=onepage&q=conditioned%20emotional%20response%20sk-\ninner%201941&f=false Principles of Learning and Behavior by Michael P.\nDomjan]</ref>\n\nThe amygdala, located in the temporal lobe, is a key brain region involved in\nthe conditioned fear response and contributes to the autonomic, hormonal, and\nbehavioral factors associated with that response. According to studies by\nCoover, Murison, & Jellestad and Davis and LeDoux in 1992, when a dog's amygdala\nis damaged, it does not show fear, and, when tamed by human beings, the dog's\nstress hormone levels in the blood are lower than they are in a normal dog.\nSimilarly, humans become less likely to report feelings of fear after their\namygdala has been damaged due to injury or stroke.\n\nThe most common measure of the CFR is the suppression ratio.\n",
+      "title" : "conditioned emotional response",
+      "headings" : [
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Classical_conditioning",
+      "2: Measures_of_conditioned_emotional_response",
+      "1: John_B._Watson",
+      "1: Little_Albert_experiment",
+      "1: B.F._Skinner",
+      "1: William_Kaye_Estes",
+      "1: Amygdala"
+   ]
+}

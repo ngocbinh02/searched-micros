@@ -1,0 +1,68 @@
+{
+   "micrownet" : [
+      "signifier"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Signifier",
+      "HASH(0x49ff338)",
+      "Wikipedia",
+      "Signifier",
+      "http://www.merriam-webster.com/dictionary/signifier",
+      "signifier definition: one that signifies.",
+      "Merriam-Webster",
+      "HASH(0x49ff4a0)",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/CoolBrands:_New_Zealand_coolest_place_in_the_world\" title=\"CoolBrands: New Zealand coolest place in the world\">CoolBrands: New Zealand coolest place in the world</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tarja_Turunen_commences_first_tour_since_leaving_Nightwish\" title=\"Tarja Turunen commences first tour since leaving Nightwish\">Tarja Turunen commences first tour since leaving Nightwish</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Saudi_Arabia_plans_to_open_embassy_in_Finland\" title=\"Saudi Arabia plans to open embassy in Finland\">Saudi Arabia plans to open embassy in Finland</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Benedict_XVI_Elevates_15_to_Cardinal\" title=\"Benedict XVI Elevates 15 to Cardinal\">Benedict XVI Elevates 15 to Cardinal</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Archbishop_Jorge_Mario_Bergoglio_of_Buenos_Aires_elected_as_Pope_Francis\" title=\"Archbishop Jorge Mario Bergoglio of Buenos Aires elected as Pope Francis\">Archbishop Jorge Mario Bergoglio of Buenos Aires elected as Pope Francis</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Nepal%27s_royal_palace_now_a_public_museum\" title=\"Nepal&#39;s royal palace now a public museum\">Nepal&#39;s royal palace now a public museum</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/ACLU_commemorates_anniversary_of_US_Supreme_Court_decision_on_student_free_speech\" title=\"ACLU commemorates anniversary of US Supreme Court decision on student free speech\">ACLU commemorates anniversary of US Supreme Court decision on student free speech</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Remaining_US_troops_exit_Iraq\" title=\"Remaining US troops exit Iraq\">Remaining US troops exit Iraq</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bird_defecates_on_Bush_in_front_of_reporters\" title=\"Bird defecates on Bush in front of reporters\">Bird defecates on Bush in front of reporters</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Proposal_for_Buffalo,_N.Y._hotel_reportedly_dead:_parcels_for_sale_%22by_owner%22\" title=\"Proposal for Buffalo, N.Y. hotel reportedly dead: parcels for sale &quot;by owner&quot;\">Proposal for Buffalo, N.Y. hotel reportedly dead: parcels for sale &quot;by owner&quot;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2006_Olympic_Winter_Games_open_in_Italy\" title=\"2006 Olympic Winter Games open in Italy\">2006 Olympic Winter Games open in Italy</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Moscow_celebrates_Victory_Day_with_military_parade\" title=\"Moscow celebrates Victory Day with military parade\">Moscow celebrates Victory Day with military parade</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chinese_New_Year_to_be_celebrated_in_Bucharest_for_the_first_time\" title=\"Chinese New Year to be celebrated in Bucharest for the first time\">Chinese New Year to be celebrated in Bucharest for the first time</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/North_Korea_to_accept_international_aid\" title=\"North Korea to accept international aid\">North Korea to accept international aid</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Zimababwe_Zanu-PF_party_dismisses_Tsvangirai_unity_boycott\" title=\"Zimababwe Zanu-PF party dismisses Tsvangirai unity boycott\">Zimababwe Zanu-PF party dismisses Tsvangirai unity boycott</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Zimbabwe_opposition_agrees_to_join_government\" title=\"Zimbabwe opposition agrees to join government\">Zimbabwe opposition agrees to join government</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Rosslyn_Chapel_music_score_%27decoded%27\" title=\"Rosslyn Chapel music score &#39;decoded&#39;\">Rosslyn Chapel music score &#39;decoded&#39;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sample_from_Turkish_patient_shows_mutated_Bird_Flu_virus\" title=\"Sample from Turkish patient shows mutated Bird Flu virus\">Sample from Turkish patient shows mutated Bird Flu virus</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Palestinians_to_elect_new_president_on_January_9\" title=\"Palestinians to elect new president on January 9\">Palestinians to elect new president on January 9</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464933,
+   "book" : [],
+   "micro-www" : {
+      "signifier" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Linguistics",
+         "Semiotics"
+      ],
+      "text" : "\n\nFerdinand de Saussure theorizes that a sign has two parts: signifier and\nsignified. The signifier is the form that the sign will take, whether it be a\nsound or image and the signified is the meaning that is conveyed.\n",
+      "title" : "signifier",
+      "headings" : [
+         "Example",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Ferdinand_de_Saussure",
+      "1: Charles_Sanders_Pierce",
+      "1: Indexicality"
+   ]
+}

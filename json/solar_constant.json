@@ -1,0 +1,85 @@
+{
+   "micrownet" : [
+      "solar_constant"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NASA_solar_sail_passes_first_major_test\" title=\"NASA solar sail passes first major test\">NASA <span class=\"searchmatch\">solar</span> sail passes first major test</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Huge_star_cluster_discovered_in_neighbourhood_of_Milky_Way\" title=\"Huge star cluster discovered in neighbourhood of Milky Way\">Huge star cluster discovered in neighbourhood of Milky Way</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Rower_Tuijn_halfway_across_Pacific_in_record_attempt\" title=\"Rower Tuijn halfway across Pacific in record attempt\">Rower Tuijn halfway across Pacific in record attempt</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_solar_cycles",
+      "List_of_articles_related_to_the_Sun"
+   ],
+   "created" : 1373473447,
+   "book" : [],
+   "micro-www" : {
+      "solar_constant" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Sun",
+         "Radiometry",
+         "Atmospheric radiation",
+         "Photovoltaics"
+      ],
+      "text" : "\n\n.]]\n\nThe 'solar constant', a measure of flux density, is the amount of incoming solar\nelectromagnetic radiation per unit area that would be incident on a plane\nperpendicular to the rays, at a distance of one astronomical unit (AU) (roughly\nthe mean distance from the Sun to the Earth). When solar irradiance is measured\non the outer surface of Earth's atmosphere,<ref\nname=TSI20>[http://acrim.com/TSI%20Monitoring.htm Satellite observations of\ntotal solar irradiance]</ref> the measurements can be adjusted using the inverse\nsquare law to infer the magnitude of solar irradiance at one AU and deduce the\nsolar\nconstant.<ref>http://www.ngdc.noaa.gov/stp/SOLAR/ftpsolarirradiance.html</ref>\n\nSolar output is nearly, but not quite, constant. Variations in total solar\nirradiance were too small to detect with technology available before the\nsatellite era. Total solar output is now measured to vary (over the last three\n11-year sunspot cycles) by approximately 0.1%;<ref name=Willson91><!-- --></ref>\nsee solar variation for details.\n\nThe solar constant includes all types of solar radiation, not just the visible\nlight. It is measured by satellite to be roughly 1.361 kilowatts per square\nmeter (kW/m²) at solar minimum and approximately 0.1% greater (roughly\n1.362&nbsp;kW/m²) at solar maximum.<ref name=KoppLean11></ref> The actual direct\nsolar irradiance at the top of the atmosphere fluctuates by about 6.9% during a\nyear (from 1.412&nbsp;kW/m² in early January to 1.321&nbsp;kW/m² in early July)\ndue to the Earth's varying distance from the Sun, and typically by much less\nthan 0.1% from day to day. Thus, for the whole Earth (which has a cross section\nof 127,400,000&nbsp;km²), the power is 1.740×10<sup>17</sup>&nbsp;W, plus or\nminus 3.5%. The solar constant does not remain constant over long periods of\ntime (see Solar variation), but over a year varies much less than the variation\nof direct solar irradiance at the top of the atmosphere arising from the\nellipticity of the Earth's orbit. The approximate average value cited,<ref\nname=KoppLean11 /> 1.361&nbsp;kW/m², which is 81.66 kJ/m² per minute in SI\nunits, is equivalent to approximately 1.952 calories per minute per square\ncentimeter, or 1.952 langleys.\n\nThe Earth receives a total amount of radiation determined by its cross\nsection (π·R<sub>E</sub>²), but as it rotates this energy is distributed\nacross the entire surface area (4·π·R<sub>E</sub>²). Hence the average\nincoming solar radiation, taking into account the angle at which the rays\nstrike and that at any one moment half the planet does not receive any solar\nradiation, is one-fourth the solar constant (approximately 340&nbsp;W/m²). At\nany given moment, the amount of solar radiation received at a location on the\nEarth's surface depends on the state of the atmosphere, the location's\nlatitude, and the time of day.\n\nThe solar constant includes all wavelengths of solar electromagnetic radiation,\nnot just the visible light (see Electromagnetic spectrum). It is linked to the\napparent magnitude of the Sun, &minus;26.8, in that the solar constant and the\nmagnitude of the Sun are two methods of describing the apparent brightness of\nthe Sun, though the magnitude is based on the Sun's visual output only.\n\nIn 1838, Claude Pouillet made the first estimate of the solar constant. Using a\nvery simple pyrheliometer he developed, he obtained a value of 1228&nbsp;W/m²,<-\nref>[http://documents.irevues.inist.fr/bitstream/handle/2042/16943/meteo_2008_6-\n0_36.pdfThe measurement of the solar constant by Claude Pouillet], by J-L\nDufresne, [http://www.smf.asso.fr/lameteo.html La Météorologie], No. 60, pp. 36-\n43, Feb. 2008.</ref> very close to the current estimate. In 1875, Jules Violle\nresumed the work of Pouillet and offered a somewhat larger estimate of\n1.7&nbsp;kW/m² based, in part, on a celebrated measurement that he made from\nMont Blanc in France. In 1884, Samuel Pierpont Langley attempted to estimate the\nsolar constant from Mount Whitney in California. By taking readings at different\ntimes of day, he tried to correct for effects due to atmospheric absorption.\nHowever, the final value he proposed, 2.903&nbsp;kW/m², was much too large.\nBetween 1902 and 1957, measurements by Charles Greeley Abbot and others at\nvarious high-altitude sites found values between 1.322 and 1.465&nbsp;kW/m².\nAbbott showed that one of Langley's corrections was erroneously applied. His\nresults varied between 1.89 and 2.22 calories (1.318 to 1.548&nbsp;&nbsp;kW/m²),\na variation that appeared to be due to the Sun and not the Earth's\natmosphere.<ref></ref>\n\nThe angular diameter of the Earth as seen from the Sun is approximately 1/11,700\nradians (about 18 arc-seconds), meaning the solid angle of the Earth as seen\nfrom the Sun is approximately 1/175,000,000 of a steradian. Thus the Sun emits\nabout 2.2 billion times the amount of radiation that is caught by Earth, in\nother words about 3.86&times;10<sup>26</sup>\nwatts.<ref>[http://www.nineplanets.org/sol.html The Sun] at\n[http://www.nineplanets.org nine planets.org]</ref>\n",
+      "title" : "solar constant",
+      "headings" : [
+         "Past variations in solar irradiance",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Solar_variation",
+      "2: Visible_light",
+      "2: Watt",
+      "1: Flux_density",
+      "1: Sun",
+      "1: Electromagnetic_radiation",
+      "1: Astronomical_unit",
+      "1: Solar_irradiance",
+      "1: Earth's_atmosphere",
+      "1: Inverse_square_law",
+      "1: Sunspot",
+      "1: Solar_radiation",
+      "1: Kilo-",
+      "1: Earth",
+      "1: SI_units",
+      "1: Surface_area",
+      "1: Latitude",
+      "1: Electromagnetic_spectrum",
+      "1: Apparent_magnitude",
+      "1: Claude_Pouillet",
+      "1: Pyrheliometer",
+      "1: Jules_Violle",
+      "1: Mont_Blanc",
+      "1: Samuel_Pierpont_Langley",
+      "1: Mount_Whitney",
+      "1: Charles_Greeley_Abbot",
+      "1: Angular_diameter",
+      "1: Radian",
+      "1: Arcseconds#Astronomy",
+      "1: Solid_angle",
+      "1: Steradian",
+      "1: Solar_cycle",
+      "1: Sunlight",
+      "1: Solar_wind",
+      "1: Irradiance",
+      "1: List_of_solar_cycles",
+      "1: Formation_and_evolution_of_the_Solar_System",
+      "1: Sun#Life_cycle",
+      "1: Stellar_evolution",
+      "1: List_of_articles_related_to_the_Sun"
+   ]
+}

@@ -1,0 +1,36 @@
+{
+   "micrownet" : [
+      "pentad"
+   ],
+   "duck" : [
+      "HASH(0x4a3f0e0)",
+      "HASH(0x4a3d408)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464501,
+   "book" : [],
+   "micro-www" : {
+      "pentad" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "'Pentad' may refer to:\n\n*the number five, 5 (number) *the series of five years (Aristotle 1857: the\ndecade is composed ... of two pentads), lustrum *72 pentads (七十二候) in East Asia\ncalendars, the solar term *Kenneth Burke's method of analyzing motivation, the\nDramatistic Pentad *Pentachord, a five note chord\n",
+      "title" : "pentad",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Lustrum",
+      "1: Solar_term",
+      "1: Dramatistic_Pentad",
+      "1: Pentachord"
+   ]
+}

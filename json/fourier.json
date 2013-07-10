@@ -1,0 +1,67 @@
+{
+   "micrownet" : [
+      "baron_jean_baptiste_joseph_fourier",
+      "charles_fourier",
+      "fourier",
+      "fourier_analysis",
+      "fourier_series",
+      "francois_marie_charles_fourier",
+      "jean_baptiste_joseph_fourier"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Fast_Fourier_transform\">Fast Fourier transform</a> (FFT), a fast algorithm for computing a Discrete Fourier transform",
+      "\n<a href=\"http://duckduckgo.com/Fourier_transform\">Fourier transform</a>, the type of linear canonical transform that is the generalization of the Fourier series",
+      "\n<a href=\"http://duckduckgo.com/Fourier_series\">Fourier series</a>, a weighted sum of sinusoids having a common period, the result of Fourier analysis of a periodic function",
+      "Fourier",
+      "French mathematician and physicist who formulated a method for analyzing periodic functions and studied the conduction of heat."
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_Fourier-related_transforms"
+   ],
+   "created" : 1373471054,
+   "book" : [],
+   "micro-www" : {
+      "fourier" : [
+         "Fourier_transform",
+         "Fourier_series",
+         "Fourier_analysis",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Fourier analysis"
+      ],
+      "text" : "'Fourier' (; ) most commonly refers to Joseph Fourier (1768–1830), French\nmathematician and physicist, or the mathematics, physics, and engineering terms\nnamed in his honor for his work on the concepts underlying them: In\n'mathematics': *Fourier series, a weighted sum of sinusoids having a common\nperiod, the result of Fourier analysis of a periodic function *Fourier analysis,\nthe description of functions as sums of sinusoids *Fourier transform, the type\nof linear canonical transform that is the generalization of the Fourier series\n*Fourier operator, the kernel of the Fredholm integral of the first kind that\ndefines the continuous Fourier transform *Fourier inversion theorem, any one of\nseveral theorems by which Fourier inversion recovers a function from its Fourier\ntransform *List of Fourier-related transforms, a list of linear transformations\nof functions related to Fourier analysis *Short-time Fourier transform or short-\nterm Fourier transform (STFT), a Fourier transform during a short term of time,\nused in the area of signal analysis *Fractional Fourier transform (FRFT), a\nlinear transformation generalizing the Fourier transform, used in the area of\nharmonic analysis *Discrete-time Fourier transform (DTFT), the reverse of the\nFourier series, a special case of the Z-transform around the unit circle in the\ncomplex plane *Discrete Fourier transform (DFT), occasionally called the finite\nFourier transform, the Fourier transform of a discrete periodic sequence\n(yielding discrete periodic frequencies), which can also be thought of as the\nDTFT of a finite-length sequence evaluated at discrete frequencies *Fast Fourier\ntransform (FFT), a fast algorithm for computing a Discrete Fourier transform\n*Generalized Fourier series, generalizations of Fourier series that are special\ncases of decompositions over an orthonormal basis of an inner product space In\n'physics' and 'engineering': *The Fourier number (<math>\\mathit{Fo}</math>)\n(also known as the Fourier modulus), a ratio <math>\\alpha t/d^2</math> of the\nrate of heat conduction <math>\\alpha t</math> to the rate of thermal energy\nstorage <math>d^2</math> *Fourier transform spectroscopy, a measurement\ntechnique whereby spectra are collected based on measurements of the temporal\ncoherence of a radiative source, using time-domain measurements of the\nelectromagnetic radiation or other type of radiation, including several methods\nsuch as the continuous wave Michelson or Fourier transform spectrometer and the\npulsed Fourier transform spectrograph\n",
+      "title" : "fourier",
+      "headings" : [
+         "People named Fourier"
+      ]
+   },
+   "micro-relation" : [
+      "2: Joseph_Fourier",
+      "1: Fourier_series",
+      "1: Fourier_analysis",
+      "1: Fourier_transform",
+      "1: Fourier_operator",
+      "1: Fourier_inversion_theorem",
+      "1: List_of_Fourier-related_transforms",
+      "1: Short-time_Fourier_transform",
+      "1: Fractional_Fourier_transform",
+      "1: Discrete-time_Fourier_transform",
+      "1: Discrete_Fourier_transform",
+      "1: Fast_Fourier_transform",
+      "1: Generalized_Fourier_series",
+      "1: Fourier_number",
+      "1: Fourier_transform_spectroscopy",
+      "1: Charles_Fourier",
+      "1: Peter_Fourier"
+   ]
+}

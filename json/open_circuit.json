@@ -1,0 +1,55 @@
+{
+   "micrownet" : [
+      "open_circuit"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:May_29,_2010\" title=\"News briefs:May 29, 2010\">News briefs:May 29, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Interview:_cracked_iPhone_working_in_New_Zealand\" title=\"Interview: cracked iPhone working in New Zealand\">Interview: cracked iPhone working in New Zealand</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Many_hurt_on_Alton_Towers_ride\" title=\"Many hurt on Alton Towers ride\">Many hurt on Alton Towers ride</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._appeals_court_upholds_Honolulu_aerial_ad_ban\" title=\"U.S. appeals court upholds Honolulu aerial ad ban\">U.S. appeals court upholds Honolulu aerial ad ban</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/California%27s_violent_video_game_ban_law_ruled_unconstitutional_by_US_Court_of_Appeals\" title=\"California&#39;s violent video game ban law ruled unconstitutional by US Court of Appeals\">California&#39;s violent video game ban law ruled unconstitutional by US Court of Appeals</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/California%27s_ultraviolent_video_game_ban_law_ruled_unconstitutional_by_the_US_Court_of_Appeals_for_the_Ninth_Circuit\" title=\"California&#39;s ultraviolent video game ban law ruled unconstitutional by the US Court of Appeals for the Ninth Circuit\"> ruled unconstitutional by the US Court of Appeals for the Ninth <span class=\"searchmatch\">Circuit</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Robert_Kubica_wins_2008_Canadian_Grand_Prix\" title=\"Robert Kubica wins 2008 Canadian Grand Prix\">Robert Kubica wins 2008 Canadian Grand Prix</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Arkansas_judge_tells_parents_to_leave_Tony_Alamo_compound_to_regain_custody_of_seized_children\" title=\"Arkansas judge tells parents to leave Tony Alamo compound to regain custody of seized children\">Arkansas judge tells parents to leave Tony Alamo compound to regain custody of seized children</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/ACLU_President_Strossen_on_religion,_drugs,_guns_and_impeaching_George_Bush\" title=\"ACLU President Strossen on religion, drugs, guns and impeaching George Bush\">ACLU President Strossen on religion, drugs, guns and impeaching George Bush</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bangladesh_security_tightened_following_Pilkhana_massacre_and_Bashundhara_City_fire\" title=\"Bangladesh security tightened following Pilkhana massacre and Bashundhara City fire\">Bangladesh security tightened following Pilkhana massacre and Bashundhara City fire</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bashundhara_City_mall_re-opens,_probe_begins_into_cause_of_fire\" title=\"Bashundhara City mall re-opens, probe begins into cause of fire\">Bashundhara City mall re-<span class=\"searchmatch\">opens</span>, probe begins into cause of fire</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Brazzaville_picks_up_the_pieces_after_ammo_depot_explosion\" title=\"Brazzaville picks up the pieces after ammo depot explosion\">Brazzaville picks up the pieces after ammo depot explosion</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Inspectors_close_Chicago_landmark_Healthy_Food_restaurant_after_finding_dead_mouse_in_cooler\" title=\"Inspectors close Chicago landmark Healthy Food restaurant after finding dead mouse in cooler\">Inspectors close Chicago landmark Healthy Food restaurant after finding dead mouse in cooler</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/DHS_relies_on_Wikipedia_for_asylum_information,_appeals_court_rules_against_use\" title=\"DHS relies on Wikipedia for asylum information, appeals court rules against use\">DHS relies on Wikipedia for asylum information, appeals court rules against use</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Felipe_Massa_wins_2008_Belgian_Grand_Prix,_Hamilton_first_to_cross_the_finish_line\" title=\"Felipe Massa wins 2008 Belgian Grand Prix, Hamilton first to cross the finish line\">Felipe Massa wins 2008 Belgian Grand Prix, Hamilton first to cross the finish line</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Court_of_Appeals_upholds_free_licenses\" title=\"US Court of Appeals upholds free licenses\">US Court of Appeals upholds free licenses</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pakistan_says_senior_al-Qaeda_official_killed_in_shootout\" title=\"Pakistan says senior al-Qaeda official killed in shootout\">Pakistan says senior al-Qaeda official killed in shootout</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:June_2,_2010\" title=\"News briefs:June 2, 2010\">News briefs:June 2, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:August_5,_2010\" title=\"News briefs:August 5, 2010\">News briefs:August 5, 2010</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471449,
+   "book" : [],
+   "micro-www" : {
+      "open_circuit" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "The term 'Open circuit' may refer to:\n\n*Open-circuit scuba, a type of SCUBA-diving equipment where the user breathes\nfrom the set and then exhales to the surroundings without recycling the exhaled\nair *Open circuit test, a method used in electrical engineering to determine the\nimpedance in the excitation branch of a real transformer *Open-circuit voltage,\nthe difference of electrical potential between two terminals of a device when\nthere is no external load connected *An electric circuit is an \"open circuit\" if\nit lacks a complete path between the positive and negative terminals of its\npower source\n",
+      "title" : "open circuit",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Open-circuit_scuba",
+      "1: Open_circuit_test",
+      "1: Open-circuit_voltage",
+      "1: Electric_circuit"
+   ]
+}

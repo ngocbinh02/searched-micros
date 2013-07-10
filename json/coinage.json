@@ -1,0 +1,52 @@
+{
+   "micrownet" : [
+      "coinage"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Neologism\">Neologism</a>, coinage of a new word",
+      "https://en.wikipedia.org/wiki/Coinage",
+      "\n<a href=\"http://duckduckgo.com/Ancestor\">Ancestor</a> - An ancestor or forebear is a parent or (recursively) the parent of an ancestor (i.e., a grandparent, great-grandparent, great-great-grandparent, and so forth).",
+      "HASH(0x4f19918)",
+      "Wikipedia",
+      "Coinage",
+      "http://www.merriam-webster.com/dictionary/coinage",
+      "\n<a href=\"http://duckduckgo.com/Coin\">Coin</a>s, standardized as currency",
+      "coinage definition: the act or process of coining.",
+      "Merriam-Webster",
+      "HASH(0x4f19480)",
+      "\n<a href=\"http://duckduckgo.com/COINage\">COINage</a>, numismatics magazine - COINage, a monthly American special-interest magazine, targets  numismatists and coin investors.",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Tin_coinage\">Tin coinage</a>, a tax on refined tin"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sir_Edward_Heath,_former_British_PM,_dies_at_89\" title=\"Sir Edward Heath, former British PM, dies at 89\">Sir Edward Heath, former British PM, dies at 89</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464817,
+   "book" : [],
+   "micro-www" : {
+      "coinage" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Coinage' may refer to:\n* Coins, standardized as currency\n* Neologism, coinage of a new word\n* [[COINage]], numismatics magazine\n* Tin coinage, a tax on refined tin\n* Ancestor\n",
+      "title" : "coinage",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Coin",
+      "1: Neologism",
+      "1: Tin_coinage",
+      "1: Ancestor"
+   ]
+}

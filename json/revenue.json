@@ -1,0 +1,139 @@
+{
+   "micrownet" : [
+      "government_revenue",
+      "gross_revenue",
+      "inland_revenue",
+      "internal_revenue",
+      "internal_revenue_agent",
+      "internal_revenue_service",
+      "revenue",
+      "revenue_bond",
+      "revenue_enhancement",
+      "revenue_sharing",
+      "revenue_stamp",
+      "revenue_tariff",
+      "revenuer",
+      "tax_revenue",
+      "unearned_revenue",
+      "utility_revenue_bond"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/HM_Revenue_and_Customs\">HM Revenue and Customs</a>, a tax agency in the United Kingdom",
+      "https://en.wikipedia.org/wiki/Revenue_(disambiguation)",
+      "HASH(0x4977bf8)",
+      "Wikipedia",
+      "Revenue",
+      "http://www.merriam-webster.com/dictionary/revenue",
+      "revenue definition: the total income produced by a given source.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Office_of_the_Revenue_Commissioners\">Revenue Commissioners</a>, a tax agency in Ireland",
+      "HASH(0x495c280)",
+      "\n<a href=\"http://duckduckgo.com/Revenue_Act\">Revenue Act</a>, several tax-related laws of the same name",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Revenue\">Revenue</a> is income that a company receives from normal business activities. It may also refer to:"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Internet_security_firm_to_donate_revenue_to_charity_after_Anonymous_protest_of_Westboro_Baptist_Church\" title=\"Internet security firm to donate revenue to charity after Anonymous protest of Westboro Baptist Church\">Internet security firm to donate <span class=\"searchmatch\">revenue</span> to charity after Anonymous protest of Westboro Baptist Church</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Constan%C5%A3a_shipyard_revenues_increase_by_63.5_percent_in_2004\" title=\"Constanţa shipyard revenues increase by 63.5 percent in 2004\">Constanţa shipyard <span class=\"searchmatch\">revenues</span> increase by 63.5 percent in 2004</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Wiki_sites_share_ad_revenue_with_editors\" title=\"Wiki sites share ad revenue with editors\">Wiki sites share ad <span class=\"searchmatch\">revenue</span> with editors</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Oracle%27s_revenue_grows_30%25_in_a_%27stellar%27_quarter\" title=\"Oracle&#39;s revenue grows 30% in a &#39;stellar&#39; quarter\">Oracle&#39;s <span class=\"searchmatch\">revenue</span> grows 30% in a &#39;stellar&#39; quarter</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/BT_Global_Services_to_double_US_revenues_and_cut_costs\" title=\"BT Global Services to double US revenues and cut costs\">BT Global Services to double US <span class=\"searchmatch\">revenues</span> and cut costs</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Warner_Music_sees_large_growth_digital_music_revenue\" title=\"Warner Music sees large growth digital music revenue\">Warner Music sees large growth digital music <span class=\"searchmatch\">revenue</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Dell_announces_revenue_and_cost_actions_to_halt_decline\" title=\"Dell announces revenue and cost actions to halt decline\">Dell announces <span class=\"searchmatch\">revenue</span> and cost actions to halt decline</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Yahoo_triples_its_quarterly_profit_on_strong_advertising_revenue\" title=\"Yahoo triples its quarterly profit on strong advertising revenue\">Yahoo triples its quarterly profit on strong advertising <span class=\"searchmatch\">revenue</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/YouTube_to_reward_users_for_posting_creative_videos\" title=\"YouTube to reward users for posting creative videos\">YouTube to reward users for posting creative videos</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Computer_glitch_delays_online_tax_filing_in_Canada\" title=\"Computer glitch delays online tax filing in Canada\">Computer glitch delays online tax filing in Canada</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/United_Future_announces_tax_cuts_in_2008_for_New_Zealand\" title=\"United Future announces tax cuts in 2008 for New Zealand\">United Future announces tax cuts in 2008 for New Zealand</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Alleged_tax-haven_scheme_linked_to_Canada%27s_largest_brokerage_firm\" title=\"Alleged tax-haven scheme linked to Canada&#39;s largest brokerage firm\">Alleged tax-haven scheme linked to Canada&#39;s largest brokerage firm</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canadian_government_tax_processing_computers_back_online\" title=\"Canadian government tax processing computers back online\">Canadian government tax processing computers back online</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/22_million_counterfeit_cigarettes_found_in_Wales\" title=\"22 million counterfeit cigarettes found in Wales\">22 million counterfeit cigarettes found in Wales</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_PM_Howard_under_fire_over_AU$1.40/L_pump_prices\" title=\"Australian PM Howard under fire over AU$1.40/L pump prices\">Australian PM Howard under fire over AU$1.40/L pump prices</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Apple,_Inc._has_record_quarter_profits\" title=\"Apple, Inc. has record quarter profits\">Apple, Inc. has record quarter profits</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chicago_Metra_considers_selling_naming_rights_for_train_lines,_stations\" title=\"Chicago Metra considers selling naming rights for train lines, stations\">Chicago Metra considers selling naming rights for train lines, stations</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NFL_owners_agree_to_CBA_extension,_30-2\" title=\"NFL owners agree to CBA extension, 30-2\">NFL owners agree to CBA extension, 30-2</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canadian_province_receives_warning_from_Exxon\" title=\"Canadian province receives warning from Exxon\">Canadian province receives warning from Exxon</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Colorado_counties_consider_forming_new_U.S._state\" title=\"Colorado counties consider forming new U.S. state\">Colorado counties consider forming new U.S. state</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_companies_by_revenue"
+   ],
+   "created" : 1373463240,
+   "book" : [],
+   "micro-www" : {
+      "revenue" : [
+         "revenues",
+         "Revenue",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Generally Accepted Accounting Principles",
+         "Microeconomics",
+         "Income"
+      ],
+      "text" : "\nIn business, 'revenue' or 'turnover' is income that a company receives from its\nnormal business activities, usually from the sale of goods and services to\ncustomers. In many countries, such as the United Kingdom, revenue is referred to\nas 'turnover'. Some companies receive revenue from interest, royalties, or other\nfees.<ref> This definition is based on IAS 18.</ref> Revenue may refer to\nbusiness income in general, or it may refer to the amount, in a monetary unit,\nreceived during a period of time, as in \"Last year, Company X had revenue of $42\nmillion.\" Profits or net income generally imply total revenue minus total\nexpenses in a given period. In accounting, revenue is often referred to as the\n\"top line\" due to its position on the income statement at the very top. This is\nto be contrasted with the \"bottom line\" which denotes net income.<ref>Williams,\np.51</ref>\n\nFor non-profit organizations, annual revenue may be referred to as 'gross receipts'.<ref>[http://www.irs.gov/pub/irs-pdf/i990-\nez.pdf 2006 Instructions for Form 990 and Form 990-EZ], US Department of the\nTreasury, p. 22</ref> This revenue includes donations from individuals and\ncorporations, support from government agencies, income from activities related\nto the organization's mission, and income from fundraising activities,\nmembership dues, and financial investments such as stock shares in companies.\n\nIn general usage, revenue is income received by an organization in the form of\ncash or cash equivalents. Sales revenue or revenues is income received from\nselling goods or services over a period of time. Tax revenue is income that a\ngovernment receives from taxpayers.\n\nIn more formal usage, revenue is a calculation or estimation of periodic income\nbased on a particular standard accounting practice or the rules established by a\ngovernment or government agency. Two common accounting methods, cash basis\naccounting and accrual basis accounting, do not use the same process for\nmeasuring revenue. Corporations that offer shares for sale to the public are\nusually required by law to report revenue based on generally accepted accounting\nprinciples or International Financial Reporting Standards.\n\nIn a double-entry bookkeeping system, revenue accounts are general ledger\naccounts that are summarized periodically under the heading Revenue or Revenues\non an income statement. Revenue account names describe the type of revenue,\nsuch as \"Repair service revenue\", \"Rent revenue earned\" or\n\"Sales\".<ref>Williams, p. 196</ref>\n",
+      "title" : "revenue",
+      "headings" : [
+         "Business revenue",
+         "Government revenue",
+         "Association Non-Dues Revenue",
+         "See also",
+         "Notes and references"
+      ]
+   },
+   "micro-relation" : [
+      "2: Stock",
+      "2: Profit_margin",
+      "1: Business",
+      "1: Corporation",
+      "1: International_Accounting_Standard",
+      "1: Monetary_unit",
+      "1: Net_income",
+      "1: Expense",
+      "1: Accountancy",
+      "1: Income_statement",
+      "1: Non-profit_organization",
+      "1: Mission_statement",
+      "1: Cash",
+      "1: Tax_revenue",
+      "1: Standard_accounting_practice",
+      "1: Accounting_methods",
+      "1: Generally_accepted_accounting_principles",
+      "1: International_Financial_Reporting_Standards",
+      "1: Double-entry_bookkeeping_system",
+      "1: General_ledger",
+      "1: Manufacturing",
+      "1: Grocery",
+      "1: Law_firm",
+      "1: Barber",
+      "1: Car_rental",
+      "1: Bank",
+      "1: Asset",
+      "1: Invoice",
+      "1: Demand_account",
+      "1: Sales_tax",
+      "1: Expenses",
+      "1: Net_Income",
+      "1: Earnings_call",
+      "1: Financial_ratios",
+      "1: Gross_margin",
+      "1: Bad_debt",
+      "1: P/E_ratio",
+      "1: Gross_Margin",
+      "1: Cost_of_goods_sold",
+      "1: Government_agency",
+      "1: Departmentalization",
+      "1: Reserve_bank",
+      "1: Currency",
+      "1: Net_revenue",
+      "1: List_of_companies_by_revenue",
+      "1: Micro-revenue"
+   ]
+}

@@ -1,0 +1,44 @@
+{
+   "micrownet" : [
+      "world_organization"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/World_Health_Organization\" title=\"World Health Organization\"><span class=\"searchmatch\">World</span> Health <span class=\"searchmatch\">Organization</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/World_Trade_Organization\" title=\"World Trade Organization\"><span class=\"searchmatch\">World</span> Trade <span class=\"searchmatch\">Organization</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chief_of_World_Health_Organization_dies\" title=\"Chief of World Health Organization dies\">Chief of <span class=\"searchmatch\">World</span> Health <span class=\"searchmatch\">Organization</span> dies</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/World_Health_Organization_declares_tuberculosis_emergency_in_Africa\" title=\"World Health Organization declares tuberculosis emergency in Africa\"><span class=\"searchmatch\">World</span> Health <span class=\"searchmatch\">Organization</span> declares tuberculosis emergency in Africa</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/World_Health_Organization:_Stay_away_from_Ugandan_caves\" title=\"World Health Organization: Stay away from Ugandan caves\"><span class=\"searchmatch\">World</span> Health <span class=\"searchmatch\">Organization</span>: Stay away from Ugandan caves</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/World_Health_Organization_launches_clinical_trial_website\" title=\"World Health Organization launches clinical trial website\"><span class=\"searchmatch\">World</span> Health <span class=\"searchmatch\">Organization</span> launches clinical trial website</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/World_Health_Organization_calls_for_ban_on_tobacco_ads\" title=\"World Health Organization calls for ban on tobacco ads\"><span class=\"searchmatch\">World</span> Health <span class=\"searchmatch\">Organization</span> calls for ban on tobacco ads</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/World_Trade_Organization_allows_Antigua_to_ignore_US$21_million_of_US_copyright_per_year\" title=\"World Trade Organization allows Antigua to ignore US$21 million of US copyright per year\"><span class=\"searchmatch\">World</span> Trade <span class=\"searchmatch\">Organization</span> allows Antigua to ignore US$21 million of US copyright per year</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Vietnam_becomes_150th_member_of_the_World_Trade_Organization\" title=\"Vietnam becomes 150th member of the World Trade Organization\">Vietnam becomes 150th member of the <span class=\"searchmatch\">World</span> Trade <span class=\"searchmatch\">Organization</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/World_Trade_Organisation\" title=\"World Trade Organisation\"><span class=\"searchmatch\">World</span> Trade Organisation</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Countries_around_the_world_send_aid,_help_to_Haiti\" title=\"Countries around the world send aid, help to Haiti\">Countries around the <span class=\"searchmatch\">world</span> send aid, help to Haiti</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/WTO\" title=\"WTO\">WTO</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/OIE:_China,_Indonesia_and_Africa_%22under-reporting%22_human_and_animal_Bird_Flu_cases\" title=\"OIE: China, Indonesia and Africa &quot;under-reporting&quot; human and animal Bird Flu cases\">OIE: China, Indonesia and Africa &quot;under-reporting&quot; human and animal Bird Flu cases</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Killer_virus_sent_worldwide\" title=\"Killer virus sent worldwide\">Killer virus sent worldwide</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Brazzaville_picks_up_the_pieces_after_ammo_depot_explosion\" title=\"Brazzaville picks up the pieces after ammo depot explosion\">Brazzaville picks up the pieces after ammo depot explosion</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Health_organisations_respond_to_Ebola_outbreak_in_Democratic_Republic_of_the_Congo\" title=\"Health organisations respond to Ebola outbreak in Democratic Republic of the Congo\">Health organisations respond to Ebola outbreak in Democratic Republic of the Congo</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/WHO_releases_report_on_drug_resistant_tuberculosis\" title=\"WHO releases report on drug resistant tuberculosis\">WHO releases report on drug resistant tuberculosis</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/WHO_says_spread_of_Bird_Flu_among_humans_limited\" title=\"WHO says spread of Bird Flu among humans limited\">WHO says spread of Bird Flu among humans limited</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/World_Health_Organisation:_China_engaging_in_bird_flu_cover_up\" title=\"World Health Organisation: China engaging in bird flu cover up\"><span class=\"searchmatch\">World</span> Health Organisation: China engaging in bird flu cover up</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/WHO_states_H1N1_swine_flu_world%27s_most_dominant_virus\" title=\"WHO states H1N1 swine flu world&#39;s most dominant virus\">WHO states H1N1 swine flu <span class=\"searchmatch\">world</span>&#39;s most dominant virus</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373467615,
+   "book" : [],
+   "micro-www" : {
+      "world_organization" : [
+         "World_Organization_of_Family_Doctors",
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

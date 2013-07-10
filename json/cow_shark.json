@@ -1,0 +1,50 @@
+{
+   "micrownet" : [
+      "cow_shark"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373467380,
+   "book" : [],
+   "micro-www" : {
+      "cow_shark" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Hexanchidae|"
+      ],
+      "text" : "{{Taxobox\n| name = Cow sharks image = Six-gill shark.jpg image_width = 250px fossil_range\n| = <ref name=FB/> regnum = Animalia phylum = Chordata classis = Chondrichthyes\n| subclassis = Elasmobranchii ordo = Hexanchiformes familia = 'Hexanchidae'\n| familia_authority = J. E. Gray, 1851 subdivision_ranks = Genera subdivision =\n| See text\n}} '']]\n\n\n'Cow sharks', or the 'Hexanchidae', are a family of sharks characterized by\nan additional pair or pairs of gill slits. There are currently known to be\nfour species in three genera, [[Heptranchias]], [[Hexanchus]] and\n[[Notorynchus]],.<ref>Allen, 45</ref><ref name=\"Compagno 2005\">Compagno, L.,\nDando, M. and Fowler, S. Sharks of the World. Princeton Field Guides ISBN\n0-691-12072-2</ref>\n\nCow sharks are considered the most primitive of all the sharks, as their\nskeletons resemble those of ancient extinct forms, with few modern adaptations.\nTheir excretory and digestive systems are also unspecialised, suggesting that\nthey may resemble those of primitive shark ancestors.\n\nTheir most distinctive feature, however, is the presence of a sixth, and, in two\ngenera, a seventh, gill slit, in contrast to the five found in all other\nsharks.<ref name=EoF></ref> They range from to over in adult body length.\n\nCow sharks are ovoviviparous, with the mother retaining the egg-cases in her\nbody until they hatch. They feed on relatively large fish of all kinds,\nincluding other sharks, as well as on crustaceans and carrion.\n\nThere are just four species of cow shark, in three genera:<ref name=FB></ref>\n\n* Heptranchias <small>Rafinesque, 1810</small> ** [[Heptranchias perlo]]\n  <small>(Bonnaterre, 1788)</small> (Sharpnose sevengill shark)\n* [[Hexanchus]] <small>Rafinesque, 1810</small> ** [[Hexanchus griseus]]\n  <small>(Bonnaterre, 1788)</small> (Bluntnose sixgill shark) ** [[Hexanchus\n  nakamurai]] <small>Teng, 1962</small> (Bigeyed sixgill shark)\n* Notorynchus <small>Ayres, 1855</small> ** [[Notorynchus cepedianus]]\n  <small>(Péron, 1807)</small> (Broadnose sevengill shark)\n",
+      "title" : "cow shark",
+      "headings" : [
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Constantine_Samuel_Rafinesque",
+      "2: Pierre_Joseph_Bonnaterre",
+      "1: Animal",
+      "1: Chordate",
+      "1: Chondrichthyes",
+      "1: Elasmobranchii",
+      "1: Hexanchiformes",
+      "1: John_Edward_Gray",
+      "1: Shark",
+      "1: Gill_slit",
+      "1: Excretory_system",
+      "1: Digestive_system",
+      "1: Ovoviviparous",
+      "1: Teng_Huo-Tu",
+      "1: William_Orville_Ayres",
+      "1: François_Péron"
+   ]
+}

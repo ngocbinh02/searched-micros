@@ -1,0 +1,92 @@
+{
+   "micrownet" : [
+      "cement_mixer",
+      "concrete_mixer",
+      "electric_mixer",
+      "mixer"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Mixer",
+      "\n<a href=\"http://duckduckgo.com/Concrete_mixer\">Concrete mixer</a>, a machine which combines the ingredients of concrete",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Electronic_mixer\">Electronic mixer</a>, a device for adding or multiplying signal voltages together",
+      "Mixer",
+      "\n<a href=\"http://duckduckgo.com/High-shear_mixer\">High-shear mixer</a>, a device that disperses a material into a liquid phase by passing it through an array of rotors and/or stators",
+      "\n<a href=\"http://duckduckgo.com/Mode_scrambler\">Mode scrambler</a> (known as a Mode mixer), a telecommunications device for handling signals on optical fibers",
+      "\n<a href=\"http://duckduckgo.com/Frequency_mixer\">Frequency mixer</a>, a telecommunications device used to shift the frequency spectrum of a signal",
+      "http://www.merriam-webster.com/dictionary/mixer",
+      "\n<a href=\"http://duckduckgo.com/Vortex_mixer\">Vortex mixer</a>, a laboratory device",
+      "mixer definition: one that mixes.",
+      "\n<a href=\"http://duckduckgo.com/Micro_mixer\">Micro mixer</a>, a device used in <a href=\"http://duckduckgo.com/?q=flow chemistry\">flow chemistry</a>",
+      "\n<a href=\"http://duckduckgo.com/Production_sound_mixer\">Production sound mixer</a>, the head of a film production sound crew",
+      "\n<a href=\"http://duckduckgo.com/Vision_mixer\">Vision mixer</a>, an electronic device for combining video signals",
+      "\n<a href=\"http://duckduckgo.com/Mixer_(engine)\">Mixer (engine)</a>, a device for quieting an airplane engine",
+      "\n<a href=\"http://duckduckgo.com/Mixer_(cooking)\">Mixer (cooking)</a>, an appliance used to combine ingredients",
+      "\n<a href=\"http://duckduckgo.com/Industrial_mixer\">Industrial mixer</a>, a machine for mixing the materials in industrial scale",
+      "HASH(0x4add020)",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Sound_card_mixer\">Sound card mixer</a>, a component of the audio subsystem of a personal computer",
+      "\n<a href=\"http://duckduckgo.com/DJ_mixer\">DJ mixer</a>, a type of audio mixing console used by disc jockeys",
+      "\n<a href=\"http://duckduckgo.com/Static_mixer\">Static mixer</a>, a device for mixing two fluid materials through a tube containing a series of baffles",
+      "\n<a href=\"http://duckduckgo.com/Mix_engineer\">Mix engineer</a>, or sound mixer, the operator of an audio mixing console",
+      "\n<a href=\"http://duckduckgo.com/carburetor\">Carburettor</a>, a device for mixing a hydrocarbon and air, for an engine",
+      "HASH(0x4c08490)",
+      "\n<a href=\"http://duckduckgo.com/Feed_mixer\">Feed mixer</a>, a machine used in the feed industry for mixing feed ingredients",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Submersible_mixer\">Submersible mixer</a>, a machine used for mixing liquids and slurries in tanks (e.g. wastewater, liquid manure, etc.)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Top_exorcist_says_schoolgirl_was_kidnapped_for_Vatican_sex_ring\" title=\"Top exorcist says schoolgirl was kidnapped for Vatican sex ring\">Top exorcist says schoolgirl was kidnapped for Vatican sex ring</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462537,
+   "book" : [],
+   "micro-www" : {
+      "mixer" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "'Mixer' may refer to:\n\nAn 'electronics device':\n* Electronic mixer, a device for adding or multiplying signal voltages together\n* Frequency mixer, a telecommunications device used to shift the frequency\n  spectrum of a signal\n* Sound card mixer, a component of the audio subsystem of a personal computer\n* Vision mixer, an electronic device for combining video signals\n* Audio mixing console, an electronic device for combining, routing, and\n  changing the level, tone, and/or dynamics of two or more audio signals ** DJ\n  mixer, a type of audio mixing console used by disc jockeys\n* Mode scrambler (known as a Mode mixer), a telecommunications device for\n  handling signals on optical fibers\n\nA 'mechanical device':\n* Mixer (cooking), an appliance used to combine ingredients\n* Mixer (engine), a device for quieting an airplane engine\n* Concrete mixer, a machine which combines the ingredients of concrete\n* Feed mixer, a machine used in the feed industry for mixing feed ingredients\n* High-shear mixer, a device that disperses a material into a liquid phase by\n  passing it through an array of rotors and/or stators\n* Industrial mixer, a machine for mixing the materials in industrial scale\n* Micro mixer, a device used in flow chemistry\n* Static mixer, a device for mixing two fluid materials through a tube\n  containing a series of baffles\n* Submersible mixer, a machine used for mixing liquids and slurries in tanks\n  (e.g. wastewater, liquid manure, etc.)\n* Vortex mixer, a laboratory device\n* Carburettor, a device for mixing a hydrocarbon and air, for an engine\n\nA synonym for an 'occupation':\n* Mix engineer, or sound mixer, the operator of an audio mixing console\n* Production sound mixer, the head of a film production sound crew\n* Mixer, a follower of a particular philosophy within the practice of\n  chiropractic\n\n'Other':\n* ''Mixer'' (magazine), an American music magazine and record label, the sister\n  company to the original UK publication [[Mixmag]]\n* Drink mixer, a non-alcoholic beverage or other food item mixed with a beverage\n  (often alcoholic)\n* Mixer dance, a social dance that encourages the participants to actively\n  pursue new dance partners\n* Mixer, a cocktail party organized for purposes of social or business\n  networking.\n* \"The Mixer\", a song from the 1991 album ''Shift-Work'' (album) by The Fall\n* The Mixer a 1992 TV series, starring Simon Williams (actor) and Jeremy Clyde\n  ()\n",
+      "title" : "mixer",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Electronic_mixer",
+      "1: Frequency_mixer",
+      "1: Sound_card_mixer",
+      "1: Vision_mixer",
+      "1: Mixing_console",
+      "1: DJ_mixer",
+      "1: Mode_scrambler",
+      "1: Concrete_mixer",
+      "1: Feed_mixer",
+      "1: High-shear_mixer",
+      "1: Industrial_mixer",
+      "1: Micro_mixer",
+      "1: Flow_chemistry",
+      "1: Static_mixer",
+      "1: Submersible_mixer",
+      "1: Vortex_mixer",
+      "1: Carburettor",
+      "1: Mix_engineer",
+      "1: Production_sound_mixer",
+      "1: Chiropractic",
+      "1: Drink_mixer",
+      "1: Mixer_dance",
+      "1: Dance",
+      "1: Cocktail_party",
+      "1: Social_networking_service",
+      "1: Business_networking",
+      "1: Grand_Mixer_DXT"
+   ]
+}

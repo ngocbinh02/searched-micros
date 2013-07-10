@@ -1,0 +1,88 @@
+{
+   "micrownet" : [
+      "scallywag"
+   ],
+   "duck" : [
+      "Scallywag",
+      "The term Scallywag began during the American Civil War as a pejorative term for a white Southerner who supported the Confederate policy of Black emancipation.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=scallywag",
+      "a White Southerner who supported the Republican Party and its policy of Black emancipation.",
+      "TheFreeDictionary"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373473106,
+   "book" : [],
+   "micro-www" : {
+      "scallywag" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Reconstruction Era",
+         "American Civil War political groups"
+      ],
+      "text" : "\n\n\nIn United States history, 'scalawags' were southern whites who supported\nReconstruction and the Republican Party after the Civil War.\n\nLike similar terms such as \"carpetbagger\" the word has a long history of use as\na slur against southerners considered by other conservative or pro-federation\nSoutherners to betray southern values by supporting policies considered Northern\nsuch as desegregation and racial integration.<ref>Ted Tunnell. 2006. Creating\n\"The Propaganda of History\": Southern Editors and the Origins of \"Carpetbagger\nand Scalawag\". The Journal of Southern History , Vol. 72, No. 4 (Nov., 2006),\npp. 789-822</ref> The term is commonly used in historical studies as a neutral\ndescriptor of Southern White Republicans, though some historians have discarded\nthe term due to its history of pejorative connotations.<ref>Jack P. Maddex.\n1980. More Facts of Reconstruction The Day of the Carpetbagger: Republican\nReconstruction in Mississippi. by William C. Harris Jr. Reviews in American\nHistory, Vol. 8, No. 1 (Mar., 1980), pp. 69-73Published</ref>\n",
+      "title" : "Scalawag",
+      "headings" : [
+         "Origins of the term",
+         "History",
+         "Accusations of corruption",
+         "Who were the Scalawags?",
+         "See also",
+         "Notes",
+         "References",
+         "Sources"
+      ]
+   },
+   "micro-relation" : [
+      "3: Reconstruction_era_of_the_United_States",
+      "2: Carpetbagger",
+      "2: Freedmen",
+      "2: Andrew_Johnson",
+      "2: Radical_Republicans",
+      "2: Redeemers",
+      "2: United_States_presidential_election,_1860",
+      "1: Desegregation",
+      "1: Racial_integration",
+      "1: Northern_United_States",
+      "1: Carpetbaggers",
+      "1: Joseph_Emerson_Worcester",
+      "1: Haywood_County,_North_Carolina",
+      "1: Gutta-percha",
+      "1: American_Civil_War",
+      "1: Reconstruction_Era_of_the_United_States",
+      "1: Abraham_Lincoln",
+      "1: Disfranchisement",
+      "1: Ironclad_oath",
+      "1: James_Longstreet",
+      "1: Joseph_E._Brown",
+      "1: United_States_presidential_election,_1876",
+      "1: Alabama_Republican_Party",
+      "1: Alabama_Legislature",
+      "1: Wade_Hampton_III",
+      "1: James_L._Alcorn",
+      "1: Fourteenth_Amendment_to_the_United_States_Constitution",
+      "1: Alcorn_State_University",
+      "1: Hiram_Revels",
+      "1: Adelbert_Ames",
+      "1: Appalachia",
+      "1: Ozark",
+      "1: Dunning_School",
+      "1: Eric_Foner",
+      "1: Abolitionism",
+      "1: Samuel_F._Phillips",
+      "1: Jim_Crow_laws",
+      "1: John_C._Breckinridge",
+      "1: Stephen_A._Douglas",
+      "1: Southern_Unionist",
+      "1: Collaborationism"
+   ]
+}

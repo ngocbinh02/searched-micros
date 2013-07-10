@@ -1,0 +1,61 @@
+{
+   "micrownet" : [
+      "seattle_slew",
+      "slew",
+      "slews"
+   ],
+   "duck" : [
+      "\nThe <a href=\"http://duckduckgo.com/eigenvector_slew\">eigenvector slew</a> is a particular method of calculating the rotation required for a specific desired change in attitude",
+      "Slew",
+      "\n<a href=\"http://duckduckgo.com/Seattle_Slew\">Seattle Slew</a> (1974–2002), an American race horse",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=slew",
+      "Informal A large amount or number; a lot: a slew of unpaid bills.",
+      "TheFreeDictionary"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/17_terrorism_suspects_arrested_in_Belgium\" title=\"17 terrorism suspects arrested in Belgium\">17 terrorism suspects arrested in Belgium</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/SBC_teams_with_Scientific-Atlanta_for_cable_TV_rollout_in_13_US_states\" title=\"SBC teams with Scientific-Atlanta for cable TV rollout in 13 US states\">SBC teams with Scientific-Atlanta for cable TV rollout in 13 US states</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sandra_Fluke,_Chelsea_Clinton,_Christine_Quinn_on_women_in_politics\" title=\"Sandra Fluke, Chelsea Clinton, Christine Quinn on women in politics\">Sandra Fluke, Chelsea Clinton, Christine Quinn on women in politics</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Portuguese_government_resigns\" title=\"Portuguese government resigns\">Portuguese government resigns</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NASA%27s_Swift_detects_possible_birth_of_black_hole\" title=\"NASA&#39;s Swift detects possible birth of black hole\">NASA&#39;s Swift detects possible birth of black hole</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hubble_Space_Telescope_running_on_two_gyroscopes\" title=\"Hubble Space Telescope running on two gyroscopes\">Hubble Space Telescope running on two gyroscopes</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Greek_parliament_votes_in_favor_of_new_Papandreou_cabinet_as_debt_crisis_deepens\" title=\"Greek parliament votes in favor of new Papandreou cabinet as debt crisis deepens\">Greek parliament votes in favor of new Papandreou cabinet as debt crisis deepens</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._Federal_Judge_overturns_ephedra_ban\" title=\"U.S. Federal Judge overturns ephedra ban\">U.S. Federal Judge overturns ephedra ban</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tom_DeLay_raises_Republican_hackles_as_ethics_charges_dominate_news\" title=\"Tom DeLay raises Republican hackles as ethics charges dominate news\">Tom DeLay raises Republican hackles as ethics charges dominate news</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Politicians_begin_campaigns_for_Flint,_Michigan_replacement_mayor\" title=\"Politicians begin campaigns for Flint, Michigan replacement mayor\">Politicians begin campaigns for Flint, Michigan replacement mayor</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/English_Premier_League:_Week_33_round-up\" title=\"English Premier League: Week 33 round-up\">English Premier League: Week 33 round-up</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373469447,
+   "book" : [],
+   "micro-www" : {
+      "slew" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n*In electronics, the slew rate represents the maximum rate of change of a signal\nat any point in a circuit *In motion control, particularly with application to\ntelescopes and spacecraft, 'slewing' is the rotation of an object about an axis\n**In spacecraft navigation, slew (spacecraft) describes methods of changing the\nattitude of a spacecraft ***The eigenvector slew is a particular method of\ncalculating the rotation required for a specific desired change in attitude **In\nastronomy, the process of rotating a telescope to observe a different region of\nthe sky is referred to as slewing *In computing, the Network Time Protocol (NTP)\ndaemon uses slew, tiny variations in clock frequency, to adjust for clock skew.\n",
+      "title" : "slew",
+      "headings" : [
+         "People",
+         "Animals",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Slew_rate",
+      "1: Eigenvector_slew",
+      "1: Network_Time_Protocol",
+      "1: Clock_skew",
+      "1: Jordan_Slew",
+      "1: Seattle_Slew",
+      "1: The_Slew"
+   ]
+}

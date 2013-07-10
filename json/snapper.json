@@ -1,0 +1,71 @@
+{
+   "micrownet" : [
+      "alligator_snapper",
+      "gray_snapper",
+      "grey_snapper",
+      "hog_snapper",
+      "mangrove_snapper",
+      "mutton_snapper",
+      "red_snapper",
+      "snapper",
+      "yellowtail_snapper"
+   ],
+   "duck" : [
+      "Snapper",
+      "http://www.merriam-webster.com/dictionary/snapper",
+      "snapper definition: one that snaps.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Getty_taps_into_Flickr_snappers\" title=\"Getty taps into Flickr snappers\">Getty taps into Flickr <span class=\"searchmatch\">snappers</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mark_Latham_in_fight_12_months_after_resigning_as_Australian_opposition_leader\" title=\"Mark Latham in fight 12 months after resigning as Australian opposition leader\">Mark Latham in fight 12 months after resigning as Australian opposition leader</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Car_bomb_defused_in_central_London\" title=\"Car bomb defused in central London\">Car bomb defused in central London</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373467816,
+   "book" : [],
+   "micro-www" : {
+      "snapper" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Snapper(s)' may refer to:\n",
+      "title" : "snapper",
+      "headings" : [
+         "Animals",
+         "Arts and entertainment",
+         "Commerce",
+         "Military",
+         "Places",
+         "Sports",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Lutjanidae",
+      "1: Red_snapper",
+      "1: Eastern_nannygai",
+      "1: Bluefish",
+      "1: Chelydridae",
+      "1: Common_Snapping_Turtle",
+      "1: Alligator_Snapping_Turtle",
+      "1: Snapper_Music",
+      "1: Snapper_Carr",
+      "1: Snapper_Foster",
+      "1: Snapper_Inc.",
+      "1: Snapper_card",
+      "1: Bang_snaps",
+      "1: Fireworks",
+      "1: 3M6_Shmel",
+      "1: Snapper_Halt_railway_station",
+      "1: Long_snapper"
+   ]
+}

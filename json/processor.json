@@ -1,0 +1,84 @@
+{
+   "micrownet" : [
+      "central_processor",
+      "data_processor",
+      "food_processor",
+      "natural_language_processor",
+      "processor",
+      "word_processor"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Digital_signal_processor\">Digital signal processor</a>, a specialized microprocessor designed specifically for digital signal processing",
+      "\n<a href=\"http://duckduckgo.com/Word_processor\">Word processor</a>, a computer application used for the production of printable material",
+      "\n<a href=\"http://duckduckgo.com/Microprocessor\">Microprocessor</a>, a CPU on one silicon chip as part of a microcomputer",
+      "Processor",
+      "http://www.merriam-webster.com/dictionary/processor",
+      "processor definition: one that processes.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Google_re-opens_online_word_processor_service\" title=\"Google re-opens online word processor service\">Google re-opens online word <span class=\"searchmatch\">processor</span> service</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Intel_launches_45nm_%22Penryn%22_processor_aiming_for_energy-efficiency\" title=\"Intel launches 45nm &quot;Penryn&quot; processor aiming for energy-efficiency\">Intel launches 45nm &quot;Penryn&quot; <span class=\"searchmatch\">processor</span> aiming for energy-efficiency</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Attempt_to_reopen_Western_Australia%27s_biggest_beef_processor\" title=\"Attempt to reopen Western Australia&#39;s biggest beef processor\">Attempt to reopen Western Australia&#39;s biggest beef <span class=\"searchmatch\">processor</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Intel_launches_Centrino_2_aiming_for_performance_and_mobility\" title=\"Intel launches Centrino 2 aiming for performance and mobility\">Intel launches Centrino 2 aiming for performance and mobility</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sun_releases_T1_source_code\" title=\"Sun releases T1 source code\">Sun releases T1 source code</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Apple_Computer_CEO_Steve_Jobs_gives_opening_keynote_to_WWDC_2005\" title=\"Apple Computer CEO Steve Jobs gives opening keynote to WWDC 2005\">Apple Computer CEO Steve Jobs gives opening keynote to WWDC 2005</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/A_battle_between_AMD_and_Intel_takes_place_at_2007_Taipei_IT_Month\" title=\"A battle between AMD and Intel takes place at 2007 Taipei IT Month\">A battle between AMD and Intel takes place at 2007 Taipei IT Month</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/First_Swahili_office_suite_released_in_Dar_es_Salaam,_Tanzania\" title=\"First Swahili office suite released in Dar es Salaam, Tanzania\">First Swahili office suite released in Dar es Salaam, Tanzania</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Greenpeace_tries_to_thwart_Chesapeake_Bay_fishing_fleet\" title=\"Greenpeace tries to thwart Chesapeake Bay fishing fleet\">Greenpeace tries to thwart Chesapeake Bay fishing fleet</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Apple_releases_Macbook\" title=\"Apple releases Macbook\">Apple releases Macbook</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sony_unveils_Playstation_3\" title=\"Sony unveils Playstation 3\">Sony unveils Playstation 3</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Intel_ends_partnership_with_One_Laptop_Per_Child_program\" title=\"Intel ends partnership with One Laptop Per Child program\">Intel ends partnership with One Laptop Per Child program</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Dell_to_drop_Itanium-based_servers\" title=\"Dell to drop Itanium-based servers\">Dell to drop Itanium-based servers</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/ISS_crew_bypass_faulty_switch_to_power-up_computers\" title=\"ISS crew bypass faulty switch to power-up computers\">ISS crew bypass faulty switch to power-up computers</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Apple_executive_leaves_company_after_iPhone_4_antenna_issues\" title=\"Apple executive leaves company after iPhone 4 antenna issues\">Apple executive leaves company after iPhone 4 antenna issues</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Shimon_Peres_discusses_the_future_of_Israel\" title=\"Shimon Peres discusses the future of Israel\">Shimon Peres discusses the future of Israel</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Intel_posts_best_ever_quarterly_results\" title=\"Intel posts best ever quarterly results\">Intel posts best ever quarterly results</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canada%27s_supercomputer_goes_online\" title=\"Canada&#39;s supercomputer goes online\">Canada&#39;s supercomputer goes online</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Apple_unveils_new_Intel-based_Mac\" title=\"Apple unveils new Intel-based Mac\">Apple unveils new Intel-based Mac</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/PlayStation_3_will_be_used_to_help_cure_cancer_and_Alzheimer%27s\" title=\"PlayStation 3 will be used to help cure cancer and Alzheimer&#39;s\">PlayStation 3 will be used to help cure cancer and Alzheimer&#39;s</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373468513,
+   "book" : [],
+   "micro-www" : {
+      "processor" : [
+         "Processor_affinity",
+         "Processor",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Processor', 'Processor unit' or 'Processing unit' may refer to:\n",
+      "title" : "processor",
+      "headings" : [
+         "Computing",
+         "Other",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Central_processing_unit",
+      "1: Von_Neumann_computer_architecture",
+      "1: Microprocessor",
+      "1: Application-specific_instruction-set_processor",
+      "1: Graphics_processing_unit",
+      "1: Physics_processing_unit",
+      "1: Digital_signal_processor",
+      "1: Network_processor",
+      "1: Front_end_processor",
+      "1: Coprocessor",
+      "1: Floating-point_unit",
+      "1: Data_processing_system",
+      "1: Word_processor",
+      "1: Audio_processor",
+      "1: Food_processor"
+   ]
+}

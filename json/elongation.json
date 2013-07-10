@@ -1,0 +1,46 @@
+{
+   "micrownet" : [
+      "elongation"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Elongation",
+      "HASH(0x49622a0)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Elongation_(astronomy)\">Elongation (astronomy)</a> - In astronomy, a planet's elongation is the angle between the Sun and the planet, as viewed from Earth.",
+      "Elongation",
+      "http://www.merriam-webster.com/dictionary/elongation",
+      "elongation definition: the angular distance of a celestial body from another around which it revolves or from a particular point in the sky.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Deformation_(mechanics)\">Elongation (materials science)</a> - Deformation in continuum mechanics is the transformation of a body from a reference configuration to a current configuration.",
+      "HASH(0x49ba498)",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462147,
+   "book" : [],
+   "micro-www" : {
+      "elongation" : [
+         "elongation",
+         "Elongation_(materials_science)",
+         "Elongation_(astronomy)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "'Elongation' may refer to: *Elongation (astronomy) *Elongation (materials\nscience) Or to biological processes: *Part of transcription of DNA into mRNA\n*Part of eukaryotic or prokaryotic translation of mRNA\n",
+      "title" : "elongation",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Eukaryotic_translation",
+      "1: Prokaryotic_translation"
+   ]
+}

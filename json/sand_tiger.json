@@ -1,0 +1,98 @@
+{
+   "micrownet" : [
+      "sand_tiger"
+   ],
+   "duck" : [
+      "HASH(0x495c980)",
+      "HASH(0x495d1c0)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Phil_Mickelson_wins_Masters\" title=\"Phil Mickelson wins Masters\">Phil Mickelson wins Masters</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465048,
+   "book" : [],
+   "micro-www" : {
+      "sand_tiger" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Odontaspididae",
+         "Fauna of Israel",
+         "Ovoviviparous fish",
+         "Animals described in 1810",
+         "Nature Conservation Act endangered biota"
+      ],
+      "text" : "\n{{Taxobox\n| status = VU trend = unknown status_system = iucn2.3 status_ref = <ref\n| name=IUCNREDLIST/> image = UShaka Sea World 1079-a.jpg image_width = 250px\n| regnum = Animalia phylum = Chordata classis = Chondrichthyes subclassis =\n| Elasmobranchii ordo = Lamniformes familia = Odontaspididae genus =\n| [[Carcharias]] species = 'C. taurus' range_map = Carcharias taurus distmap.png\n| range_map_width = 250px range_map_caption = Range of the sand tiger shark\n| binomial = Carcharias taurus binomial_authority = Rafinesque, 1810\n}}\n\nThe 'sand tiger shark' (Carcharias taurus), 'grey nurse shark', 'spotted ragged\ntooth shark', or 'blue-nurse sand tiger' is a species of shark that inhabits\ncoastal waters worldwide. It lives close to the shorelines and sandy beaches of\nNorth America, hence the name sand tiger shark.<!--what?--> It also dwells in\nthe waters of Japan, Australia, and South Africa. Despite its fearsome\nappearance and strong swimming ability, it is a relatively placid and slow-\nmoving shark. This species has a sharp, pointy head, and a bulky body. The sand\ntiger's length can reach . They are grey with reddish-brown spots on their\nbacks. The sand tiger prefers to hunt close to shore, and shivers (groups) have\nbeen observed to hunt large schools of fish. Their diet consists of bony fish,\ncrustaceans, squid, and skates. Unlike other sharks, the sand tiger can gulp air\nfrom the surface, allowing it to be suspended in the water column with minimal\neffort. During pregnancy, the most developed embryo will feed upon its siblings,\na reproductive strategy known as intrauterine cannibalism. The sand tiger is\ncategorized as vulnerable on the International Union for Conservation of Nature\nRed List. It is the most widely kept shark in public aquariums owing to its\nlarge size and tolerance for captivity.\n",
+      "title" : "Sand%20tiger%20shark",
+      "headings" : [
+         "Taxonomy",
+         "Description",
+         "Behaviour",
+         "Interaction with humans",
+         "Habitat and range",
+         "Reproduction",
+         "Conservation status",
+         "Common names",
+         "References",
+         "Bibliography",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Intrauterine_cannibalism",
+      "1: Animal",
+      "1: Chordate",
+      "1: Chondrichthyes",
+      "1: Elasmobranchii",
+      "1: Lamniformes",
+      "1: Odontaspididae",
+      "1: Constantine_Samuel_Rafinesque-Schmaltz",
+      "1: IUCN_Red_List",
+      "1: Constantine_Rafinesque",
+      "1: Sicily",
+      "1: Johannes_Peter_Müller",
+      "1: Friedrich_Gustav_Jakob_Henle",
+      "1: Jean_Louis_Rodolphe_Agassiz",
+      "1: Paleontologist",
+      "1: Ichthyologist",
+      "1: International_Code_of_Zoological_Nomenclature",
+      "1: Leonard_J._V._Compagno",
+      "1: Claspers",
+      "1: Dorsal_fin",
+      "1: Pectoral_fins",
+      "1: Albino",
+      "1: South_West_Rocks",
+      "1: Batoidea",
+      "1: Crustacean",
+      "1: Butterfish",
+      "1: Alewives",
+      "1: Spearfishing",
+      "1: Artificial_uterus",
+      "1: Epipelagic",
+      "1: Mesopelagic",
+      "1: Point_Lepreau",
+      "1: Uterus",
+      "1: Cannibalistic",
+      "1: Gestation",
+      "1: Hydroids",
+      "1: Nature_Conservation_Act_1992",
+      "1: National_Marine_Fisheries_Service",
+      "1: Endangered_Species_Act",
+      "1: World_Conservation_Union",
+      "1: Fishing_line",
+      "1: Shark_liver_oil",
+      "1: Overfishing",
+      "1: Estuaries",
+      "1: Non-point_source_pollution",
+      "1: FishBase"
+   ]
+}

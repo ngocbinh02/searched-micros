@@ -1,0 +1,114 @@
+{
+   "micrownet" : [
+      "aquatic_mammal"
+   ],
+   "duck" : [
+      "HASH(0x4a01be8)",
+      "HASH(0x4a00ab0)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Japan_fishermen_clash_with_surfers_over_2007_dolphin_hunt\" title=\"Japan fishermen clash with surfers over 2007 dolphin hunt\">Japan fishermen clash with surfers over 2007 dolphin hunt</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/500_stranded_melon-headed_whales_rescued_in_Philippine_bay\" title=\"500 stranded melon-headed whales rescued in Philippine bay\">500 stranded melon-headed whales rescued in Philippine bay</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Crosswords/2005/February/21\" title=\"Crosswords/2005/February/21\">Crosswords/2005/February/21</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australia_saves_three_billion_plastic_bags_from_circulation\" title=\"Australia saves three billion plastic bags from circulation\">Australia saves three billion plastic bags from circulation</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_semiaquatic_organisms"
+   ],
+   "created" : 1373465562,
+   "book" : [],
+   "micro-www" : {
+      "aquatic_mammal" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Mammals",
+         "Zoology"
+      ],
+      "text" : " (Castor canadensis).]] (Trichechus inunguis).]] (Inia geoffrensis) at Duisburg\n Zoo.]] (Lutra lutra) in Southwold, Suffolk, England.]] (Lontra canadensis) at\n the Oregon Zoo.]] (Hydrochoerus hydrochaeris)]] (Ornithorhynchus anatinus) at\n the Sydney Aquarium.]] (Hippopotamus amphibius) at the Memphis Zoo.]] 'Aquatic'\n and 'semi-aquatic mammals' are a diverse group of mammals that dwell partly or\n entirely in bodies of water. They include the various marine mammals who dwell\n in oceans, as well as various freshwater species, such as the Platypus and the\n European Otter.\n",
+      "title" : "aquatic mammal",
+      "headings" : [
+         "Adaptations",
+         "Groups",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Marine_mammal",
+      "2: Platypus",
+      "2: Pygmy_hippopotamus",
+      "2: Cricetidae",
+      "1: Duisburg_Zoo",
+      "1: Southwold",
+      "1: Suffolk",
+      "1: England",
+      "1: Memphis_Zoo",
+      "1: Mammal",
+      "1: Body_of_water",
+      "1: Ocean",
+      "1: European_Otter",
+      "1: Valvular",
+      "1: Nostril",
+      "1: Nare",
+      "1: Larynx",
+      "1: Reniculate_kidney",
+      "1: Whiskers",
+      "1: Echolocation",
+      "1: Epidermis",
+      "1: Blubber",
+      "1: Artiodactyls",
+      "1: Retina",
+      "1: Retinal_ganglion_cell",
+      "1: West_Indian_manatee",
+      "1: Amazonian_Manatee",
+      "1: African_Manatee",
+      "1: Dwarf_Manatee",
+      "1: Ganges_and_Indus_River_Dolphin",
+      "1: Ganges_River_Dolphin",
+      "1: Indus_River_Dolphin",
+      "1: Amazon_River_Dolphin",
+      "1: Boto",
+      "1: Chinese_River_Dolphin",
+      "1: La_Plata_Dolphin",
+      "1: Eurasian_otter",
+      "1: Hairy-nosed_otter",
+      "1: Spotted-necked_otter",
+      "1: Smooth-coated_otter",
+      "1: North_American_River_Otter",
+      "1: Southern_river_otter",
+      "1: Neotropical_river_otter",
+      "1: Giant_otter",
+      "1: African_clawless_otter",
+      "1: Oriental_small-clawed_otter",
+      "1: Baikal_seal",
+      "1: Ladoga_seal",
+      "1: Saimaa_seal",
+      "1: Hystricomorpha",
+      "1: Capybara",
+      "1: Castoridae",
+      "1: North_American_Beaver",
+      "1: Eurasian_beaver",
+      "1: Muskrat",
+      "1: Myocastoridae",
+      "1: Coypu",
+      "1: European_Water_Vole",
+      "1: Hippopotamidae",
+      "1: Hippopotamus",
+      "1: Giant_Otter_Shrew",
+      "1: Russian_Desman",
+      "1: Didelphidae",
+      "1: Yapok",
+      "1: Aquatic_animal",
+      "1: List_of_semiaquatic_organisms",
+      "1: Marine_mammal_training"
+   ]
+}

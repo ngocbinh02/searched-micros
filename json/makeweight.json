@@ -1,0 +1,34 @@
+{
+   "micrownet" : [
+      "makeweight"
+   ],
+   "duck" : [
+      "Something added on a scale in order to meet a required weight.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=makeweight",
+      "HASH(0x49b5950)",
+      "The Free Dictionary",
+      "makeweight",
+      "http://www.merriam-webster.com/dictionary/makeweight",
+      "makeweight definition: something thrown into a scale to bring the weight to a desired value.",
+      "Merriam-Webster",
+      "HASH(0x1a5ef38)",
+      "Something added on a scale in order to meet a required weight.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373466519,
+   "book" : [],
+   "micro-www" : {
+      "makeweight" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

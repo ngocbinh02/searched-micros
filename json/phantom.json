@@ -1,0 +1,104 @@
+{
+   "micrownet" : [
+      "phantom",
+      "phantom_limb",
+      "phantom_limb_pain",
+      "phantom_limb_syndrome",
+      "phantom_orchid"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Phantom",
+      "\n<a href=\"http://duckduckgo.com/The_Phantom\">The Phantom</a>, a comic strip created by Lee Falk",
+      "HASH(0x49d8298)",
+      "Wikipedia",
+      "Phantom",
+      "http://www.merriam-webster.com/dictionary/phantom",
+      "\n<a href=\"http://duckduckgo.com/Illusion\">Illusion</a>, a distortion of the senses",
+      "\n<a href=\"http://duckduckgo.com/Boeing_Phantom_Ray\">Boeing Phantom Ray</a>, a stealthy unmanned combat air vehicle",
+      "\n<a href=\"http://duckduckgo.com/McDonnell_Douglas_F-4_Phantom_II\">McDonnell Douglas F-4 Phantom II</a>, a supersonic air-defense fighter and fighter-bomber, introduced 1960",
+      "phantom definition: something apparent to sense but with no substantial existence.",
+      "Merriam-Webster",
+      "HASH(0x49d7db8)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Ghost\">Ghost</a>, in traditional belief, a physical manifestation of the soul or spirit of a deceased person"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Aviator,%27_%27Baby%27_dominate_2005_Academy_Awards\" title=\"&#39;Aviator,&#39; &#39;Baby&#39; dominate 2005 Academy Awards\">&#39;Aviator,&#39; &#39;Baby&#39; dominate 2005 Academy Awards</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canadian_theatre_producers_sentenced_for_fraud\" title=\"Canadian theatre producers sentenced for fraud\">Canadian theatre producers sentenced for fraud</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hearse_key_thief_spared_prison\" title=\"Hearse key thief spared prison\">Hearse key thief spared prison</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Marketing_blitz_begins_for_final_%27Star_Wars%27_film\" title=\"Marketing blitz begins for final &#39;Star Wars&#39; film\">Marketing blitz begins for final &#39;Star Wars&#39; film</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_fighters_confront_Russian_bombers_over_international_waters\" title=\"UK fighters confront Russian bombers over international waters\">UK fighters confront Russian bombers over international waters</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/EU_condemns_Syria_for_shootdown,_urges_Turkish_restraint\" title=\"EU condemns Syria for shootdown, urges Turkish restraint\">EU condemns Syria for shootdown, urges Turkish restraint</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/American-born_terrorist_gets_24_years\" title=\"American-born terrorist gets 24 years\">American-born terrorist gets 24 years</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:July_29,_2010\" title=\"News briefs:July 29, 2010\">News briefs:July 29, 2010</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_preserved_British_Rail_Class_08_locomotives"
+   ],
+   "created" : 1373463512,
+   "book" : [],
+   "micro-www" : {
+      "phantom" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Phantom' may refer to:\n\n* Ghost, in traditional belief, a physical manifestation of the soul or spirit\n  of a deceased person\n* Illusion, a distortion of the senses\n",
+      "title" : "phantom",
+      "headings" : [
+         "Film",
+         "Music",
+         "Literature",
+         "Gaming",
+         "Medical",
+         "Military",
+         "Sports",
+         "Television",
+         "Other uses",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Ghost",
+      "1: Illusion",
+      "1: Phantom_FM",
+      "1: Phantom_Records",
+      "1: Phantom_Regiment_Drum_and_Bugle_Corps",
+      "1: Vox_Phantom",
+      "1: Ernst_Toch#Choral_works",
+      "1: Jerry_Lott",
+      "1: Hans_Christian",
+      "1: Names_Are_For_Tombstones",
+      "1: Alan_Hull",
+      "1: Yegor_Letov",
+      "1: Bizarro",
+      "1: Nick_Mamatas",
+      "1: CCI_Phantom",
+      "1: Phantom_limb",
+      "1: Imaging_phantom",
+      "1: Computational_human_phantom",
+      "1: McDonnell_FH_Phantom",
+      "1: McDonnell_Douglas_F-4_Phantom_II",
+      "1: Boeing_Phantom_Ray",
+      "1: Boeing_Phantom_Eye",
+      "1: GHQ_Liaison_Regiment",
+      "1: Kampfgeschwader_200#Special_missions",
+      "1: Adirondack_Phantoms",
+      "1: Philadelphia_Phantoms",
+      "1: Wiesbaden_Phantoms",
+      "1: Gillig_Phantom",
+      "1: Phantom_Killer",
+      "1: Salvador_A._Rodolfo,_Sr.",
+      "1: List_of_preserved_British_Rail_Class_08_locomotives",
+      "1: Phantom_X1",
+      "1: Phantom_Assembly",
+      "1: Phantosmia"
+   ]
+}

@@ -1,0 +1,45 @@
+{
+   "micrownet" : [
+      "furnish",
+      "furnished",
+      "furnishing"
+   ],
+   "duck" : [
+      "To equip with what is needed, especially to provide furniture for.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=furnish",
+      "HASH(0x47c4eb8)",
+      "The Free Dictionary",
+      "furnish",
+      "http://www.merriam-webster.com/dictionary/furnish",
+      "furnish definition: to provide with what is needed; '''especially'''.",
+      "Merriam-Webster",
+      "HASH(0x4a5b068)",
+      "To equip with what is needed, especially to provide furniture for.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Iranian_opposition_group_declares_all_acts_of_current_government_void\" title=\"Iranian opposition group declares all acts of current government void\">Iranian opposition group declares all acts of current government void</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/President_Bush_to_limit_congressional_oversight_in_PATRIOT_amendment_act\" title=\"President Bush to limit congressional oversight in PATRIOT amendment act\">President Bush to limit congressional oversight in PATRIOT amendment act</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Elton_John_AIDS_Foundation_Party_to_mark_the_2007_Academy_Awards\" title=\"Elton John AIDS Foundation Party to mark the 2007 Academy Awards\">Elton John AIDS Foundation Party to mark the 2007 Academy Awards</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_kids%27_drink_sparkles_up_debate\" title=\"New kids&#39; drink sparkles up debate\">New kids&#39; drink sparkles up debate</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tourist_plane_crash_in_Papua_New_Guinea_leaves_thirteen_dead\" title=\"Tourist plane crash in Papua New Guinea leaves thirteen dead\">Tourist plane crash in Papua New Guinea leaves thirteen dead</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Oil-eating_microbe_found_in_the_Gulf_of_Mexico\" title=\"Oil-eating microbe found in the Gulf of Mexico\">Oil-eating microbe found in the Gulf of Mexico</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Book_Fair_2.0;_On_bloggers,_ebooks_and_pirates\" title=\"Book Fair 2.0; On bloggers, ebooks and pirates\">Book Fair 2.0; On bloggers, ebooks and pirates</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Colleges_offering_admission_to_displaced_New_Orleans_students/AL-KY\" title=\"Colleges offering admission to displaced New Orleans students/AL-KY\">Colleges offering admission to displaced New Orleans students/AL-KY</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462273,
+   "book" : [],
+   "micro-www" : {
+      "furnish" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

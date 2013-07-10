@@ -1,0 +1,28 @@
+{
+   "micrownet" : [
+      "dickey-bird"
+   ],
+   "duck" : [
+      "dickeybird",
+      "Any small bird; as, adults talking to children sometimes call small birds dickeybirds.",
+      "http://www.merriam-webster.com/dictionary/dickeybird",
+      "dickeybird definition: a small bird.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373466681,
+   "book" : [],
+   "micro-www" : {
+      "dickey-bird" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

@@ -1,0 +1,26 @@
+{
+   "micrownet" : [],
+   "duck" : [
+      "HASH(0x49b9f88)",
+      "HASH(0x47c4d78)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:June_10,_2010\" title=\"News briefs:June 10, 2010\">News briefs:June 10, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:June_10,_2010#Two_Norwegians_sentenced_to_death_in_DR_Congo_.280:38.29\" title=\"News briefs:June 10, 2010\">Two Norwegians sentenced to death in DR Congo (0:<span class=\"searchmatch\">38</span>) </a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373463752,
+   "book" : [],
+   "micro-www" : {
+      "atomic_number_38" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

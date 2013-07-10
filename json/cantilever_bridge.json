@@ -1,0 +1,102 @@
+{
+   "micrownet" : [
+      "cantilever_bridge"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373468140,
+   "book" : [],
+   "micro-www" : {
+      "cantilever_bridge" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Cantilever bridges|",
+         "Bridges"
+      ],
+      "text" : "{{BridgeTypePix |type_name=Cantilever Bridge |image=Pierre Pflimlin UC\nAdjAndCrop.jpg |image_title=The Pierre Pflimlin bridge is a balanced cantilever\nmade of concrete, shown here under construction. |sibling_names=None\n|descendent_names=Swing bridge |ancestor_names=Beam bridge, Truss bridge\n|carries=Pedestrians, automobiles, trucks, light rail, heavy rail\n|span_range=Medium|material=Iron, structural steel, prestressed concrete\n|movable=No |design=Medium |falsework=No}}\n\nA 'cantilever bridge' is a bridge built using cantilevers, structures that\nproject horizontally into space, supported on only one end. For small\nfootbridges, the cantilevers may be simple beams; however, large cantilever\nbridges designed to handle road or rail traffic use trusses built from\nstructural steel, or box girders built from prestressed concrete. The steel\ntruss cantilever bridge was a major engineering breakthrough when first put into\npractice, as it can span distances of over , and can be more easily constructed\nat difficult crossings by virtue of using little or no falsework.\n",
+      "title" : "cantilever bridge",
+      "headings" : [
+         "Origins",
+         "Function",
+         "Construction methods",
+         "List by length",
+         "Examples",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "3: Quebec_Bridge",
+      "2: Truss_bridge",
+      "2: Structural_steel",
+      "2: Prestressed_concrete",
+      "2: Statically_determinate",
+      "2: Commodore_Barry_Bridge",
+      "1: Pierre_Pflimlin_bridge",
+      "1: Swing_bridge",
+      "1: Beam_bridge",
+      "1: Pedestrian",
+      "1: Automobile",
+      "1: Truck",
+      "1: Light_rail",
+      "1: Heavy_rail",
+      "1: Iron",
+      "1: Bridge",
+      "1: Cantilever",
+      "1: Footbridges",
+      "1: Truss",
+      "1: Box_girder",
+      "1: Falsework",
+      "1: Hinge",
+      "1: Heinrich_Gerber",
+      "1: Hassfurt_Bridge",
+      "1: High_Bridge_of_Kentucky",
+      "1: C._Shaler_Smith",
+      "1: Niagara_Cantilever_Bridge",
+      "1: Charles_Conrad_Schneider",
+      "1: Poughkeepsie_Bridge",
+      "1: Forth_Bridge",
+      "1: Kaichi_Watanabe",
+      "1: John_Alexander_Low_Waddell",
+      "1: Segmental_bridge",
+      "1: Navajo_Bridge",
+      "1: Truss_arch_bridge",
+      "1: Quebec",
+      "1: Canada",
+      "1: Firth_of_Forth",
+      "1: Scotland",
+      "1: Minato_Bridge",
+      "1: Osaka,_Japan",
+      "1: Chester,_Pennsylvania",
+      "1: Crescent_City_Connection",
+      "1: New_Orleans,_Louisiana",
+      "1: Howrah_Bridge",
+      "1: Kolkata",
+      "1: West_Bengal",
+      "1: India",
+      "1: Gramercy_Bridge",
+      "1: Gramercy,_Louisiana",
+      "1: San_Francisco_–_Oakland_Bay_Bridge",
+      "1: San_Francisco,_California",
+      "1: Horace_Wilkinson_Bridge",
+      "1: Baton_Rouge,_Louisiana",
+      "1: Tappan_Zee_Bridge",
+      "1: South_Nyack,_New_York",
+      "1: Tarrytown,_New_York",
+      "1: Vejle_Fjord_Bridge",
+      "1: San_Francisco_-_Oakland_Bay_Bridge",
+      "1: Blue_Water_Bridge",
+      "1: The_Wolfram_Demonstrations_Project",
+      "1: Popular_Science"
+   ]
+}

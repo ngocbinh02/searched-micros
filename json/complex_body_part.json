@@ -1,0 +1,34 @@
+{
+   "micrownet" : [
+      "complex_body_part"
+   ],
+   "duck" : [
+      "HASH(0x4bafdf0)",
+      "HASH(0x1a611b0)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:May_20,_2010\" title=\"News briefs:May 20, 2010\">News briefs:May 20, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/France_votes_no_in_EU_referendum\" title=\"France votes no in EU referendum\">France votes no in EU referendum</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/African_Olympians_and_Paralympians_prepare_for_their_London_odyssey\" title=\"African Olympians and Paralympians prepare for their London odyssey\">African Olympians and Paralympians prepare for their London odyssey</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/10-year-old_Oklahoma_girl_found_murdered\" title=\"10-year-old Oklahoma girl found murdered\">10-year-old Oklahoma girl found murdered</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Astronomers_to_vote_on_potential_new_planets\" title=\"Astronomers to vote on potential new planets\">Astronomers to vote on potential new planets</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:July_28,_2010\" title=\"News briefs:July 28, 2010\">News briefs:July 28, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Dr._Joseph_Merlino_on_sexuality,_insanity,_Freud,_fetishes_and_apathy\" title=\"Dr. Joseph Merlino on sexuality, insanity, Freud, fetishes and apathy\">Dr. Joseph Merlino on sexuality, insanity, Freud, fetishes and apathy</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Class_action_launched_by_Australian_bushfire_survivors_against_SP_AusNet\" title=\"Class action launched by Australian bushfire survivors against SP AusNet\">Class action launched by Australian bushfire survivors against SP AusNet</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465180,
+   "book" : [],
+   "micro-www" : {
+      "complex_body_part" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

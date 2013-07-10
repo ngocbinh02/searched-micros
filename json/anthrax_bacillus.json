@@ -1,0 +1,25 @@
+{
+   "micrownet" : [
+      "anthrax_bacillus"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_military_to_buy_anthrax_and_bioweapons_production_systems\" title=\"US military to buy anthrax and bioweapons production systems\">US military to buy <span class=\"searchmatch\">anthrax</span> and bioweapons production systems</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_government_points_to_dead_scientist_as_%27lone_anthrax_attacker%27\" title=\"US government points to dead scientist as &#39;lone anthrax attacker&#39;\">US government points to dead scientist as &#39;lone <span class=\"searchmatch\">anthrax</span> attacker&#39;</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471380,
+   "book" : [],
+   "micro-www" : {
+      "anthrax_bacillus" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

@@ -1,0 +1,127 @@
+{
+   "micrownet" : [
+      "clutch",
+      "clutch_bag",
+      "clutch_pedal",
+      "clutches",
+      "cone_clutch",
+      "cone_friction_clutch",
+      "disk_clutch",
+      "friction_clutch",
+      "slip_clutch",
+      "slip_friction_clutch"
+   ],
+   "duck" : [
+      "Clutch",
+      "\n<a href=\"http://duckduckgo.com/Clutch\">Clutch</a> - A clutch is a mechanical device that provides for the transmission of power from one component to another when engaged, but can be disengaged.",
+      "http://www.merriam-webster.com/dictionary/clutch",
+      "clutch definition: to grasp or hold with or as if with the hand or claws usually strongly, tightly, or suddenly.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ferry_crashes_into_smaller_boats_in_West_Vancouver_after_losing_power\" title=\"Ferry crashes into smaller boats in West Vancouver after losing power\">Ferry crashes into smaller boats in West Vancouver after losing power</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_York_Giants_upset_New_England_Patriots%27_quest_for_perfect_season\" title=\"New York Giants upset New England Patriots&#39; quest for perfect season\">New York Giants upset New England Patriots&#39; quest for perfect season</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%22Condi%22_effigy_burned_at_Lewes_Bonfire_night\" title=\"&quot;Condi&quot; effigy burned at Lewes Bonfire night\">&quot;Condi&quot; effigy burned at Lewes Bonfire night</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Former_Chilean_dictator_Pinochet_dies_at_91\" title=\"Former Chilean dictator Pinochet dies at 91\">Former Chilean dictator Pinochet dies at 91</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Portugal_beat_Iran_2-0_in_Group_D\" title=\"Portugal beat Iran 2-0 in Group D\">Portugal beat Iran 2-0 in Group D</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sydney%27s_%27Angel_of_The_Gap%27_dies_after_decades_rescuing_the_suicidal\" title=\"Sydney&#39;s &#39;Angel of The Gap&#39; dies after decades rescuing the suicidal\">Sydney&#39;s &#39;Angel of The Gap&#39; dies after decades rescuing the suicidal</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Memorial_service_takes_place_for_Heath_Ledger\" title=\"Memorial service takes place for Heath Ledger\">Memorial service takes place for Heath Ledger</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/San_Diego_Chargers_upset_Indianapolis_Colts\" title=\"San Diego Chargers upset Indianapolis Colts\">San Diego Chargers upset Indianapolis Colts</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373470303,
+   "book" : [],
+   "micro-www" : {
+      "clutch" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Clutches|",
+         "Automotive transmission technologies"
+      ],
+      "text" : "\n\n\n hub is attached to the disc with springs to damp chatter.]] A 'clutch' is a\n mechanical device that provides for the transmission of power (and therefore\n usually motion) from one component (the driving member) to another (the driven\n member) when engaged, but can be disengaged.\n\nClutches are used whenever the transmission of power or motion must be\ncontrolled either in amount or over time (e.g., electric screwdrivers limit how\nmuch torque is transmitted through use of a clutch; clutches control whether\nautomobiles transmit engine power to the wheels).\n\nIn the simplest application, clutches connect and disconnect two rotating shafts\n(drive shafts or line shafts). In these devices, one shaft is typically attached\nto a motor or other power unit (the driving member) while the other shaft (the\ndriven member) provides output power for work.\n\nIn a torque-controlled drill, for instance, one shaft is driven by a motor and\nthe other drives a drill chuck. The clutch connects the two shafts so that they\nmay be locked together and spin at the same speed (engaged), locked together but\nspinning at different speeds (slipping), or unlocked and spinning at different\nspeeds (disengaged).\n",
+      "title" : "clutch",
+      "headings" : [
+         "Friction clutches",
+         "Major types by application",
+         "Other clutches and applications",
+         "See also",
+         "Notes",
+         "References",
+         "Further reading",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "3: Flywheel",
+      "2: Motorcycle",
+      "2: Hele-Shaw_clutch",
+      "2: Dog_clutch",
+      "2: Teleprinter",
+      "1: Machine",
+      "1: Power_transmission",
+      "1: Drive_shaft",
+      "1: Line_shaft",
+      "1: Drill",
+      "1: Organic_compound",
+      "1: Ceramic",
+      "1: Formula_One",
+      "1: IndyCar",
+      "1: World_Rally_Championship",
+      "1: Automatic_transmission",
+      "1: Diesel_locomotive",
+      "1: Lubricating_fluid",
+      "1: Coefficient_of_friction",
+      "1: Centrifugal_clutch",
+      "1: Mopeds",
+      "1: Chainsaw",
+      "1: Centrifugal_force",
+      "1: Saxomat",
+      "1: Variomatic",
+      "1: Cone_clutch",
+      "1: Manual_transmission#synchromesh",
+      "1: Torque_screwdriver",
+      "1: Friction",
+      "1: Asbestos",
+      "1: Pressure",
+      "1: Drag_racing",
+      "1: Automobile",
+      "1: Manual_transmission",
+      "1: Automobile_pedal",
+      "1: Hydraulic",
+      "1: Cable",
+      "1: Final_drive",
+      "1: Bellhousing",
+      "1: Alfa_Romeo_Alfetta",
+      "1: Porsche_924",
+      "1: Transaxle",
+      "1: Propeller_shaft",
+      "1: Slipper_clutch",
+      "1: Engine_braking",
+      "1: Bimetallic_strip",
+      "1: Crankshaft",
+      "1: Air_conditioning",
+      "1: Vee_belt",
+      "1: Fluid_coupling",
+      "1: Electromagnetic_clutch",
+      "1: Direct_current",
+      "1: Freewheel",
+      "1: Milliseconds",
+      "1: Half-revolution",
+      "1: IBM_Selectric",
+      "1: Inertia",
+      "1: Teletype_Model_28",
+      "1: Clutch_control",
+      "1: Coupling",
+      "1: Double_clutch",
+      "1: Torque_converter"
+   ]
+}

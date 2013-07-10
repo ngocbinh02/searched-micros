@@ -1,0 +1,111 @@
+{
+   "micrownet" : [
+      "parrotfish"
+   ],
+   "duck" : [
+      "Parrotfish",
+      "http://www.merriam-webster.com/dictionary/parrotfish",
+      "\n<a href=\"http://duckduckgo.com/c/Scaridae\">Scaridae</a>",
+      "parrotfish definition: any of a family (Scaridae) of usually brightly colored chiefly tropical marine fishes that have the teeth in each jaw fused into a cutting plate resembling a beak.",
+      "Merriam-Webster",
+      "https://i.duckduckgo.com/i/63f2ae69.jpg",
+      "\n<a href=\"http://duckduckgo.com/c/Fish_of_Hawaii\">Fish of Hawaii</a>",
+      "\n<a href=\"http://duckduckgo.com/c/Hawaiian_cuisine\">Hawaiian cuisine</a>",
+      "Parrotfishes are a group of approximately ninety species of fishes traditionally regarded as a family (Scaridae), but now often considered a subfamily (Scarinae) of the wrasses."
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373467792,
+   "book" : [],
+   "micro-www" : {
+      "parrotfish" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Hawaiian cuisine",
+         "Scaridae|*",
+         "Labroidei",
+         "Fish of Hawaii"
+      ],
+      "text" : "{{Taxobox\n| name = Parrotfish image = Scarus frenatus by Ewa Barska.jpg image_width =\n| image_caption = [[Scarus frenatus]] regnum = Animalia phylum = Chordata\n| superclassis = Osteichthyes classis = Actinopterygii ordo = Perciformes\n| subordo = Labroidei familia = 'Scaridae' subdivision_ranks = Genera\n| subdivision =\n[[Bolbometopon]]<br> [[Calotomus]]<br> [[Cetoscarus]]<br> [[Chlorurus]]<br>\n[[Cryptotomus]]<br> [[Hipposcarus]]<br> [[Leptoscarus]]<br> [[Nicholsina]]<br>\n[[Scarus]]<br> [[Sparisoma]] }}\n\n'Parrotfishes' are a group of approximately ninety species of fishes\ntraditionally regarded as a family (Scaridae), but now often considered a\nsubfamily (Scarinae) of the wrasses.<ref name =Westneat/> They are found in\nrelatively shallow tropical and subtropical oceans throughout the world,\ndisplaying their largest species richness in the Indo-Pacific. They are found in\ncoral reefs, rocky coasts and seagrass beds, and play a significant role in\nbioerosion.<ref name=j1/><ref name=j2/><ref name=j3/>\n",
+      "title" : "parrotfish",
+      "headings" : [
+         "Taxonomy",
+         "Description",
+         "Mucus",
+         "Feeding",
+         "Life cycle",
+         "Economic importance",
+         "Timeline of genera",
+         "References",
+         "Further reading",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Bioerosion",
+      "2: Green_humphead_parrotfish",
+      "2: Coral",
+      "2: Paleocene",
+      "2: Eocene",
+      "2: Oligocene",
+      "2: Miocene",
+      "2: Plio.",
+      "2: Pleist.",
+      "2: Holocene",
+      "2: Paleogene",
+      "2: Neogene",
+      "2: Quaternary",
+      "1: Animal",
+      "1: Chordata",
+      "1: Osteichthyes",
+      "1: Actinopterygii",
+      "1: Perciformes",
+      "1: Labroidei",
+      "1: Wrasse",
+      "1: Species_richness",
+      "1: Indo-Pacific",
+      "1: Coral_reef",
+      "1: Seagrass",
+      "1: East_Timor",
+      "1: Taxon",
+      "1: Phylogenetic",
+      "1: Clade",
+      "1: Labridae",
+      "1: Monophyletic",
+      "1: Dentition",
+      "1: Labrid",
+      "1: Parrot",
+      "1: Algae",
+      "1: Queen_parrotfish",
+      "1: Moray_eel",
+      "1: Ultraviolet",
+      "1: Herbivore",
+      "1: Polyp",
+      "1: Biome",
+      "1: Pharyngeal_teeth",
+      "1: Coralline_algae",
+      "1: Sand",
+      "1: Caribbean",
+      "1: Eduard_Rüppell",
+      "1: Sequential_hermaphrodites",
+      "1: Stoplight_parrotfish",
+      "1: Mediterranean_parrotfish",
+      "1: Gonochorist",
+      "1: Marbled_parrotfish",
+      "1: Mimicry",
+      "1: Plankton",
+      "1: Fishery",
+      "1: Aquarium",
+      "1: Sparisoma",
+      "1: Scarus"
+   ]
+}

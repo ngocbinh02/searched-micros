@@ -1,0 +1,45 @@
+{
+   "micrownet" : [
+      "lopholatilus_chamaeleonticeps"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373467800,
+   "book" : [],
+   "micro-www" : {
+      "lopholatilus_chamaeleonticeps" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Malacanthidae",
+         "Fish of the Atlantic Ocean"
+      ],
+      "text" : "{{Taxobox\n| name = Tilefish image = Tilefish 3952.jpg\n\n| image_width = image_caption = regnum = Animalia phylum = Chordata classis =\n| Actinopterygii ordo = Perciformes familia = Malacanthidae genus =\n| [[Lopholatilus]] species = 'L. chamaeleonticeps' binomial = Lopholatilus\n| chamaeleonticeps binomial_authority = Goode and Bean 1879\n}}\n\nThe 'Tilefish' (Lopholatilus chamaeleonticeps) is one of several species and the\nlargest in the family Malacanthidae.<ref name = \"AbleBS\">Able, K. W. 2002.\nTilefishes. Family Malacanthidae. In Bigelow and Schroeder’s fishes of the Gulf\nof Maine, 3rd ed. (B. B. Collette and G. Klein-MacPhee, eds.), p. 397–400.\nSmithsonian Inst. Press, Washington, D.C.</ref><ref name = \"AFS29\">Nelson, J.\nS., and coauthors. 2004. Common and Scientific Names of Fishes from the United\nStates, Canada, and Mexico, 6th ed., Special Publication 29. American Fisheries\nSociety, Bethesda, MD.</ref> It is often marketed as a food fish under the label\n“golden tilefish”.<ref name = \"NMFS\">http://www.fishwatch.gov/seafood_profiles/-\nspecies/tilefish/species_pages/golden_tilefish.htm</ref>\n",
+      "title" : "lopholatilus chamaeleonticeps",
+      "headings" : [
+         "Description",
+         "Distribution",
+         "Habitat",
+         "Biology",
+         "Fishery",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "1: Animalia",
+      "1: Chordate",
+      "1: Actinopterygii",
+      "1: Perciformes",
+      "1: Malacanthidae",
+      "1: Goode_and_Bean_1879"
+   ]
+}

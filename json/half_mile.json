@@ -1,0 +1,44 @@
+{
+   "micrownet" : [
+      "half_mile"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._commuter_blows_up_section_of_Washington_D.C._Bridge\" title=\"U.S. commuter blows up section of Washington D.C. Bridge\">U.S. commuter blows up section of Washington D.C. Bridge</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Commuter_blows_up_half-mile_section_of_Woodrow_Wilson_Bridge\" title=\"Commuter blows up half-mile section of Woodrow Wilson Bridge\">Commuter blows up <span class=\"searchmatch\">half-mile</span> section of Woodrow Wilson Bridge</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Detroit_chemical_plant_experiences_explosions,_fire;_residents_evacuated\" title=\"Detroit chemical plant experiences explosions, fire; residents evacuated\">Detroit chemical plant experiences explosions, fire; residents evacuated</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Earthquake_shakes_western_Mexico\" title=\"Earthquake shakes western Mexico\">Earthquake shakes western Mexico</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/White_House,_Capitol_Building_evacuated_as_small_plane_enters_no-fly_zone\" title=\"White House, Capitol Building evacuated as small plane enters no-fly zone\">White House, Capitol Building evacuated as small plane enters no-fly zone</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%22Armageddon%22_rock_misses_Earth_by_Moon%27s_distance\" title=\"&quot;Armageddon&quot; rock misses Earth by Moon&#39;s distance\">&quot;Armageddon&quot; rock misses Earth by Moon&#39;s distance</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Prison_riot_breaks_out_in_Haiti\" title=\"Prison riot breaks out in Haiti\">Prison riot breaks out in Haiti</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Grandfather_and_grandson_die_after_dinghy_capsizes_off_North_Wales_coast\" title=\"Grandfather and grandson die after dinghy capsizes off North Wales coast\">Grandfather and grandson die after dinghy capsizes off North Wales coast</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/House_fire_in_Buffalo,_N.Y._leaves_two_families_homeless\" title=\"House fire in Buffalo, N.Y. leaves two families homeless\">House fire in Buffalo, N.Y. leaves two families homeless</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Body_of_missing_Florida_girl_found\" title=\"Body of missing Florida girl found\">Body of missing Florida girl found</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Long_shots_dashed_hopes_of_favorites_in_Derby_race\" title=\"Long shots dashed hopes of favorites in Derby race\">Long shots dashed hopes of favorites in Derby race</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tunnel_under_U.S.-Mexico_border_trafficked_in_people,_drugs\" title=\"Tunnel under U.S.-Mexico border trafficked in people, drugs\">Tunnel under U.S.-Mexico border trafficked in people, drugs</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Body_of_small_child_found_in_Orlando,_Florida\" title=\"Body of small child found in Orlando, Florida\">Body of small child found in Orlando, Florida</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Last_WWII_Comanche_%27code_talker%27_dies\" title=\"Last WWII Comanche &#39;code talker&#39; dies\">Last WWII Comanche &#39;code talker&#39; dies</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sydney%27s_Gay_and_Lesbian_Mardi_Gras_celebrated_by_450,000_people\" title=\"Sydney&#39;s Gay and Lesbian Mardi Gras celebrated by 450,000 people\">Sydney&#39;s Gay and Lesbian Mardi Gras celebrated by 450,000 people</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tornadoes_in_central_US_kill_nearly_two_dozen_people\" title=\"Tornadoes in central US kill nearly two dozen people\">Tornadoes in central US kill nearly two dozen people</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Boy_Scout_missing_in_North_Carolina,_U.S.A.\" title=\"Boy Scout missing in North Carolina, U.S.A.\">Boy Scout missing in North Carolina, U.S.A.</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Oil_spill_reported_in_Gulf_of_Mexico\" title=\"Oil spill reported in Gulf of Mexico\">Oil spill reported in Gulf of Mexico</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Race_to_save_Chilean_miners_trapped_underground_from_spiralling_into_depression_continues\" title=\"Race to save Chilean miners trapped underground from spiralling into depression continues\">Race to save Chilean miners trapped underground from spiralling into depression continues</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/MUFON_releases_report_on_UFO_sighting_in_Stephenville,_Texas\" title=\"MUFON releases report on UFO sighting in Stephenville, Texas\">MUFON releases report on UFO sighting in Stephenville, Texas</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Half_a_million_z%C5%82oty_vanish_from_the_bank_account_of_Lech_Wa%C5%82%C4%99sa\" title=\"Half a million złoty vanish from the bank account of Lech Wałęsa\"><span class=\"searchmatch\">Half</span> a million złoty vanish from the bank account of Lech Wałęsa</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373468824,
+   "book" : [],
+   "micro-www" : {
+      "half_mile" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

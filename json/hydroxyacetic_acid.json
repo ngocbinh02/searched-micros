@@ -1,0 +1,88 @@
+{
+   "micrownet" : [
+      "hydroxyacetic_acid"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373468838,
+   "book" : [],
+   "micro-www" : {
+      "hydroxyacetic_acid" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Hydroxy acids",
+         "Preservatives",
+         "Anti-acne preparations"
+      ],
+      "text" : "{{chembox\n| verifiedrevid = 476995142 Name = Glycolic acid ImageFileL1 = glycolic acid.svg\n| ImageSizeL1 = 120px ImageNameL1 = Chemical structure of glycolic acid\n| ImageFileR1 = Glycolic acid3d.png ImageSizeR1 = 140px ImageNameR1 = Ball-and-\n| stick model of glycolic acid IUPACName = 2-Hydroxyethanoic acid OtherNames =\n| Dicarbonous acid<br />\nglycolic acid,<br />hydroxyacetic acid\n| Section1 = {{Chembox Identifiers DrugBank_Ref = DrugBank = DB03085 ChEBI_Ref =\n| ChEBI = 17497 SMILES = C(C(=O)O)O UNII_Ref = UNII = 0WT12SX38S KEGG_Ref = KEGG\n| = C03547 InChI = 1/C2H4O3/c3-1-2(4)5/h3H,1H2,(H,4,5) InChIKey = AEMRFAOFKBGASW-\n| UHFFFAOYAR ChEMBL_Ref = ChEMBL = 252557 StdInChI_Ref = StdInChI = 1S/C2H4O3/c3-1-\n| 2(4)5/h3H,1H2,(H,4,5) StdInChIKey_Ref = StdInChIKey = AEMRFAOFKBGASW-UHFFFAOYSA-\n| N CASNo = 79-14-1 CASNo_Ref = ChemSpiderID_Ref = ChemSpiderID = 737 RTECS =\n| MC5250000\n  }}\n| Section2 = {{Chembox Properties Formula =\n| C<sub>2</sub>H<sub>4</sub>O<sub>3</sub> MolarMass = 76.05 g/mol Appearance =\n| white, powdery solid Density = 1.27 g/cm<sup>3</sup> Solubility = 70% solution\n| Solvent = other solvents SolubleOther = alcohols, acetone,<br /> acetic acid\n| and<br />ethyl acetate<ref name=\"dupont\"></ref> MeltingPt = 75 °C BoilingPt =\n| decomposes pKa = 3.83 Viscosity =\n  }}\n| Section3 = {{Chembox Structure CrystalStruct = Dipole =\n  }}\n| Section7 = {{Chembox Hazards ExternalMSDS = MainHazards = Corrosive ('C') NFPA-\n| H = 3 NFPA-F = 1 NFPA-R = FlashPt = 129 °C<ref name=\"Akron\"></ref> RPhrases =\n| - SPhrases = --\n  }}\n| Section8 = {{Chembox Related Function = α-hydroxy acids OtherFunctn = lactic\n| acid OtherCpds = acetic acid,<br />glycerol\n  }} }}\n\n'Glycolic acid' (or 'hydroxyacetic acid') is the smallest α-hydroxy acid (AHA).\nThis colorless, odorless, and hygroscopic crystalline solid is highly soluble in\nwater. It is used in various skin-care products. Glycolic acid is found in some\nsugar-crops.\n",
+      "title" : "glycolic%20acid",
+      "headings" : [
+         "Preparation",
+         "Uses",
+         "Safety",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Acetic_acid",
+      "2: Alpha_hydroxy_acid",
+      "2: Oxalic_acid",
+      "1: Alcohol",
+      "1: Acetone",
+      "1: Ethyl_acetate",
+      "1: Lactic_acid",
+      "1: Glycerol",
+      "1: Hygroscopic",
+      "1: Soluble",
+      "1: Water",
+      "1: Synthesis_gas",
+      "1: Chloroacetic_acid",
+      "1: Sodium_hydroxide",
+      "1: Hydrogenation",
+      "1: Nascent_hydrogen",
+      "1: Formaldehyde",
+      "1: Sugarcane",
+      "1: Sugar_beet",
+      "1: Pineapple",
+      "1: Cantaloupe",
+      "1: Grape",
+      "1: Dyeing",
+      "1: Tanning",
+      "1: Flavor",
+      "1: Emulsion_polymers",
+      "1: Skin",
+      "1: Chemical_peel",
+      "1: Dermatologist",
+      "1: PH",
+      "1: Keratolysis",
+      "1: Wrinkle",
+      "1: Acne_vulgaris",
+      "1: Hyperpigmentation",
+      "1: Cutaneous_condition",
+      "1: Actinic_keratosis",
+      "1: Hyperkeratosis",
+      "1: Seborrheic_keratosis",
+      "1: Stratum_corneum",
+      "1: Oxidation",
+      "1: Redox",
+      "1: Esterification",
+      "1: Polymerization",
+      "1: Monomer",
+      "1: Polyglycolide",
+      "1: Biocompatible",
+      "1: Heteropolymer",
+      "1: PLGA",
+      "1: Varnish",
+      "1: Ethylene_glycol"
+   ]
+}

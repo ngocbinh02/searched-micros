@@ -1,0 +1,42 @@
+{
+   "micrownet" : [
+      "liquid_measure"
+   ],
+   "duck" : [
+      "HASH(0x4a6c0a0)",
+      "HASH(0x4b778b0)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Cassini_spacecraft_collects_sample_from_geyser_on_Saturn%27s_moon_Enceladus\" title=\"Cassini spacecraft collects sample from geyser on Saturn&#39;s moon Enceladus\">Cassini spacecraft collects sample from geyser on Saturn&#39;s moon Enceladus</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/International_Cassini_Space_Probe_flys_through_icy_spray_from_liquid_water_gyser_on_a_moon_of_Saturn_on_Wednesday_March_12,_2008\" title=\"International Cassini Space Probe flys through icy spray from liquid water gyser on a moon of Saturn on Wednesday March 12, 2008\">International Cassini Space Probe flys through icy spray from <span class=\"searchmatch\">liquid</span> </a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Airborne_laser_successfully_destroys_ballistic_missile\" title=\"Airborne laser successfully destroys ballistic missile\">Airborne laser successfully destroys ballistic missile</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mars_orbiter_finds_widespread_evidence_of_water-bearing_minerals\" title=\"Mars orbiter finds widespread evidence of water-bearing minerals\">Mars orbiter finds widespread evidence of water-bearing minerals</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Police_in_Britain_uncover_suspected_terrorist_plot\" title=\"Police in Britain uncover suspected terrorist plot\">Police in Britain uncover suspected terrorist plot</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Three_men_convicted_by_UK_court_of_plotting_to_bomb_airliners\" title=\"Three men convicted by UK court of plotting to bomb airliners\">Three men convicted by UK court of plotting to bomb airliners</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Crosswords/2005/February/20\" title=\"Crosswords/2005/February/20\">Crosswords/2005/February/20</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Saturn%27s_moon_Enceladus_may_host_%22internal_life%22\" title=\"Saturn&#39;s moon Enceladus may host &quot;internal life&quot;\">Saturn&#39;s moon Enceladus may host &quot;internal life&quot;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Failed_bomb_aboard_Delta_flight\" title=\"Failed bomb aboard Delta flight\">Failed bomb aboard Delta flight</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/State_of_emergency_in_Thailand;_protestors_attack_PM%27s_car\" title=\"State of emergency in Thailand; protestors attack PM&#39;s car\">State of emergency in Thailand; protestors attack PM&#39;s car</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/The_Deadliest_Fall\" title=\"The Deadliest Fall\">The Deadliest Fall</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Crosswords/2005/January/28\" title=\"Crosswords/2005/January/28\">Crosswords/2005/January/28</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Coca-Cola_trade_secrets_attempted_to_be_sold_to_Pepsi\" title=\"Coca-Cola trade secrets attempted to be sold to Pepsi\">Coca-Cola trade secrets attempted to be sold to Pepsi</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Two_nuclear_leaks_in_two_weeks_trigger_security_and_safety_reviews_in_France\" title=\"Two nuclear leaks in two weeks trigger security and safety reviews in France\">Two nuclear leaks in two weeks trigger security and safety reviews in France</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:October_21,_2007\" title=\"News briefs:October 21, 2007\">News briefs:October 21, 2007</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Philippines_Senate_and_House_of_Representatives_to_probe_%E2%80%98P50-million_drug_bribe_mess%E2%80%99\" title=\"Philippines Senate and House of Representatives to probe ‘P50-million drug bribe mess’\">Philippines Senate and House of Representatives to probe ‘P50-million drug bribe mess’</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373463211,
+   "book" : [],
+   "micro-www" : {
+      "liquid_measure" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

@@ -1,0 +1,87 @@
+{
+   "micrownet" : [
+      "chorus_line"
+   ],
+   "duck" : [
+      "HASH(0x4b268b8)",
+      "HASH(0x46fea68)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Toronto_and_Rockettes_kick_into_the_records_book\" title=\"Toronto and Rockettes kick into the records book\">Toronto and Rockettes kick into the records book</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Premiers_take_on_Australian_PM_on_Shoot_To_Kill_Laws\" title=\"Premiers take on Australian PM on Shoot To Kill Laws\">Premiers take on Australian PM on Shoot To Kill Laws</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Premiers_take_on_Australian_PM_on_Shoot_To_Kill_Laws#Australian_Federal_Opposition_Leader_Joins_Chorus\" title=\"Premiers take on Australian PM on Shoot To Kill Laws\">Australian Federal Opposition Leader Joins <span class=\"searchmatch\">Chorus</span></a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464800,
+   "book" : [],
+   "micro-www" : {
+      "chorus_line" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Musical theatre"
+      ],
+      "text" : "\n\n\nA 'chorus line' is a substantial group of dancers who together perform\nsynchronized routines, usually in musical theatre. Sometimes, singing is also\nperformed. Chorus line dancers in Broadway musicals and revues have been\nreferred to by slang terms such as 'ponies', 'gypsies' and 'twirlies'. Ballet\nuses the term corps de ballet.\n",
+      "title" : "chorus line",
+      "headings" : [
+         "Musicals",
+         "Famous chorus lines",
+         "Famous performers",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "1: Dancer",
+      "1: Synchronization",
+      "1: Musical_theatre",
+      "1: Singing",
+      "1: Broadway_musicals",
+      "1: Revue",
+      "1: Corps_de_ballet",
+      "1: Tiller_Girls",
+      "1: The_Rockettes",
+      "1: Ziegfeld_girl",
+      "1: Gaiety_Girls",
+      "1: Audrey_Hepburn",
+      "1: Josephine_Baker",
+      "1: Paulette_Goddard",
+      "1: Joan_Crawford",
+      "1: Marion_Davies",
+      "1: Shirley_MacLaine",
+      "1: Gwen_Verdon",
+      "1: Miriam_Hopkins",
+      "1: Bette_Davis",
+      "1: Ruth_Chatterton",
+      "1: Barbara_Stanwyck",
+      "1: Ruby_Keeler",
+      "1: Alice_Faye",
+      "1: Rita_Hayworth",
+      "1: Ginger_Rogers",
+      "1: Marilyn_Monroe",
+      "1: Louise_Brooks",
+      "1: Joan_Blondell",
+      "1: June_Clyde",
+      "1: Marlene_Dietrich",
+      "1: Jane_Wyman",
+      "1: Tallulah_Bankhead",
+      "1: Dorothy_Mackaill",
+      "1: Betty_Grable",
+      "1: Jessie_Matthews",
+      "1: Ellen_Corby",
+      "1: Virginia_Mayo",
+      "1: Betty_Boothroyd",
+      "1: Aida_Pierce",
+      "1: Can-can",
+      "1: Showgirl"
+   ]
+}

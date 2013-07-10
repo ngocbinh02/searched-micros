@@ -1,0 +1,111 @@
+{
+   "micrownet" : [
+      "focus",
+      "focus_on",
+      "focused",
+      "focusing",
+      "focussed",
+      "focussing"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Focus",
+      "HASH(0x4cd0e18)",
+      "Wikipedia",
+      "Focus",
+      "\n<a href=\"http://duckduckgo.com/Focus_group\">Focus group</a>, a form of qualitative research in which a group of people are asked about their attitude towards a product, service, concept, advertisement, idea, or packaging",
+      "http://www.merriam-webster.com/dictionary/focus",
+      "focus definition: a point at which rays (as of light, heat, or sound) converge or from which they diverge or appear to diverge; '''specifically'''.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Focus_(band)\">Focus (band)</a>, 1970s Dutch band",
+      "HASH(0x4ccea98)",
+      "\n<a href=\"http://duckduckgo.com/Ford_Focus\">Ford Focus</a>, an international Ford automobile",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Kamchatka_deep-focus_underwater_earthquake_reaches_Moscow\" title=\"Kamchatka deep-focus underwater earthquake reaches Moscow\">Kamchatka deep-<span class=\"searchmatch\">focus</span> underwater earthquake reaches Moscow</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ron_Paul_announces_he_will_not_seek_U.S._House_re-election_in_2012;_will_focus_on_presidential_campaign\" title=\"Ron Paul announces he will not seek U.S. House re-election in 2012; will focus on presidential campaign\">Ron Paul announces he will not seek U.S. House re-election in 2012; will <span class=\"searchmatch\">focus</span> on presidential campaign</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_media_focuses_on_Olympic_prospects_against_US_for_women%27s_basketball\" title=\"Australian media focuses on Olympic prospects against US for women&#39;s basketball\">Australian media <span class=\"searchmatch\">focuses</span> on Olympic prospects against US for women&#39;s basketball</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Research_focuses_on_orchids_mimicking_female_wasps\" title=\"Research focuses on orchids mimicking female wasps\">Research <span class=\"searchmatch\">focuses</span> on orchids mimicking female wasps</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_%27Guitar_Hero%27_game_to_focus_on_Aerosmith\" title=\"New &#39;Guitar Hero&#39; game to focus on Aerosmith\">New &#39;Guitar Hero&#39; game to <span class=\"searchmatch\">focus</span> on Aerosmith</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_Airways_Flight_38_investigation_focuses_on_fuel_system\" title=\"British Airways Flight 38 investigation focuses on fuel system\">British Airways Flight 38 investigation <span class=\"searchmatch\">focuses</span> on fuel system</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2007_Alcon_Taiwan_Hiking_focuses_on_reducing_computing_hours\" title=\"2007 Alcon Taiwan Hiking focuses on reducing computing hours\">2007 Alcon Taiwan Hiking <span class=\"searchmatch\">focuses</span> on reducing computing hours</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Gordon_Brown:_Extra_troops_for_Afghanistan,_Yemen_security_the_focus_for_int%27l_conference\" title=\"Gordon Brown: Extra troops for Afghanistan, Yemen security the focus for int&#39;l conference\">Gordon Brown: Extra troops for Afghanistan, Yemen security the <span class=\"searchmatch\">focus</span> for int&#39;l conference</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Executives_from_IT_industry_focus_on_10-year_anniversary_of_Microsoft_Research_Asia\" title=\"Executives from IT industry focus on 10-year anniversary of Microsoft Research Asia\">Executives from IT industry <span class=\"searchmatch\">focus</span> on 10-year anniversary of Microsoft Research Asia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Obama%27s_first_State_of_the_Union_speech_focuses_on_economy,_jobs\" title=\"Obama&#39;s first State of the Union speech focuses on economy, jobs\">Obama&#39;s first State of the Union speech <span class=\"searchmatch\">focuses</span> on economy, jobs</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Senate_postpones_vote_on_Libya_conflict_to_focus_on_national_debt\" title=\"US Senate postpones vote on Libya conflict to focus on national debt\">US Senate postpones vote on Libya conflict to <span class=\"searchmatch\">focus</span> on national debt</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2008_Google_Developer_Day_focuses_on_Internet_APIs_in_Australia\" title=\"2008 Google Developer Day focuses on Internet APIs in Australia\">2008 Google Developer Day <span class=\"searchmatch\">focuses</span> on Internet APIs in Australia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Search_for_survivors_of_Canadian_helicopter_crash_ends,_recovery_mission_focuses_on_victims\" title=\"Search for survivors of Canadian helicopter crash ends, recovery mission focuses on victims\">Search for survivors of Canadian helicopter crash ends, recovery mission <span class=\"searchmatch\">focuses</span> on victims</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Opening_positions_spark_debate_at_Global_Climate_Change_Conference\" title=\"Opening positions spark debate at Global Climate Change Conference\">Opening positions spark debate at Global Climate Change Conference</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Attention_drawn_to_high_suicide_rates_in_Scotland,_Russia,_Australia\" title=\"Attention drawn to high suicide rates in Scotland, Russia, Australia\">Attention drawn to high suicide rates in Scotland, Russia, Australia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Death_of_4000th_U.S._soldier_in_Iraq_shines_spotlight_on_gays_in_the_military\" title=\"Death of 4000th U.S. soldier in Iraq shines spotlight on gays in the military\">Death of 4000th U.S. soldier in Iraq shines spotlight on gays in the military</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Soldier%27s_death_renews_focus_on_gay_service_members\" title=\"US Soldier&#39;s death renews focus on gay service members\">US Soldier&#39;s death renews <span class=\"searchmatch\">focus</span> on gay service members</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Kenya_negotiations_resume;_parliament_to_debate_power_sharing_accord\" title=\"Kenya negotiations resume; parliament to debate power sharing accord\">Kenya negotiations resume; parliament to debate power sharing accord</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465778,
+   "book" : [],
+   "micro-www" : {
+      "focus" : [
+         "focusing",
+         "focus",
+         "Focused_improvement",
+         "Focus_(optics)",
+         "Focus_(linguistics)",
+         "Focus_(geometry)",
+         "Focus_(earthquake)",
+         "Focus_(computing)",
+         "Focus_(cognitive_process)",
+         "FOCUS_(hardware)",
+         "FOCUS",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Focus', 'FOCUS', or 'foci' may refer to:\n\nIn 'science', 'mathematics' or 'computing': *Focus (cognitive process),\nselectively concentrating on one aspect of the environment while ignoring other\nthings *Focus (computing), which of a number of GUI elements currently accepts\nkeyboard input *Focus (optics), a point toward which light rays are made to\nconverge *Focus (linguistics), a concept referring to the way information in one\nphrase relates to information that has come before *Focus (earthquake), an\nearthquake's underground point of origin or hypocenter *FOCUS, a database\nreporting program *FOCUS (hardware), a CPU architecture *Helicon Focus, an image\nsoftware program *Focus (geometry), a focus of a conic section *Samsung Focus, a\nsmartphone manufactured by Samsung which runs Microsoft Windows Phone\n",
+      "title" : "focus",
+      "headings" : [
+         "Music",
+         "Writing",
+         "Cinema",
+         "Other meanings",
+         "Company and organizations",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: FOCUS",
+      "1: Helicon_Focus",
+      "1: Samsung_Focus",
+      "1: Bernard_\"Focus...\"_Edwards,_Jr.",
+      "1: John_Reuben",
+      "1: Joe_Budden",
+      "1: AGM-87_Focus",
+      "1: Focus_Bikes",
+      "1: Ford_Focus",
+      "1: Focus_group",
+      "1: Focus_mitt",
+      "1: Operation_Focus",
+      "1: Focus.com",
+      "1: Focus_Brands",
+      "1: Focus_Features",
+      "1: Focus_Films",
+      "1: FOR_Organizing_Committee_of_the_United_States",
+      "1: Focus_Humanitarian_Assistance",
+      "1: Focus_Ireland",
+      "1: FOCUS_Program",
+      "1: Fellowship_of_Catholic_University_Students",
+      "1: Focus_Software",
+      "1: Focus_Home_Interactive",
+      "1: Families_OverComing_Under_Stress",
+      "1: Focus",
+      "1: Hyperfocus",
+      "1: Strong_focusing"
+   ]
+}

@@ -1,0 +1,70 @@
+{
+   "micrownet" : [
+      "psychophysiology"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Vladimir_Nebylitsyn\">Vladimir Nebylitsyn</a> - Vladimir Dmitrievich Nebylitsyn, Russian: Владимир Дмитриевич Небылицын (1930, Chelyabinsk region — 1 October 1972, near Adler) was a Russian psychologist, one of Boris Teplov's disciples,...",
+      "Psychophysiology",
+      "http://www.merriam-webster.com/dictionary/psychophysiology",
+      "psychophysiology definition: physiological psychology.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/c/Neuropsychology\">Neuropsychology</a>",
+      "Psychophysiology (from Greek  psȳkhē, \"breath, life, soul\";  physis, \"nature, origin\"; and  -logia) is the branch of psychology that is concerned with the physiological bases of psychological processes.",
+      "\n<a href=\"http://duckduckgo.com/Karl_U._Smith\">Karl U. Smith</a> - Karl Ulrich Smith was an American physiologist, psychologist and behavioral cybernetician."
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373466720,
+   "book" : [],
+   "micro-www" : {
+      "psychophysiology" : [
+         "Psychophysiology",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Neuropsychology"
+      ],
+      "text" : "{{multiple issues|\n\n\n\n}}\n\n'Psychophysiology' (from Greek , psȳkhē, \"breath, life, soul\"; , physis,\n\"nature, origin\"; and , [[wiktionary:-logia|-logia]]) is the branch of\npsychology that is concerned with the physiological bases of psychological\nprocesses.<ref></ref> While psychophysiology was a general broad field of\nresearch in the 1960s and 1970s, it has now become quite specialized, and has\nbranched into subspecializations. For example, Social Psychophysiology,\nCardiovascular Psychophysiology, Cognitive Psychophysiology, and Cognitive\nNeuroscience.\n\nSome people have difficulty distinguishing a psychophysiologist from a\nphysiological psychologist, two very different perspectives. Psychologists are\ninterested in why we may fear spiders and physiologists may be interested in the\ninput/output system of the amygdala. A psychophysiologist will attempt to link\nthe two. Psychophysiologists generally study the psychological/physiological\nlink in intact human subjects. While early psychophysiologists almost always\nexamined the impact of psychological states on physiological system responses,\nsince the 1970s, psychophysiologists also frequently study the impact of\nphysiological states and systems on psychological states and processes. It is\nthis perspective of studying the interface of mind and body that makes\npsychophysiologists most distinct.\n\nHistorically, most psychophysiologists tended to examine the physiological\nresponses and organ systems innervated by the autonomic nervous system. More\nrecently, psychophysiologists have been equally, or potentially more, interested\nin the central nervous system, exploring cortical brain potentials such as the\nmany types of event-related potentials (ERPs), brain waves, and utilizing\nadvanced technology such as functional magnetic resonance imaging (fMRI), MRI,\nPET, MEG, and other neuroimagery techniques.\n\nContinuing the comparison between a psychophysiologist and a physiological\npsychologist, a psychophysiologist may look at how exposure to a stressful\nsituation will produce a result in the cardiovascular system such as a change in\nheart rate (HR), vasodilation/vasoconstriction, myocardial contractility, or\nstroke volume. A physiological psychologist may look at how one cardiovascular\nevent may influence another cardiovascular or endocrine event, or how activation\nof one neural brain structure exerts excitatory activity in another neural\nstructure which then induces an inhibitory effect in some other system. Often,\nphysiological psychologists examine the effects that they study in infrahuman\nsubjects using surgical or invasive techniques and processes.\n\nPsychophysiology is closely related to the field of Neuroscience and Social\nneuroscience, which primarily concerns itself with relationships between\npsychological events and brain responses. Psychophysiology is also related to\nthe medical discipline known as psychosomatics.\n\nWhile psychophysiology was a discipline off the mainstream of psychological\nand medical science prior to roughly the 1960 and 1970s, more recently,\npsychophysiology has found itself positioned at the intersection of\npsychological and medical science, and its popularity and importance have\nexpanded commensurately with the realization of the inter-relatedness of\nmind and body.\n",
+      "title" : "psychophysiology",
+      "headings" : [
+         "Commonly used measures",
+         "Uses of psychophysiology",
+         "Psychophysiological Inference and Physiological Computer Games",
+         "See also",
+         "Sources",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Psychology",
+      "2: Affective_computing",
+      "1: Ancient_Greek",
+      "1: Physiology",
+      "1: Spider",
+      "1: Amygdala",
+      "1: Event-related_potentials",
+      "1: Social_neuroscience",
+      "1: Psychological",
+      "1: Human_brain",
+      "1: FMRI",
+      "1: Skin_conductance",
+      "1: Galvanic_skin_response",
+      "1: Heart_rate",
+      "1: Beats_per_minute",
+      "1: Heart_rate_variability",
+      "1: Electromyography",
+      "1: Electrogastrogram",
+      "1: Pupillometry",
+      "1: Intelligent_tutoring_systems",
+      "1: Karl_U._Smith",
+      "1: Vladimir_Nebylitsyn"
+   ]
+}

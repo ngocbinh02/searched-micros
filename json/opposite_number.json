@@ -1,0 +1,94 @@
+{
+   "micrownet" : [
+      "opposite_number"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_Foreign_Secretary_meets_US_Secretary_of_State_in_Washington,_D.C.\" title=\"UK Foreign Secretary meets US Secretary of State in Washington, D.C.\">UK Foreign Secretary meets US Secretary of State in Washington, D.C.</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:May_16,_2010\" title=\"News briefs:May 16, 2010\">News briefs:May 16, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Stop_being_so_damn_respectful%27_say_free_speech_supporters_in_London\" title=\"&#39;Stop being so damn respectful&#39; say free speech supporters in London\">&#39;Stop being so damn respectful&#39; say free speech supporters in London</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Child_stabbed_in_West_Bank_arson,_Israeli_settlers_retaliate\" title=\"Child stabbed in West Bank arson, Israeli settlers retaliate\">Child stabbed in West Bank arson, Israeli settlers retaliate</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Patient_in_Buckinghamshire_hospital_was_treated_in_toilet,_inquiry_hears\" title=\"Patient in Buckinghamshire hospital was treated in toilet, inquiry hears\">Patient in Buckinghamshire hospital was treated in toilet, inquiry hears</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Yani_Tseng_captures_Women%27s_British_Open_title_for_a_record_fifth_major\" title=\"Yani Tseng captures Women&#39;s British Open title for a record fifth major\">Yani Tseng captures Women&#39;s British Open title for a record fifth major</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Fernando_Alonso_wins_2008_Singapore_Grand_Prix\" title=\"Fernando Alonso wins 2008 Singapore Grand Prix\">Fernando Alonso wins 2008 Singapore Grand Prix</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Crosswords/2005/September/5\" title=\"Crosswords/2005/September/5\">Crosswords/2005/September/5</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canada%27s_Eglinton%E2%80%94Lawrence_(Ward_16)_city_council_candidates_speak\" title=\"Canada&#39;s EglintonâLawrence (Ward 16) city council candidates speak\">Canada&#39;s EglintonâLawrence (Ward 16) city council candidates speak</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Brazzaville_picks_up_the_pieces_after_ammo_depot_explosion\" title=\"Brazzaville picks up the pieces after ammo depot explosion\">Brazzaville picks up the pieces after ammo depot explosion</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Violence_at_Cronulla_Beach_as_5000_people_gather\" title=\"Violence at Cronulla Beach as 5000 people gather\">Violence at Cronulla Beach as 5000 people gather</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/On_the_campaign_trail,_May_2012\" title=\"On the campaign trail, May 2012\">On the campaign trail, May 2012</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/An_interview_with_Jimbo_Wales\" title=\"An interview with Jimbo Wales\">An interview with Jimbo Wales</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Protesters_mark_3rd_anniversary_of_Iraq_invasion\" title=\"Protesters mark 3rd anniversary of Iraq invasion\">Protesters mark 3rd anniversary of Iraq invasion</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Author_of_My_Billion_Year_Contract_reflects_on_life_in_elite_Scientology_group\" title=\"Author of My Billion Year Contract reflects on life in elite Scientology group\">Author of My Billion Year Contract reflects on life in elite Scientology group</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373466740,
+   "book" : [],
+   "micro-www" : {
+      "opposite_number" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Abstract algebra",
+         "Arithmetic",
+         "Elementary algebra"
+      ],
+      "text" : "\nIn mathematics, the 'additive inverse' of a number is the number that, when\nadded to , yields zero. This operation is also known as the 'opposite' (number),\n'sign change', and 'negation'.<ref> The term \"negation\" bears a reference to\nnegative numbers, which can be misleading, because the additive inverse of a\nnegative number is positive.</ref> For a real number, it reverses its sign: the\nopposite to a positive number is negative, and the opposite to a negative number\nis positive. Zero is the additive inverse of itself.\n\nThe additive inverse of is denoted by unary minus: − (see the discussion below).\nFor example, the additive inverse of 7 is −7, because\n7&nbsp;+&nbsp;(−7)&nbsp;=&nbsp;0, and the additive inverse of −0.3 is 0.3,\nbecause −0.3&nbsp;+&nbsp;0.3&nbsp;=&nbsp;0 .\n\nThe additive inverse is defined as its inverse element under the binary\noperation of addition (see the discussion below), which allows a broad\ngeneralization to mathematical objects other than numbers. As for any inverse\noperation, double additive inverse has no effect: x}}. , are mutually opposite]]\n",
+      "title" : "Additive%20inverse",
+      "headings" : [
+         "Common examples",
+         "Formal definition",
+         "Other examples",
+         "Non-examples",
+         "See also",
+         "Footnotes",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Negative_number",
+      "2: Real_number",
+      "2: Complex_number",
+      "2: Vector_space",
+      "1: Number",
+      "1: Addition",
+      "1: Positive_number",
+      "1: Unary_operation",
+      "1: Minus_sign",
+      "1: Inverse_element",
+      "1: Binary_operation",
+      "1: Generalization",
+      "1: Function_composition",
+      "1: Identity_function",
+      "1: Multiplication",
+      "1: â1",
+      "1: Integer",
+      "1: Rational_number",
+      "1: Subtraction",
+      "1: Typography",
+      "1: Commutative",
+      "1: Identity_element",
+      "1: Associativity",
+      "1: Abelian_group",
+      "1: Complex_plane",
+      "1: Sequence",
+      "1: Scalar_multiplication",
+      "1: Euclidean_space",
+      "1: Point_reflection",
+      "1: Modular_arithmetic",
+      "1: Natural_number",
+      "1: Cardinal_number",
+      "1: Ordinal_number",
+      "1: Absolute_value",
+      "1: Multiplicative_inverse",
+      "1: Additive_identity",
+      "1: Reflection_symmetry"
+   ]
+}

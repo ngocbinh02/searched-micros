@@ -1,0 +1,108 @@
+{
+   "micrownet" : [
+      "armed_forces",
+      "armed_forces_censorship",
+      "armed_forces_day",
+      "former_armed_forces"
+   ],
+   "duck" : [
+      "HASH(0x49e1910)",
+      "HASH(0x49aa028)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Armed_Forces_Day_to_get_underway_in_the_UK\" title=\"Armed Forces Day to get underway in the UK\"><span class=\"searchmatch\">Armed</span> <span class=\"searchmatch\">Forces</span> Day to get underway in the UK</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Egyptian_prime_minister_steps_down;_armed_forces_appoint_former_transport_minister_to_position\" title=\"Egyptian prime minister steps down; armed forces appoint former transport minister to position\">Egyptian prime minister steps down; <span class=\"searchmatch\">armed</span> <span class=\"searchmatch\">forces</span> appoint former transport minister to position</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/15th_anniversary_of_Russian_Federation_Armed_Forces.\" title=\"15th anniversary of Russian Federation Armed Forces.\">15th anniversary of Russian Federation <span class=\"searchmatch\">Armed</span> <span class=\"searchmatch\">Forces</span>.</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Syrian_minister_rejects_proposed_U.N._resolution\" title=\"Syrian minister rejects proposed U.N. resolution\">Syrian minister rejects proposed U.N. resolution</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Syrian_minister_rejects_proposed_U.N._resoultion;_Syrian_armed_forces_ready_to_respond_if_needed\" title=\"Syrian minister rejects proposed U.N. resoultion; Syrian armed forces ready to respond if needed\"> proposed U.N. resoultion; Syrian <span class=\"searchmatch\">armed</span> <span class=\"searchmatch\">forces</span> ready to respond if needed</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Egyptian_military_issues_ultimatum_to_Morsi\" title=\"Egyptian military issues ultimatum to Morsi\">Egyptian military issues ultimatum to Morsi</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Colombian_army_general_resigns_over_civilian_deaths\" title=\"Colombian army general resigns over civilian deaths\">Colombian army general resigns over civilian deaths</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_raids_Iran_%27liaison_office%27,_Russia_says_it_is_unacceptable\" title=\"US raids Iran &#39;liaison office&#39;, Russia says it is unacceptable\">US raids Iran &#39;liaison office&#39;, Russia says it is unacceptable</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Honduras_deploys_8,000_troops_to_ensure_peaceful_elections\" title=\"Honduras deploys 8,000 troops to ensure peaceful elections\">Honduras deploys 8,000 troops to ensure peaceful elections</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/China_and_Russia_continue_joint_army_exercise\" title=\"China and Russia continue joint army exercise\">China and Russia continue joint army exercise</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/North_Korea_prepared_for_%27sacred%27_nuclear_war_with_South\" title=\"North Korea prepared for &#39;sacred&#39; nuclear war with South\">North Korea prepared for &#39;sacred&#39; nuclear war with South</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Forces_loyal_to_Ouattara_plan_to_seal_Ivory_Coast_border\" title=\"Forces loyal to Ouattara plan to seal Ivory Coast border\"><span class=\"searchmatch\">Forces</span> loyal to Ouattara plan to seal Ivory Coast border</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Yemen_rebels_accuse_Saudi_forces_of_killing_54_people\" title=\"Yemen rebels accuse Saudi forces of killing 54 people\">Yemen rebels accuse Saudi <span class=\"searchmatch\">forces</span> of killing 54 people</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_top_General_says_troops_are_unwelcome_in_Iraq\" title=\"British top General says troops are unwelcome in Iraq\">British top General says troops are unwelcome in Iraq</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pakistani_army_seizes_Taliban_stronghold_after_week-long_battle\" title=\"Pakistani army seizes Taliban stronghold after week-long battle\">Pakistani army seizes Taliban stronghold after week-long battle</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/FARC_attack:_16_Colombian_soldiers_dead\" title=\"FARC attack: 16 Colombian soldiers dead\">FARC attack: 16 Colombian soldiers dead</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Over_100_Shiite_rebels_killed_in_Yemen,_government_says\" title=\"Over 100 Shiite rebels killed in Yemen, government says\">Over 100 Shiite rebels killed in Yemen, government says</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Betancourt_calls_for_release_of_all_FARC_hostages\" title=\"Betancourt calls for release of all FARC hostages\">Betancourt calls for release of all FARC hostages</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Zealander_discovers_US_military_data_on_MP3_player\" title=\"New Zealander discovers US military data on MP3 player\">New Zealander discovers US military data on MP3 player</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Democratic_Republic_of_Congo:_UN_expert_accuses_soldiers_of_killing_50_Hutu_refugees_in_North_Kivu\" title=\"Democratic Republic of Congo: UN expert accuses soldiers of killing 50 Hutu refugees in North Kivu\">Democratic Republic of Congo: UN expert accuses soldiers of killing 50 Hutu refugees in North Kivu</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chadian_army:_Mokhtar_Belmokhtar_%27killed%27_in_Mali\" title=\"Chadian army: Mokhtar Belmokhtar &#39;killed&#39; in Mali\">Chadian army: Mokhtar Belmokhtar &#39;killed&#39; in Mali</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_militaries_by_country",
+      "List_of_militaries_that_recruit_foreigners",
+      "List_of_countries_by_military_expenditures",
+      "List_of_countries_by_number_of_military_and_paramilitary_personnel",
+      "List_of_countries_without_armed_forces",
+      "List_of_air_forces",
+      "List_of_armies",
+      "List_of_navies"
+   ],
+   "created" : 1373462049,
+   "book" : [],
+   "micro-www" : {
+      "armed_forces" : [
+         "armed_forces",
+         "Armed_forces",
+         "Armed_Forces_Security_Agency",
+         "Armed_Forces_Foundation",
+         "Armed_Forces",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Military| A"
+      ],
+      "text" : "\n\n\nThe 'armed forces' of a country are its government-sponsored defense, fighting\nforces, and organizations. They exist to further the foreign and domestic\npolicies of their governing body, and to defend that body and the nation it\nrepresents from external and internal aggressors. In broad usage, the terms\n\"armed forces\" and \"military\" are often treated synonymously, although in\ntechnical usage a distinction is sometimes made in which a country's armed\nforces may include both its military and other paramilitary forces. 'Armed\nforce' is the use of armed forces to achieve political objectives.\n\nThe study of the use of armed forces is called military science. Broadly\nspeaking, this involves considering offense and defense at three \"levels\":\nstrategy, operational art, and tactics. All three levels study the application\nof the use of force in order to achieve a desired objective.\n",
+      "title" : "armed forces",
+      "headings" : [
+         "Organization",
+         "Benefits and costs",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Military",
+      "2: Paramilitary",
+      "1: Country",
+      "1: Government",
+      "1: Military_science",
+      "1: Strategy",
+      "1: Operational_art",
+      "1: Military_tactics",
+      "1: Military_branch",
+      "1: Stockholm_International_Peace_Research_Institute",
+      "1: Mercenary",
+      "1: Militaria",
+      "1: Military_fiat",
+      "1: Military_history",
+      "1: Military_incompetence",
+      "1: Military_intelligence",
+      "1: Military_dictatorship",
+      "1: Military_junta",
+      "1: Military_Aid_to_the_Civil_Power",
+      "1: Military_Aid_to_the_Civil_Community",
+      "1: Standing_army",
+      "1: Civil-military_relations",
+      "1: List_of_militaries_by_country",
+      "1: List_of_militaries_that_recruit_foreigners",
+      "1: List_of_countries_by_military_expenditures",
+      "1: List_of_countries_by_number_of_military_and_paramilitary_personnel",
+      "1: List_of_countries_without_armed_forces",
+      "1: List_of_air_forces",
+      "1: List_of_armies",
+      "1: List_of_navies"
+   ]
+}

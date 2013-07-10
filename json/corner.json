@@ -1,0 +1,67 @@
+{
+   "micrownet" : [
+      "amen_corner",
+      "blind_corner",
+      "chimney_corner",
+      "corner",
+      "corner_kick",
+      "corner_man",
+      "corner_pocket",
+      "corner_post",
+      "cornerback",
+      "cornered",
+      "cornerstone",
+      "street_corner"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Corner",
+      "\n<a href=\"http://duckduckgo.com/Corner_detection\">Corner detection</a>, an important task in computer vision",
+      "HASH(0x49a3548)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/The_Corner\">The Corner</a>, HBO TV series based on Simon and Burns' book",
+      "Corner",
+      "\n<a href=\"http://duckduckgo.com/Cornerback\">Cornerback</a>, also known as corner, a position in American and Canadian football",
+      "HASH(0x49a6450)",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373466013,
+   "book" : [],
+   "micro-www" : {
+      "corner" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\nA '[[corner]]' is the place where two lines of different or similar dimensions\nmeet at an angle.\n\n'Corner' may also refer to:\n",
+      "title" : "corner",
+      "headings" : [
+         "People",
+         "Places",
+         "The arts",
+         "Other"
+      ]
+   },
+   "micro-relation" : [
+      "1: House_of_Cornaro",
+      "1: Corner,_Alabama",
+      "1: Corner_Inlet",
+      "1: Corner_Township,_Custer_County,_Nebraska",
+      "1: Allie_Moss",
+      "1: Corner_painters",
+      "1: Corner_detection",
+      "1: Corner_kick",
+      "1: Cornering_the_market",
+      "1: Cornerback",
+      "1: WCNR",
+      "1: Müller_Corner"
+   ]
+}

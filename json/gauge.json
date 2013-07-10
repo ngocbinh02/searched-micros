@@ -1,0 +1,114 @@
+{
+   "micrownet" : [
+      "broad_gauge",
+      "depth_gauge",
+      "fuel_gauge",
+      "gas_gauge",
+      "gasoline_gauge",
+      "gauge",
+      "gauge_boson",
+      "micrometer_gauge",
+      "narrow_gauge",
+      "petrol_gauge",
+      "pressure_gauge",
+      "rain_gauge",
+      "standard_gauge",
+      "strain_gauge",
+      "surface_gauge",
+      "vacuum_gauge",
+      "water_gauge",
+      "wind_gauge",
+      "wire_gauge"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Wire_gauge\">Wire gauge</a>, a measurement of the cross-sectional area of a wire",
+      "\n<a href=\"http://duckduckgo.com/Gauge_(bore_diameter)\">Gauge (bore diameter)</a>, the diameter of a shotgun barrel",
+      "Gauge",
+      "\n<a href=\"http://duckduckgo.com/American_wire_gauge\">American wire gauge</a>, a measurement of diameter of a wire",
+      "http://www.merriam-webster.com/dictionary/gauge",
+      "gauge definition: a measurement (as of linear dimension) according to some standard or system.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tunisian_ATR-72_plane_crash_on_6_August_caused_by_incorrect_fuel_gauge\" title=\"Tunisian ATR-72 plane crash on 6 August caused by incorrect fuel gauge\">Tunisian ATR-72 plane crash on 6 August caused by incorrect fuel <span class=\"searchmatch\">gauge</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Rules_may_be_bent_to_launch_Discovery\" title=\"Rules may be bent to launch Discovery\">Rules may be bent to launch Discovery</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._Presidential_candidate_Michele_Bachmann_narrowly_edges_Ron_Paul_in_Ames_Straw_Poll\" title=\"U.S. Presidential candidate Michele Bachmann narrowly edges Ron Paul in Ames Straw Poll\">U.S. Presidential candidate Michele Bachmann narrowly edges Ron Paul in Ames Straw Poll</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pilots_in_16-death_crash_jailed_for_praying_instead_of_flying\" title=\"Pilots in 16-death crash jailed for praying instead of flying\">Pilots in 16-death crash jailed for praying instead of flying</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Prospective_Nobel_Prize_for_Higgs_boson_work_disputed\" title=\"Prospective Nobel Prize for Higgs boson work disputed\">Prospective Nobel Prize for Higgs boson work disputed</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canadian_Football_League_to_test_Atlantic_expansion_with_exhibition_game\" title=\"Canadian Football League to test Atlantic expansion with exhibition game\">Canadian Football League to test Atlantic expansion with exhibition game</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Launch_of_Space_Shuttle_Atlantis_once_again_delayed\" title=\"Launch of Space Shuttle Atlantis once again delayed\">Launch of Space Shuttle Atlantis once again delayed</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tsunami_warning_briefly_issued_for_Indian_Ocean_after_latest_earthquake\" title=\"Tsunami warning briefly issued for Indian Ocean after latest earthquake\">Tsunami warning briefly issued for Indian Ocean after latest earthquake</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Two_dead,_seven_others_wounded_in_church_by_gunfire_in_Tennessee,_United_States\" title=\"Two dead, seven others wounded in church by gunfire in Tennessee, United States\">Two dead, seven others wounded in church by gunfire in Tennessee, United States</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2010_Sakurai_Prize_awarded_for_1964_Higgs_Boson_theory_work\" title=\"2010 Sakurai Prize awarded for 1964 Higgs Boson theory work\">2010 Sakurai Prize awarded for 1964 Higgs Boson theory work</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sakurai_Prize_awarded_for_Higgs_boson_theories\" title=\"Sakurai Prize awarded for Higgs boson theories\">Sakurai Prize awarded for Higgs boson theories</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_professional_Open_documentary_project\" title=\"New professional Open documentary project\">New professional Open documentary project</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Study:_Children_who_socialise_more,_get_cancer_less\" title=\"Study: Children who socialise more, get cancer less\">Study: Children who socialise more, get cancer less</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Remnants_of_Hurricane_Felicia_affect_Hawaii\" title=\"Remnants of Hurricane Felicia affect Hawaii\">Remnants of Hurricane Felicia affect Hawaii</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Security_firm_identifies_United_States_as_world%27s_top_spamming_country\" title=\"Security firm identifies United States as world&#39;s top spamming country\">Security firm identifies United States as world&#39;s top spamming country</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/13-year-old_shot_dead_by_Brazilian_police_in_mock-up_of_hijacking_situation\" title=\"13-year-old shot dead by Brazilian police in mock-up of hijacking situation\">13-year-old shot dead by Brazilian police in mock-up of hijacking situation</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/3_out_of_4_UMP_voters_prefer_Sarkozy_for_President_of_France\" title=\"3 out of 4 UMP voters prefer Sarkozy for President of France\">3 out of 4 UMP voters prefer Sarkozy for President of France</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Dow_falls_340_points_amid_unemployment_and_retail_sales_rates_news\" title=\"Dow falls 340 points amid unemployment and retail sales rates news\">Dow falls 340 points amid unemployment and retail sales rates news</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Radioactive_part_mistakenly_sold,_melted_with_scrap_metal_in_China\" title=\"Radioactive part mistakenly sold, melted with scrap metal in China\">Radioactive part mistakenly sold, melted with scrap metal in China</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Driver_fined_after_following_sat-nav_to_edge_of_cliff_in_West_Yorkshire,_England\" title=\"Driver fined after following sat-nav to edge of cliff in West Yorkshire, England\">Driver fined after following sat-nav to edge of cliff in West Yorkshire, England</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373468340,
+   "book" : [],
+   "micro-www" : {
+      "gauge" : [
+         "Gauge_pressure",
+         "Gauge_group",
+         "Gauge_boson",
+         "Gauge_anomaly",
+         "Gauge_(bore_diameter)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Gauge' may refer to:\n",
+      "title" : "gauge",
+      "headings" : [
+         "In measurement",
+         "In mathematics and physics",
+         "In railway practice",
+         "In other contexts",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Dashboard#Dashboard_items",
+      "1: Gauge_block",
+      "1: Wire_gauge",
+      "1: American_wire_gauge",
+      "1: Stubs_Iron_Wire_Gauge",
+      "1: Sheet_metal#Gauge",
+      "1: Sight_glass",
+      "1: Boost_gauge",
+      "1: Pressure_measurement",
+      "1: Stream_gauge",
+      "1: Jewelry_wire_gauge",
+      "1: Body_jewelry_sizes",
+      "1: Film_gauge",
+      "1: ANOVA_gauge_R&R",
+      "1: Air_core_gauge",
+      "1: Needle_gauge",
+      "1: Gauge_theory",
+      "1: Gauge_integral",
+      "1: Gauge_fixing",
+      "1: Gauge_boson",
+      "1: Minkowski_functional",
+      "1: Track_gauge",
+      "1: Loading_gauge",
+      "1: Structure_gauge",
+      "1: Axle_load",
+      "1: Gauge,_Inc.",
+      "1: Emerson_Drive"
+   ]
+}

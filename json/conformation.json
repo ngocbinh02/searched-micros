@@ -1,0 +1,67 @@
+{
+   "micrownet" : [
+      "conformation",
+      "conformational_entropy"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/protein_structure\">Protein conformation</a> - Protein structure is the biomolecular structure of a protein molecule.",
+      "Conformation",
+      "http://www.merriam-webster.com/dictionary/conformation",
+      "conformation definition: the act of conforming or producing conformity.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Cyclohexane_conformation\">Cyclohexane conformation</a> - A cyclohexane conformation is any of several three-dimensional shapes that a cyclohexane molecule can assume while maintaining the integrity of its chemical bonds.",
+      "\n<a href=\"http://duckduckgo.com/Equine_conformation\">Equine conformation</a> evaluates the degree of correctness of a horse's bone structure, musculature, and its body proportions",
+      "\n<a href=\"http://duckduckgo.com/Conformational_isomerism\">Conformational isomerism</a>, a form of stereoisomerism in chemistry",
+      "\n<a href=\"http://duckduckgo.com/Conformation_activity_relationship\">Conformation activity relationship</a> between the biological activity and the conformation or conformational changes of a biomolecule",
+      "\n<a href=\"http://duckduckgo.com/Carbohydrate_conformation\">Carbohydrate conformation</a> - Carbohydrate conformation refers to the overall three-dimensional structure adopted by a carbohydrate molecule as a result of the through-bond and through-space physical forces it experiences ar..."
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Rare_antibody_yields_AIDS_vaccine_insight\" title=\"Rare antibody yields AIDS vaccine insight\">Rare antibody yields AIDS vaccine insight</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373470933,
+   "book" : [],
+   "micro-www" : {
+      "conformation" : [
+         "conformations",
+         "conformational",
+         "conformation",
+         "Conformational_isomerism",
+         "Conformational_epitope",
+         "Conformational_change",
+         "Conformation_show",
+         "Conformation_activity_relationship",
+         "Conformation_(dog)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Conformation' generally means structural arrangement and may refer to:\n* Conformational isomerism, a form of stereoisomerism in chemistry **\n  Carbohydrate conformation ** Cyclohexane conformation ** Protein conformation\n  ** Conformation activity relationship between the biological activity and the\n  conformation or conformational changes of a biomolecule\n",
+      "title" : "conformation",
+      "headings" : [
+         "Animal breeding",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Conformational_isomerism",
+      "1: Carbohydrate_conformation",
+      "1: Cyclohexane_conformation",
+      "1: Protein_conformation",
+      "1: Conformation_activity_relationship",
+      "1: Equine_conformation",
+      "1: Conformation_show",
+      "1: Conformable",
+      "1: Conformality",
+      "1: Conformer",
+      "1: Confirmation",
+      "1: Conformity"
+   ]
+}

@@ -1,0 +1,128 @@
+{
+   "micrownet" : [
+      "few-flowered_leek",
+      "japanese_leek",
+      "lady's_leek",
+      "leek",
+      "meadow_leek",
+      "rose_leek",
+      "round-headed_leek",
+      "sand_leek",
+      "three-cornered_leek",
+      "triquetrous_leek",
+      "wild_leek"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Leek\">Leek</a> - The leek is a vegetable that belongs, along with onion and garlic, to the genus Allium, currently placed in family Amaryllidaceae, subfamily Allioideae.",
+      "Leek",
+      "http://www.merriam-webster.com/dictionary/leek",
+      "leek definition: a biennial garden herb ('''Allium ampeloprasum porrum''') of the lily family grown for its mildly pungent succulent linear leaves and especially for its thick cylindrical stalk.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Many_hurt_on_Alton_Towers_ride\" title=\"Many hurt on Alton Towers ride\">Many hurt on Alton Towers ride</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_archer_Alice_Ingley_readies_for_potential_Olympic_spot\" title=\"Australian archer Alice Ingley readies for potential Olympic spot\">Australian archer Alice Ingley readies for potential Olympic spot</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Paralympic_highlights:_September_7,_2008\" title=\"Paralympic highlights: September 7, 2008\">Paralympic highlights: September 7, 2008</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_vegetables"
+   ],
+   "created" : 1373470015,
+   "book" : [],
+   "micro-www" : {
+      "leek" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Allium",
+         "Leaf vegetables",
+         "National symbols of Wales",
+         "Root vegetables",
+         "Welsh cuisine",
+         "Welsh folklore"
+      ],
+      "text" : "\n{{Infobox Cultivar | name = Leek\n| image = Leeks.JPG genus = [[Allium]] species = [[Allium ampeloprasum]] L.\n| group = Leek Group (other names are used, e.g. Porrum Group) cultivar = Many,\n| see text\n}} {{nutritionalvalue\n| name = Raw leeks, bulb & lower leaves water=83 g kJ=255 protein=1.5 g fat= 0.3\n| g carbs = 14.15 g fiber = 1.8 g sugars=3.9 g calcium_mg=59 iron_mg=2.1\n| magnesium_mg=28 phosphorus_mg=35 potassium_mg=180 manganese_mg=0.481\n| vitC_mg=12 thiamin_mg=0.06 riboflavin_mg=0.03 niacin_mg=0.4\n| pantothenic_mg=0.14 vitB6_mg=0.233 folate_ug=64 vitA_ug = 83\n| betacarotene_ug=1000 lutein_ug=1900 vitE_mg=0.92 vitK_ug=47 source_usda=1\n| note=[http://ndb.nal.usda.gov/ndb/search/list?qlookup=11246&format=Full Link\n| to USDA Database entry]\n}}\n\nThe 'leek' is a vegetable that belongs, along with onion and garlic, to the\ngenus [[Allium]], currently placed in family Amaryllidaceae, subfamily\nAllioideae.<ref></ref> Historically many scientific names were used for\nleeks, which are now treated as cultivars of [[Allium ampeloprasum]].<ref\nname=\"WCSP_294972\"></ref> Two related vegetables, elephant garlic and\nkurrat, are also cultivars of A.&nbsp;ampeloprasum, although different in\ntheir uses as food.\n\nThe edible part of the leek plant is a bundle of leaf sheaths that is sometimes\nerroneously called a [[plant stem|stem]] or stalk.\n",
+      "title" : "leek",
+      "headings" : [
+         "Form",
+         "Cultivars",
+         "Growing",
+         "Cuisine",
+         "Historical consumption",
+         "Cultural significance",
+         "Gallery",
+         "See also",
+         "Notes",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "3: Cultivar",
+      "2: Kurrat",
+      "1: Vegetable",
+      "1: Onion",
+      "1: Garlic",
+      "1: Genus",
+      "1: Amaryllidaceae",
+      "1: Allioideae",
+      "1: Scientific_name",
+      "1: Elephant_garlic",
+      "1: Bulb",
+      "1: Greenhouse",
+      "1: Cultivar_group",
+      "1: Hilling",
+      "1: Turkish_cuisine",
+      "1: Olive_oil",
+      "1: Musakka",
+      "1: Börek",
+      "1: Cock-a-leekie_soup",
+      "1: Potato",
+      "1: Leek_soup",
+      "1: Wales",
+      "1: Jane_Grigson",
+      "1: Ancient_Egypt",
+      "1: BCE",
+      "1: Mesopotamia",
+      "1: Nero",
+      "1: National_Museum,_Warsaw",
+      "1: Warsaw",
+      "1: Daffodil",
+      "1: St._David's_Day",
+      "1: Welsh_mythology",
+      "1: Cadwaladr",
+      "1: Kingdom_of_Gwynedd",
+      "1: Saxons",
+      "1: Michael_Drayton",
+      "1: Shakespeare",
+      "1: Henry_V_of_England",
+      "1: Fluellen",
+      "1: British_one_pound_coin",
+      "1: Tudor_Rose",
+      "1: Thistle",
+      "1: Shamrock",
+      "1: Maple_leaf",
+      "1: Indian_lotus",
+      "1: Coronation_gown_of_Elizabeth_II",
+      "1: Welsh_Guards",
+      "1: Household_Division",
+      "1: Oltenia",
+      "1: Houthulst",
+      "1: Thyme",
+      "1: Allium_tricoccum",
+      "1: Culture_of_Wales",
+      "1: Laukaz",
+      "1: Rune",
+      "1: List_of_vegetables",
+      "1: Loituma_Girl",
+      "1: Scallion",
+      "1: Welsh_onion"
+   ]
+}

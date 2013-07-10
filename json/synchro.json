@@ -1,0 +1,106 @@
+{
+   "micrownet" : [
+      "synchro",
+      "synchrocyclotron",
+      "synchroflash",
+      "synchromesh",
+      "synchronal",
+      "synchroneity",
+      "synchronic",
+      "synchronic_linguistics",
+      "synchronicity",
+      "synchronisation",
+      "synchronise",
+      "synchronised",
+      "synchroniser",
+      "synchronising",
+      "synchronism",
+      "synchronization",
+      "synchronize",
+      "synchronized",
+      "synchronizer",
+      "synchronizing",
+      "synchronoscope",
+      "synchronous",
+      "synchronous_converter",
+      "synchronous_motor",
+      "synchronous_operation",
+      "synchrony",
+      "synchroscope",
+      "synchrotron"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Synchro_(disambiguation)",
+      "HASH(0x49d3c20)",
+      "Wikipedia",
+      "Synchro",
+      "http://www.merriam-webster.com/dictionary/synchro",
+      "synchro definition: adapted to synchronization.",
+      "Merriam-Webster",
+      "HASH(0x49d6750)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Synchro\">Synchro</a> Rotary Electrical motor"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462717,
+   "book" : [],
+   "micro-www" : {
+      "synchro" : [
+         "synchronized",
+         "Synchronous_rotation",
+         "Synchronous_optical_networking",
+         "Synchronous_circuit",
+         "Synchronized_swimming",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Transformers (electrical)"
+      ],
+      "text" : "\n[[Image:Synchro.JPG|frame|Schematic of Synchro Transducer The complete circle\nrepresents the rotor. The solid bars represent the cores of the windings next to\nthem. Power to the rotor is connected by slip rings and brushes, represented by\nthe circles at the ends of the rotor winding. As shown, the rotor induces equal\nvoltages in the 120° and 240° windings, and no voltage in the 0° winding. [Vex]\ndoes not necessarily need to be connected to the common lead of the stator star\nwindings. |right]]\n\n\n\nA 'synchro' is, in effect, a transformer whose primary-to-secondary coupling may\nbe varied by physically changing the relative orientation of the two windings.\nSynchros are often used for measuring the angle of a rotating machine such as an\nantenna platform. In its general physical construction, it is much like an\nelectric motor. The primary winding of the transformer, fixed to the rotor, is\nexcited by an alternating current, which by electromagnetic induction, causes\ncurrents to flow in three Y-connected secondary windings fixed at 120 degrees to\neach other on the stator. The relative magnitudes of secondary currents are\nmeasured and used to determine the angle of the rotor relative to the stator, or\nthe currents can be used to directly drive a receiver synchro that will rotate\nin unison with the synchro transmitter. In the latter case, the whole device may\nbe called a 'selsyn' (a portmanteau of self and synchronizing).\n",
+      "title" : "synchro",
+      "headings" : [
+         "Uses",
+         "Types of Synchro Systems",
+         "Synchro Functional Categories",
+         "Operation",
+         "Synchro variants",
+         "References",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "2: Amplidyne",
+      "2: Rotary_encoder",
+      "1: Transformer",
+      "1: Alternating_current",
+      "1: Electromagnetic_induction",
+      "1: Stator",
+      "1: Portmanteau",
+      "1: Panama_Canal",
+      "1: Fire-control_system",
+      "1: World_War_II",
+      "1: Analog_computer",
+      "1: Motion_picture",
+      "1: Movie_camera",
+      "1: Sound_recording",
+      "1: Crystal_oscillators",
+      "1: Microelectronics",
+      "1: Slip_ring",
+      "1: Hertz",
+      "1: Mains",
+      "1: Frequency",
+      "1: Electrical_generator",
+      "1: Rotary_transformer",
+      "1: Scott-T_transformer",
+      "1: Rotary_variable_differential_transformer"
+   ]
+}

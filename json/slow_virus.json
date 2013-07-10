@@ -1,0 +1,108 @@
+{
+   "micrownet" : [
+      "slow_virus"
+   ],
+   "duck" : [
+      "HASH(0x49ba750)",
+      "HASH(0x49580c8)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Research_shows_HIV_virus_may_hide_in_bone_marrow\" title=\"Research shows HIV virus may hide in bone marrow\">Research shows HIV <span class=\"searchmatch\">virus</span> may hide in bone marrow</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Angola:_Marburg_virus_still_spreading,_180_dead\" title=\"Angola: Marburg virus still spreading, 180 dead\">Angola: Marburg <span class=\"searchmatch\">virus</span> still spreading, 180 dead</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Outbreak_of_swine_flu_in_Mexico_kills_at_least_twenty,_infects_1,000\" title=\"Outbreak of swine flu in Mexico kills at least twenty, infects 1,000\">Outbreak of swine flu in Mexico kills at least twenty, infects 1,000</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/World_Bank_warns_of_high_bird_flu_cost\" title=\"World Bank warns of high bird flu cost\">World Bank warns of high bird flu cost</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Turkish_government_accused_of_being_too_slow_to_respond_to_bird_flu\" title=\"Turkish government accused of being too slow to respond to bird flu\">Turkish government accused of being too <span class=\"searchmatch\">slow</span> to respond to bird flu</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_researchers_confirm_stress_makes_you_sick\" title=\"Australian researchers confirm stress makes you sick\">Australian researchers confirm stress makes you sick</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Under-reporting_of_human_Bird_Flu_infections_poses_worldwide_threat\" title=\"Under-reporting of human Bird Flu infections poses worldwide threat\">Under-reporting of human Bird Flu infections poses worldwide threat</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak\" title=\"Philippines is culling 6500 hogs after Reston ebolavirus outbreak\">Philippines is culling 6500 hogs after Reston ebolavirus outbreak</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Philippines_to_cull_6000_Ebola-Reston_virus-infected_hogs\" title=\"Philippines to cull 6000 Ebola-Reston virus-infected hogs\">Philippines to cull 6000 Ebola-Reston <span class=\"searchmatch\">virus-</span>infected hogs</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Swine_flu_worldwide:_update\" title=\"Swine flu worldwide: update\">Swine flu worldwide: update</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/H5N1_bird_flu_virus_reaches_Poland\" title=\"H5N1 bird flu virus reaches Poland\">H5N1 bird flu <span class=\"searchmatch\">virus</span> reaches Poland</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Swine_flu_cases_worldwide_top_1,000\" title=\"Swine flu cases worldwide top 1,000\">Swine flu cases worldwide top 1,000</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Turkish_teens_died_of_mutated_strain_of_bird_flu\" title=\"Turkish teens died of mutated strain of bird flu\">Turkish teens died of mutated strain of bird flu</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Obama_declares_swine_flu_emergency_in_US\" title=\"Obama declares swine flu emergency in US\">Obama declares swine flu emergency in US</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:July_14,_2010\" title=\"News briefs:July 14, 2010\">News briefs:July 14, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bush_may_deploy_military_if_bird_flu_breaks_out\" title=\"Bush may deploy military if bird flu breaks out\">Bush may deploy military if bird flu breaks out</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Spyware_is_changing_users%27_online_habits\" title=\"Spyware is changing users&#39; online habits\">Spyware is changing users&#39; online habits</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464082,
+   "book" : [],
+   "micro-www" : {
+      "slow_virus" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Virology"
+      ],
+      "text" : "A 'slow virus' is a virus, or a viruslike agent, etiologically associated with a\ndisease, having a long incubation period of months to years and then a gradual\nonset of symptoms which progress slowly but irreversibly and terminate in a\nsevere compromised state or, more commonly, death.\n\nA 'slow virus disease' is a disease that, after an extended period of latency,\nfollows a slow, progressive course spanning months to years, frequently\ninvolving the central nervous system and ultimately leading to death. Examples\ninclude the Visna-Maedi virus, in the genus Lentivirus (family Retroviridae),\nthat causes encephalitis and chronic pneumonitis in sheep, and subacute\nsclerosing panencephalitis which is apparently caused by the measles\nvirus.<ref>PubMed Health [http://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0002392\n\"Subacute Sclerosing Panencephalitis\"]. Retrieved February 10, 2012.</ref>\n",
+      "title" : "slow virus",
+      "headings" : [
+         "Characteristics",
+         "Some human infections",
+         "Prions: \"atypical slow viruses\"",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: HTLV",
+      "2: Kuru",
+      "2: Scrapie",
+      "2: Bovine_spongiform_encephalopathy",
+      "1: Virus",
+      "1: Disease",
+      "1: Incubation_period",
+      "1: Central_nervous_system",
+      "1: Visna_virus",
+      "1: Genus",
+      "1: Lentivirus",
+      "1: Retroviridae",
+      "1: Encephalitis",
+      "1: Pneumonitis",
+      "1: Sheep",
+      "1: Subacute_sclerosing_panencephalitis",
+      "1: Measles_virus",
+      "1: Asymptomatic",
+      "1: Immune_system",
+      "1: Polyomavirus",
+      "1: Progressive_multifocal_leukoencephalopathy",
+      "1: Rubeola",
+      "1: Paramyxovirus",
+      "1: Subacute_Sclerosing_Panencephalitis",
+      "1: Rubella",
+      "1: Togaviridae",
+      "1: HIV",
+      "1: Retrovirus",
+      "1: AIDS",
+      "1: Lymphoma",
+      "1: Leukemia",
+      "1: Rhabdoviridae",
+      "1: Rabies",
+      "1: Transmissible_spongiform_encephalopathy",
+      "1: Creutzfeldt–Jakob_disease",
+      "1: Prion_diseases",
+      "1: Prions",
+      "1: Virions",
+      "1: Nucleic_acid",
+      "1: Prion#Viral_hypothesis",
+      "1: UV_radiation",
+      "1: Glycophosphatidylinositol",
+      "1: Gene",
+      "1: Amino_acid",
+      "1: Protein_tertiary_structure",
+      "1: Alpha-helices",
+      "1: Beta-pleated_sheets",
+      "1: Amyloid",
+      "1: Clinical_latency",
+      "1: Virus_latency"
+   ]
+}

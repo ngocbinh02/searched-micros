@@ -1,0 +1,58 @@
+{
+   "micrownet" : [
+      "grouping"
+   ],
+   "duck" : [
+      "HASH(0x4d8c348)",
+      "HASH(0x4e10980)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2008_AutoTronics_Taipei:_Participants_from_IT_industry_to_participate_COMPUTEX_uncertainly\" title=\"2008 AutoTronics Taipei: Participants from IT industry to participate COMPUTEX uncertainly\">2008 AutoTronics Taipei: Participants from IT industry to participate COMPUTEX uncertainly</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_Columbia_could_get_an_earthquake,_survey_warns\" title=\"British Columbia could get an earthquake, survey warns\">British Columbia could get an earthquake, survey warns</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bomb_blasts_rock_courts_in_Uttar_Pradesh,_India\" title=\"Bomb blasts rock courts in Uttar Pradesh, India\">Bomb blasts rock courts in Uttar Pradesh, India</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Final_draw_sets_groups_for_FIFA_World_Cup_2010\" title=\"Final draw sets groups for FIFA World Cup 2010\">Final draw sets groups for FIFA World Cup 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/MI5_Chief:_surprised_and_alarmed_by_speed_of_radicalisation_of_Muslims_in_UK\" title=\"MI5 Chief: surprised and alarmed by speed of radicalisation of Muslims in UK\">MI5 Chief: surprised and alarmed by speed of radicalisation of Muslims in UK</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Swine_flu_outbreaks_appear_globally;_WHO_raises_pandemic_alert_level_to_5\" title=\"Swine flu outbreaks appear globally; WHO raises pandemic alert level to 5\">Swine flu outbreaks appear globally; WHO raises pandemic alert level to 5</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Michigan_student_and_California_engineer_sue_Amazon_for_remote_deletion_of_%27Nineteen_Eighty-Four%27\" title=\"Michigan student and California engineer sue Amazon for remote deletion of &#39;Nineteen Eighty-Four&#39;\">Michigan student and California engineer sue Amazon for remote deletion of &#39;Nineteen Eighty-Four&#39;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Wall_of_Siberian_tiger_enclosure_at_San_Francisco_Zoo_is_too_short\" title=\"Wall of Siberian tiger enclosure at San Francisco Zoo is too short\">Wall of Siberian tiger enclosure at San Francisco Zoo is too short</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Number_of_suspects_in_Finnish_dogfighting_case_rises_to_ten\" title=\"Number of suspects in Finnish dogfighting case rises to ten\">Number of suspects in Finnish dogfighting case rises to ten</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Cyprus_and_Malta_adopt_the_euro\" title=\"Cyprus and Malta adopt the euro\">Cyprus and Malta adopt the euro</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ontario_Votes_2007:_Interview_with_Family_Coalition_Party_candidate_Vicki_Gunn,_Glengarry-Prescott-Russell\" title=\"Ontario Votes 2007: Interview with Family Coalition Party candidate Vicki Gunn, Glengarry-Prescott-Russell\">Ontario Votes 2007: Interview with Family Coalition Party candidate Vicki Gunn, Glengarry-Prescott-Russell</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Supporters_of_Myanmar%27s_Suu_Kyi_mark_detained_leader%27s_62nd_birthday\" title=\"Supporters of Myanmar&#39;s Suu Kyi mark detained leader&#39;s 62nd birthday\">Supporters of Myanmar&#39;s Suu Kyi mark detained leader&#39;s 62nd birthday</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Latest_trial_of_the_One_Laptop_Per_Child_running_in_India;_Uruguay_orders_100,000_machines\" title=\"Latest trial of the One Laptop Per Child running in India; Uruguay orders 100,000 machines\">Latest trial of the One Laptop Per Child running in India; Uruguay orders 100,000 machines</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Iraq:_Uneven_voter_turnout_elects_women_who_push_sharia_law_while_anti-woman_violence_rages\" title=\"Iraq: Uneven voter turnout elects women who push sharia law while anti-woman violence rages\">Iraq: Uneven voter turnout elects women who push sharia law while anti-woman violence rages</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462104,
+   "book" : [],
+   "micro-www" : {
+      "grouping" : [
+         "Grouping_(disambiguation)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Grouping"
+      ],
+      "text" : "\n\n\n'Grouping' is a form of hierarchical knowledge representation, similar to mind\nmapping, concept mapping and argument mapping, all of which need to observe at\nleast some of the principles of grouping.\n\nThe principles of grouping include MECE (mutually exclusive and collectively\nexhaustive), levels of abstraction and horizontal and vertical congruence.\n",
+      "title" : "grouping",
+      "headings" : [
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "1: Mind_map",
+      "1: Concept_map",
+      "1: Argument_map",
+      "1: MECE_principle",
+      "1: Principle_of_abstraction",
+      "1: Horizontal_and_vertical_congruence"
+   ]
+}

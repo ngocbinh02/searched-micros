@@ -1,0 +1,111 @@
+{
+   "micrownet" : [
+      "change_course",
+      "collision_course",
+      "correspondence_course",
+      "course",
+      "course_catalog",
+      "course_catalogue",
+      "course_credit",
+      "course_session",
+      "courser",
+      "coursework",
+      "crash_course",
+      "damp-proof_course",
+      "damp_course",
+      "elective_course",
+      "extension_course",
+      "golf_course",
+      "links_course",
+      "main_course",
+      "mizzen_course",
+      "orientation_course",
+      "refresher_course",
+      "required_course"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Course",
+      "Wikipedia",
+      "Course",
+      "http://www.merriam-webster.com/dictionary/course",
+      "\n<a href=\"http://duckduckgo.com/Course_(navigation)\">Course (navigation)</a>, the path of travel",
+      "course definition: the act or action of moving in a path from point to point.",
+      "\n<a href=\"http://duckduckgo.com/Main_course\">Main course</a>, the primary dish in a meal consisting of several courses",
+      "\n<a href=\"http://duckduckgo.com/course_catalog\">Course Atlas (education)</a> - A course catalog or course calendar is an organized, detailed, descriptive list of course offerings at a college, university or other educational outlet.",
+      "\n<a href=\"http://duckduckgo.com/Course_(orienteering)\">Course (orienteering)</a>, a series of control points visited by orienteers during a competition, marked with red/white flags in the terrain, and corresponding purple symbols on the map",
+      "\n<a href=\"http://duckduckgo.com/Course_(architecture)\">Course (architecture)</a>, a continuous horizontal layer of similarly-sized building material, in a wall",
+      "\n<a href=\"http://duckduckgo.com/Academic_major\">Course of study</a>, in the <a href=\"http://duckduckgo.com/?q=Commonwealth of Nations\">Commonwealth of Nations</a> and at the Massachusetts Institute of Technology, a programme of education leading to a degree or diploma",
+      "\n<a href=\"http://duckduckgo.com/Course_of_employment\">Course of employment</a>, a legal consideration of all circumstances which may occur in the performance of a person's job",
+      "\n<a href=\"http://duckduckgo.com/Course_(education)\">Course (education)</a>, in the United States, a unit of instruction in one subject, lasting one academic term",
+      "\n<a href=\"http://duckduckgo.com/Course_(sail)\">Course (sail)</a>, the principal sail on a mast of a sailing vessel",
+      "HASH(0x4a09c38)",
+      "\n<a href=\"http://duckduckgo.com/Golf_course\">Golf course</a>, an area of land designated for the play of golf",
+      "\n<a href=\"http://duckduckgo.com/course_catalog\">Course catalog (education)</a> - A course catalog or course calendar is an organized, detailed, descriptive list of course offerings at a college, university or other educational outlet.",
+      "\n<a href=\"http://duckduckgo.com/Obstacle_course\">Obstacle course</a>, a series of challenging physical obstacles an individual or team must navigate for sport",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Coursing\">Coursing</a> is the pursuit of game or other animals by dogs",
+      "HASH(0x4a06e30)",
+      "\n<a href=\"http://duckduckgo.com/Course_(music)\">Course (music)</a>, a pair or more of adjacent strings tuned to unison or an octave and played together to give a single note, in a stringed instrument",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/String_course\">String course</a>, a continuous narrow horizontal course or moulding which projects slightly from the surface of a wall",
+      "\n<a href=\"http://duckduckgo.com/Course_(medicine)\">Course (medicine)</a>, a regime of medical drugs, or the speed of evolution of a disease"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Egyptian_Muslim_theologians_change_course_on_female_circumcision\" title=\"Egyptian Muslim theologians change course on female circumcision\">Egyptian Muslim theologians change <span class=\"searchmatch\">course</span> on female circumcision</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/50,000_people_refuse_evacuation_after_flooding_in_India_caused_by_river_changing_course\" title=\"50,000 people refuse evacuation after flooding in India caused by river changing course\">50,000 people refuse evacuation after flooding in India caused by river changing <span class=\"searchmatch\">course</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Who%27s_the_richest_entertainer_in_Australia%3F_The_Wiggles_of_course!\" title=\"Who&#39;s the richest entertainer in Australia? The Wiggles of course!\">Who&#39;s the richest entertainer in Australia? The Wiggles of <span class=\"searchmatch\">course</span>!</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Britain_unveils_flu_pandemic_preparedness_plan,_buys_14m_courses_of_treatment_drug\" title=\"Britain unveils flu pandemic preparedness plan, buys 14m courses of treatment drug\">Britain unveils flu pandemic preparedness plan, buys 14m <span class=\"searchmatch\">courses</span> of treatment drug</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hurricane_Earl_threatens_eastern_US\" title=\"Hurricane Earl threatens eastern US\">Hurricane Earl threatens eastern US</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Palau_police_shoot_Chinese_fisherman,_police_plane_feared_lost\" title=\"Palau police shoot Chinese fisherman, police plane feared lost\">Palau police shoot Chinese fisherman, police plane feared lost</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Controversial_development_training_cited_in_religious_discrimination_lawsuits\" title=\"Controversial development training cited in religious discrimination lawsuits\">Controversial development training cited in religious discrimination lawsuits</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Fifteen_flu_sufferers_die_in_Wales_in_one_week\" title=\"Fifteen flu sufferers die in Wales in one week\">Fifteen flu sufferers die in Wales in one week</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_PM%27s_speechwriter_awaits_sentence\" title=\"UK PM&#39;s speechwriter awaits sentence\">UK PM&#39;s speechwriter awaits sentence</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_allows_corporations_to_award_high_school_credits\" title=\"UK allows corporations to award high school credits\">UK allows corporations to award high school credits</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_Defence_Department_funds_controversial_development_training\" title=\"Australian Defence Department funds controversial development training\">Australian Defence Department funds controversial development training</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Donald_Trump_plans_%C2%A3300m_%22golfing_paradise%22_for_rural_Scotland\" title=\"Donald Trump plans £300m &quot;golfing paradise&quot; for rural Scotland\">Donald Trump plans £300m &quot;golfing paradise&quot; for rural Scotland</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Europeans_go_to_the_polls_to_elect_Members_of_the_European_Parliament\" title=\"Europeans go to the polls to elect Members of the European Parliament\">Europeans go to the polls to elect Members of the European Parliament</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Astronomers_say_asteroid_could_hit_Mars\" title=\"Astronomers say asteroid could hit Mars\">Astronomers say asteroid could hit Mars</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/High-speed_train_derailment_in_central_Queensland_(Australia)\" title=\"High-speed train derailment in central Queensland (Australia)\">High-speed train derailment in central Queensland (Australia)</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Colleges_offering_admission_to_displaced_New_Orleans_students/LA-ND\" title=\"Colleges offering admission to displaced New Orleans students/LA-ND\">Colleges offering admission to displaced New Orleans students/LA-ND</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ipsos_Reid:_Poll_shows_more_Canadians_oppose_Afghan_mission\" title=\"Ipsos Reid: Poll shows more Canadians oppose Afghan mission\">Ipsos Reid: Poll shows more Canadians oppose Afghan mission</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_energy_companies_announce_that_prices_for_bills_could_increase\" title=\"UK energy companies announce that prices for bills could increase\">UK energy companies announce that prices for bills could increase</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scottish_university_to_introduce_comic_studies_degree\" title=\"Scottish university to introduce comic studies degree\">Scottish university to introduce comic studies degree</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Colleges_offering_admission_to_displaced_New_Orleans_graduate_students\" title=\"Colleges offering admission to displaced New Orleans graduate students\">Colleges offering admission to displaced New Orleans graduate students</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462862,
+   "book" : [],
+   "micro-www" : {
+      "course" : [
+         "courses",
+         "Course_(navigation)",
+         "Course_(education)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Course' can refer to:\n\n* Course (navigation), the path of travel\n* Course (sail), the principal sail on a mast of a sailing vessel\n* Course (education), in the United States, a unit of instruction in one\n  subject, lasting one academic term\n* Course Atlas (education)\n* Course catalog (education)\n* Course of study, in the Commonwealth of Nations and at the\n  Massachusetts Institute of Technology, a programme of education leading\n  to a degree or diploma\n* Course of employment, a legal consideration of all circumstances which may\n  occur in the performance of a person's job\n* Course (medicine), a regime of medical drugs, or the speed of evolution\n  of a disease\n* Course (music), a pair or more of adjacent strings tuned to unison or an\n  octave and played together to give a single note, in a stringed instrument\n* Main course, the primary dish in a meal consisting of several courses\n* Course (architecture), a continuous horizontal layer of similarly-sized\n  building material, in a wall\n* String course, a continuous narrow horizontal course or moulding which\n  projects slightly from the surface of a wall\n* Course (orienteering), a series of control points visited by orienteers during\n  a competition, marked with red/white flags in the terrain, and corresponding\n  purple symbols on the map\n* Coursing is the pursuit of game or other animals by dogs\n\n'Course' may also refer to:\n* Golf course, an area of land designated for the play of golf\n* Obstacle course, a series of challenging physical obstacles an individual or\n  team must navigate for sport\n",
+      "title" : "course",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Academic_major",
+      "1: Commonwealth_of_Nations",
+      "1: Course_of_employment",
+      "1: Main_course",
+      "1: String_course",
+      "1: Coursing",
+      "1: Golf_course",
+      "1: Obstacle_course",
+      "1: Courser"
+   ]
+}

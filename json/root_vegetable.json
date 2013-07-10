@@ -1,0 +1,81 @@
+{
+   "micrownet" : [
+      "root_vegetable"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Taco_Bell_pulls_green_onions_from_all_U.S._and_Canadian_stores\" title=\"Taco Bell pulls green onions from all U.S. and Canadian stores\">Taco Bell pulls green onions from all U.S. and Canadian stores</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373470046,
+   "book" : [],
+   "micro-www" : {
+      "root_vegetable" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Root vegetables|",
+         "Edible plants"
+      ],
+      "text" : "\n\n'Root vegetables' are plant roots used as vegetables. Here \"root\" means any\nunderground part of a plant.<ref>{{cite web\n | url=http://www.askoxford.com/concise_oed/root_1?view=uk title=AskOxford.com\n | accessdate=2007-05-06\n}}</ref>\n\nRoot vegetables are generally storage organs, enlarged to store energy in the\nform of carbohydrates. They differ in the concentration and the balance between\nsugars, starches, and other types of carbohydrate. Of particular economic\nimportance are those with a high carbohydrate concentration in the form of\nstarch. Starchy root vegetables are important staple foods, particularly in\ntropical regions, overshadowing cereals throughout much of West Africa, Central\nAfrica, and Oceania, where they are used directly or mashed to make fufu or poi.\n\nBotany distinguishes true roots such as tuberous roots and taproots from non-\nroots such as tubers, rhizomes, corms, and bulbs, though some contain both\ntaproot and hypocotyl tissue, making it difficult to tell some types apart. In\nordinary, agricultural, and culinary use, \"root vegetable\" can apply to all\nthese types.<ref>{{cite book\n | last = López Camelo first = Andrés F. year = 2004 title = Manual for the\n | Preparation and Sale of Fruits and Vegetables publisher = Food and\n | Agriculture Organization of the United Nations page = 6 isbn = 92-5-104991-2\n | url = http://books.google.com/books?id=DwUdO9hPZ7sC&pg=PA6 accessdate = 2009-07-\n | 31 quote = However, in the case of potatoes (Figure 10), sweet potatoes, and\n | other root vegetables, readiness for harvest is based on the percentage of\n | tubers of a specific size.\n}} Potatoes are technically tubers, not roots, and sweet potatoes are tuberous\nroots.</ref>\n\nThe following list classifies root vegetables according to anatomy.\n",
+      "title" : "List%20of%20root%20vegetables",
+      "headings" : [
+         "True root",
+         "Root-like stem",
+         "Modified plant stem",
+         "Bulb",
+         "Notes",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Tuberous_root",
+      "2: Taproot",
+      "2: Tuber",
+      "2: Rhizome",
+      "2: Corm",
+      "2: Hypocotyl",
+      "1: Vegetable",
+      "1: Storage_organ",
+      "1: Carbohydrate",
+      "1: Sugar",
+      "1: Starch",
+      "1: Staple_food",
+      "1: Cereal",
+      "1: West_Africa",
+      "1: Central_Africa",
+      "1: Oceania",
+      "1: Fufu",
+      "1: Botany",
+      "1: Root",
+      "1: Bulb",
+      "1: Beet",
+      "1: Mangelwurzel",
+      "1: Rutabaga",
+      "1: Burdock",
+      "1: Carrot",
+      "1: Celeriac",
+      "1: Daikon",
+      "1: Jicama",
+      "1: Parsnip",
+      "1: Parsley",
+      "1: Radish",
+      "1: Tragopogon_porrifolius",
+      "1: Typha",
+      "1: Purple_yam",
+      "1: Garlic",
+      "1: Onion",
+      "1: Shallot",
+      "1: Fennel",
+      "1: University_of_Georgia",
+      "1: Palomar_College"
+   ]
+}

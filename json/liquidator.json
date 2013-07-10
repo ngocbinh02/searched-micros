@@ -1,0 +1,50 @@
+{
+   "micrownet" : [
+      "liquidator"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Liquidator_(Chernobyl)\">Liquidator (Chernobyl)</a>, disaster-remediation worker",
+      "https://en.wikipedia.org/wiki/Liquidator",
+      "HASH(0x4aa4858)",
+      "Wikipedia",
+      "Liquidator",
+      "http://www.merriam-webster.com/dictionary/liquidator",
+      "liquidator definition: one that liquidates; '''especially''' an individual appointed by law to liquidate assets.",
+      "Merriam-Webster",
+      "HASH(0x4b21258)",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465935,
+   "book" : [],
+   "micro-www" : {
+      "liquidator" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Liquidator' may refer to:\n",
+      "title" : "liquidator",
+      "headings" : [
+         "Business",
+         "Arts",
+         "Other",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Estate_liquidation",
+      "1: Computer_liquidator",
+      "1: Factions_of_the_RSDLP",
+      "1: Water_gun",
+      "1: Liquidate"
+   ]
+}

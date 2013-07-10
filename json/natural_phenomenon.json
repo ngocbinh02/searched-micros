@@ -1,0 +1,85 @@
+{
+   "micrownet" : [
+      "natural_phenomenon"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Indonesia_to_plug_mud_volcano\" title=\"Indonesia to plug mud volcano\">Indonesia to plug mud volcano</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Disease_outbreak_feared_after_mass_hysteria_over_%22sweet%22_water_in_Mumbai\" title=\"Disease outbreak feared after mass hysteria over &quot;sweet&quot; water in Mumbai\">Disease outbreak feared after mass hysteria over &quot;sweet&quot; water in Mumbai</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chameleon_snake_discovered_in_Borneo\" title=\"Chameleon snake discovered in Borneo\">Chameleon snake discovered in Borneo</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/500_stranded_melon-headed_whales_rescued_in_Philippine_bay\" title=\"500 stranded melon-headed whales rescued in Philippine bay\">500 stranded melon-headed whales rescued in Philippine bay</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Social_networking_site_lets_users_run_virtual_campaign_for_US_president\" title=\"Social networking site lets users run virtual campaign for US president\">Social networking site lets users run virtual campaign for US president</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/PBS_show_asserts_greenhouse_gases,_atmospheric_pollutants_dimming_future\" title=\"PBS show asserts greenhouse gases, atmospheric pollutants dimming future\">PBS show asserts greenhouse gases, atmospheric pollutants dimming future</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Frank_Messina:_An_interview_with_the_%27Mets_Poet%27\" title=\"Frank Messina: An interview with the &#39;Mets Poet&#39;\">Frank Messina: An interview with the &#39;Mets Poet&#39;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Humans_may_have_contributed_to_2003_European_heatwave\" title=\"Humans may have contributed to 2003 European heatwave\">Humans may have contributed to 2003 European heatwave</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:May_13,_2010\" title=\"News briefs:May 13, 2010\">News briefs:May 13, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Flash_floods_kill_at_least_nineteen_campers_in_Arkansas\" title=\"Flash floods kill at least nineteen campers in Arkansas\">Flash floods kill at least nineteen campers in Arkansas</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Possible_black_hole_created_in_US\" title=\"Possible black hole created in US\">Possible black hole created in US</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Council_of_Europe_report_challenges_teaching_of_Creationism\" title=\"Council of Europe report challenges teaching of Creationism\">Council of Europe report challenges teaching of Creationism</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Al_Sharpton_speaks_out_on_race,_rights_and_what_bothers_him_about_his_critics\" title=\"Al Sharpton speaks out on race, rights and what bothers him about his critics\">Al Sharpton speaks out on race, rights and what bothers him about his critics</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373474296,
+   "book" : [],
+   "micro-www" : {
+      "natural_phenomenon" : [
+         "Natural_phenomenon",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Geography terminology"
+      ],
+      "text" : "\nA natural phenomenon is not an engineered event manufactured by humans, although\nit may affect them (such as pathogens, aging, natural disasters, death). Common\nexamples of natural phenomena include sunrise, the weather, decomposition, free\nfall and erosion. Most natural phenomena, such as fog, are relatively harmless\nso far as humans are concerned.\n\nVarious types of natural phenomena occur, including (but not limited to) the\nfollowing: *Geological phenomena (volcanic activity and earthquakes)\n*Meteorological phenomena (hurricanes, thunderstorms, and tornadoes)\n*Oceanographic phenomena (tsunamis, ocean currents and breaking waves)\n",
+      "title" : "natural phenomenon",
+      "headings" : [
+         "Gallery",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "2: Nature",
+      "1: Pathogen",
+      "1: Aging",
+      "1: Natural_disaster",
+      "1: Death",
+      "1: Phenomenon",
+      "1: Sunrise",
+      "1: Weather",
+      "1: Decomposition",
+      "1: Free_fall",
+      "1: Erosion",
+      "1: Fog",
+      "1: Geology",
+      "1: Volcanic",
+      "1: Earthquake",
+      "1: Meteorology",
+      "1: Hurricanes",
+      "1: Thunderstorms",
+      "1: Tornadoes",
+      "1: Oceanography",
+      "1: Tsunami",
+      "1: Ocean_current",
+      "1: Breaking_wave",
+      "1: Galunggung",
+      "1: Volcano",
+      "1: Parabola",
+      "1: Lava_flow",
+      "1: Galileo",
+      "1: Law_of_falling_bodies",
+      "1: Blackbody_radiation",
+      "1: Temperature",
+      "1: Blackbody",
+      "1: Act_of_God",
+      "1: Materialism",
+      "1: Midnight_sun",
+      "1: Natural_environment"
+   ]
+}

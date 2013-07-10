@@ -1,0 +1,73 @@
+{
+   "micrownet" : [
+      "fluoroboric_acid"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373468846,
+   "book" : [],
+   "micro-www" : {
+      "fluoroboric_acid" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Tetrafluoroborates",
+         "Mineral acids"
+      ],
+      "text" : "{{Chembox\n| Verifiedfields = changed verifiedrevid = 476998855 ImageFile = Fluoroboric\n| acid.svg ImageFile_Ref = ImageName = Canonical, skeletal formula of\n| fluoroboric acid PIN = Tetrafluoroboric acid OtherNames = Borofluoric\n| acid<br />\nHydrofluoroboric acid<br /> Hydrogen Tetrafluoroborate\n| Section1 = {{Chembox Identifiers CASNo = 16872-11-0 CASNo_Ref = PubChem =\n| 28118 PubChem_Ref = ChemSpiderID = 26156 ChemSpiderID_Ref = EINECS = 240-898-3\n| UNNumber = 1775 MeSHName = Fluoroboric+acid ChEBI = 38902 ChEBI_Ref = RTECS =\n| ED2685000 Gmelin = 21702 SMILES = F[B](F)(F)[FH] SMILES = [H+].[F--].F[B+](F)F\n| StdInChI = 1S/BF4H/c2-1(3,4)5/h2H StdInChI_Ref = StdInChIKey = YKRRMQXMWYXWJW-UHFFFAOYSA-\n| N StdInChIKey_Ref =\n}}\n| Section2 = {{Chembox Properties H = 1 B = 1 F = 4 ExactMass = 88.010743318 g\n| mol<sup>-1</sup> Appearance = Colourless liquid MeltingPtC = -90 BoilingPtC =\n| 130 pKa = -0.4 pKb = 14.4\n}}\n| Section3 = {{Chembox Hazards ExternalMSDS =\n| [http://hazard.com/msds/mf/baker/baker/files/f2608.htm External MSDS] EUIndex\n| = 009-010-00-X EUClass = RPhrases = SPhrases = , , , NFPA-R = 0 NFPA-H = 3\n| NFPA-F = 0\n}}\n| Section4 = {{Chembox Related OtherCpds = Hydrogen fluoride<br />\nTriflic acid }} }}\n\n'Fluoroboric acid' or 'fluoboric acid' (systematically named 'oxonium\ntetrafluoroboranuide' or 'oxonium tetrafluoridoborate(1-)') is an inorganic\ncompound with the chemical formula . As fluoroboric acid has not been isolated,\nits descriptive properties remain largely unknown. It is mainly produced as a\nprecursor to other fluoroborate salts. It is classified as a strong acid,\nfluoroboric acid is corrosive and attacks the skin.\n\nIt is available commercially as a solution in water and other solvents such as\ndiethyl ether. With a strength comparable to nitric acid, fluoroboric acid is a\nstrong acid with a weakly coordinating, non-oxidizing conjugate base.\n\n<!--\n",
+      "title" : "fluoroboric acid",
+      "headings" : [
+         "History",
+         "Production",
+         "Applications",
+         "Other fluoroboric acids",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "1: Hydrogen_fluoride",
+      "1: Triflic_acid",
+      "1: Inorganic_compound",
+      "1: Chemical_formula",
+      "1: Solvent",
+      "1: Diethyl_ether",
+      "1: Nitric_acid",
+      "1: Noncoordinating_anion",
+      "1: Ammonium",
+      "1: Boric_acid",
+      "1: Hydrofluoric_acid",
+      "1: Boron_trifluoride",
+      "1: Hexafluorosilicic_acid",
+      "1: Silicon_dioxide",
+      "1: Acetic_anhydride",
+      "1: Fluoroborate",
+      "1: Boron",
+      "1: Catalyst",
+      "1: Alkylation",
+      "1: Polymerizations",
+      "1: Acetonitrile",
+      "1: Acetals",
+      "1: Ethers",
+      "1: Tert-butoxycarbonyl",
+      "1: Electrolyte",
+      "1: Galvanic_cell",
+      "1: Anode",
+      "1: Cathode",
+      "1: Sulfonic_acid",
+      "1: Electrodeposition",
+      "1: Alloys",
+      "1: Fluorosulfuric_acid",
+      "1: Fluoroantimonic_acid"
+   ]
+}

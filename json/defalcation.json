@@ -1,0 +1,53 @@
+{
+   "micrownet" : [
+      "defalcation"
+   ],
+   "duck" : [
+      "A defalcation is an amount of funds misappropriated by a person trusted with its charge; also, the act of misappropriation, or an instance thereof.",
+      "https://en.wikipedia.org/wiki/Defalcation",
+      "\n<a href=\"http://duckduckgo.com/c/United_States_bankruptcy_law\">United States bankruptcy law</a>",
+      "HASH(0x4ae1400)",
+      "Wikipedia",
+      "Defalcation",
+      "http://www.merriam-webster.com/dictionary/defalcation",
+      "defalcation definition: '''archaic''' deduction.",
+      "Merriam-Webster",
+      "https://i.duckduckgo.com/i/db92d7cd.png",
+      "HASH(0x4ac55a0)",
+      "A defalcation is an amount of funds misappropriated by a person trusted with its charge; also, the act of misappropriation, or an instance thereof.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373463267,
+   "book" : [],
+   "micro-www" : {
+      "defalcation" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "United States bankruptcy law"
+      ],
+      "text" : "\nA 'defalcation' is an amount of funds misappropriated by a person trusted with\nits charge; also, the act of misappropriation, or an instance thereof. The term\nis more specifically used by the United States Bankruptcy Code to describe a\ncategory of bad acts that taint a particular debt such that it cannot be\ndischarged in bankruptcy.<ref>US Bankruptcy Code, section 523(a)(4)</ref>\n\nDefalcation occurs when a debtor commits a bad act while acting in a fiduciary\ncapacity.<ref> Collier on Bankruptcy, 523.10 (15th ed. rev. 2007)</ref> The\nclassic example of defalcation is when a trustee recklessly invests trust funds\nand loses the money. If the beneficiary wins a judgment against the trustee, and\nthe trustee files for bankruptcy, the debt (the judgment) cannot be discharged\nin bankruptcy because the debt was the result of a defalcation.\n\nDefalcation only applies when a debtor is acting in a fiduciary capacity. To\nconstitute a defalcation, the conduct involves a degree of culpability that is\ngreater than negligence, but the act does not need to rise to the level of a\n\"fraud\" under common law. Defalcation requires a showing of conscious behavior\nor extreme recklessness.<ref>In re Hyman, 502 F.3d 61 (2d. Cir. 2007)</ref>\n\nThe term is used in legal proceedings other than bankruptcy to refer more\ngenerally to embezzlement; it is often used in the context of the title\ninsurance business. A title agent who misuses funds intended to be used to close\ninsured transactions is said to be involved in a defalcation. Many title\ninsurers have their own \"defalcation units.\"\n",
+      "title" : "defalcation",
+      "headings" : [
+         "Etymology",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "1: United_States_Bankruptcy_Code",
+      "1: Debt",
+      "1: Bankruptcy",
+      "1: Embezzlement",
+      "1: Title_insurance"
+   ]
+}

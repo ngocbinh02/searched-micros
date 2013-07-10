@@ -1,0 +1,81 @@
+{
+   "micrownet" : [
+      "ternary"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Ternary",
+      "\n<a href=\"http://duckduckgo.com/Ternary_tree\">Ternary tree</a>, a tree data structure in computer science",
+      "\n<a href=\"http://duckduckgo.com/Ternary_Golay_code\">Ternary Golay code</a> - There are two closely related error-correcting codes known as ternary Golay codes.",
+      "Wikipedia",
+      "Ternary",
+      "\n<a href=\"http://duckduckgo.com/Ternary_relation\">Ternary relation</a>, a finitary relation in which the number of places in the relation is three",
+      "http://www.merriam-webster.com/dictionary/ternary",
+      "ternary definition: of, relating to, or proceeding by threes.",
+      "\n<a href=\"http://duckduckgo.com/Ternary_name\">Ternary name</a> for any taxon below the rank of species",
+      "\n<a href=\"http://duckduckgo.com/Ternary_heap\">Ternary heap</a>, a data structure in computer science",
+      "\n<a href=\"http://duckduckgo.com/Ternary_form\">Ternary form</a>, a form used for structuring music",
+      "\n<a href=\"http://duckduckgo.com/three-valued_logic\">Ternary logic</a>, a logic system with the values true, false, and some other value",
+      "\n<a href=\"http://duckduckgo.com/Ternary_computer\">Ternary computer</a>, a computer using a ternary numeral system",
+      "\n<a href=\"http://duckduckgo.com/Ternary_numeral_system\">Ternary numeral system</a>, a base-3 counting system",
+      "\n<a href=\"http://duckduckgo.com/Balanced_ternary\">Balanced ternary</a>, a positional numeral system, useful for comparison logic",
+      "\n<a href=\"http://duckduckgo.com/Ternary_search_tree\">Ternary search tree</a>, a ternary (three-way) tree data structure of strings",
+      "\n<a href=\"http://duckduckgo.com/Ternary_signal\">Ternary signal</a>, a signal that can assume three significant values",
+      "HASH(0x4a19b00)",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Ternary_operation\">Ternary operation</a>, an operation that takes three parameters",
+      "\n<a href=\"http://duckduckgo.com/Ternary_plot\">Ternary plot</a> or ternary graph, a plot that shows the ratios of three proportions",
+      "\n<a href=\"http://duckduckgo.com/Ternary_search\">Ternary search</a>, a computer science technique for finding the minimum or maximum of a function",
+      "HASH(0x4aae508)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Ternary_compound\">Ternary compound</a>, a type of chemical compound",
+      "\n<a href=\"http://duckduckgo.com/Ternary_complex\">Ternary complex</a>, a complex formed by the interaction of three molecules"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464520,
+   "book" : [],
+   "micro-www" : {
+      "ternary" : [
+         "ternary",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Latin adjectives in current use"
+      ],
+      "text" : "\n'Ternary' (from Latin ternarius) is an adjective meaning \"composed of three\nitems\". It can refer to:\n\n* Ternary complex, a complex formed by the interaction of three molecules\n* Ternary compound, a type of chemical compound\n* Ternary computer, a computer using a ternary numeral system\n* Ternary form, a form used for structuring music\n* Ternary Golay code, a perfect [11, 6, 5] ternary linear code\n* Ternary heap, a data structure in computer science\n* Ternary logic, a logic system with the values true, false, and some\n  other value\n* Ternary name for any taxon below the rank of species\n* Ternary numeral system, a base-3 counting system ** Balanced ternary, a\n  positional numeral system, useful for comparison logic\n* Ternary operation, an operation that takes three parameters\n* Ternary plot or ternary graph, a plot that shows the ratios of three\n  proportions\n* Ternary relation, a finitary relation in which the number of places in the\n  relation is three\n* Ternary search, a computer science technique for finding the minimum or\n  maximum of a function\n* Ternary signal, a signal that can assume three significant values\n* Ternary tree, a tree data structure in computer science **Ternary search tree,\n  a ternary (three-way) tree data structure of strings\n",
+      "title" : "ternary",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Ternary_complex",
+      "1: Ternary_compound",
+      "1: Ternary_computer",
+      "1: Ternary_form",
+      "1: Ternary_Golay_code",
+      "1: Ternary_heap",
+      "1: Ternary_logic",
+      "1: Ternary_name",
+      "1: Ternary_numeral_system",
+      "1: Balanced_ternary",
+      "1: Ternary_operation",
+      "1: Ternary_plot",
+      "1: Ternary_relation",
+      "1: Ternary_search",
+      "1: Ternary_signal",
+      "1: Ternary_tree",
+      "1: Ternary_search_tree",
+      "1: Quinary",
+      "1: Senary",
+      "1: Septenary"
+   ]
+}

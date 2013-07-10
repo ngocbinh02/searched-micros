@@ -1,0 +1,80 @@
+{
+   "micrownet" : [
+      "computer_user",
+      "drug_user",
+      "end_user",
+      "graphical_user_interface",
+      "power_user",
+      "snuff_user",
+      "tobacco_user",
+      "user",
+      "user-friendly",
+      "user_interface"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Consumer\">Consumer</a>, a user of a commercial product or service",
+      "\n<a href=\"http://duckduckgo.com/End-user\">End-user</a>, a final user of a commercial product or service",
+      "User",
+      "\n<a href=\"http://duckduckgo.com/User_(telecommunications)\">User (telecommunications)</a>, a party using a telecommunications system",
+      "http://www.merriam-webster.com/dictionary/user",
+      "\n<a href=\"http://duckduckgo.com/User_(computing)\">User (computing)</a>, a person or software using an information system",
+      "user definition: one that uses.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Drug_user\">Drug user</a>, a person using drugs",
+      "\n<a href=\"http://duckduckgo.com/User_(system)\">User (system)</a>, a person using a generic system"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/User_Email:Anonymous101\" title=\"User Email:Anonymous101\"><span class=\"searchmatch\">User</span> Email:Anonymous101</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/MySpace_loses_over_ten_million_users_in_one_month\" title=\"MySpace loses over ten million users in one month\">MySpace loses over ten million <span class=\"searchmatch\">users</span> in one month</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/User_Categories\" title=\"User Categories\"><span class=\"searchmatch\">User</span> Categories</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/User_directory\" title=\"User directory\"><span class=\"searchmatch\">User</span> directory</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Radical_left_computer_activists_capture_data_of_Blood_and_Honour_web_forum_with_31,948_users\" title=\"Radical left computer activists capture data of Blood and Honour web forum with 31,948 users\">Radical left computer activists capture data of Blood and Honour web forum with 31,948 <span class=\"searchmatch\">users</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Encyclop%C3%A6dia_Britannica_fights_back_against_Wikipedia,_soon_to_let_users_edit_contents\" title=\"Encyclopædia Britannica fights back against Wikipedia, soon to let users edit contents\">Encyclopædia Britannica fights back against Wikipedia, soon to let <span class=\"searchmatch\">users</span> edit contents</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Facebook_reaches_500_million_users\" title=\"Facebook reaches 500 million users\">Facebook reaches 500 million <span class=\"searchmatch\">users</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Digg.com_suffers_user_revolt\" title=\"Digg.com suffers user revolt\">Digg.com suffers <span class=\"searchmatch\">user</span> revolt</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Users_insert_virus_source_code_into_Wikipedia_pages\" title=\"Users insert virus source code into Wikipedia pages\"><span class=\"searchmatch\">Users</span> insert virus source code into Wikipedia pages</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Drug_website_surveys_LSD_users_and_culture\" title=\"Drug website surveys LSD users and culture\">Drug website surveys LSD <span class=\"searchmatch\">users</span> and culture</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Statistics_say_websites_with_user-generated_content_are_the_fastest_growing\" title=\"Statistics say websites with user-generated content are the fastest growing\">Statistics say websites with <span class=\"searchmatch\">user-</span>generated content are the fastest growing</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scots_report_crime_using_Facebook\" title=\"Scots report crime using Facebook\">Scots report crime using Facebook</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Facebook_Scheme_Allow_Users_To_Report_Crime.\" title=\"New Facebook Scheme Allow Users To Report Crime.\">New Facebook Scheme Allow <span class=\"searchmatch\">Users</span> To Report Crime.</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Google_to_warn_users_about_%22bad%22_websites\" title=\"Google to warn users about &quot;bad&quot; websites\">Google to warn <span class=\"searchmatch\">users</span> about &quot;bad&quot; websites</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Moldovan_mobile_phone_growth_results_in_more_than_2_million_users\" title=\"Moldovan mobile phone growth results in more than 2 million users\">Moldovan mobile phone growth results in more than 2 million <span class=\"searchmatch\">users</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Microsoft_Network_users_experience_international_outage\" title=\"Microsoft Network users experience international outage\">Microsoft Network <span class=\"searchmatch\">users</span> experience international outage</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/MSN_browser_upgrade_leaves_users_frozen\" title=\"MSN browser upgrade leaves users frozen\">MSN browser upgrade leaves <span class=\"searchmatch\">users</span> frozen</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Apple_users_criticize_lack_of_FireWire_port_on_MacBook\" title=\"Apple users criticize lack of FireWire port on MacBook\">Apple <span class=\"searchmatch\">users</span> criticize lack of FireWire port on MacBook</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/YouTube_user_gets_instant_fame_for_video_defending_Britney_Spears\" title=\"YouTube user gets instant fame for video defending Britney Spears\">YouTube <span class=\"searchmatch\">user</span> gets instant fame for video defending Britney Spears</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Social_networking_site_lets_users_run_virtual_campaign_for_US_president\" title=\"Social networking site lets users run virtual campaign for US president\">Social networking site lets <span class=\"searchmatch\">users</span> run virtual campaign for US president</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/University_of_California,_San_Francisco_inviting_tobacco_users_to_test_new_nicotine_vaccine\" title=\"University of California, San Francisco inviting tobacco users to test new nicotine vaccine\">University of California, San Francisco inviting tobacco <span class=\"searchmatch\">users</span> to test new nicotine vaccine</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373469071,
+   "book" : [],
+   "micro-www" : {
+      "user" : [
+         "User_profile",
+         "User_interface",
+         "User_experience_design",
+         "User_Datagram_Protocol",
+         "User_(computing)",
+         "User:AaronSw",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n\n\n'User' may refer to:\n* User (system), a person using a generic system\n* User (computing), a person or software using an information system\n* User (telecommunications), a party using a telecommunications system\n* End-user, a final user of a commercial product or service\n* Drug user, a person using drugs\n* Consumer, a user of a commercial product or service\n",
+      "title" : "user",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: End-user",
+      "1: Drug_user",
+      "1: Consumer"
+   ]
+}

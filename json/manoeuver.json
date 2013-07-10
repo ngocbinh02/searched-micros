@@ -1,0 +1,25 @@
+{
+   "micrownet" : [
+      "manoeuver"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Confrontation_between_Greenpeace_and_fishermen_off_Marseille\" title=\"Confrontation between Greenpeace and fishermen off Marseille\">Confrontation between Greenpeace and fishermen off Marseille</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/China_and_Russia_continue_joint_army_exercise\" title=\"China and Russia continue joint army exercise\">China and Russia continue joint army exercise</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471425,
+   "book" : [],
+   "micro-www" : {
+      "manoeuver" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

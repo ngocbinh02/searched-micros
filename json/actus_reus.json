@@ -1,0 +1,71 @@
+{
+   "micrownet" : [
+      "actus_reus"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471215,
+   "book" : [],
+   "micro-www" : {
+      "actus_reus" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Criminal law",
+         "Elements of crime",
+         "Forensic psychology",
+         "Latin legal terms"
+      ],
+      "text" : "\n\n'Actus reus', sometimes called the external element or the objective element of\na crime, is the Latin term for the \"guilty act\" which, when proved beyond a\nreasonable doubt in combination with the [[mens rea]], \"guilty mind\", produces\ncriminal liability in the common law-based criminal law jurisdictions of Canada,\nAustralia, India, Pakistan, South Africa, New Zealand, England, Ghana, Wales,\nIreland and the United States of America. In the United States of America, some\ncrimes also require proof of an attendant circumstance.\n",
+      "title" : "actus reus",
+      "headings" : [
+         "Etymology",
+         "Act",
+         "Voluntariness",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "3: Common_law",
+      "1: Latin",
+      "1: Beyond_a_reasonable_doubt",
+      "1: Legal_liability",
+      "1: Criminal_law",
+      "1: Jurisdiction",
+      "1: Canada",
+      "1: Australia",
+      "1: India",
+      "1: Pakistan",
+      "1: South_Africa",
+      "1: New_Zealand",
+      "1: England",
+      "1: Ghana",
+      "1: Wales",
+      "1: Ireland",
+      "1: United_States_of_America",
+      "1: Attendant_circumstance",
+      "1: Edward_Coke",
+      "1: Culpability",
+      "1: U.S._Supreme_Court",
+      "1: Drug_addict",
+      "1: Actus_reus#Act",
+      "1: Oliver_Wendell_Holmes,_Jr.",
+      "1: New_York_Court_of_Appeals",
+      "1: Somnambulism",
+      "1: Fugue_state",
+      "1: Metabolic_disorder",
+      "1: California_Court_of_Appeals",
+      "1: Supreme_Court_of_Canada"
+   ]
+}

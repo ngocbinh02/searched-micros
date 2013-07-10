@@ -1,0 +1,41 @@
+{
+   "micrownet" : [
+      "dry_walling"
+   ],
+   "duck" : [
+      "HASH(0x49a3718)",
+      "HASH(0x4ad9210)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canberrans_flood_Cotter_Dam_on_open_day\" title=\"Canberrans flood Cotter Dam on open day\">Canberrans flood Cotter Dam on open day</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Wall_of_Siberian_tiger_enclosure_at_San_Francisco_Zoo_is_too_short\" title=\"Wall of Siberian tiger enclosure at San Francisco Zoo is too short\"><span class=\"searchmatch\">Wall</span> of Siberian tiger enclosure at San Francisco Zoo is too short</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Race_to_save_Chilean_miners_trapped_underground_from_spiralling_into_depression_continues\" title=\"Race to save Chilean miners trapped underground from spiralling into depression continues\">Race to save Chilean miners trapped underground from spiralling into depression continues</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Concerns_arise_about_the_new,_synthetic_NBA_ball\" title=\"Concerns arise about the new, synthetic NBA ball\">Concerns arise about the new, synthetic NBA ball</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Allegations_President_Bush_staged_photo-ops_in_aftermath_of_Hurricane_Katrina_tragedy\" title=\"Allegations President Bush staged photo-ops in aftermath of Hurricane Katrina tragedy\">Allegations President Bush staged photo-ops in aftermath of Hurricane Katrina tragedy</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Winning_horse_I%27ll_Have_Another_loses_shot_at_US_Triple_Crown\" title=\"Winning horse I&#39;ll Have Another loses shot at US Triple Crown\">Winning horse I&#39;ll Have Another loses shot at US Triple Crown</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/How_the_Army_Corps_of_Engineers_closed_one_New_Orleans_breach\" title=\"How the Army Corps of Engineers closed one New Orleans breach\">How the Army Corps of Engineers closed one New Orleans breach</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Infrared_technology_enables_recovery_of_lost_classical_writings\" title=\"Infrared technology enables recovery of lost classical writings\">Infrared technology enables recovery of lost classical writings</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Federal_Reserve_prepares_to_take_over_AIG\" title=\"US Federal Reserve prepares to take over AIG\">US Federal Reserve prepares to take over AIG</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/John_Reed_on_Orwell,_God,_self-destruction_and_the_future_of_writing\" title=\"John Reed on Orwell, God, self-destruction and the future of writing\">John Reed on Orwell, God, self-destruction and the future of writing</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_President_Obama_proposes_financial_reform\" title=\"US President Obama proposes financial reform\">US President Obama proposes financial reform</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/14,000-acre_Southern_California_%27Crown_Fire%27_at_82%25_containment,_evacuation_orders_lifted\" title=\"14,000-acre Southern California &#39;Crown Fire&#39; at 82% containment, evacuation orders lifted\">14,000-acre Southern California &#39;Crown Fire&#39; at 82% containment, evacuation orders lifted</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:July_14,_2010\" title=\"News briefs:July 14, 2010\">News briefs:July 14, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Police_in_Britain_uncover_suspected_terrorist_plot\" title=\"Police in Britain uncover suspected terrorist plot\">Police in Britain uncover suspected terrorist plot</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Victoria_Wyndham_on_Another_World_and_another_life\" title=\"Victoria Wyndham on Another World and another life\">Victoria Wyndham on Another World and another life</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465715,
+   "book" : [],
+   "micro-www" : {
+      "dry_walling" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

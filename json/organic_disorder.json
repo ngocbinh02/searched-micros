@@ -1,0 +1,43 @@
+{
+   "micrownet" : [
+      "organic_disorder"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canadian_convicted_of_murder_in_HIV_case\" title=\"Canadian convicted of murder in HIV case\">Canadian convicted of murder in HIV case</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373470768,
+   "book" : [],
+   "micro-www" : {
+      "organic_disorder" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Diseases and disorders"
+      ],
+      "text" : "\nAn 'organic disease' is one which involves or affects physiology or bodily\norgans. A disease in which there is a physiological change to some tissue or\norgan of the body.\n\n'Organic disease' may also be used to mean a condition that is not caused by an\ninfection.\n\nThe term \"Organic Cause\" also features in Obesity disorders, where for example\n\"Regulatory Obesity\" is a failure to regulate food intake but with no organic\ncause, whereas Metabolic Obesity involves an organic cause.\n\nIn neuropsychology the concept of an organic condition, as opposed to functional\ncauses, is less used now than traditionally (for example Organic brain\nsyndrome), but may still crop up in debates over certain thorny issues, such as\nFunctional neurological deficit.\n",
+      "title" : "Organic%20disease",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Physiology",
+      "1: Biological_tissue",
+      "1: Obesity",
+      "1: Metabolic",
+      "1: Neuropsychology",
+      "1: Organic_brain_syndrome",
+      "1: Functional_neurological_deficit",
+      "1: Functional_symptom"
+   ]
+}

@@ -1,0 +1,87 @@
+{
+   "micrownet" : [
+      "achylia",
+      "achylia_gastrica"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Hyperchlorhydria\">Hyperchlorhydria</a> - Hyperchlorhydria refers to the state in the stomach where gastric acid levels are higher than the normal range.",
+      "Achlorhydria",
+      "\n<a href=\"http://duckduckgo.com/Isopropamide\">Isopropamide</a> - Isopropamide is a long-acting anticholinergic drug.",
+      "http://www.merriam-webster.com/dictionary/achlorhydria",
+      "\n<a href=\"http://duckduckgo.com/Fundic_gland_polyposis\">Fundic gland polyposis</a> - Fundic gland polyps (a better term than polyposis, as these polyps may be solitary or in small numbers) is a medical syndrome where the fundus of the stomach develops many polyps.",
+      "achlorhydria definition: absence of hydrochloric acid from the gastric juice.",
+      "Merriam-Webster",
+      "https://i.duckduckgo.com/i/0bb9296e.png",
+      "Achlorhydria  or hypochlorhydria refers to states where the production of gastric acid in the stomach is absent or low, respectively."
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373470782,
+   "book" : [],
+   "micro-www" : {
+      "achylia" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Stomach disorders"
+      ],
+      "text" : "\n\n{{Infobox disease\n | Name = Achlorhydria Image = Hydrogen-chloride-3D-vdW-labelled.png Caption =\n | Hydrogen chloride (major component of gastric acid) DiseasesDB = 29513 ICD10\n | = ICD9 = ICDO = OMIM = MedlinePlus = eMedicineSubj = med eMedicineTopic = 18\n | MeshID = D000126\n}} 'Achlorhydria' or 'hypochlorhydria' refers to states where the production of\ngastric acid in the stomach is absent or low, respectively. It is associated\nwith various other medical problems.\n",
+      "title" : "Achlorhydria",
+      "headings" : [
+         "Signs and symptoms",
+         "Causes",
+         "Diagnosis",
+         "Treatment",
+         "Prognosis",
+         "References",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "3: Gastric_acid",
+      "1: Hydrogen_chloride",
+      "1: Stomach",
+      "1: Gastroesophageal_reflux_disease",
+      "1: Pepsin",
+      "1: Small_bowel_bacterial_overgrowth_syndrome",
+      "1: Diarrhea",
+      "1: Malabsorption",
+      "1: Magnesium",
+      "1: Zinc",
+      "1: Vitamin_C",
+      "1: Vitamin_K",
+      "1: B_complex",
+      "1: Hypothyroidism",
+      "1: Autoimmune_disorder",
+      "1: Antibody",
+      "1: Parietal_cell",
+      "1: Antacids",
+      "1: H2-receptor_antagonist",
+      "1: Proton_pump_inhibitor",
+      "1: Rare_disease",
+      "1: Mucolipidosis",
+      "1: Pernicious_anemia",
+      "1: Atrophic_gastritis",
+      "1: Stomach_cancer",
+      "1: Radiation_therapy",
+      "1: Gastric_bypass",
+      "1: Duodenal_switch",
+      "1: VIPoma",
+      "1: Somatostatinoma",
+      "1: Pellagra",
+      "1: H+/K+_ATP-ase",
+      "1: Pentagastrin",
+      "1: Gastrin",
+      "1: Hyperchlorhydria",
+      "1: Isopropamide",
+      "1: Fundic_gland_polyposis"
+   ]
+}

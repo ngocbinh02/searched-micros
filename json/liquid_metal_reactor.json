@@ -1,0 +1,93 @@
+{
+   "micrownet" : [
+      "liquid_metal_reactor"
+   ],
+   "duck" : [
+      "HASH(0x4a64940)",
+      "HASH(0x4a9e790)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_civilian_nuclear_accidents#1960s"
+   ],
+   "created" : 1373464373,
+   "book" : [],
+   "micro-www" : {
+      "liquid_metal_reactor" : [
+         "liquid_metal_reactor",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Liquid metal fast reactors|",
+         "Nuclear physics"
+      ],
+      "text" : "\n\nA 'liquid metal cooled nuclear reactor', 'liquid metal fast reactor' or 'LMFR'\nis an advanced type of nuclear reactor where the primary coolant is a liquid\nmetal. Liquid metal cooled reactors were first adapted for nuclear submarine use\nbut have also been extensively studied for power generation applications. They\nhave safety advantages because the reactor doesn't need to be kept under\npressure, and they allow a much higher power density than traditional coolants.\nDisadvantages include difficulties associated with inspection and repair of a\nreactor immersed in opaque molten metal, and depending on the choice of metal,\ncorrosion and/or production of radioactive activation products may be an issue.\n",
+      "title" : "Liquid%20metal%20cooled%20reactor",
+      "headings" : [
+         "Design",
+         "Coolant properties",
+         "Propulsion",
+         "Power generation",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Power_density",
+      "2: Fast_neutron_reactor",
+      "2: Sodium",
+      "2: NaK",
+      "2: Lead-bismuth_eutectic",
+      "2: Fast_breeder_reactor",
+      "1: Nuclear_reactor",
+      "1: Coolant",
+      "1: Liquid_metal",
+      "1: Nuclear_submarine",
+      "1: LMFBR",
+      "1: Neutron_moderator",
+      "1: Operating_temperature",
+      "1: Loss-of-coolant_accident",
+      "1: Melting_point",
+      "1: Boiling_point",
+      "1: Lead",
+      "1: Neutron_cross-section",
+      "1: Monju_Nuclear_Power_Plant",
+      "1: Gamma_ray",
+      "1: Degrees_Celsius",
+      "1: Bismuth",
+      "1: Soviet_Union",
+      "1: VT-1_reactor",
+      "1: BM-40A_reactor",
+      "1: OK-550_reactor",
+      "1: Superheater",
+      "1: Pressurized_water_reactor",
+      "1: Pratt_&_Whitney",
+      "1: Nuclear_aircraft",
+      "1: Aircraft_Nuclear_Propulsion",
+      "1: Sodium_Reactor_Experiment",
+      "1: Santa_Susana_Field_Laboratory",
+      "1: North_American_Aviation",
+      "1: Radioactive_decay",
+      "1: Enrico_Fermi_Nuclear_Generating_Station",
+      "1: Monroe_County,_Michigan",
+      "1: List_of_civilian_nuclear_accidents#1960s",
+      "1: Dounreay",
+      "1: United_Kingdom_Atomic_Energy_Authority",
+      "1: BN-600_reactor",
+      "1: BN-350_reactor",
+      "1: EBR-II",
+      "1: Nuclear_power_plant",
+      "1: EBR-I",
+      "1: Integral_Fast_Reactor",
+      "1: Generation_IV_reactor",
+      "1: Sodium_cooled_fast_reactor",
+      "1: Lead_cooled_fast_reactor"
+   ]
+}

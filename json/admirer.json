@@ -1,0 +1,40 @@
+{
+   "micrownet" : [
+      "admirer"
+   ],
+   "duck" : [
+      "admirer",
+      "To regard with pleasure, wonder, and approval.",
+      "http://www.merriam-webster.com/dictionary/admirer",
+      "admirer definition: to regard with admiration.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/The_President_of_Bolivia_resigns\" title=\"The President of Bolivia resigns\">The President of Bolivia resigns</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Lady_Bird_Johnson_buried_today\" title=\"Lady Bird Johnson buried today\">Lady Bird Johnson buried today</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Author_Hunter_S._Thompson_found_dead\" title=\"Author Hunter S. Thompson found dead\">Author Hunter S. Thompson found dead</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Could_an_unmarked_grave_in_Winchester_contain_the_remains_of_King_Alfred%3F\" title=\"Could an unmarked grave in Winchester contain the remains of King Alfred?\">Could an unmarked grave in Winchester contain the remains of King Alfred?</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Nepal_names_6_year_old_girl_a_%27living_goddess%27\" title=\"Nepal names 6 year old girl a &#39;living goddess&#39;\">Nepal names 6 year old girl a &#39;living goddess&#39;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Southampton_contemplate_Theo_Walcott_transfer\" title=\"Southampton contemplate Theo Walcott transfer\">Southampton contemplate Theo Walcott transfer</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bolivia%27s_Evo_Morales_wins_referendum_on_a_new_leftist_constitution\" title=\"Bolivia&#39;s Evo Morales wins referendum on a new leftist constitution\">Bolivia&#39;s Evo Morales wins referendum on a new leftist constitution</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Obesity_and_the_Fat_Acceptance_Movement:_Kira_Nerusskaya_speaks\" title=\"Obesity and the Fat Acceptance Movement: Kira Nerusskaya speaks\">Obesity and the Fat Acceptance Movement: Kira Nerusskaya speaks</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Suspect_in_Laos_plot_detained_in_Thailand;_suspects_plead_not_guilty_in_California\" title=\"Suspect in Laos plot detained in Thailand; suspects plead not guilty in California\">Suspect in Laos plot detained in Thailand; suspects plead not guilty in California</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Zealand_Governor-General_sworn_in\" title=\"New Zealand Governor-General sworn in\">New Zealand Governor-General sworn in</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Edmund_White_on_writing,_incest,_life_and_Larry_Kramer\" title=\"Edmund White on writing, incest, life and Larry Kramer\">Edmund White on writing, incest, life and Larry Kramer</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373469102,
+   "book" : [],
+   "micro-www" : {
+      "admirer" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

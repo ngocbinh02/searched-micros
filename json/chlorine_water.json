@@ -1,0 +1,95 @@
+{
+   "micrownet" : [
+      "chlorine_water"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert\" title=\"Over 60 dead in Kenya cholera outbreak, state issues alert\">Over 60 dead in Kenya cholera outbreak, state issues alert</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Louisiana_locked_down;_New_Orleans_could_become_a_%22toxic_soup%22\" title=\"Louisiana locked down; New Orleans could become a &quot;toxic soup&quot;\">Louisiana locked down; New Orleans could become a &quot;toxic soup&quot;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Airport_evacuated_in_%27liquid_bomb%27_scare\" title=\"US Airport evacuated in &#39;liquid bomb&#39; scare\">US Airport evacuated in &#39;liquid bomb&#39; scare</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Lebanon_faces_humanitarian_crisis\" title=\"Lebanon faces humanitarian crisis\">Lebanon faces humanitarian crisis</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Buffalo,_New_York_warehouse_fire_injures_12_firefighters\" title=\"Buffalo, New York warehouse fire injures 12 firefighters\">Buffalo, New York warehouse fire injures 12 firefighters</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471630,
+   "book" : [],
+   "micro-www" : {
+      "chlorine_water" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Organic reactions",
+         "Inorganic reactions",
+         "Halogens"
+      ],
+      "text" : ":\"Fluorination\",\"Chlorination\" redirect here. For the addition of fluoride to\n:drinking water, see [[water fluoridation]].:For the addition of chloride to\n:drinking water, see [[water chlorination]].\n'Halogenation' is a chemical reaction that involves the reaction of a compound,\nusually an organic compound, with a halogen. 'Dehalogenation' is the reverse,\nthe removal of a halogen from a molecule.<ref name=Patai>Yoel Sasson \"Formation\nof Carbon–Halogen Bonds (Cl, Br, I)\" in Patai's Chemistry of Functional Groups,\n2009, Wiley-VCH, Weinheim. </ref> The pathway and stoichiometry of halogenation\ndepends on the structural features and functional groups of the organic\nsubstrate as well as the halogen. Inorganic compounds, for example. metals, also\nundergo halogenation.\n",
+      "title" : "Halogenation",
+      "headings" : [
+         "Halogenation of organic compounds: Kinds of reactions",
+         "Halogenation of organic compounds: classification by halogen",
+         "Inorganic chemistry",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "3: Hydrogen_chloride",
+      "2: Free_radical_halogenation",
+      "2: Fluorine",
+      "2: 1,2-dichloroethane",
+      "2: Oxygen",
+      "2: Bromoperoxidase",
+      "1: Chemical_reaction",
+      "1: Organic_compound",
+      "1: Halogen",
+      "1: Ketone_halogenation",
+      "1: Electrophilic_halogenation",
+      "1: Halogen_addition_reaction",
+      "1: Alkenes",
+      "1: Alkynes",
+      "1: Halonium_ion",
+      "1: Chlorine",
+      "1: Electrophilic",
+      "1: Bromine",
+      "1: Iodine",
+      "1: Hunsdiecker_reaction",
+      "1: Sandmeyer_reaction",
+      "1: Diazonium_salt",
+      "1: Aniline",
+      "1: HellâVolhardâZelinsky_halogenation",
+      "1: Hydrogen_fluoride",
+      "1: Electrochemical_fluorination",
+      "1: Reagent",
+      "1: Xenon_difluoride",
+      "1: Exothermic",
+      "1: PVC",
+      "1: Oxychlorination",
+      "1: Catalyst_support",
+      "1: Alumina",
+      "1: Diatomaceous_earth",
+      "1: Pumice",
+      "1: Vinyl_chloride",
+      "1: Organobromine_compound",
+      "1: Organic_synthesis",
+      "1: Halothane",
+      "1: Trichloroethylene",
+      "1: Iodine_number",
+      "1: Fat",
+      "1: Iodoform_reaction",
+      "1: Gold",
+      "1: Phosphorus_trichloride",
+      "1: Sulfur_monochloride",
+      "1: Haloalkane",
+      "1: Halogenoarene",
+      "1: Haloketone",
+      "1: Electrophilic_substitution"
+   ]
+}

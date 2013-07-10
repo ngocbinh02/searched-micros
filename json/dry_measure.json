@@ -1,0 +1,85 @@
+{
+   "micrownet" : [
+      "dry_measure"
+   ],
+   "duck" : [
+      "HASH(0x4d07068)",
+      "HASH(0x4d05368)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NASA_detects_dry,_dusty_atmospheres_on_extrasolar_planets\" title=\"NASA detects dry, dusty atmospheres on extrasolar planets\">NASA detects <span class=\"searchmatch\">dry</span>, dusty atmospheres on extrasolar planets</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Demand_for_biofuel_irrigation_worsens_global_water_crisis\" title=\"Demand for biofuel irrigation worsens global water crisis\">Demand for biofuel irrigation worsens global water crisis</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Climate_change_impacts_Wyoming\" title=\"Climate change impacts Wyoming\">Climate change impacts Wyoming</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Nine_dead_and_more_than_70_injured_after_bridge_collapses_in_Peru\" title=\"Nine dead and more than 70 injured after bridge collapses in Peru\">Nine dead and more than 70 injured after bridge collapses in Peru</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Allegations_President_Bush_staged_photo-ops_in_aftermath_of_Hurricane_Katrina_tragedy\" title=\"Allegations President Bush staged photo-ops in aftermath of Hurricane Katrina tragedy\">Allegations President Bush staged photo-ops in aftermath of Hurricane Katrina tragedy</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Police_in_Britain_uncover_suspected_terrorist_plot\" title=\"Police in Britain uncover suspected terrorist plot\">Police in Britain uncover suspected terrorist plot</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:June_4,_2010\" title=\"News briefs:June 4, 2010\">News briefs:June 4, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:July_14,_2010\" title=\"News briefs:July 14, 2010\">News briefs:July 14, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Lobby_groups_oppose_plans_for_EU_copyright_extension\" title=\"Lobby groups oppose plans for EU copyright extension\">Lobby groups oppose plans for EU copyright extension</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Taliban_resurgent_in_Pakistan_on_enforcement_of_Sharia_law/Interview_archive\" title=\"Taliban resurgent in Pakistan on enforcement of Sharia law/Interview archive\">Taliban resurgent in Pakistan on enforcement of Sharia law/Interview archive</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373463208,
+   "book" : [],
+   "micro-www" : {
+      "dry_measure" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Units of volume"
+      ],
+      "text" : "\n'Dry measures' are units of volume used to measure bulk commodities which are\nnot gas or liquid. They are typically used in agriculture, agronomy, and\ncommodity markets to measure grain, dried beans, and dried and fresh fruit (e.g.\na peck of apples is a retail unit); formerly also salt pork and fish. They are\nalso used in fishing for clams, crabs, etc. and formerly for many other\nsubstances (e.g. coal, cement, lime) which were typically shipped and delivered\nin a standardized container such as a barrel.\n\nThey are often confused or conflated with units of mass, assuming a nominal\ndensity, and indeed many units nominally of dry measure have become standardized\nas units of mass (see bushel).\n",
+      "title" : "dry measure",
+      "headings" : [
+         "Metric units",
+         "Imperial and U.S. customary units",
+         "Struck and heaped measurement"
+      ]
+   },
+   "micro-relation" : [
+      "3: Peck",
+      "3: Bushel",
+      "2: Commodity_markets",
+      "2: Gallon",
+      "2: Quart",
+      "1: Units_of_measure",
+      "1: Volume",
+      "1: Bulk_commodities",
+      "1: Gas",
+      "1: Liquid",
+      "1: Agriculture",
+      "1: Agronomy",
+      "1: Grain",
+      "1: Bean",
+      "1: Pork",
+      "1: Fish",
+      "1: Fishing",
+      "1: Clam",
+      "1: Crab",
+      "1: Mass",
+      "1: Density",
+      "1: Metric_system",
+      "1: Stere",
+      "1: SI",
+      "1: Liter",
+      "1: Cubic_meter",
+      "1: Firewood",
+      "1: U.S._customary_units",
+      "1: Hogshead",
+      "1: Pint",
+      "1: Imperial_units",
+      "1: Ton",
+      "1: Tonnage",
+      "1: Cooking",
+      "1: Tablespoon",
+      "1: Teaspoon"
+   ]
+}

@@ -1,0 +1,105 @@
+{
+   "micrownet" : [
+      "adventitious_root"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373470450,
+   "book" : [],
+   "micro-www" : {
+      "adventitious_root" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Botany",
+         "Horticulture and gardening",
+         "Plant physiology",
+         "Medical terminology",
+         "Legal terms",
+         "Plant reproduction",
+         "Plants",
+         "Agriculture"
+      ],
+      "text" : "\n'Adventitious' has various meanings in various disciplines and in general usage.\n\nAdventitious is from the Latin root advenire, meaning \"to come or be superadded\"\nand in correct English the meanings tend to have connections to accidental or\ncasual occurrence. \"...of the nature of an addition from without; supervenient,\naccidental, casual.<ref name=\"isbn0-19-861271-0\"></ref>\n\nPeople sometimes speak of an event or occurrence as being \"random\", when the\nword \"adventitious\", or perhaps \"accidental\", might be more strictly correct.\n",
+      "title" : "Adventitiousness",
+      "headings" : [
+         "Botany",
+         "Law",
+         "Medicine",
+         "Agriculture",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Bud",
+      "2: Shoot",
+      "2: Vegetative_reproduction",
+      "1: Random",
+      "1: Accidental",
+      "1: Botany",
+      "1: Root",
+      "1: Vascular_plant",
+      "1: Apical_meristem",
+      "1: Secondary_growth",
+      "1: Pruning",
+      "1: Sequoia_sempervirens",
+      "1: Basal_shoot",
+      "1: Species",
+      "1: Quaking_aspen",
+      "1: Canada_thistle",
+      "1: Cloning",
+      "1: Coppicing",
+      "1: Tree",
+      "1: Biomass",
+      "1: Poplar",
+      "1: Riparian",
+      "1: Cutting",
+      "1: Xylem",
+      "1: Phloem",
+      "1: Parenchyma",
+      "1: Vascular_bundle",
+      "1: Vascular_cambium",
+      "1: Callus",
+      "1: Sweet_Potato",
+      "1: Asparagus",
+      "1: Dahlia",
+      "1: Turmeric",
+      "1: Maize",
+      "1: Sugarcane",
+      "1: Banyan",
+      "1: Money_plant",
+      "1: Layering",
+      "1: Plant_tissue_culture",
+      "1: Plant_hormones",
+      "1: Auxin",
+      "1: Leaf",
+      "1: African_violet",
+      "1: Sedum",
+      "1: Poinsettia",
+      "1: Coleus",
+      "1: Horseradish",
+      "1: Apple",
+      "1: Air_layering",
+      "1: Medicine",
+      "1: Adventitia",
+      "1: Auscultation",
+      "1: Harvesting",
+      "1: Food_storage",
+      "1: Food_grain",
+      "1: Seed",
+      "1: Food_processing",
+      "1: Weed",
+      "1: Biotechnology",
+      "1: Genetic_engineering",
+      "1: European_Union"
+   ]
+}

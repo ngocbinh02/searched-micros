@@ -1,0 +1,105 @@
+{
+   "micrownet" : [
+      "card_trick",
+      "confidence_trick",
+      "conjuring_trick",
+      "dirty_trick",
+      "hat_trick",
+      "magic_trick",
+      "play_a_trick_on",
+      "play_tricks",
+      "trick",
+      "trick_or_treat",
+      "trick_out",
+      "trick_up",
+      "tricked-out",
+      "tricker",
+      "trickery",
+      "trickiness",
+      "trickle",
+      "trickster",
+      "tricksy",
+      "tricky",
+      "turn_a_trick"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Confidence_trick\">Confidence trick</a>, a trick performed by a con artist",
+      "Trick",
+      "http://www.merriam-webster.com/dictionary/trick",
+      "trick definition: a crafty procedure or practice meant to deceive or defraud.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Hat-trick\">Hat-trick</a>, in sports, succeeding at anything three times in three consecutive attempts",
+      "\n<a href=\"http://duckduckgo.com/Trick_Daddy\">Trick Daddy</a> (born 1973), American rapper and producer",
+      "trick es una modalidad de lo conocido como acrobacias en el aire extremas y de mucha dificultad, se necesitan años de practica, dicha modalidad se centra en trucos de giros de manera vertical y horizontal con aveces alguno giros intermedios."
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK%27s_Greater_Manchester_Police_charge_man_with_drug_possession_after_trick-or-treating_children_allegedly_given_cocaine\" title=\"UK&#39;s Greater Manchester Police charge man with drug possession after trick-or-treating children allegedly given cocaine\">UK&#39;s Greater Manchester Police charge man with drug possession after <span class=\"searchmatch\">trick-</span>or-treating children allegedly given cocaine</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Football:_Crouch_hat-trick_lifts_Liverpool_to_victory\" title=\"Football: Crouch hat-trick lifts Liverpool to victory\">Football: Crouch hat-<span class=\"searchmatch\">trick</span> lifts Liverpool to victory</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Peter_Forsberg_scores_two_in_win_over_the_Boston_Bruins\" title=\"Peter Forsberg scores two in win over the Boston Bruins\">Peter Forsberg scores two in win over the Boston Bruins</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Peter_Forsberg_nets_first_hat_trick_as_a_Flyer\" title=\"Peter Forsberg nets first hat trick as a Flyer\">Peter Forsberg nets first hat <span class=\"searchmatch\">trick</span> as a Flyer</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Cape_Town_charges_Frontline_Fellowship_pastor_with_Halloween_paintball_assault\" title=\"Cape Town charges Frontline Fellowship pastor with Halloween paintball assault\">Cape Town charges Frontline Fellowship pastor with Halloween paintball assault</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Cape_Town_Frontline_Fellowship_pastor_accused_of_assault_for_shooting_trick-or-treaters_with_paintball\" title=\"Cape Town Frontline Fellowship pastor accused of assault for shooting trick-or-treaters with paintball\"> pastor accused of assault for shooting <span class=\"searchmatch\">trick-</span>or-treaters with paintball</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/South_African_Vipers_win_Singapore_Rugby_Sevens\" title=\"South African Vipers win Singapore Rugby Sevens\">South African Vipers win Singapore Rugby Sevens</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Three_masked_men_shoot_a_man_on_Halloween_night\" title=\"Three masked men shoot a man on Halloween night\">Three masked men shoot a man on Halloween night</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2007_Rugby_World_Cup:_Scotland_42_-_0_Romania\" title=\"2007 Rugby World Cup: Scotland 42 - 0 Romania\">2007 Rugby World Cup: Scotland 42 - 0 Romania</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Google_removes_German_BMW_from_search_results\" title=\"Google removes German BMW from search results\">Google removes German BMW from search results</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/California_judge_disqualified_from_predatory_lending_case\" title=\"California judge disqualified from predatory lending case\">California judge disqualified from predatory lending case</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Miami_of_Ohio_and_Boston_College_advance_to_2010_NCAA_men%27s_ice_hockey_Frozen_Four\" title=\"Miami of Ohio and Boston College advance to 2010 NCAA men&#39;s ice hockey Frozen Four\">Miami of Ohio and Boston College advance to 2010 NCAA men&#39;s ice hockey Frozen Four</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canadian_National_Exhibition_takes_place_in_Toronto\" title=\"Canadian National Exhibition takes place in Toronto\">Canadian National Exhibition takes place in Toronto</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ice_Hockey:_Detroit_Red_Wings_beat_San_Jose_Sharks_7-1_in_fourth_NHL_quarter_final_match\" title=\"Ice Hockey: Detroit Red Wings beat San Jose Sharks 7-1 in fourth NHL quarter final match\">Ice Hockey: Detroit Red Wings beat San Jose Sharks 7-1 in fourth NHL quarter final match</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Invitational_Games_for_the_Deaf,_Taipei_2008%27:_Review_of_soccer_preliminaries\" title=\"&#39;Invitational Games for the Deaf, Taipei 2008&#39;: Review of soccer preliminaries\">&#39;Invitational Games for the Deaf, Taipei 2008&#39;: Review of soccer preliminaries</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Expelled%27_producers_accused_of_copyright_violations\" title=\"&#39;Expelled&#39; producers accused of copyright violations\">&#39;Expelled&#39; producers accused of copyright violations</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Salon:_Rumsfeld_allowed_Guantanamo_abuse\" title=\"Salon: Rumsfeld allowed Guantanamo abuse\">Salon: Rumsfeld allowed Guantanamo abuse</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_National_Archives_release_Loans_Affair_documents\" title=\"Australian National Archives release Loans Affair documents\">Australian National Archives release Loans Affair documents</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Continuing_controversy_surrounds_German_mission_to_Middle_East\" title=\"Continuing controversy surrounds German mission to Middle East\">Continuing controversy surrounds German mission to Middle East</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UEFA_Champions_League:_Liverpool_defeat_PSV_3-0_in_Holland\" title=\"UEFA Champions League: Liverpool defeat PSV 3-0 in Holland\">UEFA Champions League: Liverpool defeat PSV 3-0 in Holland</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471255,
+   "book" : [],
+   "micro-www" : {
+      "trick" : [
+         "Trick-or-treating",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Trick' may refer to:\n",
+      "title" : "trick",
+      "headings" : [
+         "Arts and entertainment",
+         "Sports and games",
+         "Other uses",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Trick-Trick",
+      "1: Stephanie_Trick",
+      "1: Trick_Daddy",
+      "1: Stop_trick",
+      "1: Martial_arts",
+      "1: Acro_dance",
+      "1: Skateboarding_trick",
+      "1: Hat-trick",
+      "1: Trick-taking_game",
+      "1: Trick_shot",
+      "1: Trick_McSorley",
+      "1: Armon_Trick",
+      "1: Marcus_Trick",
+      "1: Stanley_Arthur_Trick",
+      "1: Confidence_trick",
+      "1: Prostitution",
+      "1: Computer_programming",
+      "1: David_Trick",
+      "1: Trichomoniasis",
+      "1: Trick-or-treating"
+   ]
+}

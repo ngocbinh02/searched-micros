@@ -1,0 +1,82 @@
+{
+   "micrownet" : [
+      "hydroiodic_acid"
+   ],
+   "duck" : [
+      "HASH(0x4cfdb18)",
+      "HASH(0x4ce3da0)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464359,
+   "book" : [],
+   "micro-www" : {
+      "hydroiodic_acid" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Hydrogen compounds",
+         "Iodides",
+         "Acids",
+         "Nonmetal halides"
+      ],
+      "text" : "{{Chembox\n| Verifiedfields = changed Watchedfields = changed verifiedrevid = 476997786\n| Name = Hydrogen iodide ImageFile = Hydrogen-iodide-2D-dimensions.png\n<!-- | ImageSize = 120px -->\n|   ImageName = Hydrogen iodide ImageFile1 = Hydrogen-iodide-3D-vdW.svg\n<!-- | ImageSize1 = 150px -->\n|   ImageName1 = Hydrogen iodide IUPACName = Hydrogen iodide OtherNames =\n|   hydroiodic acid\n<!-- | Name = Thermodynamic Data -->\n| Section1 = {{Chembox Identifiers CASNo_Ref = CASNo = 10034-85-2 RTECS =\n| MW3760000\n  }}\n| Section2 = {{Chembox Properties Formula = HI MolarMass = 127.904 g/mol\n| Appearance = Colorless gas Density = 2.85 g/mL (-47 °C) MeltingPt = –50.80 °C\n| (184.55 K) BoilingPt = –35.36 °C (237.79 K) Solubility in water =\n| approximately 245 g/ml pKa = –10\n  }}\n| Section3 = {{Chembox Structure MolShape = Terminus Dipole = 0.38 D\n  }}\n| Section7 = {{Chembox Hazards ExternalMSDS =\n| [http://www.camd.lsu.edu/msds/h/hydrogen_iodide.htm hydrogen iodide]<br />\n| [http://ptcl.chem.ox.ac.uk/MSDS/HY/hydroiodic_acid.html hydroiodic acid]\n| MainHazards = Toxic, corrosive. NFPA-H = 3 NFPA-F = NFPA-R = 1 NFPA-O = COR\n| FlashPt = Non-flammable. RPhrases = , , , SPhrases = , , ,\n  }}\n| Section8 = {{Chembox Other OtherAnions = Fluoride<br />Chloride<br />Bromide}}\n}}\n\n'Hydrogen iodide' (HI) is a diatomic molecule. Aqueous solutions of HI are known\nas 'hydroiodic acid' or 'hydriodic acid', a strong acid. Hydrogen iodide and\nhydroiodic acid are, however, different in that the former is a gas under\nstandard conditions; whereas, the other is an aqueous solution of said gas. They\nare interconvertible. HI is used in organic and inorganic synthesis as one of\nthe primary sources of iodine and as a reducing agent.\n",
+      "title" : "hydrogen%20iodide",
+      "headings" : [
+         "Properties of hydrogen iodide",
+         "Preparation",
+         "Key reactions and applications",
+         "Illicit Use of Hydroiodic Acid",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "3: Acid_dissociation_constant",
+      "2: Phosphorus_triiodide",
+      "1: Debye",
+      "1: Fluoride",
+      "1: Chloride",
+      "1: Bromide",
+      "1: Diatomic_molecule",
+      "1: Strong_acid",
+      "1: Organic_synthesis",
+      "1: Inorganic_chemistry#Synthetic_inorganic_chemistry",
+      "1: Iodine",
+      "1: Reducing_agent",
+      "1: Azeotrope",
+      "1: Iodide",
+      "1: Proton",
+      "1: Dissociate",
+      "1: Hydrazine",
+      "1: Nitrogen",
+      "1: Distillation",
+      "1: Sodium_iodide",
+      "1: Phosphoric_acid",
+      "1: Sulfuric_acid",
+      "1: Hydrogen_sulfide",
+      "1: Dissociation_energy",
+      "1: Hydrolysis",
+      "1: Phosphorus_tribromide",
+      "1: Phosphorus",
+      "1: Phosphorous_acid",
+      "1: Alkenes",
+      "1: Primary_alcohols",
+      "1: Alkyl_halides",
+      "1: Ethers",
+      "1: Diethyl_ether",
+      "1: Steric_effects",
+      "1: Markovnikov's_rule",
+      "1: DEA_list_of_chemicals",
+      "1: Methamphetamine",
+      "1: Pseudoephedrine"
+   ]
+}

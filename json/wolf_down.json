@@ -1,0 +1,37 @@
+{
+   "micrownet" : [
+      "wolf_down"
+   ],
+   "duck" : [
+      "HASH(0x4bbdf18)",
+      "HASH(0x4ab8f78)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/EU_awards_partial_victory_to_Finland_over_wolf_hunting_case\" title=\"EU awards partial victory to Finland over wolf hunting case\">EU awards partial victory to Finland over <span class=\"searchmatch\">wolf</span> hunting case</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Athletics_concludes_at_London_Paralympics_with_the_marathon\" title=\"Athletics concludes at London Paralympics with the marathon\">Athletics concludes at London Paralympics with the marathon</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/On_the_campaign_trail,_August_2012\" title=\"On the campaign trail, August 2012\">On the campaign trail, August 2012</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/China_shoots_down_weather_satellite_with_ballistic_missile\" title=\"China shoots down weather satellite with ballistic missile\">China shoots down weather satellite with ballistic missile</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Seventh_Guantanamo_Prosecutor_resigns_over_ethical_issues\" title=\"Seventh Guantanamo Prosecutor resigns over ethical issues\">Seventh Guantanamo Prosecutor resigns over ethical issues</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Augusten_Burroughs_on_addiction,_writing,_his_family_and_his_new_book\" title=\"Augusten Burroughs on addiction, writing, his family and his new book\">Augusten Burroughs on addiction, writing, his family and his new book</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Augusten_Burroughs_on_addiction,_writing,_his_family_and_his_new_book#On_his_new_book.2C_A_Wolf_at_the_Table.2C_a_memoir_about_his_father\" title=\"Augusten Burroughs on addiction, writing, his family and his new book\">On his new book, A <span class=\"searchmatch\">Wolf</span> at the Table, a memoir about his father</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/On_the_campaign_trail,_June_2012\" title=\"On the campaign trail, June 2012\">On the campaign trail, June 2012</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:January_4,_2007\" title=\"News briefs:January 4, 2007\">News briefs:January 4, 2007</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UEFA_Cup_2007%E2%80%9308:_N%C3%BCrnberg_vs._Everton\" title=\"UEFA Cup 2007–08: Nürnberg vs. Everton\">UEFA Cup 2007–08: Nürnberg vs. Everton</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:April_30,_2010\" title=\"News briefs:April 30, 2010\">News briefs:April 30, 2010</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464917,
+   "book" : [],
+   "micro-www" : {
+      "wolf_down" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

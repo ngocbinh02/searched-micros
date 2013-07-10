@@ -1,0 +1,94 @@
+{
+   "micrownet" : [
+      "common_multiple",
+      "least_common_multiple",
+      "lowest_common_multiple"
+   ],
+   "duck" : [
+      "HASH(0x4b445d0)",
+      "HASH(0x4b1f188)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Global_study_dispels_some_myths_about_sexual_behaviour\" title=\"Global study dispels some myths about sexual behaviour\">Global study dispels some myths about sexual behaviour</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Vitamin_D_deficiency_more_common,_serious,_than_thought\" title=\"Vitamin D deficiency more common, serious, than thought\">Vitamin D deficiency more <span class=\"searchmatch\">common</span>, serious, than thought</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pirates_capture_Saudi_oil_tanker\" title=\"Pirates capture Saudi oil tanker\">Pirates capture Saudi oil tanker</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Taliban_raids_Pakistan_prison,_384_escape\" title=\"Taliban raids Pakistan prison, 384 escape\">Taliban raids Pakistan prison, 384 escape</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/CPSC,_ATF_warn_of_dangers_of_fireworks_over_US_Independence_Day_celebrations\" title=\"CPSC, ATF warn of dangers of fireworks over US Independence Day celebrations\">CPSC, ATF warn of dangers of fireworks over US Independence Day celebrations</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_lawsuit_challenges_church_as_polling_place\" title=\"US lawsuit challenges church as polling place\">US lawsuit challenges church as polling place</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ontario_Votes_2007:_Interview_with_Green_Party_candidate_Lloyd_Helferty,_Thornhill\" title=\"Ontario Votes 2007: Interview with Green Party candidate Lloyd Helferty, Thornhill\">Ontario Votes 2007: Interview with Green Party candidate Lloyd Helferty, Thornhill</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_nuclear_power_plants_rejected_by_states\" title=\"Australian nuclear power plants rejected by states\">Australian nuclear power plants rejected by states</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Fascinating%27_and_%27provocative%27_research_examines_genetic_elements_of_bipolar,_schizophrenia\" title=\"&#39;Fascinating&#39; and &#39;provocative&#39; research examines genetic elements of bipolar, schizophrenia\">&#39;Fascinating&#39; and &#39;provocative&#39; research examines genetic elements of bipolar, schizophrenia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/FAA:_Jets_at_New_York_airport_directed_by_child\" title=\"FAA: Jets at New York airport directed by child\">FAA: Jets at New York airport directed by child</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._drones_enter_Libya_conflict\" title=\"U.S. drones enter Libya conflict\">U.S. drones enter Libya conflict</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/40_million_credit_cards_compromised\" title=\"40 million credit cards compromised\">40 million credit cards compromised</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Author_Amy_Scobee_recounts_abuse_as_Scientology_executive\" title=\"Author Amy Scobee recounts abuse as Scientology executive\">Author Amy Scobee recounts abuse as Scientology executive</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Strongest_earthquake_in_40_years_hits_Southeast_Asia\" title=\"Strongest earthquake in 40 years hits Southeast Asia\">Strongest earthquake in 40 years hits Southeast Asia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Cypriot_court_clears_all_of_wrongdoing_in_Greek_air_disaster\" title=\"Cypriot court clears all of wrongdoing in Greek air disaster\">Cypriot court clears all of wrongdoing in Greek air disaster</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._issues_travel_alert_for_Europe_amidst_fears_of_Al_Qaeda_attack\" title=\"U.S. issues travel alert for Europe amidst fears of Al Qaeda attack\">U.S. issues travel alert for Europe amidst fears of Al Qaeda attack</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_book_Blown_for_Good_reveals_details_inside_Scientology_headquarters\" title=\"New book Blown for Good reveals details inside Scientology headquarters\">New book Blown for Good reveals details inside Scientology headquarters</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canada%27s_Parkdale%E2%80%94High_Park_(Ward_13)_city_council_candidates_speak\" title=\"Canada&#39;s Parkdale—High Park (Ward 13) city council candidates speak\">Canada&#39;s Parkdale—High Park (Ward 13) city council candidates speak</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464795,
+   "book" : [],
+   "micro-www" : {
+      "common_multiple" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Elementary arithmetic",
+         "Arithmetic"
+      ],
+      "text" : "\n\nIn arithmetic and number theory, the 'least common multiple' (also called the\n'lowest common multiple' or 'smallest common multiple') of two integers a and b,\nusually denoted by 'LCM(a,b)', is the smallest positive integer that is\ndivisible by both a and b.<ref>Hardy & Wright, � 5.1, p. 48</ref> If either a or\nb is 0, LCM(a,&nbsp;b) is defined to be zero.\n\nThe LCM is familiar from grade-school arithmetic as the \"least common\ndenominator\" (LCD) that must be determined before fractions can be added,\nsubtracted or compared.\n\nThe LCM of more than two integers is also well-defined: it is the smallest\ninteger that is divisible by each of them.\n",
+      "title" : "least%20common%20multiple",
+      "headings" : [
+         "Overview",
+         "Computing the least common multiple",
+         "Formulas",
+         "The LCM in commutative rings",
+         "See also",
+         "Notes",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "3: Greatest_common_divisor",
+      "2: Lowest_common_denominator",
+      "2: Fundamental_theorem_of_arithmetic",
+      "2: Prime_number",
+      "1: Arithmetic",
+      "1: Number_theory",
+      "1: Integer",
+      "1: Divisible",
+      "1: Vulgar_fraction",
+      "1: Algorithm",
+      "1: Euclidean_algorithm",
+      "1: Composite_number",
+      "1: Integer_factorization",
+      "1: Venn_diagram",
+      "1: Prime_factorization",
+      "1: Partially_ordered",
+      "1: Commutative_operation",
+      "1: Associativity",
+      "1: Absorption_law",
+      "1: Idempotent",
+      "1: Distributive_lattice",
+      "1: Squarefree",
+      "1: Commutative_ring",
+      "1: Unique_factorization_domain",
+      "1: Principal_ideal_domain",
+      "1: Anomalous_cancellation",
+      "1: Chebyshev_function",
+      "1: Springer_Science+Business_Media",
+      "1: Oxford_University_Press"
+   ]
+}

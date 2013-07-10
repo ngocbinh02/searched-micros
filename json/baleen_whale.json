@@ -1,0 +1,89 @@
+{
+   "micrownet" : [
+      "baleen_whale"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373468061,
+   "book" : [],
+   "micro-www" : {
+      "baleen_whale" : [
+         "Baleen_whales",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Baleen whales|"
+      ],
+      "text" : "{{stack| {{Taxobox\n| name = Baleen whales<ref name=msw3></ref> fossil_range = latest Eocene –\n| Recent image = Humpback stellwagen edit.jpg image_caption = Humpback whale\n| breaching regnum = Animalia phylum = Chordata classis = Mammalia ordo =\n| Cetacea subordo = 'Mysticeti' subordo_authority = Cope, 1891 subdivision_ranks\n| = Families subdivision = see text\n}}\n\n}} The 'baleen [[whale]]s', also called 'whalebone whales' or 'great whales',\nform the 'Mysticeti', one of two suborders of the Cetacea (whales, dolphins, and\nporpoises). Baleen whales are characterized by having baleen plates for\nfiltering food from water, rather than having teeth. This distinguishes them\nfrom the other suborder of cetaceans, the toothed whales or Odontoceti. Living\nspecies of Mysticeti have teeth only during the embryonal phase. Fossil\nMysticeti had teeth before baleen evolved.\n\nThe suborder contains four extant families and 15 species.\n",
+      "title" : "baleen whale",
+      "headings" : [
+         "Etymology",
+         "Anatomy",
+         "Ecology and life history",
+         "Importance to humans",
+         "Evolutionary history",
+         "Taxonomic classification",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "3: Eocene",
+      "2: Humpback_whale",
+      "2: Cetacea",
+      "2: Oligocene",
+      "2: Bowhead_whale",
+      "1: Animal",
+      "1: Chordate",
+      "1: Mammal",
+      "1: Edward_Drinker_Cope",
+      "1: Whales",
+      "1: Dolphins",
+      "1: Porpoises",
+      "1: Baleen",
+      "1: Teeth",
+      "1: Toothed_whale",
+      "1: Embryo",
+      "1: Species",
+      "1: Aristotle",
+      "1: Blue_whale",
+      "1: Fin",
+      "1: Margarine",
+      "1: Corset",
+      "1: Parasol",
+      "1: Toothed_whales",
+      "1: Douglas_Emlong",
+      "1: Seal_Rock_State_Recreation_Site",
+      "1: Oregon",
+      "1: Sandstone",
+      "1: Australia",
+      "1: Fish",
+      "1: Squid",
+      "1: Shark",
+      "1: Dolphin",
+      "1: Extinction",
+      "1: Aetiocetidae",
+      "1: Aglaocetidae",
+      "1: Balaenidae",
+      "1: Right_whale",
+      "1: Balaenopteridae",
+      "1: Cetotheriidae",
+      "1: Pygmy_right_whale",
+      "1: Cetotheriopsidae",
+      "1: Diorocetidae",
+      "1: Eomysticetidae",
+      "1: Eschrichtiidae",
+      "1: Gray_whale",
+      "1: Llanocetidae",
+      "1: Mammalodontidae",
+      "1: Pelocetidae"
+   ]
+}

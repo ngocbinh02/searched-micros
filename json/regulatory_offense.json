@@ -1,0 +1,51 @@
+{
+   "micrownet" : [
+      "regulatory_offense"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471193,
+   "book" : [],
+   "micro-www" : {
+      "regulatory_offense" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Criminal law",
+         "Family law"
+      ],
+      "text" : "Two common definitions of a 'status offense' or 'status crime' are\n\n1. A 'status offense' is an action that is prohibited only to a certain class of\n   people, and most often applied to offenses only committed by minors.\n\n2. In the United States, the term 'status offense' refers to an offense such as\n   a traffic violation where motive is not a consideration in determining guilt.\n   In the United Kingdom and Europe, this type of status offense may be termed a\n   regulatory offense.\n",
+      "title" : "Status%20offense",
+      "headings" : [
+         "Usage",
+         "Examples",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Regulatory_offences",
+      "1: Federal_Sentencing_Guidelines",
+      "1: Juvenile_delinquent",
+      "1: Legal_drinking_age",
+      "1: Tobacco_smoking",
+      "1: Truancy",
+      "1: Runaway_youth",
+      "1: Firearm",
+      "1: Felony",
+      "1: Toilet",
+      "1: Curfew",
+      "1: Person_In_Need_of_Supervision",
+      "1: Quasi-criminal",
+      "1: Youth_rights"
+   ]
+}

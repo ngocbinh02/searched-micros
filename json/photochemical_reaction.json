@@ -1,0 +1,58 @@
+{
+   "micrownet" : [
+      "photochemical_reaction"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373469743,
+   "book" : [],
+   "micro-www" : {
+      "photochemical_reaction" : [
+         "Photochemical_reaction",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Organic chemistry",
+         "Photochemistry"
+      ],
+      "text" : "'Mechanistic organic photochemistry' is that aspect of organic photochemistry\nwhich seeks to explain the mechanisms of organic photochemical reactions.<ref>P.\nKlán, J. Wirz [http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1405161736.html\nPhotochemistry of Organic Compounds: From Concepts to Practice]. Wiley,\nChichester, 2009, ISBN: 978-1405190886.</ref><ref>N. J. Turro, V. Ramamurthy, J.\nC. Scaiano [http://www.uscibooks.com/turro3.htm Modern Molecular Photochemistry\nof Organic Molecules]. University Science Books, Sausalito, 2010, ISBN 978-\n1891389252.</ref> The absorption of ultraviolet light by organic molecules very\noften leads to reactions. In the earliest days sunlight was employed while in\nmore modern times ultraviolet lamps are employed. Organic photochemistry has\nproven to be a very useful synthetic tool. Complex organic products can be\nobtained simply. Over the last century and earlier an immense number of\nphotochemical reactions have been uncovered. In modern times the field is quite\nwell understood and is used in organic synthesis and industrially. The utility\nof organic photochemistry has arisen only by virtue of the available mechanistic\ntreatment; reactions which appear unlikely in ground-state understanding become\nunderstandable and accessible in terms of electronic excited-state\nconsideration.\n",
+      "title" : "Mechanistic%20organic%20photochemistry",
+      "headings" : [
+         "History",
+         "4,4-Diphenylcyclohexadienone rearrangement",
+         "The contrasting case of 4,4-diphenylcyclohexenone, one double bond missing",
+         "Pi-pi* reactivity",
+         "Parallel studies on multiplicity; the role of triplets",
+         "Further on the subsequent years",
+         "Common organic photochemical reactions",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Zwitterion",
+      "2: Di-pi-methane_rearrangement",
+      "2: Norrish_reaction",
+      "1: Photochemistry#Organic_photochemistry",
+      "1: Derek_H._R._Barton",
+      "1: Rearrangement_reaction",
+      "1: Ground_state",
+      "1: Excited_state",
+      "1: Arrow_pushing",
+      "1: Hückel_method",
+      "1: Stereochemistry",
+      "1: Intersystem_crossing",
+      "1: Barrelene",
+      "1: Semibullvalene",
+      "1: Racemization",
+      "1: Electrocyclic_reaction"
+   ]
+}

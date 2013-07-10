@@ -1,0 +1,25 @@
+{
+   "micrownet" : [
+      "obstetrical_delivery"
+   ],
+   "duck" : [
+      "HASH(0x4bad700)",
+      "HASH(0x4b4e858)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465119,
+   "book" : [],
+   "micro-www" : {
+      "obstetrical_delivery" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

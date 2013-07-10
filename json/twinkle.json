@@ -1,0 +1,54 @@
+{
+   "micrownet" : [
+      "twinkle",
+      "twinkler"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Twinkle_Khanna\">Twinkle Khanna</a>, an Indian movie actress",
+      "https://en.wikipedia.org/wiki/Twinkle",
+      "HASH(0x495d060)",
+      "Wikipedia",
+      "Twinkle",
+      "\n<a href=\"http://duckduckgo.com/Twinkle_Bajpai\">Twinkle Bajpai</a>, a female contestant in the reality show Sa Re Ga Ma Pa Challenge 2005",
+      "http://www.merriam-webster.com/dictionary/twinkle",
+      "twinkle definition: to shine with a flickering or sparkling light.",
+      "Merriam-Webster",
+      "HASH(0x4ebf288)",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Planets_Jupiter,_Mercury_and_Mars_line_up,_visible_to_naked_eye\" title=\"Planets Jupiter, Mercury and Mars line up, visible to naked eye\">Planets Jupiter, Mercury and Mars line up, visible to naked eye</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Matt_Smith_revealed_as_11th_incarnation_of_Doctor_Who\" title=\"Matt Smith revealed as 11th incarnation of Doctor Who\">Matt Smith revealed as 11th incarnation of Doctor Who</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373463753,
+   "book" : [],
+   "micro-www" : {
+      "twinkle" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Twinkle' may refer to one of the following.\n\n* Twinkle, the common name for scintillation (astronomy), the variation of\n  brightness of distant objects\n\n'People':\n* Twinkle (singer), a British pop singer in the 1960s\n* Twinkle Khanna, an Indian movie actress\n* Twinkle Bajpai, a female contestant in the reality show Sa Re Ga Ma Pa\n  Challenge 2005\n\nIn 'science' and 'technology':\n* Twinkle (software), Qt-based VoIP soft phone for Linux\n* TWINKLE, a hypothetical integer factorization device\n* Twinkle (app), a Twitter-type client for the iPhone OS by Tapulous\n* PEO1, also called twinkle, a protein\n\nIn 'entertainment':\n* ''Twinkle'' (EP), EP by Girls' Generation sub-unit TaeTiSeo **\"Twinkle\"\n  (song), a song on the EP\n* \"Twinkle\", a pop song by Kumi Koda and Show Luo\n* ''Twinkle'' (comic), a British comic book, published 1968–1999\n* Twinkle, a character in the video game [[Puzzle Bobble 3]] (aka Bust-a-Move\n  99)\n* Twinkle, one of the cousins from [[We Love Katamari]] and Me & My Katamari\n* Twinkle, a character in Diana Wynne Jones's novel [[House of Many Ways]]\n* Twinkle, a recurring fictional character in the British sit-com\n  [[dinnerladies]]\n* Twinkle, a sword carried by R. A. Salvatore's character Drizzt Do'Urden\n* Twinkles, a cartoon elephant appearing in episodes of [[King Leonardo and His\n  Short Subjects]]\n",
+      "title" : "twinkle",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Twinkle_Khanna",
+      "1: Twinkle_Bajpai",
+      "1: TWINKLE",
+      "1: Twitter",
+      "1: PEO1",
+      "1: Girls'_Generation",
+      "1: TaeTiSeo",
+      "1: Kumi_Koda",
+      "1: Drizzt_Do'Urden"
+   ]
+}

@@ -1,0 +1,83 @@
+{
+   "micrownet" : [
+      "sameness"
+   ],
+   "duck" : [
+      "sameness",
+      "The quality or condition of being the same.",
+      "http://www.merriam-webster.com/dictionary/sameness",
+      "sameness definition: the quality or state of being the same.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_unsolved_problems_in_philosophy"
+   ],
+   "created" : 1373470483,
+   "book" : [],
+   "micro-www" : {
+      "sameness" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Identity|",
+         "Philosophical logic",
+         "Concepts in metaphysics",
+         "Concepts in logic"
+      ],
+      "text" : "In philosophy, 'identity', from (\"sameness\"), is the relation each thing bears\njust to itself.<ref>Stanford Encyclopedia of Philosophy:\n[http://plato.stanford.edu/entries/identity/ Identity], First published Wed Dec\n15, 2004; substantive revision Sun Oct 1, 2006.</ref><ref>The Cambridge\nDictionary of Philosophy, 2nd Edition, CUP: 1995</ref> The notion of identity\ngives rise to many philosophical problems, including the identity of\nindiscernibles (if x and y share all their properties, are they one and the same\nthing?), and questions about change and personal identity over time (what has to\nbe the case for a person x at one time and a person y at a later time to be one\nand the same person?).\n\nIt is important to distinguish the philosophical concept of identity from the\nmore well-known notion of identity in use in psychology and the social sciences.\nThe philosophical concept concerns a ''relation'', specifically, a relation that\nx and y stand in just in case they are one and the same thing, or identical to\neach other (i.e. just in case x = y). The sociological notion of identity, by\ncontrast, has to do with a person's self-conception, social presentation, and\nmore generally, the aspects of a person that make them unique, or qualitatively\ndifferent from others (e.g. cultural identity, gender identity, national\nIdentity, online identity and processes of identity formation.)\n",
+      "title" : "Identity%20%28philosophy%29",
+      "headings" : [
+         "Metaphysics of identity",
+         "See also",
+         "References",
+         "External references"
+      ]
+   },
+   "micro-relation" : [
+      "2: Identity_and_change",
+      "2: Cultural_identity",
+      "2: Online_identity",
+      "2: Hegel",
+      "2: Counterpart_theory",
+      "1: Philosophy",
+      "1: List_of_unsolved_problems_in_philosophy",
+      "1: Identity_of_indiscernibles",
+      "1: Personal_identity",
+      "1: Psychology",
+      "1: Social_science",
+      "1: Gender_identity",
+      "1: National_Identity",
+      "1: Identity_formation",
+      "1: Don_Quixote",
+      "1: Ship_of_Theseus",
+      "1: Law_of_identity",
+      "1: Classical_antiquity",
+      "1: Gottfried_Leibniz",
+      "1: If_and_only_if",
+      "1: Philosophy_of_mathematics",
+      "1: Predicate_calculus",
+      "1: Leibniz's_law",
+      "1: Mathematics",
+      "1: Trans-world_identity",
+      "1: Wittgenstein",
+      "1: Bertrand_Russell",
+      "1: Frege",
+      "1: On_Sense_and_Reference",
+      "1: C._J._F._Williams",
+      "1: Kai_Wehmeier",
+      "1: Nominal_identity",
+      "1: Digital_identity",
+      "1: Ethnic_identity",
+      "1: Social_identity",
+      "1: Identity_theft"
+   ]
+}

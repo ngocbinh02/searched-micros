@@ -1,0 +1,70 @@
+{
+   "micrownet" : [
+      "spf"
+   ],
+   "duck" : [
+      "SPF",
+      "http://www.merriam-webster.com/dictionary/spf",
+      "spf definition: sun protection factor.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Food_and_Drug_Administration_proposes_new_regulations_on_sunscreen_labeling\" title=\"US Food and Drug Administration proposes new regulations on sunscreen labeling\">US Food and Drug Administration proposes new regulations on sunscreen labeling</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Jemaah_Islamiyah_leader_Mas_Selamat_escapes_from_Singapore_prison\" title=\"Jemaah Islamiyah leader Mas Selamat escapes from Singapore prison\">Jemaah Islamiyah leader Mas Selamat escapes from Singapore prison</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373474584,
+   "book" : [],
+   "micro-www" : {
+      "spf" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'SPF' may refer to:\n",
+      "title" : "SPF",
+      "headings" : [
+         "Human rights",
+         "Science",
+         "Mathematics",
+         "Arts",
+         "Computing and telecommunications",
+         "Government and politics",
+         "Construction",
+         "Other"
+      ]
+   },
+   "micro-relation" : [
+      "1: Sydney_Peace_Foundation",
+      "1: Specific_Pathogen_Free",
+      "1: Supernatant_Protein_Factor",
+      "1: Superplastic_forming",
+      "1: Sun_protection_factor",
+      "1: Space_Power_Facility",
+      "1: Formal_spectrum_of_a_ring",
+      "1: Société_des_poètes_français",
+      "1: Summer_Play_Festival",
+      "1: Sender_Policy_Framework",
+      "1: Dijkstra's_algorithm",
+      "1: Single_point_of_failure",
+      "1: ISO_10303-21",
+      "1: Sunbelt_Personal_Firewall",
+      "1: ISPF",
+      "1: Security_Policy_Framework",
+      "1: Special_Police_Force",
+      "1: Singapore_Police_Force",
+      "1: South_Pacific_Forum",
+      "1: Special_Forces",
+      "1: Socialist_Party_of_Florida",
+      "1: Servicio_Penitenciario_Federal",
+      "1: Spruce-pine-fir",
+      "1: Black_Hills_Airport"
+   ]
+}

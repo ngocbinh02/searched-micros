@@ -1,0 +1,70 @@
+{
+   "micrownet" : [
+      "singular",
+      "singular_(vs._plural)",
+      "singular_form",
+      "singular_matrix",
+      "singularise",
+      "singularity",
+      "singularize"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Singular",
+      "HASH(0x1a5b0c8)",
+      "Wikipedia",
+      "Singular",
+      "\n<a href=\"http://duckduckgo.com/invertible_matrix\">Singular matrix</a>, a matrix that is not invertible",
+      "\n<a href=\"http://duckduckgo.com/Singular_homology\">Singular homology</a>",
+      "http://www.merriam-webster.com/dictionary/singular",
+      "singular definition: of or relating to a separate person or thing.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/SINGULAR\">SINGULAR</a>, an open source Computer Algebra System (CAS) - SINGULAR (typeset Singular) is a computer algebra system for polynomial computations with special emphasis on the needs of commutative algebra, algebraic geometry, and singularity theory.",
+      "HASH(0x49ff5c0)",
+      "\n<a href=\"http://duckduckgo.com/grammatical_number\">Singular number</a>, in grammar, a term for words denoting a unit quantity, as opposed to the plural and other forms",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Singular_measure\">Singular measure</a>, a measure or probability distribution whose support has zero Lebesgue (or other) measure"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Kennedy_Center_names_2007_honors_recipients\" title=\"Kennedy Center names 2007 honors recipients\">Kennedy Center names 2007 honors recipients</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_computer_scientist%27s_new_%22nullity%22_idea_provokes_reaction_from_mathematicians\" title=\"British computer scientist&#39;s new &quot;nullity&quot; idea provokes reaction from mathematicians\">British computer scientist&#39;s new &quot;nullity&quot; idea provokes reaction from mathematicians</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Al_Sharpton_speaks_out_on_race,_rights_and_what_bothers_him_about_his_critics\" title=\"Al Sharpton speaks out on race, rights and what bothers him about his critics\">Al Sharpton speaks out on race, rights and what bothers him about his critics</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464949,
+   "book" : [],
+   "micro-www" : {
+      "singular" : [
+         "singular",
+         "Singularity_theory",
+         "Singularity_Institute_for_Artificial_Intelligence",
+         "Singular_point_of_an_algebraic_variety",
+         "Singular_number",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Singular' may refer to:\n* Singular number, in grammar, a term for words denoting a unit quantity, as\n  opposed to the plural and other forms\n* Singular homology\n* SINGULAR, an open source Computer Algebra System (CAS)\n* A group of boar\n* Singular matrix, a matrix that is not invertible\n* Singular measure, a measure or probability distribution whose support has zero\n  Lebesgue (or other) measure\n* Singular cardinal, an infinite cardinal number that is not a regular cardinal\n* The property of a singularity or singular point in various meanings; see\n  Singularity (disambiguation)\n",
+      "title" : "singular",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Singular_number",
+      "1: Singular_homology",
+      "1: SINGULAR",
+      "1: Boar",
+      "1: Singular_matrix",
+      "1: Singular_measure",
+      "1: Cardinal_number",
+      "1: Montelukast",
+      "1: Cingular_Wireless"
+   ]
+}

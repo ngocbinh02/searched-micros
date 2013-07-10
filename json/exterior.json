@@ -1,0 +1,75 @@
+{
+   "micrownet" : [
+      "exterior",
+      "exterior_(vs._interior)",
+      "exterior_angle",
+      "exterior_door",
+      "exteriorisation",
+      "exteriorise",
+      "exteriorization",
+      "exteriorize"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/c/General_topology\">General topology</a>",
+      "\n<a href=\"http://duckduckgo.com/Jordan_curve_theorem\">Jordan curve theorem</a> -  The Jordan curve theorem asserts that every Jordan curve divides the plane into an \"interior\" region bounded by the curve and an \"exterior\" region containing all of the nearby and far away exte...",
+      "\n<a href=\"http://duckduckgo.com/Interior_(topology)\">Interior (topology)</a> - In mathematics, specifically in topology, the interior of a set S of points of a topological space consists of all points of S that do not belong to the boundary of S.",
+      "Exterior (topology)",
+      "In topology, the exterior of a subset S of a topological space X is the union of all open sets of X which are disjoint from S."
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_flight_from_Washington,_DC_diverted_after_man_reportedly_tries_to_open_door\" title=\"US flight from Washington, DC diverted after man reportedly tries to open door\">US flight from Washington, DC diverted after man reportedly tries to open door</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Homes_of_six_Minnesota_politicians_vandalized\" title=\"Homes of six Minnesota politicians vandalized\">Homes of six Minnesota politicians vandalized</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canadian_jail_inmates_used_nail_clippers_to_escape,_report_finds\" title=\"Canadian jail inmates used nail clippers to escape, report finds\">Canadian jail inmates used nail clippers to escape, report finds</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Space_station_crew_perform_successful_spacewalk\" title=\"Space station crew perform successful spacewalk\">Space station crew perform successful spacewalk</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Expedition_10_completes_first_spacewalk\" title=\"Expedition 10 completes first spacewalk\">Expedition 10 completes first spacewalk</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Crew_of_Discovery_inspect_Shuttle_for_launch_damage\" title=\"Crew of Discovery inspect Shuttle for launch damage\">Crew of Discovery inspect Shuttle for launch damage</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/President_of_China_lunches_with_Brazilian_President\" title=\"President of China lunches with Brazilian President\">President of China lunches with Brazilian President</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Southern_California_auto_maker_announces_fully-electric_sedan\" title=\"Southern California auto maker announces fully-electric sedan\">Southern California auto maker announces fully-electric sedan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Explosion_at_earthquake-damaged_Fukushima_nuclear_power_plant\" title=\"Explosion at earthquake-damaged Fukushima nuclear power plant\">Explosion at earthquake-damaged Fukushima nuclear power plant</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Woman_torches_own_house,_attempting_to_kill_spiders\" title=\"Woman torches own house, attempting to kill spiders\">Woman torches own house, attempting to kill spiders</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bathurst_War_Memorial_vandalised_before_ANZAC_service\" title=\"Bathurst War Memorial vandalised before ANZAC service\">Bathurst War Memorial vandalised before ANZAC service</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Face-off_at_Islamabad_Mosque\" title=\"Face-off at Islamabad Mosque\">Face-off at Islamabad Mosque</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Car_maker_DeLorean_dies_at_80\" title=\"Car maker DeLorean dies at 80\">Car maker DeLorean dies at 80</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Space_Shuttle_Discovery_lands_for_final_time\" title=\"Space Shuttle Discovery lands for final time\">Space Shuttle Discovery lands for final time</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Space_Shuttle_Endeavour_launches_for_final_time\" title=\"Space Shuttle Endeavour launches for final time\">Space Shuttle Endeavour launches for final time</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Threat_received_before_Boeing_767_fire_at_San_Francisco\" title=\"Threat received before Boeing 767 fire at San Francisco\">Threat received before Boeing 767 fire at San Francisco</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Brazil_spots_unknown_tribe_of_indigenous_people_in_Amazon_jungle\" title=\"Brazil spots unknown tribe of indigenous people in Amazon jungle\">Brazil spots unknown tribe of indigenous people in Amazon jungle</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Space_Shuttle_Discovery_resumes_rollout_to_launch_pad\" title=\"Space Shuttle Discovery resumes rollout to launch pad\">Space Shuttle Discovery resumes rollout to launch pad</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Guards_uncover_600-foot_escape_tunnel_at_US_prison_in_Iraq\" title=\"Guards uncover 600-foot escape tunnel at US prison in Iraq\">Guards uncover 600-foot escape tunnel at US prison in Iraq</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373473012,
+   "book" : [],
+   "micro-www" : {
+      "exterior" : [
+         "Exterior_derivative",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "General topology"
+      ],
+      "text" : "In topology, the 'exterior' of a subset S of a topological space X is the union\nof all open sets of X which are disjoint from S. It is itself an open set and is\ndisjoint from S. The exterior of S is denoted by\n\n:ext S\n\nor\n\n:S<sup>e</sup>.\n",
+      "title" : "Exterior%20%28topology%29",
+      "headings" : [
+         "Equivalent definitions",
+         "Properties",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Topology",
+      "1: Topological_space",
+      "1: Open_set",
+      "1: Disjoint_sets",
+      "1: Topological_closure",
+      "1: Jordan_curve_theorem"
+   ]
+}

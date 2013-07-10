@@ -1,0 +1,48 @@
+{
+   "micrownet" : [
+      "watt_second"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373469152,
+   "book" : [],
+   "micro-www" : {
+      "watt_second" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "SI derived units",
+         "Units of energy"
+      ],
+      "text" : "A 'watt second' (also 'watt-second', symbol 'W&nbsp;s' or 'W&middot;s') is a\nderived unit of energy equivalent to the joule. The watt-second is the energy\nequivalent to the power of one watt sustained for one second. While the watt-\nsecond is equivalent to the joule in both units and meaning, there are some\ncontexts in which the watt-second is used instead of joule.\n\nThe kilowatt hour (kWh) is equivalent to 3,600,000 watt-seconds and is a unit\nused in the electricity market, and by producers of electricity.\n\nThe distinction between joule and watt-second is not analogous to the usage of\nnewton meter for torque despite being an equivalent unit to the joule.\n",
+      "title" : "watt second",
+      "headings" : [
+         "Photography",
+         "See also",
+         "Notes"
+      ]
+   },
+   "micro-relation" : [
+      "2: Kilowatt_hour",
+      "1: Derived_unit",
+      "1: Energy",
+      "1: Joule",
+      "1: Watt",
+      "1: Second",
+      "1: Electricity_market",
+      "1: Newton_meter",
+      "1: Torque",
+      "1: Elinchrom",
+      "1: Profoto",
+      "1: Guide_number"
+   ]
+}

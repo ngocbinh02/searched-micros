@@ -1,0 +1,39 @@
+{
+   "micrownet" : [
+      "resistance_unit"
+   ],
+   "duck" : [
+      "HASH(0x49c79e8)",
+      "HASH(0x49f5a30)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Flooding_in_Slovenia_leaves_six_dead\" title=\"Flooding in Slovenia leaves six dead\">Flooding in Slovenia leaves six dead</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Former_Iranian_president_Rafsanjani_states_Iran_is_enriching_uranium\" title=\"Former Iranian president Rafsanjani states Iran is enriching uranium\">Former Iranian president Rafsanjani states Iran is enriching uranium</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Officer_who_killed_Polish_dissident_during_Communist_era_sentenced_to_4_years_prison\" title=\"Officer who killed Polish dissident during Communist era sentenced to 4 years prison\">Officer who killed Polish dissident during Communist era sentenced to 4 years prison</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/FBI_arrests_four_in_alleged_plot_to_bomb_Bronx_synagogues,_shoot_down_plane\" title=\"FBI arrests four in alleged plot to bomb Bronx synagogues, shoot down plane\">FBI arrests four in alleged plot to bomb Bronx synagogues, shoot down plane</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Brazil:_occupied_area_conflict,_2_deaths\" title=\"Brazil: occupied area conflict, 2 deaths\">Brazil: occupied area conflict, 2 deaths</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Grandfather_held_in_Guantanamo_dies_of_cancer\" title=\"Grandfather held in Guantanamo dies of cancer\">Grandfather held in Guantanamo dies of cancer</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_allegedly_committed_acts_of_violence_in_Iran_using_ex-members_of_MEK_during_past_year\" title=\"US allegedly committed acts of violence in Iran using ex-members of MEK during past year\">US allegedly committed acts of violence in Iran using ex-members of MEK during past year</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._did_not_inform_Pakistan_of_bin_Laden_mission_because_of_suspicions_he_was_being_harbored_by_government\" title=\"U.S. did not inform Pakistan of bin Laden mission because of suspicions he was being harbored by government\">U.S. did not inform Pakistan of bin Laden mission because of suspicions he was being harbored by government</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Four_Israeli_Arabs_killed_by_Army_deserter\" title=\"Four Israeli Arabs killed by Army deserter\">Four Israeli Arabs killed by Army deserter</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Extremely_drug-resistant_tuberculosis_strain_emerges_in_South_Africa\" title=\"Extremely drug-resistant tuberculosis strain emerges in South Africa\">Extremely drug-resistant tuberculosis strain emerges in South Africa</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Britain%27s_deadly_bug_possibly_imported_from_U.S._or_Canada\" title=\"Britain&#39;s deadly bug possibly imported from U.S. or Canada\">Britain&#39;s deadly bug possibly imported from U.S. or Canada</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Protesters_against_police_violence_surround_London%27s_Scotland_Yard\" title=\"Protesters against police violence surround London&#39;s Scotland Yard\">Protesters against police violence surround London&#39;s Scotland Yard</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Shimon_Peres_discusses_the_future_of_Israel\" title=\"Shimon Peres discusses the future of Israel\">Shimon Peres discusses the future of Israel</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462735,
+   "book" : [],
+   "micro-www" : {
+      "resistance_unit" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

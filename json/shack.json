@@ -1,0 +1,65 @@
+{
+   "micrownet" : [
+      "shack",
+      "shack_up",
+      "shackle",
+      "shackled"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/The_Shack_(disambiguation)",
+      "HASH(0x4a56688)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/RadioShack\">Radio Shack</a> - RadioShack Corporation (formerly Tandy Corporation)&nbsp; is a chain of electronics retail stores in the United States, as well as parts of  Europe, South America and Africa.",
+      "The Shack",
+      "\n<a href=\"http://duckduckgo.com/The_Shack_(journalism)\">The Shack (journalism)</a>, the police beat for journalists within the NYPD headquarters",
+      "HASH(0x4a04670)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/The_Shack\">The Shack</a> is a 2007 novel by William P. Young.",
+      "\n<a href=\"http://duckduckgo.com/Shacknews\">Shacknews</a> - Shacknews, commonly referred to as \"The Shack\", is a website offering news, features, editorial content, and forums relating to computer games and console games."
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_Celebrity_Big_Brother_loses_sponsorship_over_racism_allegations\" title=\"UK Celebrity Big Brother loses sponsorship over racism allegations\">UK Celebrity Big Brother loses sponsorship over racism allegations</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Apple_swamped_by_iPhone_4_pre-orders\" title=\"Apple swamped by iPhone 4 pre-orders\">Apple swamped by iPhone 4 pre-orders</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Long-running_TV_clown_marks_50_years_since_debut\" title=\"Long-running TV clown marks 50 years since debut\">Long-running TV clown marks 50 years since debut</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:June_16,_2010\" title=\"News briefs:June 16, 2010\">News briefs:June 16, 2010</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462229,
+   "book" : [],
+   "micro-www" : {
+      "shack" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "House types",
+         "Nahuatl words and phrases"
+      ],
+      "text" : "\n, Tennessee]] , South Africa]]\n\nA 'shack' is a type of small, often primitive shelter or dwelling. The word may\nderive from the Nahuatl (Aztec) word xahcalli or \"adobe house\" by way of Mexican\nSpanish xacal/jacal, which has the same meaning as\n\"shack\".<ref>http://www.bartleby.com/61/75/S0307500.html</ref> It was a common\nusage among people of Mexican ancestry throughout the U.S. southwest and was\npicked up by speakers of American English.\n\nIt is possible that up to a billion people worldwide live in shacks.<ref>Planet\nof Slums, Verso, 2006</ref> Fire is a significant hazard in tight-knit shack\nsettlements.<ref>[http://www.abahlali.org/node/4013 A Big Devil in the Jondolos:\nA report on shack fires by Matt Birkinshaw]</ref> Shack settlements are also\nsometimes known as slums or shanty towns.\n",
+      "title" : "shack",
+      "headings" : [
+         "Other meanings of the word",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "1: South_Africa",
+      "1: Nahuatl_language",
+      "1: Mexican_Spanish",
+      "1: Slums",
+      "1: Shanty_town",
+      "1: Amateur_radio",
+      "1: Jargon",
+      "1: Amateur_radio_operator",
+      "1: RadioShack",
+      "1: Military_aviation",
+      "1: Bus_stop"
+   ]
+}

@@ -1,0 +1,24 @@
+{
+   "micrownet" : [],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/The_Onion:_An_interview_with_%27America%27s_Finest_News_Source%27\" title=\"The Onion: An interview with &#39;America&#39;s Finest News Source&#39;\">The Onion: An interview with &#39;America&#39;s Finest News Source&#39;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scientology_protest_group_celebrates_founder%27s_birthday_worldwide\" title=\"Scientology protest group celebrates founder&#39;s birthday worldwide\">Scientology protest group celebrates founder&#39;s birthday worldwide</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:July_21,_2010\" title=\"News briefs:July 21, 2010\">News briefs:July 21, 2010</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373467348,
+   "book" : [],
+   "micro-www" : {
+      "instance_of_photographer" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

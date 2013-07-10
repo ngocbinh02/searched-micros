@@ -1,0 +1,67 @@
+{
+   "micrownet" : [
+      "carnal_knowledge",
+      "unlawful_carnal_knowledge"
+   ],
+   "duck" : [
+      "HASH(0x4c99240)",
+      "HASH(0x4993220)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ghana_bans_gay_and_lesbian_conference\" title=\"Ghana bans gay and lesbian conference\">Ghana bans gay and lesbian conference</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_government_expands_definition_of_rape_to_include_men\" title=\"US government expands definition of rape to include men\">US government expands definition of rape to include men</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465235,
+   "book" : [],
+   "micro-www" : {
+      "carnal_knowledge" : [
+         "carnal_knowledge",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Euphemisms",
+         "Legal terms",
+         "Sex"
+      ],
+      "text" : "\n\n'Carnal knowledge' is an archaic or legal euphemism for sexual\nintercourse.<ref></ref> The term derives from the Biblical usage of the verb\nknow/knew, as in the King James Bible and other versions, a euphemism for sexual\nconduct. \"And Adam'knew' Eve his wife; and she conceived, and bore Cain, and\nsaid, I have gotten a man from the LORD.\" - Genesis 4:1.\n",
+      "title" : "carnal knowledge",
+      "headings" : [
+         "Meaning",
+         "References",
+         "Further reading",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Sexual_intercourse",
+      "1: Archaism",
+      "1: Euphemism",
+      "1: King_James_Bible",
+      "1: Criminal_law",
+      "1: Jurisdiction",
+      "1: Penis",
+      "1: Vagina",
+      "1: Sex_organ",
+      "1: Sodomy",
+      "1: Oral_sex",
+      "1: Marriage",
+      "1: Age_of_consent",
+      "1: Statutory_rape",
+      "1: Rape",
+      "1: Offences_against_the_Person_Act_1828",
+      "1: Buggery",
+      "1: Rape_in_English_law#History",
+      "1: Offences_against_the_Person_Act_1861",
+      "1: Sexual_Offences_Act_1956",
+      "1: Sexual_intercourse#Consent_and_sexual_offenses"
+   ]
+}

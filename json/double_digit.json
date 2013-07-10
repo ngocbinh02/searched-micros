@@ -1,0 +1,46 @@
+{
+   "micrownet" : [
+      "double_digit"
+   ],
+   "duck" : [
+      "HASH(0x4b22958)",
+      "HASH(0x4af36b0)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/WNBL%27s_Sydney_Uni_Flames_decisively_beat_Canberra_Capitals\" title=\"WNBL&#39;s Sydney Uni Flames decisively beat Canberra Capitals\">WNBL&#39;s Sydney Uni Flames decisively beat Canberra Capitals</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australia_and_South_Africa_men%27s_national_wheelchair_basketball_teams_play_in_their_2012_Paralympics_opener\" title=\"Australia and South Africa men&#39;s national wheelchair basketball teams play in their 2012 Paralympics opener\">Australia and South Africa men&#39;s national wheelchair basketball teams play in their 2012 Paralympics opener</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Japan%27s_economy_sees_biggest_decline_since_1974\" title=\"Japan&#39;s economy sees biggest decline since 1974\">Japan&#39;s economy sees biggest decline since 1974</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Fear_and_loathing_on_the_campaign_trail,_October_2008\" title=\"Fear and loathing on the campaign trail, October 2008\">Fear and loathing on the campaign trail, October 2008</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_job_cuts_last_month_highest_since_1974,_unemployment_rate_rises\" title=\"US job cuts last month highest since 1974, unemployment rate rises\">US job cuts last month highest since 1974, unemployment rate rises</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_stocks_plummet\" title=\"US stocks plummet\">US stocks plummet</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/San_Diego_votes_for_new_mayor\" title=\"San Diego votes for new mayor\">San Diego votes for new mayor</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NCAA_Basketball:_Florida_Gators_win_Men%27s_Basketball_Championship\" title=\"NCAA Basketball: Florida Gators win Men&#39;s Basketball Championship\">NCAA Basketball: Florida Gators win Men&#39;s Basketball Championship</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Obama_projected_winner_in_North_Carolina_primary,_Clinton_wins_Indiana_by_narrow_margin\" title=\"Obama projected winner in North Carolina primary, Clinton wins Indiana by narrow margin\">Obama projected winner in North Carolina primary, Clinton wins Indiana by narrow margin</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Oldest_ex-Major_League_Baseball_player,_Billy_Werber_dies_at_age_100\" title=\"Oldest ex-Major League Baseball player, Billy Werber dies at age 100\">Oldest ex-Major League Baseball player, Billy Werber dies at age 100</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Disney_Cruise_Line_to_add_two_new_ships\" title=\"Disney Cruise Line to add two new ships\">Disney Cruise Line to add two new ships</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/German_Parliament_votes_yes_on_EU_constitution;_French_referendum_may_vote_no\" title=\"German Parliament votes yes on EU constitution; French referendum may vote no\">German Parliament votes yes on EU constitution; French referendum may vote no</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Irish_economy_sees_biggest_contraction_in_decades\" title=\"Irish economy sees biggest contraction in decades\">Irish economy sees biggest contraction in decades</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/South_Carolina_governor_Nikki_Haley_endorses_Mitt_Romney_for_U.S._president\" title=\"South Carolina governor Nikki Haley endorses Mitt Romney for U.S. president\">South Carolina governor Nikki Haley endorses Mitt Romney for U.S. president</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Poll_shows_former_U.S._Speaker_Newt_Gingrich_as_latest_GOP_presidential_frontrunner\" title=\"Poll shows former U.S. Speaker Newt Gingrich as latest GOP presidential frontrunner\">Poll shows former U.S. Speaker Newt Gingrich as latest GOP presidential frontrunner</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canberra_Capitals_beat_Chinese_women%27s_national_B_basketball_team_in_pre-season\" title=\"Canberra Capitals beat Chinese women&#39;s national B basketball team in pre-season\">Canberra Capitals beat Chinese women&#39;s national B basketball team in pre-season</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/On_the_campaign_trail,_July_2012\" title=\"On the campaign trail, July 2012\">On the campaign trail, July 2012</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Animal_rights_activists_demand_British_coffee_chain_withdraw_advertising_campaign\" title=\"Animal rights activists demand British coffee chain withdraw advertising campaign\">Animal rights activists demand British coffee chain withdraw advertising campaign</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NCAA_Basketball:_Thursday_session_1_recap\" title=\"NCAA Basketball: Thursday session 1 recap\">NCAA Basketball: Thursday session 1 recap</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/National_Hockey_League_news:_March_4,_2008\" title=\"National Hockey League news: March 4, 2008\">National Hockey League news: March 4, 2008</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464779,
+   "book" : [],
+   "micro-www" : {
+      "double_digit" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

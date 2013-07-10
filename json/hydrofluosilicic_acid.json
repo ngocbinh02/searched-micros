@@ -1,0 +1,72 @@
+{
+   "micrownet" : [
+      "hydrofluosilicic_acid"
+   ],
+   "duck" : [
+      "HASH(0x4d02880)",
+      "HASH(0x4c24500)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464370,
+   "book" : [],
+   "micro-www" : {
+      "hydrofluosilicic_acid" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Acids",
+         "Hydrogen compounds",
+         "Fluorides",
+         "Nonmetal halides",
+         "Silicates"
+      ],
+      "text" : "{{Chembox\n| Watchedfields = changed verifiedrevid = 477003251 ImageFile=Hexafluorosilicic\n| acid molecular structure.png PIN = Hexafluorosilicic acid SystematicName =\n| Dihydrogen hexafluorosilicate OtherNames = Fluorosilicic acid, fluosilicic\n| acid, hydrofluorosilic acid, silicofluoride, silicofluoric acid Section1 =\n| {{Chembox Identifiers CASNo = 16961-83-4 CASNo_Ref = PubChem = 21863527\n| PubChem_Ref = ChemSpiderID = 17215660 ChemSpiderID_Ref = EINECS = 241-034-8\n| UNNumber = 1778 RTECS = VV8225000 SMILES = [H+].[H+].F[Si-2](F)(F)(F)(F)F\n| SMILES1 = [H+].[H+].F[Si--](F)(F)(F)(F)F StdInChI_Ref = StdInChI = 1S/F6Si/c1-7(2,3,4,5)6/q-\n| 2/p+2 InChI = 1/F6Si/c1-7(2,3,4,5)6/q-2/p+2 StdInChIKey_Ref = StdInChIKey =\n| OHORFAFFMDIQRR-UHFFFAOYSA-P InChIKey = OHORFAFFMDIQRR-SKRXCDHZAM}} Section2 =\n| {{Chembox Properties H = 2 F = 6 Si = 1 ExactMass = 143.982995827 g/mol\n| Appearance = transparent, colorless, fuming liquid Odor = sour, pungent\n| Density = 1.22 g/cm<sup>3</sup> (25% soln.)<br/>1.38 g/cm<sup>3</sup> (35%\n| soln.)<br/>1.46 g/cm<sup>3</sup> (61% soln.) MeltingPt = ca. 19 °C (60–70%\n| soln.)<br/><&minus;30 °C (35& soln.) BoilingPtC = 108.5 Boiling_notes = decomp\n| Solubility = miscible RefractIndex = 1.3465\n}}\n| Section3 = {{Chembox Structure MolShape = Octahedral\n| SiF<sub>6</sub><sup>2<nowiki>&minus;</nowiki></sup>\n  }}\n| Section7 = {{Chembox Hazards NFPA-H = 3 NFPA-F = 0 NFPA-R = 0 NFPA-O =\n| ExternalMSDS =\n| [http://ptcl.chem.ox.ac.uk/MSDS/DI/dihydrogen_hexafluorosilicate.html External\n| MSDS] EUIndex = 009-011-00-5 EUClass = - Toxic<br/> - Corrosive RPhrases = ,\n| SPhrases = , , , FlashPt = Non-flammable LD50 = 430 mg/kg (oral, rat)\n  }}\n| Section8 = {{Chembox Related OtherCations = Ammonium hexafluorosilicate<br />\nSodium fluorosilicate\n|  OtherCpds = Hexafluorophosphoric acid<br/>Fluoroboric acid}}\n}}\n\n'Hexafluorosilicic acid' is the inorganic compound with the formula\n(H<sub>3</sub>O)<sub>2</sub>SiF<sub>6</sub>; it is commonly used as a source of\nfluoride for water fluoridation. <ref name=www.cdc.gov>www.cdc.gov - Water\nFluoridation Additives - Engineering Fact Sheet - Community Water Fluoridation\n-Oral Health\n[http://www.cdc.gov/fluoridation/fact_sheets/engineering/wfadditives.htm\nhydrofluorosilic acid].</ref> <ref name=The New Zealand Institute of Chemistry\n(NZIC)>The New Zealand Institute of Chemistry (NZIC) - Hydrofluorosilic acid and\nwater fluoridation [http://nzic.org.nz/ChemProcesses/production/1C.pdf\nhydrofluorosilic acid].</ref>\n",
+      "title" : "Hexafluorosilicic%20acid",
+      "headings" : [
+         "Structure",
+         "Production and principal reactions",
+         "Uses",
+         "Safety",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "4: Hydrogen_fluoride",
+      "2: Sodium_fluorosilicate",
+      "2: Hexafluorophosphoric_acid",
+      "2: Fluoroboric_acid",
+      "2: Fluoride",
+      "2: Water_fluoridation",
+      "1: Ammonium_hexafluorosilicate",
+      "1: Inorganic_compound",
+      "1: Chloroplatinic_acid",
+      "1: Carbonic_acid",
+      "1: Silicon_tetrafluoride",
+      "1: Angstrom",
+      "1: Fluorspar",
+      "1: Apatite",
+      "1: Fluorapatite",
+      "1: Aluminium_fluoride",
+      "1: Cryolite",
+      "1: Aluminium",
+      "1: Betts_electrolytic_process",
+      "1: Reagent",
+      "1: Organic_synthesis",
+      "1: Corrosive",
+      "1: Fluoride_poisoning",
+      "1: Lung_edema",
+      "1: Stoneware",
+      "1: Median_lethal_dose",
+      "1: Ammonium_fluorosilicate"
+   ]
+}

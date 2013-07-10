@@ -1,0 +1,89 @@
+{
+   "micrownet" : [
+      "primary_solid_solution",
+      "solid_solution"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Fu%C3%9Fball-Bundesliga_2007%E2%80%9308:_Bayern_Munich_vs._Wolfsburg\" title=\"Fußball-Bundesliga 2007–08: Bayern Munich vs. Wolfsburg\">Fußball-Bundesliga 2007–08: Bayern Munich vs. Wolfsburg</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canada%27s_Eglinton%E2%80%94Lawrence_(Ward_16)_city_council_candidates_speak\" title=\"Canada&#39;s Eglinton—Lawrence (Ward 16) city council candidates speak\">Canada&#39;s Eglinton—Lawrence (Ward 16) city council candidates speak</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canada%27s_Don_Valley_West_(Ward_25)_city_council_candidates_speak\" title=\"Canada&#39;s Don Valley West (Ward 25) city council candidates speak\">Canada&#39;s Don Valley West (Ward 25) city council candidates speak</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Crosswords/2005/September/5\" title=\"Crosswords/2005/September/5\">Crosswords/2005/September/5</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Crosswords/2005/September/5#Previous_solution\" title=\"Crosswords/2005/September/5\">Previous <span class=\"searchmatch\">solution</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Report_urges_Kenya_to_ban_plastic_bags\" title=\"Report urges Kenya to ban plastic bags\">Report urges Kenya to ban plastic bags</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Israel_elects_18th_Knesset\" title=\"Israel elects 18th Knesset\">Israel elects 18th Knesset</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canada%27s_Parkdale%E2%80%94High_Park_(Ward_13)_city_council_candidates_speak\" title=\"Canada&#39;s Parkdale—High Park (Ward 13) city council candidates speak\">Canada&#39;s Parkdale—High Park (Ward 13) city council candidates speak</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canada%27s_Don_Valley_East_(Ward_33)_city_council_candidates_speak\" title=\"Canada&#39;s Don Valley East (Ward 33) city council candidates speak\">Canada&#39;s Don Valley East (Ward 33) city council candidates speak</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canada%27s_Beaches%E2%80%94East_York_(Ward_32)_city_council_candidates_speak\" title=\"Canada&#39;s Beaches—East York (Ward 32) city council candidates speak\">Canada&#39;s Beaches—East York (Ward 32) city council candidates speak</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Keep_your_eyes_peeled_for_cosmic_debris:_Andrew_Westphal_about_Stardust@home\" title=\"Keep your eyes peeled for cosmic debris: Andrew Westphal about Stardust@home\">Keep your eyes peeled for cosmic debris: Andrew Westphal about Stardust@home</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Brazilian_President_party_received_money_from_FARC,_say_documents\" title=\"Brazilian President party received money from FARC, say documents\">Brazilian President party received money from FARC, say documents</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/CanadaVOTES:_NDP_candidate_Don_Davies_running_in_Vancouver_Kingsway\" title=\"CanadaVOTES: NDP candidate Don Davies running in Vancouver Kingsway\">CanadaVOTES: NDP candidate Don Davies running in Vancouver Kingsway</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/North_Korea_test-fires_missiles\" title=\"North Korea test-fires missiles\">North Korea test-fires missiles</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/FARC_and_Brazilian_Workers%27_Party:the_general_didn%27t_tell_the_truth,_says_former_Abin_superior_to_Veja\" title=\"FARC and Brazilian Workers&#39; Party:the general didn&#39;t tell the truth, says former Abin superior to Veja\">FARC and Brazilian Workers&#39; Party:the general didn&#39;t tell the truth, says former Abin superior to Veja</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Zarqawi_shows_face_in_new_video\" title=\"Zarqawi shows face in new video\">Zarqawi shows face in new video</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471647,
+   "book" : [],
+   "micro-www" : {
+      "solid_solution" : [
+         "Solid_solution",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Materials science",
+         "Mineralogy"
+      ],
+      "text" : "\n\n\nA 'solid solution' is a solid-state solution of one or more solutes in a\nsolvent. Such a mixture is considered a solution rather than a compound when the\ncrystal structure of the solvent remains unchanged by addition of the solutes,\nand when the mixture remains in a single homogeneous phase. This often happens\nwhen the two elements (generally metals) involved are close together on the\nperiodic table; conversely, a chemical compound is generally a result of the non-\nproximity of the two metals involved on the periodic table.<ref></ref>\n",
+      "title" : "solid solution",
+      "headings" : [
+         "Details",
+         "Application",
+         "Exsolution",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "1: Solid",
+      "1: Solution",
+      "1: Solubility",
+      "1: Solvent",
+      "1: Mixture",
+      "1: Chemical_compound",
+      "1: Crystal_structure",
+      "1: Metal",
+      "1: Periodic_table",
+      "1: Crystal_lattice",
+      "1: Chemistry",
+      "1: Crystallography",
+      "1: Quantum_mechanics",
+      "1: Hume-Rothery_rules",
+      "1: Atomic_radius",
+      "1: Electronegativity",
+      "1: Phase_diagram",
+      "1: Alloy",
+      "1: Concentration",
+      "1: Microstructure",
+      "1: Lamellar_structure",
+      "1: Crystallite",
+      "1: Melting_point",
+      "1: Heat_of_fusion",
+      "1: Eutectic_point",
+      "1: Feldspar",
+      "1: Minerals",
+      "1: Albite",
+      "1: Microcline",
+      "1: Vegard's_law",
+      "1: European_Journal_of_Mineralogy"
+   ]
+}

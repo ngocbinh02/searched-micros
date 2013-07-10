@@ -1,0 +1,90 @@
+{
+   "micrownet" : [
+      "change_intensity",
+      "field_intensity",
+      "intensity",
+      "intensity_level",
+      "light_intensity",
+      "luminous_intensity_unit",
+      "magnetic_intensity"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Luminous_intensity\">Luminous intensity</a>, luminous flux per unit solid angle (lm/sr or cd)",
+      "Intensity",
+      "\n<a href=\"http://duckduckgo.com/Mercalli_intensity_scale\">Mercalli intensity scale</a>, a measure of earthquake impact",
+      "http://www.merriam-webster.com/dictionary/intensity",
+      "\n<a href=\"http://duckduckgo.com/Intensity_(physics)\">Intensity (physics)</a>, power per unit area (W/m2)",
+      "intensity definition: the quality or state of being intense; '''especially'''.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hurricanes_may_be_associated_with_sunspots\" title=\"Hurricanes may be associated with sunspots\">Hurricanes may be associated with sunspots</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pichilemu_and_Cobquecura,_Chile_rocked_again_by_aftershocks\" title=\"Pichilemu and Cobquecura, Chile rocked again by aftershocks\">Pichilemu and Cobquecura, Chile rocked again by aftershocks</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Minor_aftershock_hits_Pichilemu,_Chile_area\" title=\"Minor aftershock hits Pichilemu, Chile area\">Minor aftershock hits Pichilemu, Chile area</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Buddhist_UNESCO_World_Heritage_site_in_India_suffers_terrorist_attack\" title=\"Buddhist UNESCO World Heritage site in India suffers terrorist attack\">Buddhist UNESCO World Heritage site in India suffers terrorist attack</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/APEC_countries_set_%22aspirational_goals%22_on_climate_change\" title=\"APEC countries set &quot;aspirational goals&quot; on climate change\">APEC countries set &quot;aspirational goals&quot; on climate change</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sequel_of_aftershocks_hit_O%27Higgins,_B%C3%ADob%C3%ADo_and_Maule_regions_in_Chile\" title=\"Sequel of aftershocks hit O&#39;Higgins, Bíobío and Maule regions in Chile\">Sequel of aftershocks hit O&#39;Higgins, Bíobío and Maule regions in Chile</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Cassini_spacecraft_captures_large_storm_on_Saturn\" title=\"Cassini spacecraft captures large storm on Saturn\">Cassini spacecraft captures large storm on Saturn</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tropical_Storm_Ernesto_weakens\" title=\"Tropical Storm Ernesto weakens\">Tropical Storm Ernesto weakens</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sunshine_Coast_Rugby_Union,_round_twelve:_Maroochydore_defeat_University_at_University\" title=\"Sunshine Coast Rugby Union, round twelve: Maroochydore defeat University at University\">Sunshine Coast Rugby Union, round twelve: Maroochydore defeat University at University</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Corks_fly_in_wine_truck_fire_in_Wyoming,_US\" title=\"Corks fly in wine truck fire in Wyoming, US\">Corks fly in wine truck fire in Wyoming, US</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scientists_debate_whether_Hurricane_Katrina_was_aggravated_by_global_warming\" title=\"Scientists debate whether Hurricane Katrina was aggravated by global warming\">Scientists debate whether Hurricane Katrina was aggravated by global warming</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Heavy_earthquake_hits_Sumatra,_Indonesia\" title=\"Heavy earthquake hits Sumatra, Indonesia\">Heavy earthquake hits Sumatra, Indonesia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/White_House_refuses_to_comment_on_Karl_Rove_as_source_of_leak\" title=\"White House refuses to comment on Karl Rove as source of leak\">White House refuses to comment on Karl Rove as source of leak</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/5.9_magnitude_earthquake_in_Pichilemu,_Chile_revives_fears_of_new_tragedy\" title=\"5.9 magnitude earthquake in Pichilemu, Chile revives fears of new tragedy\">5.9 magnitude earthquake in Pichilemu, Chile revives fears of new tragedy</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Thousands_of_Romanians_rally_for_release_of_kidnapped_journalists\" title=\"Thousands of Romanians rally for release of kidnapped journalists\">Thousands of Romanians rally for release of kidnapped journalists</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_and_U.S._bombing_raids_against_Iraq_increased_in_2002\" title=\"UK and U.S. bombing raids against Iraq increased in 2002\">UK and U.S. bombing raids against Iraq increased in 2002</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tropical_Storm_Danny_to_threaten_the_U.S._East_Coast_this_weekend\" title=\"Tropical Storm Danny to threaten the U.S. East Coast this weekend\">Tropical Storm Danny to threaten the U.S. East Coast this weekend</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/34_people_injured_in_Assam_serial_blasts\" title=\"34 people injured in Assam serial blasts\">34 people injured in Assam serial blasts</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/EF-3_tornado_strikes_western_Massachusetts\" title=\"EF-3 tornado strikes western Massachusetts\">EF-3 tornado strikes western Massachusetts</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Iberia_burning:_forest_fires_rage_across_Portugal\" title=\"Iberia burning: forest fires rage across Portugal\">Iberia burning: forest fires rage across Portugal</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373467615,
+   "book" : [],
+   "micro-www" : {
+      "intensity" : [
+         "intensity",
+         "Intensity_(physics)",
+         "Intensity_(heat_transfer)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Intensity' may refer to:\n",
+      "title" : "intensity",
+      "headings" : [
+         "In colloquial use",
+         "In physical sciences",
+         "Other uses",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Amplitude",
+      "1: Field_strength",
+      "1: Electric_current",
+      "1: Radiant_intensity",
+      "1: Luminous_intensity",
+      "1: Irradiance",
+      "1: Radiance",
+      "1: Mercalli_intensity_scale",
+      "1: Japan_Meteorological_Agency_seismic_intensity_scale",
+      "1: Peak_ground_acceleration",
+      "1: Sound_intensity",
+      "1: Value_intensity",
+      "1: Luminous_emittance",
+      "1: Energy_intensity",
+      "1: Carbon_intensity",
+      "1: Floor_area_ratio",
+      "1: Exercise_intensity",
+      "1: Brightness"
+   ]
+}

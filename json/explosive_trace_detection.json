@@ -1,0 +1,24 @@
+{
+   "micrownet" : [
+      "explosive_trace_detection"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_bans_export_of_fraudulent_bomb_detector;_arrests_director_of_manufacturer\" title=\"UK bans export of fraudulent bomb detector; arrests director of manufacturer\">UK bans export of fraudulent bomb detector; arrests director of manufacturer</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373467730,
+   "book" : [],
+   "micro-www" : {
+      "explosive_trace_detection" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

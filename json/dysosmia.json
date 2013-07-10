@@ -1,0 +1,55 @@
+{
+   "micrownet" : [
+      "dysosmia"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/c/Olfactory_system\">Olfactory system</a>",
+      "Dysosmia",
+      "\n<a href=\"http://duckduckgo.com/c/Neurological_disorders\">Neurological disorders</a>",
+      "Dysosmia, also known as olfactory dysfunction, is the impairment of olfactory stimuli processing leading to an altered sense of smell."
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373473842,
+   "book" : [],
+   "micro-www" : {
+      "dysosmia" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Neurological disorders",
+         "Olfactory system"
+      ],
+      "text" : "{{Infobox symptom\n| Name = Dysosmia ICD10 = ICD9 = MeshID = D000857\n}} 'Dysosmia', also known as 'olfactory dysfunction', is the impairment of\nolfactory stimuli processing<ref></ref> leading to an altered sense of smell.\n\nThese dysfunctions can present in a variety of ways, such as the stimuli not\nactivating the olfactory bulb, some odors being interpreted as other odors, or\nhallucinations of smells. These subsets are called anosmia, parosmia, and\nphantosmia respectively. Anosmia and hyposmia (a less severe form of anosmia\nwith a decreased sensitivity to smell but not the complete lack of it) are more\nquantitative disabilities typified by degrees in which the odor is sensed.\nParosmia and phantosmia are more qualitative disabilities that are denoted by\nthe impromptu introduction of odors without the proper stimulus.<ref\nname=\"urlSmell and Taste Disorders: Ear, Nose, and Throat Disorders: Merck\nManual Home Health Handbook\"></ref><ref name=\"urlDorlands Medical\nDictionary:dysosmia\"></ref>\n",
+      "title" : "dysosmia",
+      "headings" : [
+         "Phantosmia",
+         "Anosmia",
+         "Parosmia",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "3: Phantosmia",
+      "1: Olfactory",
+      "1: Olfaction",
+      "1: Olfactory_bulb",
+      "1: Hallucination",
+      "1: Anosmia",
+      "1: Parosmia",
+      "1: Hyposmia",
+      "1: Etymology",
+      "1: Infection",
+      "1: Neurological",
+      "1: Diagnostic_tool",
+      "1: Peppermint"
+   ]
+}

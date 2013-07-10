@@ -1,0 +1,34 @@
+{
+   "micrownet" : [
+      "back_tooth"
+   ],
+   "duck" : [
+      "HASH(0x49b4508)",
+      "HASH(0x4a21038)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_fossils_from_10_million_year_old_ape_found_in_Ethiopia\" title=\"New fossils from 10 million year old ape found in Ethiopia\">New fossils from 10 million year old ape found in Ethiopia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Singapore_student_is_world%27s_fastest_text_messenger\" title=\"Singapore student is world&#39;s fastest text messenger\">Singapore student is world&#39;s fastest text messenger</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/500_stranded_melon-headed_whales_rescued_in_Philippine_bay\" title=\"500 stranded melon-headed whales rescued in Philippine bay\">500 stranded melon-headed whales rescued in Philippine bay</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/National_Museum_of_Scotland_reopens_after_three-year_redevelopment\" title=\"National Museum of Scotland reopens after three-year redevelopment\">National Museum of Scotland reopens after three-year redevelopment</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Squirrel_banned_from_Finnish_supermarket\" title=\"Squirrel banned from Finnish supermarket\">Squirrel banned from Finnish supermarket</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Experts_fear_for_the_health_of_London_whale\" title=\"Experts fear for the health of London whale\">Experts fear for the health of London whale</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Delhi_rocked_by_bomb_blasts\" title=\"Delhi rocked by bomb blasts\">Delhi rocked by bomb blasts</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Victoria_Wyndham_on_Another_World_and_another_life\" title=\"Victoria Wyndham on Another World and another life\">Victoria Wyndham on Another World and another life</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465234,
+   "book" : [],
+   "micro-www" : {
+      "back_tooth" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

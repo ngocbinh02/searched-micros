@@ -1,0 +1,28 @@
+{
+   "micrownet" : [
+      "cetacean_mammal"
+   ],
+   "duck" : [
+      "HASH(0x4adfeb0)",
+      "HASH(0x4936ef0)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/500_stranded_melon-headed_whales_rescued_in_Philippine_bay\" title=\"500 stranded melon-headed whales rescued in Philippine bay\">500 stranded melon-headed whales rescued in Philippine bay</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australians_unite_against_whaling_in_Southern_Ocean\" title=\"Australians unite against whaling in Southern Ocean\">Australians unite against whaling in Southern Ocean</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465545,
+   "book" : [],
+   "micro-www" : {
+      "cetacean_mammal" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

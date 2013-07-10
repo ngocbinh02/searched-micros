@@ -1,0 +1,85 @@
+{
+   "micrownet" : [
+      "honeycomb",
+      "honeycomb_tripe",
+      "honeycombed"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Honeycomb_(disambiguation)",
+      "HASH(0x4a906d0)",
+      "Wikipedia",
+      "Honeycomb",
+      "http://www.merriam-webster.com/dictionary/honeycomb",
+      "honeycomb definition: a mass of hexagonal wax cells built by honeybees in their nest to contain their brood and stores of honey.",
+      "Merriam-Webster",
+      "HASH(0x4c2c508)",
+      "\n<a href=\"http://duckduckgo.com/Honeycomb\">Honeycomb</a> - A honeycomb is a mass of hexagonal wax cells built by honey bees in their nests to contain their larvae and stores of honey and pollen.",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465996,
+   "book" : [],
+   "micro-www" : {
+      "honeycomb" : [
+         "Honeycomb_structure",
+         "Honeycomb",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Beekeeping",
+         "Bees"
+      ],
+      "text" : "\n\n of [[Apis dorsata]]. The bottom part of the hive shows a few unoccupied\n honeycombs|thumb]] A 'honeycomb' is a mass of hexagonal wax cells built\n by honey bees in their nests to contain their larvae and stores of honey\n and pollen.\n\nBeekeepers may remove the entire honeycomb to harvest honey. Honey bees consume\nabout 8.4 lbs (4 kg) of honey to secrete 1 lb (500 g) of wax,<ref>Graham, Joe.\nThe Hive and the Honey Bee. Hamilton/IL: Dadant & Sons; 1992; ISBN.</ref> so it\nmakes economic sense to return the wax to the hive after harvesting the honey,\ncommonly called \"pulling honey\" or \"robbing the bees\" by beekeepers. The\nstructure of the comb may be left basically intact when honey is extracted from\nit by uncapping and spinning in a centrifugal machine—the honey extractor. If\nthe honeycomb is too worn out, the wax can be reused in a number of ways,\nincluding making sheets of comb foundation with hexagonal pattern. Such\nfoundation sheets allow the bees to build the comb with less effort, and the\nhexagonal pattern of worker-sized cell bases discourages the bees from building\nthe larger drone cells.\n\n\nFresh, new comb is sometimes sold and used intact as comb honey, especially if\nthe honey is being spread on bread rather than used in cooking or as a\nsweetener.\n\nBroodcomb becomes dark over time, because of the cocoons embedded in the cells\nand the tracking of many feet, called travel stain by beekeepers when seen on\nframes of comb honey. Honeycomb in the \"supers\" that are not allowed to be used\nfor brood (e.g. by the placement of a queen excluder) stays light coloured.\n\nNumerous wasps, especially Polistinae and Vespinae, construct hexagonal prism-\npacked combs made of paper instead of wax; and in some species (such as\n[[Brachygastra mellifica]]), honey is stored in the nest, thus technically\nforming a paper honeycomb. However, the term \"honeycomb\" is not often used for\nsuch structures.\n",
+      "title" : "honeycomb",
+      "headings" : [
+         "Honeycomb geometry",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Beehive",
+      "2: Honey",
+      "2: Surface_area",
+      "1: Hexagon",
+      "1: Beeswax",
+      "1: Honey_bee",
+      "1: Larva",
+      "1: Pollen",
+      "1: Beekeeping",
+      "1: Honey_extractor",
+      "1: Comb_honey",
+      "1: Honey_super",
+      "1: Queen_excluder",
+      "1: Wasp",
+      "1: Polistinae",
+      "1: Vespinae",
+      "1: Thailand",
+      "1: Slope",
+      "1: Jan_BroÅ¼ek",
+      "1: Honeycomb_conjecture",
+      "1: Thomas_Callister_Hales",
+      "1: Hexagonal_tiling",
+      "1: Volume",
+      "1: D'Arcy_Wentworth_Thompson",
+      "1: Soap_bubble",
+      "1: Dimension",
+      "1: Rhombic_dodecahedron",
+      "1: Dihedral_angle",
+      "1: Tetrahedral_angle",
+      "1: Percent",
+      "1: LÃ¡szlÃ³_Fejes_TÃ³th",
+      "1: Rhombus",
+      "1: Honeycomb_structure"
+   ]
+}

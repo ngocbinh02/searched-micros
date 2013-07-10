@@ -1,0 +1,34 @@
+{
+   "micrownet" : [
+      "trestlework"
+   ],
+   "duck" : [
+      "A trestle or system of trestles, as that supporting a bridge.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=trestlework",
+      "HASH(0x4d143a0)",
+      "The Free Dictionary",
+      "trestlework",
+      "http://www.merriam-webster.com/dictionary/trestlework",
+      "trestlework definition: a system of connected trestles supporting a structure (as a railroad bridge).",
+      "Merriam-Webster",
+      "HASH(0x4bf9ca0)",
+      "A trestle or system of trestles, as that supporting a bridge.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373466015,
+   "book" : [],
+   "micro-www" : {
+      "trestlework" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

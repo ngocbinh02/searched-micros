@@ -1,0 +1,58 @@
+{
+   "micrownet" : [
+      "octet",
+      "octette"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Octet",
+      "HASH(0x4a33eb8)",
+      "Wikipedia",
+      "Octet",
+      "http://www.merriam-webster.com/dictionary/octet",
+      "octet definition: a musical composition for eight instruments or voices.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Octet_rule\">Octet rule</a>, chemical theory stating that atoms tend to combine so they each have eight valence electrons",
+      "HASH(0x49ff290)",
+      "\n<a href=\"http://duckduckgo.com/Octet_(computing)\">Octet (computing)</a>, a grouping of eight bits",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_compositions_by_Igor_Stravinsky#Chamber/instrumental"
+   ],
+   "created" : 1373464508,
+   "book" : [],
+   "micro-www" : {
+      "octet" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "__NOTOC__\n\n\n'Octet' may refer to:\n",
+      "title" : "octet",
+      "headings" : [
+         "Music",
+         "Dance",
+         "Science",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: List_of_compositions_by_Igor_Stravinsky#Chamber/instrumental",
+      "1: String_octet",
+      "1: Violin_octet",
+      "1: Octet_rule",
+      "1: Byte_stream",
+      "1: Space_frame",
+      "1: Octal",
+      "1: Octetra",
+      "1: Okta"
+   ]
+}

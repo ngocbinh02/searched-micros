@@ -1,0 +1,42 @@
+{
+   "micrownet" : [
+      "water-cooled_reactor"
+   ],
+   "duck" : [
+      "HASH(0x4ab7748)",
+      "HASH(0x4a64f58)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pump_leak_and_fire_shuts_down_nuclear_reactor_in_France\" title=\"Pump leak and fire shuts down nuclear reactor in France\">Pump leak and fire shuts down nuclear <span class=\"searchmatch\">reactor</span> in France</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Situation_at_damaged_nuclear_power_plant_remains_%27very_grave%27,_says_Japanese_Prime_Minister\" title=\"Situation at damaged nuclear power plant remains &#39;very grave&#39;, says Japanese Prime Minister\">Situation at damaged nuclear power plant remains &#39;very grave&#39;, says Japanese Prime Minister</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/ISIS_says_target_of_Israeli_airstrike_in_Syria_was_a_nuclear_facility\" title=\"ISIS says target of Israeli airstrike in Syria was a nuclear facility\">ISIS says target of Israeli airstrike in Syria was a nuclear facility</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Third_explosion_at_Fukushima_Daiichi_nuclear_power_plant\" title=\"Third explosion at Fukushima Daiichi nuclear power plant\">Third explosion at Fukushima Daiichi nuclear power plant</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/The_Australia_Institute_identifies_ideal_sites_for_nuclear_power_stations\" title=\"The Australia Institute identifies ideal sites for nuclear power stations\">The Australia Institute identifies ideal sites for nuclear power stations</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Japan_raises_severity_level_of_crisis;_efforts_to_cool_damaged_nuclear_power_plant_continue\" title=\"Japan raises severity level of crisis; efforts to cool damaged nuclear power plant continue\">Japan raises severity level of crisis; efforts to <span class=\"searchmatch\">cool</span> damaged nuclear power plant continue</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Japan_begins_using_helicopters_to_drop_water_on_nuclear_plant\" title=\"Japan begins using helicopters to drop water on nuclear plant\">Japan begins using helicopters to drop <span class=\"searchmatch\">water</span> on nuclear plant</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:October_26,_2007\" title=\"News briefs:October 26, 2007\">News briefs:October 26, 2007</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Japanese_nuclear_officials_race_to_avoid_disaster_as_radiation_levels_in_sea_rocket\" title=\"Japanese nuclear officials race to avoid disaster as radiation levels in sea rocket\">Japanese nuclear officials race to avoid disaster as radiation levels in sea rocket</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Earthquake-damaged_Fukushima_nuclear_power_plant_triggers_evacuation\" title=\"Earthquake-damaged Fukushima nuclear power plant triggers evacuation\">Earthquake-damaged Fukushima nuclear power plant triggers evacuation</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Power_line_to_Japanese_nuclear_plant_completed\" title=\"Power line to Japanese nuclear plant completed\">Power line to Japanese nuclear plant completed</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Japanese_nuclear_plant_operators_ordered_to_compensate_affected_families_amid_calls_for_prime_minister_to_resign\" title=\"Japanese nuclear plant operators ordered to compensate affected families amid calls for prime minister to resign\">Japanese nuclear plant operators ordered to compensate affected families amid calls for prime minister to resign</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Japan_earthquake_death_toll_estimated_at_over_10,000\" title=\"Japan earthquake death toll estimated at over 10,000\">Japan earthquake death toll estimated at over 10,000</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Explosion_at_earthquake-damaged_Fukushima_nuclear_power_plant\" title=\"Explosion at earthquake-damaged Fukushima nuclear power plant\">Explosion at earthquake-damaged Fukushima nuclear power plant</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Trojan_Nuclear_Power_Plant_cooling_tower_demolished\" title=\"Trojan Nuclear Power Plant cooling tower demolished\">Trojan Nuclear Power Plant cooling tower demolished</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Nebraska%27s_two_nuclear_plants_near_Omaha_on_alert\" title=\"Nebraska&#39;s two nuclear plants near Omaha on alert\">Nebraska&#39;s two nuclear plants near Omaha on alert</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464379,
+   "book" : [],
+   "micro-www" : {
+      "water-cooled_reactor" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

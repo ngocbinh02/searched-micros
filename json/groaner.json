@@ -1,0 +1,32 @@
+{
+   "micrownet" : [
+      "groaner"
+   ],
+   "duck" : [
+      "groaner",
+      "To voice a deep, inarticulate sound, as of pain, grief, or displeasure.",
+      "http://www.merriam-webster.com/dictionary/groaner",
+      "groaner definition: one that groans.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Research_articles_predict_next_earthquake\" title=\"Research articles predict next earthquake\">Research articles predict next earthquake</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Senator_Hatch_lashes_out_at_critics_of_domestic_surveillance_program\" title=\"Senator Hatch lashes out at critics of domestic surveillance program\">Senator Hatch lashes out at critics of domestic surveillance program</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/England_fans_watch_match_in_cinema\" title=\"England fans watch match in cinema\">England fans watch match in cinema</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373469088,
+   "book" : [],
+   "micro-www" : {
+      "groaner" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

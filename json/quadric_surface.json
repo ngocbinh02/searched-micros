@@ -1,0 +1,77 @@
+{
+   "micrownet" : [
+      "quadric_surface"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373467327,
+   "book" : [],
+   "micro-www" : {
+      "quadric_surface" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Surfaces",
+         "Quadrics|",
+         "Algebraic surfaces",
+         "Complex surfaces",
+         "Analytic geometry"
+      ],
+      "text" : "\n\nIn mathematics, a 'quadric', or 'quadric surface', is any D-dimensional\nhypersurface in (D&nbsp;+&nbsp;1)-dimensional space defined as the locus of\nzeros of a quadratic polynomial. In coordinates }, the general quadric is\ndefined by the algebraic equation<ref name=\"geom\">[http://www.geom.uiuc.edu/docs/reference/CRC-\nformulas/node61.html geom.uiuc.edu], Quadrics in Geometry Formulas and Facts by\nSilvio Levy, excerpted from 30th Edition of the CRC Standard Mathematical Tables\nand Formulas (CRC Press).</ref>\n\n:<math>\n\\sum_{i,j=1}^{D+1} x_i Q_{ij} x_j + \\sum_{i=1}^{D+1} P_i x_i + R = 0 </math>\n\nwhich may be compactly written in vector and matrix notation as:\n\n:<math>\nx Q x^T + P x^T + R = 0\\, </math>\n\nwhere x = } is a row vector, x<sup>T</sup> is the transpose of x (a column\nvector), Q is a (D&nbsp;+&nbsp;1)&times;(D&nbsp;+&nbsp;1) matrix and P is a\n(D&nbsp;+&nbsp;1)-dimensional row vector and R a scalar constant. The values\nQ, P and R are often taken to be real numbers or complex numbers, but in fact,\na quadric may be defined over any ring. In general, the locus of zeros of a\nset of polynomials is known as an algebraic variety, and is studied in the\nbranch of algebraic geometry.\n\nA quadric is thus an example of an algebraic variety. For the projective theory\nsee quadric (projective geometry).\n",
+      "title" : "quadric",
+      "headings" : [
+         "Euclidean plane and space",
+         "Projective geometry",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "3: Paraboloid",
+      "2: Algebraic_variety",
+      "2: Hyperboloid",
+      "2: Conical_surface",
+      "2: Projective_space",
+      "1: Hypersurface",
+      "1: Root_of_a_function",
+      "1: Quadratic_polynomial",
+      "1: Algebraic_equation",
+      "1: Transpose",
+      "1: Real_number",
+      "1: Complex_number",
+      "1: Polynomial",
+      "1: Algebraic_geometry",
+      "1: Euclidean_plane",
+      "1: Curve",
+      "1: Conic_section",
+      "1: Euclidean_space",
+      "1: Principal_axis_theorem",
+      "1: Indian_Association_of_Physics_Teachers",
+      "1: Ellipsoid",
+      "1: Spheroid",
+      "1: Sphere",
+      "1: Homogeneous_coordinates",
+      "1: Invertible_matrix",
+      "1: Real_projective_space",
+      "1: Sylvester's_law_of_inertia",
+      "1: Quadratic_form",
+      "1: Projective_transformation",
+      "1: Up_to",
+      "1: Ruled_surface",
+      "1: Gaussian_curvature",
+      "1: Complex_projective_space",
+      "1: Klein_quadric",
+      "1: Quadratic_function",
+      "1: Superquadrics"
+   ]
+}

@@ -1,0 +1,61 @@
+{
+   "micrownet" : [
+      "forfeiture"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Forfeit",
+      "HASH(0x4bf87d8)",
+      "Wikipedia",
+      "Forfeit",
+      "http://www.merriam-webster.com/dictionary/forfeit",
+      "forfeit definition: something forfeited or subject to being forfeited (as for a crime, offense, or neglect of duty).",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Asset_forfeiture\">Asset forfeiture</a>, in law, the confiscation of assets related to a crime",
+      "HASH(0x4c8faa0)",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Zealand_government_withdraws_asset_forfeiture_bill\" title=\"New Zealand government withdraws asset forfeiture bill\">New Zealand government withdraws asset <span class=\"searchmatch\">forfeiture</span> bill</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Elizabeth_II_annuls_Fred_Goodwin_knighthood\" title=\"Elizabeth II annuls Fred Goodwin knighthood\">Elizabeth II annuls Fred Goodwin knighthood</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Prime_Minister_of_Vanuatu_loses_seat_over_paperwork_error\" title=\"Prime Minister of Vanuatu loses seat over paperwork error\">Prime Minister of Vanuatu loses seat over paperwork error</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Congressman_Cunningham_admits_taking_bribes\" title=\"Congressman Cunningham admits taking bribes\">Congressman Cunningham admits taking bribes</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Alfonso_Soriano_refuses_to_play\" title=\"Alfonso Soriano refuses to play\">Alfonso Soriano refuses to play</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._Federal_Agents_arrest_two_Houston_men_in_UN_Oil_for_Food_scandal\" title=\"U.S. Federal Agents arrest two Houston men in UN Oil for Food scandal\">U.S. Federal Agents arrest two Houston men in UN Oil for Food scandal</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_federal_agents_raid_strip_club_empire_in_Washington_state\" title=\"US federal agents raid strip club empire in Washington state\">US federal agents raid strip club empire in Washington state</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NFL_star_Michael_Vick_indicted_for_running_dog_fighting_operation\" title=\"NFL star Michael Vick indicted for running dog fighting operation\">NFL star Michael Vick indicted for running dog fighting operation</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Criminal_appeals_denied_for_American_Evangelists\" title=\"Criminal appeals denied for American Evangelists\">Criminal appeals denied for American Evangelists</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:July_17,_2006\" title=\"News briefs:July 17, 2006\">News briefs:July 17, 2006</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:July_17,_2006#New_Zealand_government_withdraws_asset_forfeiture_bill\" title=\"News briefs:July 17, 2006\">New Zealand government withdraws asset <span class=\"searchmatch\">forfeiture</span> bill</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465138,
+   "book" : [],
+   "micro-www" : {
+      "forfeiture" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Forfeit' or 'forfeiture' may refer to:\n",
+      "title" : "forfeit",
+      "headings" : [
+         "In sport",
+         "In law",
+         "In culture",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Declaration_and_forfeiture",
+      "1: Asset_forfeiture",
+      "1: Forfaiting",
+      "1: Walkover"
+   ]
+}

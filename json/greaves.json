@@ -1,0 +1,49 @@
+{
+   "micrownet" : [
+      "greaves"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Greaves",
+      "HASH(0x4a54e88)",
+      "Wikipedia",
+      "Greaves",
+      "http://www.merriam-webster.com/dictionary/greaves",
+      "greaves definition: armor for the shin.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Greave\">Greave</a>, armour that protects the leg (military)",
+      "HASH(0x4957e48)",
+      "\n<a href=\"http://duckduckgo.com/d/Greaves_(surname)\">Greaves (surname) Meanings</a>",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/rendering_(food_processing)\">Greaves (food)</a> - Rendering is a process that converts waste animal tissue into stable, value-added materials."
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2007_Cricket_World_Cup:_New_Zealand_vs_Ireland\" title=\"2007 Cricket World Cup: New Zealand vs Ireland\">2007 Cricket World Cup: New Zealand vs Ireland</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Study:_Children_who_socialise_more,_get_cancer_less\" title=\"Study: Children who socialise more, get cancer less\">Study: Children who socialise more, get cancer less</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465802,
+   "book" : [],
+   "micro-www" : {
+      "greaves" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Greaves' may refer to:\n\n*Greave, armour that protects the leg (military) *Greaves (surname)\n*Greaves (food)\n",
+      "title" : "greaves",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Greave",
+      "1: Grieve"
+   ]
+}

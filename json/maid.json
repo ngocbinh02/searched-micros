@@ -1,0 +1,130 @@
+{
+   "micrownet" : [
+      "lady's_maid",
+      "maid",
+      "maiden",
+      "maiden_aunt",
+      "maiden_blue-eyed_mary",
+      "maiden_flight",
+      "maiden_name",
+      "maiden_over",
+      "maiden_pink",
+      "maiden_voyage",
+      "maidenhair",
+      "maidenhair_berry",
+      "maidenhair_fern",
+      "maidenhair_spleenwort",
+      "maidenhair_tree",
+      "maidenhead",
+      "maidenhood",
+      "maidenlike",
+      "maidenliness",
+      "maidenly",
+      "maidhood",
+      "maidism",
+      "maidservant",
+      "maidu",
+      "maiduguri",
+      "meter_maid",
+      "old_maid",
+      "old_maid_flower"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Maid_(disambiguation)",
+      "\n<a href=\"http://duckduckgo.com/Massive_array_of_idle_disks\">Massive array of idle disks</a>, a data storage system",
+      "\n<a href=\"http://duckduckgo.com/Maid\">Maid</a> - A maid, or housemaid or maidservant, is a female person employed in domestic service.",
+      "HASH(0x4ae2c88)",
+      "Wikipedia",
+      "Maid",
+      "\n<a href=\"http://duckduckgo.com/Maid_(title)\">Maid (title)</a>, a title granted to the eldest daughter of a Scottish Laird",
+      "http://www.merriam-webster.com/dictionary/maid",
+      "\n<a href=\"http://duckduckgo.com/Maid_(name)\">Maid (name)</a>, Bosnian name for male children",
+      "maid definition: an unmarried girl or woman especially when young.",
+      "Merriam-Webster",
+      "HASH(0x4ae5770)",
+      "\n<a href=\"http://duckduckgo.com/virginity\">Maiden</a>, a virginal woman",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Maid%27s_escape_from_high-rise_leads_to_crackdown_on_agencies_in_Malaysia\" title=\"Maid&#39;s escape from high-rise leads to crackdown on agencies in Malaysia\"><span class=\"searchmatch\">Maid</span>&#39;s escape from high-rise leads to crackdown on agencies in Malaysia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_Prince_William_picks_brother_Harry_to_be_best_man_at_royal_wedding\" title=\"UK Prince William picks brother Harry to be best man at royal wedding\">UK Prince William picks brother Harry to be best man at royal wedding</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/MLB:_Pirates_complete_sweep_of_Astros\" title=\"MLB: Pirates complete sweep of Astros\">MLB: Pirates complete sweep of Astros</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chicago_White_Sox_win_2005_World_Series_baseball_championship\" title=\"Chicago White Sox win 2005 World Series baseball championship\">Chicago White Sox win 2005 World Series baseball championship</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Kung_Fu_star_Carradine_found_dead_in_Bangkok_hotel\" title=\"Kung Fu star Carradine found dead in Bangkok hotel\">Kung Fu star Carradine found dead in Bangkok hotel</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/IMF_head_remains_in_New_York_prison;_charged_over_alleged_hotel_sex_attack\" title=\"IMF head remains in New York prison; charged over alleged hotel sex attack\">IMF head remains in New York prison; charged over alleged hotel sex attack</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Poetry_lost%27:_rude_rhyme_rediscovered,_attributed_to_John_Milton\" title=\"&#39;Poetry lost&#39;: rude rhyme rediscovered, attributed to John Milton\">&#39;Poetry lost&#39;: rude rhyme rediscovered, attributed to John Milton</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Dominique_Strauss-Kahn_refused_bail_after_appearance_in_New_York_court\" title=\"Dominique Strauss-Kahn refused bail after appearance in New York court\">Dominique Strauss-Kahn refused bail after appearance in New York court</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Several_police_officers_stabbed_in_the_UK\" title=\"Several police officers stabbed in the UK\">Several police officers stabbed in the UK</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Abreu_smashes_records,_wins_Home_Run_Derby\" title=\"Abreu smashes records, wins Home Run Derby\">Abreu smashes records, wins Home Run Derby</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Dominique_Strauss-Kahn_resigns_as_head_of_IMF\" title=\"Dominique Strauss-Kahn resigns as head of IMF\">Dominique Strauss-Kahn resigns as head of IMF</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Supporters_of_Myanmar%27s_Suu_Kyi_mark_detained_leader%27s_62nd_birthday\" title=\"Supporters of Myanmar&#39;s Suu Kyi mark detained leader&#39;s 62nd birthday\">Supporters of Myanmar&#39;s Suu Kyi mark detained leader&#39;s 62nd birthday</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UN%27s_Convention_on_Domestic_Workers_expected_to_take_effect_in_2013\" title=\"UN&#39;s Convention on Domestic Workers expected to take effect in 2013\">UN&#39;s Convention on Domestic Workers expected to take effect in 2013</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Arrests_made_in_Australia_after_%27anti-terror%27_raids\" title=\"Arrests made in Australia after &#39;anti-terror&#39; raids\">Arrests made in Australia after &#39;anti-terror&#39; raids</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pen-Ek_Ratanaruang%27s_latest_film_makes_Thailand_premiere\" title=\"Pen-Ek Ratanaruang&#39;s latest film makes Thailand premiere\">Pen-Ek Ratanaruang&#39;s latest film makes Thailand premiere</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Reports_claim_French_President_marries_girlfriend\" title=\"Reports claim French President marries girlfriend\">Reports claim French President marries girlfriend</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/French_journalists_claim_Gaddafi_promised_Sarkozy_campaign_%E2%82%AC50_million\" title=\"French journalists claim Gaddafi promised Sarkozy campaign €50 million\">French journalists claim Gaddafi promised Sarkozy campaign €50 million</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/BDSM_as_business:_Interviews_with_Dominatrixes\" title=\"BDSM as business: Interviews with Dominatrixes\">BDSM as business: Interviews with Dominatrixes</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465433,
+   "book" : [],
+   "micro-www" : {
+      "maid" : [
+         "maiden_race_horse",
+         "Maiden_name",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Domestic work",
+         "Home economics",
+         "Maids|"
+      ],
+      "text" : "\n\n\nA 'maid', or 'housemaid' or 'maidservant', is a female person employed in\ndomestic service. Although now usually found only in the most wealthy of\nhouseholds, in the Victorian era domestic service was the second largest\ncategory of employment in England and Wales, after agricultural work.<ref>See\ncensus results [http://www.victorianweb.org/history/census.html here].</ref>\n",
+      "title" : "maid",
+      "headings" : [
+         "Description",
+         "Types of maid",
+         "In popular culture",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "3: Domestic_worker",
+      "1: Households",
+      "1: Victorian_era",
+      "1: Great_house",
+      "1: Upper_class",
+      "1: Western_world",
+      "1: Prepatellar_bursitis",
+      "1: Prepatellar_bursa",
+      "1: Ironing",
+      "1: Country",
+      "1: Uniform",
+      "1: Lady's_maid",
+      "1: Lady",
+      "1: Nursemaid",
+      "1: Scullery_maid",
+      "1: Between_maid",
+      "1: Butler",
+      "1: Still_room_maid",
+      "1: Still_room",
+      "1: England",
+      "1: Footman",
+      "1: Nanny",
+      "1: Au_pair",
+      "1: French_maid",
+      "1: Foreign_domestic_helpers_in_Hong_Kong",
+      "1: Maid_service",
+      "1: Cleaner",
+      "1: Janitor"
+   ]
+}

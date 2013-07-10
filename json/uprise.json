@@ -1,0 +1,31 @@
+{
+   "micrownet" : [
+      "uprise"
+   ],
+   "duck" : [
+      "uprise",
+      "uprise definition: to rise to a higher position.",
+      "http://www.merriam-webster.com/dictionary/uprise",
+      "uprise definition: to rise to a higher position.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Taiwanese_coalitions_argue_over_ex-President%27s_monument\" title=\"Taiwanese coalitions argue over ex-President&#39;s monument\">Taiwanese coalitions argue over ex-President&#39;s monument</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Belgian_terrorism_suspects_remain_in_custody_as_case_details_emerge\" title=\"Belgian terrorism suspects remain in custody as case details emerge\">Belgian terrorism suspects remain in custody as case details emerge</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471828,
+   "book" : [],
+   "micro-www" : {
+      "uprise" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

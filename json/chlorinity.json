@@ -1,0 +1,55 @@
+{
+   "micrownet" : [
+      "chlorinity"
+   ],
+   "duck" : [
+      "Chlorinity",
+      "The chlorinity of water is defined as the mass of chlorine equivalent to the total mass of halogen contained in 1 kg seawater.",
+      "\n<a href=\"http://duckduckgo.com/c/Analytical_chemistry\">Analytical chemistry</a>",
+      "http://www.merriam-webster.com/dictionary/chlorinity",
+      "chlorinity definition: a measure of the concentration of halides in one kilogram of seawater.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chlorine_spill_in_China%27s_Jiangsu_province_kills_28,_injures_hundreds\" title=\"Chlorine spill in China&#39;s Jiangsu province kills 28, injures hundreds\"><span class=\"searchmatch\">Chlorine</span> spill in China&#39;s Jiangsu province kills 28, injures hundreds</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Insurgents_in_Iraq_kill_32_with_chemical_bomb\" title=\"Insurgents in Iraq kill 32 with chemical bomb\">Insurgents in Iraq kill 32 with chemical bomb</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Plant_explosion_in_Apex,_North_Carolina\" title=\"Plant explosion in Apex, North Carolina\">Plant explosion in Apex, North Carolina</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_children_suffering_from_iodine_deficiency\" title=\"Australian children suffering from iodine deficiency\">Australian children suffering from iodine deficiency</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Airport_evacuated_in_%27liquid_bomb%27_scare\" title=\"US Airport evacuated in &#39;liquid bomb&#39; scare\">US Airport evacuated in &#39;liquid bomb&#39; scare</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert\" title=\"Over 60 dead in Kenya cholera outbreak, state issues alert\">Over 60 dead in Kenya cholera outbreak, state issues alert</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Louisiana_locked_down;_New_Orleans_could_become_a_%22toxic_soup%22\" title=\"Louisiana locked down; New Orleans could become a &quot;toxic soup&quot;\">Louisiana locked down; New Orleans could become a &quot;toxic soup&quot;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Lebanon_faces_humanitarian_crisis\" title=\"Lebanon faces humanitarian crisis\">Lebanon faces humanitarian crisis</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Researchers_say_Ozone_Hole_%22likely_to_contract,_may_disappear%22\" title=\"Researchers say Ozone Hole &quot;likely to contract, may disappear&quot;\">Researchers say Ozone Hole &quot;likely to contract, may disappear&quot;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Buffalo,_New_York_warehouse_fire_injures_12_firefighters\" title=\"Buffalo, New York warehouse fire injures 12 firefighters\">Buffalo, New York warehouse fire injures 12 firefighters</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Child_virus_outbreak_reaches_Beijing\" title=\"Child virus outbreak reaches Beijing\">Child virus outbreak reaches Beijing</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373468197,
+   "book" : [],
+   "micro-www" : {
+      "chlorinity" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Analytical chemistry"
+      ],
+      "text" : "\n\nThe 'chlorinity' of water is defined as the mass of chlorine equivalent to the\ntotal mass of halogen contained in 1 kg seawater. It is determined by the Mohr-\nKnudsen titration, which however neglects fluoride.\n\nThe halogen concentration of sea water can be expressed in terms of 'chlorosity'\nwhich is the number of grams of chloride and chloride equivalents to the bromide\nin one liter of sea water at .\n\nChlorinity is related to chlorosity as:\n\nChlorinity(<sup>o</sup>/<sub>oo</sub>) = chlorosity/density of the sample.\n\nChorinity is related to salinity as:\n\nSalinity(<sup>o</sup>/<sub>oo</sub>) = 0.03 + 1.805 x chlorinity.\n",
+      "title" : "chlorinity",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Water",
+      "1: Chlorine",
+      "1: Halogen",
+      "1: Titration",
+      "1: Fluoride"
+   ]
+}

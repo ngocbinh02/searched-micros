@@ -1,0 +1,98 @@
+{
+   "micrownet" : [
+      "receipts"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Invoice\">Invoice</a> - An invoice or bill is a commercial document issued by a seller to a buyer, indicating the products, quantities, and agreed prices for products or services the seller has provided the buyer.",
+      "\n<a href=\"http://duckduckgo.com/Cash_register\">Cash register</a> - A cash register also referred to as till is a mechanical or electronic device for calculating and recording sales transactions, and an attached drawer for storing cash.",
+      "https://en.wikipedia.org/wiki/Receipt",
+      "\n<a href=\"http://duckduckgo.com/Return_receipt\">Return receipt</a> - A return receipt is a postal service document confirming the arrival of a message or parcel at its intended destination.",
+      "Wikipedia",
+      "Receipt",
+      "http://www.merriam-webster.com/dictionary/receipt",
+      "receipt definition: recipe.",
+      "\n<a href=\"http://duckduckgo.com/c/Accounting_source_documents\">Accounting source documents</a>",
+      "\n<a href=\"http://duckduckgo.com/c/Commerce\">Commerce</a>",
+      "\n<a href=\"http://duckduckgo.com/Document_automation\">Document automation</a> in supply chain management & logistics",
+      "A receipt is a written acknowledgment that a specified article or sum of money has been received.",
+      "HASH(0x499ee60)",
+      "\n<a href=\"http://duckduckgo.com/point_of_sale\">Point of sales</a> - Point of sale or checkout is the place where a retail transaction is completed.",
+      "https://i.duckduckgo.com/i/45de1c1b.jpg",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/c/Paper_products\">Paper products</a>",
+      "HASH(0x49a1d70)",
+      "A",
+      "A receipt is a written acknowledgment that a specified article or sum of money has been received.",
+      "\n<a href=\"http://duckduckgo.com/Proof_of_purchase\">Proof of purchase</a> - Proof of purchase is often required for sales promotions and manufacturer rebates as evidence that the customer purchased the product."
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_Treasurer_hands_down_budget,_announces_two_years_of_deficits\" title=\"Australian Treasurer hands down budget, announces two years of deficits\">Australian Treasurer hands down budget, announces two years of deficits</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Fockers%27_set_to_meet_another_weekend_title\" title=\"&#39;Fockers&#39; set to meet another weekend title\">&#39;Fockers&#39; set to meet another weekend title</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Philippine_exports_plunge_to_eight-year_low\" title=\"Philippine exports plunge to eight-year low\">Philippine exports plunge to eight-year low</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/London_and_Toronto_stock_exchanges_propose_merger\" title=\"London and Toronto stock exchanges propose merger\">London and Toronto stock exchanges propose merger</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Electra%27-fying_competition_faces_%27Fockers%27\" title=\"&#39;Electra&#39;-fying competition faces &#39;Fockers&#39;\">&#39;Electra&#39;-fying competition faces &#39;Fockers&#39;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/London_bombers_rehearsed_attacks\" title=\"London bombers rehearsed attacks\">London bombers rehearsed attacks</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/GOP_presidential_candidate_Gary_Johnson_considers_Libertarian_Party_run\" title=\"GOP presidential candidate Gary Johnson considers Libertarian Party run\">GOP presidential candidate Gary Johnson considers Libertarian Party run</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/No_surprises_for_sport_in_2012/2013_Australian_federal_budget\" title=\"No surprises for sport in 2012/2013 Australian federal budget\">No surprises for sport in 2012/2013 Australian federal budget</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/On_the_campaign_trail,_January_2012\" title=\"On the campaign trail, January 2012\">On the campaign trail, January 2012</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Reactions_to_Apple%27s_OS_X_Tiger\" title=\"Reactions to Apple&#39;s OS X Tiger\">Reactions to Apple&#39;s OS X Tiger</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Former_Taiwanese_President_Chen_Shui-bian_detained\" title=\"Former Taiwanese President Chen Shui-bian detained\">Former Taiwanese President Chen Shui-bian detained</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ousted_Halton_MP_Garth_Turner_resigns_membership_from_Conservative_party\" title=\"Ousted Halton MP Garth Turner resigns membership from Conservative party\">Ousted Halton MP Garth Turner resigns membership from Conservative party</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Eight_men_and_several_Spinka_charities_charged_with_tax_fraud_in_Los_Angeles\" title=\"Eight men and several Spinka charities charged with tax fraud in Los Angeles\">Eight men and several Spinka charities charged with tax fraud in Los Angeles</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Wikipedia_founder_embroiled_in_affair_and_financial_allegations\" title=\"Wikipedia founder embroiled in affair and financial allegations\">Wikipedia founder embroiled in affair and financial allegations</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/On_the_campaign_trail,_August_2012\" title=\"On the campaign trail, August 2012\">On the campaign trail, August 2012</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Digest/26December2004\" title=\"Digest/26December2004\">Digest/26December2004</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Blu-ray_prevails_in_high_definition_disc_war\" title=\"Blu-ray prevails in high definition disc war\">Blu-ray prevails in high definition disc war</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464265,
+   "book" : [],
+   "micro-www" : {
+      "receipts" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Commerce",
+         "Accounting source documents",
+         "Paper products"
+      ],
+      "text" : "A 'receipt' is a written acknowledgment that a specified article or sum of money\nhas been received. A receipt records the purchase of goods or service. It is not\nthe same as an invoice.<ref>http://dictionary.law.com/Default.aspx?selected=1740\nReceipt Legal Terms and Definition Law.com</ref>\n",
+      "title" : "receipt",
+      "headings" : [
+         "Printed",
+         "Non-printed",
+         "Related industries",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Invoice",
+      "1: Grosse_Scheidegg",
+      "1: Euro",
+      "1: Point_of_sale",
+      "1: Tax",
+      "1: Discounts_and_allowances",
+      "1: Payment",
+      "1: Warranty",
+      "1: Coupons",
+      "1: IRS",
+      "1: Thermal_printer",
+      "1: Thermal_paper",
+      "1: Returning",
+      "1: Barcode",
+      "1: Cash_register",
+      "1: Document_automation",
+      "1: Point_of_sales",
+      "1: Return_receipt",
+      "1: Proof_of_purchase"
+   ]
+}

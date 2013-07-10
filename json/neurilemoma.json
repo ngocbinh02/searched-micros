@@ -1,0 +1,57 @@
+{
+   "micrownet" : [
+      "neurilemoma"
+   ],
+   "duck" : [
+      "HASH(0x47cb958)",
+      "HASH(0x4f07750)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_inclusion_bodies_that_aid_in_diagnosis_of_cutaneous_conditions"
+   ],
+   "created" : 1373463959,
+   "book" : [],
+   "micro-www" : {
+      "neurilemoma" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "PNS neoplasia",
+         "Dermal and subcutaneous growths"
+      ],
+      "text" : "{{Infobox_Disease | Name = | Image = Schwannoma_-_Antoni_A_and_B_-\n_very_high_mag.jpg | Caption = Micrograph of a schwannoma showing both a\ncellular Antoni A area (center and right of image) and a loose paucicellular\nAntoni B area (left edge of image). HPS stain. | DiseasesDB = 33713 | ICD10 = |\nICD9 = | ICDO = | OMIM = | MedlinePlus = | eMedicineSubj = | eMedicineTopic = |\nMeshID = D009442 | }} A 'schwannoma' (also known as an \"neurilemmoma,\"<ref\nname=\"Andrews\">James, William; Berger, Timothy; Elston, Dirk (2005). Andrews'\nDiseases of the Skin: Clinical Dermatology. (10th ed.). Saunders. ISBN 0-7216-2921-\n0.</ref> \"neurinoma,\"<ref name=\"Bolognia\" /> \"neurolemmoma,\"<ref name=\"Bolognia\"\n/> and \"Schwann cell tumor\"<ref name=\"Bolognia\"></ref>) is a benign nerve sheath\ntumor composed of Schwann cells, which normally produce the insulating myelin\nsheath covering peripheral nerves.\n\nSchwannomas are very homogeneous tumors, consisting only of Schwann cells. The\ntumor cells always stay on the outside of the nerve, but the tumor itself may\neither push the nerve aside and/or up against a bony structure (thereby possibly\ncausing damage). Schwannomas are relatively slow growing. For reasons not yet\nunderstood, schwannomas are mostly benign and less than 1% become malignant,\ndegenerating into a form of cancer known as neurofibrosarcoma.\n\nSchwannomas can arise from a genetic disorder called neurofibromatosis. They are\nuniversally S-100 positive.\n\nSchwannomas can be removed surgically, but can then recur.\n",
+      "title" : "Schwannoma",
+      "headings" : [
+         "See also",
+         "Additional images",
+         "References",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Micrograph",
+      "1: HPS_stain",
+      "1: Nerve_sheath_tumor",
+      "1: Schwann_cell",
+      "1: Myelin_sheath",
+      "1: Peripheral_nervous_system",
+      "1: Benign",
+      "1: Cancer",
+      "1: Neurofibrosarcoma",
+      "1: Neurofibromatosis",
+      "1: S-100_protein",
+      "1: Intranodal_palisaded_myofibroblastoma",
+      "1: List_of_inclusion_bodies_that_aid_in_diagnosis_of_cutaneous_conditions",
+      "1: Neurofibroma",
+      "1: Vestibular_schwannoma"
+   ]
+}

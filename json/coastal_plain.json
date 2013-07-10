@@ -1,0 +1,51 @@
+{
+   "micrownet" : [
+      "coastal_plain"
+   ],
+   "duck" : [
+      "HASH(0x4a70818)",
+      "HASH(0x4a910d0)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/United_Nations_Report:_Deserts_threatened_by_global_warming\" title=\"United Nations Report: Deserts threatened by global warming\">United Nations Report: Deserts threatened by global warming</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373466393,
+   "book" : [],
+   "micro-www" : {
+      "coastal_plain" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Slope landforms"
+      ],
+      "text" : "\n\n\n]] A 'coastal plain' is an area of flat, low-lying land adjacent to a seacoast\nand separated from the interior by other features. One of the world's longest\ncoastal plains is located in eastern South America. The southeastern coastal\nplain of North America is notable for its species diversity. The Gulf Coastal\nPlain of North America extends northwards from the Gulf of Mexico along the\nLower Mississippi River to the Ohio River, which is a distance of about 500\nmiles (about 800&nbsp;km). During the Cretaceous period, the central area of the\nUnited States was covered by a shallow sea, which disappeared as the land rose.\nLarge fossilized aquatic birds called [[Hesperornis]] and [[Ichthyornis]], found\nin western Kansas, indicate that the shallow sea was rife with fish.\n",
+      "title" : "coastal plain",
+      "headings" : [
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "1: South_America",
+      "1: North_America",
+      "1: Species",
+      "1: Gulf_Coastal_Plain",
+      "1: Gulf_of_Mexico",
+      "1: Mississippi_River",
+      "1: Ohio_River",
+      "1: Cretaceous",
+      "1: Kansas",
+      "1: California_coastal_prairie",
+      "1: Western_Gulf_coastal_grasslands"
+   ]
+}

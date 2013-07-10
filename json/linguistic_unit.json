@@ -1,0 +1,27 @@
+{
+   "micrownet" : [
+      "linguistic_unit"
+   ],
+   "duck" : [
+      "HASH(0x4842148)",
+      "HASH(0x1a5b008)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sri_Lanka_Army_captures_Tamil_Tiger%27s_capital_of_Kilinochchi\" title=\"Sri Lanka Army captures Tamil Tiger&#39;s capital of Kilinochchi\">Sri Lanka Army captures Tamil Tiger&#39;s capital of Kilinochchi</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464959,
+   "book" : [],
+   "micro-www" : {
+      "linguistic_unit" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

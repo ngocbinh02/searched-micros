@@ -1,0 +1,80 @@
+{
+   "micrownet" : [
+      "coverage",
+      "insurance_coverage"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Coverage",
+      "HASH(0x4990150)",
+      "Wikipedia",
+      "Coverage",
+      "\n<a href=\"http://duckduckgo.com/Code_coverage\">Code coverage</a> measure used in software testing",
+      "http://www.merriam-webster.com/dictionary/coverage",
+      "coverage definition: something that covers.",
+      "Merriam-Webster",
+      "HASH(0x4aa4578)",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/IPC_criticizes_US_Paralympic_coverage\" title=\"IPC criticizes US Paralympic coverage\">IPC criticizes US Paralympic <span class=\"searchmatch\">coverage</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2005_World_Social_Forum-Brazil_coverage\" title=\"2005 World Social Forum-Brazil coverage\">2005 World Social Forum-Brazil <span class=\"searchmatch\">coverage</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Internet_hackers_attack_Al-Jazeera_website,_condemn_news_service%27s_Syrian_civil_war_coverage\" title=\"Internet hackers attack Al-Jazeera website, condemn news service&#39;s Syrian civil war coverage\">Internet hackers attack Al-Jazeera website, condemn news service&#39;s Syrian civil war <span class=\"searchmatch\">coverage</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_newspapers_face_libel,_privacy_action_over_murder_coverage\" title=\"UK newspapers face libel, privacy action over murder coverage\">UK newspapers face libel, privacy action over murder <span class=\"searchmatch\">coverage</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australians_missing_out_on_full_sports_coverage,_media_outlets_say\" title=\"Australians missing out on full sports coverage, media outlets say\">Australians missing out on full sports <span class=\"searchmatch\">coverage</span>, media outlets say</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Coverage_of_the_80th_Academy_Awards\" title=\"Coverage of the 80th Academy Awards\"><span class=\"searchmatch\">Coverage</span> of the 80th Academy Awards</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Massachusetts_lawmakers_enact_plan_for_universal_health_coverage\" title=\"Massachusetts lawmakers enact plan for universal health coverage\">Massachusetts lawmakers enact plan for universal health <span class=\"searchmatch\">coverage</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/CBS_blog_criticizes_stations%27_coverage_of_Tigger_incident\" title=\"CBS blog criticizes stations&#39; coverage of Tigger incident\">CBS blog criticizes stations&#39; <span class=\"searchmatch\">coverage</span> of Tigger incident</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Zealand_National_party:_%22TVNZ_must_explain_coup_threat_coverage%22\" title=\"New Zealand National party: &quot;TVNZ must explain coup threat coverage&quot;\">New Zealand National party: &quot;TVNZ must explain coup threat <span class=\"searchmatch\">coverage</span>&quot;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Kentucky_Derby_field_chart\" title=\"Kentucky Derby field chart\">Kentucky Derby field chart</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/CNN_headquarters_infected_with_computer_worm,_exaggerates_global_threat\" title=\"CNN headquarters infected with computer worm, exaggerates global threat\">CNN headquarters infected with computer worm, exaggerates global threat</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Eyewitnesses_challenge_Egyptian_state_media_impartiality_in_fatal_protests\" title=\"Eyewitnesses challenge Egyptian state media impartiality in fatal protests\">Eyewitnesses challenge Egyptian state media impartiality in fatal protests</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ontario_Votes_2007\" title=\"Ontario Votes 2007\">Ontario Votes 2007</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ontario_Votes_2007#Other_election_coverage\" title=\"Ontario Votes 2007\">Other election <span class=\"searchmatch\">coverage</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Results_to_be_announced_in_the_New_Zealand_2005_General_Election\" title=\"Results to be announced in the New Zealand 2005 General Election\">Results to be announced in the New Zealand 2005 General Election</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Results_of_the_2005_New_Zealand_General_Election\" title=\"Results of the 2005 New Zealand General Election\">Results of the 2005 New Zealand General Election</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/India_issued_tsunami_warning,_nothing_happened\" title=\"India issued tsunami warning, nothing happened\">India issued tsunami warning, nothing happened</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373463287,
+   "book" : [],
+   "micro-www" : {
+      "coverage" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Coverage' may refer to:\n",
+      "title" : "coverage",
+      "headings" : [
+         "Filmmaking",
+         "Media and journalism",
+         "Music",
+         "Science and technology",
+         "Other uses",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Camera_coverage",
+      "1: Script_coverage",
+      "1: Broadcasting",
+      "1: News",
+      "1: Cover_band",
+      "1: Code_coverage",
+      "1: Shot_peening#Coverage",
+      "1: J.O._Almen",
+      "1: Coverage_data",
+      "1: Coverage_probability",
+      "1: Fold_coverage",
+      "1: Radio_frequency",
+      "1: Financial_analyst",
+      "1: Insurance"
+   ]
+}

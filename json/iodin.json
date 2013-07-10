@@ -1,0 +1,38 @@
+{
+   "micrownet" : [
+      "iodin",
+      "iodinate",
+      "iodinated",
+      "iodinated_protein",
+      "iodinating",
+      "iodination",
+      "iodine"
+   ],
+   "duck" : [
+      "HASH(0x4a4a340)",
+      "HASH(0x4a186d8)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462779,
+   "book" : [],
+   "micro-www" : {
+      "iodin" : [
+         "iodine_deficiency",
+         "iodine#toxicity",
+         "iodine",
+         "iodination",
+         "Iodine_deficiency",
+         "Iodine-131",
+         "Iodine",
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

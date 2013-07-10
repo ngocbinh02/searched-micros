@@ -1,0 +1,100 @@
+{
+   "micrownet" : [
+      "concentration",
+      "concentration_camp",
+      "concentration_gradient",
+      "hydrogen_ion_concentration",
+      "molal_concentration",
+      "molar_concentration"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Concentration_(game)\">Concentration (game)</a>, the card game",
+      "Concentration",
+      "\n<a href=\"http://duckduckgo.com/Concentration\">Concentration</a>, in chemistry, the measure of how much of a given substance there is mixed with another substance",
+      "http://www.merriam-webster.com/dictionary/concentration",
+      "\n<a href=\"http://duckduckgo.com/Concentration_ratio\">Concentration ratio</a>, in economics, a measure of market concentration.",
+      "concentration definition: the act or process of concentrating.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Man_apologizes_for_grandfather%27s_duty_as_a_concentration_camp_guard\" title=\"Man apologizes for grandfather&#39;s duty as a concentration camp guard\">Man apologizes for grandfather&#39;s duty as a <span class=\"searchmatch\">concentration</span> camp guard</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Study_says_carbon_dioxide_levels_rising_faster_than_anticipated\" title=\"Study says carbon dioxide levels rising faster than anticipated\">Study says carbon dioxide levels rising faster than anticipated</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_sending_additional_500_troops_to_Afghanistan\" title=\"UK sending additional 500 troops to Afghanistan\">UK sending additional 500 troops to Afghanistan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hydrated_protons_pair_off\" title=\"Hydrated protons pair off\">Hydrated protons pair off</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Vitamin_D_deficiency_more_common,_serious,_than_thought\" title=\"Vitamin D deficiency more common, serious, than thought\">Vitamin D deficiency more common, serious, than thought</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Davos_man%27_versus_%27Camp_Igloo%27;_42nd_World_Economic_Forum_convenes_in_Swiss_alps\" title=\"&#39;Davos man&#39; versus &#39;Camp Igloo&#39;; 42nd World Economic Forum convenes in Swiss alps\">&#39;Davos man&#39; versus &#39;Camp Igloo&#39;; 42nd World Economic Forum convenes in Swiss alps</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ephraim_Kishon_dies_at_80\" title=\"Ephraim Kishon dies at 80\">Ephraim Kishon dies at 80</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Muslim_opens_first_Arab_Holocaust_museum_in_Nazareth\" title=\"Muslim opens first Arab Holocaust museum in Nazareth\">Muslim opens first Arab Holocaust museum in Nazareth</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/German_actor_Erwin_Geschonneck_dies_at_101\" title=\"German actor Erwin Geschonneck dies at 101\">German actor Erwin Geschonneck dies at 101</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Red_tide_affects_South_Padre_Island,_Mexico\" title=\"Red tide affects South Padre Island, Mexico\">Red tide affects South Padre Island, Mexico</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Nazi_hunter_Simon_Wiesenthal_dead_at_96\" title=\"Nazi hunter Simon Wiesenthal dead at 96\">Nazi hunter Simon Wiesenthal dead at 96</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Belgian_resistance_heroine_Andr%C3%A9e_de_Jongh_dies_at_90\" title=\"Belgian resistance heroine Andrée de Jongh dies at 90\">Belgian resistance heroine Andrée de Jongh dies at 90</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mayor_of_London_compares_reporter_to_Nazi_prison_guard\" title=\"Mayor of London compares reporter to Nazi prison guard\">Mayor of London compares reporter to Nazi prison guard</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scientists_say_genetic_building_blocks_are_from_out_of_this_world\" title=\"Scientists say genetic building blocks are from out of this world\">Scientists say genetic building blocks are from out of this world</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_report_shows_emissions_increase_%22more_than_doubled_since_the_1990s%22\" title=\"Australian report shows emissions increase &quot;more than doubled since the 1990s&quot;\">Australian report shows emissions increase &quot;more than doubled since the 1990s&quot;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Cricket:_Sehwag_dominates,_but_India_trails\" title=\"Cricket: Sehwag dominates, but India trails\">Cricket: Sehwag dominates, but India trails</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/KKE:_Interview_with_the_Greek_Communist_Party\" title=\"KKE: Interview with the Greek Communist Party\">KKE: Interview with the Greek Communist Party</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ukraine_opposition_candidate_Yushchenko_is_suffering_from_a_Dioxin_intoxication,_doctors_say\" title=\"Ukraine opposition candidate Yushchenko is suffering from a Dioxin intoxication, doctors say\">Ukraine opposition candidate Yushchenko is suffering from a Dioxin intoxication, doctors say</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Light_stopped_for_over_a_second\" title=\"Light stopped for over a second\">Light stopped for over a second</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Khamenei_criticizes_%22materialistic_values%22_for_mistreatment_of_workers\" title=\"Khamenei criticizes &quot;materialistic values&quot; for mistreatment of workers\">Khamenei criticizes &quot;materialistic values&quot; for mistreatment of workers</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373473300,
+   "book" : [],
+   "micro-www" : {
+      "concentration" : [
+         "concentrations",
+         "concentration",
+         "Concentration_gradient",
+         "Concentration",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Analytical chemistry",
+         "Chemical properties"
+      ],
+      "text" : "\n\nIn chemistry, 'concentration' is the abundance of a constituent divided by the\ntotal volume of a mixture. Several types of mathematical description can be\ndistinguished: mass concentration, molar concentration, number concentration,\nand volume concentration.<ref name=\"goldbook\"></ref> The term concentration can\nbe applied to any kind of chemical mixture, but most frequently it refers to\nsolutes and solvents in solutions. The molar (amount) concentration has variants\nsuch as normal concentration and osmotic concentration.\n",
+      "title" : "concentration",
+      "headings" : [
+         "Qualitative description",
+         "Quantitative notation",
+         "Related quantities",
+         "Dependence on volume",
+         "Table of concentrations and related quantities",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "9: International_System_of_Units",
+      "4: Amount_of_substance",
+      "4: Parts-per_notation",
+      "2: Solution",
+      "1: Chemistry",
+      "1: Concentration#Mass_concentration",
+      "1: Concentration#Molar_concentration",
+      "1: Concentration#Number_concentration",
+      "1: Concentration#Volume_concentration",
+      "1: Solute",
+      "1: Normal_concentration",
+      "1: Osmotic_concentration",
+      "1: Qualitative_data",
+      "1: Solvent",
+      "1: Miscible",
+      "1: Supersaturation",
+      "1: Mass",
+      "1: IUPAC",
+      "1: NIST",
+      "1: Molarity",
+      "1: Serial_dilution",
+      "1: Dose_concentration"
+   ]
+}

@@ -1,0 +1,73 @@
+{
+   "micrownet" : [
+      "xanthic_acid"
+   ],
+   "duck" : [
+      "HASH(0x4d48468)",
+      "HASH(0x4d02e50)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464360,
+   "book" : [],
+   "micro-www" : {
+      "xanthic_acid" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Salts",
+         "Functional groups",
+         "Organosulfur compounds"
+      ],
+      "text" : "\n\n'Xanthate' usually refers to a salt with the formula ROCS<sub>2</sub><sup>-\n</sup>M<sup>+</sup> (R = alkyl; M+ = Na<sup>+</sup>, K<sup>+</sup>).<ref>IUPAC\ndoes not recommend the use of the term xanthate, although it is in current use\nin the scientific literature: </ref> The name xanthates is derived from Greek\nξανθός , meaning “yellowish, golden”, and indeed most xanthate salts are yellow.\nThese organosulfur compounds are important in two areas, the production of\ncellophane and related polymers from cellulose and secondly in mining for the\nextraction of certain ores.<ref name=Ullmann>Kathrin-Maria Roy \"Xanthates\" in\nUllmann's Encyclopedia of Industrial Chemistry 2005, Wiley-VCH, Weinheim. </ref>\nThey are also versatile intermediates in organic synthesis. Xanthates also refer\nto esters of xanthic acid. These esters have the structure ROC(=S)SR'.\n",
+      "title" : "Xanthate",
+      "headings" : [
+         "Formation and structure",
+         "Reactions",
+         "Industrial applications",
+         "Related compounds",
+         "Environmental impacts",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Cellophane",
+      "2: Carbon_disulfide",
+      "2: Potassium_ethyl_xanthate",
+      "2: Sodium_ethyl_xanthate",
+      "1: Alkyl",
+      "1: IUPAC",
+      "1: Ancient_Greek",
+      "1: Organosulfur_compound",
+      "1: Cellulose",
+      "1: Organic_synthesis",
+      "1: Ester",
+      "1: Xanthic_acid",
+      "1: Alcohol",
+      "1: Potassium_hydroxide",
+      "1: Alkoxide",
+      "1: Sodium_ethoxide",
+      "1: Thiosulfate",
+      "1: Alkali_hydroxide",
+      "1: Alkylation",
+      "1: BartonâMcCombie_deoxygenation",
+      "1: Ligand",
+      "1: Sodium_hydroxide",
+      "1: Viscose",
+      "1: Sellotape",
+      "1: Scotch_Tape",
+      "1: Flotation_process",
+      "1: Chugaev_elimination",
+      "1: Living_polymerization",
+      "1: Dithiocarbamate",
+      "1: Sodium_diethyldithiocarbamate"
+   ]
+}

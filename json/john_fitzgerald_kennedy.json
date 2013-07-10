@@ -1,0 +1,28 @@
+{
+   "micrownet" : [
+      "john_fitzgerald_kennedy"
+   ],
+   "duck" : [
+      "HASH(0x5137e70)",
+      "HASH(0x5137ae0)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2006_U.S._Congressional_Elections\" title=\"2006 U.S. Congressional Elections\">2006 U.S. Congressional Elections</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Gay_Talese_on_the_state_of_journalism,_Iraq_and_his_life\" title=\"Gay Talese on the state of journalism, Iraq and his life\">Gay Talese on the state of journalism, Iraq and his life</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464053,
+   "book" : [],
+   "micro-www" : {
+      "john_fitzgerald_kennedy" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

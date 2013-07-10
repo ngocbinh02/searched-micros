@@ -1,0 +1,87 @@
+{
+   "micrownet" : [
+      "negotiant"
+   ],
+   "duck" : [
+      "Negotiant",
+      "http://www.merriam-webster.com/dictionary/negotiant",
+      "negotiant definition: one that negotiates.",
+      "Merriam-Webster",
+      "https://i.duckduckgo.com/i/c64b3abe.png",
+      "Negotiant is a company based out of Bratislava, SVK, founded in 2005.",
+      "\n<a href=\"http://duckduckgo.com/19/Lexxus\">Lexxus</a> - Lexxus is a company.",
+      "ARRAY(0x5b0f5b8)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373466806,
+   "book" : [],
+   "micro-www" : {
+      "negotiant" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Wine terms",
+         "Oenology",
+         "Viticulture",
+         "French words and phrases"
+      ],
+      "text" : "\n\nA 'winemaker' or 'vintner' is a person engaged in winemaking. They are generally\nemployed by wineries or , where their work includes: *Cooperating with\nviticulturists *Monitoring the maturity of grapes to ensure their quality and to\ndetermine the correct time for harvest *Crushing and pressing grapes *Monitoring\nthe settling of juice and the fermentation of grape material *Filtering the wine\nto remove remaining solids *Testing the quality of wine by tasting *Placing\nfiltered wine in casks or tanks for storage and maturation *Preparing plans for\nbottling wine once it has matured *Making sure that quality is maintained when\nthe wine is bottled<ref>Echikson, Tom. Noble Rot. NY: Norton, 2004</ref>\n\nToday, these duties require an increasing amount of scientific knowledge, since\nlaboratory tests are gradually supplementing or replacing traditional methods.\nWinemakers can also be referred to as oenologists as they study oenology - the\nscience of wine.\n",
+      "title" : "Winemaker",
+      "headings" : [
+         "Vintner",
+         "Vigneron",
+         "Négociant",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Viticulture",
+      "2: Oenology",
+      "2: Wine",
+      "1: Winemaking",
+      "1: Winery",
+      "1: Grape_juice",
+      "1: Wine_tasting",
+      "1: Casks",
+      "1: Merchant",
+      "1: American_English",
+      "1: Winemaker",
+      "1: Middle_English",
+      "1: Bordeaux_wine",
+      "1: London",
+      "1: Edward_II_of_England",
+      "1: Vineyard",
+      "1: Vincent_of_Saragossa",
+      "1: Patron_saint",
+      "1: French_language",
+      "1: Grape",
+      "1: Must",
+      "1: Wine-making",
+      "1: Age_the_wine",
+      "1: Fruit_press",
+      "1: Bottling_line",
+      "1: Barrel",
+      "1: Premier_cru",
+      "1: Burgundy_wine",
+      "1: Bouchard_Père_et_Fils",
+      "1: Louis_Jadot",
+      "1: Joseph_Drouhin",
+      "1: Vincent_Girardin",
+      "1: Georges_Duboeuf",
+      "1: Guigal",
+      "1: Jean-Luc_Colombo",
+      "1: Jaboulet",
+      "1: Vignerons_indépendants_de_France",
+      "1: Winemaking_cooperative"
+   ]
+}

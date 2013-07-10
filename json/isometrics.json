@@ -1,0 +1,84 @@
+{
+   "micrownet" : [
+      "isometrics"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Isometre\">Isometre</a>, a rhythmic technique in music.",
+      "\n<a href=\"http://duckduckgo.com/Isometric_graphics_in_video_games_and_pixel_art\">Isometric graphics in video games and pixel art</a>, a near-isometric parallel projection used in computer art.",
+      "Isometric",
+      "\n<a href=\"http://duckduckgo.com/Isometry\">Isometry</a> and isometric embeddings in mathematics, a distance-preserving representation of one metric space as a subset of another. Like congruence in geometry.",
+      "http://www.merriam-webster.com/dictionary/isometric",
+      "isometric definition: of, relating to, or characterized by equality of measure; '''especially'''.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/isochoric_process\">Isometric process</a>, a thermodynamic process at constant volume (also isovolumetric)",
+      "\n<a href=\"http://duckduckgo.com/Cubic_crystal_system\">Cubic crystal system</a>, also called isometric crystal system",
+      "The term isometric comes from the Greek for \"having equal measurement\".",
+      "\n<a href=\"http://duckduckgo.com/Isometric_projection\">Isometric projection</a> (or \"isometric perspective\"), a method for the visual representation of three-dimensional objects in two dimensions; a form of orthographic projection, or more specifically, an axonometric projection.",
+      "\n<a href=\"http://duckduckgo.com/Isometric_exercise\">Isometric exercise</a>, a form of resistance exercise in which one's muscles are used in opposition with other muscle groups, to increase strength, for bodybuilding, physical fitness, or strength training."
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471891,
+   "book" : [],
+   "micro-www" : {
+      "isometrics" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Physical exercise",
+         "Exercise physiology",
+         "Bodybuilding"
+      ],
+      "text" : "\n'Isometric exercise' or 'isometrics' are a type of strength training in which\nthe joint angle and muscle length do not change during contraction (compared to\nconcentric or eccentric contractions, called dynamic/isotonic movements).\nIsometrics are done in static positions, rather than being dynamic through a\nrange of motion.\n",
+      "title" : "Isometric%20exercise",
+      "headings" : [
+         "Overcoming versus yielding",
+         "Definition",
+         "Isometric resistance",
+         "History",
+         "Medical uses",
+         "Comparison with dynamic exercises",
+         "NASA studies",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Muscle_contraction#Concentric_contraction",
+      "2: Muscle_contraction#Eccentric_contraction",
+      "2: Range_of_motion",
+      "1: Strength_training",
+      "1: Joint",
+      "1: Muscle",
+      "1: Bench_press",
+      "1: Resistance_training",
+      "1: Asana",
+      "1: Yoga",
+      "1: Martial_arts",
+      "1: Physical_culture",
+      "1: Bodybuilding",
+      "1: Charles_Atlas",
+      "1: Calisthenics",
+      "1: Heart_murmur",
+      "1: Mitral_regurgitation",
+      "1: Aortic_stenosis",
+      "1: NASA",
+      "1: Muscle_atrophy",
+      "1: Astronauts",
+      "1: Weightlessness",
+      "1: Muscle_contraction",
+      "1: Proteins",
+      "1: Physical_strength",
+      "1: Dynamic_tension",
+      "1: Isokinetic_exercises"
+   ]
+}

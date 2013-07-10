@@ -1,0 +1,74 @@
+{
+   "micrownet" : [
+      "rankine",
+      "rankine_scale"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Rankine",
+      "\n<a href=\"http://duckduckgo.com/Rankine_Lecture\">Rankine Lecture</a>, a <a href=\"http://duckduckgo.com/?q=named lecture\">named lecture</a> delivered annually by an expert in the field of <a href=\"http://duckduckgo.com/?q=Geotechnics\">Geotechnics</a>.",
+      "HASH(0x49d6c10)",
+      "Wikipedia",
+      "Rankine",
+      "\n<a href=\"http://duckduckgo.com/Rankine_scale\">Rankine scale</a>, an absolute-temperature scale related to the <a href=\"http://duckduckgo.com/?q=Fahrenheit\">Fahrenheit</a> scale, named for Rankine",
+      "http://www.merriam-webster.com/dictionary/rankine",
+      "rankine definition: being, according to, or relating to an absolute-temperature scale on which the unit of measurement equals a Fahrenheit degree and on which the freezing point of water is 491.67° and the boiling point 671.67°.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/William_John_Macquorn_Rankine\">William John Macquorn Rankine</a> (1820–1872), an engineer and physicist",
+      "HASH(0x4a0f988)",
+      "\n<a href=\"http://duckduckgo.com/Rankine_cycle\">Rankine cycle</a>, a thermodynamic heat-engine cycle, also named after Rankine",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462836,
+   "book" : [],
+   "micro-www" : {
+      "rankine" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "'Rankine' most commonly refers to:\n* William John Macquorn Rankine (1820–1872), an engineer and physicist\n* Rankine scale, an absolute-temperature scale related to the Fahrenheit scale,\n  named for Rankine\n* Rankine cycle, a thermodynamic heat-engine cycle, also named after Rankine\n* Rankine Lecture, a named lecture delivered annually by an expert in the field\n  of Geotechnics.\n",
+      "title" : "rankine",
+      "headings" : [
+         "Other People",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "2: William_John_Macquorn_Rankine",
+      "1: Rankine_scale",
+      "1: Fahrenheit",
+      "1: Rankine_cycle",
+      "1: Rankine_Lecture",
+      "1: Named_lectures",
+      "1: Geotechnics",
+      "1: Alan_Rankine",
+      "1: Alexander_Rankine",
+      "1: Claudia_Rankine",
+      "1: Dean_Rankine",
+      "1: George_Rankine_Irwin",
+      "1: Jennifer_Rankine",
+      "1: John_Rankine",
+      "1: Mark_Rankine",
+      "1: Michael_Rankine",
+      "1: Scotty_Rankine",
+      "1: Thomas_Rankine",
+      "1: William_Rankine_Milligan,_Lord_Milligan",
+      "1: Organic_Rankine_cycle",
+      "1: Rankine_body",
+      "1: Rankine_power_station",
+      "1: Rankine_theory",
+      "1: Rankine_vortex",
+      "1: Rankine's_method",
+      "1: RankineâHugoniot_equation",
+      "1: TroutonâRankine_experiment"
+   ]
+}

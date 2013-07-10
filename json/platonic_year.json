@@ -1,0 +1,68 @@
+{
+   "micrownet" : [
+      "platonic_year"
+   ],
+   "duck" : [
+      "HASH(0x4ac51d8)",
+      "HASH(0x46fea68)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:July_27,_2010\" title=\"News briefs:July 27, 2010\">News briefs:July 27, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:July_27,_2010#Google_Android_smartphone_sales_triple_in_the_UK_this_year_.289:05.29\" title=\"News briefs:July 27, 2010\">Google Android smartphone sales triple in the UK this <span class=\"searchmatch\">year</span> (9:05) </a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462717,
+   "book" : [],
+   "micro-www" : {
+      "platonic_year" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Astronomical epochs",
+         "History of astronomy",
+         "History of astrology",
+         "Astrological ages",
+         "Precession"
+      ],
+      "text" : "The term 'Great Year' has a variety of related meanings. It is defined by NASA\nas \"The period of one complete cycle of the equinoxes around the ecliptic, about\n25,800 years […] also known as [a] 'Platonic Year'.\"<ref>http://www.hq.nasa.gov-\n/office/hqlibrary/aerospacedictionary/aerodictall/g.html</ref> One complete\ncycle of the equinoxes here means one complete cycle of axial precession,\nhowever such precession was unknown to Plato, who defined the \"perfect year\" as\nthe return of the celestial bodies (planets) and the diurnal rotation of the\nfixed stars (circle of the Same) to their original positions. Cicero followed\nPlato in defining the Great Year as a combination of solar, lunar and planetary\ncycles <ref name=\"archive.org\">http://archive.org/stream/denaturadeorumac00cice-\nuoft/denaturadeorumac00ciceuoft_djvu.txt</ref> (61 XX) Nicholas Campion writes\nof \"periods of History, analogous to the solar year, known as 'Great Years' \"\n<ref name=\"Campion\">Nicholas Campion, \"The Great Year: Astrology, Millenarianism\nand History in the Western Tradition\" (Arkana/Penguin Books, 1994), p.6.</ref>\n\nPlato's description of the perfect year is found in his dialogue [[Timaeus\n(dialogue)|Timaeus]]\n\nIn De Natura Deorum, Cicero wrote\n\n\n\nBy extension, the term \"Great Year\" can also be used for any concept of eternal\nreturn in the world's mythologies or philosophies. Otto Neugebauer wrote\n\n\n\nMacrobius in his commentary on Cicero's Somnium Scipiones states that 'the\nphilosophers' reckon the Great Year as 15,000 years.<ref name=\"books.google.co.-\nuk\">http://books.google.co.uk/books?id=PHdktsVb_X4C&pg=PA96&lpg=PA96&dq=censori-\nnus+aristarchus+great+year&source=bl&ots=kOiHKFs95x&sig=f8GoH7GexbmZP6ccESBn_kH-\n5KLs&hl=en&sa=X&ei=aVHQUNydFYTB0QWE3YHoDA&ved=0CFoQ6AEwCA#v=onepage&q=censorinu-\ns%20aristarchus%20great%20year&f=false</ref> (p.&nbsp;97) Censorinus wrote that\nAristarchus of Samos reckoned a Great Year of 2484 years: it has been argued\nthat this is a miscopying of 2434, which represents 15 Exeligmos cycles.<ref\nname=\"books.google.co.uk\"/>(p.&nbsp;96)\n<ref>http://www.dioi.org/vols/wb1.pdf</ref>(p.&nbsp;6)\n\nThe Platonic Year has in origin no connection with this concept (as the\nprecession of the equinox was unknown to the public in Plato's\ntime).<ref>William Harris Stahl, \"Macrobius: Commentary on the Dream of Scipio\"\n(Columbia University Press, 1952), p. 21</ref> Two centuries after Plato,\nHipparchus established the period of equinox precession, and the term \"Great\nYear\" eventually came to be applied to the period of that precession caused by\nthe slow gyration of the Earth's axis.\n\n\n\nIt is argued that the confusion originates with the astronomer Ptolemy, who\n\"adopted the larger, erroneous, figure, with the result that henceforth the two\nversions of the Great Year - the Platonic Great Year, defined by the planets,\nand the precessional, defined by the stars - were to be increasingly\nconfused.\"<ref name=\"Campion\">Nicholas Campion, \"The Great Year: Astrology,\nMillenarianism and History in the Western Tradition\" (Arkana/Penguin Books,\n1994), p. 246&ndash;247.</ref></blockquote> Ptolemy has been accused of\ncommitting scientific fraud by making up observations that would give the figure\nof 36,000 years even though the data available to him were good enough to get\nvery near the true figure of 26,000.<ref name=\"newton\">R.R.Newton, \"The\nAuthenticity of Ptolemy's star data\"\n([http://adsabs.harvard.edu/full/1974QJRAS..15..107N])</ref>\n\nJosephus refers to a 'Great Year' - μεγας νιαυτος πληρουτοι - of 600 years.<ref\nname=\"sacred-texts.com\">http://www.sacred-texts.com/jud/josephus/ant-\n1.htm</ref> (ch.4)\n\n\n\nIt has been suggested that he obtained this value from Berossos who reckoned\ntime in intervals of 60, 600 and 3600 years.<ref>Josephus, Jewish Antiquities,\nLoeb, p.1, note a,</ref>\n\nIsaac Newton determined the cause of precession and established the rate of\nprecession at 1 degree per 72 years, very close to the true value, thus\ndemonstrating the magnitude of the error in the value of 1 degree per century.<ref>http://www.fordham.edu/halsall/mod/1778voltaire-\nlettres.asp</ref> (letter 17)\n\nWalter Cruttenden wrote of the Great Year\n",
+      "title" : "Great%20Year",
+      "headings" : [
+         "See also",
+         "Footnotes",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Nicholas_Campion",
+      "2: Ptolemy",
+      "1: NASA",
+      "1: Axial_precession",
+      "1: Plato",
+      "1: Diurnal_motion",
+      "1: Cicero",
+      "1: De_Natura_Deorum",
+      "1: Eternal_return",
+      "1: Otto_Neugebauer",
+      "1: Macrobius",
+      "1: Somnium_Scipiones",
+      "1: Censorinus",
+      "1: Aristarchus_of_Samos",
+      "1: Exeligmos",
+      "1: Hipparchus",
+      "1: Precession_of_the_equinox",
+      "1: Josephus",
+      "1: Berossos",
+      "1: Isaac_Newton",
+      "1: Astrological_age",
+      "1: Precession",
+      "1: Yuga"
+   ]
+}

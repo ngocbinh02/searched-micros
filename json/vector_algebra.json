@@ -1,0 +1,44 @@
+{
+   "micrownet" : [
+      "vector_algebra"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373469577,
+   "book" : [],
+   "micro-www" : {
+      "vector_algebra" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Algebra"
+      ],
+      "text" : "In mathematics, 'vector algebra' may mean:\n* Linear algebra, specifically the basic algebraic operations of vector addition\n  and scalar multiplication; see vector space.\n* The algebraic operations in vector calculus, namely the specific additional\n  structure of vectors in 3-dimensional Euclidean space\n  <math>\\mathbf{R}^3</math> of dot product and especially cross product. In this\n  sense, 'vector algebra' is contrasted with geometric algebra, which provides\n  an alternative generalization to higher dimensions.\n* Original vector algebras of the nineteenth century like quaternions,\n  tessarines, or coquaternions, each of which has its own product. The vector\n  algebras biquaternions and hyperbolic quaternions enabled the revolution in\n  physics called special relativity by providing mathematical models.\n",
+      "title" : "vector algebra",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Linear_algebra",
+      "1: Vector_space",
+      "1: Vector_calculus",
+      "1: Euclidean_space",
+      "1: Dot_product",
+      "1: Cross_product",
+      "1: Geometric_algebra",
+      "1: Quaternion",
+      "1: Tessarine",
+      "1: Coquaternion",
+      "1: Biquaternion",
+      "1: Hyperbolic_quaternion",
+      "1: Special_relativity"
+   ]
+}

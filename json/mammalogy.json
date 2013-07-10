@@ -1,0 +1,62 @@
+{
+   "micrownet" : [
+      "mammalogy"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/c/Mammalogy\">Mammalogy Category</a>",
+      "Mammalogy",
+      "http://www.merriam-webster.com/dictionary/mammalogy",
+      "mammalogy definition: a branch of zoology dealing with mammals.",
+      "Merriam-Webster",
+      "https://i.duckduckgo.com/i/b37ec60d.jpg",
+      "\n<a href=\"http://duckduckgo.com/c/Subfields_of_zoology\">Subfields of zoology</a>",
+      "In zoology, mammalogy is the study of mammals – a class of vertebrates with characteristics such as homeothermic metabolism, fur, four-chambered hearts, and complex nervous systems."
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_rodent_discovery_leads_to_new_mammal_family\" title=\"New rodent discovery leads to new mammal family\">New rodent discovery leads to new mammal family</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_mammalogists"
+   ],
+   "created" : 1373467407,
+   "book" : [],
+   "micro-www" : {
+      "mammalogy" : [
+         "Mammalogy",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Mammalogy|",
+         "Subfields of zoology"
+      ],
+      "text" : "\n\nIn zoology, 'mammalogy' is the study of mammals – a class of vertebrates with\ncharacteristics such as homeothermic metabolism, fur, four-chambered hearts, and\ncomplex nervous systems. Mammalogy has also been known as \"'mastology',\"\n\"'theriology',\" and \"'therology'.\"\n\nMammalogy branches off into other taxonomically-oriented disciplines such as\nprimatology (study of primates), and cetology (study of cetaceans).\n",
+      "title" : "mammalogy",
+      "headings" : [
+         "See also",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "1: Zoology",
+      "1: Mammal",
+      "1: Vertebrate",
+      "1: Homeotherm",
+      "1: Metabolism",
+      "1: Fur",
+      "1: Heart",
+      "1: Nervous_system",
+      "1: Primatology",
+      "1: Primates",
+      "1: Cetology",
+      "1: Cetaceans",
+      "1: List_of_mammalogists"
+   ]
+}

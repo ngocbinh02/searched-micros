@@ -1,0 +1,53 @@
+{
+   "micrownet" : [
+      "terminate",
+      "terminated"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Termination_of_employment\">Termination of employment</a>, the end of an employee's duration with an employer",
+      "https://en.wikipedia.org/wiki/Terminate",
+      "HASH(0x49e44c8)",
+      "Wikipedia",
+      "Terminate",
+      "http://www.merriam-webster.com/dictionary/terminate",
+      "terminate definition: coming to an end or capable of ending.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Terminate_with_extreme_prejudice\">Terminate with extreme prejudice</a> is a euphemism for assassination",
+      "\n<a href=\"http://duckduckgo.com/Terminate_(software)\">Terminate (software)</a> - (terminat.exe) a shareware modem terminal and host program for MS-DOS in the 1990s",
+      "HASH(0x4ab35f0)",
+      "\n<a href=\"http://duckduckgo.com/Electrical_termination\">Electrical termination</a>, ending a wire or cable properly to prevent interference",
+      "\n<a href=\"http://duckduckgo.com/Exit_(operating_system)\">Exit (operating system)</a>, to terminate the execution of a running software program",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Terminate_and_Stay_Resident\">Terminate and Stay Resident</a>, utility programs used in DOS"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373463642,
+   "book" : [],
+   "micro-www" : {
+      "terminate" : [
+         "Terminate_with_extreme_prejudice",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Terminate' may refer to:\n\n*Electrical termination, ending a wire or cable properly to prevent interference\n*Termination of employment, the end of an employee's duration with an employer\n*Terminate and Stay Resident, utility programs used in DOS *Exit (operating\nsystem), to terminate the execution of a running software program *Terminate\n(software) - (terminat.exe) a shareware modem terminal and host program for MS-\nDOS in the 1990s *Terminate with extreme prejudice is a euphemism for\nassassination\n",
+      "title" : "terminate",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Electrical_termination",
+      "1: Termination_of_employment",
+      "1: Terminate_and_Stay_Resident",
+      "1: Terminate_with_extreme_prejudice"
+   ]
+}

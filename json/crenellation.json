@@ -1,0 +1,42 @@
+{
+   "micrownet" : [
+      "crenellation"
+   ],
+   "duck" : [
+      "crenellation definition: battlement.",
+      "http://merriam-webster.com/dictionary/crenellation",
+      "HASH(0x4a89978)",
+      "Merriam-Webster",
+      "crenellation",
+      "http://www.merriam-webster.com/dictionary/crenellation",
+      "crenellation definition: battlement.",
+      "Merriam-Webster",
+      "HASH(0x4a89558)",
+      "crenellation definition: battlement.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465686,
+   "book" : [],
+   "micro-www" : {
+      "crenellation" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "#redirectbattlement\n",
+      "title" : "crenellation",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Battlement"
+   ]
+}

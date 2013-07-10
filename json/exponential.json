@@ -1,0 +1,98 @@
+{
+   "micrownet" : [
+      "exponential",
+      "exponential_curve",
+      "exponential_decay",
+      "exponential_equation",
+      "exponential_expression",
+      "exponential_function",
+      "exponential_return",
+      "exponential_series"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Exponential_distribution\">Exponential distribution</a>, a family of continuous probability distributions",
+      "Exponential",
+      "\n<a href=\"http://duckduckgo.com/Exponential_family\">Exponential family</a>, sometimes used in place of \"exponential family\"",
+      "http://www.merriam-webster.com/dictionary/exponential",
+      "\n<a href=\"http://duckduckgo.com/Matrix_exponential\">Matrix exponential</a>, the matrix analogue to the above",
+      "exponential definition: of or relating to an exponent.",
+      "\n<a href=\"http://duckduckgo.com/scientific_notation\">Exponential notation</a>, also known as scientific notation, or standard form",
+      "\n<a href=\"http://duckduckgo.com/Exponential_Technology\">Exponential Technology</a>, a vendor of PowerPC microprocessors",
+      "\n<a href=\"http://duckduckgo.com/Exponential_function\">Exponential function</a>, also:",
+      "\n<a href=\"http://duckduckgo.com/Function_type\">Exponential type</a> or function type, in type theory",
+      "\n<a href=\"http://duckduckgo.com/Exponential_discounting\">Exponential discounting</a>, a specific form of the discount function, used in the analysis of choice over time",
+      "\n<a href=\"http://duckduckgo.com/time_complexity\">Exponential time</a>, in complexity theory",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Exponential_object\">Exponential object</a>, in category theory",
+      "\n<a href=\"http://duckduckgo.com/Exponential_decay\">Exponential decay</a>, decrease at a rate proportional to value",
+      "\n<a href=\"http://duckduckgo.com/Exponential_growth\">Exponential growth</a>, where the growth rate of a mathematical function is proportional to the function's current value",
+      "\n<a href=\"http://duckduckgo.com/Exponential_map\">Exponential map</a>, in differential geometry",
+      "\n<a href=\"http://duckduckgo.com/Exponential_smoothing\">Exponential smoothing</a>, a technique that can be applied to time series data"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Saskatchewan_places_moratorium_on_boar_farming,_says_escaped_boars_should_be_killed\" title=\"Saskatchewan places moratorium on boar farming, says escaped boars should be killed\">Saskatchewan places moratorium on boar farming, says escaped boars should be killed</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/VeriSign_acquires_Weblogs.com\" title=\"VeriSign acquires Weblogs.com\">VeriSign acquires Weblogs.com</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Russian_and_US_satellites_collide\" title=\"Russian and US satellites collide\">Russian and US satellites collide</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Irish_scientists_had_predicted_further_Sumatran_earthquake\" title=\"Irish scientists had predicted further Sumatran earthquake\">Irish scientists had predicted further Sumatran earthquake</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/MPAA_sues_six_BitTorrent_sites_linking_to_TV_shows\" title=\"MPAA sues six BitTorrent sites linking to TV shows\">MPAA sues six BitTorrent sites linking to TV shows</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Belgian_Indymedians_discuss_participatory_journalism_at_open_door_day\" title=\"Belgian Indymedians discuss participatory journalism at open door day\">Belgian Indymedians discuss participatory journalism at open door day</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Social_networking_site_lets_users_run_virtual_campaign_for_US_president\" title=\"Social networking site lets users run virtual campaign for US president\">Social networking site lets users run virtual campaign for US president</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Randall_Munroe,_writer_of_xkcd,_talks_about_the_comic,_politics_and_the_internet\" title=\"Randall Munroe, writer of xkcd, talks about the comic, politics and the internet\">Randall Munroe, writer of xkcd, talks about the comic, politics and the internet</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hospitality_exchange_organisation_grows_to_100,000_members\" title=\"Hospitality exchange organisation grows to 100,000 members\">Hospitality exchange organisation grows to 100,000 members</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Wikimedia_Conference_Netherlands_2007_held_on_wikis_and_education\" title=\"Wikimedia Conference Netherlands 2007 held on wikis and education\">Wikimedia Conference Netherlands 2007 held on wikis and education</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Interview_with_Jimbo_Wales\" title=\"Interview with Jimbo Wales\">Interview with Jimbo Wales</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_exponential_topics"
+   ],
+   "created" : 1373471578,
+   "book" : [],
+   "micro-www" : {
+      "exponential" : [
+         "exponential_decay",
+         "exponential",
+         "Exponential_time",
+         "Exponential_object",
+         "Exponential_notation",
+         "Exponential_map",
+         "Exponential_growth",
+         "Exponential_function",
+         "Exponential_distribution",
+         "Exponential_discounting",
+         "Exponential_decay",
+         "Exponential",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Mathematical disambiguation"
+      ],
+      "text" : "\n'Exponential' may refer to any of several mathematical topics related to\n'[[exponentiation]]', including: *Exponential function, also: **Matrix\nexponential, the matrix analogue to the above *Exponential decay, decrease at a\nrate proportional to value *Exponential discounting, a specific form of the\ndiscount function, used in the analysis of choice over time *Exponential growth,\nwhere the growth rate of a mathematical function is proportional to the\nfunction's current value *Exponential map, in differential geometry *Exponential\nnotation, also known as scientific notation, or standard form *Exponential\nobject, in category theory *Exponential time, in complexity theory *in\nprobability and statistics: **Exponential distribution, a family of continuous\nprobability distributions **Exponential family, sometimes used in place of\n\"exponential family\" **Exponential smoothing, a technique that can be applied to\ntime series data *Exponential type or function type, in type theory *Topics\nlisted at list of exponential topics\n\n'Exponential' may also refer to: *Exponential Technology, a vendor of PowerPC\nmicroprocessors\n",
+      "title" : "exponential",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Exponential_function",
+      "1: Matrix_exponential",
+      "1: Exponential_decay",
+      "1: Exponential_discounting",
+      "1: Exponential_growth",
+      "1: Exponential_map",
+      "1: Exponential_notation",
+      "1: Exponential_object",
+      "1: Exponential_time",
+      "1: Exponential_distribution",
+      "1: Exponential_family",
+      "1: Exponential_smoothing",
+      "1: Function_type",
+      "1: List_of_exponential_topics",
+      "1: Exponential_Technology"
+   ]
+}

@@ -1,0 +1,67 @@
+{
+   "micrownet" : [
+      "nullipara"
+   ],
+   "duck" : [
+      "HASH(0x49cf568)",
+      "HASH(0x49b0410)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373463000,
+   "book" : [],
+   "micro-www" : {
+      "nullipara" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Gynaecology|parity",
+         "Demography",
+         "Population"
+      ],
+      "text" : ": For other uses of the term in other fields, see [[parity]].\nIn biology, 'parity' is a technical term that refers to the number of times a\nfemale has given birth to a baby.<ref name=\"Gravidity and Parity\nDefinitions\"></ref>\n\nIt can lead to some ambiguity for events occurring between 20 and 24 weeks,<ref\nname=\"pmid19300338\"></ref> and for multiple pregnancies.<ref\nname=\"pmid17877683\"></ref>\n",
+      "title" : "Parity%20%28biology%29",
+      "headings" : [
+         "Terminology",
+         "Enumeration",
+         "Gravida/para/abortus",
+         "TPAL",
+         "GTPAL",
+         "Nulliparity",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "3: Abortion",
+      "2: Biology",
+      "2: Gravidity",
+      "2: Miscarriage",
+      "1: Birth",
+      "1: Medicine",
+      "1: Pregnant",
+      "1: Fetal_death",
+      "1: Latin",
+      "1: Fish",
+      "1: Reptile",
+      "1: Entomology",
+      "1: Obstetric",
+      "1: Abortus",
+      "1: Premature_birth",
+      "1: Gravida/para/abortus",
+      "1: Premature_births",
+      "1: Abortions",
+      "1: Multiple_births",
+      "1: Twins",
+      "1: Ectopic_pregnancies",
+      "1: Risk_factor_for_breast_cancer",
+      "1: Maternal_mortality"
+   ]
+}

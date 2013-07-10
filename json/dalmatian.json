@@ -1,0 +1,50 @@
+{
+   "micrownet" : [
+      "dalmatian",
+      "dalmatian_iris",
+      "dalmatian_laburnum",
+      "dalmatian_pyrethrum",
+      "liver-spotted_dalmatian"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Dalmatian_language\">Dalmatian language</a>, an extinct Romance language",
+      "\n<a href=\"http://duckduckgo.com/Dalmatian_Pelican\">Dalmatian Pelican</a>, a large bird native to central Europe",
+      "\n<a href=\"http://duckduckgo.com/Dalmatae\">Dalmatae</a>, an ancient people from the region",
+      "Dalmatian",
+      "\n<a href=\"http://duckduckgo.com/Dalmatia\">Dalmatia</a>, a region mainly in the southern part of modern Croatia",
+      "also dalmatian A dog of a breed believed to have originated in Dalmatia, having a short, smooth white coat covered with black or dark brown spots.",
+      "\n<a href=\"http://duckduckgo.com/Dalmatian_(band)\">Dalmatian (band)</a>, a South Korean boy band",
+      "\n<a href=\"http://duckduckgo.com/Dalmatian_(dog)\">Dalmatian (dog)</a>, a breed of dog"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tilting_train_derails_in_Croatia,_six_dead\" title=\"Tilting train derails in Croatia, six dead\">Tilting train derails in Croatia, six dead</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Study_says_dogs_can_smell_lung_and_breast_cancer\" title=\"Study says dogs can smell lung and breast cancer\">Study says dogs can smell lung and breast cancer</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373473512,
+   "book" : [],
+   "micro-www" : {
+      "dalmatian" : [
+         "Dalmatian_language",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Dalmatian' may refer to:\n\n* Dalmatia, a region mainly in the southern part of modern Croatia\n* Dalmatae, an ancient people from the region\n* Dalmatian language, an extinct Romance language\n* Dalmatian (dog), a breed of dog\n* Dalmatian Pelican, a large bird native to central Europe\n* Dalmatian (band), a South Korean boy band\n",
+      "title" : "dalmatian",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Dalmatia",
+      "1: Dalmatae",
+      "1: Dalmatian_language",
+      "1: Dalmatian_Pelican"
+   ]
+}

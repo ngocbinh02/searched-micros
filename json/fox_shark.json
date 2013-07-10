@@ -1,0 +1,27 @@
+{
+   "micrownet" : [
+      "fox_shark"
+   ],
+   "duck" : [
+      "HASH(0x49bf180)",
+      "HASH(0x4b9a028)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hammerhead_sharks_can_give_birth_without_mating,_study_shows\" title=\"Hammerhead sharks can give birth without mating, study shows\">Hammerhead <span class=\"searchmatch\">sharks</span> can give birth without mating, study shows</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465091,
+   "book" : [],
+   "micro-www" : {
+      "fox_shark" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

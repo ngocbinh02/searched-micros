@@ -1,0 +1,55 @@
+{
+   "micrownet" : [
+      "laze"
+   ],
+   "duck" : [
+      "Laze",
+      "http://www.merriam-webster.com/dictionary/laze",
+      "laze definition: to act or lie lazily.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Suspect_in_BTK_killings_arrested_after_25_years_in_hiding\" title=\"Suspect in BTK killings arrested after 25 years in hiding\">Suspect in BTK killings arrested after 25 years in hiding</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373469712,
+   "book" : [],
+   "micro-www" : {
+      "laze" : [
+         ""
+      ]
+   },
+   "micro-relation" : [
+      "1: Laze,_Bosnia_and_Herzegovina",
+      "1: Gornje_Laze",
+      "1: Gradiške_Laze",
+      "1: Jablaniške_Laze",
+      "1: Laze,_Brežice",
+      "1: Laze,_Gorenja_Vas–Poljane",
+      "1: Laze,_Logatec",
+      "1: Laze_nad_Krko",
+      "1: Laze,_Novo_Mesto",
+      "1: Laze_pri_Borovnici",
+      "1: Laze_pri_Boštanju",
+      "1: Laze_pri_Dolskem",
+      "1: Laze_pri_Domžalah",
+      "1: Laze_pri_Dramljah",
+      "1: Laze_pri_Gobniku",
+      "1: Laze_pri_Gorenjem_Jezeru",
+      "1: Laze_pri_Kostelu",
+      "1: Laze_pri_Oneku",
+      "1: Laze_pri_Predgradu",
+      "1: Laze_pri_Vačah",
+      "1: Laze_v_Tuhinju",
+      "1: Laze,_Velenje",
+      "1: Laze,_Velike_Lašče",
+      "1: Spodnje_Laze",
+      "1: Zgornje_Laze"
+   ]
+}

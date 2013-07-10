@@ -1,0 +1,76 @@
+{
+   "micrownet" : [
+      "silicic_acid"
+   ],
+   "duck" : [
+      "HASH(0x4db4c68)",
+      "HASH(0x4cfdab8)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464368,
+   "book" : [],
+   "micro-www" : {
+      "silicic_acid" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Mineral acids",
+         "Silanols"
+      ],
+      "text" : "\n{{Chembox\n| verifiedrevid = 476994660 IUPACName = Silicic acid OtherNames = Monosilicic\n| acid<br />Orthosilicic acid ImageFile = Orthosilicic-acid-3D-spacefill.png\n| ImageSize = 125 ImageName = Spacefill model of orthosilicic acid Section1 =\n| {{Chembox Identifiers InChI1 = 1/H4O4Si/c1-5(2,3)4/h1-4H InChIKey1 = RMAQACBXLXPBSY-\n| UHFFFAOYAS CASNo = 10193-36-9 CASNo_Ref = PubChem = 14942 PubChem_Ref =\n| ChemSpiderID = 14236 ChemSpiderID_Ref = EINECS = 233-477-0 ChEBI_Ref = ChEBI =\n| 26675 StdInChI_Ref = StdInChI = 1S/H4O4Si/c1-5(2,3)4/h1-4H StdInChIKey_Ref =\n| StdInChIKey = RMAQACBXLXPBSY-UHFFFAOYSA-N SMILES = O[Si](O)(O)O InChI = 1S/H4O4Si/c1-5(2,3)4/h1-\n| 4H InChIKey = RMAQACBXLXPBSY-UHFFFAOYSA-N Gmelin = 2009}} Section2 = {{Chembox\n| Properties H = 4 O = 4 Si = 1 ExactMass = 95.987885149 g mol<sup>-1</sup> pKa\n| = 9.84, 13.2}} Section3 = {{Chembox Related OtherCpds = Orthocarbonic acid}}\n}}\n\n'Silicic acid' is a chemical compound with the chemical formula . It is a\nsilanol. Silicic acid is also the general name for a family of chemical\ncompounds containing the element silicon attached to oxide and hydroxyl groups.\nThis family of compounds have the general formula [SiO<sub>x</sub>(OH)<sub>4-\n2x</sub>]<sub>n</sub>.<ref>N. N. Greenwood, A. Earnshaw, Chemistry of the\nElements, 2nd ed., Butterworth-Heinemann, Oxford, UK, 1997.</ref><ref>R. K.\nIler, The Chemistry of Silica, Wiley, New York, 1979.</ref> Some simple silicic\nacids have been identified, but only in very dilute aqueous solution, such as\nmetasilicic acid (H<sub>2</sub>SiO<sub>3</sub>), orthosilicic acid\n(H<sub>4</sub>SiO<sub>4</sub>, pK<sub>a1</sub>=9.84, pK<sub>a2</sub>=13.2 at\n25&nbsp;°C), disilicic acid (H<sub>2</sub>Si<sub>2</sub>O<sub>5</sub>), and\npyrosilicic acid (H<sub>6</sub>Si<sub>2</sub>O<sub>7</sub>); however in the\nsolid state these probably condense to form polymeric silicic acids of complex\nstructure.\n",
+      "title" : "silicic acid",
+      "headings" : [
+         "Chemical reactions",
+         "Production",
+         "Oceanic silicic acid",
+         "Silicic acid in health",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "3: Silicon_dioxide",
+      "1: Orthocarbonic_acid",
+      "1: Chemical_compound",
+      "1: Chemical_formula",
+      "1: Silanol",
+      "1: Silicon",
+      "1: Hydroxyl",
+      "1: Water",
+      "1: Conjugate_base",
+      "1: Silicate",
+      "1: Jöns_Jacob_Berzelius",
+      "1: Quartz",
+      "1: Acid",
+      "1: Sodium_silicate",
+      "1: Aqueous_solution",
+      "1: Silica_gel",
+      "1: Condensation",
+      "1: Hydration_reaction",
+      "1: Abyssal_zone",
+      "1: Poles",
+      "1: Ocean",
+      "1: Biogeochemical_cycle",
+      "1: Algae",
+      "1: Diatom",
+      "1: Polymer",
+      "1: Biogenic_silica",
+      "1: Cell_wall",
+      "1: Frustule",
+      "1: Aluminium",
+      "1: Alzheimer's_disease",
+      "1: Collagen",
+      "1: Choline",
+      "1: Nutritional_supplement",
+      "1: Ovariectomized_rat"
+   ]
+}

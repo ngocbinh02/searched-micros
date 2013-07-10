@@ -1,0 +1,100 @@
+{
+   "micrownet" : [
+      "common_carrier"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/No_survivors_in_Cambodian_air_crash\" title=\"No survivors in Cambodian air crash\">No survivors in Cambodian air crash</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Queensland%27s_biggest_oil_spill_in_35_years\" title=\"Queensland&#39;s biggest oil spill in 35 years\">Queensland&#39;s biggest oil spill in 35 years</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/India_may_rise_as_regional_power\" title=\"India may rise as regional power\">India may rise as regional power</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Major_cell_phone_companies_working_on_Linux-based_platform_for_phones\" title=\"Major cell phone companies working on Linux-based platform for phones\">Major cell phone companies working on Linux-based platform for phones</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:May_27,_2010\" title=\"News briefs:May 27, 2010\">News briefs:May 27, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:January_04,_2008\" title=\"News briefs:January 04, 2008\">News briefs:January 04, 2008</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373468528,
+   "book" : [],
+   "micro-www" : {
+      "common_carrier" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Commercial item transport and distribution",
+         "Supply chain management terms",
+         "Legal terms",
+         "Tort law",
+         "International law",
+         "Rail transport"
+      ],
+      "text" : "A 'common carrier' in common-law countries (corresponding to a 'public carrier'\nin civil-law systems,<ref name=\"Britannica\">Encyclopædia Britannica CD 2000 \"Civil-\nlaw public carrier\" from \"carriage of goods\"</ref> usually called simply a\n'carrier') is a person or company that transports goods or people for any person\nor company and that is responsible for any possible loss of the goods during\ntransport.<ref name=\"Longman Business\">Longman Business English Dictionary</ref>\nA common carrier offers its services to the general public under license or\nauthority provided by a regulatory body. The regulatory body has usually been\ngranted “ministerial authority” by the legislation which created it. The\nregulatory body may create, interpret, and enforce its regulations upon the\ncommon carrier (subject to judicial review) with independence and finality, as\nlong as it acts within the bounds of the enabling legislation.\n\nA common carrier is distinguished from a contract carrier (also called a public\ncarrier in UK English),<ref name=\"Longman Business\"/> which is a carrier that\ntransports goods for only a certain number of clients and that can refuse to\ntransport goods for anyone else, and from a private carrier. A common carrier\nholds itself out to provide service to the general public without discrimination\n(to meet the needs of the regulator's quasi judicial role of impartiality toward\nthe public's interest) for the \"public convenience and necessity\". A common\ncarrier must further demonstrate to the regulator that it is \"fit, willing, and\nable\" to provide those services for which it is granted authority. Common\ncarriers typically transport persons or goods according to defined and published\nroutes, time schedules, and rate tables upon the approval of regulators. Public\nairlines, railroads, bus lines, taxicab companies, cruise ships, motor carriers\n(i.e., trucking companies), and other freight companies generally operate as\ncommon carriers. Under US law, an ocean freight forwarder cannot act as a common\ncarrier.<ref name=\"Longman Business\"/>\n\nThe term common carrier is a common law term, which is seldom used in\ncontinental Europe because it has no exact equivalent in civil-law systems. In\ncontinental Europe, the functional equivalent of a common carrier is referred to\nas a public carrier<ref name=\"Britannica\"/> (or simply as a carrier). (However,\npublic carrier in continental Europe is defined differently than \"public\ncarrier\" in British English, in which it is a synonym for contract carrier.)\n",
+      "title" : "common carrier",
+      "headings" : [
+         "General",
+         "Telecommunications",
+         "Pipelines",
+         "Legal implications",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "3: Private_carrier",
+      "3: Network_neutrality",
+      "2: Federal_Communications_Commission",
+      "1: Common-law",
+      "1: Contract_carrier",
+      "1: General_public",
+      "1: Discrimination",
+      "1: Airline",
+      "1: Railroad",
+      "1: Bus_line",
+      "1: Taxicab",
+      "1: Cruise_ship",
+      "1: Freight_companies",
+      "1: Freight_forwarder",
+      "1: Telecommunications_service_provider",
+      "1: Public_utility",
+      "1: US_state",
+      "1: Amusement_park",
+      "1: Roller_coaster",
+      "1: Juristic_person",
+      "1: Natural_person",
+      "1: Cargo",
+      "1: Independent_contractor",
+      "1: Rail_line",
+      "1: Commuter_rail",
+      "1: Telephone_numbering_in_Europe",
+      "1: Telecommunications",
+      "1: United_States",
+      "1: Communications_Act_of_1934",
+      "1: Telecommunications_Act_of_1996",
+      "1: Internet",
+      "1: Internet_service_provider",
+      "1: Virtual_Private_Network",
+      "1: Communications_Decency_Act",
+      "1: DMCA",
+      "1: Carbon_dioxide",
+      "1: Pipeline_transport",
+      "1: Eminent_domain",
+      "1: Common_law",
+      "1: Hague-Visby_Rules",
+      "1: Contract_of_carriage",
+      "1: Privy_Council",
+      "1: Railway_and_Canal_Traffic_Act_1854",
+      "1: Canadian_Transport_Act_1938",
+      "1: Interstate_Commerce_Act",
+      "1: Interstate_Commerce_Commission",
+      "1: Motor_Carrier_Act_of_1980",
+      "1: Multimodal_transport",
+      "1: OwnerâOperator_Independent_Drivers_Association"
+   ]
+}

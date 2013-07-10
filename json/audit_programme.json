@@ -1,0 +1,31 @@
+{
+   "micrownet" : [
+      "audit_programme"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UN_inquiry_finds_mismanagement_and_failure_of_oversight\" title=\"UN inquiry finds mismanagement and failure of oversight\">UN inquiry finds mismanagement and failure of oversight</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Class_action_launched_by_Australian_bushfire_survivors_against_SP_AusNet\" title=\"Class action launched by Australian bushfire survivors against SP AusNet\">Class action launched by Australian bushfire survivors against SP AusNet</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:May_17,_2006\" title=\"News briefs:May 17, 2006\">News briefs:May 17, 2006</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_government_loses_personal_information_of_25_million_people\" title=\"UK government loses personal information of 25 million people\">UK government loses personal information of 25 million people</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_Chancellor_George_Osborne_downgrades_growth_forecast_in_annual_budget\" title=\"British Chancellor George Osborne downgrades growth forecast in annual budget\">British Chancellor George Osborne downgrades growth forecast in annual budget</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Denunciations_of_Scandals_Threaten_UN\" title=\"Denunciations of Scandals Threaten UN\">Denunciations of Scandals Threaten UN</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_Chancellor_of_the_Exchequer_makes_2005_Budget_speech\" title=\"UK Chancellor of the Exchequer makes 2005 Budget speech\">UK Chancellor of the Exchequer makes 2005 Budget speech</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Britain_could_face_electricity_blackouts\" title=\"Britain could face electricity blackouts\">Britain could face electricity blackouts</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373473215,
+   "book" : [],
+   "micro-www" : {
+      "audit_programme" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

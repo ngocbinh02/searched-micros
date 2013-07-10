@@ -1,0 +1,118 @@
+{
+   "micrownet" : [
+      "placental",
+      "placental_(vs._aplacental)",
+      "placental_mammal"
+   ],
+   "duck" : [
+      "Following birth, the placenta is expelled.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=placental",
+      "HASH(0x4abc750)",
+      "The Free Dictionary",
+      "placental",
+      "http://www.merriam-webster.com/dictionary/placental",
+      "placental definition: of, relating to, having, or occurring by means of a placenta.",
+      "Merriam-Webster",
+      "HASH(0x499ecb0)",
+      "Following birth, the placenta is expelled.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464184,
+   "book" : [],
+   "micro-www" : {
+      "placental" : [
+         "placental",
+         "Placental",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Mammals"
+      ],
+      "text" : "\n\n{{automatic Taxobox\n| name = Eutheria fossil_range = Late Jurassic – Holocene, image = Juramaia\n| NT.jpg image_caption = Life restoration of [[Juramaia | Juramaia sinensis]]\n| image_width = 270px authority = Huxley, 1880 subdivision_ranks = Subgroups\n| subdivision =\n*[[Acristatherium]] *†[[Bobolestes]] *†[[Juramaia]] *†[[Montanalestes]]\n*†[[Murtoilestes]] *†[[Prokennalestes]] *†Cimolesta<ref>http://link.springer.com/article/10.1007/s10914-013-9230-\n9</ref> *'Placentalia' <small>Owen, 1837</small> **Xenarthra **Afrotheria\n**Boreoeutheria }} 'Eutheria' (; from Ancient Greek ευ-, eu- \"true/good\" and\nθηρίον, thērion \"beast\" hence \"true beasts\") is one of two mammalian clades with\nextant members that diverged in the Late Jurassic. The other is the Metatheria,\nwhich includes kangaroos and the other mammals (most of the marsupials) that\naccommodate their neonates in pouches. Except for the opossum, which is a\nmetatherian, all mammals indigenous to North America, Europe, Africa, and Asia\nare eutherians. They are also placentals; the 'Placentalia' consist of the\nextant eutherians, their last common ancestor, and all extinct descendants of\nthat ancestor.\n\nEutherians are distinguished from noneutherians by various features of the feet,\nankles, jaws and teeth. One of the major differences between placental and\nnonplacental eutherians is that placentals lack epipubic bones, which are\npresent in all other fossil and living mammals (marsupials and monotremes).\n\nThe oldest known eutherian species is [[Juramaia sinensis]], dated at from the\nJurassic in China.<ref name=\"Juramaia_Nature_2011\"></ref>\n\n\"Eutheria\" was introduced by Thomas Henry Huxley in 1880, meant to be broader in\ndefinition than \"Placentalia\", the term previously in use.\n\n <!-- Previous section name -->\n",
+      "title" : "Eutheria",
+      "headings" : [
+         "Characteristics",
+         "Subgroups",
+         "Evolutionary history",
+         "References",
+         "Further reading",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "4: Metatheria",
+      "4: Cynodont",
+      "3: Xenarthra",
+      "3: Afrotheria",
+      "3: Boreoeutheria",
+      "3: Monotreme",
+      "2: Late_Jurassic",
+      "2: Thomas_Henry_Huxley",
+      "2: Marsupial",
+      "2: Epipubic_bone",
+      "2: Laurasiatheria",
+      "2: Euarchontoglires",
+      "2: Tritylodontid",
+      "2: Mammal",
+      "2: Australosphenid",
+      "1: Holocene",
+      "1: Cimolesta",
+      "1: Richard_Owen",
+      "1: Greek_language",
+      "1: Clade",
+      "1: Kangaroo",
+      "1: Opossum",
+      "1: Fossil",
+      "1: Jurassic",
+      "1: Medial_malleolus",
+      "1: Tibia",
+      "1: Metatarsal",
+      "1: Fibula",
+      "1: Mortise_and_tenon",
+      "1: Pelvis",
+      "1: Monotremes",
+      "1: Mammaliaform",
+      "1: Badger",
+      "1: Rabbits",
+      "1: Guinea_pig",
+      "1: Dog",
+      "1: Dolphin",
+      "1: Human",
+      "1: Monkeys",
+      "1: Rats",
+      "1: Hares",
+      "1: Cattle",
+      "1: Whales",
+      "1: Bats",
+      "1: Cats",
+      "1: Armadillos",
+      "1: Anteaters",
+      "1: Elephant",
+      "1: Manatee",
+      "1: Crown_group",
+      "1: Meridiungulata",
+      "1: Ungulate",
+      "1: South_America",
+      "1: Transposable_element",
+      "1: Exafroplacentalia",
+      "1: Atlantogenata",
+      "1: Epitheria",
+      "1: Cretaceous",
+      "1: Molecular_phylogenetics",
+      "1: Mammaliaformes",
+      "1: Crown_group_",
+      "1: Theria",
+      "1: Mammaliformes",
+      "1: Therapsid"
+   ]
+}

@@ -1,0 +1,120 @@
+{
+   "micrownet" : [
+      "purine",
+      "purinethol"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/c/Purines\">Purines</a>",
+      "\n<a href=\"http://duckduckgo.com/Simple_aromatic_ring\">Simple aromatic ring</a>s",
+      "Purine",
+      "\n<a href=\"http://duckduckgo.com/Pyrimidine\">Pyrimidine</a> - Pyrimidine is an aromatic heterocyclic organic compound similar to pyridine.",
+      "http://www.merriam-webster.com/dictionary/purine",
+      "purine definition: a crystalline base C^^5^^H^^4^^N^^4^^ that is the parent of compounds of the uric-acid group.",
+      "Merriam-Webster",
+      "https://i.duckduckgo.com/i/577829c7.png",
+      "A purine is a heterocyclic aromatic organic compound."
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373468728,
+   "book" : [],
+   "micro-www" : {
+      "purine" : [
+         "purines",
+         "purine",
+         "Purine",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Purines"
+      ],
+      "text" : "{{chembox\n| Watchedfields = changed verifiedrevid = 464376451 ImageFile_Ref = ImageFile =\n| Purin num2.svg ImageSize = 150 ImageAlt = Skeletal formula with numbering\n| convention ImageFile1 = Purine-3D-balls.png ImageSize1 = 160 ImageAlt1 = Ball-and-\n| stick molecular model ImageFile2 = Purine-3D-spacefill.png ImageSize2 = 150\n| ImageAlt2 = Space-filling molecular model\n|IUPACName=9H-purine |OtherNames= |Section1= {{Chembox Identifiers\n|  KEGG_Ref = KEGG = C15587 InChI = 1/C5H4N4/c1-4-5(8-2-6-1)9-3-7-4/h1-\n|  3H,(H,6,7,8,9) InChIKey = KDCGOANMDULRCW-UHFFFAOYAO ChEMBL_Ref = ChEMBL =\n|  302239 StdInChI_Ref = StdInChI = 1S/C5H4N4/c1-4-5(8-2-6-1)9-3-7-4/h1-\n|  3H,(H,6,7,8,9) StdInChIKey_Ref = StdInChIKey = KDCGOANMDULRCW-UHFFFAOYSA-N\n|  CASNo_Ref = CASNo=120-73-0 PubChem=1044 ChemSpiderID_Ref = ChemSpiderID =\n|  1015 ChEBI_Ref = ChEBI = 17258 SMILES = c1c2c(nc[nH]2)ncn1 MeSHName=Purine\n  }} |Section2= {{Chembox Properties\n|  C=5|H=4|N=4 Appearance= Density= MeltingPtC=214 BoilingPt= Solubility=\n  }} |Section3= {{Chembox Hazards\n|  MainHazards= FlashPt= Autoignition=\n  }} }}\n\nA 'purine' is a heterocyclic aromatic organic compound. It consists of a\npyrimidine ring fused to an imidazole ring. Purines, including substituted\npurines and their tautomers, are the most widely occurring nitrogen-containing\nheterocycle in nature.<ref>Rosemeyer, H. Chemistry & Biodiversity '2004', 1,\n361.</ref>\n\nPurines and pyrimidines make up the two groups of nitrogenous bases, including\nthe two groups of nucleotide bases. Two of the four deoxyribonucleotides and\ntwo of the four ribonucleotides, the respective building-blocks of DNA and RNA,\nare purines.\n",
+      "title" : "purine",
+      "headings" : [
+         "Notable purines",
+         "Functions",
+         "History",
+         "Metabolism",
+         "Sources",
+         "Laboratory synthesis",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "4: Pyrimidine",
+      "3: DNA",
+      "3: RNA",
+      "2: Adenine",
+      "2: Guanine",
+      "2: Uric_acid",
+      "1: Heterocyclic_compound",
+      "1: Aromatic",
+      "1: Organic_compound",
+      "1: Imidazole",
+      "1: Tautomer",
+      "1: Nitrogenous_bases",
+      "1: Nucleotide_bases",
+      "1: Deoxyribonucleotide",
+      "1: Ribonucleotide",
+      "1: Nucleic_acid",
+      "1: Hydrogen_bond",
+      "1: Thymine",
+      "1: Cytosine",
+      "1: Uracil",
+      "1: Hypoxanthine",
+      "1: Xanthine",
+      "1: Theobromine",
+      "1: Caffeine",
+      "1: Isoguanine",
+      "1: Adenosine_triphosphate",
+      "1: Guanosine_triphosphate",
+      "1: Cyclic_AMP",
+      "1: NADH",
+      "1: Coenzyme_A",
+      "1: Organic_synthesis",
+      "1: Neurotransmitters",
+      "1: Purinergic_receptors",
+      "1: Adenosine_receptor",
+      "1: Germany",
+      "1: Chemist",
+      "1: Hermann_Emil_Fischer",
+      "1: Phosphorus_pentachloride",
+      "1: Hydrogen_iodide",
+      "1: Phosphonium_salt",
+      "1: Metabolism",
+      "1: Metabolic_pathway",
+      "1: Nucleoside",
+      "1: Ribose",
+      "1: Sweetbread",
+      "1: Anchovies",
+      "1: Sardine",
+      "1: Meat_extract",
+      "1: Mackerel",
+      "1: Scallop",
+      "1: Gout",
+      "1: NASA",
+      "1: Meteorites",
+      "1: Earth",
+      "1: Organic_molecules",
+      "1: Outer_space",
+      "1: In_vivo",
+      "1: Purine_metabolism",
+      "1: Formamide",
+      "1: Abiogenesis",
+      "1: Hydrogen_cyanide",
+      "1: Wilhelm_Traube",
+      "1: Amine",
+      "1: Formic_acid",
+      "1: Simple_aromatic_ring"
+   ]
+}

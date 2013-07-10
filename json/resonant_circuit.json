@@ -1,0 +1,108 @@
+{
+   "micrownet" : [
+      "resonant_circuit"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471416,
+   "book" : [],
+   "micro-www" : {
+      "resonant_circuit" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Analog circuits",
+         "Electronic filter topology"
+      ],
+      "text" : "\n\n\nAn 'LC circuit', also called a 'resonant circuit', 'tank circuit', or 'tuned\ncircuit', consists of an inductor, represented by the letter L, and a capacitor,\nrepresented by the letter C. When connected together, they can act as an\nelectrical resonator, an electrical analogue of a tuning fork, storing energy\noscillating at the circuit's resonant frequency.\n\nLC circuits are used either for generating signals at a particular frequency, or\npicking out a signal at a particular frequency from a more complex signal. They\nare key components in many electronic devices, particularly radio equipment,\nused in circuits such as oscillators, filters, tuners and frequency mixers.\n\nAn LC circuit is an idealized model since it assumes there is no dissipation of\nenergy due to resistance. Any practical implementation of an LC circuit will\nalways include loss resulting from small but non-zero resistance within the\ncomponents and connecting wires. The purpose of an LC circuit is usually to\noscillate with minimal damping, so the resistance is made as low as possible.\nWhile no practical circuit is without losses, it is nonetheless instructive to\nstudy this ideal form of the circuit to gain understanding and physical\nintuition. For a circuit model incorporating resistance, see RLC circuit.\n",
+      "title" : "LC circuit",
+      "headings" : [
+         "Operation",
+         "Resonance effect",
+         "Applications",
+         "Time domain solution",
+         "Series LC circuit",
+         "Parallel LC circuit",
+         "History",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "3: Angular_frequency",
+      "2: Resonant_frequency",
+      "2: Electronic_oscillator",
+      "2: Electronic_filter",
+      "2: Frequency_mixer",
+      "2: Electrical_resistance",
+      "2: RLC_circuit",
+      "2: Band-pass_filter",
+      "2: Resonance",
+      "1: Inductor",
+      "1: Capacitor",
+      "1: Resonator",
+      "1: Tuning_fork",
+      "1: Damping",
+      "1: Electrical_energy",
+      "1: Electric_field",
+      "1: Voltage",
+      "1: Magnetic_field",
+      "1: Electric_current",
+      "1: Harmonic_oscillator",
+      "1: Pendulum",
+      "1: Electrical_resonance",
+      "1: Inductance",
+      "1: Capacitance",
+      "1: Farad",
+      "1: Radian",
+      "1: Hertz",
+      "1: Q_factor",
+      "1: Electronic_selectivity",
+      "1: Tuned_circuit",
+      "1: Positive_feedback",
+      "1: Regenerative_circuit",
+      "1: Tuned_radio_frequency_receiver",
+      "1: Carrier_wave",
+      "1: Resonators",
+      "1: Electronic_amplifier",
+      "1: Foster-Seeley_discriminator",
+      "1: Contactless_card",
+      "1: Graphics_tablet",
+      "1: Electronic_article_surveillance",
+      "1: Kirchhoff's_voltage_law",
+      "1: Kirchhoff's_current_law",
+      "1: Differential_equation",
+      "1: Imaginary_unit",
+      "1: Complex_numbers",
+      "1: Alternating_current",
+      "1: Complex_conjugate",
+      "1: Euler's_formula",
+      "1: Sine_wave",
+      "1: Amplitude",
+      "1: Electrical_impedance",
+      "1: Ohm's_law",
+      "1: Band-stop_filter",
+      "1: Felix_Savary",
+      "1: Leyden_jar",
+      "1: Joseph_Henry",
+      "1: William_Thomson",
+      "1: Oliver_Lodge",
+      "1: Berend_Wilhelm_Feddersen",
+      "1: James_Clerk_Maxwell",
+      "1: Heinrich_Hertz",
+      "1: Spark-gap_transmitter",
+      "1: Guglielmo_Marconi",
+      "1: RL_circuit",
+      "1: RC_circuit"
+   ]
+}

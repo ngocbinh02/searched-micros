@@ -1,0 +1,122 @@
+{
+   "micrownet" : [
+      "come_near",
+      "draw_near",
+      "near",
+      "near(prenominal)",
+      "near-blind",
+      "near-death_experience",
+      "near_(vs._far)",
+      "near_beer",
+      "near_east",
+      "near_gale",
+      "near_miss",
+      "near_thing",
+      "near_vision",
+      "nearby",
+      "nearness",
+      "nearside",
+      "nearsighted",
+      "nearsightedness"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Near-Earth_object\">Near-Earth object</a>, an object in the Solar System whose orbit brings it close to the Earth",
+      "Near",
+      "\n<a href=\"http://duckduckgo.com/Near_East\">Near East</a> - The Near East is a geographical term that covers different countries for geographers, archeologists, and historians, on the one hand, and for political scientists, economists, and journalists, o...",
+      "\n<a href=\"http://duckduckgo.com/Distance\">Distance</a> - Distance is a numerical description of how far apart objects are.",
+      "http://www.merriam-webster.com/dictionary/near",
+      "near definition: at, within, or to a short distance or time.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Strong_earthquake_near_Solomon_Islands,_tsunami_reported\" title=\"Strong earthquake near Solomon Islands, tsunami reported\">Strong earthquake <span class=\"searchmatch\">near</span> Solomon Islands, tsunami reported</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chinese_ship_leaking_oil_near_Great_Barrier_Reef\" title=\"Chinese ship leaking oil near Great Barrier Reef\">Chinese ship leaking oil <span class=\"searchmatch\">near</span> Great Barrier Reef</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Criticism_over_Qingzang_Railway_as_opening_nears\" title=\"Criticism over Qingzang Railway as opening nears\">Criticism over Qingzang Railway as opening <span class=\"searchmatch\">nears</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Headless_man_found_near_suburban_Chicago_school\" title=\"Headless man found near suburban Chicago school\">Headless man found <span class=\"searchmatch\">near</span> suburban Chicago school</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bomb_blasts_near_Greek_Minister%27s_house\" title=\"Bomb blasts near Greek Minister&#39;s house\">Bomb blasts <span class=\"searchmatch\">near</span> Greek Minister&#39;s house</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/As_Italy_prepares_for_new_government,_shots_fired_near_prime_minister%27s_office\" title=\"As Italy prepares for new government, shots fired near prime minister&#39;s office\">As Italy prepares for new government, shots fired <span class=\"searchmatch\">near</span> prime minister&#39;s office</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_president_Barack_Obama_backs_mosque_near_Ground_Zero_site\" title=\"US president Barack Obama backs mosque near Ground Zero site\">US president Barack Obama backs mosque <span class=\"searchmatch\">near</span> Ground Zero site</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Three_strong_earthquakes_strike_near_New_Zealand\" title=\"Three strong earthquakes strike near New Zealand\">Three strong earthquakes strike <span class=\"searchmatch\">near</span> New Zealand</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Explosions_near_British_consulate_in_New_York_shatter_windows\" title=\"Explosions near British consulate in New York shatter windows\">Explosions <span class=\"searchmatch\">near</span> British consulate in New York shatter windows</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tropical_storm_Richard_nears_hurricane_strength,_soaks_Honduras\" title=\"Tropical storm Richard nears hurricane strength, soaks Honduras\">Tropical storm Richard <span class=\"searchmatch\">nears</span> hurricane strength, soaks Honduras</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Snakehead_fish_appear_in_large_numbers_near_Potomac_River\" title=\"Snakehead fish appear in large numbers near Potomac River\">Snakehead fish appear in large numbers <span class=\"searchmatch\">near</span> Potomac River</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Civilians_killed_in_U.S._raid_near_Balad\" title=\"Civilians killed in U.S. raid near Balad\">Civilians killed in U.S. raid <span class=\"searchmatch\">near</span> Balad</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Serbian_Mig-29_crashes_near_Belgrade\" title=\"Serbian Mig-29 crashes near Belgrade\">Serbian Mig-29 crashes <span class=\"searchmatch\">near</span> Belgrade</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Cargo_plane_crashes_near_Khartoum;_at_least_four_dead\" title=\"Cargo plane crashes near Khartoum; at least four dead\">Cargo plane crashes <span class=\"searchmatch\">near</span> Khartoum; at least four dead</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Rocket_launcher_found_near_Pakistani_parliament\" title=\"Rocket launcher found near Pakistani parliament\">Rocket launcher found <span class=\"searchmatch\">near</span> Pakistani parliament</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Two_tornadoes_touch_down_near_Wellington,_Utah\" title=\"Two tornadoes touch down near Wellington, Utah\">Two tornadoes touch down <span class=\"searchmatch\">near</span> Wellington, Utah</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Explosion_near_Beirut_kills_three,_injures_five\" title=\"Explosion near Beirut kills three, injures five\">Explosion <span class=\"searchmatch\">near</span> Beirut kills three, injures five</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Forest_fires_burn_on_in_Greece;_death_toll_nears_50\" title=\"Forest fires burn on in Greece; death toll nears 50\">Forest fires burn on in Greece; death toll <span class=\"searchmatch\">nears</span> 50</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Comet_Wild_samples_near_home\" title=\"Comet Wild samples near home\">Comet Wild samples <span class=\"searchmatch\">near</span> home</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Flight_from_Armenian_capital_Yerevan_crashes_near_Sochi\" title=\"Flight from Armenian capital Yerevan crashes near Sochi\">Flight from Armenian capital Yerevan crashes <span class=\"searchmatch\">near</span> Sochi</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_nearest_stars",
+      "List_of_nearest_bright_stars",
+      "List_of_nearest_galaxies"
+   ],
+   "created" : 1373469217,
+   "book" : [],
+   "micro-www" : {
+      "near" : [
+         "Nearly_neutral_theory_of_molecular_evolution",
+         "Near_side_of_the_Moon",
+         "Near_and_far_field",
+         "Near_Infrared",
+         "Near_East",
+         "Near-me_Area_Network",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'NEAR' or 'Near' may refer to:\n",
+      "title" : "near",
+      "headings" : [
+         "Science, mathematics, technology, biology, and medicine",
+         "Geography",
+         "Linguistics",
+         "Television, film, music, and books",
+         "Food, beverages, and meals",
+         "Other uses",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Nicking_Enzyme_Amplification_Reaction",
+      "1: Near-Earth_object",
+      "1: Near-Earth_asteroid",
+      "1: Lincoln_Near-Earth_Asteroid_Research",
+      "1: NEAR_Shoemaker",
+      "1: Near_Infrared_Camera_and_Multi-Object_Spectrometer",
+      "1: Near_Field_Communication",
+      "1: Proximity_space",
+      "1: NearGlobal",
+      "1: Near_East",
+      "1: Ancient_Near_East",
+      "1: Near_Eastern_archaeology",
+      "1: Near-close_vowel",
+      "1: Near-close_near-front_rounded_vowel",
+      "1: Near-close_near-front_unrounded_vowel",
+      "1: Near-close_near-back_vowel",
+      "1: Near-front_vowel",
+      "1: Near-back_vowel",
+      "1: Near-open_vowel",
+      "1: Near-open_central_vowel",
+      "1: Near-open_front_unrounded_vowel",
+      "1: Near_beer",
+      "1: Near_v._Minnesota",
+      "1: Near-death_experience",
+      "1: New_England_Auto_Racers_Hall_of_Fame",
+      "1: List_of_nearest_stars",
+      "1: List_of_nearest_bright_stars",
+      "1: List_of_nearest_galaxies",
+      "1: Distance"
+   ]
+}

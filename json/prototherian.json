@@ -1,0 +1,70 @@
+{
+   "micrownet" : [
+      "prototherian"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/c/Mammals\">Mammals</a>",
+      "Prototheria",
+      "Prototheria (from  Greek πρώτος, prōtos, first, + θήρ, thēr, wild animal) is a taxonomic group, or taxon, to which the order Monotremata belongs.",
+      "https://i.duckduckgo.com/i/e5e184b8.jpg"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373473148,
+   "book" : [],
+   "micro-www" : {
+      "prototherian" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Mammals"
+      ],
+      "text" : "{{automatic taxobox\n| taxon = Prototheria fossil_range = Early Cretaceous - Recent image =\n| Ameisenigel.jpg image_width = 200px image_caption = Short-beaked Echidna\n| authority = Gill, 1872 subdivision_ranks = Orders subdivision =\n* Monotremata }}\n\n'Prototheria' (; from Greek πρώτος, prōtos, first, + θήρ, thēr, wild animal) is\na taxonomic group, or taxon, to which the order Monotremata belongs. It is\nconventionally ranked as a subclass within the mammals.\n\nMost of the animals in this group are extinct. The egg-laying monotremes are\nknown from fossils of the Cretaceous and Cenozoic periods; they are represented\ntoday by the platypus and several species of echidna.\n\nThe names Prototheria, Metatheria and Eutheria (meaning \"first beasts\", \"changed\nbeasts\", and \"true beasts\") refer to the three mammalian groupings which have\nliving representatives. Each of the three may be defined as a total clade\ncontaining a living crown-group (respectively the Monotremata, Marsupialia and\nPlacentalia) plus any fossil species which are more closely related to that crown-\ngroup than to any other living animals.\n\nThe threefold division of living mammals into monotremes, marsupials and\nplacentals was already well established when Thomas Huxley proposed the names\nMetatheria and Eutheria to incorporate the two latter groups in 1880. Initially\ntreated as subclasses, Metatheria and Eutheria are by convention now grouped as\ninfraclasses of the subclass Theria, and in more recent proposals have been\ndemoted further (to s or even magnorders), as cladistic reappraisals of the\nrelationships between living and fossil mammals have suggested that the Theria\nitself should be reduced in rank.<ref>Marsupialia and Eutheria/Placentalia\nappear as cohorts in McKenna & Bell 1997 and in Benton 2005, with Theria ranked\nas a supercohort or an infralegion, respectively.</ref>\n\nPrototheria, on the other hand, was generally recognised as a subclass until\nquite recently, on the basis of an hypothesis which defined the group by two\nsupposed synapomorphies: (1) formation of the side wall of the braincase from a\nbone called the anterior lamina, contrasting with the alisphenoid in therians;\nand (2) a linear alignment of molar cusps, contrasting with a triangular\narrangement in therians. These characters appeared to unite monotremes with a\nrange of Mesozoic fossil orders (Morganucodonta, Triconodonta, Docodonta and\nMultituberculata) in a broader clade for which the name Prototheria was\nretained, and of which monotremes were thought to be only the last surviving\nbranch (Benton 2005: 300, 306).\n\nThe evidence which was held to support this grouping is now universally\ndiscounted. In the first place, examination of embryos has revealed that the\ndevelopment of the braincase wall is essentially identical in therians and in\n'prototherians': the anterior lamina simply fuses with the alisphenoid in\ntherians, and therefore the 'prototherian' condition of the braincase wall is\nprimitive for all mammals while the therian condition can be derived from it.\nAdditionally, the linear alignment of molar cusps is also primitive for all\nmammals. Therefore, neither of these states can supply a uniquely shared derived\ncharacter which would support a 'prototherian' grouping of orders in\ncontradistinction to Theria (Kemp 1983).\n\nIn a further reappraisal, the molars of embryonic and fossil monotremes (living\nmonotreme adults are toothless) appear to demonstrate an ancestral pattern of\ncusps which is similar to the triangular arrangement observed in therians. Some\npeculiarities of this dentition support an alternative grouping of monotremes\nwith certain recently-discovered fossil forms into a proposed new clade known\nas the Australosphenida, and also suggest that the triangular array of cusps\nmay have evolved independently in australosphenidans and therians (Luo et al.\n2001, 2002).\n\nThe Australosphenida hypothesis remains controversial, and some taxonomists\n(e.g. McKenna & Bell 1997) prefer to maintain the name Prototheria as a\nfitting contrast to the other group of living mammals, the Theria. In theory,\nthe Prototheria is taxonomically redundant, since Monotremata is currently the\nonly order which can still be confidently included, but its retention might be\njustified if new fossil evidence, or a re-examination of known fossils,\nenables extinct relatives of the monotremes to be identified and placed within\na wider grouping.\n",
+      "title" : "Prototheria",
+      "headings" : [
+         "Notes",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Cretaceous",
+      "2: Monotreme",
+      "2: Linnaean_taxonomy#Taxonomic_ranks",
+      "1: Short-beaked_Echidna",
+      "1: Theodore_Gill",
+      "1: Taxonomic",
+      "1: Taxon",
+      "1: Mammal",
+      "1: Cenozoic",
+      "1: Platypus",
+      "1: Echidna",
+      "1: Metatheria",
+      "1: Eutheria",
+      "1: Clade",
+      "1: Crown-group",
+      "1: Marsupialia",
+      "1: Placentalia",
+      "1: Thomas_Huxley",
+      "1: Infraclass",
+      "1: Theria",
+      "1: Magnorder",
+      "1: Cladistic",
+      "1: Synapomorphies",
+      "1: Alisphenoid",
+      "1: Mesozoic",
+      "1: Morganucodon",
+      "1: Triconodonta",
+      "1: Docodonta",
+      "1: Multituberculata",
+      "1: Australosphenida",
+      "1: Michael_J._Benton"
+   ]
+}

@@ -1,0 +1,68 @@
+{
+   "micrownet" : [
+      "attention_span"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Dr._Joseph_Merlino_on_sexuality,_insanity,_Freud,_fetishes_and_apathy\" title=\"Dr. Joseph Merlino on sexuality, insanity, Freud, fetishes and apathy\">Dr. Joseph Merlino on sexuality, insanity, Freud, fetishes and apathy</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Man_dies_in_North_Uist,_Outer_Hebrides_after_being_hit_by_car\" title=\"Man dies in North Uist, Outer Hebrides after being hit by car\">Man dies in North Uist, Outer Hebrides after being hit by car</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_Police_alerted_to_child-sex_claims_at_St_Stanislaus_in_1997\" title=\"Australian Police alerted to child-sex claims at St Stanislaus in 1997\">Australian Police alerted to child-sex claims at St Stanislaus in 1997</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Senator_Rand_Paul_blocks_synthetic_marijuana_legislation\" title=\"US Senator Rand Paul blocks synthetic marijuana legislation\">US Senator Rand Paul blocks synthetic marijuana legislation</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_agencies_suggest_that_campaign_operative_for_Republican_Party_edited_article_on_vice_presidential_nominee\" title=\"News agencies suggest that campaign operative for Republican Party edited article on vice presidential nominee\">News agencies suggest that campaign operative for Republican Party edited article on vice presidential nominee</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Interview_with_gay_marriage_movement_founder_Evan_Wolfson\" title=\"Interview with gay marriage movement founder Evan Wolfson\">Interview with gay marriage movement founder Evan Wolfson</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Satanism:_An_interview_with_Church_of_Satan_High_Priest_Peter_Gilmore\" title=\"Satanism: An interview with Church of Satan High Priest Peter Gilmore\">Satanism: An interview with Church of Satan High Priest Peter Gilmore</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Helen_Thomas_probes_White_House_on_torture;_online_community_sends_flowers\" title=\"Helen Thomas probes White House on torture; online community sends flowers\">Helen Thomas probes White House on torture; online community sends flowers</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Eric_Bogosian_on_writing_and_the_creative_urge\" title=\"Eric Bogosian on writing and the creative urge\">Eric Bogosian on writing and the creative urge</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Al_Sharpton_speaks_out_on_race,_rights_and_what_bothers_him_about_his_critics\" title=\"Al Sharpton speaks out on race, rights and what bothers him about his critics\">Al Sharpton speaks out on race, rights and what bothers him about his critics</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373466891,
+   "book" : [],
+   "micro-www" : {
+      "attention_span" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Attention",
+         "Attention-deficit hyperactivity disorder"
+      ],
+      "text" : "'Attention span' is the amount of time that a person can concentrate on a task\nwithout becoming distracted. Most educators and psychologists agree that the\nability to focus one's attention on a task is crucial for the achievement of\none's goals.<ref>Cornish, David, Dianne Dukette, The Essential 20: Twenty\nComponents of an Excellent Health Care Team, RoseDog Books, Pittsburgh, 2009,\np.73</ref>\n",
+      "title" : "attention span",
+      "headings" : [
+         "Length of the span",
+         "Measurement",
+         "Research",
+         "Modern society",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "3: Attention",
+      "1: Distract",
+      "1: Motivation#Intrinsic_and_extrinsic_motivation",
+      "1: ADHD",
+      "1: Wechsler_Intelligence_Scale_for_Children",
+      "1: Continuous_Performance_Test",
+      "1: Porteus_Maze_Test",
+      "1: Correlation_does_not_prove_causation",
+      "1: Neil_Postman",
+      "1: BBC_News",
+      "1: Roger_Ebert",
+      "1: Twitter",
+      "1: Nicholas_Carr",
+      "1: Gary_Small",
+      "1: MRI_scan",
+      "1: Attention_deficit_hyperactivity_disorder",
+      "1: Attention_restoration_theory",
+      "1: Hyperfocus"
+   ]
+}

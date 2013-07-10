@@ -1,0 +1,118 @@
+{
+   "micrownet" : [
+      "garbage_dump"
+   ],
+   "duck" : [
+      "HASH(0x49b6970)",
+      "HASH(0x4a29e40)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canada%27s_York_West_(Ward_7)_city_council_candidates_speak\" title=\"Canada&#39;s York West (Ward 7) city council candidates speak\">Canada&#39;s York West (Ward 7) city council candidates speak</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Erosion_influences_Nigerian_climate_policy\" title=\"Erosion influences Nigerian climate policy\">Erosion influences Nigerian climate policy</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Five_police_officers_injured_in_Naples_protest_over_new_garbage_tip\" title=\"Five police officers injured in Naples protest over new garbage tip\">Five police officers injured in Naples protest over new <span class=\"searchmatch\">garbage</span> tip</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Police_in_Britain_uncover_suspected_terrorist_plot\" title=\"Police in Britain uncover suspected terrorist plot\">Police in Britain uncover suspected terrorist plot</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Report_urges_Kenya_to_ban_plastic_bags\" title=\"Report urges Kenya to ban plastic bags\">Report urges Kenya to ban plastic bags</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Gay_Talese_on_the_state_of_journalism,_Iraq_and_his_life\" title=\"Gay Talese on the state of journalism, Iraq and his life\">Gay Talese on the state of journalism, Iraq and his life</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_solid_waste_treatment_technologies",
+      "List_of_solid_waste_treatment_technologies"
+   ],
+   "created" : 1373466345,
+   "book" : [],
+   "micro-www" : {
+      "garbage_dump" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Landfill|",
+         "Waste management"
+      ],
+      "text" : "\nThe Dump}}\n\n\n\nA 'landfill site' (also known as a 'tip', 'dump', 'rubbish dump' or 'dumping\nground' and historically as a '[[midden]]') is a site for the disposal of waste\nmaterials by burial and is the oldest form of waste treatment. Historically,\nlandfills have been the most common methods of organized waste disposal and\nremain so in many places around the world. Some landfills are also used for\nwaste management purposes, such as the temporary storage, consolidation and\ntransfer, or processing of waste material (sorting, treatment, or recycling).\n\nA landfill also may refer to ground that has been filled in with rocks instead\nof waste materials, so that it can be used for a specific purpose, such as for\nbuilding houses. Unless they are stabilized, these areas may experience severe\nshaking or liquefaction of the ground in a large earthquake.\n",
+      "title" : "landfill",
+      "headings" : [
+         "Operations",
+         "Impacts",
+         "Problems",
+         "Regional practice",
+         "Reclaiming materials",
+         "Alternatives",
+         "See also",
+         "References",
+         "Further reading",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "3: Mechanical_biological_treatment",
+      "2: List_of_solid_waste_treatment_technologies",
+      "2: Landfill_Directive",
+      "2: Incineration",
+      "1: Waste",
+      "1: Waste_disposal",
+      "1: Earthquake_liquefaction",
+      "1: Earthquake",
+      "1: Hazardous_waste",
+      "1: Truck_scale",
+      "1: Compactor",
+      "1: Waste_compaction",
+      "1: Leachates",
+      "1: Infrastructure",
+      "1: Pollution",
+      "1: Natural_environment",
+      "1: Groundwater",
+      "1: Aquifers",
+      "1: Soil_contamination",
+      "1: Methane",
+      "1: Greenhouse_gas",
+      "1: Wildlife",
+      "1: Vermin",
+      "1: Noise_pollution",
+      "1: Medellin",
+      "1: Business",
+      "1: Wheel_washing_system",
+      "1: Rural_Municipality_of_Montcalm",
+      "1: Waste_Implementation_Programme",
+      "1: Waste-to-energy",
+      "1: A2Z_Group",
+      "1: Biodegradable_waste",
+      "1: Landfill_Allowance_Trading_Scheme",
+      "1: Wales",
+      "1: Landfill_Allowance_Scheme",
+      "1: United_States_Environmental_Protection_Agency",
+      "1: Waste_picker",
+      "1: Incinerator",
+      "1: Waste_Fired_Power_Plant",
+      "1: Waste_reduction",
+      "1: Recycling",
+      "1: Anaerobic_digestion",
+      "1: Composting",
+      "1: Pyrolysis",
+      "1: Plasma_arc_gasification",
+      "1: Germany",
+      "1: Austria",
+      "1: Belgium",
+      "1: Netherlands",
+      "1: Switzerland",
+      "1: Bioreactor_landfill",
+      "1: Daily_cover",
+      "1: Decompiculture",
+      "1: Fly-tipping",
+      "1: NIMBY",
+      "1: Hydrologic_Evaluation_of_Landfill_Performance",
+      "1: Landfill_diversion",
+      "1: Land_reclamation",
+      "1: Landfill_tax",
+      "1: Marine_debris",
+      "1: Solid_Waste_Association_of_North_America",
+      "1: Waste_management"
+   ]
+}

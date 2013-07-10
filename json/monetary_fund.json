@@ -1,0 +1,46 @@
+{
+   "micrownet" : [
+      "international_monetary_fund",
+      "monetary_fund"
+   ],
+   "duck" : [
+      "HASH(0x4baf200)",
+      "HASH(0x4baf0e0)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/International_Monetary_Fund\" title=\"International Monetary Fund\">International <span class=\"searchmatch\">Monetary</span> <span class=\"searchmatch\">Fund</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/IMF_and_EU_approve_aid_for_Georgia\" title=\"IMF and EU approve aid for Georgia\">IMF and EU approve aid for Georgia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Dominique_Strauss-Kahn_refused_bail_after_appearance_in_New_York_court\" title=\"Dominique Strauss-Kahn refused bail after appearance in New York court\">Dominique Strauss-Kahn refused bail after appearance in New York court</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/IMF_prepares_to_help_Hungary_and_Ukraine\" title=\"IMF prepares to help Hungary and Ukraine\">IMF prepares to help Hungary and Ukraine</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/IMF_approves_US$1.13_billion_loan_to_Pakistan\" title=\"IMF approves US$1.13 billion loan to Pakistan\">IMF approves US$1.13 billion loan to Pakistan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Greece_formally_asks_for_EU-IMF_loans\" title=\"Greece formally asks for EU-IMF loans\">Greece formally asks for EU-IMF loans</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Eurozone_approves_Greece_bailout\" title=\"Eurozone approves Greece bailout\">Eurozone approves Greece bailout</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Dominique_Strauss-Kahn_resigns_as_head_of_IMF\" title=\"Dominique Strauss-Kahn resigns as head of IMF\">Dominique Strauss-Kahn resigns as head of IMF</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bailout_signals_Lisbon%27s_capitulation_to_financial_markets\" title=\"Bailout signals Lisbon&#39;s capitulation to financial markets\">Bailout signals Lisbon&#39;s capitulation to financial markets</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Egypt_struggles_to_recover_tourism,_investment\" title=\"Egypt struggles to recover tourism, investment\">Egypt struggles to recover tourism, investment</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/KKE:_Interview_with_the_Greek_Communist_Party\" title=\"KKE: Interview with the Greek Communist Party\">KKE: Interview with the Greek Communist Party</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Cyprus_Finance_Minister_Michael_Sarris_resigns_amid_bailout_talks\" title=\"Cyprus Finance Minister Michael Sarris resigns amid bailout talks\">Cyprus Finance Minister Michael Sarris resigns amid bailout talks</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/G8_finance_ministers_agree_on_deal_to_relieve_debts_of_18_poorest_nations\" title=\"G8 finance ministers agree on deal to relieve debts of 18 poorest nations\">G8 finance ministers agree on deal to relieve debts of 18 poorest nations</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/European_Commission_warns_Eurozone_economy_to_shrink_further\" title=\"European Commission warns Eurozone economy to shrink further\">European Commission warns Eurozone economy to shrink further</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Job_market_in_France_suffers_as_unemployment_rate_hits_fifteen_year_high\" title=\"Job market in France suffers as unemployment rate hits fifteen year high\">Job market in France suffers as unemployment rate hits fifteen year high</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/China_to_surpass_Japan_to_become_second_largest_economy\" title=\"China to surpass Japan to become second largest economy\">China to surpass Japan to become second largest economy</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Greek_workers_strike_over_austerity_measures\" title=\"Greek workers strike over austerity measures\">Greek workers strike over austerity measures</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Davos_man%27_versus_%27Camp_Igloo%27;_42nd_World_Economic_Forum_convenes_in_Swiss_alps\" title=\"&#39;Davos man&#39; versus &#39;Camp Igloo&#39;; 42nd World Economic Forum convenes in Swiss alps\">&#39;Davos man&#39; versus &#39;Camp Igloo&#39;; 42nd World Economic Forum convenes in Swiss alps</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Protests_in_Greece_over_proposed_budget_cuts\" title=\"Protests in Greece over proposed budget cuts\">Protests in Greece over proposed budget cuts</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465728,
+   "book" : [],
+   "micro-www" : {
+      "monetary_fund" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

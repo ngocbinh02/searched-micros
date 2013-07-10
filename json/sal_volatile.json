@@ -1,0 +1,51 @@
+{
+   "micrownet" : [
+      "sal_volatile"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471654,
+   "book" : [],
+   "micro-www" : {
+      "sal_volatile" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Carbonates",
+         "Ammonium compounds"
+      ],
+      "text" : "{{chembox\n| verifiedrevid = 446958207 Name = Ammonium carbonate ImageFile = ammonium\n| carbonate.png ImageFile1 = Ammonium-carbonate-3D-balls.png ImageSize1 = 220\n| ImageName1 = Ball-and-stick model of two ammonium cations and one carbonate\n| anion ImageFile2 = Uhličitan amonný.JPG ImageSize2 = 244 IUPACName = Ammonium\n| carbonate Section1 = {{Chembox Identifiers UNII_Ref = UNII = PDP691CN28 InChI\n| = 1/CH2O3.2H3N/c2-1(3)4;;/h(H2,2,3,4);2*1H3 SMILES = O=C(O)O.N.N InChIKey =\n| PRKQVKDSMLBJBJ-UHFFFAOYAQ StdInChI_Ref = StdInChI = 1S/CH2O3.2H3N/c2-\n| 1(3)4;;/h(H2,2,3,4);2*1H3 StdInChIKey_Ref = StdInChIKey = PRKQVKDSMLBJBJ-UHFFFAOYSA-\n| N CASNo = 506-87-6 CASNo_Ref = ChemSpiderID_Ref = ChemSpiderID=10048\n  }}\n| Section2 = {{Chembox Properties Formula =\n| (NH<sub>4</sub>)<sub>2</sub>CO<sub>3</sub> MolarMass = 96.09 g/mol Appearance\n| = White powder Density = 1.50 g/cm<sup>3</sup> Solubility = Soluble,\n| decomposes in hot water MeltingPtC = 58 BoilingPt = Decomposes pKa =\n  }}\n| Section3 = {{Chembox Structure CrystalStruct =\n  }}\n| Section7 = {{Chembox Hazards ExternalMSDS =\n| [http://hazard.com/msds/mf/baker/baker/files/a5688.htm External MSDS]\n| MainHazards = Irritant\n  }}\n| Section8 = {{Chembox Related OtherAnions = Ammonium bicarbonate OtherCations =\n| Sodium carbonate<br />Potassium carbonate\n  }} }}\n\n'Ammonium carbonate' is a salt with the chemical formula\n(NH<sub>4</sub>)<sub>2</sub>CO<sub>3</sub>. Commercial samples labeled ammonium\ncarbonate no longer contain this compound, but a mixture that has similar\nammonia content. Since it readily degrades to gaseous ammonia and carbon dioxide\nupon heating, it is used as a leavening agent and also as smelling salt. It is\nalso known as 'baker's ammonia' and was a predecessor to the more modern\nleavening agents baking soda and baking powder. It is a component of what was\nformerly known as 'sal volatile' and 'salt of [[hartshorn]]'.<ref name=Ullmann/>\n",
+      "title" : "ammonium%20carbonate",
+      "headings" : [
+         "Production",
+         "Uses",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Ammonium_bicarbonate",
+      "2: Leavening_agent",
+      "1: Sodium_carbonate",
+      "1: Potassium_carbonate",
+      "1: Smelling_salt",
+      "1: Baking_soda",
+      "1: Baking_powder",
+      "1: Standard_conditions_for_temperature_and_pressure",
+      "1: Ammonia",
+      "1: Smelling_salts",
+      "1: Buckley's",
+      "1: Emetic",
+      "1: Sal_ammoniac",
+      "1: Ammonium_chloride"
+   ]
+}

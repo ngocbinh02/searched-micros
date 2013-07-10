@@ -1,0 +1,92 @@
+{
+   "micrownet" : [
+      "privy_purse",
+      "purse",
+      "purse-proud",
+      "purse-string_operation",
+      "purse_seine",
+      "purse_string",
+      "purser",
+      "sea_purse",
+      "shepherd's_purse"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Purse",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Privy_Purse\">Privy Purse</a>, money in the past British monarchy raised from the income of the Crown Estate lands and holdings",
+      "Purse",
+      "\n<a href=\"http://duckduckgo.com/Purse_bid\">Purse bid</a>, in <a href=\"http://duckduckgo.com/?q=Boxing\">Boxing</a> the aggregate prize money",
+      "http://www.merriam-webster.com/dictionary/purse",
+      "purse definition: a small bag for money.",
+      "\n<a href=\"http://duckduckgo.com/Money_bag\">Money bag</a> - A money bag is a bag of money used to hold and transport coins and banknotes from/to a mint, bank, ATM, vending machine, business, or other institution.",
+      "\n<a href=\"http://duckduckgo.com/La_Bourse\">La Bourse</a> (\"purse\" in French), a short story by French novelist Honoré de Balzac",
+      "\n<a href=\"http://duckduckgo.com/Wallet\">Wallet</a> -   A wallet, or billfold, is a small, flat case that is used to carry personal items such as cash, credit cards, identification documents, photographs, business cards and other paper or lam...",
+      "\n<a href=\"http://duckduckgo.com/Handbag\">Handbag</a>, in American English, as a modern article of fashion as per H J Cave's Modern interpretation",
+      "\n<a href=\"http://duckduckgo.com/Purse_State_Park\">Purse State Park</a>, a state park in Charles County, Maryland",
+      "HASH(0x4af40e0)",
+      "\n<a href=\"http://duckduckgo.com/prize_money\">Purse (naval warfare)</a>, a monetary reward paid out to the crew of a ship for capturing an enemy vessel",
+      "\n<a href=\"http://duckduckgo.com/Prize_money\">Prize money</a>, or \"purse money\", any type of monetary award given as a prize",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Purse_(surname)\">Purse (surname)</a>, a surname",
+      "HASH(0x49a1da0)",
+      "\n<a href=\"http://duckduckgo.com/Coin_purse\">Coin purse</a>, in British English, currency notes, credit card, and other ID cards",
+      "\n<a href=\"http://duckduckgo.com/purse_distribution\">Purse (horse racing)</a>, the total amount of money paid out to the owners of horses racing at a particular track over a given period",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bush%27s_daughter%27s_purse_snatched\" title=\"Bush&#39;s daughter&#39;s purse snatched\">Bush&#39;s daughter&#39;s <span class=\"searchmatch\">purse</span> snatched</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Runners,_fans_prepare_for_109th_Boston_Marathon\" title=\"Runners, fans prepare for 109th Boston Marathon\">Runners, fans prepare for 109th Boston Marathon</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Dress_code_threats_close_Peshawar_schools\" title=\"Dress code threats close Peshawar schools\">Dress code threats close Peshawar schools</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Golf:_Harrington_wins_British_Open\" title=\"Golf: Harrington wins British Open\">Golf: Harrington wins British Open</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Jaipur%27s_Queen_Gayatri_Devi_dies_at_90\" title=\"Jaipur&#39;s Queen Gayatri Devi dies at 90\">Jaipur&#39;s Queen Gayatri Devi dies at 90</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Taiwan_Textile_Foundation_markets_%222008_Taipei_In_Style%22_in_Cross-Straits\" title=\"Taiwan Textile Foundation markets &quot;2008 Taipei In Style&quot; in Cross-Straits\">Taiwan Textile Foundation markets &quot;2008 Taipei In Style&quot; in Cross-Straits</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Jersey_woman_identified_after_fifteen_years_in_psychiatric_home\" title=\"New Jersey woman identified after fifteen years in psychiatric home\">New Jersey woman identified after fifteen years in psychiatric home</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_hacker_may_face_Guantanamo,_60-year_sentence\" title=\"British hacker may face Guantanamo, 60-year sentence\">British hacker may face Guantanamo, 60-year sentence</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Shoplifting_mother_leaves_son_at_scene_of_crime\" title=\"Shoplifting mother leaves son at scene of crime\">Shoplifting mother leaves son at scene of crime</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Shin_wins_Singapore_HSBC_Womens_Golf_Classic\" title=\"Shin wins Singapore HSBC Womens Golf Classic\">Shin wins Singapore HSBC Womens Golf Classic</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NRA_meets_in_Houston--Beleaguered_Tom_DeLay_will_speak\" title=\"NRA meets in Houston--Beleaguered Tom DeLay will speak\">NRA meets in Houston--Beleaguered Tom DeLay will speak</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Greenpeace_tries_to_thwart_Chesapeake_Bay_fishing_fleet\" title=\"Greenpeace tries to thwart Chesapeake Bay fishing fleet\">Greenpeace tries to thwart Chesapeake Bay fishing fleet</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Swatch_to_organize_new_snow_sports_competition\" title=\"Swatch to organize new snow sports competition\">Swatch to organize new snow sports competition</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Church_of_Scientology_does_not_see_humor_in_website_dedicated_to_Tom_Cruise\" title=\"Church of Scientology does not see humor in website dedicated to Tom Cruise\">Church of Scientology does not see humor in website dedicated to Tom Cruise</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Eight_year_old_Victoria_Stafford_of_Ontario_missing_since_Wednesday\" title=\"Eight year old Victoria Stafford of Ontario missing since Wednesday\">Eight year old Victoria Stafford of Ontario missing since Wednesday</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Puppies_used_to_smuggle_heroin\" title=\"Puppies used to smuggle heroin\">Puppies used to smuggle heroin</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Thousands_protest_Iraq_war_in_Washington_D.C.\" title=\"Thousands protest Iraq war in Washington D.C.\">Thousands protest Iraq war in Washington D.C.</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_mother_paralyzed_in_stabbing_communicates_with_police\" title=\"British mother paralyzed in stabbing communicates with police\">British mother paralyzed in stabbing communicates with police</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Report_urges_Kenya_to_ban_plastic_bags\" title=\"Report urges Kenya to ban plastic bags\">Report urges Kenya to ban plastic bags</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464255,
+   "book" : [],
+   "micro-www" : {
+      "purse" : [
+         "Purse_distribution",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\nA 'purse' is a small bag that may refer to:\n* Coin purse, in British English, currency notes, credit card, and other ID\n  cards\n* Handbag, in American English, as a modern article of fashion as per H J Cave's\n  Modern interpretation\n* Money bag\n* Wallet\n\n'Purse' may also refer to:\n* Purse (horse racing), the total amount of money paid out to the owners of\n  horses racing at a particular track over a given period\n* Purse (naval warfare), a monetary reward paid out to the crew of a ship for\n  capturing an enemy vessel\n* Prize money, or \"purse money\", any type of monetary award given as a prize\n* Purse bid, in Boxing the aggregate prize money\n* Purse (surname), a surname\n* Purse State Park, a state park in Charles County, Maryland\n* Privy Purse, money in the past British monarchy raised from the income of the\n  Crown Estate lands and holdings\n* [[La Bourse]] (\"purse\" in French), a short story by French novelist\n  Honoré de Balzac\n",
+      "title" : "purse",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Coin_purse",
+      "1: Handbag",
+      "1: Money_bag",
+      "1: Wallet",
+      "1: Prize_money",
+      "1: Purse_bid",
+      "1: Boxing",
+      "1: Purse_State_Park",
+      "1: Privy_Purse",
+      "1: Parse"
+   ]
+}

@@ -1,0 +1,132 @@
+{
+   "micrownet" : [
+      "million_instructions_per_second"
+   ],
+   "duck" : [
+      "HASH(0x49bd860)",
+      "HASH(0x4a04158)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Schools_benefit_from_new_California_budget\" title=\"Schools benefit from new California budget\">Schools benefit from new California budget</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Interview_with_Brazilian_blogger_Ricardo_Serran_Lobo\" title=\"Interview with Brazilian blogger Ricardo Serran Lobo\">Interview with Brazilian blogger Ricardo Serran Lobo</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_ARM_microprocessor_cores",
+      "List_of_ARM_microprocessor_cores"
+   ],
+   "created" : 1373465088,
+   "book" : [],
+   "micro-www" : {
+      "million_instructions_per_second" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Units of frequency",
+         "Computer performance"
+      ],
+      "text" : "'Instructions per second (IPS)' is a measure of a computer's processor speed.\nMany reported IPS values have represented \"peak\" execution rates on artificial\ninstruction sequences with few branches, whereas realistic workloads typically\nlead to significantly lower IPS values. The performance of the memory hierarchy\nalso greatly affects processor performance, an issue barely considered in MIPS\ncalculations. Because of these problems, researchers created standardized tests\nsuch as SPECint to attempt to measure the real effective performance in commonly\nused applications, and raw IPS has fallen into disuse.\n\nThe term is commonly used in association with a numeric value such as 'thousand\ninstructions per second (kIPS)', 'million instructions per second (MIPS)', 'Giga\ninstructions per second (GIPS)', or 'Million Operations per Second (MOPS)'.\n",
+      "title" : "Instructions%20per%20second%23Million%20instructions%20per%20second",
+      "headings" : [
+         "Thousand instructions per second",
+         "Million instructions per second",
+         "Timeline of instructions per second",
+         "Historic data",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "4: MIPS_architecture",
+      "3: IBM",
+      "2: PIC_microcontroller",
+      "2: Athlon_64_X2",
+      "2: Intel_Core#Core_2_Extreme",
+      "2: ARM_Cortex",
+      "2: Sandy_Bridge",
+      "2: List_of_ARM_microprocessor_cores",
+      "1: Computer",
+      "1: Memory_hierarchy",
+      "1: SPECint",
+      "1: Burroughs_Corporation",
+      "1: UNIVAC",
+      "1: NCR_Corporation",
+      "1: Control_Data_Corporation",
+      "1: Honeywell",
+      "1: Hertz",
+      "1: CPU_architecture",
+      "1: VAX",
+      "1: System/370",
+      "1: Fortran",
+      "1: BASIC",
+      "1: C++",
+      "1: 8-bit",
+      "1: 16-bit",
+      "1: Microprocessors",
+      "1: Microprocessor",
+      "1: Intel",
+      "1: IBM_PC",
+      "1: 32-bit",
+      "1: Mainframe_computer",
+      "1: ZSeries",
+      "1: IBM_System_z9",
+      "1: IBM_System_z10",
+      "1: UNIVAC_I",
+      "1: Intel_4004",
+      "1: IBM_System/370",
+      "1: Intel_8080",
+      "1: MOS_Technology_6502",
+      "1: VAX-11",
+      "1: Motorola_68000",
+      "1: Intel_80286",
+      "1: Motorola_68020",
+      "1: Intel_80386",
+      "1: Motorola_68030",
+      "1: Motorola_68040",
+      "1: Alpha_21064",
+      "1: Intel_80486",
+      "1: PowerPC",
+      "1: Motorola_68060",
+      "1: Intel_Pentium",
+      "1: Atmel_AVR",
+      "1: Acorn_Network_Computer",
+      "1: Intel_Pentium_Pro",
+      "1: PowerPC_750",
+      "1: Zilog_eZ80",
+      "1: Intel_Pentium_III",
+      "1: PowerQUICC",
+      "1: AMD_K7",
+      "1: ARM11",
+      "1: ZISC",
+      "1: AMD_Athlon_XP",
+      "1: Pentium_4",
+      "1: ARM_Cortex-M3",
+      "1: Nios_II",
+      "1: ARM_architecture",
+      "1: VIA_C7",
+      "1: Athlon_64",
+      "1: Tegra_3_T30_CPU",
+      "1: Xenon_CPU",
+      "1: PWRficient",
+      "1: Intel_Core_2_Extreme",
+      "1: Intel_Core_i7",
+      "1: Intel_Atom",
+      "1: ARM_Cortex-M0",
+      "1: Phenom_II",
+      "1: ARM_Cortex-A15_MPCore",
+      "1: Samsung_Exynos",
+      "1: AMD_Fusion",
+      "1: FLOPS",
+      "1: Million_service_units",
+      "1: Peak_MIPS",
+      "1: Relative_MIPS",
+      "1: Dhrystone"
+   ]
+}

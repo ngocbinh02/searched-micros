@@ -1,0 +1,112 @@
+{
+   "micrownet" : [
+      "earned_run_average"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/San_Diego_State_University_pitcher_taken_first_in_baseball_draft\" title=\"San Diego State University pitcher taken first in baseball draft\">San Diego State University pitcher taken first in baseball draft</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Former_pitcher_Pat_Dobson_dies_at_64\" title=\"Former pitcher Pat Dobson dies at 64\">Former pitcher Pat Dobson dies at 64</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Albert_Pujols_ends_his_worst_homerun_drought\" title=\"Albert Pujols ends his worst homerun drought\">Albert Pujols ends his worst homerun drought</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:May_13,_2010\" title=\"News briefs:May 13, 2010\">News briefs:May 13, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:May_13,_2010#Madagascar.E2.80.99s_leader_Andry_Rajoelina_.E2.80.98will_not_run_in_polls.E2.80.99_.280:40.29\" title=\"News briefs:May 13, 2010\">Madagascar’s leader Andry Rajoelina ‘will not <span class=\"searchmatch\">run</span> in polls’ (0:40) </a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/On_the_campaign_trail,_September_2012\" title=\"On the campaign trail, September 2012\">On the campaign trail, September 2012</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Cuba_and_Japan_to_play_in_WBC_final\" title=\"Cuba and Japan to play in WBC final\">Cuba and Japan to play in WBC final</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/USC_defeats_Penn_State_in_95th_Rose_Bowl_Game\" title=\"USC defeats Penn State in 95th Rose Bowl Game\">USC defeats Penn State in 95th Rose Bowl Game</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canada%27s_Parkdale%E2%80%94High_Park_(Ward_13)_city_council_candidates_speak\" title=\"Canada&#39;s Parkdale—High Park (Ward 13) city council candidates speak\">Canada&#39;s Parkdale—High Park (Ward 13) city council candidates speak</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/CanadaVOTES:_Liberal_David_Remington_running_in_Lanark%E2%80%94Frontenac%E2%80%94Lennox_%26_Addington\" title=\"CanadaVOTES: Liberal David Remington running in Lanark—Frontenac—Lennox &amp; Addington\">CanadaVOTES: Liberal David Remington running in Lanark—Frontenac—Lennox &amp; Addington</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373468378,
+   "book" : [],
+   "micro-www" : {
+      "earned_run_average" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Pitching statistics"
+      ],
+      "text" : "\n\n\n pitcher Ed Walsh.]]\n\nIn baseball statistics, 'earned run average' ('ERA') is the mean of earned runs\ngiven up by a pitcher per nine innings pitched. It is determined by dividing the\nnumber of earned runs allowed by the number of innings pitched and multiplying\nby nine. Runs resulting from defensive errors (including pitchers' defensive\nerrors) are recorded as unearned runs and are not used to determine ERA.\n",
+      "title" : "earned run average",
+      "headings" : [
+         "Origins",
+         "ERA in different decades and baseball eras",
+         "Other external factors",
+         "Sabermetric treatment of ERA",
+         "All-time career leaders",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "3: Ed_Walsh",
+      "3: Cleveland_Indians",
+      "3: Chicago_Cubs",
+      "3: Los_Angeles_Dodgers",
+      "2: Earned_run",
+      "2: Mariano_Rivera",
+      "2: Defense-Independent_ERA",
+      "2: Peripheral_ERA",
+      "2: Adjusted_ERA+",
+      "2: Chicago_White_Sox",
+      "2: Atlanta_Braves",
+      "2: Whitey_Ford",
+      "2: Sandy_Koufax",
+      "2: Hoyt_Wilhelm",
+      "2: New_York_Yankees",
+      "2: San_Francisco_Giants",
+      "2: St._Louis_Cardinals",
+      "1: Baseball_statistics",
+      "1: Pitcher",
+      "1: Innings_pitched",
+      "1: Unearned_run",
+      "1: Relief_pitcher",
+      "1: Complete_game",
+      "1: James_Otis_Crandall",
+      "1: National_League",
+      "1: John_Heydler",
+      "1: American_League",
+      "1: Negro_League_baseball",
+      "1: Batting_average",
+      "1: Dead-ball_era",
+      "1: Dazzy_Vance",
+      "1: Lefty_Grove",
+      "1: 2012_Major_League_Baseball_season",
+      "1: Blown_save",
+      "1: Starting_pitcher",
+      "1: Designated_hitter",
+      "1: Pinch_hitter",
+      "1: Colorado_Rockies",
+      "1: Denver",
+      "1: Humidor",
+      "1: Sabermetrics",
+      "1: Defense_independent_pitching_statistics",
+      "1: Nate_Silver",
+      "1: PECOTA",
+      "1: Addie_Joss",
+      "1: Jim_Devlin",
+      "1: Louisville_Grays",
+      "1: Jack_Pfiester",
+      "1: Pittsburgh_Pirates",
+      "1: Smoky_Joe_Wood",
+      "1: Boston_Red_Sox",
+      "1: Babe_Ruth",
+      "1: Designated_hitter_rule",
+      "1: Baltimore_Orioles",
+      "1: Los_Angeles_Angels_of_Anaheim",
+      "1: Clayton_Kershaw",
+      "1: Dan_Quisenberry",
+      "1: Kansas_City_Royals",
+      "1: Catcher's_ERA",
+      "1: Component_ERA",
+      "1: Defense_independent_pitching_statistics#Alternate_formulae",
+      "1: Run_average"
+   ]
+}

@@ -1,0 +1,30 @@
+{
+   "micrownet" : [
+      "physiological_state"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_record_time_spent_in_space\" title=\"New record time spent in space\">New record time spent in space</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Dr._Joseph_Merlino_on_sexuality,_insanity,_Freud,_fetishes_and_apathy\" title=\"Dr. Joseph Merlino on sexuality, insanity, Freud, fetishes and apathy\">Dr. Joseph Merlino on sexuality, insanity, Freud, fetishes and apathy</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/High_percentage_of_US_patients_on_placebos_without_knowing_it\" title=\"High percentage of US patients on placebos without knowing it\">High percentage of US patients on placebos without knowing it</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:June_4,_2010\" title=\"News briefs:June 4, 2010\">News briefs:June 4, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ingrid_Newkirk,_co-founder_of_PETA,_on_animal_rights_and_the_film_about_her_life\" title=\"Ingrid Newkirk, co-founder of PETA, on animal rights and the film about her life\">Ingrid Newkirk, co-founder of PETA, on animal rights and the film about her life</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._study_of_gay_sheep_may_shed_light_on_sexuality\" title=\"U.S. study of gay sheep may shed light on sexuality\">U.S. study of gay sheep may shed light on sexuality</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Edmund_White_on_writing,_incest,_life_and_Larry_Kramer\" title=\"Edmund White on writing, incest, life and Larry Kramer\">Edmund White on writing, incest, life and Larry Kramer</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471529,
+   "book" : [],
+   "micro-www" : {
+      "physiological_state" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

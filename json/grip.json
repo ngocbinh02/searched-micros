@@ -1,0 +1,104 @@
+{
+   "micrownet" : [
+      "grip",
+      "gripe",
+      "gripes",
+      "griping",
+      "grippe",
+      "gripping",
+      "gripsack",
+      "pistol_grip",
+      "scissor_grip",
+      "scissors_grip"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Grip",
+      "\n<a href=\"http://duckduckgo.com/Grip_strength\">Grip strength</a>, a measure of hand strength",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Grip_(tennis)\">Grip (tennis)</a>, how a tennis racket is held",
+      "Grip",
+      "\n<a href=\"http://duckduckgo.com/Grip_(job)\">Grip (job)</a>, a job in the film industry",
+      "http://www.merriam-webster.com/dictionary/grip",
+      "\n<a href=\"http://duckduckgo.com/Pistol_grip\">Pistol grip</a>, the handle of a firearm, or a similar handle on a tool",
+      "grip definition: to seize or hold firmly.",
+      "\n<a href=\"http://duckduckgo.com/Battery_grip\">Battery grip</a>, an accessory for camera",
+      "\n<a href=\"http://duckduckgo.com/Key_grip\">Key grip</a>, the chief grip on a film set",
+      "\n<a href=\"http://duckduckgo.com/tactile_pad\">Precision grip</a>, another way of gripping objects, which allows finer control",
+      "\n<a href=\"http://duckduckgo.com/Power_grip\">Power grip</a>, one way of gripping objects",
+      "HASH(0x4bae9b0)",
+      "\n<a href=\"http://duckduckgo.com/Handle_(grip)\">Handle (grip)</a>, a part of, or attachment to, an object, allowing it to be moved or used by hand",
+      "Merriam-Webster",
+      "HASH(0x4bb8310)",
+      "\n<a href=\"http://duckduckgo.com/influenza\">Grippe</a>, exercise machines used to increase hand strength",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/At_least_24_killed_in_suicide_bombing_in_Pakistan\" title=\"At least 24 killed in suicide bombing in Pakistan\">At least 24 killed in suicide bombing in Pakistan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sumo:_Asashoryu_wins_New_Year_Grand_Tournament\" title=\"Sumo: Asashoryu wins New Year Grand Tournament\">Sumo: Asashoryu wins New Year Grand Tournament</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Michael_Schumacher_calls_off_Formula_1_comeback_due_to_injury\" title=\"Michael Schumacher calls off Formula 1 comeback due to injury\">Michael Schumacher calls off Formula 1 comeback due to injury</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Heavy_rains_welcomed_in_Texas\" title=\"Heavy rains welcomed in Texas\">Heavy rains welcomed in Texas</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Motor_sport_legend_Peter_Brock_dies_in_rally\" title=\"Motor sport legend Peter Brock dies in rally\">Motor sport legend Peter Brock dies in rally</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Engineers_develop_robotic_microhand\" title=\"Engineers develop robotic microhand\">Engineers develop robotic microhand</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Seattle_shooting_leaves_seven_dead\" title=\"Seattle shooting leaves seven dead\">Seattle shooting leaves seven dead</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Fans_jumping_for_Juno_tickets\" title=\"Fans jumping for Juno tickets\">Fans jumping for Juno tickets</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sony%27s_PlayStation_Portable_is_launched_in_North_America\" title=\"Sony&#39;s PlayStation Portable is launched in North America\">Sony&#39;s PlayStation Portable is launched in North America</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Airbus_wins_Qatar_Airways_order_worth_$15bn\" title=\"Airbus wins Qatar Airways order worth $15bn\">Airbus wins Qatar Airways order worth $15bn</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Prince_Laurent_of_Belgium_testifies_in_marine_fraud_case\" title=\"Prince Laurent of Belgium testifies in marine fraud case\">Prince Laurent of Belgium testifies in marine fraud case</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Theo_Walcott_is_the_big_surprise_in_Eriksson%27s_preliminary_World_Cup_squad\" title=\"Theo Walcott is the big surprise in Eriksson&#39;s preliminary World Cup squad\">Theo Walcott is the big surprise in Eriksson&#39;s preliminary World Cup squad</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UN_reports_%27grim_picture%27_of_human_rights_in_Burundi\" title=\"UN reports &#39;grim picture&#39; of human rights in Burundi\">UN reports &#39;grim picture&#39; of human rights in Burundi</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._newspaper_circulation_continues_20-year_slide\" title=\"U.S. newspaper circulation continues 20-year slide\">U.S. newspaper circulation continues 20-year slide</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Nintendo_unveils_controller_for_Revolution_console\" title=\"Nintendo unveils controller for Revolution console\">Nintendo unveils controller for Revolution console</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Concerns_arise_about_the_new,_synthetic_NBA_ball\" title=\"Concerns arise about the new, synthetic NBA ball\">Concerns arise about the new, synthetic NBA ball</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Search_for_child_abductor_continues_in_Australia\" title=\"Search for child abductor continues in Australia\">Search for child abductor continues in Australia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Japanese_motorcylist_Shoya_Tomizawa_dies_aged_19_after_crash_in_San_Marino\" title=\"Japanese motorcylist Shoya Tomizawa dies aged 19 after crash in San Marino\">Japanese motorcylist Shoya Tomizawa dies aged 19 after crash in San Marino</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Zimbabwe_bans_crop_growing_in_urban_areas\" title=\"Zimbabwe bans crop growing in urban areas\">Zimbabwe bans crop growing in urban areas</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Michelin%27s_tyre_mistake_sends_US_Formula_One_Grand_Prix_into_farce\" title=\"Michelin&#39;s tyre mistake sends US Formula One Grand Prix into farce\">Michelin&#39;s tyre mistake sends US Formula One Grand Prix into farce</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462295,
+   "book" : [],
+   "micro-www" : {
+      "grip" : [
+         "Gripsholm_Castle",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Grip' may refer to:\n\n* Battery grip, an accessory for camera\n* \"Grip\", a raven, is an important character in Charles Dickens'\n  [[Barnaby Rudge]]\n* Grip (job), a job in the film industry ** Key grip, the chief grip on\n  a film set\n* Grip strength, a measure of hand strength\n* Grippers, exercise machines used to increase hand strength\n* Handle (grip), a part of, or attachment to, an object, allowing it to be moved\n  or used by hand\n* Pistol grip, the handle of a firearm, or a similar handle on a tool\n* Power grip, one way of gripping objects\n* Precision grip, another way of gripping objects, which allows finer control\n",
+      "title" : "grip",
+      "headings" : [
+         "In computing",
+         "In research",
+         "In sports",
+         "Places",
+         "People with the surname",
+         "Other uses",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Battery_grip",
+      "1: Key_grip",
+      "1: Grip_strength",
+      "1: Grippers",
+      "1: Pistol_grip",
+      "1: Power_grip",
+      "1: Precision_grip",
+      "1: German_Research_Institute_for_Public_Administration",
+      "1: National_Graduate_Institute_for_Policy_Studies",
+      "1: Grip,_Norway",
+      "1: Jouko_Grip",
+      "1: Governor's_Road_Improvement_Program",
+      "1: Greenland_ice_core_project",
+      "1: Guide_to_Railway_Investment_Projects",
+      "1: Youth_Inclusion_Support_Panel",
+      "1: Grippe"
+   ]
+}

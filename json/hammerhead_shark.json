@@ -1,0 +1,107 @@
+{
+   "micrownet" : [
+      "hammerhead_shark"
+   ],
+   "duck" : [
+      "HASH(0x49f2de0)",
+      "HASH(0x49de150)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hammerhead_sharks_can_give_birth_without_mating,_study_shows\" title=\"Hammerhead sharks can give birth without mating, study shows\"><span class=\"searchmatch\">Hammerhead</span> <span class=\"searchmatch\">sharks</span> can give birth without mating, study shows</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scientists_discover_new_kind_of_shark_in_northwest_Atlantic\" title=\"Scientists discover new kind of shark in northwest Atlantic\">Scientists discover new kind of <span class=\"searchmatch\">shark</span> in northwest Atlantic</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Virgin_lizard_reproduces\" title=\"Virgin lizard reproduces\">Virgin lizard reproduces</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_prehistoric_cartilaginous_fish"
+   ],
+   "created" : 1373465077,
+   "book" : [],
+   "micro-www" : {
+      "hammerhead_shark" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Sphyrnidae|",
+         "Vertebrate parthenogenesis"
+      ],
+      "text" : "{{Taxobox\n| name = Hammerhead sharks fossil_range = </ref>}} image = Hammerhead shark.jpg\n| image_width = 240px image_caption = Scalloped hammerhead, ''Sphyrna lewini''\n| regnum = Animalia phylum = Chordata classis = Chondrichthyes subclassis =\n| Elasmobranchii ordo = Carcharhiniformes familia = 'Sphyrnidae'\n| familia_authority = T. N. Gill, 1872 subdivision_ranks = Genera subdivision =\n*Eusphyra *Sphyrna\n| range_map = Sphyrnidae distribution map.svg\n}} The 'hammerhead sharks' are a group of sharks in the family 'Sphyrnidae', so\nnamed for the unusual and distinctive structure of their heads, which are\nflattened and laterally extended into a \"hammer\" shape called a \"cephalofoil\".\nMost hammerhead species are placed in the genus 'Sphyrna' while the winghead\nshark is placed in its own genus, 'Eusphyra'. Many not necessarily mutually\nexclusive functions have been proposed for the cephalofoil, including sensory\nreception, maneuvering, and prey manipulation. Hammerheads are found worldwide\nin warmer waters along coastlines and continental shelves. Unlike most sharks,\nhammerheads usually swim in schools during the day, becoming solitary hunters at\nnight. Some of these schools can be found near Malpelo Island in Colombia, Cocos\nIsland off Costa Rica, and near Molokai Island in Hawaii. Large schools are also\nseen in southern and eastern Africa.\n",
+      "title" : "hammerhead shark",
+      "headings" : [
+         "Description",
+         "Taxonomy",
+         "Reproduction",
+         "Diet",
+         "Species",
+         "Relationship to humans",
+         "Hawaiian culture",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Theodore_Gill",
+      "2: Winghead_shark",
+      "2: Stewart_Springer",
+      "2: Carl_Linnaeus",
+      "1: Scalloped_hammerhead",
+      "1: Animal",
+      "1: Chordate",
+      "1: Chondrichthyes",
+      "1: Elasmobranchii",
+      "1: Carcharhiniformes",
+      "1: Genus",
+      "1: Shark",
+      "1: Continental_shelves",
+      "1: Malpelo_Island",
+      "1: Colombia",
+      "1: Species",
+      "1: Vertebra",
+      "1: Electroreception",
+      "1: Ampullae_of_Lorenzini",
+      "1: Shoaling_and_schooling",
+      "1: Fossil",
+      "1: Carcharhinus",
+      "1: Mitochondrial_DNA",
+      "1: Phylogenetic_tree",
+      "1: Viviparous",
+      "1: Fertilization",
+      "1: Sperm",
+      "1: Intromittent_organ",
+      "1: Clasper",
+      "1: Embryo",
+      "1: Yolk_sac",
+      "1: Yolk",
+      "1: Mammal",
+      "1: Placenta",
+      "1: Bonnethead",
+      "1: Asexual_reproduction",
+      "1: Parthenogenesis",
+      "1: Ovum",
+      "1: Polar_body",
+      "1: Zygote",
+      "1: Great_Hammerhead",
+      "1: Cannibalism",
+      "1: Galapagos_Islands",
+      "1: Georges_Cuvier",
+      "1: Constantine_Samuel_Rafinesque",
+      "1: Charles_Hamilton_Smith",
+      "1: Eduard_Rüppell",
+      "1: Achille_Valenciennes",
+      "1: South_Carolina",
+      "1: Cryptic_species",
+      "1: IUCN",
+      "1: Endangered_species",
+      "1: Vulnerable_species",
+      "1: Maui",
+      "1: List_of_prehistoric_cartilaginous_fish"
+   ]
+}

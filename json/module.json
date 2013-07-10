@@ -1,0 +1,107 @@
+{
+   "micrownet" : [
+      "command_module",
+      "lunar_excursion_module",
+      "lunar_module",
+      "module",
+      "power_module"
+   ],
+   "duck" : [
+      "Module",
+      "http://www.merriam-webster.com/dictionary/module",
+      "module definition: a standard or unit of measurement.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Columbus_module_added_to_ISS_during_spacewalk\" title=\"Columbus module added to ISS during spacewalk\">Columbus <span class=\"searchmatch\">module</span> added to ISS during spacewalk</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Space_shuttle_Atlantis_set_for_launch_with_Columbus_module\" title=\"Space shuttle Atlantis set for launch with Columbus module\">Space shuttle Atlantis set for launch with Columbus <span class=\"searchmatch\">module</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Space_Shuttle_Discovery_launches_on_mission_STS-124\" title=\"Space Shuttle Discovery launches on mission STS-124\">Space Shuttle Discovery launches on mission STS-124</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Space_Shuttle_Endeavour_launches_for_mission_STS-123\" title=\"Space Shuttle Endeavour launches for mission STS-123\">Space Shuttle Endeavour launches for mission STS-123</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Space_Shuttle_Atlantis_docks_with_International_Space_Station\" title=\"Space Shuttle Atlantis docks with International Space Station\">Space Shuttle Atlantis docks with International Space Station</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Space_Shuttle_Atlantis_launches_on_mission_STS-122\" title=\"Space Shuttle Atlantis launches on mission STS-122\">Space Shuttle Atlantis launches on mission STS-122</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Astronauts_replace_ISS_nitrogen_tank_in_spacewalk\" title=\"Astronauts replace ISS nitrogen tank in spacewalk\">Astronauts replace ISS nitrogen tank in spacewalk</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/STS-122_astronauts_perform_third_spacewalk\" title=\"STS-122 astronauts perform third spacewalk\">STS-122 astronauts perform third spacewalk</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Russia_launches_Progress_spacecraft_to_resupply_Space_Station\" title=\"Russia launches Progress spacecraft to resupply Space Station\">Russia launches Progress spacecraft to resupply Space Station</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Comedian_Stephen_Colbert_wins_NASA_space_station_name_contest\" title=\"Comedian Stephen Colbert wins NASA space station name contest\">Comedian Stephen Colbert wins NASA space station name contest</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NASA_plans_for_future_moon_missions\" title=\"NASA plans for future moon missions\">NASA plans for future moon missions</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Space_Shuttle_Atlantis_launch_delayed_until_2008\" title=\"Space Shuttle Atlantis launch delayed until 2008\">Space Shuttle Atlantis launch delayed until 2008</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Space_Shuttle_Discovery_successfully_lifts_off_on_mission_STS-128\" title=\"Space Shuttle Discovery successfully lifts off on mission STS-128\">Space Shuttle Discovery successfully lifts off on mission STS-128</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/China_Plans_Next_Manned_Space_Mission\" title=\"China Plans Next Manned Space Mission\">China Plans Next Manned Space Mission</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/PV_Taiwan_2007_starts_with_photovoltaic_solutions_and_applications\" title=\"PV Taiwan 2007 starts with photovoltaic solutions and applications\">PV Taiwan 2007 starts with photovoltaic solutions and applications</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Interview:_Drupal_founder_Dries_Buytaert_balances_community_and_company_interests\" title=\"Interview: Drupal founder Dries Buytaert balances community and company interests\">Interview: Drupal founder Dries Buytaert balances community and company interests</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/White_House_cuts_Hubble_from_budget\" title=\"White House cuts Hubble from budget\">White House cuts Hubble from budget</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Delayed_Endeavour_carries_Japanese_lab_to_International_Space_Station\" title=\"Delayed Endeavour carries Japanese lab to International Space Station\">Delayed Endeavour carries Japanese lab to International Space Station</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Space_Shuttle_Discovery_to_return_to_Earth\" title=\"Space Shuttle Discovery to return to Earth\">Space Shuttle Discovery to return to Earth</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Space_Shuttle_Discovery_launches_for_mission_STS-120\" title=\"Space Shuttle Discovery launches for mission STS-120\">Space Shuttle Discovery launches for mission STS-120</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373473297,
+   "book" : [],
+   "micro-www" : {
+      "module" : [
+         "Module_(mathematics)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Holism"
+      ],
+      "text" : "\n'Modularity' is the degree to which a system's components may be separated and\nrecombined. The meaning of the word, however, can vary somewhat by context:\n\n*In biology, modularity is the concept that organisms or metabolic pathways are\ncomposed of modules. *In construction, modules are a bundle of redundant project\ncomponents that are produced en-mass prior to installation. *In nature,\nmodularity refers to the construction of a cellular organism by joining together\nstandardized units to form larger compositions, as for example, the hexagonal\ncells in a honeycomb. *In the Five Principles of New Media as defined by Lev\nManovich, modularity covers the principle that new media is composed of modules\nor self-sufficient parts of the overall media object. *In the study of networks,\nmodularity (networks) is a benefit function that measures the quality of a\ndivision of a network into groups or communities. *In ecology, modularity is\nconsidered a key factor&nbsp;– along with diversity and feedback&nbsp;– in\nsupporting resilience. *In mathematics, a module over a ring is a generalization\nof the notion of vector space over a field. *In mathematics, the modularity\ntheorem (formerly the Taniyama–Shimura conjecture) establishes a connection\nbetween elliptic curves and modular forms. *In mathematics, modular lattices are\npartially ordered sets satisfying certain axioms. *In cognitive science, the\nmodularity of mind refers to the idea that the mind is composed of\n'independent', closed, 'domain-specific' processing modules. **Specifically, see\nvisual modularity, for an article relating to the various putative visual\nmodules. **Specifically, see language module, for an article relating to the\nputative language module. *In industrial design, modularity refers to an\nengineering technique that builds larger systems by combining smaller\nsubsystems. *In manufacturing, modularity refers to the use of exchangeable\nparts or options in the fabrication of an object. *In modular programming,\nmodularity refers to the compartmentalization and inter-relation of the parts of\na software package. *In contemporary art and architecture, modularity can refer\nto the construction of an object by joining together standardized units to form\nlarger compositions, and/or to the use of a module as a standardized unit of\nmeasurement and proportion. *In ModulArt&nbsp;– a branch of modular art&nbsp;–\nmodularity refers to the ability to alter the work by reconfiguring, adding to\nand/or removing its parts. *In software design, modularity refers to a logical\npartitioning of the \"software design\" that allows complex software to be\nmanageable for the purpose of implementation and maintenance. The logic of\npartitioning may be based on related functions, implementation considerations,\ndata links, or other criteria. *In Self-reconfiguring modular robot, modularity\nrefers to the ability of the robotic system to achieve different morphologies\nand self reconfigure the robotic system to perform the necessary task execution.\n",
+      "title" : "Modularity",
+      "headings" : [
+         "Modularity in different research areas",
+         "See also",
+         "Notes"
+      ]
+   },
+   "micro-relation" : [
+      "3: ModulArt",
+      "1: Lev_Manovich",
+      "1: New_media",
+      "1: Vector_space",
+      "1: Modularity_theorem",
+      "1: Modular_lattice",
+      "1: Partially_ordered_set",
+      "1: Modularity_of_mind",
+      "1: Visual_modularity",
+      "1: Language_module",
+      "1: Industrial_design",
+      "1: Modular_programming",
+      "1: Contemporary_art",
+      "1: Architecture",
+      "1: Software_design",
+      "1: Self-reconfiguring_modular_robot",
+      "1: Loose_coupling",
+      "1: Mind",
+      "1: Innate",
+      "1: Analogical_reasoning",
+      "1: Cognitive",
+      "1: Learning_process",
+      "1: Phonetic_analysis",
+      "1: Benthic",
+      "1: Invertebrate",
+      "1: Embryogenesis",
+      "1: Homologous_structure",
+      "1: Developmental_biologist",
+      "1: Gene",
+      "1: Günter_Wagner",
+      "1: Classical_architecture",
+      "1: Tatami",
+      "1: Modular_Constructivism",
+      "1: Minimalist",
+      "1: Mitzi_Cunliffe",
+      "1: Norman_Carlberg",
+      "1: Emergence",
+      "1: Modular_design",
+      "1: Holism",
+      "1: Object-oriented_programming",
+      "1: Self-similarity"
+   ]
+}

@@ -1,0 +1,78 @@
+{
+   "micrownet" : [
+      "king_whiting",
+      "northern_whiting",
+      "silver_whiting",
+      "whiting"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Merlangius_merlangus\">Merlangius merlangus</a>, the original species to receive the name; a common food fish of the cod family found in the northeastern Atlantic Ocean around Europe and the Mediterranean regions",
+      "Whiting",
+      "\n<a href=\"http://duckduckgo.com/Whiting_(fish)\">Whiting (fish)</a>, various other fish species in North America, Australia and throughout the Indo-Pacific region",
+      "http://www.merriam-webster.com/dictionary/whiting",
+      "whiting definition: any of various marine food fishes.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/De_Villota_awake_and_talking_to_family_after_Tuesday%27s_crash\" title=\"De Villota awake and talking to family after Tuesday&#39;s crash\">De Villota awake and talking to family after Tuesday&#39;s crash</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Google_not_accessible_in_some_parts_of_China\" title=\"Google not accessible in some parts of China\">Google not accessible in some parts of China</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Colleges_offering_admission_to_displaced_New_Orleans_students/LA-ND\" title=\"Colleges offering admission to displaced New Orleans students/LA-ND\">Colleges offering admission to displaced New Orleans students/LA-ND</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373469509,
+   "book" : [],
+   "micro-www" : {
+      "whiting" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "'Whiting' is the name of several species of fish: *[[Merlangius merlangus]], the\noriginal species to receive the name; a common food fish of the cod family found\nin the northeastern Atlantic Ocean around Europe and the Mediterranean regions\n*Whiting (fish), various other fish species in North America, Australia and\nthroughout the Indo-Pacific region\n\n'Whiting' may also refer to: *Powdered and washed white chalk (calcium\ncarbonate), used in putty, metal polish, whitewash and sometimes added to paint\nto improve the paint's opacity\n",
+      "title" : "whiting",
+      "headings" : [
+         "Places",
+         "Geography",
+         "Military",
+         "Other"
+      ]
+   },
+   "micro-relation" : [
+      "1: Chalk",
+      "1: Calcium_carbonate",
+      "1: Putty",
+      "1: Polishing",
+      "1: Whitewash",
+      "1: Paint",
+      "1: Whiting_Bay",
+      "1: Whiting,_Indiana",
+      "1: Whiting,_Iowa",
+      "1: Whiting,_Kansas",
+      "1: Whiting,_Maine",
+      "1: Whiting,_New_Jersey",
+      "1: Whiting,_Vermont",
+      "1: Whiting,_Wisconsin",
+      "1: Whiting_River",
+      "1: Whiting_Peak",
+      "1: Mount_Whiting",
+      "1: Whiting_Rocks",
+      "1: Naval_Air_Station_Whiting_Field",
+      "1: NAS_Whiting_Field_–_North",
+      "1: NAS_Whiting_Field_–_South",
+      "1: Whiting_School_of_Engineering",
+      "1: School_City_of_Whiting",
+      "1: Whiting_Writers'_Award",
+      "1: Whiting_Motor_Car_Company",
+      "1: Whiting_Refinery",
+      "1: Whiting_Homestead",
+      "1: Whitings_Hill_Open_Space",
+      "1: Whiting_reaction",
+      "1: Chamber_of_Commerce_v._Whiting"
+   ]
+}

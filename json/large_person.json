@@ -1,0 +1,46 @@
+{
+   "micrownet" : [
+      "large_person"
+   ],
+   "duck" : [
+      "HASH(0x4a71638)",
+      "HASH(0x49beae8)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Munch%27s_%22The_Scream%22_might_have_been_burned\" title=\"Munch&#39;s &quot;The Scream&quot; might have been burned\">Munch&#39;s &quot;The Scream&quot; might have been burned</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mark_Zuckerberg_named_2010_Time_Person_of_the_Year\" title=\"Mark Zuckerberg named 2010 Time Person of the Year\">Mark Zuckerberg named 2010 Time <span class=\"searchmatch\">Person</span> of the Year</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Global_Orgasm_for_Peace_anti-war_demonstration_held_yesterday\" title=\"Global Orgasm for Peace anti-war demonstration held yesterday\">Global Orgasm for Peace anti-war demonstration held yesterday</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Two_divers%27_bodies_found_in_Scapa_Flow,_Scotland\" title=\"Two divers&#39; bodies found in Scapa Flow, Scotland\">Two divers&#39; bodies found in Scapa Flow, Scotland</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chinese_ship_leaking_oil_near_Great_Barrier_Reef\" title=\"Chinese ship leaking oil near Great Barrier Reef\">Chinese ship leaking oil near Great Barrier Reef</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Zimbabwe_police_break_up_rally,_detain_leaders\" title=\"Zimbabwe police break up rally, detain leaders\">Zimbabwe police break up rally, detain leaders</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Major_blaze_hits_large_Muslim_building_in_the_Netherlands\" title=\"Major blaze hits large Muslim building in the Netherlands\">Major blaze hits <span class=\"searchmatch\">large</span> Muslim building in the Netherlands</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Libertarian_National_Committee_in_fierce_deadlock_over_how_to_address_growing_Bob_Barr_controversies\" title=\"Libertarian National Committee in fierce deadlock over how to address growing Bob Barr controversies\">Libertarian National Committee in fierce deadlock over how to address growing Bob Barr controversies</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Three_new_dinosaurs_discovered_in_Australia\" title=\"Three new dinosaurs discovered in Australia\">Three new dinosaurs discovered in Australia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/A_portrait_of_Scotland:_Gallery_reopens_after_%C2%A317.6_million_renovation\" title=\"A portrait of Scotland: Gallery reopens after £17.6 million renovation\">A portrait of Scotland: Gallery reopens after £17.6 million renovation</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_dog_attack_owner_charged_with_involuntary_manslaughter\" title=\"US dog attack owner charged with involuntary manslaughter\">US dog attack owner charged with involuntary manslaughter</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Obesity_and_the_Fat_Acceptance_Movement:_Kira_Nerusskaya_speaks\" title=\"Obesity and the Fat Acceptance Movement: Kira Nerusskaya speaks\">Obesity and the Fat Acceptance Movement: Kira Nerusskaya speaks</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Cairo_blast_kills_3\" title=\"Cairo blast kills 3\">Cairo blast kills 3</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2,000_homeless_after_4-hectare_fire_in_Bislig_City,_Philippines\" title=\"2,000 homeless after 4-hectare fire in Bislig City, Philippines\">2,000 homeless after 4-hectare fire in Bislig City, Philippines</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Turkey%27s_governing_party_names_Abdullah_G%C3%BCl_as_presidential_candidate\" title=\"Turkey&#39;s governing party names Abdullah Gül as presidential candidate\">Turkey&#39;s governing party names Abdullah Gül as presidential candidate</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Naoto_Kan_elected_new_Prime_Minister_of_Japan\" title=\"Naoto Kan elected new Prime Minister of Japan\">Naoto Kan elected new Prime Minister of Japan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/St._Louis_storm_uproots_tent;_one_dead,_several_injured\" title=\"St. Louis storm uproots tent; one dead, several injured\">St. Louis storm uproots tent; one dead, several injured</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Russian_police_to_%27check%27_officer_allegedly_involved_in_large_theft_and_murder\" title=\"Russian police to &#39;check&#39; officer allegedly involved in large theft and murder\">Russian police to &#39;check&#39; officer allegedly involved in <span class=\"searchmatch\">large</span> theft and murder</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Large_earthquake_hits_Southern_Peru,_one_killed\" title=\"Large earthquake hits Southern Peru, one killed\"><span class=\"searchmatch\">Large</span> earthquake hits Southern Peru, one killed</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Syrian_opposition_report_fuel_station_bombing_kills_at_least_nine\" title=\"Syrian opposition report fuel station bombing kills at least nine\">Syrian opposition report fuel station bombing kills at least nine</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373463327,
+   "book" : [],
+   "micro-www" : {
+      "large_person" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

@@ -1,0 +1,25 @@
+{
+   "micrownet" : [
+      "taxonomic_category"
+   ],
+   "duck" : [
+      "HASH(0x4a951b0)",
+      "HASH(0x4a7b730)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464831,
+   "book" : [],
+   "micro-www" : {
+      "taxonomic_category" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

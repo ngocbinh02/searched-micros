@@ -1,0 +1,77 @@
+{
+   "micrownet" : [
+      "numskull"
+   ],
+   "duck" : [
+      "numskull definition: a thick or muddled head.",
+      "http://merriam-webster.com/dictionary/numskull",
+      "HASH(0x4d79ea8)",
+      "Merriam-Webster",
+      "numskull",
+      "http://www.merriam-webster.com/dictionary/numskull",
+      "numskull definition: a thick or muddled head.",
+      "Merriam-Webster",
+      "HASH(0x4af8d30)",
+      "numskull definition: a thick or muddled head.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462561,
+   "book" : [],
+   "micro-www" : {
+      "numskull" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Musical groups from Oakland, California",
+         "Music of California|San Francisco Bay Area",
+         "West Coast hip hop groups",
+         "Rap-a-Lot Records artists"
+      ],
+      "text" : "\n\n{{Infobox musical artist <!-- See Wikipedia:WikiProject Musicians -->\n| name = Luniz image = caption = From left to right, Yukmouth and Numskull.\n| image_size = background = group_or_band alias = origin = Oakland, California,\n| United States instrument = genre = Hip hop occupation = years_active =\n| 1994–2002 label = Rap-A-Lot/Noo Trybe/Virgin/EMI Records<br/>Ball or Fall\n| associated_acts = Dru Down, The Regime, Thug Lordz, Spice 1, C-Bo, E-40\n| website = current_members = Yukmouth<br/>Numskull notable_instruments =\n}}\n\n'Luniz' (formerly The LuniTunes) were an American platinum-selling rap duo from\nOakland, California, formed by Yukmouth (Jerold Ellis III) and Numskull (Garrick\nHusbands). It released an internationally successful hit in 1995 titled \"I Got 5\non It\"—two versions of which appeared on the group's album [[Operation\nStackola]]. A third version of the song, featuring Oakland rappers Dru Down,\nShock G, Richie Rich, E-40, and Spice 1, also gained radio airplay. The track\nsold over one million copies in the United States alone.<ref name=\"British Hit\nSingles & Albums\">{{cite book\n| first= David last= Roberts year= 2006 title= British Hit Singles & Albums\n| edition= 19th publisher= Guinness World Records Limited location= London isbn=\n| 1-904994-10-5 page= 333}}</ref>\n",
+      "title" : "Luniz",
+      "headings" : [
+         "Discography",
+         "Awards",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "3: United_States",
+      "2: California",
+      "2: Dru_Down",
+      "2: Spice_1",
+      "2: E-40",
+      "2: Yukmouth",
+      "2: Numskull",
+      "1: Oakland,_California",
+      "1: Hip_hop",
+      "1: Rap-A-Lot_Records",
+      "1: Noo_Trybe_Records",
+      "1: Virgin_Records",
+      "1: EMI",
+      "1: Thug_Lordz",
+      "1: C-Bo",
+      "1: Hip_hop_-_hip_hop_music",
+      "1: Oakland",
+      "1: Hit_record",
+      "1: I_Got_5_on_It",
+      "1: Shock_G",
+      "1: Airplay",
+      "1: Melle_Mel",
+      "1: Chaka_Khan",
+      "1: Shaquille_O'Neal",
+      "1: Quincy_Jones",
+      "1: Coolio"
+   ]
+}

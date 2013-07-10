@@ -1,0 +1,42 @@
+{
+   "micrownet" : [
+      "sprue",
+      "tropical_sprue"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Coeliac_disease\">Coeliac disease</a>, also known as sprue, a disease of the small intestine",
+      "Sprue",
+      "http://www.merriam-webster.com/dictionary/sprue",
+      "\n<a href=\"http://duckduckgo.com/Asparagus\">Sprue Asparagus</a>, first pickings of asparagus",
+      "sprue definition: the waste piece on a casting (as of metal or plastic) left by the hole through which the mold was filled.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Sprue_(manufacturing)\">Sprue (manufacturing)</a>, a feature in molding and casting molds",
+      "\n<a href=\"http://duckduckgo.com/Tropical_sprue\">Tropical sprue</a>, disease"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373470774,
+   "book" : [],
+   "micro-www" : {
+      "sprue" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "A 'sprue' may refer to:\n\n*Sprue (manufacturing), a feature in molding and casting molds *Coeliac disease,\nalso known as sprue, a disease of the small intestine *Tropical sprue, disease\n*Sprue Asparagus, first pickings of asparagus\n",
+      "title" : "sprue",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Coeliac_disease",
+      "1: Tropical_sprue",
+      "1: Asparagus"
+   ]
+}

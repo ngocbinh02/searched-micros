@@ -1,0 +1,29 @@
+{
+   "micrownet" : [],
+   "duck" : [
+      "HASH(0x47fb628)",
+      "HASH(0x4a7f7f0)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tobacco_manufacturers_and_retailers_fined_over_UK_price_fixing\" title=\"Tobacco manufacturers and retailers fined over UK price fixing\"><span class=\"searchmatch\">Tobacco</span> manufacturers and retailers fined over UK price fixing</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:April_17,_2010\" title=\"News briefs:April 17, 2010\">News briefs:April 17, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:April_17,_2010#Tobacco_manufacturers_and_retailers_fined_over_UK_price_fixing_.286:16.29\" title=\"News briefs:April 17, 2010\"><span class=\"searchmatch\">Tobacco</span> manufacturers and retailers fined over UK price fixing (6:16) </a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._teens_generally_reducing_risky_behavior_says_CDC\" title=\"U.S. teens generally reducing risky behavior says CDC\">U.S. teens generally reducing risky behavior says CDC</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sex,_drugs,_rock_%27n%27_roll:_U.S._teens_turning_off_two_of_them\" title=\"Sex, drugs, rock &#39;n&#39; roll: U.S. teens turning off two of them\">Sex, drugs, rock &#39;n&#39; <span class=\"searchmatch\">roll</span>: U.S. teens turning off two of them</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373463451,
+   "book" : [],
+   "micro-www" : {
+      "roll_of_tobacco" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

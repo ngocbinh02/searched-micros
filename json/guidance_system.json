@@ -1,0 +1,131 @@
+{
+   "micrownet" : [
+      "guidance_system",
+      "inertial_guidance_system"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Israel_to_install_missile_defense_systems_on_airliners\" title=\"Israel to install missile defense systems on airliners\">Israel to install missile defense <span class=\"searchmatch\">systems</span> on airliners</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pakistan_successfully_tests_cruise_missile\" title=\"Pakistan successfully tests cruise missile\">Pakistan successfully tests cruise missile</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Russian_citizen_jailed_for_sending_military_intelligence_to_US\" title=\"Russian citizen jailed for sending military intelligence to US\">Russian citizen jailed for sending military intelligence to US</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Proton_rocket_launches_Thor_5_satellite\" title=\"Proton rocket launches Thor 5 satellite\">Proton rocket launches Thor 5 satellite</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Russia_threatens_to_point_nuclear_missiles_at_European_cities\" title=\"Russia threatens to point nuclear missiles at European cities\">Russia threatens to point nuclear missiles at European cities</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Israeli_military_confirms_the_use_of_white_phosphorus_bombs_in_the_Gaza_Strip\" title=\"Israeli military confirms the use of white phosphorus bombs in the Gaza Strip\">Israeli military confirms the use of white phosphorus bombs in the Gaza Strip</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/500_stranded_melon-headed_whales_rescued_in_Philippine_bay\" title=\"500 stranded melon-headed whales rescued in Philippine bay\">500 stranded melon-headed whales rescued in Philippine bay</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Zenit_rocket_launches_AMOS-3_satellite\" title=\"Zenit rocket launches AMOS-3 satellite\">Zenit rocket launches AMOS-3 satellite</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Two_nuclear_submarines_collide_in_the_Atlantic_Ocean\" title=\"Two nuclear submarines collide in the Atlantic Ocean\">Two nuclear submarines collide in the Atlantic Ocean</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:May_14,_2010\" title=\"News briefs:May 14, 2010\">News briefs:May 14, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Senior_U.S._aviation_official_resigns_after_crisis_in_control_towers_termed_%27unacceptable%27\" title=\"Senior U.S. aviation official resigns after crisis in control towers termed &#39;unacceptable&#39;\">Senior U.S. aviation official resigns after crisis in control towers termed &#39;unacceptable&#39;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Microsoft_threatens_European_Vista_release_delays_due_EC_monopoly_regulations\" title=\"Microsoft threatens European Vista release delays due EC monopoly regulations\">Microsoft threatens European Vista release delays due EC monopoly regulations</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Report_finds_LOT_Airlines_plane_was_lost_over_London_due_to_pilot_error\" title=\"Report finds LOT Airlines plane was lost over London due to pilot error\">Report finds LOT Airlines plane was lost over London due to pilot error</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/South_African_former_apartheid_party_dissolves\" title=\"South African former apartheid party dissolves\">South African former apartheid party dissolves</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hubble_Space_Telescope_running_on_two_gyroscopes\" title=\"Hubble Space Telescope running on two gyroscopes\">Hubble Space Telescope running on two gyroscopes</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Microsoft_backtracks_on_Vista_delay_accusations\" title=\"Microsoft backtracks on Vista delay accusations\">Microsoft backtracks on Vista delay accusations</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NTSB_releases_updates_on_status_of_3_major_US_investigations\" title=\"NTSB releases updates on status of 3 major US investigations\">NTSB releases updates on status of 3 major US investigations</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_and_U.S._bombing_raids_against_Iraq_increased_in_2002\" title=\"UK and U.S. bombing raids against Iraq increased in 2002\">UK and U.S. bombing raids against Iraq increased in 2002</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/England%27s_elderly_face_human_rights_breaches_in_home_care_system\" title=\"England&#39;s elderly face human rights breaches in home care system\">England&#39;s elderly face human rights breaches in home care <span class=\"searchmatch\">system</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/KKE:_Interview_with_the_Greek_Communist_Party\" title=\"KKE: Interview with the Greek Communist Party\">KKE: Interview with the Greek Communist Party</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_missiles"
+   ],
+   "created" : 1373467702,
+   "book" : [],
+   "micro-www" : {
+      "guidance_system" : [
+         "Guidance_system",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Military technology",
+         "Unmanned vehicles",
+         "Applications of control engineering",
+         "NASA spin-off technologies"
+      ],
+      "text" : "A 'guidance system' is a device or group of devices used to navigate a ship,\naircraft, missile, rocket, satellite, or other craft. Typically, this refers to\na system that navigates without direct or continuous human control. Systems that\nare intended to have a high degree of human interaction are usually referred to\nas a navigation system.\n\nOne of the earliest examples of a true guidance system is that used in the\nGerman V-1 during World War II. This system consisted of a simple gyroscope to\nmaintain heading, an airspeed sensor to estimate flight time, an altimeter to\nmaintain altitude, and other redundant systems.\n\nA guidance system has three major sub-sections: Inputs, Processing, and Outputs.\nThe input section includes sensors, course data, radio and satellite links, and\nother information sources. The processing section, composed of one or more CPUs,\nintegrates this data and determines what actions, if any, are necessary to\nmaintain or achieve a proper heading. This is then fed to the outputs which can\ndirectly affect the system's course. The outputs may control speed by\ninteracting with devices such as turbines, and fuel pumps, or they may more\ndirectly alter course by actuating ailerons, rudders, or other devices.\n",
+      "title" : "guidance system",
+      "headings" : [
+         "History",
+         "Guidance systems",
+         "See also",
+         "Notes",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Missile",
+      "2: Rocket",
+      "2: Gyroscope",
+      "2: Celestial_navigation",
+      "2: LORAN",
+      "2: GPS",
+      "2: Laser_designator",
+      "1: Navigation",
+      "1: Ship",
+      "1: Aircraft",
+      "1: Satellite",
+      "1: Navigation_system",
+      "1: V-1_flying_bomb",
+      "1: World_War_II",
+      "1: Sensor",
+      "1: Radio",
+      "1: Central_processing_unit",
+      "1: Aircraft_heading",
+      "1: Speed",
+      "1: Turbines",
+      "1: Fuel_pump",
+      "1: Aileron",
+      "1: Rudder",
+      "1: Wernher_von_Braun",
+      "1: Spacecraft",
+      "1: Guided_missile",
+      "1: Airliner",
+      "1: Caltech",
+      "1: V-2_rocket#Technical_details",
+      "1: Theodore_von_Karman",
+      "1: J._Halcombe_Laning",
+      "1: Q-guidance",
+      "1: Longitude_prize",
+      "1: Anti-ballistic_missile",
+      "1: RIM-161_Standard_Missile_3",
+      "1: Kalman_filter",
+      "1: Sextant",
+      "1: Watch",
+      "1: Triangulation",
+      "1: Transmitter",
+      "1: Global_Positioning_System",
+      "1: Submarine-launched_ballistic_missile",
+      "1: Inertial_Measurement_Unit",
+      "1: Gimbal",
+      "1: Telemetry",
+      "1: Radar",
+      "1: Inertial_navigation",
+      "1: Inertial_navigation_system",
+      "1: Active_radar_homing",
+      "1: Fire-control_system",
+      "1: Anti-radiation_missile",
+      "1: Semi-active_radar_homing",
+      "1: Infrared_homing",
+      "1: Air-to-air_missile",
+      "1: Surface-to-air_missile",
+      "1: Infrared",
+      "1: FIM-92_Stinger",
+      "1: Laser-guided_bomb",
+      "1: TERCOM",
+      "1: BGM-109_Tomahawk",
+      "1: Space_shuttle",
+      "1: Intercontinental_ballistic_missile",
+      "1: Autopilot",
+      "1: Automotive_navigation_system",
+      "1: Guidance_rail",
+      "1: List_of_missiles"
+   ]
+}

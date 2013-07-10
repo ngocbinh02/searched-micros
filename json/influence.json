@@ -1,0 +1,76 @@
+{
+   "micrownet" : [
+      "influence",
+      "influence_peddler"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Influence",
+      "HASH(0x48a3e98)",
+      "Wikipedia",
+      "Influence",
+      "\n<a href=\"http://duckduckgo.com/Social_influence\">Social influence</a>, in social psychology, influence in interpersonal relationships",
+      "\n<a href=\"http://duckduckgo.com/Sphere_of_influence\">Sphere of influence</a>, in political science, an area over which a state or organization has some indirect control",
+      "http://www.merriam-webster.com/dictionary/influence",
+      "influence definition: an ethereal fluid held to flow from the stars and to affect the actions of humans.",
+      "Merriam-Webster",
+      "HASH(0x48a68d8)",
+      "\n<a href=\"http://duckduckgo.com/Driving_under_the_influence\">Driving under the influence</a>, the criminal act of driving while intoxicated",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sexy_video_clips_influence_young_girls_more_than_boys,_study_shows\" title=\"Sexy video clips influence young girls more than boys, study shows\">Sexy video clips <span class=\"searchmatch\">influence</span> young girls more than boys, study shows</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Researchers_find_moonlight_influences_owl_monkeys%27_nocturnal_activity\" title=\"Researchers find moonlight influences owl monkeys&#39; nocturnal activity\">Researchers find moonlight <span class=\"searchmatch\">influences</span> owl monkeys&#39; nocturnal activity</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Erosion_influences_Nigerian_climate_policy\" title=\"Erosion influences Nigerian climate policy\">Erosion <span class=\"searchmatch\">influences</span> Nigerian climate policy</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Son_of_Illinois_Senate_President_charged_with_driving_under_the_influence\" title=\"Son of Illinois Senate President charged with driving under the influence\">Son of Illinois Senate President charged with driving under the <span class=\"searchmatch\">influence</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Oversight_Committee:_White_House_attempted_to_influence_Congressional_elections\" title=\"Oversight Committee: White House attempted to influence Congressional elections\">Oversight Committee: White House attempted to <span class=\"searchmatch\">influence</span> Congressional elections</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Santorum_neologism_gains_prominence_during_US_election_cycle\" title=\"Santorum neologism gains prominence during US election cycle\">Santorum neologism gains prominence during US election cycle</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Santorum_neologism_gains_influence_nine_years_after_creation\" title=\"Santorum neologism gains influence nine years after creation\">Santorum neologism gains <span class=\"searchmatch\">influence</span> nine years after creation</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Drinking_habits_tied_to_genes\" title=\"Drinking habits tied to genes\">Drinking habits tied to genes</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/WHO%27s_reaction_to_H1N1_influenced_by_drug_companies,_reports_claim\" title=\"WHO&#39;s reaction to H1N1 influenced by drug companies, reports claim\">WHO&#39;s reaction to H1N1 influenced by drug companies, reports claim</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Humans_may_have_contributed_to_2003_European_heatwave\" title=\"Humans may have contributed to 2003 European heatwave\">Humans may have contributed to 2003 European heatwave</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UN_Secretary_General_Annan_cleared_of_influencing_oil-for-food_contracts_by_Volcker_report\" title=\"UN Secretary General Annan cleared of influencing oil-for-food contracts by Volcker report\">UN Secretary General Annan cleared of influencing oil-for-food contracts by Volcker report</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Rhode_Island_representative_Patrick_Kennedy_pleads_guilty_to_DUI\" title=\"Rhode Island representative Patrick Kennedy pleads guilty to DUI\">Rhode Island representative Patrick Kennedy pleads guilty to DUI</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Man_attempts_to_foil_breathalyzer_by_eating_feces\" title=\"Man attempts to foil breathalyzer by eating feces\">Man attempts to foil breathalyzer by eating feces</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/CoolBrands:_New_Zealand_coolest_place_in_the_world\" title=\"CoolBrands: New Zealand coolest place in the world\">CoolBrands: New Zealand coolest place in the world</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Dept._of_Justice_IP_address_blocked_after_%27vandalism%27_edits_to_Wikipedia\" title=\"US Dept. of Justice IP address blocked after &#39;vandalism&#39; edits to Wikipedia\">US Dept. of Justice IP address blocked after &#39;vandalism&#39; edits to Wikipedia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Romanian_PM_quits_after_Constitutional_Court_ruling\" title=\"Romanian PM quits after Constitutional Court ruling\">Romanian PM quits after Constitutional Court ruling</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Romanian_MP_quits_over_allegedly_political_influences_at_the_Constitutional_Court\" title=\"Romanian MP quits over allegedly political influences at the Constitutional Court\">Romanian MP quits over allegedly political <span class=\"searchmatch\">influences</span> at the </a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_flight_from_Washington,_DC_diverted_after_man_reportedly_tries_to_open_door\" title=\"US flight from Washington, DC diverted after man reportedly tries to open door\">US flight from Washington, DC diverted after man reportedly tries to open door</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Alaska_senator_Ted_Stevens_indicted_in_corruption_scandal\" title=\"Alaska senator Ted Stevens indicted in corruption scandal\">Alaska senator Ted Stevens indicted in corruption scandal</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australia_could_help_discourage_nuclear_weapon_proliferation:_Opposition\" title=\"Australia could help discourage nuclear weapon proliferation: Opposition\">Australia could help discourage nuclear weapon proliferation: Opposition</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Lucas_announces_Star_Wars_for_Blu-ray\" title=\"Lucas announces Star Wars for Blu-ray\">Lucas announces Star Wars for Blu-ray</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462791,
+   "book" : [],
+   "micro-www" : {
+      "influence" : [
+         "influence",
+         "Influence_(band)",
+         "Influence_(Sister_Machine_Gun_album)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "'Influence' may refer to:\n\nIn 'science and technology': *Sphere of influence (astrodynamics), the region\naround a celestial body in which it is the primary gravitational influence on\norbiting objects *Sphere of influence (astronomy), a region around a black hole\nin which the gravity of the black hole dominates that of the host bulge *Social\ninfluence, in social psychology, influence in interpersonal relationships\n**Minority influence, when the minority (which can include the status quo)\naffect the behavior or beliefs of the majority\n\nIn 'entertainment': *Influence (band), a rock band formed in the 1960s\n* Influence (Little Caesar album), 1992 album by Little Caesar *Influence\n  (Sister Machine Gun album), the seventh album by industrial rock band Sister\n  Machine Gun\n\n'Other uses': *Undue influence, in contract law, where one person takes\nadvantage of a position of power over another person *Sphere of influence, in\npolitical science, an area over which a state or organization has some indirect\ncontrol *Office of Strategic Influence, a short-lived U.S. government department\n*Driving under the influence, the criminal act of driving while intoxicated *,\nor Influence: The Psychology of Persuasion; two books by Robert Cialdini\n",
+      "title" : "influence",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Social_influence",
+      "1: Minority_influence",
+      "1: Status_quo",
+      "1: Undue_influence",
+      "1: Sphere_of_influence",
+      "1: Office_of_Strategic_Influence",
+      "1: Driving_under_the_influence",
+      "1: Robert_Cialdini"
+   ]
+}

@@ -1,0 +1,82 @@
+{
+   "micrownet" : [
+      "ear_specialist",
+      "fingerprint_specialist",
+      "heart_specialist",
+      "medical_specialist",
+      "specialist",
+      "specialistic"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Generalist_and_specialist_species\">Generalist and specialist species</a>, a method of species categorization",
+      "\n<a href=\"http://duckduckgo.com/Specialist_(rank)\">Specialist (rank)</a>, a military rank",
+      "Specialist",
+      "http://www.merriam-webster.com/dictionary/specialist",
+      "\n<a href=\"http://duckduckgo.com/Specialist_(short_story)\">\"Specialist\" (short story)</a>, a science fiction short story by <a href=\"http://duckduckgo.com/?q=Robert Sheckley\">Robert Sheckley</a>",
+      "specialist definition: one who specializes in a particular occupation, practice, or branch of learning.",
+      "Merriam-Webster",
+      "\nA <a href=\"http://duckduckgo.com/market_maker\">market maker</a> in a stock exchange",
+      "\n<a href=\"http://duckduckgo.com/The_Specialist\">The Specialist</a>, a 1994 <a href=\"http://duckduckgo.com/?q=action film\">action film</a>",
+      "\n<a href=\"http://duckduckgo.com/Specialist_degree\">Specialist degree</a>, in academia",
+      "\n<a href=\"http://duckduckgo.com/Specialty_(medicine)\">Specialty (medicine)</a> - A specialty in medicine is a branch of medical science.",
+      "\n<a href=\"http://duckduckgo.com/Team_Role_Inventories\">Specialist</a>, one of the Belbin team roles",
+      "\n<a href=\"http://duckduckgo.com/Payload_Specialist\">Payload Specialist</a>, a Space Shuttle crew member selected for a single specific mission"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Soldier_gets_life_in_prison_for_Iraq_rape-slayings\" title=\"US Soldier gets life in prison for Iraq rape-slayings\">US Soldier gets life in prison for Iraq rape-slayings</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Controversial_cancer_test_gains_support\" title=\"Controversial cancer test gains support\">Controversial cancer test gains support</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Woman_suffers_heart_attack_at_cardiology_summit\" title=\"Woman suffers heart attack at cardiology summit\">Woman suffers heart attack at cardiology summit</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Woman_suffers_heart_attack_in_front_of_heart_specialists\" title=\"Woman suffers heart attack in front of heart specialists\">Woman suffers heart attack in front of heart <span class=\"searchmatch\">specialists</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.K._MPs%27_expenses_to_be_investigated_by_police\" title=\"U.K. MPs&#39; expenses to be investigated by police\">U.K. MPs&#39; expenses to be investigated by police</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Discovery_going_for_second_launch_since_2003_Columbia_loss\" title=\"Discovery going for second launch since 2003 Columbia loss\">Discovery going for second launch since 2003 Columbia loss</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/National_Socialist_Movement_endorses_U.S._presidential_candiate\" title=\"National Socialist Movement endorses U.S. presidential candiate\">National Socialist Movement endorses U.S. presidential candiate</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Interview:_University_of_Guam%27s_Ron_McNinch_on_North_Korea%27s_nuclear_threats\" title=\"Interview: University of Guam&#39;s Ron McNinch on North Korea&#39;s nuclear threats\">Interview: University of Guam&#39;s Ron McNinch on North Korea&#39;s nuclear threats</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scientists_shocked_at_Great_Barrier_Reef_bleaching\" title=\"Scientists shocked at Great Barrier Reef bleaching\">Scientists shocked at Great Barrier Reef bleaching</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bathurst,_NSW:_Police_find_bones,_%22may_belong_to_missing_woman%22\" title=\"Bathurst, NSW: Police find bones, &quot;may belong to missing woman&quot;\">Bathurst, NSW: Police find bones, &quot;may belong to missing woman&quot;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Space_Shuttle_Endeavour_enters_history_books_after_nineteen_years_following_penultimate_landing_of_program\" title=\"Space Shuttle Endeavour enters history books after nineteen years following penultimate landing of program\">Space Shuttle Endeavour enters history books after nineteen years following penultimate landing of program</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Space_shuttle_Discovery_safely_arrives_at_launch_pad\" title=\"Space shuttle Discovery safely arrives at launch pad\">Space shuttle Discovery safely arrives at launch pad</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Blair_ally_Lord_Levy_arrested\" title=\"Blair ally Lord Levy arrested\">Blair ally Lord Levy arrested</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Alarm_sounded_over_US_honey_bee_die-off\" title=\"Alarm sounded over US honey bee die-off\">Alarm sounded over US honey bee die-off</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pakistani_schoolgirl_Malala_Yousafzai_discharged_from_hospital\" title=\"Pakistani schoolgirl Malala Yousafzai discharged from hospital\">Pakistani schoolgirl Malala Yousafzai discharged from hospital</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Liverpool_Biennial_2006_art_festival_starts\" title=\"Liverpool Biennial 2006 art festival starts\">Liverpool Biennial 2006 art festival starts</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_intelligence_analyst_arrested_over_Wikileaks_video\" title=\"US intelligence analyst arrested over Wikileaks video\">US intelligence analyst arrested over Wikileaks video</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Toll_of_the_phosphor_accident_in_Ukraine_still_rising\" title=\"Toll of the phosphor accident in Ukraine still rising\">Toll of the phosphor accident in Ukraine still rising</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tour_de_France:_Thor_Hushovd_wins_stage_4\" title=\"Tour de France: Thor Hushovd wins stage 4\">Tour de France: Thor Hushovd wins stage 4</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Major_explosions_at_UK_oil_depot\" title=\"Major explosions at UK oil depot\">Major explosions at UK oil depot</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373473266,
+   "book" : [],
+   "micro-www" : {
+      "specialist" : [
+         "specialist_law_enforcement_agency",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Specialist' frequently refers to an expert in a profession. It can also mean:\n\n* Specialist (rank), a military rank\n* Specialist degree, in academia\n* \"Specialist\", a song by the band Interpol\n* \"The Specialist\", the English translation of \"Lo Sconosciuto\", an Italian\n  comics character\n* Generalist and specialist species, a method of species categorization\n* A market maker in a stock exchange\n* Specialty (medicine)\n* Payload Specialist, a Space Shuttle crew member selected for a single\n  specific mission\n* [[The Specialist]], a 1994 action film\n* Specialist, a military avionics, electrical & environmental, or engines expert\n* American football special teams player who is either a return specialist or a\n  kicking specialist\n* \"Specialist\" (short story), a science fiction short story by Robert Sheckley\n* Specialist, one of the Belbin team roles\n",
+      "title" : "specialist",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Expert",
+      "1: Specialist_degree",
+      "1: Lo_Sconosciuto",
+      "1: Generalist_and_specialist_species",
+      "1: Market_maker",
+      "1: Payload_Specialist",
+      "1: Action_film",
+      "1: Special_teams",
+      "1: Return_specialist",
+      "1: Kicking_specialist",
+      "1: Robert_Sheckley",
+      "1: Team_Role_Inventories"
+   ]
+}

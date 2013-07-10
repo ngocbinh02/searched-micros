@@ -1,0 +1,55 @@
+{
+   "micrownet" : [
+      "quadratics"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/c/Mathematics_education_television_series\">Mathematics education television series</a>",
+      "\n<a href=\"http://duckduckgo.com/c/TVOntario_shows\">TVOntario shows</a>",
+      "\n<a href=\"http://duckduckgo.com/Quadratic_function\">Quadratic function</a>",
+      "Quadratics",
+      "Quadratics is a six-part Canadian instructional television series produced by TVOntario in 1993.",
+      "\n<a href=\"http://duckduckgo.com/c/Canadian_animated_television_series\">Canadian animated television series</a>"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373469578,
+   "book" : [],
+   "micro-www" : {
+      "quadratics" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "1993 Canadian television series debuts",
+         "1993 Canadian television series endings",
+         "Canadian animated television series",
+         "TVOntario shows",
+         "Mathematics education television series"
+      ],
+      "text" : "\n{{Infobox television\n| show_name = Quadratics image = caption = genre = Instructional director =\n| David Chamberlain writer = Robert G. Dexter narrated = Suzanne Grew Ellis\n| country = Canada language = English num_episodes = 6 producer = David\n| Chamberlain runtime = 10 minutes network = TVOntario first_aired = 1993\n}} 'Quadratics' is a six-part Canadian instructional television series produced\nby TVOntario in 1993. The miniseries is part of the Concepts in Mathematics\nseries. The program uses computer animation to demonstrate quadratic equations\nand their corresponding functions in the Cartesian coordinate system.<ref></ref>\n",
+      "title" : "quadratics",
+      "headings" : [
+         "Synopsis",
+         "Episodes",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Instructional_television",
+      "2: TVOntario",
+      "1: Suzanne_Grew_Ellis",
+      "1: Miniseries",
+      "1: Computer_animation",
+      "1: Cartesian_coordinate_system",
+      "1: Robot",
+      "1: Quadratic_equation"
+   ]
+}

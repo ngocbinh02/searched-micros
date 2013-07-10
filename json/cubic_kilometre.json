@@ -1,0 +1,71 @@
+{
+   "micrownet" : [
+      "cubic_kilometre"
+   ],
+   "duck" : [
+      "HASH(0x4b35c78)",
+      "HASH(0x4b5c678)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Gazprom_stops_supplying_gas_to_Moldova\" title=\"Gazprom stops supplying gas to Moldova\">Gazprom stops supplying gas to Moldova</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/River_Thames_to_receive_clean-up_with_new_tunnel\" title=\"River Thames to receive clean-up with new tunnel\">River Thames to receive clean-up with new tunnel</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Felix_Baumgartner_jumps_from_stratosphere,_breaks_sound_barrier\" title=\"Felix Baumgartner jumps from stratosphere, breaks sound barrier\">Felix Baumgartner jumps from stratosphere, breaks sound barrier</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373463182,
+   "book" : [],
+   "micro-www" : {
+      "cubic_kilometre" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Orders of magnitude (volume)",
+         "Units of volume",
+         "SI derived units"
+      ],
+      "text" : " (representing the world annual production per inhabitant)]]\n\nThe 'cubic metre' (International spelling as used by the International Bureau of\nWeights and Measures; SI symbol: 'm<sup>3</sup>') or 'cubic meter' (American\nspelling) is the SI derived unit of volume. It is the volume of a cube with\nedges one metre in length. An alternative name, which allowed a different usage\nwith metric prefixes, was the stère. Another alternative name, not widely used\nany more, is the kilolitre.\n",
+      "title" : "Cubic%20metre",
+      "headings" : [
+         "Conversions",
+         "Multiples and submultiples",
+         "Notes"
+      ]
+   },
+   "micro-relation" : [
+      "2: American_and_British_English_spelling_differences#-re,_-er",
+      "2: Water",
+      "2: Celsius",
+      "1: International_Bureau_of_Weights_and_Measures",
+      "1: SI",
+      "1: SI_derived_unit",
+      "1: Volume",
+      "1: Metre",
+      "1: Metric_prefix",
+      "1: Stère",
+      "1: Litre",
+      "1: Torr",
+      "1: Cubic_foot",
+      "1: Cubic_yard",
+      "1: Gallon",
+      "1: Atmospheric_pressure",
+      "1: Mass",
+      "1: Kilogram",
+      "1: Tonne",
+      "1: Superscript",
+      "1: Glyph",
+      "1: Markup_language",
+      "1: Usenet",
+      "1: Freight",
+      "1: 1_E-3_m³",
+      "1: CGS_system",
+      "1: Engine_displacement"
+   ]
+}

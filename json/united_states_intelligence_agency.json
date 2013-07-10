@@ -1,0 +1,49 @@
+{
+   "micrownet" : [
+      "united_states_intelligence_agency"
+   ],
+   "duck" : [
+      "HASH(0x495bed8)",
+      "HASH(0x4a5f0d0)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/CIA_gives_up_search_and_interrogation_on_Iraq_WMDs\" title=\"CIA gives up search and interrogation on Iraq WMDs\">CIA gives up search and interrogation on Iraq WMDs</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Iran%27s_parliament_labels_CIA_a_terrorist_organization\" title=\"Iran&#39;s parliament labels CIA a terrorist organization\">Iran&#39;s parliament labels CIA a terrorist organization</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Suicide_bomber_at_US_base_in_Afghanistan_was_al-Qaeda_double_agent\" title=\"Suicide bomber at US base in Afghanistan was al-Qaeda double agent\">Suicide bomber at US base in Afghanistan was al-Qaeda double agent</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/President_Bush_vetoes_CIA_waterboarding_ban\" title=\"President Bush vetoes CIA waterboarding ban\">President Bush vetoes CIA waterboarding ban</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Italian_intelligence_chief_arrested_over_CIA_kidnap\" title=\"Italian intelligence chief arrested over CIA kidnap\">Italian <span class=\"searchmatch\">intelligence</span> chief arrested over CIA kidnap</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/United_States_Justice_Department_opens_investigation_into_White_House_leaks\" title=\"United States Justice Department opens investigation into White House leaks\"><span class=\"searchmatch\">United</span> <span class=\"searchmatch\">States</span> Justice Department opens investigation into White House leaks</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Decade_worth_of_messages,_interviews_from_bin_Laden_leaked_to_web\" title=\"Decade worth of messages, interviews from bin Laden leaked to web\">Decade worth of messages, interviews from bin Laden leaked to web</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_loses_appeal_to_conceal_Binyam_Mohamed_torture\" title=\"UK loses appeal to conceal Binyam Mohamed torture\">UK loses appeal to conceal Binyam Mohamed torture</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/White_House_releases_Benghazi_emails\" title=\"White House releases Benghazi emails\">White House releases Benghazi emails</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Letitia_Long_becomes_first_female_director_of_a_major_US_intelligence_agency\" title=\"Letitia Long becomes first female director of a major US intelligence agency\">Letitia Long becomes first female director of a major US <span class=\"searchmatch\">intelligence</span> <span class=\"searchmatch\">agency</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/North_Korea_has_no_further_interest_in_negotiations_with_United_States\" title=\"North Korea has no further interest in negotiations with United States\">North Korea has no further interest in negotiations with <span class=\"searchmatch\">United</span> <span class=\"searchmatch\">States</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Report_finds_FBI_missed_multiple_chances_to_stop_9/11\" title=\"Report finds FBI missed multiple chances to stop 9/11\">Report finds FBI missed multiple chances to stop 9/11</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Internet_virus_circulates_disguised_as_e-mail_from_US_government\" title=\"Internet virus circulates disguised as e-mail from US government\">Internet virus circulates disguised as e-mail from US government</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Federal_judge_rules_warrantless_wiretaps_illegal\" title=\"Federal judge rules warrantless wiretaps illegal\">Federal judge rules warrantless wiretaps illegal</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Judge_in_the_United_States_rules_warentless_wiretaps_illegal\" title=\"Judge in the United States rules warentless wiretaps illegal\">Judge in the <span class=\"searchmatch\">United</span> <span class=\"searchmatch\">States</span> rules warentless wiretaps illegal</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/ACLU,_EFF_challenging_US_%27secret%27_court_orders_seeking_Twitter_data\" title=\"ACLU, EFF challenging US &#39;secret&#39; court orders seeking Twitter data\">ACLU, EFF challenging US &#39;secret&#39; court orders seeking Twitter data</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/ACLU,_EFF_challenging_US_%27secret%27_court_orders_seeking_Twitter_data#The_United_States_Government_versus_WikiLeaks\" title=\"ACLU, EFF challenging US &#39;secret&#39; court orders seeking Twitter data\">The <span class=\"searchmatch\">United</span> <span class=\"searchmatch\">States</span> Government versus WikiLeaks</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._envoy_selected_as_top_intelligence_officer\" title=\"U.S. envoy selected as top intelligence officer\">U.S. envoy selected as top <span class=\"searchmatch\">intelligence</span> officer</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Thailand_begins_repatriation_of_Hmong_migrants_to_Laos\" title=\"Thailand begins repatriation of Hmong migrants to Laos\">Thailand begins repatriation of Hmong migrants to Laos</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:July_5,_2006\" title=\"News briefs:July 5, 2006\">News briefs:July 5, 2006</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:July_5,_2006#Italian_intelligence_chief_arrested_over_CIA_kidnap\" title=\"News briefs:July 5, 2006\">Italian <span class=\"searchmatch\">intelligence</span> chief arrested over CIA kidnap</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_FBI-style_agency_launched\" title=\"British FBI-style agency launched\">British FBI-style <span class=\"searchmatch\">agency</span> launched</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/CIA_chief_to_testify_before_Congress_on_interrogations\" title=\"CIA chief to testify before Congress on interrogations\">CIA chief to testify before Congress on interrogations</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465839,
+   "book" : [],
+   "micro-www" : {
+      "united_states_intelligence_agency" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

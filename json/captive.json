@@ -1,0 +1,80 @@
+{
+   "micrownet" : [
+      "captive",
+      "captive_finance_company"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/La_Captive\">La Captive</a> (The Captive), 2000 drama film directed by Chantal Akerman",
+      "\nThe Captive, the English title of La Prisonnière, part of <a href=\"http://duckduckgo.com/In_Search_of_Lost_Time\">In Search of Lost Time</a>, a 1927 novel in seven volumes by Marcel Proust",
+      "The Captive",
+      "\n<a href=\"http://duckduckgo.com/The_Captive_(album)\">The Captive (album)</a>, an album by former Dispatch member Braddigan",
+      "\n<a href=\"http://duckduckgo.com/The_Captive_(film)\">The Captive (film)</a>, a 1915 drama film directed by Cecil B. DeMille",
+      "\n<a href=\"http://duckduckgo.com/The_Captive_(painting)\">The Captive (painting)</a> is by <a href=\"http://duckduckgo.com/?q=Joseph Wright of Derby\">Joseph Wright of Derby</a>"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Journalists_escape_after_being_kidnapped_in_Syria\" title=\"Journalists escape after being kidnapped in Syria\">Journalists escape after being kidnapped in Syria</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Journalists_held_captive_in_Syria\" title=\"Journalists held captive in Syria\">Journalists held <span class=\"searchmatch\">captive</span> in Syria</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Israeli_soldier_taken_captive\" title=\"Israeli soldier taken captive\">Israeli soldier taken <span class=\"searchmatch\">captive</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Saudi_most-wanted_list_includes_former_Guantanamo_captives\" title=\"Saudi most-wanted list includes former Guantanamo captives\">Saudi most-wanted list includes former Guantanamo <span class=\"searchmatch\">captives</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Guantanamo_captive_returned_to_the_United_Kingdom\" title=\"Guantanamo captive returned to the United Kingdom\">Guantanamo <span class=\"searchmatch\">captive</span> returned to the United Kingdom</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._Supreme_Court_requests_reconsideration_of_habeas_petitions_of_Gitmo_captives\" title=\"U.S. Supreme Court requests reconsideration of habeas petitions of Gitmo captives\">U.S. Supreme Court requests reconsideration of habeas petitions of Gitmo <span class=\"searchmatch\">captives</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Victims_of_torture_among_detainees_facing_death_penalty_in_Guantanamo\" title=\"Victims of torture among detainees facing death penalty in Guantanamo\">Victims of torture among detainees facing death penalty in Guantanamo</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Six_Guantanamo_captives_to_be_charged\" title=\"Six Guantanamo captives to be charged\">Six Guantanamo <span class=\"searchmatch\">captives</span> to be charged</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Gilad_Shalit_to_be_exchanged_for_Palestinian_prisoners\" title=\"Gilad Shalit to be exchanged for Palestinian prisoners\">Gilad Shalit to be exchanged for Palestinian prisoners</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/19_South_Koreans_return_home_after_release_from_Taliban_captivity\" title=\"19 South Koreans return home after release from Taliban captivity\">19 South Koreans return home after release from Taliban captivity</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_reverses_position_on_Navy_personnel_selling_their_stories\" title=\"UK reverses position on Navy personnel selling their stories\">UK reverses position on Navy personnel selling their stories</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_allows_former_captives_to_sell_stories\" title=\"UK allows former captives to sell stories\">UK allows former <span class=\"searchmatch\">captives</span> to sell stories</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Austrian_teenager_mourns_captor%27s_suicide\" title=\"Austrian teenager mourns captor&#39;s suicide\">Austrian teenager mourns captor&#39;s suicide</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._to_transfer_some_Guantanamo_detainees_to_Afghanistan\" title=\"U.S. to transfer some Guantanamo detainees to Afghanistan\">U.S. to transfer some Guantanamo detainees to Afghanistan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Betancourt_calls_for_release_of_all_FARC_hostages\" title=\"Betancourt calls for release of all FARC hostages\">Betancourt calls for release of all FARC hostages</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Deadline_to_release_Muslim_prisoners_passes,_Gaza-held_journalists_released\" title=\"Deadline to release Muslim prisoners passes, Gaza-held journalists released\">Deadline to release Muslim prisoners passes, Gaza-held journalists released</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Deadline_to_release_%22Muslim_prisoners%22_passes,_journalists_still_being_held_captive\" title=\"Deadline to release &quot;Muslim prisoners&quot; passes, journalists still being held captive\"> release &quot;Muslim prisoners&quot; passes, journalists still being held <span class=\"searchmatch\">captive</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_video_of_captured_British_troops_aired;_protests_at_UK_embassy_in_Tehran\" title=\"New video of captured British troops aired; protests at UK embassy in Tehran\">New video of captured British troops aired; protests at UK embassy in Tehran</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_embassy_in_Tehran_attacked_by_students;_new_video_of_captive_British_troops_aired\" title=\"British embassy in Tehran attacked by students; new video of captive British troops aired\">British embassy in Tehran attacked by students; new video of <span class=\"searchmatch\">captive</span> </a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Gunmen_abduct_3_ICRC_representatives_in_the_Philippines\" title=\"Gunmen abduct 3 ICRC representatives in the Philippines\">Gunmen abduct 3 ICRC representatives in the Philippines</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_York_Times_reporter_rescued_in_Afghanistan\" title=\"New York Times reporter rescued in Afghanistan\">New York Times reporter rescued in Afghanistan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Annan_demands_Hezbollah_free_abducted_soldiers_and_Israel_lift_blockade\" title=\"Annan demands Hezbollah free abducted soldiers and Israel lift blockade\">Annan demands Hezbollah free abducted soldiers and Israel lift blockade</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Annan_demands_Hezbollah_free_Israeli_captives;_Israel_lift_blockade\" title=\"Annan demands Hezbollah free Israeli captives; Israel lift blockade\">Annan demands Hezbollah free Israeli <span class=\"searchmatch\">captives</span>; Israel lift blockade</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._force-feeding_Guantanamo_hunger_strikers\" title=\"U.S. force-feeding Guantanamo hunger strikers\">U.S. force-feeding Guantanamo hunger strikers</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._forces_food_through_nose_tubes_of_guantanamo_captives\" title=\"U.S. forces food through nose tubes of guantanamo captives\">U.S. forces food through nose tubes of guantanamo <span class=\"searchmatch\">captives</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Grandfather_held_in_Guantanamo_dies_of_cancer\" title=\"Grandfather held in Guantanamo dies of cancer\">Grandfather held in Guantanamo dies of cancer</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Charlie_the_smoking_chimpanzee_dies_aged_52\" title=\"Charlie the smoking chimpanzee dies aged 52\">Charlie the smoking chimpanzee dies aged 52</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373472189,
+   "book" : [],
+   "micro-www" : {
+      "captive" : [
+         "Captive_breeding",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Captivity' or 'Captive' may refer to: *Imprisonment or hostage, the state of\nbeing confined to a space from which it is difficult or impossible to escape\n**Captive company *Captivity (animal), the keeping of either domesticated\nanimals (livestock and pets) or wild animals *the Babylonian captivity of Judah,\nas described in the Bible *Captivity narrative a genre of stories about people\nbeing captured by \"uncivilized\" enemies *[[Captive!]] the eighth novel in World\nof Adventure series by Gary Paulsen *''Captive'' (video game), a 1990 computer\nrole-playing game *Captive NTFS, an open-source project *Captivity Records, a\nChicago, Illinois-based independent record label. *Captive portal, a technique\nthat forces an HTTP client on a network to see a special web page *Captive\ninsurance companies are insurance companies established with the specific\nobjective of financing risks emanating from their parent group *Captive service,\na type of business process outsourcing where an organization will use a wholly\nowned subsidiary instead of a third party vendor *Captive (soundtrack), the only\nsolo album to date by The Edge, guitarist of U2\n",
+      "title" : "Captivity",
+      "headings" : [
+         "Films",
+         "Television",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Imprisonment",
+      "1: Hostage",
+      "1: Captive_company",
+      "1: Babylonian_captivity",
+      "1: Captivity_narrative",
+      "1: Captive_NTFS",
+      "1: Captivity_Records",
+      "1: Captive_portal",
+      "1: Captive_insurance",
+      "1: Captive_service"
+   ]
+}

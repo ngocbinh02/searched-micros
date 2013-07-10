@@ -1,0 +1,54 @@
+{
+   "micrownet" : [
+      "fantasm"
+   ],
+   "duck" : [
+      "HASH(0x4b55898)",
+      "HASH(0x49daee0)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373463545,
+   "book" : [],
+   "micro-www" : {
+      "fantasm" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "1976 films",
+         "Australian films",
+         "English-language films",
+         "Films directed by Richard Franklin (director)"
+      ],
+      "text" : "\n{{Infobox film\n| name = Fantasm image = image size = caption = director = Richard Franklin (as\n| \"Richard Bruce\") producer =Antony I. Ginnane writer = Ross Dimsey based on =\n| an idea by Antony I Ginnane narrator = starring = music = cinematography =\n| Vince Monton editing = Tony Patterson (as \"Ford Footpole\") studio = TLN Film\n| Productions distributor = Filmways released = 16 July 1976 runtime = country =\n| Australia language = English budget = A$50,000<ref name=\"pike\">Andrew Pike and\n| Ross Cooper, Australian Film 1900–1977: A Guide to Feature Film Production,\n| Melbourne: Oxford University Press, 1998, 301</ref> gross = A$650,000\n| (Australia)<ref name=\"ginnane\"/> preceded by = followed by =\n}} 'Fantasm' is a 1976 soft core pornographic film, directed by Richard Franklin\nunder a pseudonym. In terms of returns on money invested, it is one of the most\nsuccessful Australian films of all time.<ref name=\"stratton\"/>\n",
+      "title" : "fantasm",
+      "headings" : [
+         "Plot",
+         "Cast",
+         "Production",
+         "Reception",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Ross_Dimsey",
+      "1: Antony_I._Ginnane",
+      "1: Vince_Monton",
+      "1: Filmways",
+      "1: English_language",
+      "1: Oedipus_syndrome",
+      "1: Uschi_Digart",
+      "1: Candy_Samples",
+      "1: Roger_Corman",
+      "1: IMDB"
+   ]
+}

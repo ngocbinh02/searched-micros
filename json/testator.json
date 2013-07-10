@@ -1,0 +1,51 @@
+{
+   "micrownet" : [
+      "testator"
+   ],
+   "duck" : [
+      "Testator",
+      "A testator is a person who has written and executed a last will and testament that is in effect at the time of his/her death.",
+      "\n<a href=\"http://duckduckgo.com/c/Common_law\">Common law</a>",
+      "\n<a href=\"http://duckduckgo.com/c/Wills_and_trusts\">Wills and trusts</a>",
+      "http://www.merriam-webster.com/dictionary/testator",
+      "testator definition: a person who dies leaving a will or testament in force.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373469035,
+   "book" : [],
+   "micro-www" : {
+      "testator" : [
+         "Testator",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Wills and trusts",
+         "Common law"
+      ],
+      "text" : "\n\nA 'testator' is a person who has written and executed a last will and testament\nthat is in effect at the time of his/her death.<ref></ref> It is any \"person who\nmakes a will.\"<ref name=\"Gordon\">Gordon Brown, Administration of Wills, Trusts,\nand Estates, 3d ed. (2003), p. 556. ISBN 0-7668-5281-4.</ref>\n",
+      "title" : "testator",
+      "headings" : [
+         "Related terms",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "1: Ahmadiyya_Islam",
+      "1: Adjective",
+      "1: Testamentary_capacity",
+      "1: Testamentary_disposition",
+      "1: Probate",
+      "1: Administration_of_an_estate_on_death",
+      "1: Attestation_clause"
+   ]
+}

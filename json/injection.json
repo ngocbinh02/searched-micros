@@ -1,0 +1,92 @@
+{
+   "micrownet" : [
+      "epidural_injection",
+      "fuel_injection",
+      "fuel_injection_system",
+      "injection",
+      "intradermal_injection",
+      "intramuscular_injection",
+      "intravenous_injection",
+      "subcutaneous_injection"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Injected_(album)\">Injected (album)</a>, an album by Phunk Junkeez",
+      "\n<a href=\"http://duckduckgo.com/Dependency_injection\">Dependency injection</a>, a programming design pattern, also referred to as inversion of control",
+      "Injection",
+      "\n<a href=\"http://duckduckgo.com/Injective_function\">Injective function</a> in mathematics, a function mapping distinct arguments to distinct values",
+      "http://www.merriam-webster.com/dictionary/injection",
+      "\n<a href=\"http://duckduckgo.com/Injection_molding\">Injection molding</a>, a technique for making parts from plastic material",
+      "injection definition: an act or instance of injecting.",
+      "\n<a href=\"http://duckduckgo.com/Injected_(band)\">Injected (band)</a>, a rock band from Atlanta, Georgia",
+      "\n<a href=\"http://duckduckgo.com/Fuel_injection\">Fuel injection</a>, a means of metering fuel into an internal combustion engine",
+      "\n<a href=\"http://duckduckgo.com/Injection_(economics)\">Injection (economics)</a>, a financial boost to an economy",
+      "\n<a href=\"http://duckduckgo.com/Injection_(medicine)\">Injection (medicine)</a>, insertion of liquid into the body with a syringe",
+      "\n<a href=\"http://duckduckgo.com/SQL_injection\">SQL injection</a>, a security violation technique using database commands",
+      "\n<a href=\"http://duckduckgo.com/Orbit_injection\">Orbit injection</a>, changing a stable orbit into a transfer orbit",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Code_injection\">Code injection</a>, a security violation technique using unexpected program modification",
+      "\n<a href=\"http://duckduckgo.com/Email_injection\">Email injection</a>, a security violation technique using web email forms"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Final_US_manufacturer_ceases_production_of_lethal_injection_drug;_executions_delayed\" title=\"Final US manufacturer ceases production of lethal injection drug; executions delayed\">Final US manufacturer ceases production of lethal <span class=\"searchmatch\">injection</span> drug; executions delayed</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Malware_from_mass_SQL_injections_confirmed_by_security_experts\" title=\"Malware from mass SQL injections confirmed by security experts\">Malware from mass SQL <span class=\"searchmatch\">injections</span> confirmed by security experts</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._Supreme_Court_hears_arguments_on_constitutionality_of_lethal_injection\" title=\"U.S. Supreme Court hears arguments on constitutionality of lethal injection\">U.S. Supreme Court hears arguments on constitutionality of lethal <span class=\"searchmatch\">injection</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_to_ban_export_of_lethal_injection_drugs_to_US\" title=\"UK to ban export of lethal injection drugs to US\">UK to ban export of lethal <span class=\"searchmatch\">injection</span> drugs to US</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Washington,_D.C._sniper_John_Allen_Muhammad_executed_by_lethal_injection\" title=\"Washington, D.C. sniper John Allen Muhammad executed by lethal injection\">Washington, D.C. sniper John Allen Muhammad executed by lethal <span class=\"searchmatch\">injection</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Rachel_Weisz_wants_Botox_ban_for_actors\" title=\"Rachel Weisz wants Botox ban for actors\">Rachel Weisz wants Botox ban for actors</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Indian_lawyers_debate_how_to_execute_Mohammad_Afzal\" title=\"Indian lawyers debate how to execute Mohammad Afzal\">Indian lawyers debate how to execute Mohammad Afzal</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/All_executions_suspended_in_Florida_after_error\" title=\"All executions suspended in Florida after error\">All executions suspended in Florida after error</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Condemned_US_killer_to_face_execution_by_firing_squad\" title=\"Condemned US killer to face execution by firing squad\">Condemned US killer to face execution by firing squad</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Nevada_man%27s_execution_halted_at_11th_hour\" title=\"Nevada man&#39;s execution halted at 11th hour\">Nevada man&#39;s execution halted at 11th hour</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Experiment_on_frozen_sperm_raises_hopes_of_%22restoring%22_extinct_mammals\" title=\"Experiment on frozen sperm raises hopes of &quot;restoring&quot; extinct mammals\">Experiment on frozen sperm raises hopes of &quot;restoring&quot; extinct mammals</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Proton_rocket_launches_Thor_5_satellite\" title=\"Proton rocket launches Thor 5 satellite\">Proton rocket launches Thor 5 satellite</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Major_League_Soccer:_Beckham_will_miss_game_against_Toronto\" title=\"Major League Soccer: Beckham will miss game against Toronto\">Major League Soccer: Beckham will miss game against Toronto</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_scientists_develop_culture_to_destroy_reef-killing_starfish\" title=\"Australian scientists develop culture to destroy reef-killing starfish\">Australian scientists develop culture to destroy reef-killing starfish</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ohio_executes_two-time_murderer\" title=\"Ohio executes two-time murderer\">Ohio executes two-time murderer</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/LulzSec_claims_Sony_network_hack\" title=\"LulzSec claims Sony network hack\">LulzSec claims Sony network hack</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Heat_protection_system_on_Space_Shuttle_Atlantis_damaged_during_liftoff\" title=\"Heat protection system on Space Shuttle Atlantis damaged during liftoff\">Heat protection system on Space Shuttle Atlantis damaged during liftoff</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Vaccine_developed_to_fight_Alzheimer%27s_disease_considered_%22promising%22\" title=\"Vaccine developed to fight Alzheimer&#39;s disease considered &quot;promising&quot;\">Vaccine developed to fight Alzheimer&#39;s disease considered &quot;promising&quot;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Grenade_attack_on_fellow_soldiers_puts_sergeant_on_death_row\" title=\"Grenade attack on fellow soldiers puts sergeant on death row\">Grenade attack on fellow soldiers puts sergeant on death row</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Michael_Morales_execution_postponed_indefinitely\" title=\"Michael Morales execution postponed indefinitely\">Michael Morales execution postponed indefinitely</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471664,
+   "book" : [],
+   "micro-www" : {
+      "injection" : [
+         "injections",
+         "Injection_molding",
+         "Injection_(medicine)",
+         "Injection_(economics)",
+         "Injection",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Injection' or 'Injected' may refer to:\n\n* Injection (medicine), insertion of liquid into the body with a syringe\n* Injective function in mathematics, a function mapping distinct arguments to\n  distinct values\n* Injection molding, a technique for making parts from plastic material\n* Injection (economics), a financial boost to an economy\n* Injected (band), a rock band from Atlanta, Georgia\n* ''Injected'' (album), an album by Phunk Junkeez\n* Fuel injection, a means of metering fuel into an internal combustion engine\n* Orbit injection, changing a stable orbit into a transfer orbit\n* in broadcasting, the level at which a subcarrier is sent by the transmitter,\n  expressed as a percent of total modulation\n* Injection quills are used in the petrochemical industry to insert chemicals,\n  typically inhibitors, for proper mixture within the base chemical.\n\n* In 'computing': ** Dependency injection, a programming design pattern, also\n  referred to as inversion of control ** SQL injection, a security violation\n  technique using database commands ** Code injection, a security violation\n  technique using unexpected program modification ** Email injection, a security\n  violation technique using web email forms\n",
+      "title" : "injection",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Injective_function",
+      "1: Injection_molding",
+      "1: Fuel_injection",
+      "1: Orbit_injection",
+      "1: Subcarrier",
+      "1: Dependency_injection",
+      "1: SQL_injection",
+      "1: Code_injection",
+      "1: Email_injection",
+      "1: Injunction",
+      "1: Interjection"
+   ]
+}

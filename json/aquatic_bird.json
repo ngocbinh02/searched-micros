@@ -1,0 +1,32 @@
+{
+   "micrownet" : [
+      "aquatic_bird"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Crosswords/2005/April/2\" title=\"Crosswords/2005/April/2\">Crosswords/2005/April/2</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373466696,
+   "book" : [],
+   "micro-www" : {
+      "aquatic_bird" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "#redirectWater bird\n",
+      "title" : "aquatic bird",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Water_bird"
+   ]
+}

@@ -1,0 +1,62 @@
+{
+   "micrownet" : [
+      "arsenic_acid"
+   ],
+   "duck" : [
+      "HASH(0x4db1840)",
+      "HASH(0x4db20c8)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464353,
+   "book" : [],
+   "micro-www" : {
+      "arsenic_acid" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Arsenates",
+         "Hydrogen compounds",
+         "Oxidizing agents",
+         "Oxidizing acids"
+      ],
+      "text" : "{{chembox\n| Watchedfields = changed verifiedrevid = 444189976 ImageFile = Arsenate.svg\n| ImageSize = 150px ImageAlt = Structural formula ImageFile1 = Arsenic-acid-3D-\n| balls.png ImageSize1 = 150px ImageAlt1 = Ball-and-stick model IUPACName =\n| Arsenic acid, arsoric acid OtherNames = Arsenic acid<br />Orthoarsenic acid<br\n| />Desiccant L-10<br />Zotox Section1 = {{Chembox Identifiers ChemSpiderID_Ref\n| = ChemSpiderID = 229 UNII_Ref = UNII = N7CIZ75ZPN KEGG_Ref = KEGG = C01478\n| InChI = 1/AsH3O4/c2-1(3,4)5/h(H3,2,3,4,5) ChEBI_Ref = ChEBI = 18231 SMILES =\n| O=[As](O)(O)O InChIKey = DJHGAFSJWGLOIV-UHFFFAOYAY StdInChI_Ref = StdInChI =\n| 1S/AsH3O4/c2-1(3,4)5/h(H3,2,3,4,5) StdInChIKey_Ref = StdInChIKey = DJHGAFSJWGLOIV-UHFFFAOYSA-\n| N CASNo = 7778-39-4 CASNo_Ref = RTECS = CG0700000 EINECS = 231-901-9\n  }}\n| Section2 = {{Chembox Properties Formula = H<sub>3</sub>AsO<sub>4</sub>\n| MolarMass = 141.94 g/mol Appearance = White translucent crystals,<br\n| />hygroscopic. Density = 2.5 g/cm<sup>3</sup> Solubility = 16.7 g/100 mL\n| SolubleOther = soluble in alcohol MeltingPtC = 35.5 BoilingPtC = 120\n| Boiling_notes = decomp pKa = 2.19, 6.94, 11.5 VaporPressure = 55 hPa (50 °C)\n  }}\n| Section3 = {{Chembox Structure MolShape = Tetrahedral CrystalStruct =\n  }}\n| Section7 = {{Chembox Hazards ExternalMSDS = EUClass = Toxic\n| ('T')<br/>Dangerous for the environment ('N') <!-- Index No. 033-005-00-1 -->\n| FlashPt = Non-flammable RPhrases = , , SPhrases = , , , NFPA-H = 3 NFPA-F = 0\n| NFPA-R = 0 LD50 = 48 mg/kg (rat, oral)\n  }}\n| Section8 = {{Chembox Related OtherAnions = Phosphoric acid OtherCations =\n| Sodium arsenate OtherCpds = Arsenous acid<br />Arsenic pentoxide\n  }} }}\n\n'Arsenic acid' is the chemical compound with the formula\nH<sub>3</sub>AsO<sub>4</sub>. More descriptively written as AsO(OH)<sub>3</sub>,\nthis colorless acid is the arsenic analogue of phosphoric acid. Arsenate and\nphosphate salts behave very similarly. Arsenic acid as such has not been\nisolated, but only found in solution where it is largely ionized. Its\nhemihydrate form (H<sub>3</sub>AsO<sub>4</sub>·½H<sub>2</sub>O) does form stable\ncrystals. Crystalline samples dehydrate with condensation at 100 °C.<ref></ref>\n",
+      "title" : "arsenic acid",
+      "headings" : [
+         "Properties",
+         "Preparation",
+         "Applications",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Phosphoric_acid",
+      "2: Arsenic_pentoxide",
+      "2: Acid",
+      "1: Hygroscopic",
+      "1: Alcohol",
+      "1: Sodium_arsenate",
+      "1: Arsenous_acid",
+      "1: Chemical_compound",
+      "1: Chemical_formula",
+      "1: Arsenic",
+      "1: Symmetry_group",
+      "1: Arsenate",
+      "1: Iodide",
+      "1: Iodine",
+      "1: Nitric_acid",
+      "1: Pyroarsenic_acid",
+      "1: Ozone",
+      "1: Wood_preservative",
+      "1: Reagent",
+      "1: Dyestuff"
+   ]
+}

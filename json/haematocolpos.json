@@ -1,0 +1,37 @@
+{
+   "micrownet" : [
+      "haematocolpos"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373470783,
+   "book" : [],
+   "micro-www" : {
+      "haematocolpos" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Gynaecologic disorder"
+      ],
+      "text" : "\n'Hematocolpos' is a medical condition in which the vagina fills with menstrual\nblood. It is often caused by the combination of menstruation with an\nimperforate hymen.\n\nA related disorder is hematometra, where the uterus fills with menstrual blood.\nIt presents after puberty as primary amenorrhoea, recurrent pelvic pain with a\npelvic mass. This can be caused by a congenital stenosis of the cervix, or by a\ncomplication of a surgical treatment, with stenosis of the cervix.\n",
+      "title" : "Hematocolpos",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Vagina",
+      "1: Menstrual_blood",
+      "1: Imperforate_hymen",
+      "1: Hematometra",
+      "1: Stenosis",
+      "1: Cervix"
+   ]
+}

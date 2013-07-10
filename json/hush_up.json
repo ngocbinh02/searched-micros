@@ -1,0 +1,64 @@
+{
+   "micrownet" : [
+      "hush_up"
+   ],
+   "duck" : [
+      "HASH(0x4aea360)",
+      "HASH(0x4abf4e8)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NASA_denies_rumors_of_finding_life_on_Mars\" title=\"NASA denies rumors of finding life on Mars\">NASA denies rumors of finding life on Mars</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/September_11_attacks_remembered_in_US\" title=\"September 11 attacks remembered in US\">September 11 attacks remembered in US</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Two_nuclear_submarines_collide_in_the_Atlantic_Ocean\" title=\"Two nuclear submarines collide in the Atlantic Ocean\">Two nuclear submarines collide in the Atlantic Ocean</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464213,
+   "book" : [],
+   "micro-www" : {
+      "hush_up" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Slang",
+         "English idioms",
+         "Human behavior",
+         "Punishments",
+         "Bullying"
+      ],
+      "text" : "\n\n'\"Shut up\"' is a direct command with a meaning similar to \"be quiet\"', but which\nis commonly perceived as an angrier and more forceful demand to stop making\nnoise or otherwise communicating. The phrase is probably a shortened form of\n\"'shut your mouth up'\", and its use is generally considered rude.\n",
+      "title" : "Shut%20up",
+      "headings" : [
+         "Initial meaning and development",
+         "Variations",
+         "Objectionability",
+         "Alternative meanings",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "1: Imperative_mood",
+      "1: Rude",
+      "1: Quarantine",
+      "1: Incarceration",
+      "1: Authorized_King_James_Version",
+      "1: Bible",
+      "1: Expletive_infixation",
+      "1: Minced_oath",
+      "1: Instant_messenger_communications",
+      "1: Oreo",
+      "1: Gospel_Music_Channel",
+      "1: Farce",
+      "1: James_Redding_Ware",
+      "1: Silence",
+      "1: Talk_to_the_hand"
+   ]
+}

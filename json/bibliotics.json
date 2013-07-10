@@ -1,0 +1,34 @@
+{
+   "micrownet" : [
+      "bibliotics"
+   ],
+   "duck" : [
+      "Examination of written documents to determine authorship or authenticity.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=bibliotics",
+      "HASH(0x4a91898)",
+      "The Free Dictionary",
+      "bibliotics",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=bibliotics",
+      "Examination of written documents to determine authorship or authenticity.",
+      "TheFreeDictionary",
+      "HASH(0x47f24a8)",
+      "Examination of written documents to determine authorship or authenticity.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465624,
+   "book" : [],
+   "micro-www" : {
+      "bibliotics" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

@@ -1,0 +1,83 @@
+{
+   "micrownet" : [
+      "contour",
+      "contour_feather",
+      "contour_language",
+      "contour_line",
+      "contour_map",
+      "contour_sheet",
+      "pitch_contour"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Contour_(camera_system)\">Contour (camera system)</a>, a 3D digital camera system",
+      "\n<a href=\"http://duckduckgo.com/Equal-loudness_contour\">Equal-loudness contour</a>, a measure of sound pressure",
+      "Contour",
+      "http://www.merriam-webster.com/dictionary/contour",
+      "contour definition: an outline especially of a curving or irregular figure.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Service_contour\">Service contour</a>, a coverage area in US broadcasting",
+      "\n<a href=\"http://duckduckgo.com/Ford_Contour\">Ford Contour</a>, a motor car",
+      "\n<a href=\"http://duckduckgo.com/Pitch_contour\">Pitch contour</a> (music), a melody shape",
+      "\n<a href=\"http://duckduckgo.com/Contour_(linguistics)\">Contour (linguistics)</a>, a phonetic sound",
+      "\n<a href=\"http://duckduckgo.com/The_Contours\">The Contours</a>, a soul music group"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Twitter_to_allow_censorship_of_posts_on_a_country_by_country_basis\" title=\"Twitter to allow censorship of posts on a country by country basis\">Twitter to allow censorship of posts on a country by country basis</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Obama_administration_drops_use_of_term_%22enemy_combatant%22\" title=\"Obama administration drops use of term &quot;enemy combatant&quot;\">Obama administration drops use of term &quot;enemy combatant&quot;</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373470965,
+   "book" : [],
+   "micro-www" : {
+      "contour" : [
+         "contours",
+         "Contour_line",
+         "Contour_length",
+         "Contour_(linguistics)",
+         "Contour_(disambiguation)",
+         "Contour_(camera_system)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Contour' may refer to:\n* an outline or silhouette\n* a contour line on a contour map, or the corresponding line on the ground\n  or sea bed\n* Contour (linguistics), a phonetic sound\n* Pitch contour (music), a melody shape\n* Contour (camera system), a 3D digital camera system\n* Equal-loudness contour, a measure of sound pressure\n* Service contour, a coverage area in US broadcasting\n* Jama Contour is a software package, produced by Jama Software\n\nIn programming :\n* Lexical contour, the boundary of lexical variable scope\n* boundaries of level sets\n\nIn mathematics :\n* A contour line of a function of two variables is a curve along which the\n  function has a constant value.\n* a closed path in the mathematical method of contour integration\n* boundary of a set\n\n'Contours' may refer to: *''Contours'' (album), an album by Sam Rivers *The\nContours, a soul music group\n* Ford Contour, a motor car\n* CONTOUR, a space probe\n",
+      "title" : "contour",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "2: Contour_line",
+      "1: Silhouette",
+      "1: Pitch_contour",
+      "1: Equal-loudness_contour",
+      "1: Service_contour",
+      "1: Jama_Software",
+      "1: Level_set_method",
+      "1: Contour_integration",
+      "1: Sam_Rivers",
+      "1: The_Contours",
+      "1: Ford_Contour",
+      "1: CONTOUR",
+      "1: Active_contour",
+      "1: Contour_Aerospace",
+      "1: Contour_bunding",
+      "1: Contour_canal",
+      "1: Contour_Crafting",
+      "1: Contour_drawing",
+      "1: Blind_contour_drawing",
+      "1: Contour_length",
+      "1: Contour_plowing",
+      "1: Contour_rivalry",
+      "1: Contour_threads",
+      "1: Illusory_contours",
+      "1: Contour_set"
+   ]
+}

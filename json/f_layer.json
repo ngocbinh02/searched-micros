@@ -1,0 +1,59 @@
+{
+   "micrownet" : [
+      "f_layer"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Rocketeers_find_possible_impact_crater_in_Nevada\" title=\"Rocketeers find possible impact crater in Nevada\">Rocketeers find possible impact crater in Nevada</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NASA_says_Phoenix_spacecraft_may_have_landed_on_ice\" title=\"NASA says Phoenix spacecraft may have landed on ice\">NASA says Phoenix spacecraft may have landed on ice</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Lobby_groups_oppose_plans_for_EU_copyright_extension\" title=\"Lobby groups oppose plans for EU copyright extension\">Lobby groups oppose plans for EU copyright extension</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mars_rover_Opportunity_successfully_escapes_sand_trap\" title=\"Mars rover Opportunity successfully escapes sand trap\">Mars rover Opportunity successfully escapes sand trap</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Daniel_Craig_to_be_new_James_Bond\" title=\"Daniel Craig to be new James Bond\">Daniel Craig to be new James Bond</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:June_4,_2010\" title=\"News briefs:June 4, 2010\">News briefs:June 4, 2010</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373472984,
+   "book" : [],
+   "micro-www" : {
+      "f_layer" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Ionosphere",
+         "Radio frequency propagation"
+      ],
+      "text" : "The 'F region' of the ionosphere is home to the F layer of ionization, also\ncalled the 'Appleton layer', after the English physicist Edward Appleton. As\nwith other ionospheric sectors, 'layer' implies a concentration of plasma,\nwhile 'region' is the area that contains the said layer. The F region contains\nionized gases at a height of around 150–800&nbsp;km above sea level, placing it\nin the Earth’s thermosphere, a hot region in the upper atmosphere, and also in\nthe heterosphere, where chemical composition varies with height. Generally\nspeaking, the F region has the highest concentration of free electrons and ions\nanywhere in the atmosphere. It may be thought of as comprising two layers, the\nF1-and F2-layers.\n\nThe F-region is located directly above the E region (formerly the Kennelly-\nHeaviside layer) and below the protonosphere. It acts as a dependable reflector\nof radio signals as it is not affected by atmospheric conditions, although its\nionic composition varies with the sunspot cycle. It reflects normal-incident\nfrequencies at or below the critical frequency (approximately 10&nbsp;MHz) and\npartially absorbs waves of higher frequency.\n\nThe F region is the region of the ionosphere which is very important for HF\nradio wave propagation. This F region is very anomalous in nature.\n",
+      "title" : "F%20region",
+      "headings" : [
+         "F1 and F2 Layers",
+         "Usage in Radio Communication",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Ions",
+      "1: Ionosphere",
+      "1: Edward_Appleton",
+      "1: Sea_level",
+      "1: Thermosphere",
+      "1: Atmosphere",
+      "1: Heterosphere",
+      "1: Electrons",
+      "1: E_region",
+      "1: Protonosphere",
+      "1: Critical_frequency",
+      "1: Turbopause",
+      "1: Sunspot",
+      "1: Reflecting_layer",
+      "1: Telecommunication",
+      "1: Radio_propagation"
+   ]
+}

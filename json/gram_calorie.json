@@ -1,0 +1,68 @@
+{
+   "micrownet" : [
+      "gram_calorie"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Denny%27s_Super_Bowl_free_%27Grand_Slam_Breakfast%27_brings_2_million_diners\" title=\"Denny&#39;s Super Bowl free &#39;Grand Slam Breakfast&#39; brings 2 million diners\">Denny&#39;s Super Bowl free &#39;Grand Slam Breakfast&#39; brings 2 million diners</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373469130,
+   "book" : [],
+   "micro-www" : {
+      "gram_calorie" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Units of energy",
+         "Heat transfer"
+      ],
+      "text" : "\n\nThe name 'calorie' is used for two units of energy.\n* The 'small calorie' or 'gram calorie' (symbol: cal) is the approximate amount\n  of energy needed to raise the temperature of one gram of water by one degree\n  Celsius.<ref name=Webster/>\n* The 'large calorie', 'kilogram calorie', 'dietary calorie', 'nutritionist's\n  calorie' or 'food calorie' (symbol: Cal, equiv: kcal), which is the amount of\n  energy needed to raise the temperature of one kilogram of water by one degree\n  Celsius. The large calorie is thus equal to small calories or one kilocalorie\n  (symbol: kcal).<ref name=Webster/>\n\nAlthough these units are part of the metric system, they now have been\nsuperseded in the International System of Units by the joule. One small calorie\nis approximately<!-- see below --> 4.2 joules (one large calorie or kilocalorie\nis therefore approximately 4.2 kilojoules). The factors used to convert calories\nto joules are numerically equivalent to expressions of the specific heat\ncapacity of water in joules per gram or per kilogram. The conversion factor\ndepends on the definition adopted.\n\nIn spite of its non-official status, the large calorie is still widely used as a\nunit of food energy in the US, UK and some other Western countries. The small\ncalorie is also often used in chemistry as the method of measurement is fairly\nstraightforward in most reactions, though the amounts involved are typically\nexpressed in thousands as kcal, an equivalent unit to the large calorie.\n\nThe calorie was first defined by Nicolas Clément in 1824 as a unit of heat,<ref\nname=Hist/> and entered French and English dictionaries between 1841 and 1867.\nThe word comes from Latin calor meaning \"heat\".\n",
+      "title" : "Calorie",
+      "headings" : [
+         "Precise definitions",
+         "Usage",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Food_energy",
+      "1: Unit_of_energy",
+      "1: Gram",
+      "1: Celsius",
+      "1: Metric_system",
+      "1: International_System_of_Units",
+      "1: Joule",
+      "1: Conversion_of_units#Energy",
+      "1: Specific_heat_capacity",
+      "1: Chemistry",
+      "1: Nicolas_Clément",
+      "1: Heat",
+      "1: Standard_atmospheric_pressure",
+      "1: Kelvin",
+      "1: Thermochemistry",
+      "1: CIPM",
+      "1: Steam#Steam_tables",
+      "1: Calorimetry",
+      "1: Specific_energy",
+      "1: Chemical_reaction",
+      "1: Kilocalorie_per_mole",
+      "1: Bond_energy",
+      "1: Activation_barrier",
+      "1: Empty_calorie",
+      "1: Basal_metabolic_rate",
+      "1: Nutrition_facts_label",
+      "1: Conversion_of_units_of_energy",
+      "1: ISO_31-4",
+      "1: International_Organization_for_Standardization"
+   ]
+}

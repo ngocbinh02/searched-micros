@@ -1,0 +1,114 @@
+{
+   "micrownet" : [
+      "actual_possession",
+      "constructive_possession",
+      "criminal_possession",
+      "illegal_possession",
+      "material_possession",
+      "possession",
+      "tangible_possession",
+      "transferred_possession",
+      "worldly_possession"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Possession",
+      "HASH(0x49b2ad0)",
+      "Wikipedia",
+      "Possession",
+      "\n<a href=\"http://duckduckgo.com/Adverse_possession\">Adverse possession</a> - Adverse possession is a process by which premises can change ownership.",
+      "http://www.merriam-webster.com/dictionary/possession",
+      "possession definition: the act of having or taking into control.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Demonic_possession\">Demonic possession</a>, psychokinetic control of a person by the Devil or other malevolent spirit",
+      "HASH(0x4990d08)",
+      "\n<a href=\"http://duckduckgo.com/Possession_(2009_film)\">Possession (2009 film)</a>, starring Sarah Michelle Gellar and Lee Pace",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canadian_judge_strikes_down_marijuana_possession_laws_as_unconstitutional\" title=\"Canadian judge strikes down marijuana possession laws as unconstitutional\">Canadian judge strikes down marijuana <span class=\"searchmatch\">possession</span> laws as unconstitutional</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Suspect_in_Madeleine_McCann_case_Robert_Murat_has_confiscated_possessions_returned\" title=\"Suspect in Madeleine McCann case Robert Murat has confiscated possessions returned\">Suspect in Madeleine McCann case Robert Murat has confiscated <span class=\"searchmatch\">possessions</span> returned</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mexico_on_the_verge_of_decriminalizing_possession_of_small_amounts_of_drugs\" title=\"Mexico on the verge of decriminalizing possession of small amounts of drugs\">Mexico on the verge of decriminalizing <span class=\"searchmatch\">possession</span> of small amounts of drugs</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK%27s_Greater_Manchester_Police_charge_man_with_drug_possession_after_trick-or-treating_children_allegedly_given_cocaine\" title=\"UK&#39;s Greater Manchester Police charge man with drug possession after trick-or-treating children allegedly given cocaine\">UK&#39;s Greater Manchester Police charge man with drug <span class=\"searchmatch\">possession</span> after trick-or-treating children allegedly given cocaine</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Son_of_former_US_VP_Al_Gore_arrested_for_drug_possession\" title=\"Son of former US VP Al Gore arrested for drug possession\">Son of former US VP Al Gore arrested for drug <span class=\"searchmatch\">possession</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mexico_on_path_to_decriminalize_personal_possession_of_drugs\" title=\"Mexico on path to decriminalize personal possession of drugs\">Mexico on path to decriminalize personal <span class=\"searchmatch\">possession</span> of drugs</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ozzy_Osbourne%27s_personal_possessions_fetch_$800,000_for_charity\" title=\"Ozzy Osbourne&#39;s personal possessions fetch $800,000 for charity\">Ozzy Osbourne&#39;s personal <span class=\"searchmatch\">possessions</span> fetch $800,000 for charity</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NBA_star_Gilbert_Arenas_pleads_guilty_to_gun_possession,_could_face_six_months_in_prison\" title=\"NBA star Gilbert Arenas pleads guilty to gun possession, could face six months in prison\">NBA star Gilbert Arenas pleads guilty to gun <span class=\"searchmatch\">possession</span>, could face six months in prison</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Rapper_%27Snoop_Dogg%27_arrested_at_California_airport\" title=\"Rapper &#39;Snoop Dogg&#39; arrested at California airport\">Rapper &#39;Snoop Dogg&#39; arrested at California airport</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Vietnam_bans_pet_hamsters\" title=\"Vietnam bans pet hamsters\">Vietnam bans pet hamsters</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/23_Australians_arrested_in_global_child_porn_network\" title=\"23 Australians arrested in global child porn network\">23 Australians arrested in global child porn network</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Army_sergeant_sentenced_for_sodomy_of_a_minor_and_child_porn\" title=\"US Army sergeant sentenced for sodomy of a minor and child porn\">US Army sergeant sentenced for sodomy of a minor and child porn</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._Army_staff_sergeant_sentenced_to_two_years_in_prison_for_sodomy_of_a_minor_and_child_pornography_possession\" title=\"U.S. Army staff sergeant sentenced to two years in prison for sodomy of a minor and child pornography possession\"> years in prison for sodomy of a minor and child pornography <span class=\"searchmatch\">possession</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Alleged_kidney_harvester_arrested_in_Nepal\" title=\"Alleged kidney harvester arrested in Nepal\">Alleged kidney harvester arrested in Nepal</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Supreme_Court_rules_DC_gun_ban_unconstitutional\" title=\"US Supreme Court rules DC gun ban unconstitutional\">US Supreme Court rules DC gun ban unconstitutional</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Super_Bowl_XLVII:_Ravens_defeat_49ers,_34-31\" title=\"Super Bowl XLVII: Ravens defeat 49ers, 34-31\">Super Bowl XLVII: Ravens defeat 49ers, 34-31</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sunshine_Coast_Rugby_Union,_round_twelve:_Maroochydore_defeat_University_at_University\" title=\"Sunshine Coast Rugby Union, round twelve: Maroochydore defeat University at University\">Sunshine Coast Rugby Union, round twelve: Maroochydore defeat University at University</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Second_man_charged_in_Lee_Rigby_murder_case\" title=\"Second man charged in Lee Rigby murder case\">Second man charged in Lee Rigby murder case</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Al-Qaeda_inspired%27_bomb_plot_stopped_by_Canadian_police\" title=\"&#39;Al-Qaeda inspired&#39; bomb plot stopped by Canadian police\">&#39;Al-Qaeda inspired&#39; bomb plot stopped by Canadian police</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/5_charged,_12_taken_to_hospital_after_Sydney_rave\" title=\"5 charged, 12 taken to hospital after Sydney rave\">5 charged, 12 taken to hospital after Sydney rave</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sanjay_Dutt_found_guilty_under_Arms_Act_in_1993_Mumbai_blasts_case\" title=\"Sanjay Dutt found guilty under Arms Act in 1993 Mumbai blasts case\">Sanjay Dutt found guilty under Arms Act in 1993 Mumbai blasts case</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373463257,
+   "book" : [],
+   "micro-www" : {
+      "possession" : [
+         "Possession_Street",
+         "Possession_Sound",
+         "Possession_Point",
+         "Possession_Island_(disambiguation)",
+         "Possession_(video_game)",
+         "Possession_(play)",
+         "Possession_(novel)",
+         "Possession_(linguistics)",
+         "Possession_(law)",
+         "Possession_(TV_series)",
+         "Possession_(Sarah_McLachlan_song)",
+         "Possession_(Lily_Afshar_album)",
+         "Possession_(Johnson_novel)",
+         "Possession_(Iron_Butterfly_song)",
+         "Possession_(GOD_album)",
+         "Possession_(2009_film)",
+         "Possession_(2002_film)",
+         "Possession_(1981_film)",
+         "Possession_(1919_film)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Possession' may refer to:\n",
+      "title" : "possession",
+      "headings" : [
+         "Law",
+         "Linguistics",
+         "Supernatural possession",
+         "Places",
+         "Arts and entertainment",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Dependent_territory",
+      "1: Drug_possession",
+      "1: Ownership",
+      "1: Personal_property",
+      "1: Inalienable_possession",
+      "1: Demonic_possession",
+      "1: Spirit_possession",
+      "1: La_Possession",
+      "1: Possession_Point",
+      "1: Possession_Sound",
+      "1: Possession_Street",
+      "1: Adverse_possession",
+      "1: Dispossess",
+      "1: Eviction",
+      "1: Repossession",
+      "1: US_Possession"
+   ]
+}

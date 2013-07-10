@@ -1,0 +1,80 @@
+{
+   "micrownet" : [
+      "chromosome_mapping",
+      "mapping"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Texture_mapping\">Texture mapping</a>, in computer graphics",
+      "\n<a href=\"http://duckduckgo.com/Gene_mapping\">Gene mapping</a>, the assignment of DNA fragments to chromosomes",
+      "Mapping",
+      "http://www.merriam-webster.com/dictionary/mapping",
+      "\n<a href=\"http://duckduckgo.com/Data_mapping\">Data mapping</a>, data element mappings between two distinct data models",
+      "mapping definition: the act or process of making a map.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Google_releases_test_of_mapping_service\" title=\"Google releases test of mapping service\">Google releases test of <span class=\"searchmatch\">mapping</span> service</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_blocks_use_of_mapping_technology_in_China\" title=\"US blocks use of mapping technology in China\">US blocks use of <span class=\"searchmatch\">mapping</span> technology in China</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ethane_clouds_found_on_Titan\" title=\"Ethane clouds found on Titan\">Ethane clouds found on Titan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Modern_technology_maps_new_sections_of_the_Great_Wall_of_China\" title=\"Modern technology maps new sections of the Great Wall of China\">Modern technology maps new sections of the Great Wall of China</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Google_removes_some_street_view_images\" title=\"Google removes some street view images\">Google removes some street view images</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Google_Maps,_Google_Local_launches_for_Britain_and_Ireland\" title=\"Google Maps, Google Local launches for Britain and Ireland\">Google Maps, Google Local launches for Britain and Ireland</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_research_shows_over_400_languages_originated_in_Turkey\" title=\"New research shows over 400 languages originated in Turkey\">New research shows over 400 languages originated in Turkey</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/IBM_and_National_Geographic_to_launch_DNA_database_project\" title=\"IBM and National Geographic to launch DNA database project\">IBM and National Geographic to launch DNA database project</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Court_rules_Massey_can_appeal_US_restrictions_in_mine_disaster_investigation\" title=\"Court rules Massey can appeal US restrictions in mine disaster investigation\">Court rules Massey can appeal US restrictions in mine disaster investigation</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NASA_plans_to_send_probe_into_Moon%27s_surface\" title=\"NASA plans to send probe into Moon&#39;s surface\">NASA plans to send probe into Moon&#39;s surface</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Google_mistakenly_collects_private_data_from_Wi-Fi_networks\" title=\"Google mistakenly collects private data from Wi-Fi networks\">Google mistakenly collects private data from Wi-Fi networks</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_entrance_discovered_to_world%27s_longest_cave\" title=\"New entrance discovered to world&#39;s longest cave\">New entrance discovered to world&#39;s longest cave</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Indonesian_military_plane_disappears\" title=\"Indonesian military plane disappears\">Indonesian military plane disappears</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scientists_say_that_a_%27global_layer_of_water%27_exists_on_Saturn%27s_moon_Titan\" title=\"Scientists say that a &#39;global layer of water&#39; exists on Saturn&#39;s moon Titan\">Scientists say that a &#39;global layer of water&#39; exists on Saturn&#39;s moon Titan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Russia_launches_new_civil_remote_sensing_satellite\" title=\"Russia launches new civil remote sensing satellite\">Russia launches new civil remote sensing satellite</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Astronomer_proposes_Hubble_replacement\" title=\"Astronomer proposes Hubble replacement\">Astronomer proposes Hubble replacement</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/ESA%27s_Smart-1_takes_its_first_close-up_images_of_the_Moon\" title=\"ESA&#39;s Smart-1 takes its first close-up images of the Moon\">ESA&#39;s Smart-1 takes its first close-up images of the Moon</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/FTC_begins_antitrust_inquiry_of_Google\" title=\"FTC begins antitrust inquiry of Google\">FTC begins antitrust inquiry of Google</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471544,
+   "book" : [],
+   "micro-www" : {
+      "mapping" : [
+         "mapping",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\nIn geomatics or geospatial science and engineering:\n\n'Mapping' usually refers to '[[map]]-making' and often used instead of\n'[[cartography]]'. Mapping term is also sometimes used for geospatial data\ncollection or (e.g. LIDAR mapping) but in fact it is not mapping because a map\nis created through some cartographic works (i.e. determining the scale/level of\ndetail and content of geographic or cartographic database, entry criteria and\nsymbol specification for geospatial objects, generalization, layout design\netc.). In other words, the acquisition of data with (geographic) coordinates\ndirectly from terrain or imagery does not mean 'mapping' but '[[surveying]]'.\n\nIn biology and neuroscience:\n* Gene mapping, the assignment of DNA fragments to chromosomes\n* Brain mapping, set of techniques to study the brain\n\nIn cartography\n* Geospatial mapping, mapping with Geospatial analysis\n\nIn mathematics:\n* Map (mathematics), often a synonym for function\n* Functional predicate, a logical symbol that may be applied to an object term\n  to produce another object term\n\nIn computing: *'[[Data mapping]]', data element mappings between two distinct\ndata models *Level design, the creation of levels, locales, stages, or missions\nfor a video game *Memory-mapped I/O, hardware pretending to be memory *Page\nmapping, or paging, in virtual memory systems *Cache mapping, the mapping of\nmain memory locations into entries of a cache (computing) *Texture mapping, in\ncomputer graphics *Device mapping, the assignment of I/O devices to file\ndescriptors, file names, file numbers, etc.\n\nIn logic, linguistics, and psychology:\n* Conceptual metaphor, an understanding one conceptual domain in terms of\n  another conceptual domain\n* Metaphor, cross mapping across two or more seemingly unrelated subjects\n* Analogy, inference from a particular to another particular\n* Mind mapping is the drawing of ideas and the relations among them\n\nIn operations research:\n* Mapping of operational areas for the placement of resources in Production,\n  costs, and pricing sites\n* Mapping of sales regions and the location of customers for directing\n  marketing efforts\n* Mapping of supply chains for distribution and transportation and logistics\n* Mapping a strategic \"road map\" for execution of business plans\n\nIn robotics:\n* Mapping of operational areas for the routing of robots on confined paths\n* Motion planning a map from exploration of viable routes\n* Robotic mapping\n\nIn religion and mythology: *Spiritual mapping, a practice of some religions\n",
+      "title" : "mapping",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Geomatics",
+      "1: Gene_mapping",
+      "1: Brain_mapping",
+      "1: Geospatial_mapping",
+      "1: Functional_predicate",
+      "1: Level_design",
+      "1: Memory-mapped_I/O",
+      "1: Paging",
+      "1: Texture_mapping",
+      "1: I/O_device",
+      "1: Conceptual_metaphor",
+      "1: Metaphor",
+      "1: Analogy",
+      "1: Mind_map",
+      "1: Production,_costs,_and_pricing",
+      "1: Marketing",
+      "1: Transportation",
+      "1: Logistics",
+      "1: Routing",
+      "1: Motion_planning",
+      "1: Robotic_mapping",
+      "1: Spiritual_mapping"
+   ]
+}

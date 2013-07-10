@@ -1,0 +1,78 @@
+{
+   "micrownet" : [
+      "account_representative",
+      "legal_representative",
+      "personal_representative",
+      "registered_representative",
+      "representative",
+      "representative_(vs._nonrepresentative)",
+      "representative_sample",
+      "representative_sampling",
+      "sales_representative",
+      "union_representative",
+      "united_states_trade_representative",
+      "us_trade_representative"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Representative_democracy\">Representative democracy</a> - Representative democracy is a variety of democracy founded on the principle of elected people representing a group of people, as opposed to direct democracy.",
+      "Representative",
+      "http://www.merriam-webster.com/dictionary/representative",
+      "\n<a href=\"http://duckduckgo.com/House_of_Representatives\">House of Representatives</a> - House of Representatives is the name of legislative bodies in many countries and sub-national states.",
+      "representative definition: serving to represent.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Legislator\">Legislator</a>, someone who is part of a legislature",
+      "\n<a href=\"http://duckduckgo.com/sampling_(statistics)\">Representative sample</a> in statistics"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_House_of_Representatives\" title=\"US House of Representatives\">US House of <span class=\"searchmatch\">Representatives</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_House_honors_Representative_John_Dingell\" title=\"US House honors Representative John Dingell\">US House honors <span class=\"searchmatch\">Representative</span> John Dingell</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_House_of_Representatives\" title=\"Australian House of Representatives\">Australian House of <span class=\"searchmatch\">Representatives</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_House_of_Representatives_moves_to_affirm_support_for_heterosexual_marriage\" title=\"Australian House of Representatives moves to affirm support for heterosexual marriage\">Australian House of <span class=\"searchmatch\">Representatives</span> moves to affirm support for heterosexual marriage</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Gunmen_abduct_3_ICRC_representatives_in_the_Philippines\" title=\"Gunmen abduct 3 ICRC representatives in the Philippines\">Gunmen abduct 3 ICRC <span class=\"searchmatch\">representatives</span> in the Philippines</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_House_of_Representatives_grows_heated_over_industrial_relations_legislation\" title=\"Australian House of Representatives grows heated over industrial relations legislation\">Australian House of <span class=\"searchmatch\">Representatives</span> grows heated over industrial relations legislation</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._House_of_Representatives\" title=\"U.S. House of Representatives\">U.S. House of <span class=\"searchmatch\">Representatives</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_House_of_Representatives_passes_India_nuclear_bill\" title=\"US House of Representatives passes India nuclear bill\">US House of <span class=\"searchmatch\">Representatives</span> passes India nuclear bill</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Texas_representative_proposes_to_outlaw_%27sexy%27_cheerleading\" title=\"Texas representative proposes to outlaw &#39;sexy&#39; cheerleading\">Texas <span class=\"searchmatch\">representative</span> proposes to outlaw &#39;sexy&#39; cheerleading</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/United_States_House_of_Representatives\" title=\"United States House of Representatives\">United States House of <span class=\"searchmatch\">Representatives</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hawaiian_Representative_Neil_Abercrombie_resigns\" title=\"Hawaiian Representative Neil Abercrombie resigns\">Hawaiian <span class=\"searchmatch\">Representative</span> Neil Abercrombie resigns</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2006_U.S._Congressional_Elections\" title=\"2006 U.S. Congressional Elections\">2006 U.S. Congressional Elections</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._Presidential_candidate_Michele_Bachmann_narrowly_edges_Ron_Paul_in_Ames_Straw_Poll\" title=\"U.S. Presidential candidate Michele Bachmann narrowly edges Ron Paul in Ames Straw Poll\">U.S. Presidential candidate Michele Bachmann narrowly edges Ron Paul in Ames Straw Poll</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Representative_Anthony_Weiner_resigns_over_sexual_conduct\" title=\"US Representative Anthony Weiner resigns over sexual conduct\">US <span class=\"searchmatch\">Representative</span> Anthony Weiner resigns over sexual conduct</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_House_of_Representatives_has_%22no_rules%22:_Gillard\" title=\"Australian House of Representatives has &quot;no rules&quot;: Gillard\">Australian House of <span class=\"searchmatch\">Representatives</span> has &quot;no rules&quot;: Gillard</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/France_first_to_recognise_Libyan_rebels_as_%22legitimate_representatives_of_the_people%22\" title=\"France first to recognise Libyan rebels as &quot;legitimate representatives of the people&quot;\">France first to recognise Libyan rebels as &quot;legitimate <span class=\"searchmatch\">representatives</span> of the people&quot;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Repeal_of_ministerial_control_of_RU486_bill_passes_Australian_House_of_Representatives\" title=\"Repeal of ministerial control of RU486 bill passes Australian House of Representatives\">Repeal of ministerial control of RU486 bill passes Australian House of <span class=\"searchmatch\">Representatives</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_House_of_Representatives_passes_%27clean_energy_bill%27\" title=\"US House of Representatives passes &#39;clean energy bill&#39;\">US House of <span class=\"searchmatch\">Representatives</span> passes &#39;clean energy bill&#39;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Representative_Tom_DeLay_not_seeking_future_Majority_Leader_position\" title=\"Representative Tom DeLay not seeking future Majority Leader position\"><span class=\"searchmatch\">Representative</span> Tom DeLay not seeking future Majority Leader position</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_House_of_Representatives_rejects_bail_out_bill_in_vote\" title=\"US House of Representatives rejects bail out bill in vote\">US House of <span class=\"searchmatch\">Representatives</span> rejects bail out bill in vote</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373466834,
+   "book" : [],
+   "micro-www" : {
+      "representative" : [
+         "Representatives_of_the_President_of_Ukraine",
+         "Representative_democracy",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Representative' may refer to: *Legislator, someone who is part of a\nlegislature *House of Representatives *Representative sample in statistics\n*Representative democracy\n",
+      "title" : "representative",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Legislator",
+      "1: House_of_Representatives",
+      "1: Representative_sample",
+      "1: Representative_democracy"
+   ]
+}

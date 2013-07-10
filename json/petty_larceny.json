@@ -1,0 +1,84 @@
+{
+   "micrownet" : [
+      "petty_larceny"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Former_Chief_Operating_Officer_of_Wikimedia_Foundation_is_convicted_felon\" title=\"Former Chief Operating Officer of Wikimedia Foundation is convicted felon\">Former Chief Operating Officer of Wikimedia Foundation is convicted felon</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Shoplifting_mother_leaves_son_at_scene_of_crime\" title=\"Shoplifting mother leaves son at scene of crime\">Shoplifting mother leaves son at scene of crime</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373467652,
+   "book" : [],
+   "micro-www" : {
+      "petty_larceny" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Theft",
+         "Criminal law",
+         "Personal property law",
+         "Property crimes"
+      ],
+      "text" : "\n\n\n'Larceny' is a crime involving the unlawful acquisition of the personal property\nof another person. It was an offence under the common law of England and became\nan offence in jurisdictions which incorporated the common law of England into\ntheir own law. It has been abolished in England and Wales, Northern Ireland and\nthe Republic of Ireland. It remains an offense in the United States and New\nSouth Wales,<ref>[http://www.legislation.nsw.gov.au/maintop/view/inforce/act+40-\n+1900+cd+0+N NSW Crimes Act 1900 No. 40, section 117]</ref> Australia, involving\nthe taking ('caption') and carrying away ('asportation') of personal property.\n",
+      "title" : "Larceny%23Grand larceny",
+      "headings" : [
+         "Etymology",
+         "Republic of Ireland",
+         "United Kingdom",
+         "United States",
+         "Elements of larceny",
+         "Some problem areas",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "4: Theft_Act_1968",
+      "3: Common_law",
+      "3: Theft",
+      "2: United_States",
+      "2: Trespass",
+      "1: England_and_Wales",
+      "1: Northern_Ireland",
+      "1: Republic_of_Ireland",
+      "1: New_South_Wales",
+      "1: Australia",
+      "1: Personal_property",
+      "1: Larceny_Act_1916",
+      "1: Crime",
+      "1: Statutory_law",
+      "1: Wheelbarrow",
+      "1: Model_Penal_Code",
+      "1: Real_property",
+      "1: Tree",
+      "1: Shrub",
+      "1: Mineral",
+      "1: Love",
+      "1: Affection",
+      "1: Identity_theft",
+      "1: Fraud",
+      "1: Intellectual_property",
+      "1: Coca-Cola_formula",
+      "1: Trade_secret",
+      "1: Contract",
+      "1: Chose",
+      "1: Lien",
+      "1: Negotiable_instruments",
+      "1: Energy_law",
+      "1: Larceny#Grand_larceny",
+      "1: Motor_vehicle",
+      "1: United_States_dollar",
+      "1: Felony",
+      "1: North_Carolina",
+      "1: Embezzlement",
+      "1: Check_register"
+   ]
+}

@@ -1,0 +1,60 @@
+{
+   "micrownet" : [
+      "cubic_centimetre"
+   ],
+   "duck" : [
+      "HASH(0x4a56530)",
+      "HASH(0x4a55948)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Largest_exoplanet_so_far_is_discovered\" title=\"Largest exoplanet so far is discovered\">Largest exoplanet so far is discovered</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373463140,
+   "book" : [],
+   "micro-www" : {
+      "cubic_centimetre" : [
+         "Cubic_centimetres",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Units of volume",
+         "SI derived units",
+         "Centimetre–gram–second system of units"
+      ],
+      "text" : "A 'cubic centimetre' (or 'cubic centimeter' in US English) (SI unit symbol:\n'cm<sup>3</sup>'; non-SI abbreviations: 'cc' and 'ccm') is a commonly used unit\nof volume that extends the derived SI-unit cubic metre, and corresponds to the\nvolume of a cube that measures 1&nbsp;cm × 1&nbsp;cm × 1&nbsp;cm. One cubic\ncentimetre corresponds to a volume of of a cubic metre, or of a litre, or one\nmillilitre; thus, 1&nbsp;cm<sup>3</sup> ≡ 1&nbsp;ml. The mass of one cubic\ncentimetre of water at 3.98&nbsp;°C (the temperature at which it attains its\nmaximum density) is roughly equal to one gram. Note that SI supports only the\nuse of symbols and deprecates the use of any abbreviations for units.<ref\nname=BIPM2006></ref> Hence 'cm<sup>3</sup>' is preferred to 'cc' or 'ccm'.\n\nMany scientific fields have replaced cubic centimeters with milliliters. The\nmedical and automotive fields in the United States still use the term cubic\ncentimetre. Much of the automotive industry outside the U.S. has switched to\nlitres. The United Kingdom uses millilitres in preference to cubic centimetres\nin the medical field, but not the automotive. Most other English-speaking\ncountries follow the UK example.\n\nThere is currently a movement within the medical field to discontinue the use of\ncc in prescriptions and on medical documents, as it can be mis-read as \"00\".\nThis could cause a hundredfold overdose of medication, which could be dangerous\nor even lethal. In the United States, such confusion accounts for 12.6% of all\nerrors associated with medical abbreviations.<ref> </ref>\n\nIn automobile engines, \"cc\" refers to the total volume of its engine\ndisplacement in cubic centimetres. The displacement can be calculated using\nthe formula\n:<math>d = {\\pi \\over 4} \\times b^2 \\times s \\times n</math>\nwhere d is engine displacement, b is the bore of the cylinders, s is length of\nthe stroke and n is the number of cylinders.\n\n'Conversions'\n\n*1 millilitre = 1 cm<sup>3</sup> *1 litre = 1000 cm<sup>3</sup> *1 cubic inch =\n16.387 cm<sup>3</sup>.\n",
+      "title" : "cubic centimetre",
+      "headings" : [
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "3: Litre",
+      "2: Cubic_inch",
+      "1: American_and_British_English_spelling_differences",
+      "1: Unit_of_measurement",
+      "1: Volume",
+      "1: International_System_of_Units",
+      "1: Cubic_metre",
+      "1: Centimetre",
+      "1: Millilitre",
+      "1: Water",
+      "1: Maximum_density",
+      "1: Science",
+      "1: Medicine",
+      "1: Automotive_industry",
+      "1: Internal_Combustion_Engine",
+      "1: Engine_displacement",
+      "1: Centimeters",
+      "1: Liters"
+   ]
+}

@@ -1,0 +1,80 @@
+{
+   "micrownet" : [
+      "quadratic",
+      "quadratic_equation",
+      "quadratic_polynomial",
+      "quadratics"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Quadratic",
+      "\n<a href=\"http://duckduckgo.com/Quadratic_function\">Quadratic function</a>, a polynomial function of degree 2",
+      "HASH(0x49c6a20)",
+      "Wikipedia",
+      "Quadratic",
+      "http://www.merriam-webster.com/dictionary/quadratic",
+      "\n<a href=\"http://duckduckgo.com/Quadratic_equation\">Quadratic equation</a>, a polynomial equation of degree 2 (reducible to 0 = ax2 + bx + c)",
+      "quadratic definition: involving terms of the second degree at most.",
+      "Merriam-Webster",
+      "HASH(0x4b8fb50)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Linear\">Linear</a>, relating to a line or degree 1, as next lower below quadratic"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373466094,
+   "book" : [],
+   "micro-www" : {
+      "quadratic" : [
+         "quadratic_formula",
+         "Quadratic_integer",
+         "Quadratic_function",
+         "Quadratic_equation",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\nIn mathematics, the term 'quadratic' describes something that pertains to\nsquares, to the operation of squaring, to terms of the second degree, or\nequations or formulas that involve such terms. Quadratus is Latin for square.\n",
+      "title" : "quadratic",
+      "headings" : [
+         "Mathematics",
+         "Computer science",
+         "Other",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "2: Degree_of_a_polynomial",
+      "1: Latin",
+      "1: Quadratic_function",
+      "1: Quadratic_equation",
+      "1: Quadratic_formula",
+      "1: Quadratic_polynomial",
+      "1: Complex_quadratic_polynomial",
+      "1: Quadratic_field",
+      "1: Quadratic_irrational",
+      "1: Quadratic_integral",
+      "1: Quadratic_mean",
+      "1: Quadratic_variation",
+      "1: Quadratic_reciprocity",
+      "1: Quadratic_residue",
+      "1: Quadratic_sieve",
+      "1: Quadratic_convergence",
+      "1: Quadratic_differential",
+      "1: Quadratic_form",
+      "1: Quadratic_programming",
+      "1: Quadratic_growth",
+      "1: Periodic_points_of_complex_quadratic_mappings",
+      "1: Quadratic_probing",
+      "1: Quadratic_classifier",
+      "1: Quadratic_time",
+      "1: Cube",
+      "1: Linear"
+   ]
+}

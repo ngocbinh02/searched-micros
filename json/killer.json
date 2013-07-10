@@ -1,0 +1,106 @@
+{
+   "micrownet" : [
+      "bee_killer",
+      "cicada_killer",
+      "killer",
+      "killer_bee",
+      "killer_cell",
+      "killer_t_cell",
+      "killer_whale",
+      "lady_killer",
+      "serial_killer",
+      "spree_killer",
+      "weed_killer"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Killer",
+      "HASH(0x4c670e8)",
+      "Wikipedia",
+      "Killer",
+      "\n<a href=\"http://duckduckgo.com/Killer_application\">Killer application</a> or killer app, a computer program that is so necessary or desirable that it proves the core value of some larger technology",
+      "http://www.merriam-webster.com/dictionary/killer",
+      "killer definition: one that kills.",
+      "Merriam-Webster",
+      "HASH(0x4c823c8)",
+      "\n<a href=\"http://duckduckgo.com/Killer_(Tech_N9ne_album)\">Killer (Tech N9ne album)</a>, 2008 rap album by Tech N9ne",
+      "\n<a href=\"http://duckduckgo.com/The_Killer_(1989_film)\">The Killer (1989 film)</a>, a Hong Kong action and crime film directed by John Woo and starring Chow Yun Fat",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Condemned_US_killer_to_face_execution_by_firing_squad\" title=\"Condemned US killer to face execution by firing squad\">Condemned US <span class=\"searchmatch\">killer</span> to face execution by firing squad</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Release_and_pardon_of_killer_jeopardises_Armenia-Azerbaijan_ceasefire\" title=\"Release and pardon of killer jeopardises Armenia-Azerbaijan ceasefire\">Release and pardon of <span class=\"searchmatch\">killer</span> jeopardises Armenia-Azerbaijan ceasefire</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Gene_switch_turns_stem_cells_into_cancer_killers\" title=\"Gene switch turns stem cells into cancer killers\">Gene switch turns stem cells into cancer <span class=\"searchmatch\">killers</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Suspect_in_BTK_killings_arrested_after_25_years_in_hiding\" title=\"Suspect in BTK killings arrested after 25 years in hiding\">Suspect in BTK killings arrested after 25 years in hiding</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/BTK_killer_arrested\" title=\"BTK killer arrested\">BTK <span class=\"searchmatch\">killer</span> arrested</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Russian_serial_killer_Irina_Gaidamachuk_jailed\" title=\"Russian serial killer Irina Gaidamachuk jailed\">Russian serial <span class=\"searchmatch\">killer</span> Irina Gaidamachuk jailed</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Fifth_person_killed_by_serial_killer_in_Mumbai\" title=\"Fifth person killed by serial killer in Mumbai\">Fifth person killed by serial <span class=\"searchmatch\">killer</span> in Mumbai</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/German_internet_watchdog_to_remove_URLs_to_%27Virgin_Killer%27_from_search_engines\" title=\"German internet watchdog to remove URLs to &#39;Virgin Killer&#39; from search engines\">German internet watchdog to remove URLs to &#39;Virgin <span class=\"searchmatch\">Killer</span>&#39; from search engines</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Connecticut_Serial_Killer_Competent-_Waives_Further_Appeals\" title=\"Connecticut Serial Killer Competent- Waives Further Appeals\">Connecticut Serial <span class=\"searchmatch\">Killer</span> Competent- Waives Further Appeals</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Suspected_serial_killer_appears_in_British_court\" title=\"Suspected serial killer appears in British court\">Suspected serial <span class=\"searchmatch\">killer</span> appears in British court</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_serial_killer_jailed_for_three_prostitute_murders\" title=\"British serial killer jailed for three prostitute murders\">British serial <span class=\"searchmatch\">killer</span> jailed for three prostitute murders</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/France_fears_serial_killer_responsible_for_recent_murders\" title=\"France fears serial killer responsible for recent murders\">France fears serial <span class=\"searchmatch\">killer</span> responsible for recent murders</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/South_African_serial_killer_guilty_of_nineteen_rapes,_sixteen_murders\" title=\"South African serial killer guilty of nineteen rapes, sixteen murders\">South African serial <span class=\"searchmatch\">killer</span> guilty of nineteen rapes, sixteen murders</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Killer_virus_sent_worldwide\" title=\"Killer virus sent worldwide\"><span class=\"searchmatch\">Killer</span> virus sent worldwide</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Professional_wrestler_Walter_%22Killer%22_Kowalski_dies_at_age_81\" title=\"Professional wrestler Walter &quot;Killer&quot; Kowalski dies at age 81\">Professional wrestler Walter &quot;<span class=\"searchmatch\">Killer</span>&quot; Kowalski dies at age 81</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Alleged_Anthrax_killer_Bruce_Ivins_reportedly_made_edits_to_Wikipedia\" title=\"Alleged Anthrax killer Bruce Ivins reportedly made edits to Wikipedia\">Alleged Anthrax <span class=\"searchmatch\">killer</span> Bruce Ivins reportedly made edits to Wikipedia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_police_announce_arrest_of_suspected_serial_killer\" title=\"UK police announce arrest of suspected serial killer\">UK police announce arrest of suspected serial <span class=\"searchmatch\">killer</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._federal_marshals_seize_killer_beds\" title=\"U.S. federal marshals seize killer beds\">U.S. federal marshals seize <span class=\"searchmatch\">killer</span> beds</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Report:_British_serial_killer_murdered_250\" title=\"Report: British serial killer murdered 250\">Report: British serial <span class=\"searchmatch\">killer</span> murdered 250</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Manson_Family_killer_Susan_Atkins_dies_in_prison\" title=\"Manson Family killer Susan Atkins dies in prison\">Manson Family <span class=\"searchmatch\">killer</span> Susan Atkins dies in prison</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bosnian_football_fan%27s_suspected_killer_escapes_police_custody\" title=\"Bosnian football fan&#39;s suspected killer escapes police custody\">Bosnian football fan&#39;s suspected <span class=\"searchmatch\">killer</span> escapes police custody</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_The_Shadow_stories#Pulp_Magazine_novels"
+   ],
+   "created" : 1373465538,
+   "book" : [],
+   "micro-www" : {
+      "killer" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : ":For \"Killers\" or \"The Killers\" see [[Killers (disambiguation)]]\n\nA 'killer' is someone or something that kills, such as a murderer. \"Killer\"\nis also a slang term, an adjective denoting something of excellence or a\nhigh standard\n\n'Killer' may also refer to:\n",
+      "title" : "killer",
+      "headings" : [
+         "Recreation",
+         "Films and television",
+         "Books, stories and plays",
+         "Music",
+         "Nicknames",
+         "Other",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Murderer",
+      "1: Tien_len",
+      "1: Darts#Playing_darts",
+      "1: Killer_sudoku",
+      "1: Shaw_Brothers_Studio",
+      "1: Anthony_LaPaglia",
+      "1: Michael_Learned",
+      "1: List_of_The_Shadow_stories#Pulp_Magazine_novels",
+      "1: Lishan_Perera",
+      "1: Short_fiction_by_Stephen_King#1994",
+      "1: Danilo_Di_Luca",
+      "1: Doug_Gilmour",
+      "1: Harmon_Killebrew",
+      "1: Jerry_Lee_Lewis",
+      "1: Katlego_Mphela",
+      "1: Light_Yagami",
+      "1: Daniel_Killer",
+      "1: Killer,_Germany",
+      "1: Killer_NIC",
+      "1: Killer_application",
+      "1: TNFRSF10B",
+      "1: Killa"
+   ]
+}

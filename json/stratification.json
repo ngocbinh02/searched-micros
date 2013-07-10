@@ -1,0 +1,51 @@
+{
+   "micrownet" : [
+      "social_stratification",
+      "stratification"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Social_stratification\">Social stratification</a>, the dividing of a society into levels based on power or socioeconomic status",
+      "Stratification",
+      "http://www.merriam-webster.com/dictionary/stratification",
+      "\n<a href=\"http://duckduckgo.com/Stratification_(botany)\">Stratification (botany)</a>, where seeds are treated to simulate winter conditions so that germination may occur",
+      "stratification definition: the act or process of stratifying.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373470933,
+   "book" : [],
+   "micro-www" : {
+      "stratification" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "<!-- Note: Read this and follow it. A DAB is a simple list of articles that\nshare the same name, not an article for you to share your thoughts. The intro\nline does not contain prose unless there is a , which there isn't here. All\nentries must be for articles whose subject are referred to by the name\nStratification. If their article doesn't list that as an alternate name put it\nin See also --> 'Stratification' may refer to:\n\nIn 'science':\n* Stratification (mathematics), any consistent assignment of numbers to\n  predicate symbols\n* Fuel charge stratification, an internal combustion process using gasoline\n  direct injection\n\nIn 'earth sciences':\n* Stratification, or stratum, the layering of rocks\n* Stratification (archeology), the formation of layers (strata) in which\n  objects are found\n* Stratification (water), the formation of water layers based on salinity and\n  temperature\n* Atmospheric stratification, the dividing of the Earth's atmosphere into strata\n* Lake stratification, the dividing of lake water\n\nIn 'social sciences':\n* Social stratification, the dividing of a society into levels based on power or\n  socioeconomic status\n\nIn 'biology':\n* Stratification (botany), where seeds are treated to simulate winter conditions\n  so that germination may occur\n* Population stratification, the stratification of a genetic population based on\n  allele frequencies\n",
+      "title" : "stratification",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Fuel_charge_stratification",
+      "1: Gasoline_direct_injection",
+      "1: Stratum",
+      "1: Atmospheric_stratification",
+      "1: Lake_stratification",
+      "1: Social_stratification",
+      "1: Population_stratification",
+      "1: Destratification",
+      "1: Fuel_stratified_injection",
+      "1: Stratified_epithelial_lining",
+      "1: Stratified_sampling",
+      "1: Stratigraphy"
+   ]
+}

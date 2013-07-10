@@ -1,0 +1,59 @@
+{
+   "micrownet" : [
+      "subject_matter"
+   ],
+   "duck" : [
+      "HASH(0x4b6afb8)",
+      "HASH(0x4a44b98)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mayfield_Exposed!_highlights_artworks_of_Brampton_high_school_students\" title=\"Mayfield Exposed! highlights artworks of Brampton high school students\">Mayfield Exposed! highlights artworks of Brampton high school students</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Supreme_Court_rules_video_games_are_protected_speech\" title=\"US Supreme Court rules video games are protected speech\">US Supreme Court rules video games are protected speech</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Shared_history_textbook_written_by_scholars_from_Japan,_China,_South_Korea\" title=\"Shared history textbook written by scholars from Japan, China, South Korea\">Shared history textbook written by scholars from Japan, China, South Korea</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Supreme_Court_overturns_ban_on_videos_depicting_animal_cruelty\" title=\"US Supreme Court overturns ban on videos depicting animal cruelty\">US Supreme Court overturns ban on videos depicting animal cruelty</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%227th_Heaven%22_television_series_comes_to_an_end\" title=\"&quot;7th Heaven&quot; television series comes to an end\">&quot;7th Heaven&quot; television series comes to an end</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/French_structuralist_Claude_L%C3%A9vi-Strauss_dies_at_age_100\" title=\"French structuralist Claude Lévi-Strauss dies at age 100\">French structuralist Claude Lévi-Strauss dies at age 100</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Teenager_in_Florida,_United_States_skips_school,_goes_to_Iraq\" title=\"Teenager in Florida, United States skips school, goes to Iraq\">Teenager in Florida, United States skips school, goes to Iraq</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Iconic_London_mural_could_be_restored\" title=\"Iconic London mural could be restored\">Iconic London mural could be restored</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:April_21,_2010\" title=\"News briefs:April 21, 2010\">News briefs:April 21, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Teaching_Intelligent_Design:_Incumbent_Dover_PA_school_board_fails_reelection\" title=\"Teaching Intelligent Design: Incumbent Dover PA school board fails reelection\">Teaching Intelligent Design: Incumbent Dover PA school board fails reelection</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_newspaper_makes_House_of_Lords_bribery_claims\" title=\"British newspaper makes House of Lords bribery claims\">British newspaper makes House of Lords bribery claims</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_Big_Brother_cleared_of_breaching_content_laws\" title=\"Australian Big Brother cleared of breaching content laws\">Australian Big Brother cleared of breaching content laws</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Astronomers_find_changes_in_Saturn%27s_rings\" title=\"Astronomers find changes in Saturn&#39;s rings\">Astronomers find changes in Saturn&#39;s rings</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/CIA_gives_up_search_and_interrogation_on_Iraq_WMDs\" title=\"CIA gives up search and interrogation on Iraq WMDs\">CIA gives up search and interrogation on Iraq WMDs</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/ACLU,_EFF_challenging_US_%27secret%27_court_orders_seeking_Twitter_data\" title=\"ACLU, EFF challenging US &#39;secret&#39; court orders seeking Twitter data\">ACLU, EFF challenging US &#39;secret&#39; court orders seeking Twitter data</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/KLM_flight_to_Mexico_sent_back_by_U.S._Homeland_Security,_inquiry_follows\" title=\"KLM flight to Mexico sent back by U.S. Homeland Security, inquiry follows\">KLM flight to Mexico sent back by U.S. Homeland Security, inquiry follows</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Vaccine_targets_obesity_in_rats\" title=\"Vaccine targets obesity in rats\">Vaccine targets obesity in rats</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Thai_police_to_wear_%27Hello_Kitty%27_armbands_as_punishment\" title=\"Thai police to wear &#39;Hello Kitty&#39; armbands as punishment\">Thai police to wear &#39;Hello Kitty&#39; armbands as punishment</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Creator_of_website_satirizing_Glenn_Beck_on_winning_domain_name_case\" title=\"Creator of website satirizing Glenn Beck on winning domain name case\">Creator of website satirizing Glenn Beck on winning domain name case</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Glenn_Beck_loses_domain_name_case_over_parody_website\" title=\"Glenn Beck loses domain name case over parody website\">Glenn Beck loses domain name case over parody website</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373466104,
+   "book" : [],
+   "micro-www" : {
+      "subject_matter" : [
+         "Subject_matter",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Subject matter', in general, is anything which can be content for some theory.\n\n'Subject matter' may refer to:\n\n* Patentable subject matter (or statutory subject matter), defining whether\n  patent protection is available\n* Subject-matter jurisdiction, determining the kinds of claims or disputes over\n  which a court has jurisdiction\n* Subject-matter expert, an expert in a particular area\n* Subject matter expert Turing test, a variation of the Turing test where a\n  computer system attempts to replicate an expert in a given field\n",
+      "title" : "subject matter",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Theory",
+      "1: Patentable_subject_matter",
+      "1: Subject-matter_jurisdiction",
+      "1: Subject-matter_expert",
+      "1: Subject_matter_expert_Turing_test"
+   ]
+}

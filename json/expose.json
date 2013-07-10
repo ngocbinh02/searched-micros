@@ -1,0 +1,77 @@
+{
+   "micrownet" : [
+      "expose",
+      "exposed"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Expose",
+      "HASH(0x4b88c68)",
+      "Wikipedia",
+      "Expose",
+      "http://www.merriam-webster.com/dictionary/expose",
+      "expose definition: to deprive of shelter, protection, or care.",
+      "Merriam-Webster",
+      "HASH(0x4af5df0)",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Fox_News_security_hole_exposes_1.5_million_users%27_personal_information\" title=\"Fox News security hole exposes 1.5 million users&#39; personal information\">Fox News security hole <span class=\"searchmatch\">exposes</span> 1.5 million users&#39; personal information</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tsunami_exposes_ancient_ruins_in_India\" title=\"Tsunami exposes ancient ruins in India\">Tsunami <span class=\"searchmatch\">exposes</span> ancient ruins in India</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Internal_emails_expose_Boeing-Air_Force_contract_discussions\" title=\"Internal emails expose Boeing-Air Force contract discussions\">Internal emails <span class=\"searchmatch\">expose</span> Boeing-Air Force contract discussions</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/A_false_quake_warning_in_Japan_exposes_problems_for_practical_use\" title=\"A false quake warning in Japan exposes problems for practical use\">A false quake warning in Japan <span class=\"searchmatch\">exposes</span> problems for practical use</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Witnesses_expose_big_corruption_scheme_of_the_Brazilian_ruling_party\" title=\"Witnesses expose big corruption scheme of the Brazilian ruling party\">Witnesses <span class=\"searchmatch\">expose</span> big corruption scheme of the Brazilian ruling party</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/George_Galloway_exposes_News_of_the_World_%27fake_sheikh%27\" title=\"George Galloway exposes News of the World &#39;fake sheikh&#39;\">George Galloway <span class=\"searchmatch\">exposes</span> News of the World &#39;fake sheikh&#39;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Documentary_suggests_nuns_were_excommunicated_for_exposing_paedophilic_priest\" title=\"Documentary suggests nuns were excommunicated for exposing paedophilic priest\">Documentary suggests nuns were excommunicated for exposing paedophilic priest</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/FBI_agent_arrested,_charged_with_exposing_himself_in_public\" title=\"FBI agent arrested, charged with exposing himself in public\">FBI agent arrested, charged with exposing himself in public</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Internet_group_Anonymous_hacks_No_Cussing_Club%27s_website,_owner%27s_e-mail_account\" title=\"Internet group Anonymous hacks No Cussing Club&#39;s website, owner&#39;s e-mail account\">Internet group Anonymous hacks No Cussing Club&#39;s website, owner&#39;s e-mail account</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Internet_group_%27Anonymous%27_hacks_%27nocussing.com%27_website;_exposes_possible_fraud\" title=\"&#39;Internet group &#39;Anonymous&#39; hacks &#39;nocussing.com&#39; website; exposes possible fraud\">&#39;Internet group &#39;Anonymous&#39; hacks &#39;nocussing.com&#39; website; <span class=\"searchmatch\">exposes</span> </a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2007_Taipei_IT_Month_exposed_problems_on_traffic_jams\" title=\"2007 Taipei IT Month exposed problems on traffic jams\">2007 Taipei IT Month exposed problems on traffic jams</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hiroshima_citizens_aid_radiation_exposed_people_in_Kazakhstan\" title=\"Hiroshima citizens aid radiation exposed people in Kazakhstan\">Hiroshima citizens aid radiation exposed people in Kazakhstan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_emergency_services_personnel_exposed_to_asbestos\" title=\"Australian emergency services personnel exposed to asbestos\">Australian emergency services personnel exposed to asbestos</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mayfield_Exposed!_highlights_artworks_of_Brampton_high_school_students\" title=\"Mayfield Exposed! highlights artworks of Brampton high school students\">Mayfield Exposed! highlights artworks of Brampton high school students</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Student_arrested_over_%22art%22_shirt_with_exposed_wiring_at_Boston_Airport\" title=\"Student arrested over &quot;art&quot; shirt with exposed wiring at Boston Airport\">Student arrested over &quot;art&quot; shirt with exposed wiring at Boston Airport</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Defense_systems_of_Air_Force_One_exposed_on_the_Internet\" title=\"Defense systems of Air Force One exposed on the Internet\">Defense systems of Air Force One exposed on the Internet</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Albanian_girl_murdered_in_tangle_of_crime\" title=\"Albanian girl murdered in tangle of crime\">Albanian girl murdered in tangle of crime</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Professional_athletes_in_US_linked_to_online_steroid_ring\" title=\"Professional athletes in US linked to online steroid ring\">Professional athletes in US linked to online steroid ring</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Women_reveal_accounts_of_forced_abortion_in_Scientology\" title=\"Women reveal accounts of forced abortion in Scientology\">Women reveal accounts of forced abortion in Scientology</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/FBI_document_reviews_symbols_used_by_pedophiles\" title=\"FBI document reviews symbols used by pedophiles\">FBI document reviews symbols used by pedophiles</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/FBI_document_exposes_symbols_used_by_pedophiles\" title=\"FBI document exposes symbols used by pedophiles\">FBI document <span class=\"searchmatch\">exposes</span> symbols used by pedophiles</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/40_million_credit_cards_compromised\" title=\"40 million credit cards compromised\">40 million credit cards compromised</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464781,
+   "book" : [],
+   "micro-www" : {
+      "expose" : [
+         "exposed",
+         "expose",
+         "Exposed_(Vince_Neil_album)",
+         "Exposed_(Mike_Oldfield_album)",
+         "Exposed_(Kristinia_DeBarge_album)",
+         "Exposed_(CoCo_Lee_album)",
+         "Exposed_(Boom_Boom_Satellites_album)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Expose', 'exposé', or 'exposed' may refer to:\n",
+      "title" : "expose",
+      "headings" : [
+         "Journalism",
+         "Technology",
+         "Music",
+         "Film and television",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: EXPOSE"
+   ]
+}

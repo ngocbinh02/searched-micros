@@ -1,0 +1,64 @@
+{
+   "micrownet" : [
+      "pcp"
+   ],
+   "duck" : [
+      "PCP",
+      "http://www.merriam-webster.com/dictionary/pcp",
+      "pcp definition: phencyclidine.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Former_Irish_politician_Liam_Lawlor_dies_in_car_crash\" title=\"Former Irish politician Liam Lawlor dies in car crash\">Former Irish politician Liam Lawlor dies in car crash</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373474310,
+   "book" : [],
+   "micro-www" : {
+      "pcp" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'PCP' may refer to:\n\nIn 'business':\n* Previous corresponding period (Used when comparing sales over\n  corresponding periods)\n\nIn 'medicine' and 'pharmaceutics': *Phencyclidine, a recreational drug known by\na number of street names including PCP, angel dust, embalming fluid, and rocket\nfuel *Primary care physician, a doctor who acts as first point of consultation\nfor patients *Primary care paramedic *Pneumocystis pneumonia, a form of\npneumonia caused by the yeast-like fungus *Post-coital pill, a form of emergency\ncontraception *Pharmacy Council of Pakistan\n\nIn 'politics': *Paraguayan Communist Party *Partido Comunista del Peru, also\nknown as Shining Path *Personal Choice Party, Utah *Peruvian Communist Party\n*Portuguese Communist Party *Proletarian Catalan Party *Puerto Rican\nCommunist Party\n\nIn 'science': *Post correspondence problem, an important problem in\ncomputability theory *Parallel coordinate plot, a method for visualizing\nmultivariate data *PCP theorem, a theorem in computational complexity theory\n*Pentachlorophenol, an organochlorine compound used as a timber preservative\nherbicide, insecticide, fungicide and algaecide *Priority ceiling protocol, a\ncomputer science concept *Probabilistically checkable proof (complexity), a\nnotion in the theory of computational complexity *Put–call parity, in financial\nmathematics a relationship between the price of a call option and a put option\n*Lysosomal Pro-X carboxypeptidase, an enzyme\n\nIn 'technology':\n* Performance Co-Pilot, an open-source performance monitoring system\n* Pre-charged pneumatic, a type of air gun\n* Priority Code Point, a three-bit priority field within an Ethernet frame\n  header when using IEEE 802.1q tagged frames.\n* Puppet Certified Professional, someone who has passed the certification exam,\n  proving proficiency in using Puppet.\n\nIn 'Theoretical Computer Science':\n* Probabilistically checkable proof, a proof that can be checked by a randomized\n  algorithm using bounded randomness and bounded number of proof bits.\n\n'Miscellaneous': *\"Faster/P.C.P.\", a single by Manic Street Preachers, from\ntheir 1994 album The Holy Bible *Purple City Productions, a Harlem-based rap\ngroup *Personal contract purchase, a vehicle financing product *Principia\nCybernetica Project, an organization and website devoted to evolutionary-\ncybernetic philosophy *Perfect Crime Party, a fictional manga in [[Bakuman]]\n",
+      "title" : "PCP",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Phencyclidine",
+      "1: Primary_care_physician",
+      "1: Paramedics_in_Canada#Primary_Care_Paramedics",
+      "1: Pneumocystis_pneumonia",
+      "1: Post-coital_pill",
+      "1: Pharmacy_Council_of_Pakistan",
+      "1: Paraguayan_Communist_Party",
+      "1: Shining_Path",
+      "1: Personal_Choice_Party",
+      "1: Peruvian_Communist_Party",
+      "1: Portuguese_Communist_Party",
+      "1: Proletarian_Catalan_Party",
+      "1: Puerto_Rican_Communist_Party",
+      "1: Post_correspondence_problem",
+      "1: Parallel_coordinate_plot",
+      "1: PCP_theorem",
+      "1: Pentachlorophenol",
+      "1: Priority_ceiling_protocol",
+      "1: Putâcall_parity",
+      "1: Lysosomal_Pro-X_carboxypeptidase",
+      "1: Performance_Co-Pilot",
+      "1: Air_gun#Pre-charged_pneumatic_.28PCP.29",
+      "1: IEEE_P802.1p#Priority_levels",
+      "1: Probabilistically_checkable_proof",
+      "1: Faster/P.C.P.",
+      "1: Purple_City_Productions",
+      "1: Personal_contract_purchase",
+      "1: Principia_Cybernetica_Project"
+   ]
+}

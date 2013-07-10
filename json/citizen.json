@@ -1,0 +1,78 @@
+{
+   "micrownet" : [
+      "active_citizen",
+      "citizen",
+      "citizen_genet",
+      "citizenry",
+      "citizens_committee",
+      "citizenship",
+      "citizenship_day",
+      "private_citizen",
+      "senior_citizen"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Citizen_(disambiguation)",
+      "\n<a href=\"http://duckduckgo.com/Citizens_Financial_Group\">Citizens Financial Group</a>, an American bank headquartered in Providence, Rhode Island",
+      "HASH(0x49bf178)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Citizen_Holdings\">Citizen Holdings</a>, a maker of watches and other consumer electronic devices",
+      "Citizen",
+      "http://www.merriam-webster.com/dictionary/citizen",
+      "citizen definition: an inhabitant of a city or town; '''especially'''.",
+      "Merriam-Webster",
+      "HASH(0x47f1028)",
+      "\n<a href=\"http://duckduckgo.com/citizenship\">citizenship</a> - Citizenship is the state of being a citizen of a particular social, political, national, or human resource community.",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/OhmyNews_citizen_reporters_meet_in_Seoul,_Korea\" title=\"OhmyNews citizen reporters meet in Seoul, Korea\">OhmyNews <span class=\"searchmatch\">citizen</span> reporters meet in Seoul, Korea</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Syrian_citizen_journalists_risk_death,_targeted;_city_of_Homs_facing_starvation\" title=\"Syrian citizen journalists risk death, targeted; city of Homs facing starvation\">Syrian <span class=\"searchmatch\">citizen</span> journalists risk death, targeted; city of Homs facing starvation</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/SudhakarBabu/Citizen_journalism\" title=\"SudhakarBabu/Citizen journalism\">SudhakarBabu/<span class=\"searchmatch\">Citizen</span> journalism</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Citizen_%22podcasting%22_goes_mainstream\" title=\"Citizen &quot;podcasting&quot; goes mainstream\"><span class=\"searchmatch\">Citizen</span> &quot;podcasting&quot; goes mainstream</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Senior_citizen_group_seeks_recovery_of_Medicare_expenses_from_U.S._cigarette_makers\" title=\"Senior citizen group seeks recovery of Medicare expenses from U.S. cigarette makers\">Senior <span class=\"searchmatch\">citizen</span> group seeks recovery of Medicare expenses from U.S. cigarette makers</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/OhmyNews_forum_discusses_experiences_in_citizen_journalism\" title=\"OhmyNews forum discusses experiences in citizen journalism\">OhmyNews forum discusses experiences in <span class=\"searchmatch\">citizen</span> journalism</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2008_PeoPo_Citizen_Journalism_Forum_to_prospect_the_vision_of_citizen_journalism_in_Taiwan\" title=\"2008 PeoPo Citizen Journalism Forum to prospect the vision of citizen journalism in Taiwan\">2008 PeoPo <span class=\"searchmatch\">Citizen</span> Journalism Forum to prospect the vision of <span class=\"searchmatch\">citizen</span> journalism in Taiwan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/OhmyNews_forum_discusses_experiences_in_citizen_journalism/Brief\" title=\"OhmyNews forum discusses experiences in citizen journalism/Brief\">OhmyNews forum discusses experiences in <span class=\"searchmatch\">citizen</span> journalism/Brief</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/26_Australian_citizens_detained_in_immigration_centres\" title=\"26 Australian citizens detained in immigration centres\">26 Australian <span class=\"searchmatch\">citizens</span> detained in immigration centres</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/French_citizens_told_to_leave_Ivory_Coast_as_UN_warns_of_civil_war\" title=\"French citizens told to leave Ivory Coast as UN warns of civil war\">French <span class=\"searchmatch\">citizens</span> told to leave Ivory Coast as UN warns of civil war</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Citizens_protest_Buffalo,_N.Y._hotel_proposal\" title=\"Citizens protest Buffalo, N.Y. hotel proposal\"><span class=\"searchmatch\">Citizens</span> protest Buffalo, N.Y. hotel proposal</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.K._National_Portrait_Gallery_threatens_U.S._citizen_with_legal_action_over_Wikimedia_images\" title=\"U.K. National Portrait Gallery threatens U.S. citizen with legal action over Wikimedia images\">U.K. National Portrait Gallery threatens U.S. <span class=\"searchmatch\">citizen</span> with legal action over Wikimedia images</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Palestinian_Authority_bans_citizens_from_carrying_weapons\" title=\"Palestinian Authority bans citizens from carrying weapons\">Palestinian Authority bans <span class=\"searchmatch\">citizens</span> from carrying weapons</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/North_American_citizens_dealt_passport_requirement\" title=\"North American citizens dealt passport requirement\">North American <span class=\"searchmatch\">citizens</span> dealt passport requirement</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Afghan_employee_kills_U.S._citizen_at_Kabul_CIA_base\" title=\"Afghan employee kills U.S. citizen at Kabul CIA base\">Afghan employee kills U.S. <span class=\"searchmatch\">citizen</span> at Kabul CIA base</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Russian_citizen_jailed_for_sending_military_intelligence_to_US\" title=\"Russian citizen jailed for sending military intelligence to US\">Russian <span class=\"searchmatch\">citizen</span> jailed for sending military intelligence to US</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_citizens_in_24_states_vote_on_%27Super_Tuesday%27\" title=\"US citizens in 24 states vote on &#39;Super Tuesday&#39;\">US <span class=\"searchmatch\">citizens</span> in 24 states vote on &#39;Super Tuesday&#39;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hiroshima_citizens_aid_radiation_exposed_people_in_Kazakhstan\" title=\"Hiroshima citizens aid radiation exposed people in Kazakhstan\">Hiroshima <span class=\"searchmatch\">citizens</span> aid radiation exposed people in Kazakhstan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Greek_newspaper_reports_British_spy_involved_in_torturing_28_Pakistani_citizens\" title=\"Greek newspaper reports British spy involved in torturing 28 Pakistani citizens\">Greek newspaper reports British spy involved in torturing 28 Pakistani <span class=\"searchmatch\">citizens</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Malaysian_government_warns_citizens_about_Uncyclopedia\" title=\"Malaysian government warns citizens about Uncyclopedia\">Malaysian government warns <span class=\"searchmatch\">citizens</span> about Uncyclopedia</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373463815,
+   "book" : [],
+   "micro-www" : {
+      "citizen" : [
+         "citizenship",
+         "citizens",
+         "Citizenship_of_the_European_Union",
+         "Citizenship_in_the_United_States",
+         "Citizenship",
+         "Citizen",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "#REDIRECTCitizenship\n",
+      "title" : "citizen",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Citizenship"
+   ]
+}

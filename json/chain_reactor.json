@@ -1,0 +1,27 @@
+{
+   "micrownet" : [
+      "chain_reactor"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_nuclear_power_plants_rejected_by_states\" title=\"Australian nuclear power plants rejected by states\">Australian nuclear power plants rejected by states</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Renewed_concern_over_nuclear_response_following_atomic_bomb_anniversary\" title=\"Renewed concern over nuclear response following atomic bomb anniversary\">Renewed concern over nuclear response following atomic bomb anniversary</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:October_15,_2007\" title=\"News briefs:October 15, 2007\">News briefs:October 15, 2007</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:October_15,_2007#Report_says_Israeli_air_strike_targeted_Syrian_nuclear_reactor\" title=\"News briefs:October 15, 2007\">Report says Israeli air strike targeted Syrian nuclear <span class=\"searchmatch\">reactor</span></a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373469398,
+   "book" : [],
+   "micro-www" : {
+      "chain_reactor" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

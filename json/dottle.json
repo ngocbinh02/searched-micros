@@ -1,0 +1,61 @@
+{
+   "micrownet" : [
+      "dottle"
+   ],
+   "duck" : [
+      "Dottle is the wet and sour-smelling mass of unburned tobacco found at the bottom of a tobacco pipe.",
+      "https://en.wikipedia.org/wiki/Dottle",
+      "HASH(0x4a5b068)",
+      "Wikipedia",
+      "Dottle",
+      "\n<a href=\"http://duckduckgo.com/c/Tobacco\">Tobacco</a>",
+      "http://www.merriam-webster.com/dictionary/dottle",
+      "dottle definition: unburned and partially burned tobacco in the bowl of a pipe.",
+      "Merriam-Webster",
+      "https://i.duckduckgo.com/i/e10ea665.jpg",
+      "\n<a href=\"http://duckduckgo.com/c/Pipe_smoking\">Pipe smoking</a>",
+      "HASH(0x47d5d68)",
+      "Dottle is the wet and sour-smelling mass of unburned tobacco found at the bottom of a tobacco pipe.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465825,
+   "book" : [],
+   "micro-www" : {
+      "dottle" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Pipe smoking",
+         "Tobacco"
+      ],
+      "text" : "\n\n\n'Dottle' is the wet and sour-smelling mass of unburned tobacco found at the\nbottom of a tobacco pipe.\n",
+      "title" : "dottle",
+      "headings" : [
+         "Etymology",
+         "Production",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Sherlock_Holmes",
+      "1: Tobacco",
+      "1: Propylene_glycol",
+      "1: Pipe_cleaner",
+      "1: Saliva",
+      "1: Arthur_Conan_Doyle",
+      "1: Dr._Watson",
+      "1: Pipe_tool",
+      "1: Pipe_sweetening",
+      "1: Peterson_Pipes"
+   ]
+}

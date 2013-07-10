@@ -1,0 +1,70 @@
+{
+   "micrownet" : [
+      "bicuspid",
+      "bicuspid_valve",
+      "bicuspidate"
+   ],
+   "duck" : [
+      "bicuspid definition: having or ending in two points.",
+      "http://merriam-webster.com/dictionary/bicuspid",
+      "HASH(0x4a201f8)",
+      "Merriam-Webster",
+      "bicuspid",
+      "http://www.merriam-webster.com/dictionary/bicuspid",
+      "bicuspid definition: having or ending in two points.",
+      "Merriam-Webster",
+      "HASH(0x4a20918)",
+      "bicuspid definition: having or ending in two points.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/BDSM_as_business:_Interviews_with_Dominatrixes\" title=\"BDSM as business: Interviews with Dominatrixes\">BDSM as business: Interviews with Dominatrixes</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465219,
+   "book" : [],
+   "micro-www" : {
+      "bicuspid" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Types of teeth"
+      ],
+      "text" : "{{Infobox Anatomy | Name = Premolar | Latin = dentes premolares | GraySubject =\n242 | GrayPage = 1118 | Image = Gray1003.png | Caption = The permanent teeth,\nviewed from the right. | Image2 = Gray997.png | Caption2 = Permanent teeth of\nright half of lower dental arch, seen from above. | Precursor = | System = |\nArtery = | Vein = | Nerve = | Lymph = | MeshName = Premolar | MeshNumber =\nA14.549.167.860.150 | DorlandsPre = t_13 | DorlandsSuf = 12813062 | }} The\n'premolar' teeth are transitional teeth located between the canine and molar\nteeth. In humans, there are two premolars per quadrant, making eight premolars\ntotal in the mouth.<ref name=\"GraysAnatomy35thBritish\"/><ref name=\"\nWeiss&Mann1985\"/><ref name=\"MosbysDictionary3rded\"/> They have at least two\ncusps. Premolars can be considered as a 'transitional tooth' during chewing, or\nmastication. It has properties of both the anterior canines and posterior\nmolars, and so food can be transferred from the canines to the premolars and\nfinally to the molars for grinding, instead of directly from the canines to the\nmolars.<ref name=\" Weiss&Mann1985pp132-134\"/>\n\nThe premolars in humans are the maxillary first premolar, maxillary second\npremolar, mandibular first premolar, and the mandibular second premolar.<ref\nname=\"GraysAnatomy35thBritish\"/><ref name=\"MosbysDictionary3rded\"/>\n\nThere is always one large buccal cusp, especially so in the mandibular first\npremolar. The lower second premolar almost always presents with two lingual\ncusps.<ref name=\"GraysAnatomy35thBritishp1219\"/>\n\nMolar teeth by definition are permanent teeth distal to the canines, preceded by\ndeciduous premolars.<ref name=\"GraysAnatomy35thBritishpp1218-1219\"/> In\nprimitive placental mammals there are four premolars per quadrant. The most\nmesial two have been lost in Catarrhines (Old World monkeys and apes, including\nhumans). Paleontologists refer to human premolars as Pm3 and Pm4.<ref\nname=\"encylopediahumanevolution\"/>\n",
+      "title" : "Premolar",
+      "headings" : [
+         "Additional images",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "3: Canine_tooth",
+      "1: Circular_sector",
+      "1: Mastication",
+      "1: Anterior",
+      "1: Maxillary_first_premolar",
+      "1: Maxillary_second_premolar",
+      "1: Mandibular_first_premolar",
+      "1: Mandibular_second_premolar",
+      "1: Cheek",
+      "1: Tongue",
+      "1: Anatomical_terms_of_location#Proximal_and_distal",
+      "1: Deciduous_teeth",
+      "1: Eutheria",
+      "1: Mesial",
+      "1: Catarrhines",
+      "1: Cercopithecoidea",
+      "1: Hominoidea",
+      "1: Paleontologists",
+      "1: Incisor"
+   ]
+}

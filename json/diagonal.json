@@ -1,0 +1,109 @@
+{
+   "micrownet" : [
+      "diagonal",
+      "diagonal_matrix",
+      "diagonalisation",
+      "diagonalise",
+      "diagonalizable",
+      "diagonalization",
+      "diagonalize",
+      "main_diagonal",
+      "principal_diagonal",
+      "secondary_diagonal"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Diagonal",
+      "Wikipedia",
+      "Diagonal",
+      "http://www.merriam-webster.com/dictionary/diagonal",
+      "diagonal definition: joining two vertices of a rectilinear figure that are nonadjacent or two vertices of a polyhedral figure that are not in the same face.",
+      "\n<a href=\"http://duckduckgo.com/Diagonal_functor\">Diagonal functor</a>",
+      "\n<a href=\"http://duckduckgo.com/c/Elementary_geometry\">Elementary geometry</a>",
+      "A diagonal is a line joining two nonconsecutive vertices of a polygon or polyhedron.",
+      "\n<a href=\"http://duckduckgo.com/Jordan_normal_form\">Jordan normal form</a> - In linear algebra, a Jordan normal form of a linear operator on a finite-dimensional vector space is an upper triangular matrix of a particular form called a Jordan matrix, representing the oper...",
+      "HASH(0x4b25be0)",
+      "\n<a href=\"http://duckduckgo.com/Avinguda_Diagonal\">Avinguda Diagonal</a> - Avinguda Diagonal is the name of one of Barcelona's broadest and most important avenues.",
+      "https://i.duckduckgo.com/i/8baa981f.png",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Main_diagonal\">Main diagonal</a>",
+      "HASH(0x4b23018)",
+      "A",
+      "A diagonal is a line joining two nonconsecutive vertices of a polygon or polyhedron."
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canada,_U.S._to_tighten_security_between_%27cross-border%27_library\" title=\"Canada, U.S. to tighten security between &#39;cross-border&#39; library\">Canada, U.S. to tighten security between &#39;cross-border&#39; library</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Queen_Elizabeth_II_unveils_New_Zealand_Memorial_in_London\" title=\"Queen Elizabeth II unveils New Zealand Memorial in London\">Queen Elizabeth II unveils New Zealand Memorial in London</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:July_15,_2010\" title=\"News briefs:July 15, 2010\">News briefs:July 15, 2010</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464788,
+   "book" : [],
+   "micro-www" : {
+      "diagonal" : [
+         "diagonal",
+         "Diagonal",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Elementary geometry"
+      ],
+      "text" : "\n\n with side length 1. AC' (shown in blue) is a space diagonal with length\n <math>\\sqrt 3</math>, while AC (shown in red) is a face diagonal and has\n length <math>\\sqrt 2</math>.]] A 'diagonal' is a line joining two\n nonconsecutive vertices of a polygon or polyhedron. Informally, any sloping\n line is called diagonal. The word \"diagonal\" derives from the ancient Greek\n διαγώνιος diagonios,<ref>[http://www.etymonline.com/index.php?search=diagona-\n l&searchmode=none Online Etymology Dictionary]</ref> \"from angle to angle\"\n (from διά- dia-, \"through\", \"across\" and γωνία gonia, \"angle\", related to\n gony \"knee\"); it was used by both Strabo<ref>Strabo, Geography\n 2.1.36–37</ref> and Euclid<ref>Euclid, Elements book 11, proposition 28</ref>\n to refer to a line connecting two vertices of a rhombus or\n cuboid,<ref>Euclid, Elements book 11, proposition 38</ref> and later adopted\n into Latin as diagonus (\"slanting line\").\n\nIn mathematics, in addition to its geometric meaning, a diagonal is also used in\nmatrices to refer to a set of entries along a diagonal line.\n",
+      "title" : "diagonal",
+      "headings" : [
+         "Non-mathematical uses",
+         "Polygons",
+         "Matrices",
+         "Geometry",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Polygon",
+      "2: Convex_polygon",
+      "2: MathWorld",
+      "1: Space_diagonal",
+      "1: Face_diagonal",
+      "1: Polyhedron",
+      "1: Ancient_Greek",
+      "1: Rhombus",
+      "1: Cuboid",
+      "1: Mathematics",
+      "1: Engineering",
+      "1: Scaffolding",
+      "1: Diagonal_pliers",
+      "1: Diagonal_lashing",
+      "1: Association_football",
+      "1: Harry_Potter_and_the_Prisoner_of_Azkaban",
+      "1: Line_segment",
+      "1: Quadrilateral",
+      "1: Re-entrant_polygon",
+      "1: Concave_polygon",
+      "1: Square_matrix",
+      "1: Identity_matrix",
+      "1: Subset",
+      "1: Cartesian_product",
+      "1: Graph_of_a_relation",
+      "1: Graph_of_a_function",
+      "1: Identity_function",
+      "1: Equivalence_class",
+      "1: Euler_characteristic",
+      "1: Vector_field",
+      "1: Circle",
+      "1: Betti_number",
+      "1: Torus",
+      "1: Lefschetz_fixed_point_theorem",
+      "1: Jordan_normal_form",
+      "1: Main_diagonal",
+      "1: Diagonal_functor"
+   ]
+}

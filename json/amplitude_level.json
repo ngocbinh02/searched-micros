@@ -1,0 +1,27 @@
+{
+   "micrownet" : [
+      "amplitude_level"
+   ],
+   "duck" : [
+      "HASH(0x4aed8c0)",
+      "HASH(0x4b74e90)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Strong_earthquake_near_Solomon_Islands,_tsunami_reported\" title=\"Strong earthquake near Solomon Islands, tsunami reported\">Strong earthquake near Solomon Islands, tsunami reported</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373463552,
+   "book" : [],
+   "micro-www" : {
+      "amplitude_level" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

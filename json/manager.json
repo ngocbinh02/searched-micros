@@ -1,0 +1,92 @@
+{
+   "micrownet" : [
+      "bank_manager",
+      "baseball_manager",
+      "city_manager",
+      "district_manager",
+      "general_manager",
+      "hotel_manager",
+      "manager",
+      "manageress",
+      "managerial",
+      "managership",
+      "stage_manager"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Manager_Daily\">Manager Daily</a>, a Thai newspaper",
+      "Manager",
+      "http://www.merriam-webster.com/dictionary/manager",
+      "manager definition: one that manages.",
+      "\n<a href=\"http://duckduckgo.com/Manager_(Gaelic_games)\">Manager (Gaelic games)</a>, a coach of a Gaelic games team, most notably in Gaelic football and hurling",
+      "\n<a href=\"http://duckduckgo.com/Manage%2C_Belgium\">Manage, Belgium</a>, a Walloon municipality in Hainaut, Belgium",
+      "\n<a href=\"http://duckduckgo.com/Manager_(professional_wrestling)\">Manager (professional wrestling)</a>, a fictional character",
+      "\n<a href=\"http://duckduckgo.com/Project_manager\">Project manager</a>, for individual projects",
+      "\n<a href=\"http://duckduckgo.com/Management\">Management</a> - Management in all business and organizational activities is the act of getting people together to accomplish desired goals and objectives using available resources efficiently and effectively.",
+      "\n<a href=\"http://duckduckgo.com/Talent_manager\">Talent manager</a>, for entertainers",
+      "\n<a href=\"http://duckduckgo.com/Manager_(association_football)\">Manager (association football)</a>, for association football",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/General_manager\">General manager</a>, for managing both the revenue and cost elements of an organization",
+      "\n<a href=\"http://duckduckgo.com/Coach_(sport)\">Coach (sport)</a>, in other sports",
+      "\n<a href=\"http://duckduckgo.com/Manager_(baseball)\">Manager (baseball)</a>, head coach of a professional baseball team",
+      "\n<a href=\"http://duckduckgo.com/Manager_(Mac_OS)\">Manager (Mac OS)</a>, a component of the Mac OS operating system"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Apple_manager_charged_with_taking_over_US$1_million_in_kickbacks_from_suppliers\" title=\"Apple manager charged with taking over US$1 million in kickbacks from suppliers\">Apple <span class=\"searchmatch\">manager</span> charged with taking over US$1 million in kickbacks from suppliers</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scottish_football_team_Hibernian_appoint_new_manager\" title=\"Scottish football team Hibernian appoint new manager\">Scottish football team Hibernian appoint new <span class=\"searchmatch\">manager</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Boyzone_manager_Louis_Walsh_pays_tribute_to_Stephen_Gately\" title=\"Boyzone manager Louis Walsh pays tribute to Stephen Gately\">Boyzone <span class=\"searchmatch\">manager</span> Louis Walsh pays tribute to Stephen Gately</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chris_Hughton_appointed_permanent_manager_of_Newcastle_United\" title=\"Chris Hughton appointed permanent manager of Newcastle United\">Chris Hughton appointed permanent <span class=\"searchmatch\">manager</span> of Newcastle United</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Transgender_woman_hired_as_city_manager_for_Lake_Worth,_Florida\" title=\"Transgender woman hired as city manager for Lake Worth, Florida\">Transgender woman hired as city <span class=\"searchmatch\">manager</span> for Lake Worth, Florida</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sydney_FC_sack_manager_Branko_Culina\" title=\"Sydney FC sack manager Branko Culina\">Sydney FC sack <span class=\"searchmatch\">manager</span> Branko Culina</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Teen_sex_conviction_in_Australia_for_Mi-Sex_manager\" title=\"Teen sex conviction in Australia for Mi-Sex manager\">Teen sex conviction in Australia for Mi-Sex <span class=\"searchmatch\">manager</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Professional_wrestling_manager_Oliver_Humperdink_dies_aged_62\" title=\"Professional wrestling manager Oliver Humperdink dies aged 62\">Professional wrestling <span class=\"searchmatch\">manager</span> Oliver Humperdink dies aged 62</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Gary_Megson_sacked_as_manager_of_Bolton_Wanderers_F.C\" title=\"Gary Megson sacked as manager of Bolton Wanderers F.C\">Gary Megson sacked as <span class=\"searchmatch\">manager</span> of Bolton Wanderers F.C</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/BBC_announces_pay_freeze_and_no_bonuses_for_managers\" title=\"BBC announces pay freeze and no bonuses for managers\">BBC announces pay freeze and no bonuses for <span class=\"searchmatch\">managers</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_resort_manager_faces_possible_10-year_prison_sentence_in_Indonesia\" title=\"Australian resort manager faces possible 10-year prison sentence in Indonesia\">Australian resort <span class=\"searchmatch\">manager</span> faces possible 10-year prison sentence in Indonesia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Manager_Benitez_parts_company_with_Liverpool_Football_Club\" title=\"Manager Benitez parts company with Liverpool Football Club\"><span class=\"searchmatch\">Manager</span> Benitez parts company with Liverpool Football Club</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/WWE_Hall_of_Fame_manager_Captain_Lou_Albano_dies_at_76\" title=\"WWE Hall of Fame manager Captain Lou Albano dies at 76\">WWE Hall of Fame <span class=\"searchmatch\">manager</span> Captain Lou Albano dies at 76</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sparky_Anderson,_former_baseball_manager_for_Detroit_Tigers,_Cincinnati_Reds,_dead_at_76\" title=\"Sparky Anderson, former baseball manager for Detroit Tigers, Cincinnati Reds, dead at 76\">Sparky Anderson, former baseball <span class=\"searchmatch\">manager</span> for Detroit Tigers, Cincinnati Reds, dead at 76</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/San_Jose,_CA,_USA,_city_manager_resigns_amid_Norcal_investigation\" title=\"San Jose, CA, USA, city manager resigns amid Norcal investigation\">San Jose, CA, USA, city <span class=\"searchmatch\">manager</span> resigns amid Norcal investigation</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/English_Football_Association_sacks_national_team_manager_Steve_McClaren\" title=\"English Football Association sacks national team manager Steve McClaren\">English Football Association sacks national team <span class=\"searchmatch\">manager</span> Steve McClaren</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/England_remembers_Bobby_Robson\" title=\"England remembers Bobby Robson\">England remembers Bobby Robson</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Former_England_football_manager_Bobby_Robson_dies_of_cancer\" title=\"Former England football manager Bobby Robson dies of cancer\">Former England football <span class=\"searchmatch\">manager</span> Bobby Robson dies of cancer</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Campaign_manager:_100_percent_chance_Buddy_Roemer_will_run_for_Americans_Elect_presidential_nomination\" title=\"Campaign manager: 100 percent chance Buddy Roemer will run for Americans Elect presidential nomination\">Campaign <span class=\"searchmatch\">manager</span>: 100 percent chance Buddy Roemer will run for Americans Elect presidential nomination</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/MLB:_Houston_Astros_fire_manager_Phil_Garner_and_GM_Tim_Purpura\" title=\"MLB: Houston Astros fire manager Phil Garner and GM Tim Purpura\">MLB: Houston Astros fire <span class=\"searchmatch\">manager</span> Phil Garner and GM Tim Purpura</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Zealand_bank_manager_robbed_own_bank\" title=\"New Zealand bank manager robbed own bank\">New Zealand bank <span class=\"searchmatch\">manager</span> robbed own bank</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373468312,
+   "book" : [],
+   "micro-www" : {
+      "manager" : [
+         "managers",
+         "Manager_(professional_wrestling)",
+         "Manager_(baseball)",
+         "Manager_(association_football)",
+         "Manager_(Mac_OS)",
+         "Manager_(Gaelic_games)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Manager' or 'Manage' may refer to:\n* Management ** Manager (baseball), head coach of a professional baseball team\n  ** Manager (association football), for association football ** Coach (sport),\n  in other sports ** Manager (professional wrestling), a fictional character **\n  Talent manager, for entertainers\n* Manage, Belgium, a Walloon municipality in Hainaut, Belgium\n* Manager (Gaelic games), a coach of a Gaelic games team, most notably in Gaelic\n  football and hurling\n* Manager (Mac OS), a component of the Mac OS operating system\n* [[Manager Daily]], a Thai newspaper\n",
+      "title" : "manager",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Management",
+      "1: Talent_manager",
+      "1: Manage,_Belgium",
+      "1: General_manager",
+      "1: Project_manager",
+      "1: Managing_director"
+   ]
+}

@@ -1,0 +1,54 @@
+{
+   "micrownet" : [
+      "cistron"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/quantitative_trait_locus\">Polygenetic phenotypes</a> - Quantitative traits refer to phenotypes that vary in degree and can be attributed to polygenic effects, i.e.,  product of two or more genes, and their environment.",
+      "Cistron",
+      "http://www.merriam-webster.com/dictionary/cistron",
+      "cistron definition: a segment of DNA that is equivalent to a gene and that specifies a single functional unit (as a protein or enzyme).",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Polygene\">Polygenetics</a> - A polygene, multiple factor, multiple gene inheritance, or quantitative gene is a group of non-allelic genes that together influence a phenotypic trait.",
+      "\n<a href=\"http://duckduckgo.com/c/Genetics\">Genetics</a>",
+      "A cistron is a term used to describe the locus responsible for generating a protein.",
+      "\n<a href=\"http://duckduckgo.com/Operon\">Operon</a> - In genetics, an operon is a functioning unit of genomic DNA containing a cluster of genes under the control of a single regulatory signal or promoter."
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373468166,
+   "book" : [],
+   "micro-www" : {
+      "cistron" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Genetics"
+      ],
+      "text" : "A 'cistron' is a gene.<ref></ref> The term cistron is used to emphasize that\ngenes exhibit a specific behavior in a cis-trans test; distinct positions (or\nloci) within a genome are '''cistronic\n\nFor example, suppose a mutation at a chromosome position <math>x</math> is\nresponsible for a recessive trait in a diploid organism (where chromosomes come\nin pairs). We say that the mutation is recessive because the organism will\nexhibit the wild type phenotype (ordinary trait) unless both chromosomes of a\npair have the mutation (homozygous mutation). Similarly, suppose a mutation at\nanother position, <math>y</math>, is responsible for the same recessive trait.\nThe positions <math>x</math> and <math>y</math> are said to be within the same\ncistron when an organism that has the mutation at <math>x</math> on one\nchromosome and has the mutation at position <math>y</math> on the paired\nchromosome exhibits the recessive trait even though the organism is not\nhomozygous for either mutation. When instead the wild type trait is expressed,\nthe positions are said to belong to distinct cistrons / genes.\n\nFor example, an operon is a stretch of DNA that is transcribed to create a\ncontiguous segment of RNA, but contains more than one cistron / gene. The operon\nis said to be 'polycistronic', whereas ordinary genes are said to be\n'monocistronic'.\n",
+      "title" : "cistron",
+      "headings" : [
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "1: Gene",
+      "1: Complementation_test",
+      "1: Genome",
+      "1: Mutation",
+      "1: Recessive_trait",
+      "1: Diploid",
+      "1: Wild_type",
+      "1: Phenotype",
+      "1: Homozygous",
+      "1: Operon",
+      "1: RNA"
+   ]
+}

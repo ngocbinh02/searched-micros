@@ -1,0 +1,95 @@
+{
+   "micrownet" : [
+      "occurrence"
+   ],
+   "duck" : [
+      "The action, fact, or instance of occurring.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=occurrence",
+      "HASH(0x4984680)",
+      "The Free Dictionary",
+      "occurrence",
+      "http://www.merriam-webster.com/dictionary/occurrence",
+      "occurrence definition: something that occurs.",
+      "Merriam-Webster",
+      "HASH(0x497c468)",
+      "The action, fact, or instance of occurring.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Cyclone_Glenda_closes_in_on_Western_Australia\" title=\"Cyclone Glenda closes in on Western Australia\">Cyclone Glenda closes in on Western Australia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Spanair_mechanics_to_be_questioned_under_criminal_suspicion_over_Flight_5022_crash\" title=\"Spanair mechanics to be questioned under criminal suspicion over Flight 5022 crash\">Spanair mechanics to be questioned under criminal suspicion over Flight 5022 crash</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Syrian_opposition_report_fuel_station_bombing_kills_at_least_nine\" title=\"Syrian opposition report fuel station bombing kills at least nine\">Syrian opposition report fuel station bombing kills at least nine</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Emergency_directive_for_Sikorsky_S-92A_helicopters\" title=\"Emergency directive for Sikorsky S-92A helicopters\">Emergency directive for Sikorsky S-92A helicopters</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_military_deaths_in_Afghanistan_reach_327\" title=\"UK military deaths in Afghanistan reach 327\">UK military deaths in Afghanistan reach 327</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ed_to_wed:_UK_Labour_leader_Miliband_announces_engagement_to_Justine_Thornton\" title=\"Ed to wed: UK Labour leader Miliband announces engagement to Justine Thornton\">Ed to wed: UK Labour leader Miliband announces engagement to Justine Thornton</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Fanime_convention_winds_down_in_San_Jose,_California\" title=\"Fanime convention winds down in San Jose, California\">Fanime convention winds down in San Jose, California</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/38_dead,_over_180_injured_as_blasts_rock_Maharashtra_town\" title=\"38 dead, over 180 injured as blasts rock Maharashtra town\">38 dead, over 180 injured as blasts rock Maharashtra town</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/6.3_magnitude_quake_strikes_Papua_New_Guinea\" title=\"6.3 magnitude quake strikes Papua New Guinea\">6.3 magnitude quake strikes Papua New Guinea</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Six_H1N1_cases_appear_in_the_Philippines\" title=\"Six H1N1 cases appear in the Philippines\">Six H1N1 cases appear in the Philippines</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mass_panic_as_Zimbabwean_officials_fake_air_crash\" title=\"Mass panic as Zimbabwean officials fake air crash\">Mass panic as Zimbabwean officials fake air crash</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pump_leak_and_fire_shuts_down_nuclear_reactor_in_France\" title=\"Pump leak and fire shuts down nuclear reactor in France\">Pump leak and fire shuts down nuclear reactor in France</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Earthquake_hits_Chile\" title=\"Earthquake hits Chile\">Earthquake hits Chile</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Third_major_earthquake_rocks_California\" title=\"Third major earthquake rocks California\">Third major earthquake rocks California</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Subtropical_storm_strikes_Washington\" title=\"Subtropical storm strikes Washington\">Subtropical storm strikes Washington</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bravitude_climbing_fast_on_Google\" title=\"Bravitude climbing fast on Google\">Bravitude climbing fast on Google</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mars_orbiter_finds_widespread_evidence_of_water-bearing_minerals\" title=\"Mars orbiter finds widespread evidence of water-bearing minerals\">Mars orbiter finds widespread evidence of water-bearing minerals</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Helicopter_ditches_in_the_North_Sea;_all_18_on_board_rescued\" title=\"Helicopter ditches in the North Sea; all 18 on board rescued\">Helicopter ditches in the North Sea; all 18 on board rescued</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Remnants_of_Hurricane_Felicia_affect_Hawaii\" title=\"Remnants of Hurricane Felicia affect Hawaii\">Remnants of Hurricane Felicia affect Hawaii</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bone_marrow_transplant_potentially_linked_to_cure_of_patient_with_AIDS\" title=\"Bone marrow transplant potentially linked to cure of patient with AIDS\">Bone marrow transplant potentially linked to cure of patient with AIDS</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465816,
+   "book" : [],
+   "micro-www" : {
+      "occurrence" : [
+         "occurrence",
+         "Occurrence",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Metalogic",
+         "Conceptual distinctions",
+         "Knowledge representation",
+         "Abstraction",
+         "Concepts in metaphysics"
+      ],
+      "text" : " in Rome)|thumbtime=6]] In disciplines such as philosophy and knowledge\n representation, the 'type–token distinction' is a distinction that separates a\n concept from the objects which are particular instances of the concept. For\n example, the particular bicycle in your garage is a token of the type of thing\n known as \"The bicycle\". Whereas, the bicycle in your garage is in a particular\n place at a particular time, that is not true of \"the bicycle\" as used in the\n sentence: \"The bicycle has become more popular recently\". In logic, the\n distinction is used to clarify the meaning of symbols of formal languages.\n\nTypes are often understood ontologically as being concepts. They do not exist\nanywhere in particular because they are not physical objects. Types may have\nmany tokens. However, types are not directly producible as tokens are. You may,\nfor instance, show someone the bicycle in your garage, but you cannot show\nsomeone \"The bicycle\". Tokens always exist at a particular place and time and\nmay be shown to exist as a concrete physical object.\n\nIt can be quite useful to distinguish between an abstract \"type\" of thing, and\nthe various physical \"tokens\" or examples of that thing. This type-token\ndistinction is illustrated by way of examples. If we say that two people \"have\nthe same car\", we may mean that they have the same type of car (e.g. the same\nbrand and model), or the same particular token of the car (e.g. they share a\nsingle vehicle). This distinction is useful in other ways, during discussion of\nlanguage. In the phrase \"Grendel is Grendel is Grendel is Grendel\", there are\nonly two types of words (\"Grendel\" and \"is\") but there are seven tokens (four\n\"Grendel\" and three \"is\" tokens).\n",
+      "title" : "Type%E2%80%93token distinction%23Occurrences",
+      "headings" : [
+         "Occurrences",
+         "Typography",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "1: Philosophy",
+      "1: Knowledge_representation",
+      "1: Concept",
+      "1: Instantiation_principle",
+      "1: Logic",
+      "1: Formal_language",
+      "1: Ontology",
+      "1: Physical_object",
+      "1: Willard_Van_Orman_Quine",
+      "1: Initial_segment",
+      "1: A_rose_is_a_rose_is_a_rose",
+      "1: Typography",
+      "1: Movable_type",
+      "1: Herbert_E._Brekle",
+      "1: Metalogic",
+      "1: Is-a",
+      "1: Type_theory",
+      "1: Type_physicalism",
+      "1: The_Stanford_Encyclopedia_of_Philosophy"
+   ]
+}

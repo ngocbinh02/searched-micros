@@ -1,0 +1,93 @@
+{
+   "micrownet" : [
+      "gempylid",
+      "gempylidae"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/c/Gempylidae\">Gempylidae Category</a>",
+      "Gempylidae",
+      "The Gempylidae are a family of perciform fishes, commonly known as snake mackerels or escolars.",
+      "https://i.duckduckgo.com/i/c1ed7930.jpg"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373469518,
+   "book" : [],
+   "micro-www" : {
+      "gempylid" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Gempylidae|"
+      ],
+      "text" : "{{Taxobox\n| name = Gempylidae image = Ruvettus pretiosus.jpg image_width = 240px\n| image_caption = Oilfish, [[Ruvettus pretiosus]] regnum = Animalia phylum =\n| Chordata classis = Actinopterygii ordo = Perciformes familia = 'Gempylidae'\n| subdivision_ranks = Genera subdivision =\n[[Diplospinus]]<br/> [[Epinnula]]<br/> [[Gempylus]]<br/> [[Lepidocybium]]<br/>\n[[Nealotus]]<br/> [[Neoepinnula]]<br/> [[Nesiarchus]]<br/>\n[[Paradiplospinus]]<br/> [[Promethichthys]]<br/> [[Rexea]]<br/>\n[[Rexichthys]]<br/> [[Ruvettus]]<br/> [[Thyrsites]]<br/> [[Thyrsitoides]]<br/>\n[[Thyrsitops]]<br/> [[Tongaichthys]]<br/> See text for species. }} The\n'Gempylidae' are a family of perciform fishes, commonly known as 'snake\nmackerels' or 'escolars'.\n\nThey are elongated fishes with a similar appearance to barracudas, having a long\ndorsal fin, usually with one or finlets trailing it. The largest species,\nincluding the snoek, [[Thyrsites atun]], grow up to 2 m long. Like the\nbarracudas, they are predators, with fang-like teeth.<ref name=EoF></ref>\n\nThey are deep-water benthopelagic fishes, and several species are important\ncommercial and game fishes.\n",
+      "title" : "Gempylidae",
+      "headings" : [
+         "Species",
+         "Timeline",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "4: Georges_Cuvier",
+      "2: Paleocene",
+      "2: Eocene",
+      "2: Oligocene",
+      "2: Miocene",
+      "2: Plio.",
+      "2: Pleist.",
+      "2: Holocene",
+      "2: Paleogene",
+      "2: Neogene",
+      "2: Quaternary",
+      "1: Animal",
+      "1: Chordata",
+      "1: Actinopterygii",
+      "1: Perciformes",
+      "1: Perciform",
+      "1: Barracuda",
+      "1: Dorsal_fin",
+      "1: Snoek",
+      "1: Benthopelagic",
+      "1: Striped_escolar",
+      "1: Felipe_Poey",
+      "1: Snake_mackerel",
+      "1: Escolar",
+      "1: Black_snake_mackerel",
+      "1: American_sackfish",
+      "1: Sackfish",
+      "1: Black_gemfish",
+      "1: Antarctic_escolar",
+      "1: Slender_escolar",
+      "1: Roudi_escolar",
+      "1: Long-finned_escolar",
+      "1: Bengal_escolar",
+      "1: Alfred_William_Alcock",
+      "1: Short-lined_escolar",
+      "1: Nakamura's_escolar",
+      "1: Royal_escolar",
+      "1: Pieter_Bleeker",
+      "1: Silver_gemfish",
+      "1: Gemfish",
+      "1: Paxton's_escolar",
+      "1: Oilfish",
+      "1: Black_snoek",
+      "1: White_snake_mackerel",
+      "1: Tonga_escolar",
+      "1: Longfin_escolar",
+      "1: Scombrolabracidae",
+      "1: Epinnula",
+      "1: Gempylus",
+      "1: Rexea",
+      "1: Hemithyrsites"
+   ]
+}

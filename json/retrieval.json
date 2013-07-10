@@ -1,0 +1,70 @@
+{
+   "micrownet" : [
+      "medical_literature_analysis_and_retrieval_system",
+      "retrieval"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Retrieval",
+      "Wikipedia",
+      "Retrieval",
+      "\n<a href=\"http://duckduckgo.com/Document_retrieval\">Document retrieval</a> - Document retrieval is defined as the matching of some stated user query against a set of free-text records.",
+      "http://www.merriam-webster.com/dictionary/retrieval",
+      "\n<a href=\"http://duckduckgo.com/Information_retrieval\">Information retrieval</a> - Information retrieval is the activity of obtaining information resources relevant to an information need from a collection of information resources.",
+      "retrieval definition: an act or process of retrieving.",
+      "\n<a href=\"http://duckduckgo.com/Knowledge_retrieval\">Knowledge retrieval</a> - Knowledge Retrieval seeks to return information in a structured form, consistent with human cognitive processes as opposed to simple lists of data items.",
+      "\n<a href=\"http://duckduckgo.com/Image_retrieval\">Image retrieval</a> - An image retrieval system is a computer system for browsing, searching and retrieving images from a large database of digital images.",
+      "\n<a href=\"http://duckduckgo.com/document_retrieval\">Text retrieval</a> - Document retrieval is defined as the matching of some stated user query against a set of free-text records.",
+      "\n<a href=\"http://duckduckgo.com/Data_retrieval\">Data retrieval</a> - Data retrieval, in database management, involves extracting the wanted data from a database.",
+      "\n<a href=\"http://duckduckgo.com/Music_information_retrieval\">Music information retrieval</a> - Music information retrieval is the interdisciplinary science of retrieving information from music.",
+      "\n<a href=\"http://duckduckgo.com/Retrieval_(film)\">Retrieval (film)</a> - Retrieval (Z odzysku) is a 2006 Polish film directed by Sławomir Fabicki.",
+      "HASH(0x4bf8940)",
+      "\n<a href=\"http://duckduckgo.com/emergency_medical_services\">Medical retrieval</a> -   Emergency medical services are a type of emergency service dedicated to providing out-of-hospital acute medical care, transport to definitive care, and other medical transport to patients with...",
+      "Merriam-Webster",
+      "HASH(0x4bf9c10)",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Two_divers%27_bodies_found_in_Scapa_Flow,_Scotland\" title=\"Two divers&#39; bodies found in Scapa Flow, Scotland\">Two divers&#39; bodies found in Scapa Flow, Scotland</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Next_Shuttle_flight_delayed_to_next_year;_ISS_crew_begin_spacewalk\" title=\"Next Shuttle flight delayed to next year; ISS crew begin spacewalk\">Next Shuttle flight delayed to next year; ISS crew begin spacewalk</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Authorities_search_for_victims_of_Peruvian_air_crash\" title=\"Authorities search for victims of Peruvian air crash\">Authorities search for victims of Peruvian air crash</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Divers_safe_from_pesticide_from_MV_Princess_of_the_Stars\" title=\"Divers safe from pesticide from MV Princess of the Stars\">Divers safe from pesticide from MV Princess of the Stars</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/University_of_Chicago%27s_Mansueto_Library_suffers_power_outage\" title=\"University of Chicago&#39;s Mansueto Library suffers power outage\">University of Chicago&#39;s Mansueto Library suffers power outage</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Apes_and_birds_are_able_to_plan_ahead:_psychologists\" title=\"Apes and birds are able to plan ahead: psychologists\">Apes and birds are able to plan ahead: psychologists</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Obama_offers_sympathies_to_Fengshen_victims\" title=\"Obama offers sympathies to Fengshen victims\">Obama offers sympathies to Fengshen victims</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Philippines_ferry_disaster:_ship_owner_sues_over_toxic_cargo;_recovery_deadline_set_%26_more\" title=\"Philippines ferry disaster: ship owner sues over toxic cargo; recovery deadline set &amp; more\">Philippines ferry disaster: ship owner sues over toxic cargo; recovery deadline set &amp; more</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Adam_Air_strikes_deal_with_salvage_firm_to_retrieve_black_boxes_of_crashed_airliner\" title=\"Adam Air strikes deal with salvage firm to retrieve black boxes of crashed airliner\">Adam Air strikes deal with salvage firm to retrieve black boxes of crashed airliner</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Voyager_1_enters_heliosheath_at_edge_of_solar_system\" title=\"Voyager 1 enters heliosheath at edge of solar system\">Voyager 1 enters heliosheath at edge of solar system</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Salvage_operation_begins_to_retrieve_black_boxes_from_Adam_Air_Flight_574\" title=\"Salvage operation begins to retrieve black boxes from Adam Air Flight 574\">Salvage operation begins to retrieve black boxes from Adam Air Flight 574</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465127,
+   "book" : [],
+   "micro-www" : {
+      "retrieval" : [
+         "retrieval",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Retrieval' could refer to:\n* Information retrieval\n* Text retrieval\n* Image retrieval\n* Document retrieval\n* Music information retrieval\n* Medical retrieval\n* Data retrieval\n* Knowledge retrieval\n* In psychology, retrieval refers to the process of recalling information that\n  is stored in memory\n* ''Retrieval'' (film)\n",
+      "title" : "retrieval",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Information_retrieval",
+      "1: Text_retrieval",
+      "1: Image_retrieval",
+      "1: Document_retrieval",
+      "1: Music_information_retrieval",
+      "1: Medical_retrieval",
+      "1: Data_retrieval",
+      "1: Knowledge_retrieval"
+   ]
+}

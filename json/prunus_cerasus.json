@@ -1,0 +1,112 @@
+{
+   "micrownet" : [
+      "prunus_cerasus",
+      "prunus_cerasus_austera",
+      "prunus_cerasus_caproniana",
+      "prunus_cerasus_marasca"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373467112,
+   "book" : [],
+   "micro-www" : {
+      "prunus_cerasus" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Cherries",
+         "Pollination management"
+      ],
+      "text" : "\n\n\n{{Taxobox\n| image = Koeh-113.jpg\n|regnum = Plantae |unranked_divisio = Angiosperms |unranked_classis = Eudicots\n|unranked_ordo = Rosids\n| ordo = Rosales familia = Rosaceae genus = [[Prunus]] subgenus = [[Prunus\n| subgenus Cerasus|Cerasus]] species = 'P. cerasus' binomial = Prunus cerasus\n| binomial_authority = L.\n}}\n\n'Prunus cerasus' ('sour [[cherry]]', 'tart cherry' or 'wild cherry') is a\nspecies of [[Prunus]] in the subgenus [[Cherry|Cerasus]] (cherries), native to\nmuch of Europe and southwest Asia. It is closely related to the sweet cherry\n([[Prunus avium]]), but has a fruit that is more acidic.\n\nThe tree is smaller than the sweet cherry (growing to a height of 4–10 m),\nhas twiggy branches, and its crimson-to-near-black cherries are borne upon\nshorter stalks.\n\nThere are two varieties of the 'sour cherry': the dark-red 'morello cherry' and\nthe lighter-red 'amarelle cherry'.<ref>Webster’s New International Dictionary of\nthe English Language. Springfield, Massachusetts: G. & C. Merriam Co., 1913. See\namarelle at p. 67.</ref>\n",
+      "title" : "prunus cerasus",
+      "headings" : [
+         "Origins and cultivation",
+         "Uses",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "3: Iran",
+      "2: Greece",
+      "2: Pollenizer",
+      "2: Hungary",
+      "2: Turkey",
+      "2: Kriek_lambic",
+      "1: Plant",
+      "1: Angiosperms",
+      "1: Eudicots",
+      "1: Rosids",
+      "1: Rosales",
+      "1: Rosaceae",
+      "1: Carolus_Linnaeus",
+      "1: Cherry",
+      "1: Europe",
+      "1: Asia",
+      "1: Fruit",
+      "1: Acid",
+      "1: Caspian_Sea",
+      "1: Black_Sea",
+      "1: Persia",
+      "1: Roman_Empire",
+      "1: Great_Britain",
+      "1: Henry_VIII_of_England",
+      "1: Cultivar",
+      "1: Massachusetts",
+      "1: Second_World_War",
+      "1: Pear",
+      "1: Soil",
+      "1: Nitrogen",
+      "1: Water",
+      "1: Pruning",
+      "1: Bird",
+      "1: Self-fertilization",
+      "1: Pollinator",
+      "1: Pollen",
+      "1: Pollination_management",
+      "1: Russia",
+      "1: Ukraine",
+      "1: Poland",
+      "1: Serbia",
+      "1: USA",
+      "1: Germany",
+      "1: Moldova",
+      "1: Belarus",
+      "1: Denmark",
+      "1: Albania",
+      "1: Croatia",
+      "1: Soup",
+      "1: Pork",
+      "1: Cake",
+      "1: Tart",
+      "1: Pie",
+      "1: Syrup",
+      "1: Liqueurs",
+      "1: Drinks",
+      "1: Cyprus",
+      "1: Spoon_sweet",
+      "1: Fermented",
+      "1: Beer",
+      "1: Fruit_trees",
+      "1: Fruit_tree_forms",
+      "1: Fruit_tree_propagation",
+      "1: Ginja",
+      "1: Griotte_de_Kleparow",
+      "1: Kirsch",
+      "1: Pruning_fruit_trees",
+      "1: Sour_cherry_soup",
+      "1: Syzygium_corynanthum",
+      "1: Rainforest",
+      "1: ViÅinatÄ",
+      "1: ViÅne"
+   ]
+}

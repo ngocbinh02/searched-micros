@@ -1,0 +1,99 @@
+{
+   "micrownet" : [
+      "biquadratic_equation"
+   ],
+   "duck" : [
+      "HASH(0x4aec3e8)",
+      "HASH(0x4a44ec8)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373466087,
+   "book" : [],
+   "micro-www" : {
+      "biquadratic_equation" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Elementary algebra",
+         "Equations",
+         "Polynomials"
+      ],
+      "text" : ".]] In mathematics, a 'quartic function', is a function of the form\n:<math>f(x)=ax^4+bx^3+cx^2+dx+e,</math>\nwhere a is nonzero, which is defined by a polynomial of degree four, called\n'quartic polynomial'.\n\nSometimes the term 'biquadratic' is used instead of quartic, but, usually,\n'biquadratic function' refers to a quadratic function of a square (or,\nequivalently, to the function defined by a quartic polynomial without terms of\nodd degree), having the form\n:<math>f(x)=ax^4+cx^2+e.</math>\n\nA 'quartic equation', or equation of the fourth degree, is an equation\nconsisting in equating to zero a quartic polynomial, of the form\n:<math>ax^4+bx^3+cx^2+dx+e=0 ,</math>\nwhere .\n\nThe derivative of a quartic function is a cubic function.\n\nSince a quartic function is defined by a polynomial of even degree, it has the\nsame infinite limit when the argument goes to positive or negative infinity. If\na is positive, then the function increases to positive infinity at both sides;\nand thus the function has a global minimum. Likewise, if a is negative, it\ndecreases to negative infinity and has a global maximum. In both cases it may\nhave, but not always, another local maximum and another local minimum.\n\nThe degree four (quartic case) is the highest degree such that every polynomial\nequation can be solved by radicals.\n",
+      "title" : "Quartic%20function",
+      "headings" : [
+         "History",
+         "Applications",
+         "Solving a quartic equation",
+         "See also",
+         "References",
+         "Further reading",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "5: Cubic_equation",
+      "4: Quadratic_function",
+      "3: Cubic_function",
+      "3: Discriminant",
+      "3: Quadratic_equation",
+      "2: Polynomial",
+      "2: Lodovico_Ferrari",
+      "2: Irreducible_polynomial",
+      "2: Computer_algebra_system",
+      "2: Quadratic_formula",
+      "1: Mathematics",
+      "1: Degree_of_a_polynomial",
+      "1: Derivative",
+      "1: Infinity",
+      "1: Maxima_and_minima",
+      "1: Nth_root",
+      "1: Gerolamo_Cardano",
+      "1: Burned_at_the_stake",
+      "1: Inquisitor_General",
+      "1: Tomás_de_Torquemada",
+      "1: Abel–Ruffini_theorem",
+      "1: Évariste_Galois",
+      "1: Galois_Theory",
+      "1: Computer_graphics",
+      "1: Conic_section",
+      "1: Quartic_surface",
+      "1: Torus",
+      "1: Computer-aided_manufacturing",
+      "1: Endmill",
+      "1: Complex_conjugate",
+      "1: Quadratic_polynomial",
+      "1: Cubic_function#General_formula_for_roots",
+      "1: Numerator",
+      "1: Rational_function",
+      "1: Rational_number",
+      "1: Euclidean_division_of_polynomials",
+      "1: Coprime",
+      "1: Polynomial_factorization",
+      "1: Quartic_equation",
+      "1: Rational_root_test",
+      "1: Symmetric_group",
+      "1: Klein_four-group",
+      "1: Normal_subgroup",
+      "1: Hadamard_matrix",
+      "1: Lagrange_resolvents",
+      "1: Symmetric_polynomial",
+      "1: Fundamental_theorem_of_symmetric_polynomials",
+      "1: Root_of_unity",
+      "1: Degenerate_conic",
+      "1: Bézout's_theorem",
+      "1: Pencil_of_curves",
+      "1: Quadratic_form",
+      "1: Linear_function",
+      "1: Quintic_function",
+      "1: Newton's_method"
+   ]
+}

@@ -1,0 +1,83 @@
+{
+   "micrownet" : [
+      "significant_figure"
+   ],
+   "duck" : [
+      "HASH(0x4a34218)",
+      "HASH(0x4abee28)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Irish_inflation_back_on_the_rise\" title=\"Irish inflation back on the rise\">Irish inflation back on the rise</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Clinton_wins_West_Virginia_Democratic_primary\" title=\"Clinton wins West Virginia Democratic primary\">Clinton wins West Virginia Democratic primary</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_jobless_claims_fall,_reach_seventeen-month_low\" title=\"US jobless claims fall, reach seventeen-month low\">US jobless claims fall, reach seventeen-month low</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/National_Oceanic_and_Atmospheric_Administration_launches_VORTEX2_to_study_tornadoes\" title=\"National Oceanic and Atmospheric Administration launches VORTEX2 to study tornadoes\">National Oceanic and Atmospheric Administration launches VORTEX2 to study tornadoes</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Economist_Milton_Friedman_dies_at_94\" title=\"Economist Milton Friedman dies at 94\">Economist Milton Friedman dies at 94</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hungary_bans_homelessness\" title=\"Hungary bans homelessness\">Hungary bans homelessness</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Large_increase_in_number_of_foreclosures_across_US\" title=\"Large increase in number of foreclosures across US\">Large increase in number of foreclosures across US</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Norwegian_police_lower_death_toll_in_massacre\" title=\"Norwegian police lower death toll in massacre\">Norwegian police lower death toll in massacre</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_federal_agents_raid_strip_club_empire_in_Washington_state\" title=\"US federal agents raid strip club empire in Washington state\">US federal agents raid strip club empire in Washington state</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Police_have_one_week_to_question_terror_suspect_caught_in_Bristol,_UK\" title=\"Police have one week to question terror suspect caught in Bristol, UK\">Police have one week to question terror suspect caught in Bristol, UK</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Controlled_explosion_in_Bristol,_United_Kingdom;_man_arrested_on_suspicion_of_terrorism\" title=\"Controlled explosion in Bristol, United Kingdom; man arrested on suspicion of terrorism\">Controlled explosion in Bristol, United Kingdom; man arrested on suspicion of terrorism</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/G8_leaders_set_new_emissions_target\" title=\"G8 leaders set new emissions target\">G8 leaders set new emissions target</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_unemployment_rate_down_to_ten_percent\" title=\"US unemployment rate down to ten percent\">US unemployment rate down to ten percent</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Romanian_economy_predicted_to_maintain_steady_growth_until_2008\" title=\"Romanian economy predicted to maintain steady growth until 2008\">Romanian economy predicted to maintain steady growth until 2008</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Former_British_Prime_Minister_Margaret_Thatcher_dies_aged_87\" title=\"Former British Prime Minister Margaret Thatcher dies aged 87\">Former British Prime Minister Margaret Thatcher dies aged 87</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_to_get_new_nuclear_power_stations\" title=\"UK to get new nuclear power stations\">UK to get new nuclear power stations</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_lawmakers_to_question_Pentagon_officials_about_war_costs\" title=\"US lawmakers to question Pentagon officials about war costs\">US lawmakers to question Pentagon officials about war costs</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Northern_Ireland%27s_Ian_Paisley_to_resign_and_retire\" title=\"Northern Ireland&#39;s Ian Paisley to resign and retire\">Northern Ireland&#39;s Ian Paisley to resign and retire</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464521,
+   "book" : [],
+   "micro-www" : {
+      "significant_figure" : [
+         "Significant_figures",
+         ""
+      ]
+   },
+   "micro-relation" : [
+      "4: Rounding",
+      "2: False_precision",
+      "2: Rounding#Round_half_to_even",
+      "1: American_English",
+      "1: Numerical_digit",
+      "1: Accuracy_and_precision",
+      "1: Leading_zeros",
+      "1: Trailing_zeros",
+      "1: Significance_arithmetic",
+      "1: Propagation_of_uncertainty",
+      "1: Radix_point",
+      "1: Unit_of_measurement",
+      "1: Unit_prefix",
+      "1: Hecto-",
+      "1: Plus-minus_sign",
+      "1: Scientific_notation",
+      "1: Significand",
+      "1: Rounding#Tie-breaking",
+      "1: Rounding#Round_half_up",
+      "1: Decimal_separator",
+      "1: Decimal",
+      "1: Floor_and_ceiling_functions",
+      "1: Absolute_value",
+      "1: Significance_arithmetic#Addition_and_subtraction_using_significance_arithmetic",
+      "1: Logarithm",
+      "1: Normalized_number",
+      "1: Mantissa",
+      "1: Order_of_magnitude",
+      "1: Binomial_proportion_confidence_interval",
+      "1: Floating_point_numbers",
+      "1: Binary_number",
+      "1: Approximation_error",
+      "1: Engineering_notation",
+      "1: IEEE754",
+      "1: Interval_arithmetic",
+      "1: Kahan_summation_algorithm",
+      "1: Round-off_error"
+   ]
+}

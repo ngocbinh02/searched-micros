@@ -1,0 +1,55 @@
+{
+   "micrownet" : [
+      "haltere"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/c/Insect_anatomy\">Insect anatomy</a>",
+      "Halteres",
+      "Halteres (singular halter or haltere) are small knobbed structures modified from the hind wings (or front wings in the case of Strepsiptera) in some two-winged insects.",
+      "\n<a href=\"http://duckduckgo.com/Halteres_(ancient_Greece)\">Halteres (ancient Greece)</a> - Halteres were a type of dumbbells used in Ancient Greece.",
+      "A device made of rope or leather straps that fits around the head or neck of an animal and is used to lead or secure the animal.",
+      "https://i.duckduckgo.com/i/e33a9a67.jpg"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471580,
+   "book" : [],
+   "micro-www" : {
+      "haltere" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Insect anatomy"
+      ],
+      "text" : "\n\n\n, with a pair of halteres visible behind the wings as appendages, about as long\nas the animal's antennae, with knobs on the end]]\n\n'Halteres' (; singular 'halter' or 'haltere') are small knobbed structures\nmodified from the hind wings (or front wings in the case of Strepsiptera) in\nsome two-winged insects. They are flapped rapidly and function as gyroscopes,\ninforming the insect about rotation of the body during flight.<ref\nname=klowden/> The word 'halter' comes from Greek ἁλτήρ, a double knobbed device\nused in Ancient Greece by athletes during training in jumping.\n\nIn Diptera, the formation of the haltere during metamorphosis is dependent on\nthe homeotic gene Ultrabithorax (Ubx). If this gene is experimentally\ndeactivated, the haltere will develop into a fully developed wing.<ref\nname=klowden>Klowden, M. J. (2007). Physiological systems in insects.\nElsevier/Academic Press. pp. 497-499.</ref> This is an excellent illustration of\nan important mechanism of a simple homeotic gene change can result in a\nradically different phenotype.\n\nHalteres flap up and down as the wings do and operate as vibrating structure\ngyroscopes. Every vibrating object tends to maintain its plane of vibration if\nits support is rotated, a result of Newton's first law. If the body of the\ninsect changes direction in flight or rotates about its axis, the vibrating\nhalteres thus exert a force on the body. The insect detects this force with\nsensory organs known as campaniform sensilla located at the base of the\nhalteres. The planes of vibration of the two halteres are orthogonal to each\nother, each forming an angle of about 45 degrees with the axis of the insect;\nthis increases the amount of information gained from the halteres.\n\nHalteres thus act as a balancing and guidance system, helping these insects to\nperform their fast aerobatics. In addition to providing rapid feedback to the\nmuscles steering the wings, they also play an important role in stabilizing the\nhead during flight.\n",
+      "title" : "Halteres",
+      "headings" : [
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "1: Strepsiptera",
+      "1: Insect",
+      "1: Gyroscope",
+      "1: Metamorphosis",
+      "1: Homeotic_gene",
+      "1: Ultrabithorax",
+      "1: Phenotype",
+      "1: Vibrating_structure_gyroscope",
+      "1: Newton's_laws_of_motion",
+      "1: Sensory_system",
+      "1: Campaniform_sensilla",
+      "1: Orthogonality",
+      "1: Guidance_system",
+      "1: Aerobatics"
+   ]
+}

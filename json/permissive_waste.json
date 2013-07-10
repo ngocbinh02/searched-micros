@@ -1,0 +1,31 @@
+{
+   "micrownet" : [
+      "permissive_waste"
+   ],
+   "duck" : [
+      "HASH(0x4b3ebd0)",
+      "HASH(0x4954bd8)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465163,
+   "book" : [],
+   "micro-www" : {
+      "permissive_waste" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "#redirectWaste (law)\n",
+      "title" : "permissive waste",
+      "headings" : []
+   },
+   "micro-relation" : []
+}

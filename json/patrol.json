@@ -1,0 +1,118 @@
+{
+   "micrownet" : [
+      "airborne_patrol",
+      "border_patrol",
+      "harbor_patrol",
+      "patrol",
+      "patrol_boat",
+      "patrol_car",
+      "patrol_ship",
+      "patrol_wagon",
+      "patroller",
+      "patrolman",
+      "patrology",
+      "round-the-clock_patrol",
+      "shore_patrol",
+      "united_states_border_patrol",
+      "us_border_patrol"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Patrol_(disambiguation)",
+      "HASH(0x4adc0d8)",
+      "Wikipedia",
+      "Patrol",
+      "\n<a href=\"http://duckduckgo.com/Patrol\">Patrol</a> - A patrol is commonly a group of personnel, such as police officers or soldiers, that are assigned to monitor a specific geographic area.",
+      "http://www.merriam-webster.com/dictionary/patrol",
+      "patrol definition: the action of traversing a district or beat or of going the rounds along a chain of guards for observation or the maintenance of security.",
+      "Merriam-Webster",
+      "HASH(0x4aa1b28)",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Volunteers_gather_to_help_patrol_Arizona%27s_border_with_Mexico\" title=\"Volunteers gather to help patrol Arizona&#39;s border with Mexico\">Volunteers gather to help <span class=\"searchmatch\">patrol</span> Arizona&#39;s border with Mexico</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Five_members_of_US_patrol_killed;_Three_missing_in_Iraq\" title=\"Five members of US patrol killed; Three missing in Iraq\">Five members of US <span class=\"searchmatch\">patrol</span> killed; Three missing in Iraq</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Russia_to_resume_bomber_patrols\" title=\"Russia to resume bomber patrols\">Russia to resume bomber <span class=\"searchmatch\">patrols</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Minutemen_gather_to_patrol_US-Mexican_border_in_April\" title=\"Minutemen gather to patrol US-Mexican border in April\">Minutemen gather to <span class=\"searchmatch\">patrol</span> US-Mexican border in April</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/China_says_North_Korea_border_patrol_killed_three_Chinese\" title=\"China says North Korea border patrol killed three Chinese\">China says North Korea border <span class=\"searchmatch\">patrol</span> killed three Chinese</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Gang_violence_continues_in_East_Timor\" title=\"Gang violence continues in East Timor\">Gang violence continues in East Timor</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/International_troops_patrol_East_Timor,_Gang_violence_continues\" title=\"International troops patrol East Timor, Gang violence continues\">International troops <span class=\"searchmatch\">patrol</span> East Timor, Gang violence continues</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_and_South_Korea_to_conduct_naval_exercises_in_response_to_warship_sinking\" title=\"US and South Korea to conduct naval exercises in response to warship sinking\">US and South Korea to conduct naval exercises in response to warship sinking</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_border_officers_go_on_Olympic_strike\" title=\"UK border officers go on Olympic strike\">UK border officers go on Olympic strike</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Canadian_leader_vows_to_push_Canadian_sovereignty_over_the_Arctic_Passage\" title=\"New Canadian leader vows to push Canadian sovereignty over the Arctic Passage\">New Canadian leader vows to push Canadian sovereignty over the Arctic Passage</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Canadian_leader_vows_to_patrol_northern_waters\" title=\"New Canadian leader vows to patrol northern waters\">New Canadian leader vows to <span class=\"searchmatch\">patrol</span> northern waters</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Korean_navies_exchange_fire\" title=\"Korean navies exchange fire\">Korean navies exchange fire</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Small_airplane_crashes_in_Colombia\" title=\"Small airplane crashes in Colombia\">Small airplane crashes in Colombia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Border_agent_killed_in_Arizona,_four_in_custody\" title=\"Border agent killed in Arizona, four in custody\">Border agent killed in Arizona, four in custody</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Peacekeepers_take_control_in_East_Timor\" title=\"Peacekeepers take control in East Timor\">Peacekeepers take control in East Timor</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Four_bodies_found_on_Florida%27s_Turnpike\" title=\"Four bodies found on Florida&#39;s Turnpike\">Four bodies found on Florida&#39;s Turnpike</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bomb_kills_soldier_in_Afghanistan\" title=\"Bomb kills soldier in Afghanistan\">Bomb kills soldier in Afghanistan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sixteen_policemen_killed_in_suspected_terrorist_attack_in_Xinjiang,_China\" title=\"Sixteen policemen killed in suspected terrorist attack in Xinjiang, China\">Sixteen policemen killed in suspected terrorist attack in Xinjiang, China</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/16_border_patrol_officers_killed_in_China\" title=\"16 border patrol officers killed in China\">16 border <span class=\"searchmatch\">patrol</span> officers killed in China</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/MS-13_gang_threatens_the_Arizona_%22minutemen%22\" title=\"MS-13 gang threatens the Arizona &quot;minutemen&quot;\">MS-13 gang threatens the Arizona &quot;minutemen&quot;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/MS-13_%22gangsters%22_and_Arizona_%22vigilantes%22_prepare_to_rumble\" title=\"MS-13 &quot;gangsters&quot; and Arizona &quot;vigilantes&quot; prepare to rumble\">MS-13 &quot;gangsters&quot; and Arizona &quot;vigilantes&quot; prepare to rumble</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Four_Americans_die_from_mine_impact_in_Afghanistan\" title=\"Four Americans die from mine impact in Afghanistan\">Four Americans die from mine impact in Afghanistan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Car_crash_kills_six_in_Warren,_Ohio\" title=\"Car crash kills six in Warren, Ohio\">Car crash kills six in Warren, Ohio</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462038,
+   "book" : [],
+   "micro-www" : {
+      "patrol" : [
+         "Patrol_cap",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Reconnaissance",
+         "Cavalry units and formations",
+         "Military units and formations by size"
+      ],
+      "text" : "\n\n\n\n\nA 'patrol' is commonly a group of personnel, such as police officers or\nsoldiers, that are assigned to monitor a specific geographic area.\n",
+      "title" : "patrol",
+      "headings" : [
+         "Military",
+         "Law enforcement",
+         "Etymology",
+         "Non-law enforcement patrols",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "1: Police",
+      "1: Soldiers",
+      "1: Geographic",
+      "1: Eritrea",
+      "1: Military_tactics",
+      "1: Reconnaissance",
+      "1: Cavalry",
+      "1: Armoured_warfare",
+      "1: Military_unit",
+      "1: Troop",
+      "1: Platoon",
+      "1: Squad",
+      "1: Armoured_fighting_vehicle",
+      "1: Tank",
+      "1: Montana",
+      "1: Law_enforcement_agency",
+      "1: Philadelphia",
+      "1: Temple_University",
+      "1: James_F._Pastor",
+      "1: French_language",
+      "1: Old_French",
+      "1: Elementary_school",
+      "1: Safety",
+      "1: Classroom",
+      "1: Crossing_guard",
+      "1: Street",
+      "1: Scouting",
+      "1: Scout_troop"
+   ]
+}

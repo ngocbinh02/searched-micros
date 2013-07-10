@@ -1,0 +1,46 @@
+{
+   "micrownet" : [
+      "house_servant"
+   ],
+   "duck" : [
+      "HASH(0x4d1e6d8)",
+      "HASH(0x4e9e358)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Businessman_in_India%27s_%27house_of_horrors%27_case_has_rape,_murder_convictions_overturned\" title=\"Businessman in India&#39;s &#39;house of horrors&#39; case has rape, murder convictions overturned\">Businessman in India&#39;s &#39;<span class=\"searchmatch\">house</span> of horrors&#39; case has rape, murder convictions overturned</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/No_%27mates%27_in_Australia%27s_Parliament_House\" title=\"No &#39;mates&#39; in Australia&#39;s Parliament House\">No &#39;mates&#39; in Australia&#39;s Parliament <span class=\"searchmatch\">House</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Head_of_US_Minerals_Management_Service_resigns_following_BP_oil_spill_response\" title=\"Head of US Minerals Management Service resigns following BP oil spill response\">Head of US Minerals Management Service resigns following BP oil spill response</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Residents_evacuated_after_partial_building_collapse_in_Buffalo,_New_York\" title=\"Residents evacuated after partial building collapse in Buffalo, New York\">Residents evacuated after partial building collapse in Buffalo, New York</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Opposition_may_boycott_Thai_election;_demonstrators_want_Thaksin_out\" title=\"Opposition may boycott Thai election; demonstrators want Thaksin out\">Opposition may boycott Thai election; demonstrators want Thaksin out</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Illinois_House_impeaches_Blagojevich\" title=\"Illinois House impeaches Blagojevich\">Illinois <span class=\"searchmatch\">House</span> impeaches Blagojevich</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Former_US_Secretary_of_State_Alexander_Haig_dies_at_age_85\" title=\"Former US Secretary of State Alexander Haig dies at age 85\">Former US Secretary of State Alexander Haig dies at age 85</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:June_7,_2010\" title=\"News briefs:June 7, 2010\">News briefs:June 7, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Judge_orders_residents_and_city_to_come_to_agreement_on_partially_collapsed_building_in_Buffalo,_New_York\" title=\"Judge orders residents and city to come to agreement on partially collapsed building in Buffalo, New York\">Judge orders residents and city to come to agreement on partially collapsed building in Buffalo, New York</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Shinzo_Abe%27s_LDP_suffers_set-back_in_Japanese_elections\" title=\"Shinzo Abe&#39;s LDP suffers set-back in Japanese elections\">Shinzo Abe&#39;s LDP suffers set-back in Japanese elections</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Congresswoman_Stephanie_Tubbs_Jones_dies_at_age_58\" title=\"US Congresswoman Stephanie Tubbs Jones dies at age 58\">US Congresswoman Stephanie Tubbs Jones dies at age 58</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_top_General_says_troops_are_unwelcome_in_Iraq\" title=\"British top General says troops are unwelcome in Iraq\">British top General says troops are unwelcome in Iraq</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ontario_Votes_2007:_Interview_with_NDP_candidate_Felicite_Stairs,_Renfrew-Nipissing-Pembroke\" title=\"Ontario Votes 2007: Interview with NDP candidate Felicite Stairs, Renfrew-Nipissing-Pembroke\">Ontario Votes 2007: Interview with NDP candidate Felicite Stairs, Renfrew-Nipissing-Pembroke</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_Prime_Minister_targets_Obama_on_Iraq\" title=\"Australian Prime Minister targets Obama on Iraq\">Australian Prime Minister targets Obama on Iraq</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Gillibrand_named_as_Clinton%27s_Senate_replacement\" title=\"Gillibrand named as Clinton&#39;s Senate replacement\">Gillibrand named as Clinton&#39;s Senate replacement</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Bloody_Sunday_Inquiry%27_publishes_report_into_British_Army_killing_of_activists_in_Northern_Ireland\" title=\"&#39;Bloody Sunday Inquiry&#39; publishes report into British Army killing of activists in Northern Ireland\">&#39;Bloody Sunday Inquiry&#39; publishes report into British Army killing of activists in Northern Ireland</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/On_the_campaign_trail,_November_2011\" title=\"On the campaign trail, November 2011\">On the campaign trail, November 2011</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Upper_house_of_former_Kyrgyz_parliament_steps_down,_Bakiyev_pledges_to_fight_corruption\" title=\"Upper house of former Kyrgyz parliament steps down, Bakiyev pledges to fight corruption\">Upper <span class=\"searchmatch\">house</span> of former Kyrgyz parliament steps down, Bakiyev pledges to fight corruption</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Alleged_Bush-Blair_Al-Jazeera_bombing_transcript_leaked\" title=\"Alleged Bush-Blair Al-Jazeera bombing transcript leaked\">Alleged Bush-Blair Al-Jazeera bombing transcript leaked</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mauritanian_refugees_begin_returning_home_from_Senegal\" title=\"Mauritanian refugees begin returning home from Senegal\">Mauritanian refugees begin returning home from Senegal</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465448,
+   "book" : [],
+   "micro-www" : {
+      "house_servant" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

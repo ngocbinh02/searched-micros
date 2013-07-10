@@ -1,0 +1,109 @@
+{
+   "micrownet" : [
+      "elimination_reaction"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/G8_Summit_debates_Middle-east_crisis,_WTO_trade_talks\" title=\"G8 Summit debates Middle-east crisis, WTO trade talks\">G8 Summit debates Middle-east crisis, WTO trade talks</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/G8_Summit_debates_Middle-east_crisis,_WTO_trade_talks#Reactions_from_the_Middle-east\" title=\"G8 Summit debates Middle-east crisis, WTO trade talks\"><span class=\"searchmatch\">Reactions</span> from the Middle-east</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/On_the_campaign_trail,_April_2012\" title=\"On the campaign trail, April 2012\">On the campaign trail, April 2012</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mass_wedding_held_against_racism_in_Belgium\" title=\"Mass wedding held against racism in Belgium\">Mass wedding held against racism in Belgium</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/On_the_campaign_trail,_June_2012\" title=\"On the campaign trail, June 2012\">On the campaign trail, June 2012</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ontario_Votes_2007:_Interview_with_Family_Coalition_Party_candidate_Suzanne_Fortin,_Nepean-Carleton\" title=\"Ontario Votes 2007: Interview with Family Coalition Party candidate Suzanne Fortin, Nepean-Carleton\">Ontario Votes 2007: Interview with Family Coalition Party candidate Suzanne Fortin, Nepean-Carleton</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Former_%27Top_Model%27_contestant_Whitney_Cunningham_defends_plus_size_models,_celebrates_the_%22regular_woman%22\" title=\"Former &#39;Top Model&#39; contestant Whitney Cunningham defends plus size models, celebrates the &quot;regular woman&quot;\">Former &#39;Top Model&#39; contestant Whitney Cunningham defends plus size models, celebrates the &quot;regular woman&quot;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Interview_with_gay_marriage_movement_founder_Evan_Wolfson\" title=\"Interview with gay marriage movement founder Evan Wolfson\">Interview with gay marriage movement founder Evan Wolfson</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ethics_debate_surrounds_surgery_to_stunt_disabled_girl%27s_growth\" title=\"Ethics debate surrounds surgery to stunt disabled girl&#39;s growth\">Ethics debate surrounds surgery to stunt disabled girl&#39;s growth</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Osama_bin_Laden_killed_in_U.S._operation_in_Pakistan,_White_House_says\" title=\"Osama bin Laden killed in U.S. operation in Pakistan, White House says\">Osama bin Laden killed in U.S. operation in Pakistan, White House says</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:April_25,_2010\" title=\"News briefs:April 25, 2010\">News briefs:April 25, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._did_not_inform_Pakistan_of_bin_Laden_mission_because_of_suspicions_he_was_being_harbored_by_government\" title=\"U.S. did not inform Pakistan of bin Laden mission because of suspicions he was being harbored by government\">U.S. did not inform Pakistan of bin Laden mission because of suspicions he was being harbored by government</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Toronto_team-led_research_on_Type_1_Diabetes_%27groundbreaking%27\" title=\"Toronto team-led research on Type 1 Diabetes &#39;groundbreaking&#39;\">Toronto team-led research on Type 1 Diabetes &#39;groundbreaking&#39;</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373469751,
+   "book" : [],
+   "micro-www" : {
+      "elimination_reaction" : [
+         "Elimination_reaction",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Elimination reactions|",
+         "Reaction mechanisms"
+      ],
+      "text" : " to cyclohexene with sulfuric acid and heat <ref>Organic Syntheses I:185\n http://orgsynth.org/orgsyn/pdfs/CV1P0183.pdf</ref>]] An 'elimination reaction'\n is a type of organic reaction in which two substituents are removed from a\n molecule in either a one or two-step mechanism.<ref></ref> The one-step\n mechanism is known as the 'E2 reaction', and the two-step mechanism is known as\n the 'E1 reaction'. The numbers do not have to do with the number of steps in\n the mechanism, but rather the kinetics of the reaction, bimolecular and\n unimolecular respectively. In most organic elimination reactions, at least one\n hydrogen is lost to form the double bond: the unsaturation of the molecule\n increases. It is also possible that a molecule undergoes reductive elimination,\n by which the valence of an atom in the molecule decreases by two. An important\n class of elimination reactions are those involving alkyl halides, with good\n leaving groups, reacting with a Lewis base to form an alkene. Elimination may\n be considered the reverse of an addition reaction. When the substrate is\n asymmetric, regioselectivity is determined by Zaitsev's rule.\n\n",
+      "title" : "elimination reaction",
+      "headings" : [
+         "E2 mechanism",
+         "E1 mechanism",
+         "E2 and E1 elimination final notes",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "3: Reaction_rate",
+      "2: Transition_state",
+      "2: Halogen",
+      "2: Antiperiplanar",
+      "2: Deuterium_isotope_effect",
+      "2: SN2_reaction",
+      "2: Ethanol",
+      "2: SN1_reaction",
+      "1: Cyclohexene",
+      "1: Sulfuric_acid",
+      "1: Organic_Syntheses",
+      "1: Organic_reaction",
+      "1: Substituent",
+      "1: Saturated_compound",
+      "1: Reductive_elimination",
+      "1: Alkyl_halide",
+      "1: Leaving_group",
+      "1: Lewis_base",
+      "1: Alkene",
+      "1: Addition_reaction",
+      "1: Regioselectivity",
+      "1: Zaitsev's_rule",
+      "1: E2",
+      "1: Christopher_Kelk_Ingold",
+      "1: Second_order_reaction",
+      "1: Staggered_conformation",
+      "1: Synperiplanar",
+      "1: Eclipsed",
+      "1: Orbital_hybridization",
+      "1: Rate_determining_step",
+      "1: Isobutyl",
+      "1: Potassium",
+      "1: Alkoxide",
+      "1: Isobutylene",
+      "1: Potassium_bromide",
+      "1: E1",
+      "1: Ionization",
+      "1: Carbocation",
+      "1: Deprotonation",
+      "1: Tertiary_carbon_atom",
+      "1: Rate-determining_step",
+      "1: First-order_reaction",
+      "1: Pyrolysis",
+      "1: Sulfonate_ester",
+      "1: Menthol",
+      "1: Rearrangement_reaction",
+      "1: Iodide",
+      "1: Bromide",
+      "1: Nucleophilic_substitution",
+      "1: Steric_hindrance",
+      "1: Temperature",
+      "1: Potassium_tert-butoxide",
+      "1: Nucleophile",
+      "1: Kinetic_isotope_effect",
+      "1: Chlorate",
+      "1: T-butyl_chloride",
+      "1: Methyl_chloride"
+   ]
+}

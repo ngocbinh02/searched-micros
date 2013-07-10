@@ -1,0 +1,57 @@
+{
+   "micrownet" : [
+      "forenoon"
+   ],
+   "duck" : [
+      "Forenoon is the early part of the day ending with noon.",
+      "https://en.wikipedia.org/wiki/Forenoon",
+      "\n<a href=\"http://duckduckgo.com/Afternoon\">Afternoon</a> -   Afternoon is the period between noon and evening.",
+      "HASH(0x4b21f30)",
+      "Wikipedia",
+      "Forenoon",
+      "http://www.merriam-webster.com/dictionary/forenoon",
+      "forenoon definition: the early part of the day ending with noon.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Noon\">Noon</a> - Noon is usually defined as 12 o'clock in the daytime.",
+      "HASH(0x4ab4d68)",
+      "\n<a href=\"http://duckduckgo.com/Midnight\">Midnight</a> - Midnight is  the transition time period from one day to the next: the moment when the date changes.",
+      "Forenoon is the early part of the day ending with noon.",
+      "A",
+      "\n<a href=\"http://duckduckgo.com/c/Parts_of_a_day\">Parts of a day</a>"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462646,
+   "book" : [],
+   "micro-www" : {
+      "forenoon" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Parts of a day"
+      ],
+      "text" : "\n'Forenoon' is the part of the day between sunrise and\nnoon.<ref>http://www.thefreedictionary.com/forenoon</ref>\n\nThe term should not be confused with \"fore noon\" (two separate words), which is\na translation of the Latin ante meridiem (a.m.), meaning a time between 12:00\nmidnight and 12:00 midday.\n",
+      "title" : "forenoon",
+      "headings" : [
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "1: Sunrise",
+      "1: Noon",
+      "1: Midnight",
+      "1: Midday",
+      "1: Afternoon",
+      "1: 12-hour_clock"
+   ]
+}

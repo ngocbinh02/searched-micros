@@ -1,0 +1,76 @@
+{
+   "micrownet" : [
+      "data_point"
+   ],
+   "duck" : [
+      "HASH(0x49ae058)",
+      "HASH(0x4a89ea0)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Saturn%27s_moon_Titan_hosts_liquid_lakes_and_rivers\" title=\"Saturn&#39;s moon Titan hosts liquid lakes and rivers\">Saturn&#39;s moon Titan hosts liquid lakes and rivers</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Lycos_launches_screensaver_to_increase_spammers%27_bills\" title=\"Lycos launches screensaver to increase spammers&#39; bills\">Lycos launches screensaver to increase spammers&#39; bills</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tunisia,_South_Korea_partner_to_monitor_air_quality\" title=\"Tunisia, South Korea partner to monitor air quality\">Tunisia, South Korea partner to monitor air quality</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Search_in_Atlantic_underway_for_missing_Air_France_passenger_jet\" title=\"Search in Atlantic underway for missing Air France passenger jet\">Search in Atlantic underway for missing Air France passenger jet</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/India_successfully_test-fires_Agni-III_missile\" title=\"India successfully test-fires Agni-III missile\">India successfully test-fires Agni-III missile</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/One_in_five_Americans_finds_socialism_superior,_poll_says\" title=\"One in five Americans finds socialism superior, poll says\">One in five Americans finds socialism superior, poll says</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/World_Bank_says_more_people_are_poor,_but_fewer_are_in_extreme_poverty\" title=\"World Bank says more people are poor, but fewer are in extreme poverty\">World Bank says more people are poor, but fewer are in extreme poverty</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Dollar_reaches_record_low_after_US_consumer_confidence_and_home_prices_fall\" title=\"Dollar reaches record low after US consumer confidence and home prices fall\">Dollar reaches record low after US consumer confidence and home prices fall</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/ACLU,_EFF_challenging_US_%27secret%27_court_orders_seeking_Twitter_data\" title=\"ACLU, EFF challenging US &#39;secret&#39; court orders seeking Twitter data\">ACLU, EFF challenging US &#39;secret&#39; court orders seeking Twitter <span class=\"searchmatch\">data</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Black_boxes%27_pulled_from_Air_India_plane_wreckage\" title=\"&#39;Black boxes&#39; pulled from Air India plane wreckage\">&#39;Black boxes&#39; pulled from Air India plane wreckage</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Wikimania_2008:_MediaWiki_use_in_the_U.S._Department_of_State\" title=\"Wikimania 2008: MediaWiki use in the U.S. Department of State\">Wikimania 2008: MediaWiki use in the U.S. Department of State</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/A_false_quake_warning_in_Japan_exposes_problems_for_practical_use\" title=\"A false quake warning in Japan exposes problems for practical use\">A false quake warning in Japan exposes problems for practical use</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hubble_Space_Telescope_running_on_two_gyroscopes\" title=\"Hubble Space Telescope running on two gyroscopes\">Hubble Space Telescope running on two gyroscopes</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Japan%27s_lunar_probe_performing_%27smoothly%27_after_successful_launch\" title=\"Japan&#39;s lunar probe performing &#39;smoothly&#39; after successful launch\">Japan&#39;s lunar probe performing &#39;smoothly&#39; after successful launch</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Dow_falls_340_points_amid_unemployment_and_retail_sales_rates_news\" title=\"Dow falls 340 points amid unemployment and retail sales rates news\">Dow falls 340 points amid unemployment and retail sales rates news</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:May_24,_2010\" title=\"News briefs:May 24, 2010\">News briefs:May 24, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Research_articles_predict_next_earthquake\" title=\"Research articles predict next earthquake\">Research articles predict next earthquake</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/VP_Cheney_role_surfaces_in_U.S._domestic_spying\" title=\"VP Cheney role surfaces in U.S. domestic spying\">VP Cheney role surfaces in U.S. domestic spying</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:July_20,_2010\" title=\"News briefs:July 20, 2010\">News briefs:July 20, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:July_14,_2010\" title=\"News briefs:July 14, 2010\">News briefs:July 14, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:July_14,_2010#Crash_data_suggests_driver_error_in_Toyota_accidents_.286:34.29\" title=\"News briefs:July 14, 2010\">Crash <span class=\"searchmatch\">data</span> suggests driver error in Toyota accidents (6:34) </a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462399,
+   "book" : [],
+   "micro-www" : {
+      "data_point" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Statistical data types",
+         "Statistical charts and diagrams",
+         "Statistical terminology"
+      ],
+      "text" : "\n\nIn statistics, a 'data point' is a set of measurements on a single member of a\nstatistical population, or a subset of those measurements for a given\nindividual. In addition, in statistical graphics, a \"data point\" may be an\nindividual item with a statistical display; such points may relate to either a\nsingle member of a population or to a summary statistic calculated for a given\nsubpopulation.\n",
+      "title" : "data point",
+      "headings" : [
+         "Discussion",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "2: Statistical_graphics",
+      "1: Statistics",
+      "1: Level_of_measurement",
+      "1: Statistical_population",
+      "1: Summary_statistic",
+      "1: Datatype",
+      "1: Computing",
+      "1: Boolean_logic",
+      "1: Integer",
+      "1: Real_number",
+      "1: Vector_space",
+      "1: Array_data_structure",
+      "1: Data_processing",
+      "1: Data",
+      "1: Unit_of_observation"
+   ]
+}

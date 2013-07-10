@@ -1,0 +1,40 @@
+{
+   "micrownet" : [
+      "vital_statistics"
+   ],
+   "duck" : [
+      "HASH(0x4c3c988)",
+      "HASH(0x4b77080)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Brazil%27s_Embraer_plans_to_cut_around_4,200_jobs\" title=\"Brazil&#39;s Embraer plans to cut around 4,200 jobs\">Brazil&#39;s Embraer plans to cut around 4,200 jobs</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scientist_demands_end_to_US_%27addiction_to_oil%27\" title=\"Scientist demands end to US &#39;addiction to oil&#39;\">Scientist demands end to US &#39;addiction to oil&#39;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Author_Amy_Scobee_recounts_abuse_as_Scientology_executive\" title=\"Author Amy Scobee recounts abuse as Scientology executive\">Author Amy Scobee recounts abuse as Scientology executive</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chula_Vista,_California_becomes_model_for_blight_control_laws_in_the_US\" title=\"Chula Vista, California becomes model for blight control laws in the US\">Chula Vista, California becomes model for blight control laws in the US</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462399,
+   "book" : [],
+   "micro-www" : {
+      "vital_statistics" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Vital statistics' may refer to:\n\n*Vital statistics, a government database recording the births and deaths of\nindividuals within that government's jurisdiction *Bust-waist-hip measurements,\ninformally called 'vital statistics', measurements for the purpose of fitting\nclothes *Vital signs, measures of various physiological statistics, often taken\nby health professionals, in order to assess the most basic body functions *Vital\nStatistics (opera), a 1987 one-act opera about physiognomy. It was expanded in\n2000, and re-titled [[Facing Goya]] *Vitalistics, a 2002 alternative hip-hop\ndebut album by HKB FiNN, released under the Son Records label in the UK\n",
+      "title" : "vital statistics",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Bust/waist/hip_measurements",
+      "1: Vital_signs",
+      "1: HKB_FiNN"
+   ]
+}

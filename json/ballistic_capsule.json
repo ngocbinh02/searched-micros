@@ -1,0 +1,24 @@
+{
+   "micrownet" : [
+      "ballistic_capsule"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Soyuz_TMA-11_spacecraft_lands\" title=\"Soyuz TMA-11 spacecraft lands\">Soyuz TMA-11 spacecraft lands</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373474571,
+   "book" : [],
+   "micro-www" : {
+      "ballistic_capsule" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

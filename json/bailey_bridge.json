@@ -1,0 +1,121 @@
+{
+   "micrownet" : [
+      "bailey_bridge"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.K._National_Portrait_Gallery_threatens_U.S._citizen_with_legal_action_over_Wikimedia_images\" title=\"U.K. National Portrait Gallery threatens U.S. citizen with legal action over Wikimedia images\">U.K. National Portrait Gallery threatens U.S. citizen with legal action over Wikimedia images</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UEFA_Champions_League:_quarter-final_first_leg_roundup\" title=\"UEFA Champions League: quarter-final first leg roundup\">UEFA Champions League: quarter-final first leg roundup</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373468134,
+   "book" : [],
+   "micro-www" : {
+      "bailey_bridge" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Bridges",
+         "Truss bridges",
+         "Military bridges and ferries",
+         "Trusses"
+      ],
+      "text" : "\n{{BridgeTypePix| |type_name = Bailey bridge |image = PontBailey.jpg\n|image_title = Bailey bridge over the Meurthe River, France |sibling_names =\nCallender-Hamilton bridge |span_range = Short |descendent_names = Mabey\nLogistic Support Bridge, Medium Girder Bridge |ancestor_names = Truss bridge\n|carries = Pedestrians, Road vehicles |material = Timber, steel |movable = No\n|design = Low |falsework = None }} The 'Bailey bridge' is a type of portable,\npre-fabricated, truss bridge. It was developed by the British during World War\nII for military use and saw extensive use by both British and the American\nmilitary engineering units.\n\nA Bailey bridge had the advantages of requiring no special tools or heavy\nequipment to construct. The wood and steel bridge elements were small and light\nenough to be carried in trucks and lifted into place by hand, without requiring\nthe use of a crane. The bridges were strong enough to carry tanks. Bailey\nbridges continue to be extensively used in civil engineering construction\nprojects and to provide temporary crossings for foot and vehicle traffic.\n",
+      "title" : "bailey bridge",
+      "headings" : [
+         "History",
+         "Design",
+         "Use in the Second World War",
+         "Modern Bailey bridges",
+         "Other uses",
+         "Depiction in the media",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "3: Callender-Hamilton_bridge",
+      "2: Steel",
+      "2: World_War_II",
+      "2: Military_engineer",
+      "2: Tank",
+      "2: Pontoon_bridge",
+      "1: Meurthe_River",
+      "1: Mabey_Logistic_Support_Bridge",
+      "1: Medium_Girder_Bridge",
+      "1: Truss_bridge",
+      "1: Timber",
+      "1: Prefabrication",
+      "1: Truss",
+      "1: Bridge",
+      "1: Truck",
+      "1: Civil_servant",
+      "1: United_Kingdom",
+      "1: War_Office",
+      "1: Royal_Engineers",
+      "1: Christchurch,_Dorset",
+      "1: Stanpit_Marsh",
+      "1: River_Stour,_Dorset",
+      "1: Corps_of_Royal_Engineers",
+      "1: D-Day",
+      "1: British_Cellophane_Ltd",
+      "1: United_States",
+      "1: Knight",
+      "1: Patent",
+      "1: A._M._Hamilton",
+      "1: Royal_Commission_on_Awards_to_Inventors",
+      "1: Lieutenant_General",
+      "1: Sir",
+      "1: Giffard_Le_Quesne_Martel",
+      "1: Box_girder_bridge",
+      "1: Ranville",
+      "1: Dortmund-Ems_Canal",
+      "1: Heavy_equipment",
+      "1: Alloy",
+      "1: Matériel",
+      "1: Wood",
+      "1: Wood_plank",
+      "1: Continuous_track",
+      "1: Medjerda_River",
+      "1: Medjez_el_Bab",
+      "1: Tunisia",
+      "1: Leonforte",
+      "1: Saar_River",
+      "1: US_Fifth_Army",
+      "1: British_8th_Army",
+      "1: Sicily",
+      "1: Italy",
+      "1: Sangro_River",
+      "1: Chindwin_River",
+      "1: Burma",
+      "1: Field_Marshal",
+      "1: Bernard_Montgomery",
+      "1: Libya",
+      "1: Engineering",
+      "1: Hobart",
+      "1: Tasman_Bridge_disaster",
+      "1: Tasman_Bridge",
+      "1: Dras_River",
+      "1: Ladakh",
+      "1: India",
+      "1: Indian_Army",
+      "1: Lime_Rock_Park",
+      "1: Lakeville,_Connecticut",
+      "1: Skylark_launch_tower",
+      "1: Woomera_Prohibited_Area",
+      "1: Ontario_Hydro",
+      "1: Hurricane_Hazel",
+      "1: Old_Finch_Avenue_Bailey_Bridge",
+      "1: Operation_Market_Garden",
+      "1: 101st_Airborne_Division"
+   ]
+}

@@ -1,0 +1,90 @@
+{
+   "micrownet" : [
+      "actor's_assistant",
+      "assistant",
+      "assistant_foreman",
+      "assistant_professor",
+      "chief_assistant",
+      "dental_assistant",
+      "legal_assistant",
+      "medical_assistant",
+      "personal_digital_assistant",
+      "secretarial_assistant",
+      "shop_assistant",
+      "waiter's_assistant"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/the_Assistant_(TV_series)\">The Assistant (television)</a>, an MTV reality show",
+      "Assistant",
+      "\n<a href=\"http://duckduckgo.com/Assistant_(Google)\">Assistant (Google)</a>, an upcoming virtual assistant by Google",
+      "http://www.merriam-webster.com/dictionary/assistant",
+      "\n<a href=\"http://duckduckgo.com/ST_Assistant\">ST Assistant</a>, a British tugboat",
+      "assistant definition: a person who assists.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Physician_assistant\">Physician assistant</a> - A physician assistant (PA), is a healthcare professional who is trained to practice medicine as part of a team with physicians.",
+      "\n<a href=\"http://duckduckgo.com/wizard_(software)\">Assistant (software)</a>, a software tool to assist in computer configuration",
+      "\n<a href=\"http://duckduckgo.com/Personal_assistant\">Personal assistant</a> - A personal assistant or personal aide (PA) is someone who assists in daily business or personal tasks.",
+      "\n<a href=\"http://duckduckgo.com/Office_Assistant\">Office Assistant</a> - The Office Assistant was an Intelligent User Interface for Microsoft Office that assisted users by way of an interactive animated character, which interfaced with the Office help content.",
+      "\n<a href=\"http://duckduckgo.com/Assistant_(by_Speaktoit)\">Assistant (by Speaktoit)</a>, a virtual assistant app for smartphones"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Detroit_Lions_fire_coach_Mariucci,_two_assistant_coaches\" title=\"Detroit Lions fire coach Mariucci, two assistant coaches\">Detroit Lions fire coach Mariucci, two <span class=\"searchmatch\">assistant</span> coaches</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mime_Marcel_Marceau_dies_at_age_84\" title=\"Mime Marcel Marceau dies at age 84\">Mime Marcel Marceau dies at age 84</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/North_Korea_denies_entry_of_IAEA_inspectors\" title=\"North Korea denies entry of IAEA inspectors\">North Korea denies entry of IAEA inspectors</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Italian_university_legislation_sparks_protests_from_students_and_staff\" title=\"Italian university legislation sparks protests from students and staff\">Italian university legislation sparks protests from students and staff</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Reform_of_Italian_University_passed_in_Parlament._Serious_protest_of_student,_professor_and_university_assistant\" title=\"Reform of Italian University passed in Parlament. Serious protest of student, professor and university assistant\"> Parlament. Serious protest of student, professor and university <span class=\"searchmatch\">assistant</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Five_convicted_in_abortion_case_in_Portugal\" title=\"Five convicted in abortion case in Portugal\">Five convicted in abortion case in Portugal</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/French_woman_admits_to_killing_her_eight_infants\" title=\"French woman admits to killing her eight infants\">French woman admits to killing her eight infants</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/London_Police_Commissioner_seeks_new_powers\" title=\"London Police Commissioner seeks new powers\">London Police Commissioner seeks new powers</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Papua_New_Guinea_police_chief_attacked,_houses_torched_in_response\" title=\"Papua New Guinea police chief attacked, houses torched in response\">Papua New Guinea police chief attacked, houses torched in response</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/French_teacher_returns_home_after_being_held_in_Iran_for_ten_months\" title=\"French teacher returns home after being held in Iran for ten months\">French teacher returns home after being held in Iran for ten months</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Reports_of_at_least_fourteen_dead_this_week_due_to_gun-related_suicides_in_the_United_States\" title=\"Reports of at least fourteen dead this week due to gun-related suicides in the United States\">Reports of at least fourteen dead this week due to gun-related suicides in the United States</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/FIFA_to_make_changes_after_Thierry_Henry_handball\" title=\"FIFA to make changes after Thierry Henry handball\">FIFA to make changes after Thierry Henry handball</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Obama_%27angry%27_with_Afghanistan_general_Stanley_McChrystal\" title=\"Obama &#39;angry&#39; with Afghanistan general Stanley McChrystal\">Obama &#39;angry&#39; with Afghanistan general Stanley McChrystal</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Author_Amy_Scobee_recounts_abuse_as_Scientology_executive\" title=\"Author Amy Scobee recounts abuse as Scientology executive\">Author Amy Scobee recounts abuse as Scientology executive</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Apple_software_lets_Microsoft_Windows_boot_on_Macs\" title=\"New Apple software lets Microsoft Windows boot on Macs\">New Apple software lets Microsoft Windows boot on Macs</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Colin_Powell_Resigns_as_U.S._Secretary_of_State,_Rice_Likely_Successor\" title=\"Colin Powell Resigns as U.S. Secretary of State, Rice Likely Successor\">Colin Powell Resigns as U.S. Secretary of State, Rice Likely Successor</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NCAA_Basketball:_University_of_Connecticut_cited_for_eight_major_rules_violations\" title=\"NCAA Basketball: University of Connecticut cited for eight major rules violations\">NCAA Basketball: University of Connecticut cited for eight major rules violations</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/India_and_China_to_develop_friendly_relations\" title=\"India and China to develop friendly relations\">India and China to develop friendly relations</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/North_Korea_to_rejoin_six-nation_talks\" title=\"North Korea to rejoin six-nation talks\">North Korea to rejoin six-nation talks</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Lineup_coming_together_for_Manchester_United_charity_match\" title=\"Lineup coming together for Manchester United charity match\">Lineup coming together for Manchester United charity match</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471397,
+   "book" : [],
+   "micro-www" : {
+      "assistant" : [
+         "assistant",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Assistant' may refer to:\n* Assistant (by Speaktoit), a virtual assistant app for smartphones\n* Assistant (software), a software tool to assist in computer configuration\n* Assistant (Google), an upcoming virtual assistant by Google\n* ''The Assistant'' (television), an MTV reality show\n* ST ''Assistant, a British tugboat\n",
+      "title" : "assistant",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: ST_Assistant",
+      "1: Academy_Award_for_Best_Assistant_Director",
+      "1: Assistant_coach",
+      "1: Assistant_district_attorney",
+      "1: Certified_Nursing_Assistant",
+      "1: Graduate_assistant",
+      "1: Office_Assistant",
+      "1: Personal_assistant",
+      "1: Personal_Digital_Assistant",
+      "1: Physician_assistant",
+      "1: Production_assistant",
+      "1: Research_assistant",
+      "1: Teaching_assistant"
+   ]
+}

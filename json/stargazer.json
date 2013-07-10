@@ -1,0 +1,88 @@
+{
+   "micrownet" : [
+      "sand_stargazer",
+      "stargazer"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Lilium_%22Stargazer%22\">Lilium \"Stargazer\"</a>, a lily flower",
+      "Stargazer",
+      "\n<a href=\"http://duckduckgo.com/Stargazer\">Stargazer</a> is a species of fish.",
+      "http://www.merriam-webster.com/dictionary/stargazer",
+      "stargazer definition: one who gazes at the stars.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Planets_Jupiter,_Mercury_and_Mars_line_up,_visible_to_naked_eye\" title=\"Planets Jupiter, Mercury and Mars line up, visible to naked eye\">Planets Jupiter, Mercury and Mars line up, visible to naked eye</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Annual_Perseids_meteor_shower_visible_in_northern_hemisphere\" title=\"Annual Perseids meteor shower visible in northern hemisphere\">Annual Perseids meteor shower visible in northern hemisphere</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Jupiter_at_its_brightest_in_47_years\" title=\"Jupiter at its brightest in 47 years\">Jupiter at its brightest in 47 years</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373469506,
+   "book" : [],
+   "micro-www" : {
+      "stargazer" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Uranoscopidae|*",
+         "Trachinoidei",
+         "Venomous fish",
+         "Electric fish"
+      ],
+      "text" : "\n{{Taxobox\n| name = Stargazer image = Sketchbook of fishes - 26. Stargazer - William Buelow\n| Gould, c1832.jpg image_width = image_caption = Common stargazer, Kathetostoma\n| laeve, from the Sketchbook of fishes by William Buelow Gould regnum = Animalia\n| phylum = Chordata classis = Actinopterygii ordo = Perciformes subordo =\n| Trachinoidei familia = 'Uranoscopidae' familia_authority = Jordan & Evermann,\n| 1898 subdivision_ranks = Genera subdivision =\n[[Astroscopus]]<br/> [[Genyagnus]]<br/> [[Gnathagnus]]<br/>\n[[Ichthyscopus]]<br/> [[Kathetostoma]]<br/> [[Pleuroscopus]]<br/>\n[[Selenoscopus]]<br/> [[Uranoscopus]]<br/> [[Xenocephalus]]<br/> See text for\nspecies. }}\n\n\n\nThe 'stargazers' are a family 'Uranoscopidae' of perciform fish that have eyes\non top of their heads (hence the name). The family includes about 51 species\n(one extinct) in 8 genera, all marine and found worldwide in shallow waters.\n\nIn addition to the top-mounted eyes, stargazers also have a large upward-facing\nmouth in a large head. Their usual habit is to bury themselves in sand, and leap\nupwards to ambush prey (benthic fish and invertebrates) that pass overhead. Some\nspecies have a worm-shaped lure growing out of the floor of the mouth, which\nthey can wiggle to attract prey's attention. Both the dorsal and anal fins are\nrelatively long; some lack dorsal spines. Lengths range from 18&nbsp;cm up to\n90&nbsp;cm, for the giant stargazer Kathetostoma giganteum.\n\nStargazers are venomous; they have two large poison spines situated behind the\nopercle and above the pectoral fins. The species within the genera\n[[Astroscopus]] and [[Uranoscopus]] can also cause electric shocks. The species\nwithin [[Astroscopus]] have an electric organ consisting of modified eye\nmuscles, while the species within [[Uranoscopus]] have theirs derived from sonic\nmuscles.<ref></ref> They are one of the few (the other being the striped\ncatfish<ref></ref>) marine bony fishes that are electrogenic. The two genera\nwithin stargazers are out of eight total independent evolutions of\nbioelectrogenesis.<ref></ref> They are also unique among electric fish in not\npossessing specialized electroreceptors.<ref name=Alves-Gomes></ref>\n",
+      "title" : "stargazer",
+      "headings" : [
+         "Genera and species",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Giant_stargazer",
+      "2: Bioelectrogenesis",
+      "1: William_Buelow_Gould",
+      "1: Animal",
+      "1: Chordata",
+      "1: Actinopterygii",
+      "1: Perciformes",
+      "1: Trachinoidei",
+      "1: Perciform",
+      "1: Fish",
+      "1: Genus",
+      "1: Ocean",
+      "1: Benthic",
+      "1: Invertebrate",
+      "1: Dorsal_fin",
+      "1: Anal_fin",
+      "1: Poison",
+      "1: Opercle",
+      "1: Pectoral_fin",
+      "1: Electric_shock",
+      "1: Electric_organ",
+      "1: Bony_fish",
+      "1: Electric_fish",
+      "1: Northern_Stargazer",
+      "1: Southern_Stargazer",
+      "1: Tortonian",
+      "1: Calvert_Cliffs_State_Park",
+      "1: Maryland",
+      "1: Spotted_stargazer",
+      "1: Armoured_blenny",
+      "1: Freckled_stargazer",
+      "1: Bulldog_stargazer",
+      "1: Lancer_stargazer",
+      "1: Smooth_stargazer",
+      "1: Kathetostoma_binigrasella",
+      "1: Spiny_stargazer",
+      "1: Common_stargazer",
+      "1: Deepwater_stargazer"
+   ]
+}

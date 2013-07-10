@@ -1,0 +1,123 @@
+{
+   "micrownet" : [
+      "teleost_fish"
+   ],
+   "duck" : [
+      "HASH(0x497a438)",
+      "HASH(0x495e070)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465293,
+   "book" : [],
+   "micro-www" : {
+      "teleost_fish" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Teleostei|*",
+         "Neopterygii"
+      ],
+      "text" : "{{taxobox\n| fossil_range = <ref name=Palmer/><ref>\"The Paleobiology Database.\" The\n| Paleobiology Database. N.p., n.d. Web. 14 June 2013.\n| <http://paleodb.org/?a=basicTaxonInfo&taxon_no=202677>.</ref> image = F de Castelnau-\n| poissonsPl12.jpg image_width = 250px image_caption = Top to bottom:<br\n| />[[Retroculus lapidifer]] (Perciformes: Cichlidae)<br />Hairy Blenny,\n| [[Labrisomus nuchipinnis]]<br />(Perciformes: Labrisomidae)<br\n| />[[Ogcocephalus notatus]]<br />(Lophiiformes: Ogcocephalidae)<br />Blue Tang,\n| Acanthurus coeruleus<br />(Perciformes: Acanthuridae) regnum = Animalia phylum\n| = Chordata subphylum = Vertebrata superclassis = Osteichthyes classis =\n| Actinopterygii subclassis = Neopterygii infraclassis = 'Teleostei'\n| subdivision_ranks = Superorders subdivision =\nOsteoglossomorpha<br /> Elopomorpha<br /> Clupeomorpha<br /> Ostariophysi<br />\nProtacanthopterygii<br /> Stenopterygii<br /> Cyclosquamata<br />\nScopelomorpha<br /> Lampridiomorpha<br /> Polymyxiomorpha<br />\nParacanthopterygii<br /> Acanthopterygii}}\n\n'Teleostei' is one of three infraclasses in class Actinopterygii, the ray-finned\nfishes. This diverse group, which arose in the Triassic period,<ref name =\nPalmer></ref> includes 26,840 extant species in about 40 orders and 448\nfamilies; most living fishes are members of this group.<ref>Miller, Stephen, and\nJohn P. Harley. Zoology, Seventh Edition, pg 297. McGraw-Hill Higher Education.\nNew York, 2007.</ref> The other two infraclasses, Holostei and Chondrostei, may\nbe paraphyletic.<ref name=\"benton\"></ref>\n",
+      "title" : "Teleostei",
+      "headings" : [
+         "Characteristics",
+         "Systematics and evolution",
+         "Distribution",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "5: Perciformes",
+      "2: Lophiiformes",
+      "2: Actinopterygii",
+      "2: Triassic",
+      "2: Osteoglossiformes",
+      "2: Gobiesociformes",
+      "2: Gasterosteiformes",
+      "2: Syngnathiformes",
+      "1: Cichlidae",
+      "1: Hairy_Blenny",
+      "1: Labrisomidae",
+      "1: Ogcocephalidae",
+      "1: Blue_Tang",
+      "1: Acanthuridae",
+      "1: Animal",
+      "1: Chordate",
+      "1: Vertebrata",
+      "1: Osteichthyes",
+      "1: Neopterygii",
+      "1: Osteoglossomorpha",
+      "1: Elopomorpha",
+      "1: Clupeomorpha",
+      "1: Ostariophysi",
+      "1: Protacanthopterygii",
+      "1: Stenopterygii",
+      "1: Cyclosquamata",
+      "1: Scopelomorpha",
+      "1: Lampridiomorpha",
+      "1: Polymyxiomorpha",
+      "1: Paracanthopterygii",
+      "1: Acanthopterygii",
+      "1: Holostei",
+      "1: Chondrostei",
+      "1: Paraphyletic",
+      "1: Maxilla",
+      "1: Premaxilla",
+      "1: Fish_anatomy",
+      "1: Homocercal",
+      "1: Vertebral_column",
+      "1: Caudal_peduncle",
+      "1: Caudal_fin",
+      "1: Paleozoic",
+      "1: Bowfin",
+      "1: Mesozoic",
+      "1: Cenozoic",
+      "1: Hiodontiformes",
+      "1: Elopiformes",
+      "1: Albuliformes",
+      "1: Notacanthiformes",
+      "1: Anguilliformes",
+      "1: Saccopharyngiformes",
+      "1: Clupeiformes",
+      "1: Gonorynchiformes",
+      "1: Cypriniformes",
+      "1: Characiformes",
+      "1: Gymnotiformes",
+      "1: Siluriformes",
+      "1: Argentiniformes",
+      "1: Salmoniformes",
+      "1: Esociformes",
+      "1: Osmeriformes",
+      "1: Ateleopodiformes",
+      "1: Stomiiformes",
+      "1: Aulopiformes",
+      "1: Myctophiformes",
+      "1: Lampriformes",
+      "1: Polymixiiformes",
+      "1: Percopsiformes",
+      "1: Batrachoidiformes",
+      "1: Gadiformes",
+      "1: Ophidiiformes",
+      "1: Mugiliformes",
+      "1: Atheriniformes",
+      "1: Beloniformes",
+      "1: Cetomimiformes",
+      "1: Cyprinodontiformes",
+      "1: Stephanoberyciformes",
+      "1: Beryciformes",
+      "1: Zeiformes",
+      "1: Synbranchiformes",
+      "1: Tetraodontiformes",
+      "1: Pleuronectiformes",
+      "1: Scorpaeniformes"
+   ]
+}

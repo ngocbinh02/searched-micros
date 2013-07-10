@@ -1,0 +1,49 @@
+{
+   "micrownet" : [
+      "go_on"
+   ],
+   "duck" : [
+      "HASH(0x47c5188)",
+      "HASH(0x4964c58)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Philarmonia_Orchestra_of_Craiova,_Romania,_goes_on_%E2%80%9CTour_in_the_city%E2%80%9D\" title=\"Philarmonia Orchestra of Craiova, Romania, goes on “Tour in the city”\">Philarmonia Orchestra of Craiova, Romania, <span class=\"searchmatch\">goes</span> <span class=\"searchmatch\">on</span> “Tour in the city”</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Most_complete_dinosaur_from_Britain_goes_on_display\" title=\"Most complete dinosaur from Britain goes on display\">Most complete dinosaur from Britain <span class=\"searchmatch\">goes</span> <span class=\"searchmatch\">on</span> display</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Staffordshire_hoard_goes_on_display_in_British_Museum_in_London,_England\" title=\"Staffordshire hoard goes on display in British Museum in London, England\">Staffordshire hoard <span class=\"searchmatch\">goes</span> <span class=\"searchmatch\">on</span> display in British Museum in London, England</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_border_officers_go_on_Olympic_strike\" title=\"UK border officers go on Olympic strike\">UK border officers <span class=\"searchmatch\">go</span> <span class=\"searchmatch\">on</span> Olympic strike</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Gaddafi_loyalists_go_on_offensive,_rebels_pushed_back\" title=\"Gaddafi loyalists go on offensive, rebels pushed back\">Gaddafi loyalists <span class=\"searchmatch\">go</span> <span class=\"searchmatch\">on</span> offensive, rebels pushed back</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Athens_bank_fire_kills_three_as_Greece_goes_on_strike\" title=\"Athens bank fire kills three as Greece goes on strike\">Athens bank fire kills three as Greece <span class=\"searchmatch\">goes</span> <span class=\"searchmatch\">on</span> strike</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Neville_Chamberlain%27s_War_Diaries_go_on_display\" title=\"Neville Chamberlain&#39;s War Diaries go on display\">Neville Chamberlain&#39;s War Diaries <span class=\"searchmatch\">go</span> <span class=\"searchmatch\">on</span> display</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Zealand_man_goes_on_trial_in_Cambodia_over_sex_with_underage_girls\" title=\"New Zealand man goes on trial in Cambodia over sex with underage girls\">New Zealand man <span class=\"searchmatch\">goes</span> <span class=\"searchmatch\">on</span> trial in Cambodia over sex with underage girls</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Final_Harry_Potter_book_goes_on_sale\" title=\"Final Harry Potter book goes on sale\">Final Harry Potter book <span class=\"searchmatch\">goes</span> <span class=\"searchmatch\">on</span> sale</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Up_to_270,000_civil_servants_to_go_on_strike_in_UK_in_March\" title=\"Up to 270,000 civil servants to go on strike in UK in March\">Up to 270,000 civil servants to <span class=\"searchmatch\">go</span> <span class=\"searchmatch\">on</span> strike in UK in March</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Kaizer_Chiefs%27_Fans_go_on_the_Rampage\" title=\"Kaizer Chiefs&#39; Fans go on the Rampage\">Kaizer Chiefs&#39; Fans <span class=\"searchmatch\">go</span> <span class=\"searchmatch\">on</span> the Rampage</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/IPad_2_goes_on_sale_in_United_States\" title=\"IPad 2 goes on sale in United States\">IPad 2 <span class=\"searchmatch\">goes</span> <span class=\"searchmatch\">on</span> sale in United States</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chinese_dissident_goes_on_trial_for_subversion\" title=\"Chinese dissident goes on trial for subversion\">Chinese dissident <span class=\"searchmatch\">goes</span> <span class=\"searchmatch\">on</span> trial for subversion</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/70,000_General_Motors_employees_go_on_strike\" title=\"70,000 General Motors employees go on strike\">70,000 General Motors employees <span class=\"searchmatch\">go</span> <span class=\"searchmatch\">on</span> strike</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ukranian_manufacturer_preparing_to_sell_Adolf_Hitler_dolls\" title=\"Ukranian manufacturer preparing to sell Adolf Hitler dolls\">Ukranian manufacturer preparing to sell Adolf Hitler dolls</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Adolf_Hitler_doll_goes_on_sale_in_Ukraine\" title=\"Adolf Hitler doll goes on sale in Ukraine\">Adolf Hitler doll <span class=\"searchmatch\">goes</span> <span class=\"searchmatch\">on</span> sale in Ukraine</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Apartment_fire_in_south_London,_England_claims_victim_from_smoke_inhalation\" title=\"Apartment fire in south London, England claims victim from smoke inhalation\">Apartment fire in south London, England claims victim from smoke inhalation</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Man_killed_after_apartment_goes_on_fire_in_south_London,_England\" title=\"Man killed after apartment goes on fire in south London, England\">Man killed after apartment <span class=\"searchmatch\">goes</span> <span class=\"searchmatch\">on</span> fire in south London, England</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Former_Ukranian_PM_Yulia_Tymoshenko_goes_on_hunger_strike\" title=\"Former Ukranian PM Yulia Tymoshenko goes on hunger strike\">Former Ukranian PM Yulia Tymoshenko <span class=\"searchmatch\">goes</span> <span class=\"searchmatch\">on</span> hunger strike</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_soldiers_go_on_trial_for_abusing_Iraqi_prisoners\" title=\"UK soldiers go on trial for abusing Iraqi prisoners\">UK soldiers <span class=\"searchmatch\">go</span> <span class=\"searchmatch\">on</span> trial for abusing Iraqi prisoners</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/World%27s_cheapest_car_launched_in_India,_will_go_on_sale_in_April\" title=\"World&#39;s cheapest car launched in India, will go on sale in April\">World&#39;s cheapest car launched in India, will <span class=\"searchmatch\">go</span> <span class=\"searchmatch\">on</span> sale in April</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/University_hosting_panel_continues_discussion_on_Wikipedia_ethics_without_Wikimedia\" title=\"University hosting panel continues discussion on Wikipedia ethics without Wikimedia\">University hosting panel continues discussion on Wikipedia ethics without Wikimedia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Discussion_on_Wikipedia_ethics_to_go_on_without_Wikimedia\" title=\"Discussion on Wikipedia ethics to go on without Wikimedia\">Discussion on Wikipedia ethics to <span class=\"searchmatch\">go</span> <span class=\"searchmatch\">on</span> without Wikimedia</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462331,
+   "book" : [],
+   "micro-www" : {
+      "go_on" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

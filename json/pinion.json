@@ -1,0 +1,64 @@
+{
+   "micrownet" : [
+      "lantern_pinion",
+      "pinion",
+      "pinion_and_crown_wheel",
+      "pinion_and_ring_gear",
+      "pinioned",
+      "rack_and_pinion"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Pinyon_pine\">Pinyon</a> (or pinion, piñon) pine group",
+      "\n<a href=\"http://duckduckgo.com/Pinion\">Pinion</a>, the smallest gear in a gear drive train",
+      "Pinion",
+      "\n<a href=\"http://duckduckgo.com/Pinioning\">Pinioning</a>, the act of surgically removing a bird's pinion joint",
+      "http://www.merriam-webster.com/dictionary/pinion",
+      "pinion definition: the terminal section of a bird's wing including the carpus, metacarpus, and phalanges; '''broadly'''.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/FBI_to_begin_investigation_into_shooting_of_US_Air_Force_MP\" title=\"FBI to begin investigation into shooting of US Air Force MP\">FBI to begin investigation into shooting of US Air Force MP</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_gear_nomenclature"
+   ],
+   "created" : 1373471565,
+   "book" : [],
+   "micro-www" : {
+      "pinion" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Gears"
+      ],
+      "text" : "\n\n\n\n\nA 'pinion' is a round gear used in several applications:\n\n*usually the smallest gear in a gear drive train, although in the case of John\nBlenkinsop's [[Salamanca (locomotive)|Salamanca]], the pinion was rather\nlarge.<ref name=\"agma\"></ref> In many cases, such as remote controlled toys, the\npinion is also the drive gear. *the smaller gear that drives in a 90-degree\nangle towards a crown gear in a differential drive. *the small front sprocket on\na chain driven motorcycle. *the round gear that engages and drives a rack in a\nrack and pinion mechanism and against a rack in a rack railway. *in the case of\nradio-controlled cars with an engine (i.e. nitro) this pinion gear can be\nreferred to as a 'clutch bell' when it is paired with a centrifugal\nclutch.<ref>{{cite web\n| url = http://www.nitrorc.com/articles/clutch.html title = Clutch Tuning author\n| = Eric Perez publisher = NitroRC.com accessdate = 2010-01-29}}</ref>\n",
+      "title" : "pinion",
+      "headings" : [
+         "References",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Gear",
+      "1: Gear_train",
+      "1: John_Blenkinsop",
+      "1: Remote_control",
+      "1: Toy",
+      "1: Gear#Crown",
+      "1: Rack_and_pinion",
+      "1: Rack_railway",
+      "1: Radio-controlled_car",
+      "1: RC_cars#Fuel_models",
+      "1: RC_cars#Nitro-powered_models",
+      "1: Clutch#Centrifugal",
+      "1: List_of_gear_nomenclature"
+   ]
+}

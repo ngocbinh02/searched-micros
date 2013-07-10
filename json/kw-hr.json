@@ -1,0 +1,26 @@
+{
+   "micrownet" : [
+      "kw-hr"
+   ],
+   "duck" : [
+      "kW-hr",
+      "kWh or kW-hr A unit of electric energy equal to the work done by one kilowatt acting for one hour.",
+      "kWh or kW-hr A unit of electric energy equal to the work done by one kilowatt acting for one hour."
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373469134,
+   "book" : [],
+   "micro-www" : {
+      "kw-hr" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

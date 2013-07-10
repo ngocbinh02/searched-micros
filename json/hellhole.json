@@ -1,0 +1,76 @@
+{
+   "micrownet" : [
+      "hellhole"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/c/Wild_caves\">Wild caves</a>",
+      "\n<a href=\"http://duckduckgo.com/c/Monongahela_National_Forest\">Monongahela National Forest</a>",
+      "\n<a href=\"http://duckduckgo.com/c/Caves_of_West_Virginia\">Caves of West Virginia</a>",
+      "\n<a href=\"http://duckduckgo.com/c/Geography_of_Pendleton_County%2C_West_Virginia\">Geography of Pendleton County, West Virginia</a>",
+      "Hellhole",
+      "http://www.merriam-webster.com/dictionary/hellhole",
+      "hellhole definition: a place of extreme misery or squalor.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/c/Limestone_caves\">Limestone caves</a>",
+      "Hellhole is a large and deep pit cave in Germany Valley, eastern West Virginia."
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373472063,
+   "book" : [],
+   "micro-www" : {
+      "hellhole" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Monongahela National Forest",
+         "Geography of Pendleton County, West Virginia",
+         "Caves of West Virginia",
+         "Limestone caves",
+         "Wild caves"
+      ],
+      "text" : "\n{{Infobox cave\n| name = Hellhole other_name = photo = photo_width = photo_caption = location\n| = Germany Valley, West Virginia depth = 518 ft (158 m) length = 28 m (45\n| km) survey = survey_format = discovery = 1940s geology = New Market\n| limestone entrance_count = 1 entrance_list = difficulty = hazards = bat\n| cave access = private\n}}\n\n'Hellhole' is a large and deep pit cave in Germany Valley, eastern West\nVirginia. It is the 8th longest cave in the United States and is home to almost\nhalf of the world's population of Virginia big-eared bats. At 518 feet (158\nmeters), Hellhole is the deepest of several caves in the Valley.<ref\nname=\"titleSessions\"> </ref>\n\nHellhole has had a long and storied association with the National Speleological\nSociety dating back to the creation of that organization in the early 1940s.\nMany basic caving techniques (e.g., the single rope technique) were developed in\nHellhole's 154-foot (47 meter) entrance drop.\n",
+      "title" : "hellhole",
+      "headings" : [
+         "Description",
+         "Ecology",
+         "History",
+         "Miscellany",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Indiana_bat",
+      "2: West_Virginia_Department_of_Natural_Resources",
+      "2: West_Virginia_Department_of_Environmental_Protection",
+      "1: Pit_cave",
+      "1: Germany_Valley",
+      "1: West_Virginia",
+      "1: Corynorhinus",
+      "1: National_Speleological_Society",
+      "1: Single_Rope_Technique",
+      "1: North_Fork_Mountain",
+      "1: New_Market_limestone",
+      "1: Greer_Lime_Company",
+      "1: Little_brown_bat",
+      "1: Germany_Valley_Cave_Millipede",
+      "1: Luray_Caverns_Blind_Cave_Millipede",
+      "1: Greer_Limestone_Plant",
+      "1: Greer_Industries,_Inc.",
+      "1: Riverton,_West_Virginia",
+      "1: United_States_Fish_and_Wildlife_Service",
+      "1: John_Raese",
+      "1: West_Virginia_Division_of_Natural_Resources",
+      "1: U.S._Fish_and_Wildlife_Service",
+      "1: West_Virginia_Speleological_Survey"
+   ]
+}

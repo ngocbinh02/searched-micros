@@ -1,0 +1,64 @@
+{
+   "micrownet" : [
+      "synthetic_resin"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471066,
+   "book" : [],
+   "micro-www" : {
+      "synthetic_resin" : [
+         "Synthetic_resin",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Plastics",
+         "Synthetic resins|*",
+         "Polymers"
+      ],
+      "text" : "'Synthetic resins' are materials with a property of interest that is similar to\nnatural plant resins: they are viscous liquids that are capable of hardening\npermanently. Otherwise, chemically they are very different from the various\nresinous compounds secreted by plants (see resin for discussion of the natural\nproducts).\n\nThe synthetics are of several classes. Some are manufactured by esterification\nor soaping of organic compounds. Some are thermosetting plastics in which the\nterm \"resin\" is loosely applied to the reactant or product, or both. \"Resin\" may\nbe applied to one of two monomers in a copolymer (the other being called a\n\"hardener\", as in epoxy resins). For those thermosetting plastics which require\nonly one monomer, the monomer compound is the \"resin.\" For example, liquid\nmethyl methacrylate is often called the \"resin\" or \"casting resin\" while it is\nin the liquid state, before it polymerizes and \"sets.\" After setting, the\nresulting PMMA is often renamed acrylic glass, or \"acrylic.\" (This is the same\nmaterial called Plexiglas and Lucite).\n",
+      "title" : "synthetic resin",
+      "headings" : [
+         "Types of synthetic resins",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Resin",
+      "2: Epoxy_resin",
+      "2: Methyl_methacrylate",
+      "2: Acrylic_glass",
+      "1: Viscosity",
+      "1: Esterification",
+      "1: Soap",
+      "1: Organic_compounds",
+      "1: Thermosetting_plastic",
+      "1: Copolymer",
+      "1: Polymerization",
+      "1: Thermoset",
+      "1: Composite_material",
+      "1: Polyurethane",
+      "1: Acetal_resin",
+      "1: Repeat_unit",
+      "1: Ion_exchange_resin",
+      "1: Water_purification",
+      "1: Catalysis",
+      "1: Organic_reaction",
+      "1: AT-10_resin",
+      "1: Melamine_resin",
+      "1: Bile_acid_sequestrant",
+      "1: Hypolipidemic_agent",
+      "1: Unsaturated_polyester_resin",
+      "1: Resin_casting"
+   ]
+}

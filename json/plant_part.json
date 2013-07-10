@@ -1,0 +1,46 @@
+{
+   "micrownet" : [
+      "plant_part"
+   ],
+   "duck" : [
+      "HASH(0x49a4a40)",
+      "HASH(0x47d5948)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Iran_inaugurates_heavy-water_production_plant\" title=\"Iran inaugurates heavy-water production plant\">Iran inaugurates heavy-water production <span class=\"searchmatch\">plant</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ford_Motor_Company_cutting_30,000_jobs_by_2012\" title=\"Ford Motor Company cutting 30,000 jobs by 2012\">Ford Motor Company cutting 30,000 jobs by 2012</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pichilemu,_Chile%27s_Wastewater_Treatment_Plant_to_be_inaugurated\" title=\"Pichilemu, Chile&#39;s Wastewater Treatment Plant to be inaugurated\">Pichilemu, Chile&#39;s Wastewater Treatment <span class=\"searchmatch\">Plant</span> to be inaugurated</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Morogoro_Plastic,_funded_by_Barclays,_to_open_$2m_network_of_recycling_plants_in_Tanzania\" title=\"Morogoro Plastic, funded by Barclays, to open $2m network of recycling plants in Tanzania\">Morogoro Plastic, funded by Barclays, to open $2m network of recycling <span class=\"searchmatch\">plants</span> in Tanzania</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Four_dead_after_Washington_refinery_fire\" title=\"Four dead after Washington refinery fire\">Four dead after Washington refinery fire</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Vestas_plant_in_Newport,_England_shuts_down\" title=\"Vestas plant in Newport, England shuts down\">Vestas <span class=\"searchmatch\">plant</span> in Newport, England shuts down</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Garden_at_Elmwood_and_Forest_in_Buffalo,_N.Y._dedicated\" title=\"Garden at Elmwood and Forest in Buffalo, N.Y. dedicated\">Garden at Elmwood and Forest in Buffalo, N.Y. dedicated</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/May_Day_march_takes_place_in_London\" title=\"May Day march takes place in London\">May Day march takes place in London</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_President_Barack_Obama_test_drives_Chevy_Volt_in_Michigan\" title=\"US President Barack Obama test drives Chevy Volt in Michigan\">US President Barack Obama test drives Chevy Volt in Michigan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Researchers_discover_high_temperature_enables_more_efficient_hydrogen_generation\" title=\"Researchers discover high temperature enables more efficient hydrogen generation\">Researchers discover high temperature enables more efficient hydrogen generation</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.N._to_begin_forming_response_to_Iranian_nuclear_program\" title=\"U.N. to begin forming response to Iranian nuclear program\">U.N. to begin forming response to Iranian nuclear program</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Study_finds_marijuana_use_leads_to_brain_development_in_rats\" title=\"Study finds marijuana use leads to brain development in rats\">Study finds marijuana use leads to brain development in rats</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_PM_promises_to_assist_Corby\" title=\"Australian PM promises to assist Corby\">Australian PM promises to assist Corby</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_Government_under_pressure_to_reveal_nuclear_sites\" title=\"Australian Government under pressure to reveal nuclear sites\">Australian Government under pressure to reveal nuclear sites</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/California_meat_packing_firm_recalls_143M_pounds_of_beef\" title=\"California meat packing firm recalls 143M pounds of beef\">California meat packing firm recalls 143M pounds of beef</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_claims_North_Korea_helped_Syria_build_reactor_bombed_by_Israel\" title=\"US claims North Korea helped Syria build reactor bombed by Israel\">US claims North Korea helped Syria build reactor bombed by Israel</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Thousands_of_jobs_to_go_at_Corus\" title=\"Thousands of jobs to go at Corus\">Thousands of jobs to go at Corus</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Russian_polar_submarine_TV_footage_faked\" title=\"Russian polar submarine TV footage faked\">Russian polar submarine TV footage faked</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/DaimlerChrysler_plans_to_cut_13,000_jobs\" title=\"DaimlerChrysler plans to cut 13,000 jobs\">DaimlerChrysler plans to cut 13,000 jobs</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Santa_Ana_Volcano_Erupts_in_El_Salvador\" title=\"Santa Ana Volcano Erupts in El Salvador\">Santa Ana Volcano Erupts in El Salvador</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462202,
+   "book" : [],
+   "micro-www" : {
+      "plant_part" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

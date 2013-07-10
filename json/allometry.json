@@ -1,0 +1,109 @@
+{
+   "micrownet" : [
+      "allometry"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/c/Ecological_experiments\">Ecological experiments</a>",
+      "Allometry is the study of the relationship of body size to shape, anatomy, physiology and finally behaviour, first outlined by Otto Snell in 1892, D'Arcy Thompson in 1917 and Julian Huxley in 1932.",
+      "https://en.wikipedia.org/wiki/Allometry",
+      "\n<a href=\"http://duckduckgo.com/c/Physiology\">Physiology</a>",
+      "HASH(0x4a58568)",
+      "Wikipedia",
+      "Allometry",
+      "http://www.merriam-webster.com/dictionary/allometry",
+      "allometry definition: relative growth of a part in relation to an entire organism or to a standard.",
+      "Merriam-Webster",
+      "https://i.duckduckgo.com/i/33452675.jpg",
+      "HASH(0x49e0928)",
+      "Allometry is the study of the relationship of body size to shape, anatomy, physiology and finally behaviour, first outlined by Otto Snell in 1892, D'Arcy Thompson in 1917 and Julian Huxley in 1932.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465655,
+   "book" : [],
+   "micro-www" : {
+      "allometry" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Branches of biology",
+         "Physiology",
+         "Ecological experiments"
+      ],
+      "text" : "\n\n'Allometry' is the study of the relationship of body size to shape,<ref></ref>\nanatomy, physiology and finally behaviour,<ref></ref> first outlined by Otto\nSnell in 1892,<ref></ref> D'Arcy Thompson in 1917<ref>{{cite book| first=D'Arcy\nW |last=Thompson |title=On Growth and Form |edition=Canto |year=1992\n|publisher=Cambridge University Press |isbn=978-0-521-43776-9\n|url=http://books.google.com/books?id=7_F4OUJmLFcC }}</ref> and Julian Huxley in\n1932.<ref></ref> Allometry is a well-known study, particularly in statistical\nshape analysis for its theoretical developments, as well as in biology for\npractical applications to the differential growth rates of the parts of a living\norganism's body. One application is in the study of various insect species\n(e.g., the Hercules Beetle), where a small change in overall body size can lead\nto an enormous and disproportionate increase in the dimensions of appendages\nsuch as legs, antennae, or horns. The relationship between the two measured\nquantities is often expressed as a power law:\n: <math>y = kx^{a} \\,\\!</math> or in a logarithmic form: <math>\\log y = a \\log x\n: + \\log k\\,\\!</math>\nwhere <math>a</math> is the 'scaling exponent' of the law. Methods for\nestimating this exponent from data use type 2 regressions such as major axis\nregression or reduced major axis regression as these account for the variation\nin both variables, contrary to least squares regression, which does not account\nfor error variance in the independent variable (e.g., log body mass). Other\nmethods include measurement error models and a particular kind of principal\ncomponent analysis.\n\nAllometry often studies shape differences in terms of ratios of the objects'\ndimensions. Two objects of different size but common shape will have their\ndimensions in the same ratio. Take, for example, a biological object that grows\nas it matures. Its size changes with age but the shapes are similar. Studies of\nontogenetic allometry often use lizards or snakes as model organisms because\nthey lack parental care after birth or hatching and because they exhibit a large\nrange of body size between the juvenile and adult stage. Lizards often exhibit\nallometric changes during their ontogeny.<ref></ref>\n\nIn addition to studies that focus on growth, allometry also examines shape\nvariation among individuals of a given age (and sex), which is referred to as\nstatic allometry. Comparisons of species are used to examine interspecific or\nevolutionary allometry (see also Phylogenetic comparative methods).\n",
+      "title" : "allometry",
+      "headings" : [
+         "Isometric scaling and geometric similarity",
+         "Allometric scaling",
+         "Determining if a system is scaling with allometry",
+         "Physiological scaling",
+         "Allometric scaling in fluid locomotion",
+         "Allometric engineering",
+         "Allometry in characteristics of a city",
+         "Examples",
+         "Determinants of size in different species",
+         "See also",
+         "References",
+         "Further reading",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "3: Power_law",
+      "2: Least_squares_regression",
+      "2: Phylogenetic_comparative_methods",
+      "2: Kleiber's_law",
+      "2: Metabolic_theory_of_ecology",
+      "2: Froude_number",
+      "1: Shape",
+      "1: Anatomy",
+      "1: Physiology",
+      "1: Otto_Snell",
+      "1: D'Arcy_Thompson",
+      "1: Julian_Huxley",
+      "1: Statistical_shape_analysis",
+      "1: Biology",
+      "1: Insect",
+      "1: Hercules_Beetle",
+      "1: Major_axis_regression",
+      "1: Reduced_major_axis_regression",
+      "1: Measurement_error",
+      "1: Power_law#Power-law_functions",
+      "1: Ratio",
+      "1: Lizards",
+      "1: Snakes",
+      "1: Parental_care",
+      "1: Birth",
+      "1: Adult",
+      "1: Ontogeny",
+      "1: Square-cube_law",
+      "1: Isometry",
+      "1: Varanidae",
+      "1: Dimensional_analysis",
+      "1: Log-log_plot",
+      "1: Calorie",
+      "1: VO2_max",
+      "1: Muscle",
+      "1: Frequency",
+      "1: Dynamic_energy_budget",
+      "1: Allometric_engineering",
+      "1: Cruising_speed",
+      "1: Habitat",
+      "1: Evolution",
+      "1: Biomechanics",
+      "1: Comparative_physiology",
+      "1: Constructal_theory",
+      "1: Evolutionary_physiology",
+      "1: Scaling_law",
+      "1: Rensch's_rule"
+   ]
+}

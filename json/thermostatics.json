@@ -1,0 +1,120 @@
+{
+   "micrownet" : [
+      "thermostatics"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ontario_Votes_2007:_Interview_with_Green_candidate_Marion_Schaffer,_Oakville\" title=\"Ontario Votes 2007: Interview with Green candidate Marion Schaffer, Oakville\">Ontario Votes 2007: Interview with Green candidate Marion Schaffer, Oakville</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_nuclear_power_plants_rejected_by_states\" title=\"Australian nuclear power plants rejected by states\">Australian nuclear power plants rejected by states</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canada%27s_Toronto%E2%80%94Danforth_(Ward_29)_city_council_candidates_speak\" title=\"Canada&#39;s Toronto—Danforth (Ward 29) city council candidates speak\">Canada&#39;s Toronto—Danforth (Ward 29) city council candidates speak</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373468329,
+   "book" : [],
+   "micro-www" : {
+      "thermostatics" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Concepts in physics",
+         "Chemical engineering",
+         "Mechanical engineering",
+         "Fluid mechanics",
+         "Equations of state|"
+      ],
+      "text" : "\nIn physics and thermodynamics, an 'equation of state' is a relation between\nstate variables.<ref name=\"Perrot\" ></ref> More specifically, an equation of\nstate is a thermodynamic equation describing the state of matter under a given\nset of physical conditions. It is a constitutive equation which provides a\nmathematical relationship between two or more state functions associated with\nthe matter, such as its temperature, pressure, volume, or internal energy.\nEquations of state are useful in describing the properties of fluids, mixtures\nof fluids, solids, and even the interior of stars.\n",
+      "title" : "Equation%20of%20state",
+      "headings" : [
+         "Overview",
+         "Historical",
+         "Major equations of state",
+         "Cubic equations of state",
+         "Non-cubic equations of state",
+         "Virial equations of state",
+         "Multiparameter equations of state",
+         "Other equations of state of interest",
+         "Equations of state for solids",
+         "See also",
+         "References",
+         "Bibliography"
+      ]
+   },
+   "micro-relation" : [
+      "6: Acentric_factor",
+      "4: Critical_properties",
+      "3: Universal_gas_constant",
+      "3: Compressibility_factor",
+      "2: State_function",
+      "2: Solid",
+      "2: Star",
+      "2: Ideal_gas_law",
+      "2: Gas_constant",
+      "2: Van_der_Waals_equation",
+      "2: Redlich–Kwong_equation_of_state",
+      "2: Thermodynamic_temperature",
+      "2: Departure_function",
+      "1: Physics",
+      "1: Thermodynamics",
+      "1: Thermodynamic_equations",
+      "1: Constitutive_equation",
+      "1: Temperature",
+      "1: Pressure",
+      "1: Internal_energy",
+      "1: Fluid",
+      "1: Neutron_star",
+      "1: Quark-gluon_plasma",
+      "1: Perfect_fluid",
+      "1: Robert_Boyle",
+      "1: Edme_Mariotte",
+      "1: Jacques_Charles",
+      "1: Joseph_Louis_Gay-Lussac",
+      "1: Dalton's_Law",
+      "1: Émile_Clapeyron",
+      "1: J._D._van_der_Waals",
+      "1: International_System_of_Units",
+      "1: Heat_capacity_ratio",
+      "1: Cubic_function",
+      "1: Molar_volume",
+      "1: Cubic_function#Cardano.27s_method",
+      "1: Vapor-liquid_equilibria",
+      "1: Vapor-liquid_equilibrium",
+      "1: Boltzmann's_constant",
+      "1: Avogadro's_number",
+      "1: Molar_mass",
+      "1: Statistical_mechanics",
+      "1: Kamerlingh_Onnes",
+      "1: Virial_coefficient",
+      "1: Gulf_Publishing_Company",
+      "1: Underwater_explosion",
+      "1: Extracorporeal_shock_wave_lithotripsy",
+      "1: Sonoluminescence",
+      "1: Specific_heat_capacity",
+      "1: Ultrarelativistic_fluid",
+      "1: Speed_of_sound",
+      "1: Bose_gas",
+      "1: Chemical_potential",
+      "1: Polylogarithm",
+      "1: Riemann_zeta_function",
+      "1: Bose–Einstein_condensate",
+      "1: TNT",
+      "1: Composition_B",
+      "1: Polymer_bonded_explosive",
+      "1: Rose–Vinet_equation_of_state",
+      "1: Murnaghan_equation_of_state",
+      "1: Birch–Murnaghan_equation_of_state",
+      "1: Johnson–Holmquist_damage_model",
+      "1: Mie-Gruneisen_equation_of_state",
+      "1: Gas_laws",
+      "1: Table_of_thermodynamic_equations",
+      "1: Real_gas",
+      "1: Cluster_Expansion"
+   ]
+}

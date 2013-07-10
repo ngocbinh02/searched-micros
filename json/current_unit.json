@@ -1,0 +1,46 @@
+{
+   "micrownet" : [
+      "current_unit"
+   ],
+   "duck" : [
+      "HASH(0x4a5b7f8)",
+      "HASH(0x4804418)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Romanian_nuclear_plant_reports_record-high_production\" title=\"Romanian nuclear plant reports record-high production\">Romanian nuclear plant reports record-high production</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mass_evictions_from_Oakland%27s_public_housing\" title=\"Mass evictions from Oakland&#39;s public housing\">Mass evictions from Oakland&#39;s public housing</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Zealand_Police_car_involved_in_collision\" title=\"New Zealand Police car involved in collision\">New Zealand Police car involved in collision</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_civil_rights_activists_protest_terror_suspects%27_internment\" title=\"Australian civil rights activists protest terror suspects&#39; internment\">Australian civil rights activists protest terror suspects&#39; internment</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Israeli_PM_Ariel_Sharon_undergoes_emergency_surgery\" title=\"Israeli PM Ariel Sharon undergoes emergency surgery\">Israeli PM Ariel Sharon undergoes emergency surgery</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Two_10-year-old_UK_boys_arrested_for_alleged_rape_of_girl_aged_8\" title=\"Two 10-year-old UK boys arrested for alleged rape of girl aged 8\">Two 10-year-old UK boys arrested for alleged rape of girl aged 8</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/PlayStation_3_will_be_used_to_help_cure_cancer_and_Alzheimer%27s\" title=\"PlayStation 3 will be used to help cure cancer and Alzheimer&#39;s\">PlayStation 3 will be used to help cure cancer and Alzheimer&#39;s</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bathurst,_Australia%27s_new_hospital_to_be_almost_doubled_in_size\" title=\"Bathurst, Australia&#39;s new hospital to be almost doubled in size\">Bathurst, Australia&#39;s new hospital to be almost doubled in size</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Small_explosion_investigated_in_Times_Square,_New_York\" title=\"Small explosion investigated in Times Square, New York\">Small explosion investigated in Times Square, New York</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Five_kidnapped_South_Korean_natural_gas_plant_workers_released\" title=\"Five kidnapped South Korean natural gas plant workers released\">Five kidnapped South Korean natural gas plant workers released</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bratsk_hydroelectric_plant_gets_new_turbine\" title=\"Bratsk hydroelectric plant gets new turbine\">Bratsk hydroelectric plant gets new turbine</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/900_oil_refinery_workers_fired_after_strike_at_Lindsey\" title=\"900 oil refinery workers fired after strike at Lindsey\">900 oil refinery workers fired after strike at Lindsey</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Common_Sense_Advisory_announces_size_of_worldwide_translation_and_localization_market_and_ranking_of_top_20_language_services_companies\" title=\"Common Sense Advisory announces size of worldwide translation and localization market and ranking of top 20 language services companies\">Common Sense Advisory announces size of worldwide translation and localization market and ranking of top 20 language services companies</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sony%27s_PlayStation_Portable_is_launched_in_North_America\" title=\"Sony&#39;s PlayStation Portable is launched in North America\">Sony&#39;s PlayStation Portable is launched in North America</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Family_narrowly_escapes_fiery_death_in_Christchurch,_New_Zealand\" title=\"Family narrowly escapes fiery death in Christchurch, New Zealand\">Family narrowly escapes fiery death in Christchurch, New Zealand</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Israel_announces_settlement_expansion_plans\" title=\"Israel announces settlement expansion plans\">Israel announces settlement expansion plans</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bacterial_outbreak_forces_closure_of_Toronto_hospital_neo-natal_unit\" title=\"Bacterial outbreak forces closure of Toronto hospital neo-natal unit\">Bacterial outbreak forces closure of Toronto hospital neo-natal <span class=\"searchmatch\">unit</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Penske_Auto_selected_to_buy_General_Motors%27_Saturn_unit\" title=\"Penske Auto selected to buy General Motors&#39; Saturn unit\">Penske Auto selected to buy General Motors&#39; Saturn <span class=\"searchmatch\">unit</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_Climatic_Research_Unit%27s_emails_hacked\" title=\"British Climatic Research Unit&#39;s emails hacked\">British Climatic Research <span class=\"searchmatch\">Unit</span>&#39;s emails hacked</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Queensland_cab_conversations_to_be_recorded\" title=\"Queensland cab conversations to be recorded\">Queensland cab conversations to be recorded</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462750,
+   "book" : [],
+   "micro-www" : {
+      "current_unit" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

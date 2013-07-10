@@ -1,0 +1,30 @@
+{
+   "micrownet" : [
+      "macedonian_war"
+   ],
+   "duck" : [
+      "HASH(0x47cb120)",
+      "HASH(0x49ebc80)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tito_remembered_25_years_after_his_death\" title=\"Tito remembered 25 years after his death\">Tito remembered 25 years after his death</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Serbia_to_apply_to_join_the_EU\" title=\"Serbia to apply to join the EU\">Serbia to apply to join the EU</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Poland:_Around_100,000_people_attend_public_memorial_for_victims_of_plane_crash\" title=\"Poland: Around 100,000 people attend public memorial for victims of plane crash\">Poland: Around 100,000 people attend public memorial for victims of plane crash</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Fast_track_offer_if_Iceland_applies_to_join_EU\" title=\"Fast track offer if Iceland applies to join EU\">Fast track offer if Iceland applies to join EU</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465483,
+   "book" : [],
+   "micro-www" : {
+      "macedonian_war" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

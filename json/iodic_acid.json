@@ -1,0 +1,71 @@
+{
+   "micrownet" : [
+      "iodic_acid"
+   ],
+   "duck" : [
+      "HASH(0x4c23c08)",
+      "HASH(0x4aeb9e8)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464376,
+   "book" : [],
+   "micro-www" : {
+      "iodic_acid" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Hydrogen compounds",
+         "Iodates",
+         "Analytical standards",
+         "Oxidizing acids",
+         "Oxidizing agents",
+         "Mineral acids"
+      ],
+      "text" : "{{Chembox\n| verifiedrevid = 470453970 Name = Iodic acid ImageFile = Iodic-acid-2D.png\n<!-- | ImageSize = 200px -->\n|   ImageName = Iodic acid ImageFileL1 = Iodic-acid-3D-balls.png\n<!-- | ImageSize:1 = 100px -->\n|   ImageNameL1 = Ball-and-stick model of iodic acid ImageFileR1 = Iodic-acid-3D-\n|   vdW.png\n<!-- | ImageSizeR1 = 100px -->\n|   ImageNameR1 = Space-filling model of iodic acid OtherNames = Iodic(V) acid\n|   Section1 = {{Chembox Identifiers ChemSpiderID_Ref = ChemSpiderID = 22761\n|   PubChem = 24345 InChI = 1/HIO3/c2-1(3)4/h(H,2,3,4) InChIKey = ICIWUVCWSCSTAQ-\n|   UHFFFAOYAT ChEBI_Ref = ChEBI = 24857 SMILES = O=I(=O)O ChEMBL_Ref = ChEMBL =\n|   1161636 StdInChI_Ref = StdInChI = 1S/HIO3/c2-1(3)4/h(H,2,3,4)\n|   StdInChIKey_Ref = StdInChIKey = ICIWUVCWSCSTAQ-UHFFFAOYSA-N CASNo = 7782-68-\n|   5 CASNo_Ref =\n  }}\n| Section2 = {{Chembox Properties Formula = HIO<sub>3</sub> MolarMass = 175.91\n| g/mol Appearance = White solid Density = 4.62 g/cm<sup>3</sup>, solid\n| Solubility = 2.69 kg/l (20 °C) MeltingPt = 110 °C BoilingPt = pKa = 0.75\n  }}\n| Section3 = {{Chembox Structure MolShape = Dipole =\n  }}\n| Section7 = {{Chembox Hazards ExternalMSDS = EUIndex = Not listed FlashPt = Non-\n| flammable\n  }}\n| Section8 = {{Chembox Related OtherAnions = OtherCations = Lithium\n| iodate<br/>Potassium iodate OtherFunctn = Chloric acid<br/>Bromic acid\n| Function = halogen oxoacids OtherCpds = Hydroiodic acid<br/>Iodine\n| pentoxide<br/>Periodic acid\n  }} }}\n\n'Iodic acid', HIO<sub>3</sub>, can be obtained as a white solid. It dissolves in\nwater very well, but it also exists in the pure state, as opposed to chloric\nacid or bromic acid. Iodic acid contains iodine in the oxidation state +5 and it\nis one of the most stable oxo-acids of the halogens in its pure state. When\niodic acid is carefully heated, it dehydrates to iodine pentoxide. On subsequent\nheating, the iodine pentoxide further decomposes, giving a mix of iodine, oxygen\nand lower oxides of iodine.\n",
+      "title" : "iodic acid",
+      "headings" : [
+         "Preparation",
+         "Properties",
+         "Uses",
+         "Use in salt industry",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "3: Chloric_acid",
+      "2: Potassium_iodate",
+      "2: Bromic_acid",
+      "2: Iodine_pentoxide",
+      "2: Oxidizing",
+      "2: Chlorine",
+      "2: Iodine",
+      "2: Strong_acid",
+      "1: Lithium_iodate",
+      "1: Halogen",
+      "1: Oxoacid",
+      "1: Hydroiodic_acid",
+      "1: Periodic_acid",
+      "1: Nitric_acid",
+      "1: Hydrogen_peroxide",
+      "1: Water",
+      "1: Hydrochloric_acid",
+      "1: Acid_dissociation_constant",
+      "1: Iodate",
+      "1: Analytical_chemistry",
+      "1: Weak_base",
+      "1: Strong_base",
+      "1: Methyl_red",
+      "1: Methyl_orange",
+      "1: PH_indicator",
+      "1: Sodium_iodate"
+   ]
+}

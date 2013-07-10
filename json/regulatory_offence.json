@@ -1,0 +1,52 @@
+{
+   "micrownet" : [
+      "regulatory_offence"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Edinburgh_Fringe_festival_begins\" title=\"Edinburgh Fringe festival begins\">Edinburgh Fringe festival begins</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_UK_donor_laws_may_reduce_organ_shortages\" title=\"New UK donor laws may reduce organ shortages\">New UK donor laws may reduce organ shortages</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/EU_maintains_ban_on_Indonesian_airlines_amid_accusations_of_political_motivation\" title=\"EU maintains ban on Indonesian airlines amid accusations of political motivation\">EU maintains ban on Indonesian airlines amid accusations of political motivation</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471179,
+   "book" : [],
+   "micro-www" : {
+      "regulatory_offence" : [
+         "Regulatory_offence",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Criminal law"
+      ],
+      "text" : "\nA 'regulatory offence' or 'quasi-criminal offence' is a class of crime in which\nthe standard for proving culpability has been lowered so a [[mens rea]] (Latin\nfor \"guilty mind\") element is not required. Such offences are used to deter\npotential offenders from dangerous behaviour rather than to impose punishment\nfor moral wrongdoing.\n",
+      "title" : "regulatory offence",
+      "headings" : [
+         "Absolute liability offences",
+         "Public welfare offences",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Culpability",
+      "1: Latin",
+      "1: Punishment",
+      "1: Criminal_law",
+      "1: Mens_rea",
+      "1: Actus_reus",
+      "1: Mistake_of_fact",
+      "1: Criminal_Code",
+      "1: Legislation",
+      "1: Infraction",
+      "1: Quasi-criminal",
+      "1: Status_offense"
+   ]
+}

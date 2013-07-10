@@ -1,0 +1,97 @@
+{
+   "micrownet" : [
+      "camera_operator",
+      "company_operator",
+      "elevator_operator",
+      "existential_operator",
+      "identity_operator",
+      "linear_operator",
+      "newsstand_operator",
+      "operator",
+      "operator_gene",
+      "radio_operator",
+      "sewing-machine_operator",
+      "switchboard_operator",
+      "telegraph_operator",
+      "telephone_operator"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Operator_(mathematics)\">Operator (mathematics)</a>, a function between vector spaces",
+      "Operator",
+      "http://www.merriam-webster.com/dictionary/operator",
+      "operator definition: one that operates.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_cable_TV_operator_NTL_acquires_Telewest\" title=\"UK cable TV operator NTL acquires Telewest\">UK cable TV <span class=\"searchmatch\">operator</span> NTL acquires Telewest</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bucharest_Metro_operator_to_purchase_more_modern_trainsets\" title=\"Bucharest Metro operator to purchase more modern trainsets\">Bucharest Metro <span class=\"searchmatch\">operator</span> to purchase more modern trainsets</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Two_Australian_car_ferry_operators_caught_drunk_on_the_job\" title=\"Two Australian car ferry operators caught drunk on the job\">Two Australian car ferry <span class=\"searchmatch\">operators</span> caught drunk on the job</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Free-to-air_channel_wins_suit_against_pay_TV_operator_over_rugby_screening\" title=\"Free-to-air channel wins suit against pay TV operator over rugby screening\">Free-to-air channel wins suit against pay TV <span class=\"searchmatch\">operator</span> over rugby screening</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/All_change_for_Nottingham,_England_trams_as_new_operator_announced\" title=\"All change for Nottingham, England trams as new operator announced\">All change for Nottingham, England trams as new <span class=\"searchmatch\">operator</span> announced</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sex_tour_operator_pleads_guilty_in_Cleveland_court\" title=\"Sex tour operator pleads guilty in Cleveland court\">Sex tour <span class=\"searchmatch\">operator</span> pleads guilty in Cleveland court</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mobile_operator_Orange_bills_French_doctor_%E2%82%AC160,000_for_one_month_of_Internet_use\" title=\"Mobile operator Orange bills French doctor €160,000 for one month of Internet use\">Mobile <span class=\"searchmatch\">operator</span> Orange bills French doctor €160,000 for one month of Internet use</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Free-to-air_channel_sues_pay_TV_operator_over_rugby_screening\" title=\"Free-to-air channel sues pay TV operator over rugby screening\">Free-to-air channel sues pay TV <span class=\"searchmatch\">operator</span> over rugby screening</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Japanese_nuclear_plant_operators_ordered_to_compensate_affected_families_amid_calls_for_prime_minister_to_resign\" title=\"Japanese nuclear plant operators ordered to compensate affected families amid calls for prime minister to resign\">Japanese nuclear plant <span class=\"searchmatch\">operators</span> ordered to compensate affected families amid calls for prime minister to resign</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Detroit_woman_dies_after_child%27s_911_calls_are_neglected\" title=\"Detroit woman dies after child&#39;s 911 calls are neglected\">Detroit woman dies after child&#39;s 911 calls are neglected</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Detroit_woman_dies_after_911_operator_refuses_to_send_help\" title=\"Detroit woman dies after 911 operator refuses to send help\">Detroit woman dies after 911 <span class=\"searchmatch\">operator</span> refuses to send help</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bob_Woodruff_injured_by_improvised_explosive_device_in_Iraq\" title=\"Bob Woodruff injured by improvised explosive device in Iraq\">Bob Woodruff injured by improvised explosive device in Iraq</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_government_advises_against_non-essential_travel_to_Kenya\" title=\"British government advises against non-essential travel to Kenya\">British government advises against non-essential travel to Kenya</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Swedish_court_finds_administrators_of_The_Pirate_Bay_guilty_of_contributory_copyright_infringement\" title=\"Swedish court finds administrators of The Pirate Bay guilty of contributory copyright infringement\">Swedish court finds administrators of The Pirate Bay guilty of contributory copyright infringement</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pirate_Bay_operators_fined_in_suprise_verdict\" title=\"Pirate Bay operators fined in suprise verdict\">Pirate Bay <span class=\"searchmatch\">operators</span> fined in suprise verdict</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/$1m_offer_for_NBC_to_include_U.S._presidential_candidate_Gravel_in_TV_debate\" title=\"$1m offer for NBC to include U.S. presidential candidate Gravel in TV debate\">$1m offer for NBC to include U.S. presidential candidate Gravel in TV debate</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Apple_and_Orange_pair_up_in_UK_iPhone_deal\" title=\"Apple and Orange pair up in UK iPhone deal\">Apple and Orange pair up in UK iPhone deal</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_carrier_Delta_Air_Lines_cuts_jobs,_sells_planes\" title=\"US carrier Delta Air Lines cuts jobs, sells planes\">US carrier Delta Air Lines cuts jobs, sells planes</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/California_jury_orders_Skilled_Healthcare_to_pay_$671_million_in_damages\" title=\"California jury orders Skilled Healthcare to pay $671 million in damages\">California jury orders Skilled Healthcare to pay $671 million in damages</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/TV_channel_does_not_hold_exclusive_trademark_rights_to_the_number_3,_Stockholm_court_rules\" title=\"TV channel does not hold exclusive trademark rights to the number 3, Stockholm court rules\">TV channel does not hold exclusive trademark rights to the number 3, Stockholm court rules</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Stockholm_district_court_in_favor_of_the_mobile_operator_disputing_with_TV_channel_on_number_copyright\" title=\"Stockholm district court in favor of the mobile operator disputing with TV channel on number copyright\">Stockholm district court in favor of the mobile <span class=\"searchmatch\">operator</span> disputing </a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Thrill_rides_in_U.S.,_Canada_shut_down_after_girl%27s_feet_are_severed\" title=\"Thrill rides in U.S., Canada shut down after girl&#39;s feet are severed\">Thrill rides in U.S., Canada shut down after girl&#39;s feet are severed</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Utah_mine_vice_president:_miners_may_not_be_found\" title=\"Utah mine vice president: miners may not be found\">Utah mine vice president: miners may not be found</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471156,
+   "book" : [],
+   "micro-www" : {
+      "operator" : [
+         "operator",
+         "Operator_YAPO",
+         "Operator_(programming)",
+         "Operator_(extension)",
+         "Operator_(biology)",
+         "Operator_(band)",
+         "Operator_(Thats_Not_the_Way_It_Feels)",
+         "Operator_(Motown_song)",
+         "Operator_(Midnight_Star_song)",
+         "Operator_(A_Girl_Like_Me)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n\n'Operator' may refer to:\n",
+      "title" : "operator",
+      "headings" : [
+         "Music",
+         "Computers",
+         "Science and mathematics",
+         "Fiction",
+         "Other uses",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Computer_operator",
+      "1: Operator_YAPO",
+      "1: Logical_operator",
+      "1: Switchboard_operator",
+      "1: Network_operator",
+      "1: Operator_Grammar",
+      "1: Operator-precedence_grammar",
+      "1: Operator_No._5"
+   ]
+}

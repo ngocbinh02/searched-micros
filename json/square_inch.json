@@ -1,0 +1,62 @@
+{
+   "micrownet" : [
+      "pounds_per_square_inch",
+      "square_inch"
+   ],
+   "duck" : [
+      "HASH(0x4a80060)",
+      "HASH(0x46fea68)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hard_drive_technology_breaks_storage_density_record\" title=\"Hard drive technology breaks storage density record\">Hard drive technology breaks storage density record</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Metal_press_crushes_Illinois_worker\" title=\"Metal press crushes Illinois worker\">Metal press crushes Illinois worker</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Cleveland,_Ohio_clinic_performs_US%27s_first_face_transplant\" title=\"Cleveland, Ohio clinic performs US&#39;s first face transplant\">Cleveland, Ohio clinic performs US&#39;s first face transplant</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/ROV_detects_leaks_in_Deepwater_Horizon_well_cap\" title=\"ROV detects leaks in Deepwater Horizon well cap\">ROV detects leaks in Deepwater Horizon well cap</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Rare_woodpecker_discovered_in_Arkansas\" title=\"Rare woodpecker discovered in Arkansas\">Rare woodpecker discovered in Arkansas</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/China_detains_and_beats_mourners_for_Zhao_Ziyang\" title=\"China detains and beats mourners for Zhao Ziyang\">China detains and beats mourners for Zhao Ziyang</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Brain_chemical_Serotonin_behind_locusts%E2%80%99_swarming_instinct\" title=\"Brain chemical Serotonin behind locustsâ€™ swarming instinct\">Brain chemical Serotonin behind locustsâ€™ swarming instinct</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Copiap%C3%B3,_Chile_mining_accident:_in_depth\" title=\"CopiapÃ³, Chile mining accident: in depth\">CopiapÃ³, Chile mining accident: in depth</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Volcanic_bulge_found_in_Oregon\" title=\"Volcanic bulge found in Oregon\">Volcanic bulge found in Oregon</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UEFA_Champions_League:_April_2,_2008\" title=\"UEFA Champions League: April 2, 2008\">UEFA Champions League: April 2, 2008</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/December_blizzard_slams_Northeastern_United_States\" title=\"December blizzard slams Northeastern United States\">December blizzard slams Northeastern United States</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/How_the_Army_Corps_of_Engineers_closed_one_New_Orleans_breach\" title=\"How the Army Corps of Engineers closed one New Orleans breach\">How the Army Corps of Engineers closed one New Orleans breach</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464346,
+   "book" : [],
+   "micro-www" : {
+      "square_inch" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Units of area",
+         "Imperial units",
+         "Customary units of measurement in the United States"
+      ],
+      "text" : "\n\n\nA 'square inch' (plural: 'square inches') is a unit of area, equal to the area\nof a square with sides of one inch. The following symbols are used to denote\nsquare inches: *square in *sq inches, sq inch, sq in *inches/-2, inch/-2, in/-2\n*inches^2, inch^2, in^2 *inches², inch², in² or in some cases \"^2\n\nThe square inch is a common unit of measurement in the United States and the\nUnited Kingdom.\n",
+      "title" : "square inch",
+      "headings" : [
+         "Equivalence with other units of area"
+      ]
+   },
+   "micro-relation" : [
+      "1: Units_of_measurement",
+      "1: Area",
+      "1: Inch",
+      "1: United_States",
+      "1: United_Kingdom",
+      "1: Repeating_decimal",
+      "1: Square_feet",
+      "1: Square_yard",
+      "1: Square_centimetre",
+      "1: Square_metre"
+   ]
+}

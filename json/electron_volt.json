@@ -1,0 +1,114 @@
+{
+   "micrownet" : [
+      "electron_volt"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Large_Hadron_Collider_damaged,_to_be_shut_down_for_repairs\" title=\"Large Hadron Collider damaged, to be shut down for repairs\">Large Hadron Collider damaged, to be shut down for repairs</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373469151,
+   "book" : [],
+   "micro-www" : {
+      "electron_volt" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Particle physics",
+         "Units of chemical measurement",
+         "Units of energy"
+      ],
+      "text" : "\nIn physics, the 'electron volt' (symbol 'eV'; also written\n'electronvolt'<ref>[http://goldbook.iupac.org/E02014.html IUPAC Gold Book], p.\n75</ref><ref>[http://www.bipm.org/en/si/si_brochure/chapter4/table7.html SI\nbrochure], Sec. 4.1 Table 7</ref>) is a unit of energy equal to approximately\njoule (symbol J). By definition, it is the amount of energy gained (or lost) by\nthe charge of a single electron moved across an electric potential difference\nof one volt. Thus it is 1 volt (1 joule per coulomb, ) multiplied by the\nnegative of the electron charge (−e, or ). Therefore, one electron volt is\nequal to .<ref name=\"NIST\">http://physics.nist.gov/constants</ref>\nHistorically, the electron volt was devised as a standard unit of measure\nthrough its usefulness in electrostatic particle accelerator sciences because a\nparticle with charge q has an energy after passing through the potential V; if\nq is quoted in integer units of the elementary charge and the terminal bias in\nvolts, one gets an energy in eV.\n\nThe electron volt is not an SI unit, and thus its value in SI units must be\nobtained\nexperimentally.<ref>http://physics.nist.gov/cuu/Units/outside.html</ref> Like\nthe elementary charge on which it is based, it is not an independent quantity\nbut is equal to ()(2 h α / μ<sub>0</sub> c<sub>0</sub>)<sup>0.5</sup>}}. It is a\ncommon unit of energy within physics, widely used in solid state, atomic,\nnuclear, and particle physics. It is commonly used with the SI prefixes milli-,\nkilo-, mega-, giga-, tera-, peta- or exa- (meV, keV, MeV, GeV, TeV, PeV and EeV\nrespectively). Thus meV stands for milli-electron volt.\n\nIn some older documents, and in the name Bevatron, the symbol BeV is used, which\nstands for billion electron volts; it is equivalent to the GeV. {|\nclass=\"wikitable\" style=\"float:right; margin:0 0 1em 1em;\"\n|-\n! Measurement !! Unit || SI value of unit\n|- Energy || eV || - Mass || eV/c<sup>2</sup> || - Momentum || eV/c || -\n|Temperature || eV/k<sub>B</sub> || - Time || ħ/eV || - DIstance || ħc/eV || }\n",
+      "title" : "Electronvolt",
+      "headings" : [
+         "Mass",
+         "Momentum",
+         "Distance",
+         "Temperature",
+         "Properties",
+         "Scattering experiments",
+         "Energy comparisons",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "4: Particle_physics",
+      "3: Elementary_charge",
+      "3: Planck_constant",
+      "3: Speed_of_light",
+      "3: Massâenergy_equivalence",
+      "2: Volt",
+      "2: Atomic_mass_unit",
+      "2: Hydrogen_atom",
+      "2: Exa-",
+      "2: Large_Hadron_Collider",
+      "2: Thermal_energy",
+      "1: Physics",
+      "1: Energy",
+      "1: Joule",
+      "1: Electron",
+      "1: Electric_potential",
+      "1: Potential_difference",
+      "1: Coulomb",
+      "1: Particle_accelerator#Electrostatic_particle_accelerators",
+      "1: International_System_of_Units",
+      "1: Fine_structure_constant",
+      "1: Magnetic_constant",
+      "1: Solid-state_physics",
+      "1: Atomic_physics",
+      "1: Nuclear_physics",
+      "1: SI_prefix",
+      "1: Bevatron",
+      "1: Mass",
+      "1: Natural_units",
+      "1: Positron",
+      "1: Annihilate",
+      "1: Proton",
+      "1: Hadron",
+      "1: GeV",
+      "1: Avogadro's_number",
+      "1: High-energy_physics",
+      "1: Momentum",
+      "1: Scattering_length",
+      "1: Mean_lifetime",
+      "1: Decay_width",
+      "1: B_meson",
+      "1: Picosecond",
+      "1: Neutral_particle_oscillation",
+      "1: Plasma_physics",
+      "1: Kelvin",
+      "1: Boltzmann_constant",
+      "1: Magnetic_confinement_fusion",
+      "1: Phototube",
+      "1: Photoelectron",
+      "1: Oh-My-God_particle",
+      "1: Mosquito",
+      "1: Higgs_Boson",
+      "1: Standard_deviation",
+      "1: Plutonium-239",
+      "1: Nuclear_fission",
+      "1: Uranium-235",
+      "1: Nuclear_fusion",
+      "1: Deuterium",
+      "1: Tritium",
+      "1: Helium-4",
+      "1: Rest_mass",
+      "1: Ion",
+      "1: Molecular_bond",
+      "1: Bond_energy",
+      "1: Orders_of_magnitude",
+      "1: Photon_energy",
+      "1: Kinetic_theory",
+      "1: Cosmic_microwave_background"
+   ]
+}

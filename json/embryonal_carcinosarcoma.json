@@ -1,0 +1,25 @@
+{
+   "micrownet" : [
+      "embryonal_carcinosarcoma"
+   ],
+   "duck" : [
+      "HASH(0x493ee90)",
+      "HASH(0x493ed28)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373463925,
+   "book" : [],
+   "micro-www" : {
+      "embryonal_carcinosarcoma" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

@@ -1,0 +1,28 @@
+{
+   "micrownet" : [
+      "gene-splicing"
+   ],
+   "duck" : [
+      "gene-splicing",
+      "gene-splicing definition: the process of preparing recombinant DNA.",
+      "Scientific alteration of the structure of genetic material in a living organism."
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scientists_develop_%27Smart_Bomb%27_treatment_that_targets_cancer_cells\" title=\"Scientists develop &#39;Smart Bomb&#39; treatment that targets cancer cells\">Scientists develop &#39;Smart Bomb&#39; treatment that targets cancer cells</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373473880,
+   "book" : [],
+   "micro-www" : {
+      "gene-splicing" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

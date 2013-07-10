@@ -1,0 +1,81 @@
+{
+   "micrownet" : [
+      "cubic_inch"
+   ],
+   "duck" : [
+      "HASH(0x49948b0)",
+      "HASH(0x4af2220)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/How_the_Army_Corps_of_Engineers_closed_one_New_Orleans_breach\" title=\"How the Army Corps of Engineers closed one New Orleans breach\">How the Army Corps of Engineers closed one New Orleans breach</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373463221,
+   "book" : [],
+   "micro-www" : {
+      "cubic_inch" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Units of volume",
+         "Imperial units",
+         "Customary units of measurement in the United States"
+      ],
+      "text" : "\n\nThe 'cubic inch' is a unit of measurement for volume in the Imperial units and\nUnited States customary units systems. It is the volume of a cube with each of\nits three dimensions (length, width, and depth) being one inch long.\n\nThe cubic inch and the cubic foot are still used as units of volume in the\nUnited States, although the common SI units of volume, the liter, milliliter,\nand cubic meter, are also used, especially in manufacturing and high technology.\n\nOne cubic foot is equal to exactly 1,728 cubic inches because\n12<sup>3</sup> = 1,728.\n",
+      "title" : "cubic inch",
+      "headings" : [
+         "Notation conventions",
+         "Equivalence with other units of volume",
+         "Uses of the cubic inch",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "4: Cubic_foot",
+      "2: Inch",
+      "2: Engine_displacement",
+      "2: Litre",
+      "2: Cubic_centimetre",
+      "1: Unit_of_measurement",
+      "1: Volume",
+      "1: Imperial_units",
+      "1: United_States_customary_units",
+      "1: Cube",
+      "1: United_States",
+      "1: International_System_of_Units",
+      "1: Liter",
+      "1: Milliliter",
+      "1: Cubic_meter",
+      "1: Manufacturing",
+      "1: High_technology",
+      "1: Internal_combustion_engine",
+      "1: Tablespoon",
+      "1: Fluid_ounce",
+      "1: Bushel",
+      "1: Gallon",
+      "1: Barrel",
+      "1: Cubic_metre",
+      "1: Automotive_industry",
+      "1: Aircraft_industry",
+      "1: Automobile",
+      "1: Truck",
+      "1: Aircraft",
+      "1: Turbojet",
+      "1: Turboprop",
+      "1: Gas_turbine",
+      "1: Chevrolet",
+      "1: Chevrolet_Corvette",
+      "1: Dodge",
+      "1: Engine_displacement#Units_of_measure",
+      "1: Conversion_of_units",
+      "1: Square_inch"
+   ]
+}

@@ -1,0 +1,52 @@
+{
+   "micrownet" : [
+      "turkish_tobacco"
+   ],
+   "duck" : [
+      "HASH(0x4a8d4f0)",
+      "HASH(0x4a7b280)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/World_Health_Organization_calls_for_ban_on_tobacco_ads\" title=\"World Health Organization calls for ban on tobacco ads\">World Health Organization calls for ban on <span class=\"searchmatch\">tobacco</span> ads</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373463464,
+   "book" : [],
+   "micro-www" : {
+      "turkish_tobacco" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Pipe smoking",
+         "Turkish tobacco"
+      ],
+      "text" : ", Macedonia]] 'Turkish tobacco' or 'Oriental tobacco' is a highly aromatic, small-\nleafed variety of tobacco which is sun-cured. Historically, it was cultivated\nprimarily in Thrace and Macedonia, now divided among Greece, Bulgaria, the\nRepublic of Macedonia, and Turkey, but it is now also grown on the Black Sea\ncoast of Turkey, in Egypt, in South Africa, and elsewhere.\n\nThe name \"Turkish\" refers to the Ottoman Empire, which ruled the historic\nproduction areas until the late 19th/early 20th century.\n\nMany of the early brands of cigarettes were made mostly or entirely of\nTurkish tobacco; today, its main use is in blends of pipe and especially\ncigarette tobacco.\n\nTurkish tobacco is also cultivated in Egypt and other parts of the world.\nTurkish tobacco is sun-cured, which makes it more aromatic and, like flue-cured\ntobacco, more acidic than air or smoke-cured tobacco, thus more suitable for\ncigarette production.<ref></ref>\n\nTurkish tobacco has a much milder flavor and contains less nicotine and fewer\ncarcinogens than other varieties.<ref>[http://www.american.edu/ted/turkish-\ntobacco.htm]</ref> Cigarettes containing only Turkish tobacco, like Murad,\nHelmar, Balkan Sobranie or those supplied by urban tobacconists like Fribourg &\nTreyer or Sullivan Powell in London, are no longer available. <ref>http://www.tobacco.org/resources/history/Tobacco_History20-\n1.html</ref> Blends, however, persist: the American Blend cigarette, in\nparticular, uses Turkish mixed with more robust tobacco such as Virginia tobacco\nand Burley. Turkish tobacco plants usually have a greater number and smaller\nsize leaves. These differences can be attributed to climate, soil, cultivation,\nand treatment methods.\n",
+      "title" : "turkish tobacco",
+      "headings" : [
+         "History",
+         "Notes"
+      ]
+   },
+   "micro-relation" : [
+      "1: Nicotiana_tabacum",
+      "1: Thrace",
+      "1: Greece",
+      "1: Bulgaria",
+      "1: Republic_of_Macedonia",
+      "1: Turkey",
+      "1: Ottoman_Empire",
+      "1: Egypt",
+      "1: Cigarette",
+      "1: Virginia_tobacco",
+      "1: Ottoman_Turks",
+      "1: Hookah"
+   ]
+}

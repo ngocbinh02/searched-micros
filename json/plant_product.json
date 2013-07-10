@@ -1,0 +1,46 @@
+{
+   "micrownet" : [
+      "plant_product"
+   ],
+   "duck" : [
+      "HASH(0x49e5038)",
+      "HASH(0x49bcbe0)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ten_dead_in_Alabama_shooting\" title=\"Ten dead in Alabama shooting\">Ten dead in Alabama shooting</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Post-probe,_problematic_peanut_paste_products_pulled\" title=\"Post-probe, problematic peanut paste products pulled\">Post-probe, problematic peanut paste <span class=\"searchmatch\">products</span> pulled</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_researchers_increase_tobacco%27s_oil_production_for_biofuel_use\" title=\"US researchers increase tobacco&#39;s oil production for biofuel use\">US researchers increase tobacco&#39;s oil production for biofuel use</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ford_Motor_Company_cutting_30,000_jobs_by_2012\" title=\"Ford Motor Company cutting 30,000 jobs by 2012\">Ford Motor Company cutting 30,000 jobs by 2012</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/FDA_report_criticizes_conditions_in_factory_that_produced_recalled_medications\" title=\"FDA report criticizes conditions in factory that produced recalled medications\">FDA report criticizes conditions in factory that produced recalled medications</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australia_to_lose_$2_billion_due_to_Japanese_disasters\" title=\"Australia to lose $2 billion due to Japanese disasters\">Australia to lose $2 billion due to Japanese disasters</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2,000_face_redundancy_at_English_steelworks\" title=\"2,000 face redundancy at English steelworks\">2,000 face redundancy at English steelworks</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scotland%27s_Grangemouth_oil_refinery_catches_fire\" title=\"Scotland&#39;s Grangemouth oil refinery catches fire\">Scotland&#39;s Grangemouth oil refinery catches fire</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Kraft_Canada_recalls_cookies_after_reports_of_%27sharp_metal_objects%27_baked_into_the_cookies\" title=\"Kraft Canada recalls cookies after reports of &#39;sharp metal objects&#39; baked into the cookies\">Kraft Canada recalls cookies after reports of &#39;sharp metal objects&#39; baked into the cookies</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/California_meat_packing_firm_recalls_143M_pounds_of_beef\" title=\"California meat packing firm recalls 143M pounds of beef\">California meat packing firm recalls 143M pounds of beef</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Unreported_tainted_milk_incident_publicised_in_China\" title=\"Unreported tainted milk incident publicised in China\">Unreported tainted milk incident publicised in China</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2007_Taipei_International_Flower_Exhibition_started_with_multiple_applications\" title=\"2007 Taipei International Flower Exhibition started with multiple applications\">2007 Taipei International Flower Exhibition started with multiple applications</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Walmart_recalls_infant_formula_after_baby_death\" title=\"Walmart recalls infant formula after baby death\">Walmart recalls infant formula after baby death</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Coca-Cola_and_Pepsi_face_ban_in_Indian_states\" title=\"Coca-Cola and Pepsi face ban in Indian states\">Coca-Cola and Pepsi face ban in Indian states</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_science_organisation_discontinues_genetically_modified_pea_research\" title=\"Australian science organisation discontinues genetically modified pea research\">Australian science organisation discontinues genetically modified pea research</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Female_sponge_contraceptive_re-approved_for_US_market\" title=\"Female sponge contraceptive re-approved for US market\">Female sponge contraceptive re-approved for US market</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Study_raises_health_concerns_about_shower_curtains\" title=\"Study raises health concerns about shower curtains\">Study raises health concerns about shower curtains</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Japanese_earthquake_death_toll_surpasses_ten_thousand\" title=\"Japanese earthquake death toll surpasses ten thousand\">Japanese earthquake death toll surpasses ten thousand</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Illegal_drug_found_to_be_used_in_the_manufacture_of_toys\" title=\"Illegal drug found to be used in the manufacture of toys\">Illegal drug found to be used in the manufacture of toys</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Banned_Chinese_medicine_still_on_sale_in_United_Kingdom\" title=\"Banned Chinese medicine still on sale in United Kingdom\">Banned Chinese medicine still on sale in United Kingdom</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373463463,
+   "book" : [],
+   "micro-www" : {
+      "plant_product" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

@@ -1,0 +1,78 @@
+{
+   "micrownet" : [
+      "housemaid",
+      "housemaid's_knee"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/The_Housemaid",
+      "HASH(0x4afb108)",
+      "HASH(0x1a5a968)",
+      "Wikipedia",
+      "The Housemaid",
+      "A",
+      "ARRAY(0x49d55f8)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Maid%27s_escape_from_high-rise_leads_to_crackdown_on_agencies_in_Malaysia\" title=\"Maid&#39;s escape from high-rise leads to crackdown on agencies in Malaysia\">Maid&#39;s escape from high-rise leads to crackdown on agencies in Malaysia</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465433,
+   "book" : [],
+   "micro-www" : {
+      "housemaid" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Domestic work",
+         "Home economics",
+         "Maids|"
+      ],
+      "text" : "\n\n\nA 'maid', or 'housemaid' or 'maidservant', is a female person employed in\ndomestic service. Although now usually found only in the most wealthy of\nhouseholds, in the Victorian era domestic service was the second largest\ncategory of employment in England and Wales, after agricultural work.<ref>See\ncensus results [http://www.victorianweb.org/history/census.html here].</ref>\n",
+      "title" : "maid",
+      "headings" : [
+         "Description",
+         "Types of maid",
+         "In popular culture",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "3: Domestic_worker",
+      "1: Households",
+      "1: Victorian_era",
+      "1: Great_house",
+      "1: Upper_class",
+      "1: Western_world",
+      "1: Prepatellar_bursitis",
+      "1: Prepatellar_bursa",
+      "1: Ironing",
+      "1: Country",
+      "1: Uniform",
+      "1: Lady's_maid",
+      "1: Lady",
+      "1: Nursemaid",
+      "1: Scullery_maid",
+      "1: Between_maid",
+      "1: Butler",
+      "1: Still_room_maid",
+      "1: Still_room",
+      "1: England",
+      "1: Footman",
+      "1: Nanny",
+      "1: Au_pair",
+      "1: French_maid",
+      "1: Foreign_domestic_helpers_in_Hong_Kong",
+      "1: Maid_service",
+      "1: Cleaner",
+      "1: Janitor"
+   ]
+}

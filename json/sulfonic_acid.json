@@ -1,0 +1,98 @@
+{
+   "micrownet" : [
+      "sulfonic_acid"
+   ],
+   "duck" : [
+      "HASH(0x4ef4ef0)",
+      "HASH(0x4ce4940)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464382,
+   "book" : [],
+   "micro-www" : {
+      "sulfonic_acid" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Sulfonic acids|"
+      ],
+      "text" : "\nA 'sulfonic acid' (or 'sulphonic acid') refers to a member of the class of\norganosulfur compounds with the general formula RS(=O)<sub>2</sub>&ndash;OH,\nwhere R is an organic alkyl or aryl group and the S(=O)<sub>2</sub>&ndash;OH\ngroup a sulfonyl hydroxide.<ref name=March/> A sulfonic acid can be thought of\nas sulfuric acid with one hydroxyl group replaced by an organic substituent. The\nparent compound (with the organic substituent replaced by hydrogen) is the\nhypothetical compound sulfurous acid. Salts or esters of sulfonic acids are\ncalled sulfonates.\n",
+      "title" : "sulfonic acid",
+      "headings" : [
+         "Preparation",
+         "Properties",
+         "Applications",
+         "Reactions",
+         "Environmental concerns",
+         "References",
+         "Other reading"
+      ]
+   },
+   "micro-relation" : [
+      "2: Sulfonyl",
+      "2: Sulfuric_acid",
+      "2: Ester",
+      "2: P-Toluenesulfonic_acid",
+      "2: Methanesulfonic_acid",
+      "2: Nafion",
+      "2: Fuel_cell",
+      "2: Surfactant",
+      "1: Organosulfur_compounds",
+      "1: Alkyl",
+      "1: Aryl",
+      "1: Substituent",
+      "1: Parent_compound",
+      "1: Sulfurous_acid",
+      "1: Sulfonate",
+      "1: Sulfur_trioxide",
+      "1: Arene",
+      "1: Electrophilic_aromatic_substitution",
+      "1: Thiol",
+      "1: Perfluorooctanesulfonic_acid",
+      "1: Electrophilic_fluorination",
+      "1: Carboxyl",
+      "1: Benzoic_acid",
+      "1: Acetic_acid",
+      "1: Taurine",
+      "1: Bile_acid",
+      "1: Tautomer",
+      "1: PFOS",
+      "1: Toluenesulfonic_acid",
+      "1: Sodium_dodecylbenzenesulfonate",
+      "1: Laundry_detergent",
+      "1: Detergent",
+      "1: Soap",
+      "1: Fatty_acid",
+      "1: Alkylbenzenesulfonate",
+      "1: Lignin",
+      "1: Concrete",
+      "1: Anthroquinone",
+      "1: Protein",
+      "1: Carbohydrate",
+      "1: Dye",
+      "1: Cresidinesulfonic_acid",
+      "1: Catalyst",
+      "1: Organic_chemistry",
+      "1: Dowex",
+      "1: Polystyrene",
+      "1: Water_softening",
+      "1: Organic_compound",
+      "1: Methyl_triflate",
+      "1: Alkylating_agent",
+      "1: Organic_synthesis",
+      "1: Alcoholysis",
+      "1: Thionyl_chloride",
+      "1: Phenol",
+      "1: Perfluorooctane_sulfonic_acid",
+      "1: Teflon"
+   ]
+}

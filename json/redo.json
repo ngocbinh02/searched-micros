@@ -1,0 +1,84 @@
+{
+   "micrownet" : [
+      "redo",
+      "redolence",
+      "redolent",
+      "redonda",
+      "redouble",
+      "redoubled",
+      "redoubt",
+      "redoubtable",
+      "redound",
+      "redox"
+   ],
+   "duck" : [
+      "redo",
+      "redo definition: to do over or again.",
+      "http://www.merriam-webster.com/dictionary/redo",
+      "redo definition: to do over or again.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_mall_in_Washington,_US_almost_complete,_traffic_a_concern\" title=\"New mall in Washington, US almost complete, traffic a concern\">New mall in Washington, US almost complete, traffic a concern</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Blagojevich_defense_team_wants_to_restart_jury_selection_in_Illinois_corruption_trial\" title=\"Blagojevich defense team wants to restart jury selection in Illinois corruption trial\">Blagojevich defense team wants to restart jury selection in Illinois corruption trial</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Spain_advances_to_first_World_Cup_Finals\" title=\"Spain advances to first World Cup Finals\">Spain advances to first World Cup Finals</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Vanity_Fair_contributing_editor_Craig_Unger_on_the_Bush_family_feud,_neoconservatives_and_the_Christian_right\" title=\"Vanity Fair contributing editor Craig Unger on the Bush family feud, neoconservatives and the Christian right\">Vanity Fair contributing editor Craig Unger on the Bush family feud, neoconservatives and the Christian right</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/The_Onion:_An_interview_with_%27America%27s_Finest_News_Source%27\" title=\"The Onion: An interview with &#39;America&#39;s Finest News Source&#39;\">The Onion: An interview with &#39;America&#39;s Finest News Source&#39;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Brazilian_actress_Dercy_Gon%C3%A7alves_dies_at_age_101\" title=\"Brazilian actress Dercy Gonçalves dies at age 101\">Brazilian actress Dercy Gonçalves dies at age 101</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:May_27,_2010\" title=\"News briefs:May 27, 2010\">News briefs:May 27, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/As_the_Eurovision_entrants_return_home,_the_home_crowds_weigh_in\" title=\"As the Eurovision entrants return home, the home crowds weigh in\">As the Eurovision entrants return home, the home crowds weigh in</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373467077,
+   "book" : [],
+   "micro-www" : {
+      "redo" : [
+         "redox",
+         "Redox_buffer",
+         "Redox",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Text editor features"
+      ],
+      "text" : "\n\n\n\n'Undo' is a command in many computer programs. It erases the last change done\nto the document reverting it to an older state. In some more advanced programs\nsuch as graphic processing, undo will negate the last command done to the file\nbeing edited.\n\nThe opposite of undo is 'redo'. The redo command reverses the undo or advances\nthe buffer to a more current state.\n\nIn most Windows applications, the Undo command is activated by pressing the\nCtrl+Z or Alt+Backspace keybindings. In virtually all Macintosh applications,\nthe Undo command is activated by pressing Command-Z. The common command for Redo\non Microsoft Windows systems is Ctrl+Y or Ctrl+Shift+Z. The common command for\nRedo on Apple Macintosh systems is Command-Shift-Z.\n",
+      "title" : "Undo",
+      "headings" : [
+         "History",
+         "Undo models",
+         "Redo models",
+         "Undo implementation",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Command_key",
+      "2: Shift_key",
+      "1: Graphics_software",
+      "1: Microsoft_Windows",
+      "1: Control-Z",
+      "1: Keybindings",
+      "1: Macintosh",
+      "1: Control-Y",
+      "1: Control_key",
+      "1: IBM",
+      "1: Personal_computer",
+      "1: AtariWriter",
+      "1: Non-linear_undo",
+      "1: Photoshop",
+      "1: MS_Paint",
+      "1: Command_pattern",
+      "1: Memento_pattern",
+      "1: Reversible_computing"
+   ]
+}

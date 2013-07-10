@@ -1,0 +1,66 @@
+{
+   "micrownet" : [
+      "commentator",
+      "sports_commentator"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Commentator_(horse)\">Commentator (horse)</a>, American Thoroughbred racehorse",
+      "\n<a href=\"http://duckduckgo.com/Pundit_(expert)\">Pundit (expert)</a> or political commentator",
+      "Commentator",
+      "http://www.merriam-webster.com/dictionary/commentator",
+      "\n<a href=\"http://duckduckgo.com/Sports_commentator\">Sports commentator</a> - In sports broadcasting, a commentator gives a running commentary of a game or event in real time, usually during a live broadcast.",
+      "commentator definition: one who gives a commentary; '''especially''' one who reports and discusses news on radio or television.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Color_commentator\">Color commentator</a>, a sports commentator who provides analysis and background information",
+      "\n<a href=\"http://duckduckgo.com/Postglossator\">Postglossator</a> or commentator, a member of a European legal school which arose in France in the fourteenth century"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Former_rugby_union_commentator_Bill_McLaren_dies_at_age_86\" title=\"Former rugby union commentator Bill McLaren dies at age 86\">Former rugby union <span class=\"searchmatch\">commentator</span> Bill McLaren dies at age 86</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_snooker_commentator_Ted_Lowe_dies_aged_90\" title=\"British snooker commentator Ted Lowe dies aged 90\">British snooker <span class=\"searchmatch\">commentator</span> Ted Lowe dies aged 90</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/CNN_hires_three_conservative_commentators\" title=\"CNN hires three conservative commentators\">CNN hires three conservative <span class=\"searchmatch\">commentators</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Website_of_Bill_O%27Reilly,_FOX_News_commentator,_hacked_in_retribution\" title=\"Website of Bill O&#39;Reilly, FOX News commentator, hacked in retribution\">Website of Bill O&#39;Reilly, FOX News <span class=\"searchmatch\">commentator</span>, hacked in retribution</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Myron_Cope,_Pittsburgh_Steelers_color_commentator,_retires_after_a_35_year_career\" title=\"Myron Cope, Pittsburgh Steelers color commentator, retires after a 35 year career\">Myron Cope, Pittsburgh Steelers color <span class=\"searchmatch\">commentator</span>, retires after a 35 year career</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Author_and_contrarian_Christopher_Hitchens_dies_at_age_62\" title=\"Author and contrarian Christopher Hitchens dies at age 62\">Author and contrarian Christopher Hitchens dies at age 62</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Filipino_activist_arrested_for_disrupting_Manila_Cathedral_mass_in_Reproductive_Health_Bill_protest\" title=\"Filipino activist arrested for disrupting Manila Cathedral mass in Reproductive Health Bill protest\">Filipino activist arrested for disrupting Manila Cathedral mass in Reproductive Health Bill protest</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Glenn_Beck_loses_domain_name_case_over_parody_website\" title=\"Glenn Beck loses domain name case over parody website\">Glenn Beck loses domain name case over parody website</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/America%27s_Cup:_Team_New_Zealand_wins_third_race\" title=\"America&#39;s Cup: Team New Zealand wins third race\">America&#39;s Cup: Team New Zealand wins third race</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_columnist_%27offended,_insulted,_humiliated%27_fair-skinned_Aborigines\" title=\"Australian columnist &#39;offended, insulted, humiliated&#39; fair-skinned Aborigines\">Australian columnist &#39;offended, insulted, humiliated&#39; fair-skinned Aborigines</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Journalist_William_F._Buckley_dies_at_age_82\" title=\"Journalist William F. Buckley dies at age 82\">Journalist William F. Buckley dies at age 82</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Federal_response_to_Katrina_a_%22national_disgrace%22\" title=\"Federal response to Katrina a &quot;national disgrace&quot;\">Federal response to Katrina a &quot;national disgrace&quot;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/White_House,_Kerry_criticizes_comments_made_by_televangelist_Pat_Robertson\" title=\"White House, Kerry criticizes comments made by televangelist Pat Robertson\">White House, Kerry criticizes comments made by televangelist Pat Robertson</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/White_House,_Kerry_Blasts_Comments_from_Christian_Commentator_Pat_Robertson\" title=\"White House, Kerry Blasts Comments from Christian Commentator Pat Robertson\">White House, Kerry Blasts Comments from Christian <span class=\"searchmatch\">Commentator</span> Pat </a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_news_network_under_investigation_over_pokie_reform_comments\" title=\"Australian news network under investigation over pokie reform comments\">Australian news network under investigation over pokie reform comments</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_political_columnist_James_J._Kilpatrick_dies_at_age_89\" title=\"US political columnist James J. Kilpatrick dies at age 89\">US political columnist James J. Kilpatrick dies at age 89</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Progress_spacecraft_fails_to_dock_with_International_Space_Station\" title=\"Progress spacecraft fails to dock with International Space Station\">Progress spacecraft fails to dock with International Space Station</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chamber_of_Commerce_defeats_Buderim_XI_in_Australia_Day_Match\" title=\"Chamber of Commerce defeats Buderim XI in Australia Day Match\">Chamber of Commerce defeats Buderim XI in Australia Day Match</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Creator_of_website_satirizing_Glenn_Beck_on_winning_domain_name_case\" title=\"Creator of website satirizing Glenn Beck on winning domain name case\">Creator of website satirizing Glenn Beck on winning domain name case</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_computer_scientist%27s_new_%22nullity%22_idea_provokes_reaction_from_mathematicians\" title=\"British computer scientist&#39;s new &quot;nullity&quot; idea provokes reaction from mathematicians\">British computer scientist&#39;s new &quot;nullity&quot; idea provokes reaction from mathematicians</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Didier_Drogba_withdraws_from_Cote_D%E2%80%99Ivoire_national_football_team\" title=\"Didier Drogba withdraws from Cote D’Ivoire national football team\">Didier Drogba withdraws from Cote D’Ivoire national football team</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373473311,
+   "book" : [],
+   "micro-www" : {
+      "commentator" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Commentator' may refer to:\n\n*Pundit (expert) or political commentator *Sports commentator *Color\ncommentator, a sports commentator who provides analysis and background\ninformation *Postglossator or commentator, a member of a European legal school\nwhich arose in France in the fourteenth century *In medieval scholastic\nphilosophy, \"The Commentator\" refers to Averroes, a 12th-century Muslim\nphilosopher *Commentator (horse), American Thoroughbred racehorse\n",
+      "title" : "commentator",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Sports_commentator",
+      "1: Color_commentator",
+      "1: Postglossator",
+      "1: Averroes"
+   ]
+}

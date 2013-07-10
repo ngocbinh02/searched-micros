@@ -1,0 +1,66 @@
+{
+   "micrownet" : [
+      "oxaloacetic_acid"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373468893,
+   "book" : [],
+   "micro-www" : {
+      "oxaloacetic_acid" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Citric acid cycle compounds",
+         "Dicarboxylic acids",
+         "Keto acids"
+      ],
+      "text" : "{{chembox\n| verifiedrevid = 476996415 Name = Oxaloacetic acid ImageFile_Ref = ImageFile =\n| Oxaloacetic acid.png ImageSize = 170px ImageName = Skeletal structure\n| ImageFile1 = Oxaloacetic-acid-3D-balls.png ImageName1 = Ball-and-stick model\n| IUPACName = Oxobutanedioic acid OtherNames = Oxaloacetic acid<br />Oxalacetic\n| acid<br />Oxosuccinic acid Section1 = {{Chembox Identifiers PubChem = 970\n| StdInChI_Ref = StdInChI = 1S/C4H4O5/c5-2(4(8)9)1-3(6)7/h1H2,(H,6,7)(H,8,9)\n| StdInChIKey_Ref = StdInChIKey = KHPXUQMNIQBQEV-UHFFFAOYSA-N CASNo_Ref = CASNo\n| = 328-42-7 ChemSpiderID_Ref = ChemSpiderID = 945 EINECS = 206-329-8 ChEBI_Ref\n| = ChEBI = 30744 SMILES = O=C(O)C(=O)CC(=O)O\n}}\n| Section2 = {{Chembox Properties Formula =\n| C<sub>4</sub>H<sub>4</sub>O<sub>5</sub> MolarMass = 132.07 g/mol MeltingPt =\n| 161 °C Density = ? g/cm<sup>3</sup>\n  }}\n| Section4 = {{Chembox Thermochemistry DeltaHf = -943.21 kJ/mol DeltaHc = -\n| 1205.58 kJ/mol\n  }} }} 'Oxaloacetic acid' (also 'oxalacetic acid') is an organic compound with\n  the chemical formula C<sub>4</sub>H<sub>4</sub>O<sub>5</sub> or HOOC-(C=O)-(CH<sub>2</sub>)-\n  COOH. It also has other names (see the table).\n\nIts fully deprotonated derivative is the 'oxaloacetate' anion,\nC<sub>4</sub>H<sub>2</sub>O<sub>5</sub><sup>2&minus;</sup> or [(COO-)(CH<sub>2</sub>)C=O(COO-\n)]<sup>2&minus;</sup>; this name is also used for esters that contain the\ndivalent [-O(C=O)<sub>2</sub>(CH<sub>2</sub>)(C=O)O-] moiety. Loss of a single\nproton gives the acid's conjugate base, the anion 'hydrogenoxaloacetate' anion\nH(C=O)<sub>2</sub>(CH<sub>2</sub>)(C=O)<sup>&minus;</sup>.\n",
+      "title" : "oxaloacetic acid",
+      "headings" : [
+         "Function",
+         "Chemical properties",
+         "Interactive pathway map",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "1: Organic_compound",
+      "1: Deprotonation",
+      "1: Esters",
+      "1: Functional_group",
+      "1: Conjugate_base",
+      "1: Carbon",
+      "1: Dicarboxylic_acid",
+      "1: Protonation",
+      "1: Citric_acid_cycle",
+      "1: Gluconeogenesis",
+      "1: Oxidation",
+      "1: Malic_acid",
+      "1: Malate_dehydrogenase",
+      "1: Acetyl-CoA",
+      "1: Citrate",
+      "1: Citrate_synthase",
+      "1: Leaf#Mesophyll",
+      "1: Carbon_dioxide",
+      "1: Phosphoenolpyruvate",
+      "1: Phosphoenolpyruvate_carboxykinase",
+      "1: Pyruvate",
+      "1: Anaplerotic_reactions",
+      "1: Complex_II",
+      "1: Enol",
+      "1: Acid_dissociation_constant",
+      "1: Decarboxylation",
+      "1: Dioxosuccinic_acid"
+   ]
+}

@@ -1,0 +1,85 @@
+{
+   "micrownet" : [
+      "e_region"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Somali_al-Shabaab_group_seizes_three_towns\" title=\"Somali al-Shabaab group seizes three towns\">Somali al-Shabaab group seizes three towns</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/AT%26T_to_buy_BellSouth_for_$67_billion\" title=\"AT&amp;T to buy BellSouth for $67 billion\">AT&amp;T to buy BellSouth for $67 billion</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Rebels_say_626_Ethiopian_troops_killed_in_clashes\" title=\"Rebels say 626 Ethiopian troops killed in clashes\">Rebels say 626 Ethiopian troops killed in clashes</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pakistani_PM:_Anti-Taliban_offensive_in_South_Waziristan_is_over\" title=\"Pakistani PM: Anti-Taliban offensive in South Waziristan is over\">Pakistani PM: Anti-Taliban offensive in South Waziristan is over</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Recent_American_E._coli_outbreak_linked_to_cattle\" title=\"Recent American E. coli outbreak linked to cattle\">Recent American <span class=\"searchmatch\">E</span>. coli outbreak linked to cattle</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pakistan:_Nawab_Akbar_Bugti_Killed_in_Baluchistan\" title=\"Pakistan: Nawab Akbar Bugti Killed in Baluchistan\">Pakistan: Nawab Akbar Bugti Killed in Baluchistan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Suicide_attack_hits_Iranian_Revolutionary_Guard_commanders\" title=\"Suicide attack hits Iranian Revolutionary Guard commanders\">Suicide attack hits Iranian Revolutionary Guard commanders</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Saturn_moon_Enceladus_may_have_salty_ocean\" title=\"Saturn moon Enceladus may have salty ocean\">Saturn moon Enceladus may have salty ocean</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Climate_change_impacts_Wyoming\" title=\"Climate change impacts Wyoming\">Climate change impacts Wyoming</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Republican_hopeful_Gingrich_fuels_controversy_over_Palestinian_%27invented_people%27_remarks\" title=\"Republican hopeful Gingrich fuels controversy over Palestinian &#39;invented people&#39; remarks\">Republican hopeful Gingrich fuels controversy over Palestinian &#39;invented people&#39; remarks</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hurricane_Jimena_approaches_Baja_California\" title=\"Hurricane Jimena approaches Baja California\">Hurricane Jimena approaches Baja California</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Highway_bridge_in_Minneapolis,_Minnesota,_collapses\" title=\"Highway bridge in Minneapolis, Minnesota, collapses\">Highway bridge in Minneapolis, Minnesota, collapses</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Left-side_driving_part_of_a_planned_Findlay,_Ohio_interchange_reconfiguration\" title=\"Left-side driving part of a planned Findlay, Ohio interchange reconfiguration\">Left-side driving part of a planned Findlay, Ohio interchange reconfiguration</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Nigerian_city_hit_by_bomb_blasts_after_rebel_warning\" title=\"Nigerian city hit by bomb blasts after rebel warning\">Nigerian city hit by bomb blasts after rebel warning</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Arab_League_calls_for_Libyan_no-fly_zone\" title=\"Arab League calls for Libyan no-fly zone\">Arab League calls for Libyan no-fly zone</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Former_Congressman_Virgil_Goode_enters_race_for_Constitution_Party_presidential_nomination\" title=\"Former Congressman Virgil Goode enters race for Constitution Party presidential nomination\">Former Congressman Virgil Goode enters race for Constitution Party presidential nomination</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Web_browser_Firefox_increases_market_share_in_Europe\" title=\"Web browser Firefox increases market share in Europe\">Web browser Firefox increases market share in Europe</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Colleges_offering_admission_to_displaced_New_Orleans_students/LA-ND\" title=\"Colleges offering admission to displaced New Orleans students/LA-ND\">Colleges offering admission to displaced New Orleans students/LA-ND</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373473024,
+   "book" : [],
+   "micro-www" : {
+      "e_region" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Ionosphere",
+         "Radio frequency propagation"
+      ],
+      "text" : "\nThe 'Kennelly–Heaviside layer', named after Arthur Edwin Kennelly and Oliver\nHeaviside, also known as the 'E region' or simply the 'Heaviside layer', is a\nlayer of ionised gas occurring between roughly 90–150&nbsp;km (56–93&nbsp;mi)\nabove the ground &mdash; one of several layers in the Earth's ionosphere. It\nreflects medium-frequency radio waves, and because of this reflection, radio\nwaves can be propagated beyond the horizon.\n\nPropagation is affected by time of day. During the daytime the solar wind\npresses this layer closer to the Earth, thereby limiting how far it can reflect\nradio waves. Conversely, on the night (lee) side of the Earth, the solar wind\ndrags the ionosphere further away, thereby greatly increasing the range which\nradio waves can travel by reflection, called skywave. The extent of the effect\nis further influenced by the season, and the amount of sunspot activity.\n",
+      "title" : "Kennelly%E2%80%93Heaviside%20layer",
+      "headings" : [
+         "History",
+         "Cultural impact",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "2: Arthur_Edwin_Kennelly",
+      "2: Oliver_Heaviside",
+      "2: Radio_wave",
+      "2: Old_Deuteronomy",
+      "1: Ionisation",
+      "1: Gas",
+      "1: Earth",
+      "1: Ionosphere",
+      "1: Mediumwave",
+      "1: Radio_propagation",
+      "1: Horizon",
+      "1: Solar_wind",
+      "1: Windward_and_leeward",
+      "1: Skywave",
+      "1: Season",
+      "1: Sunspot",
+      "1: Edward_V._Appleton",
+      "1: Nobel_Prize_in_Physics",
+      "1: Gregory_Breit",
+      "1: Merle_A._Tuve",
+      "1: Andrew_Lloyd_Webber",
+      "1: T._S._Eliot",
+      "1: Hotel_Russell",
+      "1: Grizabella",
+      "1: Tim_Powers",
+      "1: Declare",
+      "1: Thomas_Pynchon",
+      "1: The_Secret_Integration",
+      "1: The_Summerland",
+      "1: Van_Allen_Belt"
+   ]
+}

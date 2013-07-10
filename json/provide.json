@@ -1,0 +1,60 @@
+{
+   "micrownet" : [
+      "provide",
+      "providence",
+      "provident",
+      "providential",
+      "provider"
+   ],
+   "duck" : [
+      "To furnish; supply: provide food and shelter for a family.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=provide",
+      "HASH(0x19803c8)",
+      "The Free Dictionary",
+      "provide",
+      "http://www.merriam-webster.com/dictionary/provide",
+      "provide definition: to take precautionary measures.",
+      "Merriam-Webster",
+      "HASH(0x49d6710)",
+      "To furnish; supply: provide food and shelter for a family.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/AFL_provides_insufficient_support_for_European_leagues:_Germany\" title=\"AFL provides insufficient support for European leagues: Germany\">AFL <span class=\"searchmatch\">provides</span> insufficient support for European leagues: Germany</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Venezuela_provides_discounted_heating_oil_to_Massachusetts\" title=\"Venezuela provides discounted heating oil to Massachusetts\">Venezuela <span class=\"searchmatch\">provides</span> discounted heating oil to Massachusetts</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/St._Anthony_Foundation_provides_hope\" title=\"St. Anthony Foundation provides hope\">St. Anthony Foundation <span class=\"searchmatch\">provides</span> hope</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Central_banks_announce_joint_efforts_to_provide_liquidity\" title=\"Central banks announce joint efforts to provide liquidity\">Central banks announce joint efforts to <span class=\"searchmatch\">provide</span> liquidity</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Google_formally_submits_bid_to_provide_free_WiFi_in_San_Francisco\" title=\"Google formally submits bid to provide free WiFi in San Francisco\">Google formally submits bid to <span class=\"searchmatch\">provide</span> free WiFi in San Francisco</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_government_to_provide_Internet_filters_for_families\" title=\"Australian government to provide Internet filters for families\">Australian government to <span class=\"searchmatch\">provide</span> Internet filters for families</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Department_of_Housing_and_Urban_Development_to_provide_housing_for_Katrina_refugees\" title=\"US Department of Housing and Urban Development to provide housing for Katrina refugees\">US Department of Housing and Urban Development to <span class=\"searchmatch\">provide</span> housing for Katrina refugees</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Google_provides_Gmail_access_to_American_cell_phone_customers\" title=\"Google provides Gmail access to American cell phone customers\">Google <span class=\"searchmatch\">provides</span> Gmail access to American cell phone customers</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Orcon_New_Zealand_to_provide_television_via_Internet\" title=\"Orcon New Zealand to provide television via Internet\">Orcon New Zealand to <span class=\"searchmatch\">provide</span> television via Internet</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Large_study_provides_new_insights_in_autism%27s_genetic_code\" title=\"Large study provides new insights in autism&#39;s genetic code\">Large study <span class=\"searchmatch\">provides</span> new insights in autism&#39;s genetic code</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_government_provides_$15.8_million_for_North_Adelaide_Technical_College\" title=\"Australian government provides $15.8 million for North Adelaide Technical College\">Australian government <span class=\"searchmatch\">provides</span> $15.8 million for North Adelaide Technical College</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_troops_to_provide_front-line_combat_support_in_Iraq\" title=\"Australian troops to provide front-line combat support in Iraq\">Australian troops to <span class=\"searchmatch\">provide</span> front-line combat support in Iraq</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sprint/RealNetworks_to_provide_cell_phone_Internet_radio_and_podcasts_in_US\" title=\"Sprint/RealNetworks to provide cell phone Internet radio and podcasts in US\">Sprint/RealNetworks to <span class=\"searchmatch\">provide</span> cell phone Internet radio and podcasts in US</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/BBC_and_ITV_to_provide_free_satellite_TV_in_the_UK\" title=\"BBC and ITV to provide free satellite TV in the UK\">BBC and ITV to <span class=\"searchmatch\">provide</span> free satellite TV in the UK</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ourmedia.org_project_launched_to_provide_global_repository_of_%22grassroots_media%22\" title=\"Ourmedia.org project launched to provide global repository of &quot;grassroots media&quot;\">Ourmedia.org project launched to <span class=\"searchmatch\">provide</span> global repository of &quot;grassroots media&quot;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/By-elections_fail_to_provide_way_out_of_Thai_political_crisis\" title=\"By-elections fail to provide way out of Thai political crisis\">By-elections fail to <span class=\"searchmatch\">provide</span> way out of Thai political crisis</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Zealand_government_denies_financial_assistance_for_Overlander\" title=\"New Zealand government denies financial assistance for Overlander\">New Zealand government denies financial assistance for Overlander</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/VoIP_penetrates_emergency_calling_infrastructure\" title=\"VoIP penetrates emergency calling infrastructure\">VoIP penetrates emergency calling infrastructure</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Qwest_will_provide_access_for_Vonage_to_emergency_calling_infrastructure\" title=\"Qwest will provide access for Vonage to emergency calling infrastructure\">Qwest will <span class=\"searchmatch\">provide</span> access for Vonage to emergency calling </a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scottish_university_to_introduce_comic_studies_degree\" title=\"Scottish university to introduce comic studies degree\">Scottish university to introduce comic studies degree</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/CNN_discontinues_Pipeline_service;_will_provide_live_video_free\" title=\"CNN discontinues Pipeline service; will provide live video free\">CNN discontinues Pipeline service; will <span class=\"searchmatch\">provide</span> live video free</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462273,
+   "book" : [],
+   "micro-www" : {
+      "provide" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

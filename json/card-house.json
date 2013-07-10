@@ -1,0 +1,45 @@
+{
+   "micrownet" : [
+      "card-house"
+   ],
+   "duck" : [
+      "HASH(0x4b29bc8)",
+      "HASH(0x4bdc5d8)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/White_House_Chief_of_Staff_Andrew_Card_resigns\" title=\"White House Chief of Staff Andrew Card resigns\">White <span class=\"searchmatch\">House</span> Chief of Staff Andrew <span class=\"searchmatch\">Card</span> resigns</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._house_majority_leader_DeLay_indicted,_steps_down_temporarily\" title=\"U.S. house majority leader DeLay indicted, steps down temporarily\">U.S. <span class=\"searchmatch\">house</span> majority leader DeLay indicted, steps down temporarily</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Representative_accuses_Bush_of_signing_bill_not_passed_by_Congress\" title=\"Representative accuses Bush of signing bill not passed by Congress\">Representative accuses Bush of signing bill not passed by Congress</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hare_Krishna_village_demolished_in_Kazakhstan,_religious_persecution_alleged\" title=\"Hare Krishna village demolished in Kazakhstan, religious persecution alleged\">Hare Krishna village demolished in Kazakhstan, religious persecution alleged</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Senate_passes_new_bankruptcy_bill\" title=\"US Senate passes new bankruptcy bill\">US Senate passes new bankruptcy bill</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Credit_card_companies_get_government_handout_to_fix_their_problems\" title=\"Credit card companies get government handout to fix their problems\">Credit <span class=\"searchmatch\">card</span> companies get government handout to fix their problems</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/White_House_press_secretary_McClellan_resigns;_advisor_Rove_reassigned\" title=\"White House press secretary McClellan resigns; advisor Rove reassigned\">White <span class=\"searchmatch\">House</span> press secretary McClellan resigns; advisor Rove reassigned</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/European_court_in_Strasbourg_rules_UK%27s_Terrorism_Act_in_breach_of_human_rights_law\" title=\"European court in Strasbourg rules UK&#39;s Terrorism Act in breach of human rights law\">European court in Strasbourg rules UK&#39;s Terrorism Act in breach of human rights law</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Latest_trial_of_the_One_Laptop_Per_Child_running_in_India;_Uruguay_orders_100,000_machines\" title=\"Latest trial of the One Laptop Per Child running in India; Uruguay orders 100,000 machines\">Latest trial of the One Laptop Per Child running in India; Uruguay orders 100,000 machines</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Major_US_bankruptcy_reform_bill_signed_into_law\" title=\"Major US bankruptcy reform bill signed into law\">Major US bankruptcy reform bill signed into law</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_President_Obama_proposes_financial_reform\" title=\"US President Obama proposes financial reform\">US President Obama proposes financial reform</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ma_Ying-jeou_wins_2008_Taiwan_presidential_election\" title=\"Ma Ying-jeou wins 2008 Taiwan presidential election\">Ma Ying-jeou wins 2008 Taiwan presidential election</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canadian_Prime_Minister_Harper_meets_with_U.S._President_Bush\" title=\"Canadian Prime Minister Harper meets with U.S. President Bush\">Canadian Prime Minister Harper meets with U.S. President Bush</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_PM_subject_to_scrutiny_over_Carer_and_Senior%27s_payments\" title=\"Australian PM subject to scrutiny over Carer and Senior&#39;s payments\">Australian PM subject to scrutiny over Carer and Senior&#39;s payments</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/English_jury_returns_mix_of_verdicts_in_policeman%27s_serial_rape_trial\" title=\"English jury returns mix of verdicts in policeman&#39;s serial rape trial\">English jury returns mix of verdicts in policeman&#39;s serial rape trial</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_government_loses_personal_information_of_25_million_people\" title=\"UK government loses personal information of 25 million people\">UK government loses personal information of 25 million people</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Finnish_trio_shot_dead_in_Brazil\" title=\"Finnish trio shot dead in Brazil\">Finnish trio shot dead in Brazil</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bush_defends_immigration_reform_bill\" title=\"Bush defends immigration reform bill\">Bush defends immigration reform bill</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/English_FA_rescinds_red_cards,_FIFA_backlash_probable\" title=\"English FA rescinds red cards, FIFA backlash probable\">English FA rescinds red cards, FIFA backlash probable</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373466028,
+   "book" : [],
+   "micro-www" : {
+      "card-house" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

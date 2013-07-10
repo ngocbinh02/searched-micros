@@ -1,0 +1,76 @@
+{
+   "micrownet" : [
+      "means",
+      "means_grass",
+      "means_test",
+      "meanspirited",
+      "ways_and_means",
+      "ways_and_means_committee"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Mean\">Mean</a> (average), a term used in mathematics and statistics",
+      "\n<a href=\"http://duckduckgo.com/Means%2C_motive%2C_and_opportunity\">Means (law)</a>, an aspect of a crime needed to convince a jury of guilt in a criminal proceeding",
+      "\n<a href=\"http://duckduckgo.com/d/Means_(surname)\">Means (surname) Meanings</a>",
+      "Means",
+      "http://www.merriam-webster.com/dictionary/means",
+      "means definition: an examination into the financial state of a person to determine eligibility for public assistance.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/instrumental_value\">Means (ethics)</a>, something of instrumental value in order to achieve an end",
+      "\n<a href=\"http://duckduckgo.com/Means_(band)\">Means (band)</a>, a Christian hardcore band from Regina, Saskatchewan",
+      "\n<a href=\"http://duckduckgo.com/Means%2C_Kentucky\">Means, Kentucky</a>, a small town in the United States"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/China_declares_%22the_state_shall_employ_nonpeaceful_means%22\" title=\"China declares &quot;the state shall employ nonpeaceful means&quot;\">China declares &quot;the state shall employ nonpeaceful <span class=\"searchmatch\">means</span>&quot;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Lakota_Freedom_Delegation_says_spokesman_Russell_Means_%27hijacked%27_organization\" title=\"Lakota Freedom Delegation says spokesman Russell Means &#39;hijacked&#39; organization\">Lakota Freedom Delegation says spokesman Russell <span class=\"searchmatch\">Means</span> &#39;hijacked&#39; organization</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Court_decision_means_Floyd_Landis_loses_Tour_de_France_title\" title=\"Court decision means Floyd Landis loses Tour de France title\">Court decision <span class=\"searchmatch\">means</span> Floyd Landis loses Tour de France title</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Illinois_law_means_end_to_horse_slaughter_in_US\" title=\"Illinois law means end to horse slaughter in US\">Illinois law <span class=\"searchmatch\">means</span> end to horse slaughter in US</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Thousands_of_Floridians_evacuate_for_Tropical_Storm_Alberto\" title=\"Thousands of Floridians evacuate for Tropical Storm Alberto\">Thousands of Floridians evacuate for Tropical Storm Alberto</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hurricane_Alberto_means_evacuation_for_Southern_Florida_residents\" title=\"Hurricane Alberto means evacuation for Southern Florida residents\">Hurricane Alberto <span class=\"searchmatch\">means</span> evacuation for Southern Florida residents</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Labrador%27s_Inuit_sign_land_claims_agreement\" title=\"Labrador&#39;s Inuit sign land claims agreement\">Labrador&#39;s Inuit sign land claims agreement</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Rain_in_Greater_Vancouver_area,_increased_turbidity_in_drinking_water\" title=\"Rain in Greater Vancouver area, increased turbidity in drinking water\">Rain in Greater Vancouver area, increased turbidity in drinking water</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Rain_Means_Muddy_Water_Again_in_Vancouver\" title=\"Rain Means Muddy Water Again in Vancouver\">Rain <span class=\"searchmatch\">Means</span> Muddy Water Again in Vancouver</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ter%C3%A4sbetoni_frontman_J._Ahola_on_representing_Finland_at_Eurovision_2008_%26_more\" title=\"Teräsbetoni frontman J. Ahola on representing Finland at Eurovision 2008 &amp; more\">Teräsbetoni frontman J. Ahola on representing Finland at Eurovision 2008 &amp; more</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/China_enters_the_low-cost_laptop_competition\" title=\"China enters the low-cost laptop competition\">China enters the low-cost laptop competition</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bloc_Qu%C3%A9b%C3%A9cois_support_Canadian_budget,_Liberals,_NDP_oppose\" title=\"Bloc Québécois support Canadian budget, Liberals, NDP oppose\">Bloc Québécois support Canadian budget, Liberals, NDP oppose</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Navy_helping_New_Orleans_pets\" title=\"Navy helping New Orleans pets\">Navy helping New Orleans pets</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Aer_Lingus_buys_twelve_new_long-haul_Airbus_jets\" title=\"Aer Lingus buys twelve new long-haul Airbus jets\">Aer Lingus buys twelve new long-haul Airbus jets</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/IRA_orders_end_to_armed_campaign\" title=\"IRA orders end to armed campaign\">IRA orders end to armed campaign</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canupa_Gluha_Mani_speaks_about_Lakota_Oyate,_Lakota_freedom\" title=\"Canupa Gluha Mani speaks about Lakota Oyate, Lakota freedom\">Canupa Gluha Mani speaks about Lakota Oyate, Lakota freedom</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Supreme_Court_of_the_United_States_contemplates_same-sex_marriage\" title=\"Supreme Court of the United States contemplates same-sex marriage\">Supreme Court of the United States contemplates same-sex marriage</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Effect_Of_Mobile_Phones_On_Health\" title=\"Effect Of Mobile Phones On Health\">Effect Of Mobile Phones On Health</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Three_new_dinosaurs_discovered_in_Australia\" title=\"Three new dinosaurs discovered in Australia\">Three new dinosaurs discovered in Australia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_political_columnist_James_J._Kilpatrick_dies_at_age_89\" title=\"US political columnist James J. Kilpatrick dies at age 89\">US political columnist James J. Kilpatrick dies at age 89</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Korean_Peninsula_on_the_%27brink_of_war%27:_DPRK\" title=\"Korean Peninsula on the &#39;brink of war&#39;: DPRK\">Korean Peninsula on the &#39;brink of war&#39;: DPRK</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471573,
+   "book" : [],
+   "micro-www" : {
+      "means" : [
+         "means",
+         "Means_(surname)",
+         "Means_(ethics)",
+         "Means_(band)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Means' may refer to:\n\n* Means (surname)\n\n;Definitions\n* Mean (average), a term used in mathematics and statistics\n* Means (ethics), something of instrumental value in order to achieve an end\n* Means (law), an aspect of a crime needed to convince a jury of guilt in a\n  criminal proceeding\n\n;Other uses\n* Means, Kentucky, a small town in the United States\n* Means (band), a Christian hardcore band from Regina, Saskatchewan\n",
+      "title" : "means",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Mean",
+      "1: Means,_motive,_and_opportunity",
+      "1: Means,_Kentucky"
+   ]
+}

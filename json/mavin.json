@@ -1,0 +1,54 @@
+{
+   "micrownet" : [
+      "mavin"
+   ],
+   "duck" : [
+      "Mavin",
+      "Mavin is a village in Dashtabi-ye Sharqi Rural District, Dashtabi District, Buin Zahra County, Qazvin Province, Iran.",
+      "http://www.merriam-webster.com/dictionary/mavin",
+      "mavin definition: one who is experienced or knowledgeable.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_countries"
+   ],
+   "created" : 1373473249,
+   "book" : [],
+   "micro-www" : {
+      "mavin" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Populated places in Buin Zahra County"
+      ],
+      "text" : "\n{{Infobox settlement |official_name =Mavin |native_name =موين |settlement_type =\nvillage |pushpin_map =Iran |mapsize =150px |coordinates_region = IR\n|subdivision_type = Country |subdivision_name = |subdivision_type1 =Province\n|subdivision_name1 =Qazvin |subdivision_type2 =County |subdivision_name2 = Buin\nZahra |subdivision_type3 =Bakhsh |subdivision_name3 =Dashtabi |subdivision_type4\n=Rural District |subdivision_name4 =Dashtabi-ye Sharqi |leader_title =\n|leader_name = |established_title = |established_date = |area_total_km2 =\n|area_footnotes = |population_as_of = 2006 |population_total =553\n|population_density_km2 =auto |timezone = IRST |utc_offset = +3:30 |timezone_DST\n= IRDT |utc_offset_DST = +4:30 |coordinates_display = %\n|latd=36|latm=05|lats=22|latNS=N |longd=49|longm=55|longs=36|longEW=E\n|elevation_m = |area_code = |website = |footnotes = }} 'Mavin' (, also Romanized\nas 'Mavīn', 'Māwin', and 'Movīn')<ref></ref> is a village in Dashtabi-ye Sharqi\nRural District, Dashtabi District, Buin Zahra County, Qazvin Province, Iran. At\nthe 2006 census, its population was 553, in 133 families.<ref></ref>\n",
+      "title" : "mavin",
+      "headings" : [
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Qazvin_Province",
+      "2: Buin_Zahra_County",
+      "2: Dashtabi_District",
+      "2: Dashtabi-ye_Sharqi_Rural_District",
+      "1: List_of_countries",
+      "1: Provinces_of_Iran",
+      "1: Counties_of_Iran",
+      "1: Bakhsh",
+      "1: Rural_Districts_of_Iran",
+      "1: Iran_Standard_Time",
+      "1: Iran_Daylight_Time",
+      "1: Romanize",
+      "1: Iran"
+   ]
+}

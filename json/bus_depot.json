@@ -1,0 +1,46 @@
+{
+   "micrownet" : [
+      "bus_depot"
+   ],
+   "duck" : [
+      "HASH(0x49b2638)",
+      "HASH(0x4971d78)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Melbourne%27s_tram-driving_teen_faces_more_charges\" title=\"Melbourne&#39;s tram-driving teen faces more charges\">Melbourne&#39;s tram-driving teen faces more charges</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sydney_bus_driver_accused_of_kidnapping_schoolchildren\" title=\"Sydney bus driver accused of kidnapping schoolchildren\">Sydney <span class=\"searchmatch\">bus</span> driver accused of kidnapping schoolchildren</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bus_crashes_into_shop_in_Cardiff,_Wales\" title=\"Bus crashes into shop in Cardiff, Wales\"><span class=\"searchmatch\">Bus</span> crashes into shop in Cardiff, Wales</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NYC_Transit_on_strike\" title=\"NYC Transit on strike\">NYC Transit on strike</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NYC_Transit_asks_members_to_ratify_new_contracts\" title=\"NYC Transit asks members to ratify new contracts\">NYC Transit asks members to ratify new contracts</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/1_dead,_13_injured_in_Dublin_bus_pursuit\" title=\"1 dead, 13 injured in Dublin bus pursuit\">1 dead, 13 injured in Dublin <span class=\"searchmatch\">bus</span> pursuit</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Large_fire_on_London_2012_Olympics_site\" title=\"Large fire on London 2012 Olympics site\">Large fire on London 2012 Olympics site</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Fire_in_central_London_causes_traffic_chaos\" title=\"Fire in central London causes traffic chaos\">Fire in central London causes traffic chaos</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Transport_for_London_wins_first_Anti-Social_Behaviour_Order_against_graffiti_vandal\" title=\"Transport for London wins first Anti-Social Behaviour Order against graffiti vandal\">Transport for London wins first Anti-Social Behaviour Order against graffiti vandal</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Graffiti_vandal_banned_from_top_deck_of_London_buses_under_Anti-Social_Behaviour_legislation\" title=\"Graffiti vandal banned from top deck of London buses under Anti-Social Behaviour legislation\">Graffiti vandal banned from top deck of London <span class=\"searchmatch\">buses</span> under Anti-Social</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Severe_flooding_hits_Cumbria,_England\" title=\"Severe flooding hits Cumbria, England\">Severe flooding hits Cumbria, England</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373463169,
+   "book" : [],
+   "micro-www" : {
+      "bus_depot" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "'Bus depot' has the following meanings: *A bus station is a structure where\nbuses pick up and drop off passengers. (Bus depot does not refer to this in the\nUnited Kingdom). *A bus garage is a place where buses are stored when out of\nservice and worked on.\n",
+      "title" : "bus depot",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Bus_station",
+      "1: Bus_garage"
+   ]
+}

@@ -1,0 +1,78 @@
+{
+   "micrownet" : [
+      "e_layer"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Saturn_moon_Enceladus_may_have_salty_ocean\" title=\"Saturn moon Enceladus may have salty ocean\">Saturn moon Enceladus may have salty ocean</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Entire_fossilized_forest_found_in_Illinois,_USA\" title=\"Entire fossilized forest found in Illinois, USA\">Entire fossilized forest found in Illinois, USA</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Lobby_groups_oppose_plans_for_EU_copyright_extension\" title=\"Lobby groups oppose plans for EU copyright extension\">Lobby groups oppose plans for EU copyright extension</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Lobby_groups_oppose_plans_for_EU_copyright_extension#Reclaiming_democratic_processes_in_the_E.U.\" title=\"Lobby groups oppose plans for EU copyright extension\">Reclaiming democratic processes in the <span class=\"searchmatch\">E</span>.U.</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Flexible_displays_soon_to_be_in_production\" title=\"Flexible displays soon to be in production\">Flexible displays soon to be in production</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Earthquake_hits_Ottawa,_Canada\" title=\"Earthquake hits Ottawa, Canada\">Earthquake hits Ottawa, Canada</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Strong_earthquake_hits_Pakistan,_north_India,_Afghanistan\" title=\"Strong earthquake hits Pakistan, north India, Afghanistan\">Strong earthquake hits Pakistan, north India, Afghanistan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Princeton_report_questions_electronic_voting_machine_security\" title=\"Princeton report questions electronic voting machine security\">Princeton report questions electronic voting machine security</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Interview_with_Ton_Roosendaal_about_Elephants_Dream_and_free_content_movies\" title=\"Interview with Ton Roosendaal about Elephants Dream and free content movies\">Interview with Ton Roosendaal about Elephants Dream and free content movies</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sinkhole_reported_in_Buffalo,_New_York\" title=\"Sinkhole reported in Buffalo, New York\">Sinkhole reported in Buffalo, New York</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Stanford_physicists_print_smallest-ever_letters_%27SU%27_at_subatomic_level_of_1.5_nanometres_tall\" title=\"Stanford physicists print smallest-ever letters &#39;SU&#39; at subatomic level of 1.5 nanometres tall\">Stanford physicists print smallest-ever letters &#39;SU&#39; at subatomic level of 1.5 nanometres tall</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373473002,
+   "book" : [],
+   "micro-www" : {
+      "e_layer" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Ionosphere",
+         "Radio frequency propagation"
+      ],
+      "text" : "\nThe 'Kennelly–Heaviside layer', named after Arthur Edwin Kennelly and Oliver\nHeaviside, also known as the 'E region' or simply the 'Heaviside layer', is a\nlayer of ionised gas occurring between roughly 90–150&nbsp;km (56–93&nbsp;mi)\nabove the ground &mdash; one of several layers in the Earth's ionosphere. It\nreflects medium-frequency radio waves, and because of this reflection, radio\nwaves can be propagated beyond the horizon.\n\nPropagation is affected by time of day. During the daytime the solar wind\npresses this layer closer to the Earth, thereby limiting how far it can reflect\nradio waves. Conversely, on the night (lee) side of the Earth, the solar wind\ndrags the ionosphere further away, thereby greatly increasing the range which\nradio waves can travel by reflection, called skywave. The extent of the effect\nis further influenced by the season, and the amount of sunspot activity.\n",
+      "title" : "Kennelly%E2%80%93Heaviside%20layer",
+      "headings" : [
+         "History",
+         "Cultural impact",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "2: Arthur_Edwin_Kennelly",
+      "2: Oliver_Heaviside",
+      "2: Radio_wave",
+      "2: Old_Deuteronomy",
+      "1: Ionisation",
+      "1: Gas",
+      "1: Earth",
+      "1: Ionosphere",
+      "1: Mediumwave",
+      "1: Radio_propagation",
+      "1: Horizon",
+      "1: Solar_wind",
+      "1: Windward_and_leeward",
+      "1: Skywave",
+      "1: Season",
+      "1: Sunspot",
+      "1: Edward_V._Appleton",
+      "1: Nobel_Prize_in_Physics",
+      "1: Gregory_Breit",
+      "1: Merle_A._Tuve",
+      "1: Andrew_Lloyd_Webber",
+      "1: T._S._Eliot",
+      "1: Hotel_Russell",
+      "1: Grizabella",
+      "1: Tim_Powers",
+      "1: Declare",
+      "1: Thomas_Pynchon",
+      "1: The_Secret_Integration",
+      "1: The_Summerland",
+      "1: Van_Allen_Belt"
+   ]
+}

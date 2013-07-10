@@ -1,0 +1,98 @@
+{
+   "micrownet" : [
+      "nonparametric_statistics"
+   ],
+   "duck" : [
+      "HASH(0x4cc5370)",
+      "HASH(0x4ebbc00)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462400,
+   "book" : [],
+   "micro-www" : {
+      "nonparametric_statistics" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Non-parametric statistics| *",
+         "Statistical inference",
+         "Robust statistics"
+      ],
+      "text" : "In statistics, the term non-parametric statistics refers to statistics that do\nnot assume the data or population have any characteristic structure or\nparameters. For example, non-parametric statistics are suitable for examining\nthe order of a set of students ranked by a test result, while parametric\nstatistics would be more appropriate for looking at the actual test results\n(which may possess parameters such as a mean and standard deviation).\n",
+      "title" : "non-parametric%20statistics",
+      "headings" : [
+         "Definitions",
+         "Applications and purpose",
+         "Non-parametric models",
+         "Methods",
+         "See also",
+         "Notes",
+         "General references"
+      ]
+   },
+   "micro-relation" : [
+      "5: Parametric_statistics",
+      "2: Statistics",
+      "2: Parameters",
+      "2: Probability_distribution",
+      "1: Data",
+      "1: Population",
+      "1: Non-parametric_statistics",
+      "1: Mean",
+      "1: Standard_deviation",
+      "1: Descriptive_statistics",
+      "1: Statistical_model",
+      "1: Statistical_inference",
+      "1: Statistical_hypothesis_testing",
+      "1: Statistic",
+      "1: Parameter",
+      "1: Order_statistic",
+      "1: Dirichlet_process",
+      "1: Latent_variables",
+      "1: Ranking",
+      "1: Numerical",
+      "1: Preferences",
+      "1: Level_of_measurement",
+      "1: Robust_statistics#Introduction",
+      "1: Robust_statistics",
+      "1: Statistical_power",
+      "1: Histogram",
+      "1: Kernel_density_estimation",
+      "1: Nonparametric_regression",
+      "1: Semiparametric_regression",
+      "1: Wavelet",
+      "1: Data_envelopment_analysis",
+      "1: Multivariate_analysis",
+      "1: Anderson–Darling_test",
+      "1: Cochran's_Q_test",
+      "1: Cohen's_kappa",
+      "1: Friedman_test",
+      "1: Kaplan–Meier_estimator",
+      "1: Kendall_tau_rank_correlation_coefficient",
+      "1: Kendall's_W",
+      "1: Kolmogorov–Smirnov_test",
+      "1: Kruskal-Wallis_one-way_analysis_of_variance",
+      "1: Kuiper's_test",
+      "1: Logrank_test",
+      "1: Mann–Whitney_U",
+      "1: McNemar's_test",
+      "1: Median_test",
+      "1: Pitman_permutation_test",
+      "1: Rank_product",
+      "1: Siegel–Tukey_test",
+      "1: Sign_test",
+      "1: Spearman's_rank_correlation_coefficient",
+      "1: Squared_ranks_test",
+      "1: Wald–Wolfowitz_runs_test",
+      "1: Wilcoxon_signed-rank_test"
+   ]
+}

@@ -1,0 +1,46 @@
+{
+   "micrownet" : [
+      "stupid_person"
+   ],
+   "duck" : [
+      "HASH(0x4a0fec8)",
+      "HASH(0x4b07518)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Crosswords/2005/February/15\" title=\"Crosswords/2005/February/15\">Crosswords/2005/February/15</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/McCartney_campaign_changing_minds_about_IRA\" title=\"McCartney campaign changing minds about IRA\">McCartney campaign changing minds about IRA</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mexico_on_the_verge_of_decriminalizing_possession_of_small_amounts_of_drugs\" title=\"Mexico on the verge of decriminalizing possession of small amounts of drugs\">Mexico on the verge of decriminalizing possession of small amounts of drugs</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Victoria_Wyndham_on_Another_World_and_another_life\" title=\"Victoria Wyndham on Another World and another life\">Victoria Wyndham on Another World and another life</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Black_registrar_to_hold_mass_wedding_in_Belgium\" title=\"Black registrar to hold mass wedding in Belgium\">Black registrar to hold mass wedding in Belgium</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Gunman_kills_self_and_hostage_in_Texas_NASA_building\" title=\"Gunman kills self and hostage in Texas NASA building\">Gunman kills self and hostage in Texas NASA building</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Billy_West,_voice_of_Ren_and_Stimpy,_Futurama,_on_the_rough_start_that_shaped_his_life\" title=\"Billy West, voice of Ren and Stimpy, Futurama, on the rough start that shaped his life\">Billy West, voice of Ren and Stimpy, Futurama, on the rough start that shaped his life</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/ACLU,_EFF_challenging_US_%27secret%27_court_orders_seeking_Twitter_data\" title=\"ACLU, EFF challenging US &#39;secret&#39; court orders seeking Twitter data\">ACLU, EFF challenging US &#39;secret&#39; court orders seeking Twitter data</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Vivien_Goldman:_An_interview_with_the_Punk_Professor\" title=\"Vivien Goldman: An interview with the Punk Professor\">Vivien Goldman: An interview with the Punk Professor</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Satanism:_An_interview_with_Church_of_Satan_High_Priest_Peter_Gilmore\" title=\"Satanism: An interview with Church of Satan High Priest Peter Gilmore\">Satanism: An interview with Church of Satan High Priest Peter Gilmore</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mass_wedding_held_against_racism_in_Belgium\" title=\"Mass wedding held against racism in Belgium\">Mass wedding held against racism in Belgium</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ingrid_Newkirk,_co-founder_of_PETA,_on_animal_rights_and_the_film_about_her_life\" title=\"Ingrid Newkirk, co-founder of PETA, on animal rights and the film about her life\">Ingrid Newkirk, co-founder of PETA, on animal rights and the film about her life</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Plane_crashes_into_office_block_in_Austin,_Texas/suicide_note\" title=\"Plane crashes into office block in Austin, Texas/suicide note\">Plane crashes into office block in Austin, Texas/suicide note</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Augusten_Burroughs_on_addiction,_writing,_his_family_and_his_new_book\" title=\"Augusten Burroughs on addiction, writing, his family and his new book\">Augusten Burroughs on addiction, writing, his family and his new book</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:May_25,_2010\" title=\"News briefs:May 25, 2010\">News briefs:May 25, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Turkish_writer_Orhan_Pamuk_receives_Nobel_Prize\" title=\"Turkish writer Orhan Pamuk receives Nobel Prize\">Turkish writer Orhan Pamuk receives Nobel Prize</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Edmund_White_on_writing,_incest,_life_and_Larry_Kramer\" title=\"Edmund White on writing, incest, life and Larry Kramer\">Edmund White on writing, incest, life and Larry Kramer</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/An_interview_with_gossip_columnist_Michael_Musto_on_the_art_of_celebrity_journalism\" title=\"An interview with gossip columnist Michael Musto on the art of celebrity journalism\">An interview with gossip columnist Michael Musto on the art of celebrity journalism</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465367,
+   "book" : [],
+   "micro-www" : {
+      "stupid_person" : [
+         ""
+      ]
+   },
+   "micro-relation" : [
+      "1: Stupidity"
+   ]
+}

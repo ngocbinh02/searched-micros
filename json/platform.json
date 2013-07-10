@@ -1,0 +1,104 @@
+{
+   "micrownet" : [
+      "drilling_platform",
+      "platform",
+      "platform_bed",
+      "platform_rocker",
+      "political_platform",
+      "space_platform",
+      "weapons_platform"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Platform",
+      "\n<a href=\"http://duckduckgo.com/Platform_game\">Platform game</a>, a genre of video games",
+      "\n<a href=\"http://duckduckgo.com/Oil_platform\">Oil platform</a>, a structure built for oil production",
+      "HASH(0x49a9848)",
+      "Wikipedia",
+      "Platform",
+      "http://www.merriam-webster.com/dictionary/platform",
+      "platform definition: plan, design.",
+      "Merriam-Webster",
+      "HASH(0x49a4d10)",
+      "\n<a href=\"http://duckduckgo.com/Computing_platform\">Computing platform</a>, a framework on which applications may be run",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Twitter_announces_advertising_platform\" title=\"Twitter announces advertising platform\">Twitter announces advertising <span class=\"searchmatch\">platform</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/No_oil_spillage_after_platform_explodes_in_the_Gulf_of_Mexico\" title=\"No oil spillage after platform explodes in the Gulf of Mexico\">No oil spillage after <span class=\"searchmatch\">platform</span> explodes in the Gulf of Mexico</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Shell_reports_oil_leak_at_North_Sea_platform\" title=\"Shell reports oil leak at North Sea platform\">Shell reports oil leak at North Sea <span class=\"searchmatch\">platform</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Romanian_oil_company_claims_Iran_has_seized_one_of_its_rigs\" title=\"Romanian oil company claims Iran has seized one of its rigs\">Romanian oil company claims Iran has seized one of its rigs</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Iranian_helicopter_fires_upon_Romanian_oil_rig,_troops_sieze_platform\" title=\"Iranian helicopter fires upon Romanian oil rig, troops sieze platform\">Iranian helicopter fires upon Romanian oil rig, troops sieze <span class=\"searchmatch\">platform</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/IBM_and_Cisco_in_attempt_to_create_a_universal_platform_for_communications_software_development\" title=\"IBM and Cisco in attempt to create a universal platform for communications software development\">IBM and Cisco in attempt to create a universal <span class=\"searchmatch\">platform</span> for communications software development</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Major_cell_phone_companies_working_on_Linux-based_platform_for_phones\" title=\"Major cell phone companies working on Linux-based platform for phones\">Major cell phone companies working on Linux-based <span class=\"searchmatch\">platform</span> for phones</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sun_to_acquire_MySQL_AB\" title=\"Sun to acquire MySQL AB\">Sun to acquire MySQL AB</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bronislaw_Komorowski_sworn_in_as_president_of_Poland\" title=\"Bronislaw Komorowski sworn in as president of Poland\">Bronislaw Komorowski sworn in as president of Poland</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Nigerian_kidnappers_release_8_oil_workers\" title=\"Nigerian kidnappers release 8 oil workers\">Nigerian kidnappers release 8 oil workers</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Internet_pirates_want_their_own_nation\" title=\"Internet pirates want their own nation\">Internet pirates want their own nation</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/National_Socialist_Movement_endorses_U.S._presidential_candiate\" title=\"National Socialist Movement endorses U.S. presidential candiate\">National Socialist Movement endorses U.S. presidential candiate</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Zenit_rocket_launches_Galaxy_18_satellite\" title=\"Zenit rocket launches Galaxy 18 satellite\">Zenit rocket launches Galaxy 18 satellite</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/BC_election_writ_drops;_referendum_campaigns_underway\" title=\"BC election writ drops; referendum campaigns underway\">BC election writ drops; referendum campaigns underway</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Worker_dies_on_bridge_project_in_Toledo,_Ohio\" title=\"Worker dies on bridge project in Toledo, Ohio\">Worker dies on bridge project in Toledo, Ohio</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Clearing_the_air:_Positions_of_Canadian_parties_vis-%C3%A0-vis_the_environment\" title=\"Clearing the air: Positions of Canadian parties vis-à-vis the environment\">Clearing the air: Positions of Canadian parties vis-à-vis the environment</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Clearing_the_air:_Positions_of_Canadian_parties_vis-%C3%A0-vis_the_environment#NDP_platforms\" title=\"Clearing the air: Positions of Canadian parties vis-à-vis the environment\">NDP <span class=\"searchmatch\">platforms</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Oil_workers_kidnapped_off_of_Nigerian_oil_rig\" title=\"Oil workers kidnapped off of Nigerian oil rig\">Oil workers kidnapped off of Nigerian oil rig</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Napster_founder_Shawn_Fanning_introduces_new_file-sharing_project\" title=\"Napster founder Shawn Fanning introduces new file-sharing project\">Napster founder Shawn Fanning introduces new file-sharing project</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Expedition_10_completes_first_spacewalk\" title=\"Expedition 10 completes first spacewalk\">Expedition 10 completes first spacewalk</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Turkish_protesters_march_against_Internet_censorship\" title=\"Turkish protesters march against Internet censorship\">Turkish protesters march against Internet censorship</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465997,
+   "book" : [],
+   "micro-www" : {
+      "platform" : [
+         "platform_virtualization",
+         "platform",
+         "Platform_technology",
+         "Platform_shoe",
+         "Platform_mound",
+         "Platform_game",
+         "Platform_(theatre)",
+         "Platform_(novel)",
+         "Platform_(geology)",
+         "Platform_(economics)",
+         "Platform_(computing)",
+         "Platform_(art_group)",
+         "Platform_(European_politics)",
+         "Platform_(2000_film)",
+         "Platform_(1993_film)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Platform' may refer to:\n",
+      "title" : "platform",
+      "headings" : [
+         "Physical objects and features",
+         "Politics",
+         "Technology",
+         "Arts",
+         "Other"
+      ]
+   },
+   "micro-relation" : [
+      "1: Diving_platform",
+      "1: Jumping_platform",
+      "1: Oil_platform",
+      "1: Carbonate_platform",
+      "1: Platform_mound",
+      "1: Platform_shoe",
+      "1: Railway_platform",
+      "1: Party_platform",
+      "1: Computing_platform",
+      "1: Facebook_Platform",
+      "1: Platform_game",
+      "1: Platform_technology",
+      "1: Automobile_platform"
+   ]
+}

@@ -1,0 +1,105 @@
+{
+   "micrownet" : [
+      "sweep",
+      "sweep-second",
+      "sweep_away",
+      "sweep_hand",
+      "sweep_oar",
+      "sweep_off",
+      "sweep_over",
+      "sweep_through",
+      "sweep_under_the_rug",
+      "sweep_up",
+      "sweeper",
+      "sweeping",
+      "sweepstakes"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Chimney_sweep\">Chimney sweep</a> - A chimney sweep is a worker who clears ash and soot from chimneys.",
+      "https://en.wikipedia.org/wiki/Sweep",
+      "HASH(0x1a61418)",
+      "Wikipedia",
+      "Sweep",
+      "http://www.merriam-webster.com/dictionary/sweep",
+      "sweep definition: to remove from a surface with or as if with a broom or brush.",
+      "Merriam-Webster",
+      "HASH(0x4a1c6b0)",
+      "\n<a href=\"http://duckduckgo.com/Sweepstakes\">Sweepstakes</a>, a sales promotion or lottery",
+      "\n<a href=\"http://duckduckgo.com/Sweep-picking\">Sweep-picking</a>, a guitar technique",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Fire_sweeps_Manila,_Philippines_slum\" title=\"Fire sweeps Manila, Philippines slum\">Fire <span class=\"searchmatch\">sweeps</span> Manila, Philippines slum</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Heatwave_sweeps_USA,_many_struggling_to_keep_cool\" title=\"Heatwave sweeps USA, many struggling to keep cool\">Heatwave <span class=\"searchmatch\">sweeps</span> USA, many struggling to keep cool</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/MLB:_Pirates_complete_sweep_of_Astros\" title=\"MLB: Pirates complete sweep of Astros\">MLB: Pirates complete <span class=\"searchmatch\">sweep</span> of Astros</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Girls_sweep_Siemens_science_competition_for_US_high_schools\" title=\"Girls sweep Siemens science competition for US high schools\">Girls <span class=\"searchmatch\">sweep</span> Siemens science competition for US high schools</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Protests_over_housing_costs_sweep_across_Israel\" title=\"Protests over housing costs sweep across Israel\">Protests over housing costs <span class=\"searchmatch\">sweep</span> across Israel</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Fall_sweeps_through_Texas\" title=\"Fall sweeps through Texas\">Fall <span class=\"searchmatch\">sweeps</span> through Texas</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/MLB:_Twins_defeat_Orioles_7-2,_sweep_series\" title=\"MLB: Twins defeat Orioles 7-2, sweep series\">MLB: Twins defeat Orioles 7-2, <span class=\"searchmatch\">sweep</span> series</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Major_snowstorm_sweeps_across_Eastern_US\" title=\"Major snowstorm sweeps across Eastern US\">Major snowstorm <span class=\"searchmatch\">sweeps</span> across Eastern US</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Italian_police_launch_nationwide_anti-terror_sweep\" title=\"Italian police launch nationwide anti-terror sweep\">Italian police launch nationwide anti-terror <span class=\"searchmatch\">sweep</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/High_tides_sweep_west_Galveston_Bay\" title=\"High tides sweep west Galveston Bay\">High tides <span class=\"searchmatch\">sweep</span> west Galveston Bay</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NHL:_Penguins_complete_sweep_of_Capitals,_clinch_playoff_berth\" title=\"NHL: Penguins complete sweep of Capitals, clinch playoff berth\">NHL: Penguins complete <span class=\"searchmatch\">sweep</span> of Capitals, clinch playoff berth</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Panic-buying_as_petrol_protests_sweep_Britain\" title=\"Panic-buying as petrol protests sweep Britain\">Panic-buying as petrol protests <span class=\"searchmatch\">sweep</span> Britain</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Barack_Obama_sweeps_three_state_Democratic_contests\" title=\"Barack Obama sweeps three state Democratic contests\">Barack Obama <span class=\"searchmatch\">sweeps</span> three state Democratic contests</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/United_States_arrests_10,340_fugitives_in_first-of-kind_nationwide_sweep\" title=\"United States arrests 10,340 fugitives in first-of-kind nationwide sweep\">United States arrests 10,340 fugitives in first-of-kind nationwide <span class=\"searchmatch\">sweep</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Large_blizzard_sweeps_through_British_Columbia,_Northern_Alberta_and_Saskatchewan\" title=\"Large blizzard sweeps through British Columbia, Northern Alberta and Saskatchewan\">Large blizzard <span class=\"searchmatch\">sweeps</span> through British Columbia, Northern Alberta and Saskatchewan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Rick_Santorum_sweeps_three_non-binding_GOP_presidential_contests\" title=\"Rick Santorum sweeps three non-binding GOP presidential contests\">Rick Santorum <span class=\"searchmatch\">sweeps</span> three non-binding GOP presidential contests</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Europeans_sweep_top_actor_honors_at_80th_Academy_Awards\" title=\"Europeans sweep top actor honors at 80th Academy Awards\">Europeans <span class=\"searchmatch\">sweep</span> top actor honors at 80th Academy Awards</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/McCain,_Obama_win_%22Potomac_Primary%22_states\" title=\"McCain, Obama win &quot;Potomac Primary&quot; states\">McCain, Obama win &quot;Potomac Primary&quot; states</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Barack_Obama_and_John_McCain_sweep_Potomac_states%27_primaries\" title=\"Barack Obama and John McCain sweep Potomac states&#39; primaries\">Barack Obama and John McCain <span class=\"searchmatch\">sweep</span> Potomac states&#39; primaries</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bathurst,_NSW:_Police_find_bones,_%22may_belong_to_missing_woman%22\" title=\"Bathurst, NSW: Police find bones, &quot;may belong to missing woman&quot;\">Bathurst, NSW: Police find bones, &quot;may belong to missing woman&quot;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Family_Guy%27_returns_to_US_television,_loses_in_ratings_to_%27Housewives%27\" title=\"&#39;Family Guy&#39; returns to US television, loses in ratings to &#39;Housewives&#39;\">&#39;Family Guy&#39; returns to US television, loses in ratings to &#39;Housewives&#39;</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465573,
+   "book" : [],
+   "micro-www" : {
+      "sweep" : [
+         "Sweep_(martial_arts)",
+         "Sweep-picking",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Sweep' may refer to:\n",
+      "title" : "sweep",
+      "headings" : [
+         "Cleaning",
+         "Sports",
+         "Farming",
+         "Detection",
+         "Other meanings"
+      ]
+   },
+   "micro-relation" : [
+      "1: Chimney_sweep",
+      "1: Street_sweeper",
+      "1: Swept_quartz",
+      "1: Michael_Jordan",
+      "1: Baseball",
+      "1: Basketball",
+      "1: Hockey",
+      "1: Cricket",
+      "1: Shaun_Wright-Phillips",
+      "1: Technical_surveillance_counter-measures",
+      "1: Minesweeping",
+      "1: Sweep_account",
+      "1: Sweep_line_algorithm",
+      "1: Sweep-picking",
+      "1: Swept_wing",
+      "1: Sweeps_period",
+      "1: SWEEPS",
+      "1: Sweepstakes",
+      "1: Windmill_sail",
+      "1: Tube_bending",
+      "1: Award"
+   ]
+}

@@ -1,0 +1,48 @@
+{
+   "micrownet" : [
+      "crackling",
+      "cracklings"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Cracklings",
+      "\n<a href=\"http://duckduckgo.com/Gribenes\">Gribenes</a>, goose or chicken cracklings in Jewish cuisine",
+      "HASH(0x4a028d8)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Pork_rind\">Pork rind</a> - Pork rinds is a snack made by frying or roasting skin and fat of a pig.",
+      "Cracklings",
+      "http://www.merriam-webster.com/dictionary/cracklings",
+      "cracklings definition: a series of small sharp cracks or reports.",
+      "Merriam-Webster",
+      "HASH(0x4a567a8)",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:June_4,_2010\" title=\"News briefs:June 4, 2010\">News briefs:June 4, 2010</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465802,
+   "book" : [],
+   "micro-www" : {
+      "crackling" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "'Cracklings' (American) or 'crackling' (British) may refer to:\n* Pork rind\n* Gribenes, goose or chicken cracklings in Jewish cuisine\n",
+      "title" : "Cracklings",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: American_English",
+      "1: British_English",
+      "1: Pork_rind",
+      "1: Gribenes"
+   ]
+}

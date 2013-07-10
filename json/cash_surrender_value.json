@@ -1,0 +1,38 @@
+{
+   "micrownet" : [
+      "cash_surrender_value"
+   ],
+   "duck" : [
+      "HASH(0x499ab60)",
+      "HASH(0x4a83a88)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464247,
+   "book" : [],
+   "micro-www" : {
+      "cash_surrender_value" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Insurance terms"
+      ],
+      "text" : "\n\nThe 'cash surrender value' is the sum of money an insurance company will pay to\nthe policyholder or annuity holder in the event his or her policy is voluntarily\nterminated before its maturity or the insured event occurs. This cash value is\nthe savings component of most permanent life insurance policies, particularly\nwhole life insurance policies. It is also known as \"cash value\", \"surrender\nvalue\" and \"policyholder's equity\". This amount is net of any surrender charges\nand outstanding policy loans and interest thereon.\n\nA life settlement can be a way in which a policyholder receives more cash for\nhis policy.\n",
+      "title" : "cash surrender value",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Insurance_company",
+      "1: Life_insurance",
+      "1: Whole_life_insurance",
+      "1: Life_settlement"
+   ]
+}

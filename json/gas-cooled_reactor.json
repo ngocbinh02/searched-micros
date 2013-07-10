@@ -1,0 +1,77 @@
+{
+   "micrownet" : [
+      "gas-cooled_reactor"
+   ],
+   "duck" : [
+      "HASH(0x4a02168)",
+      "HASH(0x4a02990)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Swedish_nuclear_reactors_shut_down_over_safety_concerns\" title=\"Swedish nuclear reactors shut down over safety concerns\">Swedish nuclear <span class=\"searchmatch\">reactors</span> shut down over safety concerns</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Earthquake-damaged_Fukushima_nuclear_power_plant_triggers_evacuation\" title=\"Earthquake-damaged Fukushima nuclear power plant triggers evacuation\">Earthquake-damaged Fukushima nuclear power plant triggers evacuation</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464356,
+   "book" : [],
+   "micro-www" : {
+      "gas-cooled_reactor" : [
+         "gas-cooled_reactor",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Graphite moderated reactors",
+         "Nuclear power reactor types"
+      ],
+      "text" : "A 'gas-cooled reactor (GCR)' is a nuclear reactor that uses graphite as a\nneutron moderator and carbon dioxide (helium can also be used) as coolant.\nAlthough there are many other types of reactor cooled by gas, the terms GCR and\nto a lesser extent gas cooled reactor are particularly used to refer to this\ntype of reactor.\n\nThe GCR was able to use natural uranium as fuel, enabling the countries that\ndeveloped them to fabricate their own fuel without relying on other countries\nfor supplies of enriched uranium, which was at the time of their development\nonly available from the United States or Soviet Union.\n\nThere were two main types of generation I GCR:\n\n* The Magnox reactors developed by the United Kingdom.\n* The UNGG reactors developed by France.\n\nThe main difference between these two types is in the fuel cladding material.\nBoth types were mainly constructed in their countries of origin, with a few\nexport sales: Magnox plants to Italy and Japan, and a UNGG to Spain. Both types\nused fuel cladding materials that were unsuitable for medium term storage under\nwater, making reprocessing an essential part of the nuclear fuel cycle.\n\nBoth types were, in their countries of origin, also designed and used to produce\nweapons-grade plutonium, but at the cost of major interruption to their use for\npower generation despite the provision of online refuelling.\n\nIn the UK, the Magnox was replaced by the advanced gas-cooled reactor (AGR), an\nimproved Generation II gas cooled reactors. In France, the UNGG was replaced by\nthe pressurized water reactor (PWR). More recently, GCRs based on the\ndeclassified drawings of the early Magnox reactors have been constructed by\nNorth Korea at the Yongbyon Nuclear Scientific Research Center.\n",
+      "title" : "gas-cooled reactor",
+      "headings" : [
+         "Types",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "2: Magnox",
+      "2: UNGG_reactor",
+      "2: Advanced_gas-cooled_reactor",
+      "1: Nuclear_reactor",
+      "1: Graphite",
+      "1: Neutron_moderator",
+      "1: Carbon_dioxide",
+      "1: Helium",
+      "1: Nuclear_reactor_coolant",
+      "1: Natural_uranium",
+      "1: Enriched_uranium",
+      "1: United_States",
+      "1: Soviet_Union",
+      "1: United_Kingdom",
+      "1: France",
+      "1: Italy",
+      "1: Japan",
+      "1: Spain",
+      "1: Nuclear_reprocessing",
+      "1: Nuclear_fuel_cycle",
+      "1: Weapons-grade_plutonium",
+      "1: Online_refuelling",
+      "1: Generation_II_reactor",
+      "1: Pressurized_water_reactor",
+      "1: North_Korea",
+      "1: Yongbyon_Nuclear_Scientific_Research_Center",
+      "1: Gas-cooled_fast_reactor",
+      "1: Gas_turbine_modular_helium_reactor",
+      "1: High_temperature_gas_cooled_reactor",
+      "1: Pebble_bed_reactor",
+      "1: AVR_reactor",
+      "1: THTR-300",
+      "1: Pebble_bed_modular_reactor",
+      "1: Very_high_temperature_reactor",
+      "1: UHTREX"
+   ]
+}

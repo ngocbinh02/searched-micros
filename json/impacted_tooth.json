@@ -1,0 +1,62 @@
+{
+   "micrownet" : [
+      "impacted_tooth"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373470784,
+   "book" : [],
+   "micro-www" : {
+      "impacted_tooth" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Oral surgery",
+         "Oral pathology",
+         "Dentistry"
+      ],
+      "text" : "\nAn 'impacted tooth' is one that fails to erupt into the dental arch within the\nspecific time. Because impacted teeth do not erupt, they are retained throughout\nthe individual's lifetime unless extracted or exposed surgically. Teeth may\nbecome impacted because of adjacent teeth, dense overlying bone, excessive soft\ntissue or a genetic abnormality. Most often, the cause of impaction is\ninadequate arch length and space in which to erupt. That is the total length of\nthe alveolar arch is smaller than the tooth arch (the combined mesiodistal width\nof each tooth). The third molars are frequently impacted because they are the\nlast teeth to erupt in the oral cavity. Mandibular third molars are more\ncommonly impacted than their maxillary counterparts. As a general rule, all\nimpacted teeth must be removed unless and otherwise contraindicated.<ref>http:/-\n/books.google.co.in/books/about/Peterson_s_Principles_of_Oral_and_Maxill.html?i-\nd=Jf9WZltV1BAC&redir_esc=y</ref>\n",
+      "title" : "Tooth%20impaction",
+      "headings" : [
+         "Classification",
+         "Complications",
+         "Symptoms",
+         "Management",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "1: Tooth_eruption",
+      "1: Tooth_extraction",
+      "1: Soft_tissue",
+      "1: Wisdom_teeth",
+      "1: Oral_surgeon",
+      "1: Dental_radiograph",
+      "1: Human_mandible",
+      "1: Periodontal_disease",
+      "1: Gingivitis",
+      "1: Bacteria",
+      "1: Periodontitis",
+      "1: Dental_caries",
+      "1: Human_mouth",
+      "1: Micriobiota",
+      "1: Influenza",
+      "1: Upper_respiratory_tract_infection",
+      "1: Trismus",
+      "1: Mandibular_fracture",
+      "1: Alveolar_process",
+      "1: Dental_follicle",
+      "1: Cyst",
+      "1: Dentigerous_cyst",
+      "1: Keratocyst"
+   ]
+}

@@ -1,0 +1,35 @@
+{
+   "micrownet" : [
+      "huskiness"
+   ],
+   "duck" : [
+      "huskiness",
+      "Roughness of sound; harshness; hoarseness; as, huskiness of voice.",
+      "http://www.merriam-webster.com/dictionary/huskiness",
+      "huskiness definition: hoarse with or as if with emotion.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Stanford_women%27s_basketball_knocks_three-time_champion_Connecticut_out_of_NCAA_tournament\" title=\"Stanford women&#39;s basketball knocks three-time champion Connecticut out of NCAA tournament\">Stanford women&#39;s basketball knocks three-time champion Connecticut out of NCAA tournament</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canadian_Football_League_to_test_Atlantic_expansion_with_exhibition_game\" title=\"Canadian Football League to test Atlantic expansion with exhibition game\">Canadian Football League to test Atlantic expansion with exhibition game</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/George_Mason_University_upsets_UConn,_advances_to_Final_Four\" title=\"George Mason University upsets UConn, advances to Final Four\">George Mason University upsets UConn, advances to Final Four</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Benet_Academy,_Illinois_boys_basketball_team_defeats_Naperville_North_after_scoring_crucial_three-pointer\" title=\"Benet Academy, Illinois boys basketball team defeats Naperville North after scoring crucial three-pointer\">Benet Academy, Illinois boys basketball team defeats Naperville North after scoring crucial three-pointer</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NCAA_2010_ice_hockey_east_and_west_regional_tournament_results\" title=\"NCAA 2010 ice hockey east and west regional tournament results\">NCAA 2010 ice hockey east and west regional tournament results</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NHL:_Boston_Bruins_win_Winter_Classic_in_overtime\" title=\"NHL: Boston Bruins win Winter Classic in overtime\">NHL: Boston Bruins win Winter Classic in overtime</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471272,
+   "book" : [],
+   "micro-www" : {
+      "huskiness" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

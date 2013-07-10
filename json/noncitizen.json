@@ -1,0 +1,30 @@
+{
+   "micrownet" : [
+      "noncitizen"
+   ],
+   "duck" : [
+      "HASH(0x47c4e50)",
+      "HASH(0x47c4cd0)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Kuwait_stateless_protest_for_rights\" title=\"Kuwait stateless protest for rights\">Kuwait stateless protest for rights</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_immigration_detains_Aussie_flight_attendant_for_10mths,_and_maltreats_her\" title=\"Australian immigration detains Aussie flight attendant for 10mths, and maltreats her\">Australian immigration detains Aussie flight attendant for 10mths, and maltreats her</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Supreme_Court_considers_appeal_from_foreign_terrorist_suspects\" title=\"US Supreme Court considers appeal from foreign terrorist suspects\">US Supreme Court considers appeal from foreign terrorist suspects</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Plane_crashes_into_office_block_in_Austin,_Texas/suicide_note\" title=\"Plane crashes into office block in Austin, Texas/suicide note\">Plane crashes into office block in Austin, Texas/suicide note</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465904,
+   "book" : [],
+   "micro-www" : {
+      "noncitizen" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

@@ -1,0 +1,42 @@
+{
+   "micrownet" : [
+      "scientific_agriculture"
+   ],
+   "duck" : [
+      "HASH(0x4e5a990)",
+      "HASH(0x4e5b008)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UAE_launches_national_authority_for_scientific_research\" title=\"UAE launches national authority for scientific research\">UAE launches national authority for <span class=\"searchmatch\">scientific</span> research</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Dairy_cattle_with_names_produce_more_milk,_according_to_new_study\" title=\"Dairy cattle with names produce more milk, according to new study\">Dairy cattle with names produce more milk, according to new study</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Creekstone_Farms_sues_USDA_for_refusing_to_allow_mad_cow_testing\" title=\"Creekstone Farms sues USDA for refusing to allow mad cow testing\">Creekstone Farms sues USDA for refusing to allow mad cow testing</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Apples_top_most_contaminated_produce_list\" title=\"Apples top most contaminated produce list\">Apples top most contaminated produce list</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Raymond_N._Rogers,_chemist_who_studied_the_Shroud_of_Turin,_dies_at_age_77\" title=\"Raymond N. Rogers, chemist who studied the Shroud of Turin, dies at age 77\">Raymond N. Rogers, chemist who studied the Shroud of Turin, dies at age 77</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Vietnam_bans_pet_hamsters\" title=\"Vietnam bans pet hamsters\">Vietnam bans pet hamsters</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chinese_authorities_question_genetically_altered_rice_allegation\" title=\"Chinese authorities question genetically altered rice allegation\">Chinese authorities question genetically altered rice allegation</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/H5N1_bird_flu_virus_reaches_Poland\" title=\"H5N1 bird flu virus reaches Poland\">H5N1 bird flu virus reaches Poland</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs\" title=\"International experts probe deadly Ebola Reston virus outbreak in Philippine pigs\">International experts probe deadly Ebola Reston virus outbreak in Philippine pigs</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Japan_to_request_IAEA_inspection_of_quake-damaged_nuclear_plant\" title=\"Japan to request IAEA inspection of quake-damaged nuclear plant\">Japan to request IAEA inspection of quake-damaged nuclear plant</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/IWC_passes_pro-whaling_resolution_after_close_vote\" title=\"IWC passes pro-whaling resolution after close vote\">IWC passes pro-whaling resolution after close vote</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Reactions_to_review_of_economic_implications_of_climate_change\" title=\"Reactions to review of economic implications of climate change\">Reactions to review of economic implications of climate change</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Cloned_cattle%27s_milk_and_meat_seem_safe,_according_to_new_study\" title=\"Cloned cattle&#39;s milk and meat seem safe, according to new study\">Cloned cattle&#39;s milk and meat seem safe, according to new study</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_science_organisation_discontinues_genetically_modified_pea_research\" title=\"Australian science organisation discontinues genetically modified pea research\">Australian science organisation discontinues genetically modified pea research</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Brain_chemical_Serotonin_behind_locusts%E2%80%99_swarming_instinct\" title=\"Brain chemical Serotonin behind locusts’ swarming instinct\">Brain chemical Serotonin behind locusts’ swarming instinct</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._study_of_gay_sheep_may_shed_light_on_sexuality\" title=\"U.S. study of gay sheep may shed light on sexuality\">U.S. study of gay sheep may shed light on sexuality</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462447,
+   "book" : [],
+   "micro-www" : {
+      "scientific_agriculture" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

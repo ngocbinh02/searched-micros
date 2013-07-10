@@ -1,0 +1,89 @@
+{
+   "micrownet" : [
+      "mental_representation"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ontario_Votes_2007:_Interview_with_Green_Party_candidate_Lloyd_Helferty,_Thornhill\" title=\"Ontario Votes 2007: Interview with Green Party candidate Lloyd Helferty, Thornhill\">Ontario Votes 2007: Interview with Green Party candidate Lloyd Helferty, Thornhill</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Fear_and_loathing_on_the_campaign_trail,_July_2008\" title=\"Fear and loathing on the campaign trail, July 2008\">Fear and loathing on the campaign trail, July 2008</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ontario_Votes_2007:_Interview_with_Liberal_candidate_Kate_Holloway,_Trinity-Spadina\" title=\"Ontario Votes 2007: Interview with Liberal candidate Kate Holloway, Trinity-Spadina\">Ontario Votes 2007: Interview with Liberal candidate Kate Holloway, Trinity-Spadina</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ontario_Votes_2007:_Interview_with_Freedom_Party_candidate_David_McGruer,_Ottawa-Orleans\" title=\"Ontario Votes 2007: Interview with Freedom Party candidate David McGruer, Ottawa-Orleans\">Ontario Votes 2007: Interview with Freedom Party candidate David McGruer, Ottawa-Orleans</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373470162,
+   "book" : [],
+   "micro-www" : {
+      "mental_representation" : [
+         "Mental_representation",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Contemporary philosophy",
+         "Concepts in metaphysics",
+         "Cognitive science",
+         "Conceptualism",
+         "Imagination",
+         "Metaphysics of mind",
+         "Mental content",
+         "Ontology",
+         "Perception",
+         "Theories of mind",
+         "Cognitive modeling"
+      ],
+      "text" : "A 'mental representation' (or 'cognitive representation'), in philosophy of\nmind, cognitive psychology, neuroscience, and cognitive science, is a\nhypothetical internal cognitive symbol that represents external reality, or else\na mental process that makes use of such a symbol; \"a formal system for making\nexplicit certain entities or types of information, together with a specification\nof how the system does this.\"<ref> </ref>\n\nMental representation is the mental imagery of things that are not currently\nseen or sensed by the sense organs. In our minds we often have images of\nobjects, events and settings.<ref name=sternberg2009></ref> For example, If\nyou were asked to recall a birthday party, you could probably remember the\npeople, the place where it was held, and things that you saw and maybe even\nthe things you smelled. You cannot actually smell and see those things but you\ncan imagine them.\n\nIn contemporary philosophy, specifically in fields of metaphysics such as\nphilosophy of mind and ontology, a mental representation is one of the\nprevailing ways of explaining and describing the nature of ideas and concepts.\n\nMental representations (or mental imagery) enable representing things that have\nnever been experienced as well as things that do not exist.<ref\nname=sternberg2009/> Think of yourself traveling to a place you have never been\nbefore, or having a third arm. These things have either never happened or are\nimpossible and do not exist, yet our brain and mental imagery allows us to\nimagine them. Although visual imagery is more likely to be recalled, mental\nImagery may involve representations in any of the sensory modalities, such as,\nhearing, smell, or taste. Kosslyn proposes images are used to help solve certain\ntypes of problems. We are able to visualize the objects in question and mentally\nrepresent the images to solve it.<ref name=sternberg2009/>\n",
+      "title" : "mental representation",
+      "headings" : [
+         "Representationalism and representational theories of mind",
+         "See also",
+         "References",
+         "Further reading",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "3: Philosophy_of_mind",
+      "2: Cognitive_science",
+      "2: Contemporary_philosophy",
+      "2: Explanation",
+      "2: Idea",
+      "2: Concept",
+      "2: Semantics",
+      "1: Cognitive_psychology",
+      "1: Neuroscience",
+      "1: Symbol",
+      "1: Metaphysics",
+      "1: Ontology",
+      "1: Description",
+      "1: Thinking",
+      "1: Propositional_attitude",
+      "1: Type-token_distinction",
+      "1: Representationalism",
+      "1: Direct_and_indirect_realism",
+      "1: Philosophical_theory",
+      "1: Abstract_object",
+      "1: Stephen_Laurence",
+      "1: Mental_content",
+      "1: Experimental_psychology",
+      "1: Direct_realism",
+      "1: Observation",
+      "1: Thomas_Hobbes",
+      "1: Empiricism",
+      "1: Jerry_Fodor",
+      "1: Steven_Pinker",
+      "1: Language_of_thought",
+      "1: Syntax",
+      "1: Cognitive_model#Dynamical_systems",
+      "1: Object_of_the_mind",
+      "1: Knowledge_representation",
+      "1: Perception",
+      "1: Representative_realism"
+   ]
+}

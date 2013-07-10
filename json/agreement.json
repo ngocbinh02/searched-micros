@@ -1,0 +1,94 @@
+{
+   "micrownet" : [
+      "acquisition_agreement",
+      "agreement",
+      "case_agreement",
+      "collective_agreement",
+      "distribution_agreement",
+      "employment_agreement",
+      "fair-trade_agreement",
+      "gender_agreement",
+      "general_agreement_on_tariffs_and_trade",
+      "gentlemen's_agreement",
+      "in_agreement",
+      "labor_agreement",
+      "licensing_agreement",
+      "merger_agreement",
+      "north_american_free_trade_agreement",
+      "number_agreement",
+      "person_agreement",
+      "purchase_agreement",
+      "sales_agreement",
+      "severance_agreement",
+      "working_agreement",
+      "written_agreement"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/consensus_decision-making\">Consensus</a> - Consensus decision-making is a group decision making process that seeks the consent of all participants.",
+      "\n<a href=\"http://duckduckgo.com/Agreement_(linguistics)\">Agreement (linguistics)</a> or concord, a change in the form of a word depending on grammatical features of another word",
+      "Agreement",
+      "http://www.merriam-webster.com/dictionary/agreement",
+      "\n<a href=\"http://duckduckgo.com/Contract\">Contract</a>, enforceable in a court of law",
+      "agreement definition: the act or fact of agreeing.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Gentlemen's_agreement\">Gentlemen's agreement</a>, not enforceable by law",
+      "\n<a href=\"http://duckduckgo.com/Reliability_(statistics)\">Reliability (statistics)</a> in the sense of, for example, inter-rater agreement"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Anti-Counterfeiting_Trade_Agreement\" title=\"Anti-Counterfeiting Trade Agreement\">Anti-Counterfeiting Trade <span class=\"searchmatch\">Agreement</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Burgas-Alexandroupolis_pipeline_agreement_signed_in_Athens\" title=\"Burgas-Alexandroupolis pipeline agreement signed in Athens\">Burgas-Alexandroupolis pipeline <span class=\"searchmatch\">agreement</span> signed in Athens</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Post-Kyoto_agreement_is_subject_of_G8_debate\" title=\"Post-Kyoto agreement is subject of G8 debate\">Post-Kyoto <span class=\"searchmatch\">agreement</span> is subject of G8 debate</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Labrador%27s_Inuit_sign_land_claims_agreement\" title=\"Labrador&#39;s Inuit sign land claims agreement\">Labrador&#39;s Inuit sign land claims <span class=\"searchmatch\">agreement</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/International_forces_in_Dili_reach_agreement\" title=\"International forces in Dili reach agreement\">International forces in Dili reach <span class=\"searchmatch\">agreement</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/India_and_U.S.A._work_toward_nuclear_fuel_agreement\" title=\"India and U.S.A. work toward nuclear fuel agreement\">India and U.S.A. work toward nuclear fuel <span class=\"searchmatch\">agreement</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Nuclear_arms_agreement_reached_with_North_Korea\" title=\"Nuclear arms agreement reached with North Korea\">Nuclear arms <span class=\"searchmatch\">agreement</span> reached with North Korea</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Iran,_Turkey,_Brazil_reach_nuclear_agreement\" title=\"Iran, Turkey, Brazil reach nuclear agreement\">Iran, Turkey, Brazil reach nuclear <span class=\"searchmatch\">agreement</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Peace_agreement_signed_in_Sudan\" title=\"Peace agreement signed in Sudan\">Peace <span class=\"searchmatch\">agreement</span> signed in Sudan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Akayev_signs_resignation_agreement\" title=\"Akayev signs resignation agreement\">Akayev signs resignation <span class=\"searchmatch\">agreement</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/USL_v._BSDi_settlement_agreement_unsealed\" title=\"USL v. BSDi settlement agreement unsealed\">USL v. BSDi settlement <span class=\"searchmatch\">agreement</span> unsealed</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Turkey_and_Armenia_sign_historic_agreement\" title=\"Turkey and Armenia sign historic agreement\">Turkey and Armenia sign historic <span class=\"searchmatch\">agreement</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Rep._Waxman:_Karl_Rove_violated_non-disclosure_agreement\" title=\"Rep. Waxman: Karl Rove violated non-disclosure agreement\">Rep. Waxman: Karl Rove violated non-disclosure <span class=\"searchmatch\">agreement</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Compensation_funding_agreement_reached_for_Australian_asbestos_victims\" title=\"Compensation funding agreement reached for Australian asbestos victims\">Compensation funding <span class=\"searchmatch\">agreement</span> reached for Australian asbestos victims</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Copenhagen_climate_conference_ends_with_%22meaningful_agreement%22\" title=\"Copenhagen climate conference ends with &quot;meaningful agreement&quot;\">Copenhagen climate conference ends with &quot;meaningful <span class=\"searchmatch\">agreement</span>&quot;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sydney,_protesters_reach_agreement_with_police\" title=\"Sydney, protesters reach agreement with police\">Sydney, protesters reach <span class=\"searchmatch\">agreement</span> with police</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/United_States_and_Iraq_finalize_agreement_to_have_troops_out_of_Iraq_by_2011\" title=\"United States and Iraq finalize agreement to have troops out of Iraq by 2011\">United States and Iraq finalize <span class=\"searchmatch\">agreement</span> to have troops out of Iraq by 2011</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_opposition_promises_to_scrap_workplace_agreements\" title=\"Australian opposition promises to scrap workplace agreements\">Australian opposition promises to scrap workplace <span class=\"searchmatch\">agreements</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US,_North_Korea_form_agreement_to_search_for_war_dead\" title=\"US, North Korea form agreement to search for war dead\">US, North Korea form <span class=\"searchmatch\">agreement</span> to search for war dead</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australia,_Malaysia_closing_in_on_refugee_agreement\" title=\"Australia, Malaysia closing in on refugee agreement\">Australia, Malaysia closing in on refugee <span class=\"searchmatch\">agreement</span></a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373473594,
+   "book" : [],
+   "micro-www" : {
+      "agreement" : [
+         "agreement",
+         "Agreement_on_Trade-Related_Aspects_of_Intellectual_Property_Rights",
+         "Agreement_(linguistics)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Agreement' may refer to:\n* Agreement (linguistics) or concord, a change in the form of a word depending\n  on grammatical features of another word\n* Gentlemen's agreement, not enforceable by law\n* Contract, enforceable in a court of law\n* Reliability (statistics) in the sense of, for example, inter-rater agreement\n* A pact, convention, or treaty between nations, sub-national entities,\n  organizations, corporations\n* Consensus *Agreement, a 1978 book of poetry by Peter Seaton\n",
+      "title" : "agreement",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Gentlemen's_agreement",
+      "1: Contract",
+      "1: Treaty",
+      "1: Consensus",
+      "1: Peter_Seaton",
+      "1: Charles_N._Agree",
+      "1: Agreeableness",
+      "1: Disagreement"
+   ]
+}

@@ -1,0 +1,35 @@
+{
+   "micrownet" : [
+      "main_entry_word"
+   ],
+   "duck" : [
+      "HASH(0x4a13e50)",
+      "HASH(0x4a0f530)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Wikipedia_and_Britannica_about_as_accurate_in_science_entries,_reports_Nature\" title=\"Wikipedia and Britannica about as accurate in science entries, reports Nature\">Wikipedia and Britannica about as accurate in science <span class=\"searchmatch\">entries</span>, reports Nature</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Polish_exercise_book_advertisement_copies_Wikipedia_content,_violates_copyright\" title=\"Polish exercise book advertisement copies Wikipedia content, violates copyright\">Polish exercise book advertisement copies Wikipedia content, violates copyright</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/First_Swahili_office_suite_released_in_Dar_es_Salaam,_Tanzania\" title=\"First Swahili office suite released in Dar es Salaam, Tanzania\">First Swahili office suite released in Dar es Salaam, Tanzania</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:July_19,_2010\" title=\"News briefs:July 19, 2010\">News briefs:July 19, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Past_Eurovision_contestants_give_advice_to_this_year%27s_performers,_speculate_on_who_will_win\" title=\"Past Eurovision contestants give advice to this year&#39;s performers, speculate on who will win\">Past Eurovision contestants give advice to this year&#39;s performers, speculate on who will win</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Randall_Munroe,_writer_of_xkcd,_talks_about_the_comic,_politics_and_the_internet\" title=\"Randall Munroe, writer of xkcd, talks about the comic, politics and the internet\">Randall Munroe, writer of xkcd, talks about the comic, politics and the internet</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Paris_Court_of_Appeals_overturns_restrictions_on_Maryam_Rajavi,_NCRI_officials\" title=\"Paris Court of Appeals overturns restrictions on Maryam Rajavi, NCRI officials\">Paris Court of Appeals overturns restrictions on Maryam Rajavi, NCRI officials</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:July_15,_2010\" title=\"News briefs:July 15, 2010\">News briefs:July 15, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Colleges_offering_admission_to_displaced_New_Orleans_students/LA-ND\" title=\"Colleges offering admission to displaced New Orleans students/LA-ND\">Colleges offering admission to displaced New Orleans students/LA-ND</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464954,
+   "book" : [],
+   "micro-www" : {
+      "main_entry_word" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

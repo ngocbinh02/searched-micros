@@ -1,0 +1,39 @@
+{
+   "micrownet" : [
+      "physiological_condition"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chameleon_snake_discovered_in_Borneo\" title=\"Chameleon snake discovered in Borneo\">Chameleon snake discovered in Borneo</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:June_4,_2010\" title=\"News briefs:June 4, 2010\">News briefs:June 4, 2010</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373473399,
+   "book" : [],
+   "micro-www" : {
+      "physiological_condition" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Physiology"
+      ],
+      "text" : "\n'Physiological condition' or, more often \"physiological conditions\" is a term\nused in biology, biochemistry, and medicine. It refers to conditions of the\nexternal or internal milieu that may occur in nature for that organism or cell\nsystem, in contrast to artificial laboratory conditions. A temperature range of\n20-40 degrees Celsius, atmospheric pressure of 1, pH of 6-8, glucose\nconcentration of 1-20 mM, atmospheric oxygen concentration, and earth gravity\nare examples of physiological conditions for most earth organisms.\n",
+      "title" : "physiological condition",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Biology",
+      "1: Biochemistry",
+      "1: Medicine",
+      "1: Milieu_interieur",
+      "1: Laboratory"
+   ]
+}

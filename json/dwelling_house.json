@@ -1,0 +1,30 @@
+{
+   "micrownet" : [
+      "dwelling_house"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Greenpeace_protestors_put_solar_panels_on_British_Deputy_Prime_Minister%27s_house\" title=\"Greenpeace protestors put solar panels on British Deputy Prime Minister&#39;s house\">Greenpeace protestors put solar panels on British Deputy Prime Minister&#39;s <span class=\"searchmatch\">house</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Nigerian_troops_allegedly_burned_down_slums_after_soldier%27s_killing\" title=\"Nigerian troops allegedly burned down slums after soldier&#39;s killing\">Nigerian troops allegedly burned down slums after soldier&#39;s killing</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Aboriginal_Sovereignty_Day_Declared\" title=\"Aboriginal Sovereignty Day Declared\">Aboriginal Sovereignty Day Declared</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Andrea_Muizelaar_on_fashion,_anorexia,_and_life_after_%27Top_Model%27\" title=\"Andrea Muizelaar on fashion, anorexia, and life after &#39;Top Model&#39;\">Andrea Muizelaar on fashion, anorexia, and life after &#39;Top Model&#39;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Others_named_in_lawsuit_against_Buffalo,_N.Y._hotel_proposal\" title=\"Others named in lawsuit against Buffalo, N.Y. hotel proposal\">Others named in lawsuit against Buffalo, N.Y. hotel proposal</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/3000_homeless_after_fire_breaks_out_in_Chad_refugee_camp\" title=\"3000 homeless after fire breaks out in Chad refugee camp\">3000 homeless after fire breaks out in Chad refugee camp</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:July_19,_2010\" title=\"News briefs:July 19, 2010\">News briefs:July 19, 2010</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373473658,
+   "book" : [],
+   "micro-www" : {
+      "dwelling_house" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

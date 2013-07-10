@@ -1,0 +1,109 @@
+{
+   "micrownet" : [
+      "pure_mathematics"
+   ],
+   "duck" : [
+      "HASH(0x4d3e590)",
+      "HASH(0x4c16568)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mathematician_Martin_Taylor_awarded_knighthood\" title=\"Mathematician Martin Taylor awarded knighthood\">Mathematician Martin Taylor awarded knighthood</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Caribou_plays_the_Bowery_Ballroom\" title=\"Caribou plays the Bowery Ballroom\">Caribou plays the Bowery Ballroom</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464035,
+   "book" : [],
+   "micro-www" : {
+      "pure_mathematics" : [
+         "Pure_mathematics",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Mathematical terminology",
+         "Mathematical science occupations"
+      ],
+      "text" : "\nBroadly speaking, 'pure mathematics' is mathematics that studies entirely\nabstract concepts. From the eighteenth century onwards, this was a recognized\ncategory of mathematical activity, sometimes characterized as speculative\nmathematics,<ref>See for example titles of works by Thomas Simpson from the mid-\n18th century: Essays on Several Curious and Useful Subjects in Speculative and\nMixed Mathematicks, Miscellaneous Tracts on Some Curious and Very Interesting\nSubjects in Mechanics, Physical Astronomy and Speculative\nMathematics.[http://www.1911encyclopedia.org/Thomas_Simpson]</ref> and at\nvariance with the trend towards meeting the needs of navigation, astronomy,\nphysics, engineering, and so on.\n\nAnother insightful view put forth is that pure mathematics is not necessarily\napplied mathematics: it is possible to study abstract entities with respect to\ntheir intrinsic nature, and not be concerned with how they manifest in the real\nworld.<ref name=Magid/> Even though the pure and applied viewpoints are distinct\nphilosophical positions, in practice there is much overlap in the activity of\npure and applied mathematicians. To develop accurate models for describing the\nreal world, many applied mathematicians draw on tools and techniques that are\noften considered to be \"pure\" mathematics. On the other hand, many pure\nmathematicians draw on natural and social phenomena as inspiration for their\nabstract research.\n",
+      "title" : "pure mathematics",
+      "headings" : [
+         "History",
+         "Generality and abstraction",
+         "Purism",
+         "Subfields",
+         "Notes",
+         "See also",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "3: Mathematical_analysis",
+      "2: Physics",
+      "2: Number_theory",
+      "2: David_Hilbert",
+      "2: Geometry",
+      "2: Topology",
+      "2: Abstract_algebra",
+      "2: Calculus",
+      "2: Functional_analysis",
+      "1: Mathematics",
+      "1: Thomas_Simpson",
+      "1: Navigation",
+      "1: Astronomy",
+      "1: Engineering",
+      "1: Plato",
+      "1: Arithmetic",
+      "1: Euclid_of_Alexandria",
+      "1: Apollonius_of_Perga",
+      "1: Sadleirian_Professor_of_Pure_Mathematics",
+      "1: Carl_Friedrich_Gauss",
+      "1: Weierstrass",
+      "1: Axiomatic_method",
+      "1: Bertrand_Russell",
+      "1: Quantifier",
+      "1: Bourbaki",
+      "1: Category_theory",
+      "1: Erlangen_program",
+      "1: Non-Euclidean_geometries",
+      "1: Number",
+      "1: Algebra",
+      "1: Abstraction",
+      "1: Vladimir_Arnold",
+      "1: Henri_Poincaré",
+      "1: String_theory",
+      "1: Discrete_mathematics",
+      "1: G.H._Hardy",
+      "1: Painting",
+      "1: Poetry",
+      "1: Albert_Einstein",
+      "1: Paul_Dirac",
+      "1: General_relativity",
+      "1: Quantum_mechanics",
+      "1: Continuous_function",
+      "1: Limit_of_a_function",
+      "1: Derivative",
+      "1: Integral",
+      "1: Real_analysis",
+      "1: Complex_analysis",
+      "1: Binary_operations",
+      "1: Associative",
+      "1: Vector_spaces",
+      "1: Projective_geometry",
+      "1: Inversive_geometry",
+      "1: Integers",
+      "1: Modular_arithmetic",
+      "1: Fundamental_theorem_of_arithmetic",
+      "1: Goldbach_conjecture",
+      "1: Automorphic_forms",
+      "1: Applied_mathematics",
+      "1: Logic",
+      "1: Metalogic",
+      "1: Metamathematics"
+   ]
+}

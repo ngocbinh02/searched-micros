@@ -1,0 +1,38 @@
+{
+   "micrownet" : [
+      "liquid_unit",
+      "united_states_liquid_unit"
+   ],
+   "duck" : [
+      "HASH(0x4b57898)",
+      "HASH(0x4b55b80)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/California_teacher_arrested_after_photos_indicated_lewd_acts_on_children\" title=\"California teacher arrested after photos indicated lewd acts on children\">California teacher arrested after photos indicated lewd acts on children</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:January_4,_2007_2\" title=\"News briefs:January 4, 2007 2\">News briefs:January 4, 2007 2</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:January_4,_2007_2#Australian_Police_net_.24540_million_in_.22liquid_ecstacy.22\" title=\"News briefs:January 4, 2007 2\">Australian Police net $540 million in &quot;<span class=\"searchmatch\">liquid</span> ecstacy&quot;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:June_16,_2008\" title=\"News briefs:June 16, 2008\">News briefs:June 16, 2008</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/9,000_gallons_of_liquid_butane_spilled_as_tanker_truck_overturns\" title=\"9,000 gallons of liquid butane spilled as tanker truck overturns\">9,000 gallons of <span class=\"searchmatch\">liquid</span> butane spilled as tanker truck overturns</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Space_Shuttle_Discovery_launches_on_mission_STS-124\" title=\"Space Shuttle Discovery launches on mission STS-124\">Space Shuttle Discovery launches on mission STS-124</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Stanford_physicists_print_smallest-ever_letters_%27SU%27_at_subatomic_level_of_1.5_nanometres_tall\" title=\"Stanford physicists print smallest-ever letters &#39;SU&#39; at subatomic level of 1.5 nanometres tall\">Stanford physicists print smallest-ever letters &#39;SU&#39; at subatomic level of 1.5 nanometres tall</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Crosswords/2005/March/5\" title=\"Crosswords/2005/March/5\">Crosswords/2005/March/5</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ukranian_railway_accident_generates_huge_phosphor_cloud\" title=\"Ukranian railway accident generates huge phosphor cloud\">Ukranian railway accident generates huge phosphor cloud</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Suspected_poisonous_gas_found_in_New_York\" title=\"Suspected poisonous gas found in New York\">Suspected poisonous gas found in New York</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Large_Hadron_Collider_restarted\" title=\"Large Hadron Collider restarted\">Large Hadron Collider restarted</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373463184,
+   "book" : [],
+   "micro-www" : {
+      "liquid_unit" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

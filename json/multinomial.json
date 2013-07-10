@@ -1,0 +1,46 @@
+{
+   "micrownet" : [
+      "multinomial"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Multinomial_theorem\">Multinomial theorem</a>, and the multinomial coefficient",
+      "Multinomial",
+      "\n<a href=\"http://duckduckgo.com/Multi-index_notation\">Multi-index notation</a> - The mathematical notation of multi-indices simplifies formulae used in multivariable calculus, partial differential equations and the theory of distributions, by generalising the concept of an i...",
+      "http://www.merriam-webster.com/dictionary/multinomial",
+      "multinomial definition: a mathematical expression that consists of the sum of several terms.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Polynomial\">Polynomial</a> - In mathematics, a polynomial is an expression of finite length constructed from variables (also called indeterminates) and constants, using only the operations of addition, subtraction, multipli...",
+      "\n<a href=\"http://duckduckgo.com/Multinomial_distribution\">Multinomial distribution</a> - In probability theory, the multinomial distribution is a generalization of the binomial distribution.",
+      "\n<a href=\"http://duckduckgo.com/Multinomial_logit\">Multinomial logit</a> - In statistics, economics, and genetics, a multinomial logit model, also known as multinomial logistic regression, is a regression model which generalizes logistic regression by allowing mo...",
+      "\n<a href=\"http://duckduckgo.com/Multinomial_test\">Multinomial test</a> - In statistics, the multinomial test is the test of the null hypothesis that the parameters of a multinomial distribution equal specified values."
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471537,
+   "book" : [],
+   "micro-www" : {
+      "multinomial" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "'Multinomial' may refer to:\n\n* Multinomial theorem, and the multinomial coefficient\n* Multinomial distribution\n* Multinomial logit\n* Multinomial test\n* Multi-index notation\n* Polynomial\n\n\n<!-- Long comment to avoid being listed on short pages -->\n",
+      "title" : "multinomial",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Multinomial_theorem",
+      "1: Multinomial_distribution",
+      "1: Multinomial_logit",
+      "1: Multinomial_test",
+      "1: Multi-index_notation",
+      "1: Polynomial"
+   ]
+}

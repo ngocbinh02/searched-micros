@@ -1,0 +1,78 @@
+{
+   "micrownet" : [
+      "cubic_meter"
+   ],
+   "duck" : [
+      "HASH(0x496c088)",
+      "HASH(0x49679a0)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Additional_damage_to_reservoir_prompts_evacuation_of_Kolontar,_Hungary\" title=\"Additional damage to reservoir prompts evacuation of Kolontar, Hungary\">Additional damage to reservoir prompts evacuation of Kolontar, Hungary</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Russia_cuts_off_gas_supplies_to_Ukraine\" title=\"Russia cuts off gas supplies to Ukraine\">Russia cuts off gas supplies to Ukraine</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Venezuela_opens_granite_processing_facility_in_Bol%C3%ADvar\" title=\"Venezuela opens granite processing facility in BolÃ­var\">Venezuela opens granite processing facility in BolÃ­var</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Derailment_in_China;_at_least_nineteen_dead\" title=\"Derailment in China; at least nineteen dead\">Derailment in China; at least nineteen dead</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Indonesia_to_plug_mud_volcano\" title=\"Indonesia to plug mud volcano\">Indonesia to plug mud volcano</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Severe_sandstorm_strikes_Beijing,_China\" title=\"Severe sandstorm strikes Beijing, China\">Severe sandstorm strikes Beijing, China</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/China_and_Russia_sign_trade_deals_worth_US$3.5_billion\" title=\"China and Russia sign trade deals worth US$3.5 billion\">China and Russia sign trade deals worth US$3.5 billion</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Putin_promises_to_continue_energy_production_increases\" title=\"Putin promises to continue energy production increases\">Putin promises to continue energy production increases</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Georgian_President_faces_election_challenge\" title=\"Georgian President faces election challenge\">Georgian President faces election challenge</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:June_4,_2010\" title=\"News briefs:June 4, 2010\">News briefs:June 4, 2010</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373463142,
+   "book" : [],
+   "micro-www" : {
+      "cubic_meter" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Orders of magnitude (volume)",
+         "Units of volume",
+         "SI derived units"
+      ],
+      "text" : " (representing the world annual production per inhabitant)]]\n\nThe 'cubic metre' (International spelling as used by the International Bureau of\nWeights and Measures; SI symbol: 'm<sup>3</sup>') or 'cubic meter' (American\nspelling) is the SI derived unit of volume. It is the volume of a cube with\nedges one metre in length. An alternative name, which allowed a different usage\nwith metric prefixes, was the stère. Another alternative name, not widely used\nany more, is the kilolitre.\n",
+      "title" : "cubic%20metre",
+      "headings" : [
+         "Conversions",
+         "Multiples and submultiples",
+         "Notes"
+      ]
+   },
+   "micro-relation" : [
+      "2: American_and_British_English_spelling_differences#-re,_-er",
+      "2: Water",
+      "2: Celsius",
+      "1: International_Bureau_of_Weights_and_Measures",
+      "1: SI",
+      "1: SI_derived_unit",
+      "1: Volume",
+      "1: Metre",
+      "1: Metric_prefix",
+      "1: Stère",
+      "1: Litre",
+      "1: Torr",
+      "1: Cubic_foot",
+      "1: Cubic_yard",
+      "1: Gallon",
+      "1: Atmospheric_pressure",
+      "1: Mass",
+      "1: Kilogram",
+      "1: Tonne",
+      "1: Superscript",
+      "1: Glyph",
+      "1: Markup_language",
+      "1: Usenet",
+      "1: Freight",
+      "1: 1_E-3_m³",
+      "1: CGS_system",
+      "1: Engine_displacement"
+   ]
+}

@@ -1,0 +1,27 @@
+{
+   "micrownet" : [
+      "medicaid_funds"
+   ],
+   "duck" : [
+      "HASH(0x4a26b90)",
+      "HASH(0x485d5b8)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/George_W._Bush_nominates_EPA_Administrator_Mike_Leavitt_as_health_secretary\" title=\"George W. Bush nominates EPA Administrator Mike Leavitt as health secretary\">George W. Bush nominates EPA Administrator Mike Leavitt as health secretary</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465715,
+   "book" : [],
+   "micro-www" : {
+      "medicaid_funds" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

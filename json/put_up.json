@@ -1,0 +1,45 @@
+{
+   "micrownet" : [
+      "put_up"
+   ],
+   "duck" : [
+      "HASH(0x4a801c8)",
+      "HASH(0x4a80198)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_warship_HMS_Invincible_put_up_for_auction_online\" title=\"British warship HMS Invincible put up for auction online\">British warship HMS Invincible <span class=\"searchmatch\">put</span> <span class=\"searchmatch\">up</span> for auction online</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Zealand_school_children_put_fight_videos_on_YouTube\" title=\"New Zealand school children put fight videos on YouTube\">New Zealand school children <span class=\"searchmatch\">put</span> fight videos on YouTube</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Kenya_peace_talks_put_on_hold\" title=\"Kenya peace talks put on hold\">Kenya peace talks <span class=\"searchmatch\">put</span> on hold</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ukraine_beats_Saudi_Arabia_4-0_in_Group_H\" title=\"Ukraine beats Saudi Arabia 4-0 in Group H\">Ukraine beats Saudi Arabia 4-0 in Group H</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UN_genocide_exhibit_removed_and_put_on_hold_after_Turkey_objects\" title=\"UN genocide exhibit removed and put on hold after Turkey objects\">UN genocide exhibit removed and <span class=\"searchmatch\">put</span> on hold after Turkey objects</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Greenpeace_protestors_put_solar_panels_on_British_Deputy_Prime_Minister%27s_house\" title=\"Greenpeace protestors put solar panels on British Deputy Prime Minister&#39;s house\">Greenpeace protestors <span class=\"searchmatch\">put</span> solar panels on British Deputy Prime Minister&#39;s house</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Corks_fly_in_wine_truck_fire_in_Wyoming,_US\" title=\"Corks fly in wine truck fire in Wyoming, US\">Corks fly in wine truck fire in Wyoming, US</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sealing_in_New_Delhi_put_off_until_Monday\" title=\"Sealing in New Delhi put off until Monday\">Sealing in New Delhi <span class=\"searchmatch\">put</span> off until Monday</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_state_of_Texas_executes_woman_convicted_of_murdering_family\" title=\"US state of Texas executes woman convicted of murdering family\">US state of Texas executes woman convicted of murdering family</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Germany_book_quarter-final_spot_with_2-0_win_over_Sweden\" title=\"Germany book quarter-final spot with 2-0 win over Sweden\">Germany book quarter-final spot with 2-0 win over Sweden</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Billy_West,_voice_of_Ren_and_Stimpy,_Futurama,_on_the_rough_start_that_shaped_his_life\" title=\"Billy West, voice of Ren and Stimpy, Futurama, on the rough start that shaped his life\">Billy West, voice of Ren and Stimpy, Futurama, on the rough start that shaped his life</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Strikeforce_Challengers_14_MMA_Results\" title=\"Strikeforce Challengers 14 MMA Results\">Strikeforce Challengers 14 MMA Results</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Italy_win_with_last_kick_against_Australia;_into_quarter-finals\" title=\"Italy win with last kick against Australia; into quarter-finals\">Italy win with last kick against Australia; into quarter-finals</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Philippines_prepares_for_new_typhoon\" title=\"Philippines prepares for new typhoon\">Philippines prepares for new typhoon</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Edinburgh_Fringe_festival_begins\" title=\"Edinburgh Fringe festival begins\">Edinburgh Fringe festival begins</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Gliders_move_into_the_medal_round_with_victory_over_Mexico\" title=\"Gliders move into the medal round with victory over Mexico\">Gliders move into the medal round with victory over Mexico</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Rally_organizer_arrested_in_Caledonia,_Ontario\" title=\"Rally organizer arrested in Caledonia, Ontario\">Rally organizer arrested in Caledonia, Ontario</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Kenya_confirms_first_swine_flu_case\" title=\"Kenya confirms first swine flu case\">Kenya confirms first swine flu case</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Brazilian_soccer_team_defeats_New_Zealand_All-Whites\" title=\"Brazilian soccer team defeats New Zealand All-Whites\">Brazilian soccer team defeats New Zealand All-Whites</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373466137,
+   "book" : [],
+   "micro-www" : {
+      "put_up" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

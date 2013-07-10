@@ -1,0 +1,68 @@
+{
+   "micrownet" : [
+      "computer_programming",
+      "linear_programming",
+      "logic_programming",
+      "network_programming",
+      "object-oriented_programming",
+      "object-oriented_programming_language",
+      "programming",
+      "programming_error",
+      "programming_language"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/optimization_(mathematics)\">Mathematical programming</a>, or optimization,  is the selection of a best element",
+      "\n<a href=\"http://duckduckgo.com/Computer_programming\">Computer programming</a>, the act of instructing computers to perform tasks",
+      "\n<a href=\"http://duckduckgo.com/Radio_programming\">Radio programming</a>, scheduling content for radio",
+      "Programming",
+      "http://www.merriam-webster.com/dictionary/programming",
+      "\n<a href=\"http://duckduckgo.com/Dramatic_programming\">Dramatic programming</a>, fictional television content",
+      "\n<a href=\"http://duckduckgo.com/Game_programming\">Game programming</a>, the software development of video games",
+      "\n<a href=\"http://duckduckgo.com/Programming_language\">Programming language</a>, an artificial language designed to communicate instructions to a machine",
+      "programming definition: the planning, scheduling, or performing of a program.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Broadcast_programming\">Broadcast programming</a>, scheduling content for television",
+      "\n<a href=\"http://duckduckgo.com/Programming_(music)\">Programming (music)</a>, generating music electronically",
+      "\n<a href=\"http://duckduckgo.com/Neuro-linguistic_programming\">Neuro-linguistic programming</a>, the use of hypnosis, illusion, mind control and brainwashing"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373473208,
+   "book" : [],
+   "micro-www" : {
+      "programming" : [
+         "programming",
+         "Programming_style_",
+         "Programming_paradigm",
+         "Programming_language_theory",
+         "Programming_language",
+         "Programming_(music)",
+         "Programming",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Programming' may refer to: *Broadcast programming, scheduling content for\ntelevision *Computer programming, the act of instructing computers to perform\ntasks **Programming language, an artificial language designed to communicate\ninstructions to a machine **Game programming, the software development of video\ngames *Dramatic programming, fictional television content *Mathematical\nprogramming, or optimization, is the selection of a best element *Neuro-\nlinguistic programming, the use of hypnosis, illusion, mind control and\nbrainwashing *Programming (music), generating music electronically *Radio\nprogramming, scheduling content for radio\n",
+      "title" : "programming",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Broadcast_programming",
+      "1: Computer_programming",
+      "1: Programming_language",
+      "1: Game_programming",
+      "1: Dramatic_programming",
+      "1: Mathematical_programming",
+      "1: Neuro-linguistic_programming",
+      "1: Radio_programming"
+   ]
+}

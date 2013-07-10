@@ -1,0 +1,132 @@
+{
+   "micrownet" : [
+      "potherb"
+   ],
+   "duck" : [
+      "potherb",
+      "A plant whose leaves, stems, or flowers are cooked and eaten or used as seasoning.",
+      "http://www.merriam-webster.com/dictionary/potherb",
+      "potherb definition: a usually leafy herb that is cooked for use as greens.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_plants_with_edible_leaves",
+      "List_of_common_leaf_vegetables",
+      "List_of_plants_with_edible_leaves"
+   ],
+   "created" : 1373470427,
+   "book" : [],
+   "micro-www" : {
+      "potherb" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Leaf vegetables|",
+         "Vegetables",
+         "Greek cuisine"
+      ],
+      "text" : "\n (Centella asiatica)]] ]] ]] ]] ]]\n\n'Leaf vegetables', also called 'potherbs', 'greens', 'vegetable greens', 'leafy\ngreens' or 'salad greens', are plant leaves eaten as a vegetable, sometimes\naccompanied by tender petioles and shoots. Although they come from a very wide\nvariety of plants, most share a great deal with other leaf vegetables in\nnutrition and cooking methods.\n\nNearly one thousand species of plants with edible leaves are known. Leaf\nvegetables most often come from short-lived herbaceous plants such as lettuce\nand spinach. Woody plants whose leaves can be eaten as leaf vegetables\ninclude [[Adansonia]], [[Aralia]], [[Moringa]], [[Morus (plant)|Morus]], and\n[[Toona]] species.\n\nThe leaves of many fodder crops are also edible by humans, but usually only\neaten under famine conditions. Examples include alfalfa, clover, and most\ngrasses, including wheat and barley. These plants are often much more prolific\nthan more traditional leaf vegetables, but exploitation of their rich nutrition\nis difficult, primarily because of their high fiber content. This obstacle can\nbe overcome by further processing such as drying and grinding into powder or\npulping and pressing for juice.\n\nLeaf vegetables contain many typical plant nutrients, but since they are\nphotosynthetic tissues, their vitamin K levels in relation to those of other\nfruits and vegetables, as well as other types of foods, is particularly notable.\nThe reason is that phylloquinone, the most common form of the vitamin, is\ndirectly involved in photosynthesis. This causes leaf vegetables to be the\nprimary food class that interacts significantly with the anticoagulant\npharmaceutical warfarin.\n\nDuring the first half of the 20th century, it was common for greengrocers to\ncarry small bunches of herbs tied with a string to small green and red peppers,\nthese bundles were called \"potherbs.\"\n",
+      "title" : "Leaf%20vegetable",
+      "headings" : [
+         "Nutrition",
+         "Preparation",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "3: Vitamin_K",
+      "2: List_of_plants_with_edible_leaves",
+      "2: Dietary_fiber",
+      "2: Phylloquinone",
+      "2: Warfarin",
+      "2: Soul_food",
+      "2: Green_smoothie",
+      "2: Dandelion",
+      "2: Kale",
+      "1: Leaf",
+      "1: Vegetable",
+      "1: Shoot",
+      "1: Nutrition",
+      "1: Cooking",
+      "1: Herb",
+      "1: Lettuce",
+      "1: Spinach",
+      "1: Fodder",
+      "1: Famine",
+      "1: Alfalfa",
+      "1: Clover",
+      "1: Poaceae",
+      "1: Wheat",
+      "1: Barley",
+      "1: Food_processing",
+      "1: Photosynthesis",
+      "1: Greengrocer",
+      "1: Fat",
+      "1: Protein",
+      "1: Iron",
+      "1: Calcium",
+      "1: Phytochemical",
+      "1: Vitamin_C",
+      "1: Carotenoids",
+      "1: Lutein",
+      "1: Folate",
+      "1: Magnesium",
+      "1: Vitamin_K_antagonist",
+      "1: Taraxacum_officinale",
+      "1: Stir_frying",
+      "1: Stew",
+      "1: Steaming",
+      "1: Pork",
+      "1: Southern_U.S._cuisine",
+      "1: Saag",
+      "1: Tortilla",
+      "1: Sandwich",
+      "1: Salad",
+      "1: Amaranth",
+      "1: West_African_cuisine",
+      "1: Greek_cuisine",
+      "1: Olive_oil",
+      "1: Lemon",
+      "1: Black_mustard",
+      "1: Wild_sorrel",
+      "1: Chicory",
+      "1: Fennel",
+      "1: Chard",
+      "1: Solanum_nigrum",
+      "1: Chenopodium_bonus-henricus",
+      "1: Allium_ampeloprasum",
+      "1: Hirschfeldia_incana",
+      "1: Charlock",
+      "1: Sonchus_oleraceus",
+      "1: Caper",
+      "1: Ravioli",
+      "1: Pansoti",
+      "1: Borage",
+      "1: Minestrone",
+      "1: Frittata",
+      "1: Cuisine_of_the_southern_United_States",
+      "1: Turnip",
+      "1: Collard",
+      "1: Garden_cress",
+      "1: Mustard_plant",
+      "1: Pokeweed",
+      "1: Ham",
+      "1: Bacon",
+      "1: Potlikker",
+      "1: Broth",
+      "1: Broccoli",
+      "1: List_of_common_leaf_vegetables",
+      "1: Leaf_protein_concentrate",
+      "1: Namul"
+   ]
+}

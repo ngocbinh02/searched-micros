@@ -1,0 +1,30 @@
+{
+   "micrownet" : [
+      "prehistoric_culture"
+   ],
+   "duck" : [
+      "HASH(0x49e9b00)",
+      "HASH(0x487d5b8)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_national_museum_opens_in_Kyushu,_Japan\" title=\"New national museum opens in Kyushu, Japan\">New national museum opens in Kyushu, Japan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Neolithic_noodles_found_in_Qinghai,_China\" title=\"Neolithic noodles found in Qinghai, China\">Neolithic noodles found in Qinghai, China</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Egyptian_archaeologists_announce_discovery_of_marble_statue_and_132_new_sites\" title=\"Egyptian archaeologists announce discovery of marble statue and 132 new sites\">Egyptian archaeologists announce discovery of marble statue and 132 new sites</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/John_Reed_on_Orwell,_God,_self-destruction_and_the_future_of_writing\" title=\"John Reed on Orwell, God, self-destruction and the future of writing\">John Reed on Orwell, God, self-destruction and the future of writing</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462672,
+   "book" : [],
+   "micro-www" : {
+      "prehistoric_culture" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

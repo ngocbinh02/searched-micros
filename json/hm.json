@@ -1,0 +1,112 @@
+{
+   "micrownet" : [
+      "hm",
+      "hmg-coa_reductase",
+      "hmo",
+      "hmong",
+      "hmong_language"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/hectometre\">hectometre</a>, an SI unit of length",
+      "\n<a href=\"http://duckduckgo.com/Hidden_Machine\">Hidden Machine</a>, in the video game series Pokémon",
+      "\n<a href=\"http://duckduckgo.com/type_inference\">Hindley–Milner</a>, a type system",
+      "HM",
+      "\n<a href=\"http://duckduckgo.com/Hennessy%E2%80%93Milner_logic\">Hennessy–Milner logic</a>, a modal logic",
+      "\n<a href=\"http://duckduckgo.com/H%26M\">H&M</a> (originally Hennes & Mauritz), a Swedish clothing company",
+      "\n<a href=\"http://duckduckgo.com/HM_(magazine)\">HM (magazine)</a>, a Christian hard rock magazine",
+      "http://www.merriam-webster.com/dictionary/hm",
+      "hm definition: hectometer.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Henry_Molaison\">Henry Molaison</a>, previously known as patient H.M., a man with anterograde amnesia",
+      "\n<a href=\"http://duckduckgo.com/Hospital_Corpsman\">Hospital Corpsman</a>, in the United States Navy",
+      "\n<a href=\"http://duckduckgo.com/hamburgmuseum\">hamburgmuseum</a>, the name of a history museum in Hamburg, Germany"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/King_of_Swaziland_seeks_thirteenth_bride,_continues_to_cause_ire\" title=\"King of Swaziland seeks thirteenth bride, continues to cause ire\">King of Swaziland seeks thirteenth bride, continues to cause ire</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_National_Fingerprint_Database_begins_without_parliamentary_consultation\" title=\"British National Fingerprint Database begins without parliamentary consultation\">British National Fingerprint Database begins without parliamentary consultation</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/22_million_counterfeit_cigarettes_found_in_Wales\" title=\"22 million counterfeit cigarettes found in Wales\">22 million counterfeit cigarettes found in Wales</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Queen_Beatrix_to_abdicate_throne\" title=\"Queen Beatrix to abdicate throne\">Queen Beatrix to abdicate throne</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_Chancellor_of_the_Exchequer_makes_2005_Budget_speech\" title=\"UK Chancellor of the Exchequer makes 2005 Budget speech\">UK Chancellor of the Exchequer makes 2005 Budget speech</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_Chancellor_George_Osborne_downgrades_growth_forecast_in_annual_budget\" title=\"British Chancellor George Osborne downgrades growth forecast in annual budget\">British Chancellor George Osborne downgrades growth forecast in annual budget</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Data_for_3_million_UK_driving_candidates_lost\" title=\"Data for 3 million UK driving candidates lost\">Data for 3 million UK driving candidates lost</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Swazi_princess_beaten_by_government_official_for_wild_party\" title=\"Swazi princess beaten by government official for wild party\">Swazi princess beaten by government official for wild party</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sealand_wrecked_by_fire\" title=\"Sealand wrecked by fire\">Sealand wrecked by fire</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Lockerbie_convict_Abdelbaset_Ali_al-Megrahi_buried_after_dying_at_Libyan_home\" title=\"Lockerbie convict Abdelbaset Ali al-Megrahi buried after dying at Libyan home\">Lockerbie convict Abdelbaset Ali al-Megrahi buried after dying at Libyan home</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/G7_announce_debt_relief_plan\" title=\"G7 announce debt relief plan\">G7 announce debt relief plan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Brown_promises_Britain_will_lead_world_in_fight_against_climate_change\" title=\"Brown promises Britain will lead world in fight against climate change\">Brown promises Britain will lead world in fight against climate change</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Two_British_girls_arrested_for_smuggling_in_Ghana\" title=\"Two British girls arrested for smuggling in Ghana\">Two British girls arrested for smuggling in Ghana</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_Chancellor_of_the_Exchequer,_Alistair_Darling_releases_2008_budget\" title=\"UK Chancellor of the Exchequer, Alistair Darling releases 2008 budget\">UK Chancellor of the Exchequer, Alistair Darling releases 2008 budget</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Alistair_Darling_unveils_UK%27s_2010_Budget\" title=\"Alistair Darling unveils UK&#39;s 2010 Budget\">Alistair Darling unveils UK&#39;s 2010 Budget</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Kenyan_TV_and_newspaper_raided_by_masked_police\" title=\"Kenyan TV and newspaper raided by masked police\">Kenyan TV and newspaper raided by masked police</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/109th_Boston_marathon_takes_place\" title=\"109th Boston marathon takes place\">109th Boston marathon takes place</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Seven_arrested_in_UK_cruise_ship_drugs_seizure\" title=\"Seven arrested in UK cruise ship drugs seizure\">Seven arrested in UK cruise ship drugs seizure</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Suspended_sentence_for_Sasser_worm_author\" title=\"Suspended sentence for Sasser worm author\">Suspended sentence for Sasser worm author</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471759,
+   "book" : [],
+   "micro-www" : {
+      "hm" : [
+         "Hmong_people",
+         "HM_Treasury",
+         "HM_Revenue_and_Customs",
+         "HMS_Unbroken_(P42)",
+         "HMS_Success",
+         "HMS_Reading_(G71)",
+         "HMS_Quadrant_(G11)",
+         "HMS_Pilot",
+         "HMS_Nelson_(1927)",
+         "HMS_Nelson_(1881)",
+         "HMS_Nelson_(1814)",
+         "HMS_Louis",
+         "HMS_Lord_Nelson_(1906)",
+         "HMS_Irresistible_(1898)",
+         "HMS_Hardy_(1936)",
+         "HMS_Hardy_(1895)",
+         "HMS_Hardy",
+         "HMS_Example_(P165)",
+         "HMS_Encounter_(H10)",
+         "HMS_Encounter_(1873)",
+         "HMS_Danae_(D44)",
+         "HMS_Content",
+         "HMS_Assurance",
+         "HMS_Advantage",
+         "HMS_Active",
+         "HMRC",
+         "HMNB_Portsmouth",
+         "HMHS_Britannic",
+         "HMG-CoA_reductase_pathway",
+         "HMG-CoA_reductase",
+         "HMAS_Encounter_(1902)",
+         "HMAS_Bowen",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'HM' may refer to:\n* HM (magazine), a Christian hard rock magazine\n* Henry Molaison, previously known as patient H.M., a man with\n  anterograde amnesia\n* HM, the IATA airline code for Air Seychelles\n* HM, the ISO 3166 digram and FIPS PUB 10-4 territory code of Heard Island and\n  McDonald Islands\n* H.M., postnominal initials of the Sisters of the Holy Humility of Mary\n* H&M (originally Hennes & Mauritz), a Swedish clothing company\n\n'HM' may stand for:\n* His/Her Majesty, a form of address for a monarch or queen consort\n* Hidden Machine, in the video game series Pokémon\n* Hindley–Milner, a type system\n* Hennessy–Milner logic, a modal logic\n* Logo of Hindustan Motors, an automobile manufacturer of India\n* Hospital Corpsman, in the United States Navy\n\n'hm' may refer to:\n* hamburgmuseum, the name of a history museum in Hamburg, Germany\n* hectometre, an SI unit of length\n",
+      "title" : "HM",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Henry_Molaison",
+      "1: Air_Seychelles",
+      "1: Heard_Island_and_McDonald_Islands",
+      "1: Sisters_of_the_Holy_Humility_of_Mary",
+      "1: H&M",
+      "1: Majesty",
+      "1: Hidden_Machine",
+      "1: HindleyâMilner",
+      "1: HennessyâMilner_logic",
+      "1: Hindustan_Motors",
+      "1: Hospital_Corpsman",
+      "1: Hamburgmuseum",
+      "1: Hectometre"
+   ]
+}

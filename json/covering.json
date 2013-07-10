@@ -1,0 +1,101 @@
+{
+   "micrownet" : [
+      "bed_covering",
+      "body_covering",
+      "cloth_covering",
+      "covering",
+      "covering_fire",
+      "covering_letter",
+      "covering_material",
+      "floor_covering",
+      "head_covering",
+      "lap_covering",
+      "leg_covering",
+      "natural_covering",
+      "protective_covering",
+      "short_covering"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Covering",
+      "HASH(0x48900d8)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Vertex_cover\">Vertex cover</a> – a set of vertices incident on every edge",
+      "Covering",
+      "\n<a href=\"http://duckduckgo.com/Hat\">Hat</a>, head covering",
+      "http://www.merriam-webster.com/dictionary/covering",
+      "covering definition: something that covers or conceals.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Coating\">Coating</a> - Coating is a covering that is applied to the surface of an object, usually referred to as the substrate.",
+      "HASH(0x4b9d890)",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/CNN_accused_of_covering_up_transcript_of_Bill_Maher_outing_Ken_Mehlman\" title=\"CNN accused of covering up transcript of Bill Maher outing Ken Mehlman\">CNN accused of <span class=\"searchmatch\">covering</span> up transcript of Bill Maher outing Ken Mehlman</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/18-year_US_media_ban_on_covering_return_of_fallen_soldiers_lifted\" title=\"18-year US media ban on covering return of fallen soldiers lifted\">18-year US media ban on <span class=\"searchmatch\">covering</span> return of fallen soldiers lifted</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_officials_accused_of_covering_up_human_deaths_from_BSE_and_discouraging_testing_of_suspected_animals\" title=\"US officials accused of covering up human deaths from BSE and discouraging testing of suspected animals\">US officials accused of <span class=\"searchmatch\">covering</span> up human deaths from BSE and discouraging testing of suspected animals</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/FBI_Investigates_250_thousand_poisoned_U.S._dollars\" title=\"FBI Investigates 250 thousand poisoned U.S. dollars\">FBI Investigates 250 thousand poisoned U.S. dollars</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Vancouver_stadium_dome_damaged\" title=\"Vancouver stadium dome damaged\">Vancouver stadium dome damaged</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canadian_military_accused_of_Agent_Orange_cover_up\" title=\"Canadian military accused of Agent Orange cover up\">Canadian military accused of Agent Orange cover up</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Discworld_author_films_his_battle_with_Alzheimer%27s\" title=\"Discworld author films his battle with Alzheimer&#39;s\">Discworld author films his battle with Alzheimer&#39;s</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_judge_delivers_verdict_on_burqas_in_court\" title=\"Australian judge delivers verdict on burqas in court\">Australian judge delivers verdict on burqas in court</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tomb_of_former_Hungarian_communist_leader_vandalised\" title=\"Tomb of former Hungarian communist leader vandalised\">Tomb of former Hungarian communist leader vandalised</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Samoa_looking_ahead_to_Rio_Paralympics_with_eye_on_powerlifting\" title=\"Samoa looking ahead to Rio Paralympics with eye on powerlifting\">Samoa looking ahead to Rio Paralympics with eye on powerlifting</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Dust_storm_covers_Tokyo:_in_pictures\" title=\"Dust storm covers Tokyo: in pictures\">Dust storm covers Tokyo: in pictures</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_Broadcasting_Corporation_plans_to_call_California_for_Obama_before_polls_close\" title=\"Australian Broadcasting Corporation plans to call California for Obama before polls close\">Australian Broadcasting Corporation plans to call California for Obama before polls close</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_York_Times_reporter_rescued_in_Afghanistan\" title=\"New York Times reporter rescued in Afghanistan\">New York Times reporter rescued in Afghanistan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/77_names_added_to_fallen_journalist_memorial_in_Washington,_D.C.\" title=\"77 names added to fallen journalist memorial in Washington, D.C.\">77 names added to fallen journalist memorial in Washington, D.C.</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Film_about_Travis_County_DA%27s_investigation_of_Texas_election_of_2002\" title=\"Film about Travis County DA&#39;s investigation of Texas election of 2002\">Film about Travis County DA&#39;s investigation of Texas election of 2002</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Western_Australian_court_to_set_precedent_on_the_burqa\" title=\"Western Australian court to set precedent on the burqa\">Western Australian court to set precedent on the burqa</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Greek_minister%27s_statement_causes_political_tension\" title=\"Greek minister&#39;s statement causes political tension\">Greek minister&#39;s statement causes political tension</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/European_Union_rejects_software_patents;_starts_new_process\" title=\"European Union rejects software patents; starts new process\">European Union rejects software patents; starts new process</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/BBC_Foreign_correspondent_Brian_Hanrahan_dies_aged_61\" title=\"BBC Foreign correspondent Brian Hanrahan dies aged 61\">BBC Foreign correspondent Brian Hanrahan dies aged 61</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465339,
+   "book" : [],
+   "micro-www" : {
+      "covering" : [
+         "Covering_space",
+         "Covering_relation",
+         "Covering_group",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Covering' may refer to:\n",
+      "title" : "covering",
+      "headings" : [
+         "Mathematics",
+         "Other",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Covering_map",
+      "1: Lebesgue_covering_dimension",
+      "1: Vertex_cover",
+      "1: Edge_cover",
+      "1: Covering_graph",
+      "1: Cycle_double_cover",
+      "1: Clique_cover",
+      "1: Path_cover",
+      "1: Biclique_cover",
+      "1: Covering_lemma",
+      "1: Covering_number",
+      "1: Covering_problem",
+      "1: Covering_set",
+      "1: Window_covering",
+      "1: Covering_a_base",
+      "1: Hat",
+      "1: Cover_versions",
+      "1: Understudy",
+      "1: Coating"
+   ]
+}

@@ -1,0 +1,130 @@
+{
+   "micrownet" : [
+      "birthrate"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/c/Population_ecology\">Population ecology</a>",
+      "Birth rate",
+      "\n<a href=\"http://duckduckgo.com/Human_population_control\">Human population control</a> - Human population control is the practice of artificially altering the rate of growth of a human population.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=birthrate",
+      "The ratio of total live births to total population in a specified community or area over a specified period of time.",
+      "\n<a href=\"http://duckduckgo.com/Total_fertility_rate\">Total fertility rate</a> - The total fertility rate of a population is the average number of children that would be born to a woman over her lifetime if she were to experience the exact current age-specific fertility rate...",
+      "\n<a href=\"http://duckduckgo.com/c/Demographic_economics\">Demographic economics</a>",
+      "\n<a href=\"http://duckduckgo.com/c/Population\">Population</a>",
+      "\n<a href=\"http://duckduckgo.com/mortality_rate\">Death rate</a> - Mortality rate is a measure of the number of deaths (in general, or due to a specific cause) in a population, scaled to the size of that population, per unit of time.",
+      "\n<a href=\"http://duckduckgo.com/Aging_of_Europe\">Aging of Europe</a> - The Ageing of Europe, also known as the greying of Europe, is a social phenomenon in Europe characterized by a decrease in fertility, a decrease in mortality rate, and a higher life expect...",
+      "\n<a href=\"http://duckduckgo.com/c/Demography\">Demography</a>",
+      "https://i.duckduckgo.com/i/073f6c42.png",
+      "TheFreeDictionary",
+      "\n<a href=\"http://duckduckgo.com/c/Fertility\">Fertility</a>",
+      "\n<a href=\"http://duckduckgo.com/Population_ageing\">Population ageing</a> - Population ageing is a phenomenon that occurs when the median age of a country or region rises due to rising life expectancy and/or declining birth rates.",
+      "The birth rate is the total number of births per 1000 of a population each year."
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ontario_Votes_2007:_Interview_with_Family_Coalition_Party_candidate_Vicki_Gunn,_Glengarry-Prescott-Russell\" title=\"Ontario Votes 2007: Interview with Family Coalition Party candidate Vicki Gunn, Glengarry-Prescott-Russell\">Ontario Votes 2007: Interview with Family Coalition Party candidate Vicki Gunn, Glengarry-Prescott-Russell</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_sovereign_states_and_dependent_territories_by_birth_rate",
+      "List_of_sovereign_states_and_dependent_territories_by_fertility_rate"
+   ],
+   "created" : 1373473449,
+   "book" : [],
+   "micro-www" : {
+      "birthrate" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Population",
+         "Population ecology",
+         "Demography",
+         "Demographic economics",
+         "Fertility",
+         "Ageing"
+      ],
+      "text" : "\n\n\n\nThe 'birth rate' is the total number of births per 1000 of a population each\nyear.<ref></ref> The rate of births in a population is calculated in several\nways: live births from a universal registration system for births, deaths, and\nmarriages; population counts from a census, and estimation through specialized\ndemographic techniques. The birth rate (along with mortality and migration rate)\nare used to calculate population growth.\n\nThe crude birth rate is the number of births per 1,000 people per year.<ref>See\n\"Fertility rates\"; Economic Geography Glossary at University of Washington</ref>\nAnother term used interchangeably with birth rate is natality.<ref></ref> When\nthe crude death rate is subtracted from the crude birth rate, the result is the\nrate of natural increase (RNI).<ref name=\"worldbank1\"></ref> This is equal to\nthe rate of population change (excluding migration).<ref name=\"worldbank1\"/>\n\nThe total (crude) birth rate (which includes all births)—typically indicated as\nbirths per 1,000 population—is distinguished from an age-specific rate (the\nnumber of births per 1,000 persons in an age group).<ref></ref> The first known\nuse of the term \"birth rate\" in English occurred in 1859.<ref></ref>\n\n<div>{| class=\"wikitable\" style=\"float:right; margin: 0.5em 0 0.5em 1em; text-\n     align:left\"\n|+ World historical and predicted crude birth rates (1950–2050) <br><small>UN,\n|  medium variant, 2008 rev.</small><ref></ref> -\n!Years!!CBR!!Years!!CBR\n|- 1950–1955||align=center|37.2||2000–2005||align=center|21.2 -\n||1955–1960||align=center|35.3||2005–2010||align=center|20.3\n|-\n||1960–1965||align=center|34.9||2010–2015||align=center|19.4\n|-\n||1965–1970||align=center|33.4||2015–2020||align=center|18.2\n|-\n||1970–1975||align=center|30.8||2020–2025||align=center|16.9\n|-\n||1975–1980||align=center|28.4||2025–2030||align=center|15.8\n|-\n||1980–1985||align=center|27.9||2030–2035||align=center|15.0\n|-\n||1985–1990||align=center|27.3||2035–2040||align=center|14.5\n|-\n||1990–1995||align=center|24.7||2040–2045||align=center|14.0\n|-\n||1995–2000||align=center|22.5||2045–2050||align=center|13.4\n|}\n</div>\n\nIn 2012 the average global birth rate was 19.15 births per 1,000 total\npopulation,<ref></ref> compared to 20.09 per 1,000 total population in\n2007.<ref></ref>\n",
+      "title" : "Birth%20rate",
+      "headings" : [
+         "Political issues",
+         "{{anchor|Birth rate in different countries}}National birth rates",
+         "{{anchor|Methods of measuring birth rate}}Measurement methods",
+         "Factors affecting birth rate",
+         "{{anchor|Birth rate and the Demographic Transition Model}}Demographic transition",
+         "See also",
+         "Notes",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "3: Birth_control",
+      "3: Abortion",
+      "2: Total_fertility_rate",
+      "1: Census",
+      "1: Demographics",
+      "1: Mortality_rate",
+      "1: Human_migration",
+      "1: Population_growth",
+      "1: Fertility_rates",
+      "1: Crude_death_rate",
+      "1: Rate_of_natural_increase",
+      "1: Italy",
+      "1: Malaysia",
+      "1: One-child_policy",
+      "1: Family_planning_in_Iran",
+      "1: Reproductive_health",
+      "1: Life_expectancy",
+      "1: Social_status",
+      "1: Demographic_transition",
+      "1: Economic_development",
+      "1: World_Population_Conference",
+      "1: Bucharest",
+      "1: Romania",
+      "1: Women%27s_rights#Modern_movements",
+      "1: Birth_control_pill",
+      "1: Condom",
+      "1: Cairo",
+      "1: Egypt",
+      "1: Aegis",
+      "1: Hong_Kong",
+      "1: Special_administrative_region",
+      "1: China",
+      "1: U.S._National_Institutes_of_Health",
+      "1: Office_for_National_Statistics",
+      "1: Germany",
+      "1: Centers_for_Disease_Control_and_Prevention",
+      "1: Great_Depression_in_the_United_States",
+      "1: Natalism",
+      "1: Antinatalism",
+      "1: Tax_on_childlessness",
+      "1: Family_planning",
+      "1: Sex_education",
+      "1: Childbirth",
+      "1: Infant_mortality",
+      "1: Population_pyramid",
+      "1: Age_of_marriage",
+      "1: Contraception",
+      "1: Child_labour",
+      "1: Demographic-economic_paradox",
+      "1: Measures_of_national_income_and_output",
+      "1: Poverty",
+      "1: Urbanization",
+      "1: Pension",
+      "1: Conflict",
+      "1: Death_rate",
+      "1: Population_ageing",
+      "1: Human_population_control",
+      "1: Aging_of_Europe",
+      "1: Aging_of_Japan",
+      "1: List_of_sovereign_states_and_dependent_territories_by_birth_rate",
+      "1: List_of_sovereign_states_and_dependent_territories_by_fertility_rate",
+      "1: Population_Matters"
+   ]
+}

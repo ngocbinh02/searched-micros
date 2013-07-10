@@ -1,0 +1,48 @@
+{
+   "micrownet" : [
+      "drainage_system"
+   ],
+   "duck" : [
+      "HASH(0x4ad9aa0)",
+      "HASH(0x4a7d9b0)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chameleon_snake_discovered_in_Borneo\" title=\"Chameleon snake discovered in Borneo\">Chameleon snake discovered in Borneo</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Broken_stormwater_drain_led_to_Guatemala_sinkhole\" title=\"Broken stormwater drain led to Guatemala sinkhole\">Broken stormwater drain led to Guatemala sinkhole</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sewerage_project_starts_in_Pakistan\" title=\"Sewerage project starts in Pakistan\">Sewerage project starts in Pakistan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/How_the_Army_Corps_of_Engineers_closed_one_New_Orleans_breach\" title=\"How the Army Corps of Engineers closed one New Orleans breach\">How the Army Corps of Engineers closed one New Orleans breach</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pump_leak_and_fire_shuts_down_nuclear_reactor_in_France\" title=\"Pump leak and fire shuts down nuclear reactor in France\">Pump leak and fire shuts down nuclear reactor in France</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chinese_chemical_plant_explosion_threatens_water_supply_for_major_city\" title=\"Chinese chemical plant explosion threatens water supply for major city\">Chinese chemical plant explosion threatens water supply for major city</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Federal_government_begins_employing_strategies_to_repair_New_Orleans\" title=\"Federal government begins employing strategies to repair New Orleans\">Federal government begins employing strategies to repair New Orleans</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:May_26,_2010\" title=\"News briefs:May 26, 2010\">News briefs:May 26, 2010</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462135,
+   "book" : [],
+   "micro-www" : {
+      "drainage_system" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "'Drainage system' may refer to:\n\n*A drainage system (geomorphology), the pattern formed by the streams, rivers,\nand lakes in a particular drainage basin. *A drainage system (agriculture), an\nintervention to control waterlogging aiming at soil improvement for agricultural\nproduction. *A drainage system in urban and industrial areas, a facility to\ndispose of liquid waste. See Sustainable urban drainage systems and Sewage.\n",
+      "title" : "drainage system",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Sustainable_urban_drainage_systems",
+      "1: Sewage",
+      "1: Drainage",
+      "1: Tile_drainage",
+      "1: Watertable_control"
+   ]
+}

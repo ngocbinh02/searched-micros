@@ -1,0 +1,92 @@
+{
+   "micrownet" : [
+      "athletic_facility",
+      "cafeteria_facility",
+      "docking_facility",
+      "extended_care_facility",
+      "facility",
+      "health_facility",
+      "healthcare_facility",
+      "penal_facility",
+      "recreation_facility",
+      "recreational_facility",
+      "research_facility",
+      "toilet_facility",
+      "wind_energy_facility"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Telecommunications_facility\">Telecommunications facility</a>",
+      "https://en.wikipedia.org/wiki/Facility",
+      "HASH(0x4b103c8)",
+      "Wikipedia",
+      "Facility",
+      "http://www.merriam-webster.com/dictionary/facility",
+      "\n<a href=\"http://duckduckgo.com/Medical_facility\">Medical facility</a> - A medical facility is, in general, any location at which medicine is practiced regularly.",
+      "facility definition: the quality of being easily performed.",
+      "Merriam-Webster",
+      "HASH(0x4ac2530)",
+      "\nAn <a href=\"http://duckduckgo.com/installation\">installation</a>, contrivance, or other things which facilitates something; a place for doing something:",
+      "\n<a href=\"http://duckduckgo.com/post-production\">Post-production facility</a> - Post-production is part of filmmaking, video production and photography process.",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Guantanamo%27-style_detention_facility_under_construction_on_Australian_Island\" title=\"&#39;Guantanamo&#39;-style detention facility under construction on Australian Island\">&#39;Guantanamo&#39;-style detention <span class=\"searchmatch\">facility</span> under construction on Australian Island</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_activists_break_into_Pine_Gap_spy_facility\" title=\"Australian activists break into Pine Gap spy facility\">Australian activists break into Pine Gap spy <span class=\"searchmatch\">facility</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/President_Obama_renews_his_push_to_close_Guantanamo_detention_facility\" title=\"President Obama renews his push to close Guantanamo detention facility\">President Obama renews his push to close Guantanamo detention <span class=\"searchmatch\">facility</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Venezuela_opens_granite_processing_facility_in_Bol%C3%ADvar\" title=\"Venezuela opens granite processing facility in Bolívar\">Venezuela opens granite processing <span class=\"searchmatch\">facility</span> in Bolívar</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Weapons_storage_facility_in_Syria_explodes_killing_15_soldiers\" title=\"Weapons storage facility in Syria explodes killing 15 soldiers\">Weapons storage <span class=\"searchmatch\">facility</span> in Syria explodes killing 15 soldiers</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/ISIS_says_target_of_Israeli_airstrike_in_Syria_was_a_nuclear_facility\" title=\"ISIS says target of Israeli airstrike in Syria was a nuclear facility\">ISIS says target of Israeli airstrike in Syria was a nuclear <span class=\"searchmatch\">facility</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UN_inspectors_banned_from_North_Korean_nuclear_facility\" title=\"UN inspectors banned from North Korean nuclear facility\">UN inspectors banned from North Korean nuclear <span class=\"searchmatch\">facility</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Gas_tanks_explode_at_facility_in_Texas,_US\" title=\"Gas tanks explode at facility in Texas, US\">Gas tanks explode at <span class=\"searchmatch\">facility</span> in Texas, US</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Three_inmates_commit_suicide_at_Guantanamo_detention_facility\" title=\"Three inmates commit suicide at Guantanamo detention facility\">Three inmates commit suicide at Guantanamo detention <span class=\"searchmatch\">facility</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Five_South_Korean_workers_kidnapped_from_Nigerian_natural_gas_facility\" title=\"Five South Korean workers kidnapped from Nigerian natural gas facility\">Five South Korean workers kidnapped from Nigerian natural gas <span class=\"searchmatch\">facility</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/A_leak_at_the_Sellafield_nuclear_reprocessing_facility_on_Cumbrian_coast,_England\" title=\"A leak at the Sellafield nuclear reprocessing facility on Cumbrian coast, England\">A leak at the Sellafield nuclear reprocessing <span class=\"searchmatch\">facility</span> on Cumbrian coast, England</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Russia_makes_first_nuclear_fuel_shipments_to_Iran\" title=\"Russia makes first nuclear fuel shipments to Iran\">Russia makes first nuclear fuel shipments to Iran</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Amnesty_report%27s_criticisms_rejected_by_Bush_administration\" title=\"Amnesty report&#39;s criticisms rejected by Bush administration\">Amnesty report&#39;s criticisms rejected by Bush administration</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Space_Shuttle_Endeavour_completes_STS-123_mission\" title=\"Space Shuttle Endeavour completes STS-123 mission\">Space Shuttle Endeavour completes STS-123 mission</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Space_Shuttle_Atlantis_completes_mission_STS-122\" title=\"Space Shuttle Atlantis completes mission STS-122\">Space Shuttle Atlantis completes mission STS-122</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NASA_announces_Shuttle_delay_due_to_Hurricane_Katrina\" title=\"NASA announces Shuttle delay due to Hurricane Katrina\">NASA announces Shuttle delay due to Hurricane Katrina</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Inmates_take_over_Indiana_prison,_two_employees_injured\" title=\"Inmates take over Indiana prison, two employees injured\">Inmates take over Indiana prison, two employees injured</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Apache_pipeline_fire_-_Varanus_Island,_Western_Australia\" title=\"Apache pipeline fire - Varanus Island, Western Australia\">Apache pipeline fire - Varanus Island, Western Australia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_guards_kill_four_in_Iraqi_prison_riot\" title=\"US guards kill four in Iraqi prison riot\">US guards kill four in Iraqi prison riot</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/United_States_begins_testing_equipment_for_demolition_of_a_major_VX_nerve_gas_stockpile\" title=\"United States begins testing equipment for demolition of a major VX nerve gas stockpile\">United States begins testing equipment for demolition of a major VX nerve gas stockpile</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373463158,
+   "book" : [],
+   "micro-www" : {
+      "facility" : [
+         "facility",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Facility' may refer to:\n\n* An installation, contrivance, or other things which s something; a place for\n  doing something: ** A commercial or institutional building, such as a hotel,\n  resort, school, office complex, sports arena, or convention center ** Medical\n  facility ** Post-production facility ** Telecommunications facility\n* Financial assistance programs offered by lending institutions to help\n  companies acquire capital\n",
+      "title" : "facility",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Installation",
+      "1: Building",
+      "1: Hotel",
+      "1: Resort",
+      "1: School",
+      "1: Office_complex",
+      "1: Sports_arena",
+      "1: Convention_center",
+      "1: Medical_facility",
+      "1: Postproduction",
+      "1: Telecommunications_facility",
+      "1: Lending",
+      "1: Faculty"
+   ]
+}

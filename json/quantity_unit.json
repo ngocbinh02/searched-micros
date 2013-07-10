@@ -1,0 +1,30 @@
+{
+   "micrownet" : [
+      "quantity_unit"
+   ],
+   "duck" : [
+      "HASH(0x4a573a8)",
+      "HASH(0x4a56868)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pump_leak_and_fire_shuts_down_nuclear_reactor_in_France\" title=\"Pump leak and fire shuts down nuclear reactor in France\">Pump leak and fire shuts down nuclear reactor in France</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mansour_announces_election_plans_for_Egypt_after_violence_and_protests\" title=\"Mansour announces election plans for Egypt after violence and protests\">Mansour announces election plans for Egypt after violence and protests</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_Climatic_Research_Unit%27s_emails_hacked\" title=\"British Climatic Research Unit&#39;s emails hacked\">British Climatic Research <span class=\"searchmatch\">Unit</span>&#39;s emails hacked</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Outlaw_gangs,_says_New_Zealand_First\" title=\"Outlaw gangs, says New Zealand First\">Outlaw gangs, says New Zealand First</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462735,
+   "book" : [],
+   "micro-www" : {
+      "quantity_unit" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

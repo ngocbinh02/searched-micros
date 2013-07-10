@@ -1,0 +1,52 @@
+{
+   "micrownet" : [
+      "ubiquity"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Ubiquity",
+      "HASH(0x4a1f7f8)",
+      "Wikipedia",
+      "Ubiquity",
+      "\n<a href=\"http://duckduckgo.com/Ubiquity_(Firefox)\">Ubiquity (Firefox)</a>, an experimental extension for the Firefox browser",
+      "\n<a href=\"http://duckduckgo.com/Ubiquiti_Networks\">Ubiquiti Networks (Technology)</a>, a Network Hardware/Software company also known as ubnt",
+      "http://www.merriam-webster.com/dictionary/ubiquity",
+      "\n<a href=\"http://duckduckgo.com/Ubiquity_Records\">Ubiquity Records</a>, an American music label",
+      "ubiquity definition: presence everywhere or in many places especially simultaneously.",
+      "Merriam-Webster",
+      "HASH(0x4a7a758)",
+      "\n<a href=\"http://duckduckgo.com/Ubiquity_(software)\">Ubiquity (software)</a>, a simple graphical installer made for the <a href=\"http://duckduckgo.com/?q=Ubuntu operating system\">Ubuntu operating system</a>",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_planet_found_in_%27Habitable_Zone%27\" title=\"New planet found in &#39;Habitable Zone&#39;\">New planet found in &#39;Habitable Zone&#39;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/MPAA_sues_six_BitTorrent_sites_linking_to_TV_shows\" title=\"MPAA sues six BitTorrent sites linking to TV shows\">MPAA sues six BitTorrent sites linking to TV shows</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Free_Software_Foundation_announces_release_of_gNewSense_version_1.0\" title=\"Free Software Foundation announces release of gNewSense version 1.0\">Free Software Foundation announces release of gNewSense version 1.0</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:August_3,_2010\" title=\"News briefs:August 3, 2010\">News briefs:August 3, 2010</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462987,
+   "book" : [],
+   "micro-www" : {
+      "ubiquity" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Ubiquity' is a synonym for omnipresence, the property of being present\neverywhere.\n\nUbiquity may also refer to:\n\n* Ubiquity (software), a simple graphical installer made for the Ubuntu\n  operating system\n* Ubiquity Records, an American music label\n* Ubiquity (Firefox), an experimental extension for the Firefox browser\n* Ubiquiti Networks (Technology), a Network Hardware/Software company also\n  known as ubnt\n",
+      "title" : "ubiquity",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Omnipresence",
+      "1: Ubuntu_operating_system",
+      "1: Ubiquity_Records",
+      "1: Ubiquiti_Networks"
+   ]
+}

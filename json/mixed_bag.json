@@ -1,0 +1,31 @@
+{
+   "micrownet" : [
+      "mixed_bag"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Rare_Middle_East_cyclone_batters_Oman\" title=\"Rare Middle East cyclone batters Oman\">Rare Middle East cyclone batters Oman</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/An_interview_with_gossip_columnist_Michael_Musto_on_the_art_of_celebrity_journalism\" title=\"An interview with gossip columnist Michael Musto on the art of celebrity journalism\">An interview with gossip columnist Michael Musto on the art of celebrity journalism</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373470332,
+   "book" : [],
+   "micro-www" : {
+      "mixed_bag" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "<!-- This long comment was added to the page to prevent it from being listed on\nSpecial:Shortpages. It and the accompanying monitoring template were generated\nvia Template:Long comment. Please do not remove the monitor template without\nremoving the comment as well.-->\n",
+      "title" : "mixed bag",
+      "headings" : []
+   },
+   "micro-relation" : []
+}

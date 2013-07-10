@@ -1,0 +1,107 @@
+{
+   "micrownet" : [
+      "thresher_shark"
+   ],
+   "duck" : [
+      "HASH(0x49dcfc8)",
+      "HASH(0x49bf618)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465055,
+   "book" : [],
+   "micro-www" : {
+      "thresher_shark" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Alopiidae|",
+         "Ovoviviparous fish",
+         "Commercial fish",
+         "Sport fish"
+      ],
+      "text" : "{{Taxobox\n| name = Thresher shark fossil_range = <small>Lutetian to Recent</small> image =\n| Threshershark.jpg image_caption = Pelagic thresher (''A. pelagicus'') regnum =\n| Animalia phylum = Chordata classis = Chondrichthyes subclassis =\n| Elasmobranchii ordo = Lamniformes familia = 'Alopiidae' familia_authority =\n| Bonaparte, 1838 genus = 'Alopias' genus_authority = Rafinesque, 1810\n| type_species = ''Alopias macrourus'' type_species_authority = Rafinesque, 1810\n| synonyms =\n* Alopecias Müller and Henle, 1837\n* Alopius Swainson, 1838\n* Vulpecula Jarocki, 1822 }}\n\n'Thresher sharks' are large lamniform sharks of the family 'Alopiidae' found in\nall temperate and tropical oceans of the world; the family contains three\nspecies, all within the genus 'Alopias'.\n",
+      "title" : "thresher shark",
+      "headings" : [
+         "Taxonomy",
+         "Phylogeny and evolution",
+         "Distribution and habitat",
+         "Anatomy and appearance",
+         "Diet",
+         "Behaviour",
+         "Endothermy",
+         "Reproduction",
+         "Importance to humans",
+         "Conservation",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Pelagic_thresher",
+      "2: Common_thresher",
+      "2: Clade",
+      "1: Lutetian",
+      "1: Animal",
+      "1: Chordate",
+      "1: Chondrichthyes",
+      "1: Elasmobranchii",
+      "1: Lamniformes",
+      "1: Charles_Lucien_Jules_Laurent_Bonaparte",
+      "1: Constantine_Samuel_Rafinesque-Schmaltz",
+      "1: Lamniform",
+      "1: Shark",
+      "1: Ocean",
+      "1: Species",
+      "1: Genus",
+      "1: Greek_language",
+      "1: Fox",
+      "1: Scythe",
+      "1: Caudal_fin",
+      "1: Allozyme",
+      "1: Baja_California",
+      "1: Richard_Thomas_Lowe",
+      "1: Pierre_Joseph_Bonnaterre",
+      "1: Cytochrome_b",
+      "1: Gene",
+      "1: Monophyletic",
+      "1: Cetorhinidae",
+      "1: Lamnidae",
+      "1: Megamouth_shark",
+      "1: Cladistic",
+      "1: Leonard_Compagno",
+      "1: Dentition",
+      "1: Synapomorphy",
+      "1: Derived",
+      "1: Pelagic_fish",
+      "1: Continental_shelf",
+      "1: Pacifica_Pier",
+      "1: California",
+      "1: Thresher",
+      "1: Bigeye_thresher",
+      "1: Dorsal_fin",
+      "1: Pectoral_fin",
+      "1: Shoaling_and_schooling",
+      "1: Indian_Ocean",
+      "1: Oceanodromous",
+      "1: Dolphin",
+      "1: Whale_surfacing_behaviour",
+      "1: Ovoviviparity",
+      "1: Oophagy",
+      "1: Fecundity",
+      "1: Overfishing",
+      "1: Shark_liver_oil",
+      "1: Shark-fin_soup",
+      "1: Game_fish",
+      "1: Vulnerable_species",
+      "1: World_Conservation_Union"
+   ]
+}

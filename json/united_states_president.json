@@ -1,0 +1,48 @@
+{
+   "micrownet" : [
+      "united_states_president"
+   ],
+   "duck" : [
+      "HASH(0x4ae25a0)",
+      "HASH(0x46fea68)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/United_States_President_George_W._Bush_makes_speech_to_rally_support_for_war_in_Iraq\" title=\"United States President George W. Bush makes speech to rally support for war in Iraq\"><span class=\"searchmatch\">United</span> <span class=\"searchmatch\">States</span> <span class=\"searchmatch\">President</span> George W. Bush makes speech to rally support for war in Iraq</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Clinton_meetings_fuel_speculation_over_presidential_bid\" title=\"Clinton meetings fuel speculation over presidential bid\">Clinton meetings fuel speculation over presidential bid</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Clinton_to_run_for_United_States_President%3F\" title=\"Clinton to run for United States President?\">Clinton to run for <span class=\"searchmatch\">United</span> <span class=\"searchmatch\">States</span> <span class=\"searchmatch\">President</span>?</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chinese_president_Hu_Jintao_visits_United_States\" title=\"Chinese president Hu Jintao visits United States\">Chinese <span class=\"searchmatch\">president</span> Hu Jintao visits <span class=\"searchmatch\">United</span> <span class=\"searchmatch\">States</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Green_Party_of_the_United_States_nominates_Jill_Stein_for_president\" title=\"Green Party of the United States nominates Jill Stein for president\">Green Party of the <span class=\"searchmatch\">United</span> <span class=\"searchmatch\">States</span> nominates Jill Stein for <span class=\"searchmatch\">president</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Barack_Obama_elected_44th_President_of_the_United_States\" title=\"Barack Obama elected 44th President of the United States\">Barack Obama elected 44th <span class=\"searchmatch\">President</span> of the <span class=\"searchmatch\">United</span> <span class=\"searchmatch\">States</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/United_States_re-elects_Barack_Obama\" title=\"United States re-elects Barack Obama\"><span class=\"searchmatch\">United</span> <span class=\"searchmatch\">States</span> re-elects Barack Obama</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Reform_Party_of_the_United_States_nominates_fitness_model_Andre_Barnett_for_president\" title=\"Reform Party of the United States nominates fitness model Andre Barnett for president\">Reform Party of the <span class=\"searchmatch\">United</span> <span class=\"searchmatch\">States</span> nominates fitness model Andre Barnett for <span class=\"searchmatch\">president</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/President_Bush_of_the_United_States_authorized_NSA_surveillance_of_citizens,_bypassing_court_warrants\" title=\"President Bush of the United States authorized NSA surveillance of citizens, bypassing court warrants\"><span class=\"searchmatch\">President</span> Bush of the <span class=\"searchmatch\">United</span> <span class=\"searchmatch\">States</span> authorized NSA surveillance of citizens, bypassing court warrants</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Obama_succeeds_Bush_as_44th_president_of_the_United_States\" title=\"Obama succeeds Bush as 44th president of the United States\">Obama succeeds Bush as 44th <span class=\"searchmatch\">president</span> of the <span class=\"searchmatch\">United</span> <span class=\"searchmatch\">States</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Former_Vice_President_of_the_United_States_Al_Gore_and_longtime_wife_Tipper_separating\" title=\"Former Vice President of the United States Al Gore and longtime wife Tipper separating\">Former Vice <span class=\"searchmatch\">President</span> of the <span class=\"searchmatch\">United</span> <span class=\"searchmatch\">States</span> Al Gore and longtime wife Tipper separating</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/United_States_confirms_first_military_death_sentence_since_1957\" title=\"United States confirms first military death sentence since 1957\"><span class=\"searchmatch\">United</span> <span class=\"searchmatch\">States</span> confirms first military death sentence since 1957</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bush_deploys_military_in_the_US_for_active_duty_as_federal_response_force\" title=\"Bush deploys military in the US for active duty as federal response force\">Bush deploys military in the US for active duty as federal response force</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_President_deploys_troops_in_the_United_States_for_first_time_in_200_years.\" title=\"US President deploys troops in the United States for first time in 200 years.\">US <span class=\"searchmatch\">President</span> deploys troops in the <span class=\"searchmatch\">United</span> <span class=\"searchmatch\">States</span> for first time in 200</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Comprehensive_immigration_bill_fails_in_United_States_Senate\" title=\"Comprehensive immigration bill fails in United States Senate\">Comprehensive immigration bill fails in <span class=\"searchmatch\">United</span> <span class=\"searchmatch\">States</span> Senate</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._President_Barack_Obama_calls_North_Korea_a_%22grave_threat%22\" title=\"U.S. President Barack Obama calls North Korea a &quot;grave threat&quot;\">U.S. <span class=\"searchmatch\">President</span> Barack Obama calls North Korea a &quot;grave threat&quot;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_President_Obama_considering_supplying_arms_to_Libyan_rebels\" title=\"US President Obama considering supplying arms to Libyan rebels\">US <span class=\"searchmatch\">President</span> Obama considering supplying arms to Libyan rebels</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bush_calls_for_ban_on_gay_marriage\" title=\"Bush calls for ban on gay marriage\">Bush calls for ban on gay marriage</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Copenhagen_climate_conference_ends_with_%22meaningful_agreement%22\" title=\"Copenhagen climate conference ends with &quot;meaningful agreement&quot;\">Copenhagen climate conference ends with &quot;meaningful agreement&quot;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Dick_Cheney_makes_surprise_Iraq_visit\" title=\"Dick Cheney makes surprise Iraq visit\">Dick Cheney makes surprise Iraq visit</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Former_U.S._President_Gerald_Ford_dies,_aged_93\" title=\"Former U.S. President Gerald Ford dies, aged 93\">Former U.S. <span class=\"searchmatch\">President</span> Gerald Ford dies, aged 93</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464048,
+   "book" : [],
+   "micro-www" : {
+      "united_states_president" : [
+         "United_States_presidential_line_of_succession",
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

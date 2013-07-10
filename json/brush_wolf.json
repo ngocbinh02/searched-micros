@@ -1,0 +1,35 @@
+{
+   "micrownet" : [
+      "brush_wolf"
+   ],
+   "duck" : [
+      "HASH(0x4af48f0)",
+      "HASH(0x4a49c98)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2006_U.S._Congressional_Elections\" title=\"2006 U.S. Congressional Elections\">2006 U.S. Congressional Elections</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464924,
+   "book" : [],
+   "micro-www" : {
+      "brush_wolf" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "#REDIRECTCoyote\n",
+      "title" : "brush wolf",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Coyote"
+   ]
+}

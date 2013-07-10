@@ -1,0 +1,33 @@
+{
+   "micrownet" : [
+      "dry_unit",
+      "united_states_dry_unit"
+   ],
+   "duck" : [
+      "HASH(0x4d069f0)",
+      "HASH(0x4c295d0)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mumbai_sieges_come_to_an_end\" title=\"Mumbai sieges come to an end\">Mumbai sieges come to an end</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canberrans_flood_Cotter_Dam_on_open_day\" title=\"Canberrans flood Cotter Dam on open day\">Canberrans flood Cotter Dam on open day</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NASA_plans_for_future_moon_missions\" title=\"NASA plans for future moon missions\">NASA plans for future moon missions</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Race_to_save_Chilean_miners_trapped_underground_from_spiralling_into_depression_continues\" title=\"Race to save Chilean miners trapped underground from spiralling into depression continues\">Race to save Chilean miners trapped underground from spiralling into depression continues</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/John_Reed_on_Orwell,_God,_self-destruction_and_the_future_of_writing\" title=\"John Reed on Orwell, God, self-destruction and the future of writing\">John Reed on Orwell, God, self-destruction and the future of writing</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:June_4,_2010\" title=\"News briefs:June 4, 2010\">News briefs:June 4, 2010</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373463213,
+   "book" : [],
+   "micro-www" : {
+      "dry_unit" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

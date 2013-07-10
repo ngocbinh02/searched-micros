@@ -1,0 +1,46 @@
+{
+   "micrownet" : [
+      "female_person"
+   ],
+   "duck" : [
+      "HASH(0x49ca8d8)",
+      "HASH(0x49c03e0)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Second_Turk_dies_from_bird_flu,_more_suspected_to_be_infected\" title=\"Second Turk dies from bird flu, more suspected to be infected\">Second Turk dies from bird flu, more suspected to be infected</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Gunman_kills_self_and_hostage_in_Texas_NASA_building\" title=\"Gunman kills self and hostage in Texas NASA building\">Gunman kills self and hostage in Texas NASA building</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/County_Donegal,_Ireland_crash_kills_one,_injures_two\" title=\"County Donegal, Ireland crash kills one, injures two\">County Donegal, Ireland crash kills one, injures two</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/DNA_in_underwear_matches_Philippines_rape_victim\" title=\"DNA in underwear matches Philippines rape victim\">DNA in underwear matches Philippines rape victim</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Passenger_dies_after_fire_in_toilet_on_train_in_Bedfordshire,_England;_serious_rail_disruption\" title=\"Passenger dies after fire in toilet on train in Bedfordshire, England; serious rail disruption\">Passenger dies after fire in toilet on train in Bedfordshire, England; serious rail disruption</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Princess_Beatrice%27s_unlocked_BMW_stolen\" title=\"Princess Beatrice&#39;s unlocked BMW stolen\">Princess Beatrice&#39;s unlocked BMW stolen</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/EU_budget_chief_claims_win_in_Lithuanian_presidential_elections\" title=\"EU budget chief claims win in Lithuanian presidential elections\">EU budget chief claims win in Lithuanian presidential elections</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Two_dead_after_car_crash_in_Inverness,_Scotland\" title=\"Two dead after car crash in Inverness, Scotland\">Two dead after car crash in Inverness, Scotland</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Deadly_shooting_at_high_school_in_Finland\" title=\"Deadly shooting at high school in Finland\">Deadly shooting at high school in Finland</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mitt_Romney_wins_2012_Florida_primary\" title=\"Mitt Romney wins 2012 Florida primary\">Mitt Romney wins 2012 Florida primary</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Nigerian_%22free_puppy%22_scam_revealed_on_the_internet\" title=\"Nigerian &quot;free puppy&quot; scam revealed on the internet\">Nigerian &quot;free puppy&quot; scam revealed on the internet</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Seven_sentenced_to_death_for_Jordanian_suicide_attacks\" title=\"Seven sentenced to death for Jordanian suicide attacks\">Seven sentenced to death for Jordanian suicide attacks</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/401_children_from_Texas_sect_compound_taken_into_custody\" title=\"401 children from Texas sect compound taken into custody\">401 children from Texas sect compound taken into custody</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Autopsy_reveals_that_Terri_Schiavo_was_in_a_persistent_vegetative_state\" title=\"Autopsy reveals that Terri Schiavo was in a persistent vegetative state\">Autopsy reveals that Terri Schiavo was in a persistent vegetative state</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_study_claims_men_have_higher_average_I.Q._than_women\" title=\"UK study claims men have higher average I.Q. than women\">UK study claims men have higher average I.Q. than women</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Simon%27s_Rock_College_tests_Alan_Turing_theories_with_%27Imitation_Game%27_experiment\" title=\"Simon&#39;s Rock College tests Alan Turing theories with &#39;Imitation Game&#39; experiment\">Simon&#39;s Rock College tests Alan Turing theories with &#39;Imitation Game&#39; experiment</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Shootings_in_Cleveland_high_school_leave_five_injured,_gunman_dead\" title=\"Shootings in Cleveland high school leave five injured, gunman dead\">Shootings in Cleveland high school leave five injured, gunman dead</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_government_expands_definition_of_rape_to_include_men\" title=\"US government expands definition of rape to include men\">US government expands definition of rape to include men</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Schr%C3%B6der_loses_motion_of_confidence\" title=\"Schröder loses motion of confidence\">Schröder loses motion of confidence</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/RU486_Abortion_pill_hearings_begin_in_Australia\" title=\"RU486 Abortion pill hearings begin in Australia\">RU486 Abortion pill hearings begin in Australia</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373466378,
+   "book" : [],
+   "micro-www" : {
+      "female_person" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

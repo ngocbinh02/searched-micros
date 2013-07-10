@@ -1,0 +1,25 @@
+{
+   "micrownet" : [
+      "coryphaena_equisetis"
+   ],
+   "duck" : [
+      "HASH(0x47cad78)",
+      "HASH(0x4f71998)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373463977,
+   "book" : [],
+   "micro-www" : {
+      "coryphaena_equisetis" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

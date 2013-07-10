@@ -1,0 +1,97 @@
+{
+   "micrownet" : [
+      "public_works",
+      "sewage_works",
+      "whole_works",
+      "works",
+      "works_council",
+      "works_program",
+      "worksheet",
+      "workshop",
+      "workspace",
+      "workstation"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Works",
+      "\n<a href=\"http://duckduckgo.com/Karma\">Karma</a>, literally \"deeds\", in Hinduism",
+      "HASH(0x49d5778)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Earthworks_(engineering)\">Earthworks (engineering)</a>, created through moving soil or unformed rock",
+      "Works",
+      "\n<a href=\"http://duckduckgo.com/Microsoft_Works\">Microsoft Works</a>, a collection of office productivity programs created by Microsoft",
+      "http://www.merriam-webster.com/dictionary/works",
+      "works definition: works (as schools, highways, docks) constructed for public use or enjoyment especially when financed and owned by the government.",
+      "Merriam-Webster",
+      "HASH(0x49d0940)",
+      "\n<a href=\"http://duckduckgo.com/d/waterworks\">Waterworks Meanings</a>",
+      "\n<a href=\"http://duckduckgo.com/Good_works\">Good works</a> in Christianity",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Public_works\">Public works</a>, engineering projects carried out by the state on behalf of the community"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Famed_classical_works_rediscovered\" title=\"Famed classical works rediscovered\">Famed classical <span class=\"searchmatch\">works</span> rediscovered</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/East_Timor,_Kuwait_start_negotiations_for_investment_in_public_works\" title=\"East Timor, Kuwait start negotiations for investment in public works\">East Timor, Kuwait start negotiations for investment in public <span class=\"searchmatch\">works</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Works_valued_at_%E2%82%AC100_million_stolen_from_the_Mus%C3%A9e_d%27Art_Moderne_de_la_Ville_de_Paris\" title=\"Works valued at €100 million stolen from the Musée d&#39;Art Moderne de la Ville de Paris\"><span class=\"searchmatch\">Works</span> valued at €100 million stolen from the Musée d&#39;Art Moderne de la Ville de Paris</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Romanian_artists_auction_off_their_works_for_tsunami_victims\" title=\"Romanian artists auction off their works for tsunami victims\">Romanian artists auction off their <span class=\"searchmatch\">works</span> for tsunami victims</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Four-team_trade_may_be_in_the_works_in_Major_League_Baseball\" title=\"Four-team trade may be in the works in Major League Baseball\">Four-team trade may be in the <span class=\"searchmatch\">works</span> in Major League Baseball</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Amazon_dips_into_memory_hole_to_retrieve_Orwellian_works\" title=\"Amazon dips into memory hole to retrieve Orwellian works\">Amazon dips into memory hole to retrieve Orwellian <span class=\"searchmatch\">works</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Risk_of_major_US_shipyard_Bath_Iron_Works_closure_termed_%22substantial%22_by_Maine_Congressman\" title=\"Risk of major US shipyard Bath Iron Works closure termed &quot;substantial&quot; by Maine Congressman\">Risk of major US shipyard Bath Iron <span class=\"searchmatch\">Works</span> closure termed &quot;substantial&quot; by Maine Congressman</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Researcher_claims_solution_to_P_vs_NP_math_problem\" title=\"Researcher claims solution to P vs NP math problem\">Researcher claims solution to P vs NP math problem</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/IBM_to_launch_software_that_works_on_Linux,_Windows_and_Macintosh\" title=\"IBM to launch software that works on Linux, Windows and Macintosh\">IBM to launch software that <span class=\"searchmatch\">works</span> on Linux, Windows and Macintosh</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Romania_to_cancel_trains_on_major_line_due_to_road_works\" title=\"Romania to cancel trains on major line due to road works\">Romania to cancel trains on major line due to road <span class=\"searchmatch\">works</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Valuable_paintings_stolen_from_Greek_gallery\" title=\"Valuable paintings stolen from Greek gallery\">Valuable paintings stolen from Greek gallery</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Google_introduces_the_%27%2B1%27_button\" title=\"Google introduces the &#39;+1&#39; button\">Google introduces the &#39;+1&#39; button</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.K._National_Portrait_Gallery_threatens_U.S._citizen_with_legal_action_over_Wikimedia_images\" title=\"U.K. National Portrait Gallery threatens U.S. citizen with legal action over Wikimedia images\">U.K. National Portrait Gallery threatens U.S. citizen with legal action over Wikimedia images</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scottish_singer_Jai_McDowall_wins_fifth_Britain%27s_Got_Talent_series\" title=\"Scottish singer Jai McDowall wins fifth Britain&#39;s Got Talent series\">Scottish singer Jai McDowall wins fifth Britain&#39;s Got Talent series</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Author_Kurt_Vonnegut_dead_at_84\" title=\"Author Kurt Vonnegut dead at 84\">Author Kurt Vonnegut dead at 84</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/SEALs_say_US_officer%27s_cover-up_was_reported_by_fake_SEAL\" title=\"SEALs say US officer&#39;s cover-up was reported by fake SEAL\">SEALs say US officer&#39;s cover-up was reported by fake SEAL</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Main_UN_compound_in_Gaza_shelled_with_%27white_phosphorus%27\" title=\"Main UN compound in Gaza shelled with &#39;white phosphorus&#39;\">Main UN compound in Gaza shelled with &#39;white phosphorus&#39;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Nine_dead_in_shooting_rampage_at_Connecticut_beer_warehouse\" title=\"Nine dead in shooting rampage at Connecticut beer warehouse\">Nine dead in shooting rampage at Connecticut beer warehouse</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UN_demands_return_of_aid_seized_by_Hamas\" title=\"UN demands return of aid seized by Hamas\">UN demands return of aid seized by Hamas</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/FanFiction.Net_adult_content_purge_felt_across_fandom_two_weeks_on\" title=\"FanFiction.Net adult content purge felt across fandom two weeks on\">FanFiction.Net adult content purge felt across fandom two weeks on</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373466248,
+   "book" : [],
+   "micro-www" : {
+      "works" : [
+         "workshop",
+         "works",
+         "Works_(disambiguation)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Works' may refer to:\n\n* An author's or artist's body of work of art\n* Engineering structures, projects, and so on, including: ** Earthworks\n  (engineering), created through moving soil or unformed rock ** Public works,\n  engineering projects carried out by the state on behalf of the community **\n  Waterworks, another name for a water supply system\n* In motorsports, works are cars sponsored and tuned by automobile\n  manufacturers; see factory-backed\n* In religion, works, deeds or actions in contrast to faith ** Good works in\n  Christianity ** Karma, literally \"deeds\", in Hinduism\n",
+      "title" : "works",
+      "headings" : [
+         "Other",
+         "Albums",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Work_of_art",
+      "1: Public_works",
+      "1: Waterworks",
+      "1: Factory-backed",
+      "1: Good_works",
+      "1: Karma",
+      "1: HowStuffWorks",
+      "1: New_Zealand_Ministry_of_Works",
+      "1: AppleWorks",
+      "1: IWork",
+      "1: Microsoft_Works",
+      "1: Samuel_Works",
+      "1: Gary_Burton",
+      "1: Pat_Metheny",
+      "1: Alan_Parsons"
+   ]
+}

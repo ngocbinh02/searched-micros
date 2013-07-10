@@ -1,0 +1,82 @@
+{
+   "micrownet" : [
+      "sheik",
+      "sheika",
+      "sheikdom",
+      "sheikh",
+      "sheikha",
+      "sheikhdom",
+      "tribal_sheik",
+      "tribal_sheikh"
+   ],
+   "duck" : [
+      "\n\"<a href=\"http://duckduckgo.com/The_Sheik_of_Araby\">The Sheik of Araby</a>\", a 1921 pop tune composed in response to the film",
+      "Sheik",
+      "\n<a href=\"http://duckduckgo.com/The_Sheik_(film)\">The Sheik (film)</a>, a 1921 silent film starring Rudolph Valentino",
+      "http://www.merriam-webster.com/dictionary/sheik",
+      "\n<a href=\"http://duckduckgo.com/Sheik_(Legend_of_Zelda)\">Sheik (Legend of Zelda)</a>, a disguise of Princess Zelda in Ocarina of Time",
+      "sheik definition: an Arab chief.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/The_Sheik_(novel)\">The Sheik (novel)</a>, by Edith Maude Hull, on which the film is based",
+      "\n<a href=\"http://duckduckgo.com/Iron_Sheik\">Iron Sheik</a> (born 1943), ring name of Hossein Khosrow Ali Vaziri, Iranian wrestler and actor",
+      "\n<a href=\"http://duckduckgo.com/Sheik_condoms\">Sheik condoms</a>, introduced by <a href=\"http://duckduckgo.com/?q=Jules Schmid\">Jules Schmid</a>",
+      "\n<a href=\"http://duckduckgo.com/Duncan_Sheik\">Duncan Sheik</a> (born 1969), an American singer-songwriter and composer",
+      "\n<a href=\"http://duckduckgo.com/Sheikh\">Sheikh</a>, an honorific term in Arabic"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Islamist_militia_driven_out_of_Mogadishu,_vow_to_keep_fighting\" title=\"Islamist militia driven out of Mogadishu, vow to keep fighting\">Islamist militia driven out of Mogadishu, vow to keep fighting</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Five_hundred_Palestinian_prisoners_released_by_Israel\" title=\"Five hundred Palestinian prisoners released by Israel\">Five hundred Palestinian prisoners released by Israel</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/WWE_Hall_of_Fame_manager_Captain_Lou_Albano_dies_at_76\" title=\"WWE Hall of Fame manager Captain Lou Albano dies at 76\">WWE Hall of Fame manager Captain Lou Albano dies at 76</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Abu_Musab_al-Zarqawi_killed_in_airstrike\" title=\"Abu Musab al-Zarqawi killed in airstrike\">Abu Musab al-Zarqawi killed in airstrike</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Gunmen_with_rocket-launchers_massacre_60_at_market_in_Mahmoudiya,_Iraq\" title=\"Gunmen with rocket-launchers massacre 60 at market in Mahmoudiya, Iraq\">Gunmen with rocket-launchers massacre 60 at market in Mahmoudiya, Iraq</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sunnis_fighting_al-Qa%27eda_insurgents_in_Western_Iraq\" title=\"Sunnis fighting al-Qa&#39;eda insurgents in Western Iraq\">Sunnis fighting al-Qa&#39;eda insurgents in Western Iraq</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/700,000_march_in_Beirut;_Hezbollah_leader_lambasts_Bush_and_Rice\" title=\"700,000 march in Beirut; Hezbollah leader lambasts Bush and Rice\">700,000 march in Beirut; Hezbollah leader lambasts Bush and Rice</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Israel-Palestine_ceasefire_begins_with_violence\" title=\"Israel-Palestine ceasefire begins with violence\">Israel-Palestine ceasefire begins with violence</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Somali_al-Shabaab_group_seizes_three_towns\" title=\"Somali al-Shabaab group seizes three towns\">Somali al-Shabaab group seizes three towns</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Judge_known_for_jailing_pirates_shot_dead_in_Bossaso,_Somalia\" title=\"Judge known for jailing pirates shot dead in Bossaso, Somalia\">Judge known for jailing pirates shot dead in Bossaso, Somalia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Crown_Prince_of_Kuwait_admitted_to_hospital\" title=\"Crown Prince of Kuwait admitted to hospital\">Crown Prince of Kuwait admitted to hospital</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Al-Qaeda_says_another_bin_Laden_tape_to_be_released\" title=\"Al-Qaeda says another bin Laden tape to be released\">Al-Qaeda says another bin Laden tape to be released</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mortar_raid_kills_15_in_Somalia\" title=\"Mortar raid kills 15 in Somalia\">Mortar raid kills 15 in Somalia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Violence_in_Somalia%27s_capital_kills_22_people\" title=\"Violence in Somalia&#39;s capital kills 22 people\">Violence in Somalia&#39;s capital kills 22 people</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hezbollah_attack_Israel;_Israeli_forces_cross_over_into_southern_Lebanon\" title=\"Hezbollah attack Israel; Israeli forces cross over into southern Lebanon\">Hezbollah attack Israel; Israeli forces cross over into southern Lebanon</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hezbollah-Israel_war_continues_for_a_third_day\" title=\"Hezbollah-Israel war continues for a third day\">Hezbollah-Israel war continues for a third day</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Al-Jazeera_airs_new_video_of_Ayman_al-Zawahri\" title=\"Al-Jazeera airs new video of Ayman al-Zawahri\">Al-Jazeera airs new video of Ayman al-Zawahri</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._airstrike_targeting_Ayman_al-Zawahiri_leaves_18_dead_in_Pakistani_village\" title=\"U.S. airstrike targeting Ayman al-Zawahiri leaves 18 dead in Pakistani village\">U.S. airstrike targeting Ayman al-Zawahiri leaves 18 dead in Pakistani village</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mohammad_Khatami_meets_Pope_Benedict_XVI\" title=\"Mohammad Khatami meets Pope Benedict XVI\">Mohammad Khatami meets Pope Benedict XVI</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Al_Jazeera_English_news_channel_to_go_live_today\" title=\"Al Jazeera English news channel to go live today\">Al Jazeera English news channel to go live today</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373468622,
+   "book" : [],
+   "micro-www" : {
+      "sheik" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Sheik' or 'The Sheik' may refer to:\n* Sheikh, an honorific term in Arabic\n* Duncan Sheik (born 1969), an American singer-songwriter and composer\n* ''The Sheik'' (film), a 1921 silent film starring Rudolph Valentino\n* ''The Sheik'' (novel), by Edith Maude Hull, on which the film is based\n* \"The Sheik of Araby\", a 1921 pop tune composed in response to the film\n* Sheik (Legend of Zelda), a disguise of Princess Zelda in Ocarina of Time\n* Sheik condoms, introduced by Jules Schmid\n",
+      "title" : "sheik",
+      "headings" : [
+         "{{anchor|Professional wrestling}} Professional wrestling",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Sheikh",
+      "1: Duncan_Sheik",
+      "1: The_Sheik_of_Araby",
+      "1: Sheik_condoms",
+      "1: Jules_Schmid",
+      "1: Ed_Farhat",
+      "1: Iron_Sheik",
+      "1: Joseph_Cabibbo",
+      "1: Shawn_Daivari"
+   ]
+}

@@ -1,0 +1,79 @@
+{
+   "micrownet" : [
+      "reject",
+      "rejected",
+      "rejection",
+      "rejective"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Rejection",
+      "HASH(0x1a613a8)",
+      "Wikipedia",
+      "Rejection",
+      "\n<a href=\"http://duckduckgo.com/tremors_(film)\">Perfection, Nevada</a>, a fictional town in the Tremors film and T.V. series, originally named Rejection",
+      "http://www.merriam-webster.com/dictionary/rejection",
+      "rejection definition: the action of rejecting.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Transplant_rejection\">Transplant rejection</a>, in medicine, the immune reaction of a host organism to a foreign biological tissue, such as in a transplantation",
+      "HASH(0x49b3218)",
+      "\n<a href=\"http://duckduckgo.com/Social_rejection\">Social rejection</a>, in psychology, an interpersonal situation that occurs when a person or group of people exclude an individual from a social relationship",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Afghanistan%27s_parliament_rejects_Karzai%27s_cabinet_nominations\" title=\"Afghanistan&#39;s parliament rejects Karzai&#39;s cabinet nominations\">Afghanistan&#39;s parliament <span class=\"searchmatch\">rejects</span> Karzai&#39;s cabinet nominations</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Despite_threats,_%22Alaska_Women_Reject_Palin%22_rally_held\" title=\"Despite threats, &quot;Alaska Women Reject Palin&quot; rally held\">Despite threats, &quot;Alaska Women <span class=\"searchmatch\">Reject</span> Palin&quot; rally held</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Church_of_England_rejects_compromise_over_women_bishops\" title=\"Church of England rejects compromise over women bishops\">Church of England <span class=\"searchmatch\">rejects</span> compromise over women bishops</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ian_Paisley_rejects_Sinn_Fein_nomination\" title=\"Ian Paisley rejects Sinn Fein nomination\">Ian Paisley <span class=\"searchmatch\">rejects</span> Sinn Fein nomination</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/ICANN_rejects_.xxx_top-level_domain_name_proposal\" title=\"ICANN rejects .xxx top-level domain name proposal\">ICANN <span class=\"searchmatch\">rejects</span> .xxx top-level domain name proposal</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_York%27s_highest_court_upholds_gay_marriage_ban\" title=\"New York&#39;s highest court upholds gay marriage ban\">New York&#39;s highest court upholds gay marriage ban</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_York_state_rejects_gay_marriage\" title=\"New York state rejects gay marriage\">New York state <span class=\"searchmatch\">rejects</span> gay marriage</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Local_council_in_Australia_rejects_McDonald%27s_development_plan\" title=\"Local council in Australia rejects McDonald&#39;s development plan\">Local council in Australia <span class=\"searchmatch\">rejects</span> McDonald&#39;s development plan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Blair_rejects_anti-terror_bill_compromise\" title=\"Blair rejects anti-terror bill compromise\">Blair <span class=\"searchmatch\">rejects</span> anti-terror bill compromise</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Israel_rejects_U.S._call_for_freeze_on_West_Bank_settlements\" title=\"Israel rejects U.S. call for freeze on West Bank settlements\">Israel <span class=\"searchmatch\">rejects</span> U.S. call for freeze on West Bank settlements</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Swiss_reject_single_health_insurance\" title=\"Swiss reject single health insurance\">Swiss <span class=\"searchmatch\">reject</span> single health insurance</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/European_Parliament_rejects_computer-implemented_inventions_directive\" title=\"European Parliament rejects computer-implemented inventions directive\">European Parliament <span class=\"searchmatch\">rejects</span> computer-implemented inventions directive</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/TWU_members_reject_contract\" title=\"TWU members reject contract\">TWU members <span class=\"searchmatch\">reject</span> contract</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ireland_rejects_EU_Lisbon_Treaty\" title=\"Ireland rejects EU Lisbon Treaty\">Ireland <span class=\"searchmatch\">rejects</span> EU Lisbon Treaty</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tokelau_voters_reject_self-rule\" title=\"Tokelau voters reject self-rule\">Tokelau voters <span class=\"searchmatch\">reject</span> self-rule</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Syrian_minister_rejects_proposed_U.N._resolution\" title=\"Syrian minister rejects proposed U.N. resolution\">Syrian minister <span class=\"searchmatch\">rejects</span> proposed U.N. resolution</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bolivia_rejects_Chile%27s_OAS_candidate\" title=\"Bolivia rejects Chile&#39;s OAS candidate\">Bolivia <span class=\"searchmatch\">rejects</span> Chile&#39;s OAS candidate</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Israeli_parliament_rejects_disengagement_referendum\" title=\"Israeli parliament rejects disengagement referendum\">Israeli parliament <span class=\"searchmatch\">rejects</span> disengagement referendum</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Iran_rejects_EU_nuclear_reactor_offer\" title=\"Iran rejects EU nuclear reactor offer\">Iran <span class=\"searchmatch\">rejects</span> EU nuclear reactor offer</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_House_of_Representatives_rejects_bail_out_bill_in_vote\" title=\"US House of Representatives rejects bail out bill in vote\">US House of Representatives <span class=\"searchmatch\">rejects</span> bail out bill in vote</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Israel_cabinet_rejects_UN_war_crimes_report\" title=\"Israel cabinet rejects UN war crimes report\">Israel cabinet <span class=\"searchmatch\">rejects</span> UN war crimes report</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373466510,
+   "book" : [],
+   "micro-www" : {
+      "reject" : [
+         "rejection",
+         "rejected",
+         "reject",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\nThe word \"rejection\" was first used in 1415.<ref>Oxford English Dictionary\nhttp://www.oed.com/view/Entry/161727?redirectedFrom=rejection#</ref> The\noriginal meaning was \"to throw\" or \"to throw back\".\n\n'Rejection' may mean:\n* Social rejection, in psychology, an interpersonal situation that occurs when a\n  person or group of people exclude an individual from a social relationship\n* Transplant rejection, in medicine, the immune reaction of a host organism to a\n  foreign biological tissue, such as in a transplantation\n* In telecommunications, rejection is the receiving of the desired signal\n  without interference from another undesired one.\n* In basketball, rejection is a slang term for a block\n* In mathematics, the rejection of a vector 'a' from a vector 'b' is the\n  component of 'a' perpendicular to 'b', as opposed to its projection, which is\n  parallel to 'b'.\n* In statistics, rejection sampling is a technique used to generate observations\n  from a distribution\n* In zoology, the shunning of one or more animals in a litter\n\n'Rejection' may also refer to:\n* A song by Martin Solveig\n* Perfection, Nevada, a fictional town in the Tremors film and T.V. series,\n  originally named Rejection\n",
+      "title" : "Rejection",
+      "headings" : [
+         "Notes"
+      ]
+   },
+   "micro-relation" : [
+      "1: Social_rejection",
+      "1: Transplant_rejection",
+      "1: Electronic_selectivity",
+      "1: Vector_rejection",
+      "1: Rejection_sampling",
+      "1: Martin_Solveig",
+      "1: Perfection,_Nevada"
+   ]
+}

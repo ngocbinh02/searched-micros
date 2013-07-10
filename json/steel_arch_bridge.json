@@ -1,0 +1,32 @@
+{
+   "micrownet" : [
+      "steel_arch_bridge"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Highway_bridge_in_Minneapolis,_Minnesota,_collapses\" title=\"Highway bridge in Minneapolis, Minnesota, collapses\">Highway <span class=\"searchmatch\">bridge</span> in Minneapolis, Minnesota, collapses</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373468114,
+   "book" : [],
+   "micro-www" : {
+      "steel_arch_bridge" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "#REDIRECTThrough arch bridge\n",
+      "title" : "steel arch bridge",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Through_arch_bridge"
+   ]
+}

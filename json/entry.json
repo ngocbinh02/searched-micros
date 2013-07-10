@@ -1,0 +1,86 @@
+{
+   "micrownet" : [
+      "accounting_entry",
+      "adjusting_entry",
+      "credit_entry",
+      "debit_entry",
+      "dictionary_entry",
+      "double_entry",
+      "entry",
+      "entry_word",
+      "entryway",
+      "ledger_entry",
+      "lexical_entry",
+      "main_entry_word",
+      "notebook_entry",
+      "single_entry"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Entry",
+      "HASH(0x4a51710)",
+      "Wikipedia",
+      "Entry",
+      "http://www.merriam-webster.com/dictionary/entry",
+      "\n<a href=\"http://duckduckgo.com/Entry_(cards)\">Entry (cards)</a>, a term used in trick-taking card-games",
+      "entry definition: the right or privilege of entering.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Entry%2C_West_Virginia\">Entry, West Virginia</a>, an unincorporated community in the United States",
+      "\n<a href=\"http://duckduckgo.com/Entry_(economics)\">Entry (economics)</a>, a term in connection with markets",
+      "HASH(0x4a1c520)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Entry_(film)\">Entry (film)</a>, a 2013 Indian Malayalam film"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Colombian_journalist_denied_entry_into_US\" title=\"Colombian journalist denied entry into US\">Colombian journalist denied <span class=\"searchmatch\">entry</span> into US</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Racing_-_Elvstroem_a_surprise_entry_at_Newbury\" title=\"Racing - Elvstroem a surprise entry at Newbury\">Racing - Elvstroem a surprise <span class=\"searchmatch\">entry</span> at Newbury</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/North_Korea_denies_entry_of_IAEA_inspectors\" title=\"North Korea denies entry of IAEA inspectors\">North Korea denies <span class=\"searchmatch\">entry</span> of IAEA inspectors</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Wikipedia_and_Britannica_about_as_accurate_in_science_entries,_reports_Nature\" title=\"Wikipedia and Britannica about as accurate in science entries, reports Nature\">Wikipedia and Britannica about as accurate in science <span class=\"searchmatch\">entries</span>, reports Nature</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._warships_temporarily_denied_entry_to_Hong_Kong\" title=\"U.S. warships temporarily denied entry to Hong Kong\">U.S. warships temporarily denied <span class=\"searchmatch\">entry</span> to Hong Kong</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._team_unveils_plans_for_F1_entry_in_2010\" title=\"U.S. team unveils plans for F1 entry in 2010\">U.S. team unveils plans for F1 <span class=\"searchmatch\">entry</span> in 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ex-wife_of_Nelson_Mandela_denied_entry_into_Canada\" title=\"Ex-wife of Nelson Mandela denied entry into Canada\">Ex-wife of Nelson Mandela denied <span class=\"searchmatch\">entry</span> into Canada</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Greece_wins_2005_Eurovision_song_contest\" title=\"Greece wins 2005 Eurovision song contest\">Greece wins 2005 Eurovision song contest</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Premier_Iemma_apologises_to_Indonesian_governor_over_hotel_entry_incident\" title=\"Premier Iemma apologises to Indonesian governor over hotel entry incident\">Premier Iemma apologises to Indonesian governor over hotel <span class=\"searchmatch\">entry</span> incident</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/International_exhibit_of_chair_art_starts_in_Canada\" title=\"International exhibit of chair art starts in Canada\">International exhibit of chair art starts in Canada</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_ships_attempt_to_break_blockade_of_Gaza\" title=\"New ships attempt to break blockade of Gaza\">New ships attempt to break blockade of Gaza</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ireland_demands_entry_for_Irish_aid_ship_to_Gaza\" title=\"Ireland demands entry for Irish aid ship to Gaza\">Ireland demands <span class=\"searchmatch\">entry</span> for Irish aid ship to Gaza</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Gallery_seeks_Control_themed_mail_art_for_exhibit\" title=\"Gallery seeks Control themed mail art for exhibit\">Gallery seeks Control themed mail art for exhibit</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/MV_Rachel_Corrie_seized_by_Israeli_Naval_Forces\" title=\"MV Rachel Corrie seized by Israeli Naval Forces\">MV Rachel Corrie seized by Israeli Naval Forces</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ireland_demands_entry_for_Irish_aid_ship_to_Gaza\" title=\"Ireland demands entry for Irish aid ship to Gaza\">Ireland demands <span class=\"searchmatch\">entry</span> for Irish aid ship to Gaza</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Cyprus_and_Malta_to_adopt_the_euro\" title=\"Cyprus and Malta to adopt the euro\">Cyprus and Malta to adopt the euro</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Soyuz_TMA-11_spacecraft_lands\" title=\"Soyuz TMA-11 spacecraft lands\">Soyuz TMA-11 spacecraft lands</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Serbia_wins_Eurovision_Song_Contest_2007\" title=\"Serbia wins Eurovision Song Contest 2007\">Serbia wins Eurovision Song Contest 2007</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Encyclop%C3%A6dia_Britannica_fights_back_against_Wikipedia,_soon_to_let_users_edit_contents\" title=\"Encyclopædia Britannica fights back against Wikipedia, soon to let users edit contents\">Encyclopædia Britannica fights back against Wikipedia, soon to let users edit contents</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:January,_2005\" title=\"News briefs:January, 2005\">News briefs:January, 2005</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Secret_Service_discovers_third_uninvited_guest_at_White_House_dinner\" title=\"US Secret Service discovers third uninvited guest at White House dinner\">US Secret Service discovers third uninvited guest at White House dinner</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Google_starts_prefetching_top_search_results_for_Mozilla_and_Firefox_browsers\" title=\"Google starts prefetching top search results for Mozilla and Firefox browsers\">Google starts prefetching top search results for Mozilla and Firefox browsers</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464944,
+   "book" : [],
+   "micro-www" : {
+      "entry" : [
+         "entry",
+         "Entry_(film)",
+         "Entry_(economics)",
+         "Entry_(cards)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Entry' may refer to: *Entry, West Virginia, an unincorporated community in the\nUnited States *Entry (cards), a term used in trick-taking card-games *Entry\n(economics), a term in connection with markets *''Entry'' (film), a 2013 Indian\nMalayalam film\n",
+      "title" : "entry",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Entry,_West_Virginia"
+   ]
+}

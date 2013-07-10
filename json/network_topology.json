@@ -1,0 +1,93 @@
+{
+   "micrownet" : [
+      "network_topology"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373470179,
+   "book" : [],
+   "micro-www" : {
+      "network_topology" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Network topology|",
+         "Decentralization"
+      ],
+      "text" : "\n'Network topology' is the arrangement of the various elements (links, nodes,\netc.) of a computer<ref name=\"Groth\">{{Cite book |last =Groth |first = David\n|coauthors = Toby Skandier |title = Network+ Study Guide, Fourth Edition'\n|publisher = Sybex, Inc. |year = 2005 |isbn = 0-7821-4406-3 }}</ref><ref\nname=\"atis\">{{Cite web\n|url=http://www.atis.org/glossary/definition.aspx?id=3516|title=mesh topology\n\n|author=ATIS committee PRQC |publisher=Alliance for Telecommunications Industry\nSolutions |work=ATIS Telecom Glossary 2007 |accessdate=2008-10-10 }}</ref> or\nbiological network.<ref name=\"Proulx05\"></ref> Essentially, it is the\ntopological<ref name=\"Chiang04\"></ref> structure of a network, and may be\ndepicted physically or logically. Physical topology refers to the placement of\nthe network's various components, including device location and cable\ninstallation, while ''logical'' topology shows how data flows within a network,\nregardless of its physical design. Distances between nodes, physical\ninterconnections, transmission rates, and/or signal types may differ between two\nnetworks, yet their topologies may be identical.\n\nA good example is a local area network (LAN): Any given node in the LAN has one\nor more physical links to other devices in the network; graphically mapping\nthese links results in a geometric shape that can be used to describe the\nphysical topology of the network. Conversely, mapping the data flow between the\ncomponents determines the logical topology of the network.\n",
+      "title" : "network topology",
+      "headings" : [
+         "Topology",
+         "Centralization",
+         "Decentralization",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Computer_network",
+      "2: Media_Access_Unit",
+      "2: Electrical_termination",
+      "1: Data_link",
+      "1: Alliance_for_Telecommunications_Industry_Solutions",
+      "1: Biological_network",
+      "1: Topological",
+      "1: Logical_topology",
+      "1: Local_area_network",
+      "1: Structured_cabling",
+      "1: Twisted_pair_Ethernet",
+      "1: Repeater_hub",
+      "1: Token_Ring",
+      "1: Media_Access_Control",
+      "1: Telephony",
+      "1: Metcalfe's_Law",
+      "1: Tin_can_telephone",
+      "1: Switched_telecommunications_systems",
+      "1: Circuit-switching",
+      "1: Packet-switching",
+      "1: Single_point_of_failure",
+      "1: Backbone_network",
+      "1: Data",
+      "1: Transmitted",
+      "1: Repeater",
+      "1: Reed's_Law",
+      "1: Communication_network",
+      "1: Packet_switching",
+      "1: Naval_Postgraduate_School",
+      "1: High-performance_computing",
+      "1: Genetic_algorithm",
+      "1: Ethernet",
+      "1: Network_hub",
+      "1: Failure",
+      "1: Transmission_line",
+      "1: Round-trip_time",
+      "1: Transmission_time",
+      "1: Hierarchy",
+      "1: Network_switch",
+      "1: Data_packets",
+      "1: Lookup_table",
+      "1: Hypercube",
+      "1: Torus",
+      "1: Military",
+      "1: Shared_mesh",
+      "1: Switched_mesh",
+      "1: Scale-free_network",
+      "1: Computer_network_diagram",
+      "1: Relay_network",
+      "1: Tree_structure",
+      "1: Internet_topology",
+      "1: Network_simulator",
+      "1: Switched_communication_network",
+      "1: Broadcast_communication_network"
+   ]
+}

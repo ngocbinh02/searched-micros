@@ -1,0 +1,95 @@
+{
+   "micrownet" : [
+      "dichromic_acid"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373468841,
+   "book" : [],
+   "micro-www" : {
+      "dichromic_acid" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Hydrogen compounds",
+         "Chromates",
+         "Oxidizing agents",
+         "Oxidizing acids",
+         "Mineral acids"
+      ],
+      "text" : "{{Chembox\n| verifiedrevid = 445248284 ImageFile = ChromicAcid.png ImageFile_Ref =\n| ImageSize = 260 ImageName = Structural formulae of dichromic acid (left) and\n| chromic acid (right) IUPACName = Chromic acid SystematicName =\n| Dihydroxidodioxidochromium OtherNames = Chromic(VI) acid<br />Tetraoxochromic\n| acid Section1 = {{Chembox Identifiers CASNo = 7738-94-5 CASNo_Ref = PubChem =\n| 24425 PubChem_Ref = ChemSpiderID = 22834 ChemSpiderID_Ref = EINECS = 231-801-5\n| ChEBI_Ref = ChEBI = 33143 Gmelin = 25982 SMILES = O[Cr](O)(=O)=O SMILES1 =\n| O=[Cr](=O)(O)O StdInChI = 1S/Cr.2H2O.2O/h;2*1H2;;/q+2;;;;/p-2 StdInChI_Ref =\n| InChI = 1/Cr.2H2O.2O/h;2*1H2;;/q+2;;;;/p-2/rCrH2O4/c2-1(3,4)5/h2-3H\n| StdInChIKey = KRVSOGSZCMJSLX-UHFFFAOYSA-L StdInChIKey_Ref = InChIKey = KRVSOGSZCMJSLX-\n| OOUCQFSRAZ}} Section2 = {{Chembox Properties H = 2 Cr = 1 O = 4 ExactMass =\n| 117.935820456 g mol<sup>-1</sup> Appearance = Red crystals Density = 1.201 g\n| cm<sup>-3</sup> MeltingPtC = 197 BoilingPtC = 250 Boiling_notes = decomposes\n| Solubility = 1666.6 g dm<sup>-3</sup>}}\n}} The term 'chromic acid' is usually used for a mixture made by adding\nconcentrated sulfuric acid to a dichromate, which may contain a variety of\ncompounds, including solid chromium trioxide. This kind of chromic acid may be\nused as a cleaning mixture for glass. Chromic acid may also refer to the\nmolecular species, H<sub>2</sub>CrO<sub>4</sub> of which the trioxide is the\nanhydride. Chromic acid features chromium in an oxidation state of +6 (or VI).\nIt is a strong and corrosive oxidising agent.\n",
+      "title" : "Chromic%20acid%23Dichromic%20acid",
+      "headings" : [
+         "Molecular chromic acid",
+         "Dichromic acid",
+         "Uses",
+         "Reactions",
+         "Safety",
+         "Notes",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "3: Sulfuric_acid",
+      "3: Aldehyde",
+      "2: Acidic_oxide",
+      "2: Pyridine",
+      "2: Collins_reagent",
+      "2: Carboxylic_acid",
+      "2: Ketone",
+      "2: Alcohol",
+      "1: Dichromate",
+      "1: Chromium_trioxide",
+      "1: Oxidation_state",
+      "1: Oxidising_agent",
+      "1: Strong_acid",
+      "1: Acid_dissociation_constant",
+      "1: Ionic_strength",
+      "1: Weak_acid",
+      "1: Contact_process",
+      "1: Dehydration_reaction",
+      "1: Charge-transfer_complex",
+      "1: Lewis_acid",
+      "1: Dichloromethane",
+      "1: Oxidizing_agent",
+      "1: Tube_cleaning",
+      "1: Laboratory_glassware",
+      "1: Paramagnetic",
+      "1: NMR_spectroscopy",
+      "1: NMR_tubes",
+      "1: Brass",
+      "1: Patina",
+      "1: Organic_compound",
+      "1: Acetone",
+      "1: Jones_reagent",
+      "1: Alcohols",
+      "1: Pyridinium_chlorochromate",
+      "1: Pyridinium_chloride",
+      "1: Chromyl_chloride",
+      "1: Methylbenzene",
+      "1: Benzoic_acid",
+      "1: Indene",
+      "1: Homophthalic_acid",
+      "1: Organic_chemistry",
+      "1: Solution",
+      "1: Tertiary_alcohol",
+      "1: Oxidation",
+      "1: Secondary_alcohol",
+      "1: Sodium_hypochlorite",
+      "1: Oxidant",
+      "1: Hexavalent_chromium",
+      "1: Toxic",
+      "1: Carcinogenic",
+      "1: PDF"
+   ]
+}

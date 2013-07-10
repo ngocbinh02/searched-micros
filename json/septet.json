@@ -1,0 +1,91 @@
+{
+   "micrownet" : [
+      "septet",
+      "septette"
+   ],
+   "duck" : [
+      "A septet is a formation containing exactly seven members.",
+      "https://en.wikipedia.org/wiki/Septet",
+      "HASH(0x4b1b170)",
+      "Wikipedia",
+      "Septet",
+      "http://www.merriam-webster.com/dictionary/septet",
+      "septet definition: a musical composition for seven instruments or voices.",
+      "Merriam-Webster",
+      "HASH(0x4b1bb10)",
+      "A septet is a formation containing exactly seven members.",
+      "A",
+      "\n<a href=\"http://duckduckgo.com/c/Musical_groups_by_numbers\">Musical groups by numbers</a>"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Kenyan_court_jails_seven_pirates_for_2009_attempted_hijack_of_Maltese_ship\" title=\"Kenyan court jails seven pirates for 2009 attempted hijack of Maltese ship\">Kenyan court jails seven pirates for 2009 attempted hijack of Maltese ship</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:August_4,_2010\" title=\"News briefs:August 4, 2010\">News briefs:August 4, 2010</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464514,
+   "book" : [],
+   "micro-www" : {
+      "septet" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Musical groups by numbers|7"
+      ],
+      "text" : "\n\nA 'septet' is a formation containing exactly seven members. It is commonly\nassociated with musical groups, but can be applied to any situation where seven\nsimilar or related objects are considered a single unit, such as a seven-line\nstanza of poetry.\n\nIn jazz music a septet is any group of seven players, usually containing a drum\nset, string bass or electric bass, and groups of one or two of the following\ninstruments, guitar, piano, trumpet, saxophone, clarinet, or trombone.\n\nOne of the most famous classical septets is the Septet in E-flat major, Op. 20,\nby Ludwig van Beethoven, composed around 1799–1800, for clarinet, bassoon,\nFrench horn, violin, viola, cello, and double bass. The popularity of\nBeethoven's septet made its combination of instruments a standard for subsequent\ncomposers, including Conradin Kreutzer (Op. 62, 1822), Franz Berwald,and Adolphe\nBlanc (Op. 40, ca. 1864), and, with small changes in the instrumentation, Franz\nLachner (1824), and Max Bruch (1849). When Franz Schubert added a second violin\nin 1824, he created a standard octet that influenced many other subsequent\ncomposers (Kube 2001). The Septet in E-flat major, Op. 65, for trumpet, piano,\nstring quartet, and double bass by Camille Saint-Saëns from 1881 is one of that\ncomposer's works. The modern composer Bohuslav Martinů wrote three septets: a\ngroup of six dances called Les Rondes for oboe, clarinet, bassoon, trumpet, two\nviolins, and piano (1930); a piece called Serenade No. 3 for oboe, clarinet,\nfour violins, and cello (1932); and a Fantasie for theremin, oboe, piano, and\nstring quartet (1944). Darius Milhaud composed a String Septet in 1964 for\nstring sextet and double bass. Paul Hindemith composed a wind septet in 1948 for\nflute, oboe, clarinet, bass clarinet, bassoon, horn, and trumpet.\n\nThere are many 20th-century works for seven instruments for which it is\nuncertain whether the term \"septet\" should be used, since they may not obviously\nbe chamber music or have titles indicating otherwise. Examples include Maurice\nRavel's [[Introduction and Allegro (Ravel)|Introduction and Allegro]] (1905),\nRudi Stephan's Music for Seven String Instruments (1911), Leoš Janáček's\nConcertino (1925), Arnold Schoenberg's Suite, Op. 29 (1925–26), Isang Yun's\nMusic for Seven Instruments (1959), Aribert Reimann's Reflexionen (1966), and\nDieter Schnebel's In motu proprio canon for seven instruments of the same kind\n(1975) (Kube 2001).\n",
+      "title" : "septet",
+      "headings" : [
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Piano",
+      "2: Trumpet",
+      "1: Jazz_music",
+      "1: Drum_set",
+      "1: String_bass",
+      "1: Bass_guitar",
+      "1: Guitar",
+      "1: Saxophone",
+      "1: Clarinet",
+      "1: Trombone",
+      "1: Ludwig_van_Beethoven",
+      "1: Soprano_clarinet",
+      "1: Bassoon",
+      "1: Violin",
+      "1: Viola",
+      "1: Cello",
+      "1: Double_bass",
+      "1: Conradin_Kreutzer",
+      "1: Franz_Berwald",
+      "1: Adolphe_Blanc",
+      "1: Franz_Lachner",
+      "1: Max_Bruch",
+      "1: Franz_Schubert",
+      "1: String_quartet",
+      "1: Camille_Saint-SaÃ«ns",
+      "1: Bohuslav_MartinÅ¯",
+      "1: Oboe",
+      "1: Theremin",
+      "1: Darius_Milhaud",
+      "1: String_sextet",
+      "1: Paul_Hindemith",
+      "1: Flute",
+      "1: Bass_clarinet",
+      "1: Maurice_Ravel",
+      "1: Rudi_Stephan",
+      "1: LeoÅ¡_JanÃ¡Äek",
+      "1: Arnold_Schoenberg",
+      "1: Isang_Yun",
+      "1: Aribert_Reimann",
+      "1: Dieter_Schnebel",
+      "1: Stanley_Sadie"
+   ]
+}

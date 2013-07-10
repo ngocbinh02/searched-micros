@@ -1,0 +1,76 @@
+{
+   "micrownet" : [
+      "monetary_system"
+   ],
+   "duck" : [
+      "HASH(0x4c3c528)",
+      "HASH(0x4bae570)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Asian_countries_call_for_global_currency\" title=\"Asian countries call for global currency\">Asian countries call for global currency</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Business_Briefs_for_December_4,_2005\" title=\"Business Briefs for December 4, 2005\">Business Briefs for December 4, 2005</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Iceland_nationalises_Kaupthing_Bank\" title=\"Iceland nationalises Kaupthing Bank\">Iceland nationalises Kaupthing Bank</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Californian_computer_company_lodges_antitrust_suit_against_Microsoft\" title=\"Californian computer company lodges antitrust suit against Microsoft\">Californian computer company lodges antitrust suit against Microsoft</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Iceland%27s_coalition_government_falls_in_economic_crisis\" title=\"Iceland&#39;s coalition government falls in economic crisis\">Iceland&#39;s coalition government falls in economic crisis</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/California_governor_Schwarzenegger_presents_new_budget_plan\" title=\"California governor Schwarzenegger presents new budget plan\">California governor Schwarzenegger presents new budget plan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Russia_asks_Iceland_for_details_of_bank_rescue_plan_before_giving_loan\" title=\"Russia asks Iceland for details of bank rescue plan before giving loan\">Russia asks Iceland for details of bank rescue plan before giving loan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ontario_Votes_2007:_Interview_with_Green_Party_candidate_Lloyd_Helferty,_Thornhill\" title=\"Ontario Votes 2007: Interview with Green Party candidate Lloyd Helferty, Thornhill\">Ontario Votes 2007: Interview with Green Party candidate Lloyd Helferty, Thornhill</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Concerns_about_health_situation_in_UK_and_Austria\" title=\"Concerns about health situation in UK and Austria\">Concerns about health situation in UK and Austria</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_MPs_suggest_Australia_and_New_Zealand_unification\" title=\"Australian MPs suggest Australia and New Zealand unification\">Australian MPs suggest Australia and New Zealand unification</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Romanian_economy_booms_in_2004\" title=\"Romanian economy booms in 2004\">Romanian economy booms in 2004</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/KKE:_Interview_with_the_Greek_Communist_Party\" title=\"KKE: Interview with the Greek Communist Party\">KKE: Interview with the Greek Communist Party</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Markets_down_across_the_world;_Dow_Jones_falls_below_9,000\" title=\"Markets down across the world; Dow Jones falls below 9,000\">Markets down across the world; Dow Jones falls below 9,000</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Global_markets_plunge\" title=\"Global markets plunge\">Global markets plunge</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/One_year_on:_Egyptians_mark_anniversary_of_protests_that_toppled_Mubarak\" title=\"One year on: Egyptians mark anniversary of protests that toppled Mubarak\">One year on: Egyptians mark anniversary of protests that toppled Mubarak</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canadian_Government_apologises_for_Residential_Schools\" title=\"Canadian Government apologises for Residential Schools\">Canadian Government apologises for Residential Schools</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_Prime_Minister:_The_world_will_enter_a_recession\" title=\"UK Prime Minister: The world will enter a recession\">UK Prime Minister: The world will enter a recession</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465755,
+   "book" : [],
+   "micro-www" : {
+      "monetary_system" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Finance",
+         "Monetary economics",
+         "Monetary reform",
+         "Economics terminology",
+         "Business terms",
+         "Commerce"
+      ],
+      "text" : "\n\nA 'monetary system' is a set of policy tools and institutions through which a\ngovernment provides money and controls the money supply in an economy.<ref>[http://www.businessdictionary.com/definition/monetary-\nsystem.html]</ref>\n",
+      "title" : "monetary system",
+      "headings" : [
+         "Commodity money system",
+         "Fiat money",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Money_supply",
+      "2: Legal_tender",
+      "1: Money",
+      "1: Gold_standard",
+      "1: Commodity",
+      "1: Gold",
+      "1: Bimetallism",
+      "1: Silver",
+      "1: Fiat_money",
+      "1: Central_bank",
+      "1: International_monetary_systems",
+      "1: Monetary_economics",
+      "1: Monetarism"
+   ]
+}

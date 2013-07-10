@@ -1,0 +1,120 @@
+{
+   "micrownet" : [
+      "absolute_value",
+      "acid_value",
+      "book_value",
+      "cash_surrender_value",
+      "economic_value",
+      "expected_value",
+      "face_value",
+      "market_value",
+      "mean_value",
+      "median_value",
+      "modal_value",
+      "monetary_value",
+      "nominal_value",
+      "note_value",
+      "nuisance_value",
+      "numerical_value",
+      "par_value",
+      "physical_value",
+      "scale_value",
+      "time_value",
+      "value",
+      "value-added_tax",
+      "value-system",
+      "value_judgement",
+      "value_judgment",
+      "value_orientation",
+      "value_statement",
+      "valued",
+      "valueless",
+      "valuelessness",
+      "valuer",
+      "values"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Value_(personal_and_cultural)\">Value (personal and cultural)</a> - A personal value is absolute or relative and ethical value, the assumption of which can be the basis for ethical action.",
+      "\n<a href=\"http://duckduckgo.com/Value_theory\">Value theory</a>, overview of approaches in various disciplines",
+      "\n<a href=\"http://duckduckgo.com/Value_investing\">Value investing</a>, an investment paradigm",
+      "Value",
+      "http://www.merriam-webster.com/dictionary/value",
+      "value definition: a fair return or equivalent in goods, services, or money for something exchanged.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Global_markets_surge_in_value\" title=\"Global markets surge in value\">Global markets surge in <span class=\"searchmatch\">value</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Zealand_National_Party_only_wants_immigrants_of_%22bedrock_values%22\" title=\"New Zealand National Party only wants immigrants of &quot;bedrock values&quot;\">New Zealand National Party only wants immigrants of &quot;bedrock <span class=\"searchmatch\">values</span>&quot;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Australian_Values%27_to_be_taught_in_NSW_schools\" title=\"&#39;Australian Values&#39; to be taught in NSW schools\">&#39;Australian <span class=\"searchmatch\">Values</span>&#39; to be taught in NSW schools</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Khamenei_criticizes_%22materialistic_values%22_for_mistreatment_of_workers\" title=\"Khamenei criticizes &quot;materialistic values&quot; for mistreatment of workers\">Khamenei criticizes &quot;materialistic <span class=\"searchmatch\">values</span>&quot; for mistreatment of workers</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Proposed_U.S._legislation_seeks_to_push_China_to_raise_the_value_of_yuan\" title=\"Proposed U.S. legislation seeks to push China to raise the value of yuan\">Proposed U.S. legislation seeks to push China to raise the <span class=\"searchmatch\">value</span> of yuan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/French_presidential_candidate_Sarkozy_accuses_left_parties_of_betraying_left_values\" title=\"French presidential candidate Sarkozy accuses left parties of betraying left values\">French presidential candidate Sarkozy accuses left parties of betraying left <span class=\"searchmatch\">values</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Works_valued_at_%E2%82%AC100_million_stolen_from_the_Mus%C3%A9e_d%27Art_Moderne_de_la_Ville_de_Paris\" title=\"Works valued at €100 million stolen from the Musée d&#39;Art Moderne de la Ville de Paris\">Works valued at €100 million stolen from the Musée d&#39;Art Moderne de la Ville de Paris</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_dollar_no_longer_accepted_at_Taj_Mahal_and_other_Indian_historical_sites\" title=\"US dollar no longer accepted at Taj Mahal and other Indian historical sites\">US dollar no longer accepted at Taj Mahal and other Indian historical sites</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canadian_dollar_reaches_parity_with_US_dollar\" title=\"Canadian dollar reaches parity with US dollar\">Canadian dollar reaches parity with US dollar</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Air_Independence_and_Libyan_Airlines_place_orders_for_Bombardier_aircraft_valued_at_$190_million\" title=\"Air Independence and Libyan Airlines place orders for Bombardier aircraft valued at $190 million\">Air Independence and Libyan Airlines place orders for Bombardier aircraft valued at $190 million</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_inflation_rate_increases_to_4%25\" title=\"UK inflation rate increases to 4%\">UK inflation rate increases to 4%</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Fears_grow_about_U.S._dollar_stability\" title=\"Fears grow about U.S. dollar stability\">Fears grow about U.S. dollar stability</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Fears_grow_about_U.S._dollar_value_stability\" title=\"Fears grow about U.S. dollar value stability\">Fears grow about U.S. dollar <span class=\"searchmatch\">value</span> stability</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/San_Francisco_Museum_of_Modern_Art_buys_Edward_Hopper_valued_at_over_$25_million\" title=\"San Francisco Museum of Modern Art buys Edward Hopper valued at over $25 million\">San Francisco Museum of Modern Art buys Edward Hopper valued at over $25 million</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Zealand_dollar_hits_new_high_versus_the_United_States_dollar\" title=\"New Zealand dollar hits new high versus the United States dollar\">New Zealand dollar hits new high versus the United States dollar</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Seven_arrested_in_UK_cruise_ship_drugs_seizure\" title=\"Seven arrested in UK cruise ship drugs seizure\">Seven arrested in UK cruise ship drugs seizure</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ontario_Votes_2007:_Interview_with_Green_Party_candidate_Lloyd_Helferty,_Thornhill\" title=\"Ontario Votes 2007: Interview with Green Party candidate Lloyd Helferty, Thornhill\">Ontario Votes 2007: Interview with Green Party candidate Lloyd Helferty, Thornhill</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_Airways_and_Iberia_agree_to_merge\" title=\"British Airways and Iberia agree to merge\">British Airways and Iberia agree to merge</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pentagon_proposes_Taiwanese_arms_sale\" title=\"Pentagon proposes Taiwanese arms sale\">Pentagon proposes Taiwanese arms sale</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_government_announces_cut_in_VAT\" title=\"UK government announces cut in VAT\">UK government announces cut in VAT</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Satanism:_An_interview_with_Church_of_Satan_High_Priest_Peter_Gilmore\" title=\"Satanism: An interview with Church of Satan High Priest Peter Gilmore\">Satanism: An interview with Church of Satan High Priest Peter Gilmore</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373467248,
+   "book" : [],
+   "micro-www" : {
+      "value" : [
+         "values",
+         "valued",
+         "Value_theory",
+         "Value_system",
+         "Value_of_time",
+         "Value_investing",
+         "Value_chain",
+         "Value_added_tax_identification_number",
+         "Value_added_tax",
+         "Value_(semiotics)",
+         "Value_(personal_and_cultural)",
+         "Value_(mathematics)",
+         "Value_(marketing)",
+         "Value_(law)",
+         "Value_(ethics)",
+         "Value_(economics)",
+         "Value_(computer_science)",
+         "Value",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Philosophy disambiguation",
+         "Axiology",
+         "Value"
+      ],
+      "text" : "\n'Value' or 'values' may refer to:\n",
+      "title" : "value",
+      "headings" : [
+         "Concepts of worth",
+         "Concepts of quantity, amount, or entity",
+         "Colour theory"
+      ]
+   },
+   "micro-relation" : [
+      "1: Value_theory",
+      "1: Value_investing",
+      "1: Note_value",
+      "1: Lightness"
+   ]
+}

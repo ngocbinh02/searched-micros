@@ -1,0 +1,57 @@
+{
+   "micrownet" : [
+      "cusk-eel"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373469506,
+   "book" : [],
+   "micro-www" : {
+      "cusk-eel" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Ophidiidae|"
+      ],
+      "text" : "{{Taxobox\n| name = Cusk-eels image = Spectrunculus grandis.jpg image_width = 240px\n| image_caption = Pudgy cusk-eel ([[Spectrunculus grandis]]) regnum = Animalia\n| phylum = Chordata classis = Actinopterygii subclassis = Neopterygii\n| infraclassis = Teleostei superordo = Paracanthopterygii ordo = Ophidiiformes\n| familia = 'Ophidiidae' familia_authority = Rafinesque, 1810 subdivision_ranks\n| = Subfamilies subdivision = See text\n}}\n\nThe 'cusk-eel' family ('Ophidiidae') is a group of marine bony fishes in the\norder Ophidiiformes. The scientific name is from the Greek ophis meaning\n\"snake\", and refers to their eel-like appearance. However, they can be\ndistinguished from true eels of the order Anguilliformes by the ventral fins,\nwhich are developed into a forked barbel-like organ below the mouth in the cusk-\neels; in the true eels by contrast they are never well-developed and usually\nmissing entirely.<ref></ref>\n\nThey are found in temperate and tropical oceans throughout the world. They live\nclose to the sea bottom, at below depth. One species, [[Abyssobrotula\ngalatheae]], was recorded at the bottom of the Puerto Rico trench, making it the\ndeepest recorded fish at .<ref name=EoF></ref>\n\nThe largest species, [[Lamprogrammus shcherbachevi]], grows up to in length, but\nmost species are shorter than a metre. Unlike their close relatives, the\nviviparous brotulas of the Bythitidae, they are egg-laying, and the larvae live\namongst the plankton, relatively close to the surface.<ref name=EoF/>\n\nA few species are fished commercially, most notably the pink cusk-eel,\nGenypterus blacodes.\n",
+      "title" : "Cusk-eels",
+      "headings" : [
+         "Genera",
+         "Gallery",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "6: Neobythitinae",
+      "2: Ophidiiformes",
+      "2: Eel",
+      "2: Ophidiinae",
+      "1: Animal",
+      "1: Chordate",
+      "1: Actinopterygii",
+      "1: Neopterygii",
+      "1: Teleostei",
+      "1: Paracanthopterygii",
+      "1: Constantine_Samuel_Rafinesque",
+      "1: Bony_fish",
+      "1: Scientific_name",
+      "1: Greek_language",
+      "1: Ventral_fin",
+      "1: Puerto_Rico_trench",
+      "1: Viviparous_brotula",
+      "1: Plankton",
+      "1: Pink_cusk-eel",
+      "1: Genera",
+      "1: Brotulinae"
+   ]
+}

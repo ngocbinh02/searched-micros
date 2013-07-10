@@ -1,0 +1,65 @@
+{
+   "micrownet" : [
+      "pounds_per_square_inch"
+   ],
+   "duck" : [
+      "HASH(0x497d8e0)",
+      "HASH(0x4cb78c8)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/ROV_detects_leaks_in_Deepwater_Horizon_well_cap\" title=\"ROV detects leaks in Deepwater Horizon well cap\">ROV detects leaks in Deepwater Horizon well cap</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Metal_press_crushes_Illinois_worker\" title=\"Metal press crushes Illinois worker\">Metal press crushes Illinois worker</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/How_the_Army_Corps_of_Engineers_closed_one_New_Orleans_breach\" title=\"How the Army Corps of Engineers closed one New Orleans breach\">How the Army Corps of Engineers closed one New Orleans breach</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462717,
+   "book" : [],
+   "micro-www" : {
+      "pounds_per_square_inch" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Units of pressure",
+         "Customary units of measurement in the United States",
+         "Imperial units"
+      ],
+      "text" : " reading in psi (red scale) and kPa (black scale)]] The 'pound per square inch'\n or, more accurately, 'pound-force per square inch' (symbol: 'psi' or\n 'lbf/in<sup>2</sup>' or 'lb<sub>f</sub>/in<sup>2</sup>' or 'lbf/sq&nbsp;in' or\n 'lb<sub>f</sub>/sq&nbsp;in')/ 'pressure per square inch' is a unit of pressure\n or of stress based on avoirdupois units. It is the pressure resulting from a\n force of one pound-force applied to an area of one square inch:\n\nUsing unit conversion:\n\n1 psi = <math> \\frac{1 \\text{ lbf}} {(1 \\text{ in})^2} = \\frac{4.4482216152605\n\\text{ N}} {(0.0254 \\text{ m})^2} </math> ≈ 6894.757293168 N/m²\n\nTherefore, one pound per square inch is approximately 6894.757 Pa.\n\nNow converting the psi to standard atmospheres:\n\n<math> \\frac{1 \\text{ psi}}{ 6894.757293 \\text{ Pa}} \\cdot \\frac{1.01325 \\text {\nx} \\ 10^5 \\text{ Pa}}{1 \\text{ atm}}</math> ≈ 14.69594877551 psi/atm\n\nTherefore, 1 atmosphere is approximately 14.696 pounds per square inch.\n\n'Pounds per square inch absolute' ('psia') is used to make it clear that the\npressure is relative to a vacuum rather than the ambient atmospheric pressure.\nSince atmospheric pressure at sea level is around 14.7 psi, this will be added\nto any pressure reading made in air at sea level. The converse is 'pounds per\nsquare inch gauge' or 'pounds per square inch gage' ('psig'), indicating that\nthe pressure is relative to atmospheric pressure. For example a bicycle tire\npumped up to 65 psi above atmospheric pressure, will have a pressure of 65 +\n14.7 = 79.7 psia or 65 psig.<ref>{{cite web | url =\nhttp://www.uasinc.com/InfoGlossaryP.aspx | title = Glossary of Industrial Air\nCleaning Technology\n| work = United Air Specialists, Inc\n}}</ref><ref>{{cite web | url = http://www.dynisco.com/stuff/contentmgr/files/1-\n/162fe0347e667528bd874845e66a40ef/pdf/gageabspress.pdf\n| title = Gage v. Sealed v. Absolute pressure | work = Dynisco }}</ref>\n",
+      "title" : "pounds per square inch",
+      "headings" : [
+         "ksi",
+         "Magnitude",
+         "Conversions",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "1: KPa",
+      "1: Pressure",
+      "1: Avoirdupois",
+      "1: Pound-force",
+      "1: Square_inch",
+      "1: Materials_science",
+      "1: Tensile_strength",
+      "1: Blood_Pressure",
+      "1: Water_jet_cutter",
+      "1: Turbocharger",
+      "1: Atmospheric_pressure",
+      "1: Fire_tube_boiler",
+      "1: Union_Pacific_Big_Boy",
+      "1: Steam_locomotive#Boiler",
+      "1: Scuba_set",
+      "1: Airbus_A380",
+      "1: A36_steel",
+      "1: Inch_of_water"
+   ]
+}

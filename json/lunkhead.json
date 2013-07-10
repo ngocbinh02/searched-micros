@@ -1,0 +1,63 @@
+{
+   "micrownet" : [
+      "lunkhead"
+   ],
+   "duck" : [
+      "Lunkhead is a Japanese rock band signed under Victor Entertainment and is managed by Chockyu co.",
+      "https://en.wikipedia.org/wiki/Lunkhead",
+      "HASH(0x4b10e58)",
+      "Wikipedia",
+      "Lunkhead",
+      "http://www.merriam-webster.com/dictionary/lunkhead",
+      "lunkhead definition: a stupid person.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/c/Japanese_pop_punk_musical_groups\">Japanese pop punk musical groups</a>",
+      "HASH(0x49be568)",
+      "Lunkhead is a Japanese rock band signed under Victor Entertainment and is managed by Chockyu co.",
+      "A",
+      "ARRAY(0x4d79f80)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462573,
+   "book" : [],
+   "micro-www" : {
+      "lunkhead" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Japanese rock music groups",
+         "Musical groups established in 1999"
+      ],
+      "text" : "{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->\n| name = Lunkhead (ランクヘッド) image = caption = background = group_or_band origin =\n| Shikoku, Japan genre = J-Rock<br>Pop punk years_active = 1999 - present label\n| = Victor Entertainment, Chockyu co. ltd. website = [http://www.lunkhead.jp\n| www.lunkhead.jp] current_members = Odaka Yoshitarou<br />Gouda Satoru<br\n| />Yamashita Sou<br />Ishikawa Ryou\n}}\n\n'Lunkhead' (ランクヘッド) is a Japanese rock band signed under Victor Entertainment\nand is managed by Chockyu co. ltd. The band played its first show during their\nhigh school graduation ceremomy in 1999.<ref name=\"lunkhead_jp\"> {{cite web\n| work = Lunkhead.jp title = Lunkhead Biography year = 2004 url =\n| http://www.lunkhead.jp/profile/index.html accessdate = 2007-09-22\n}} </ref>\n\nLunkhead officially became a band when all four members reunited in Tokyo in\n2000.<ref name=\"lunkhead_jp\"/>\n\nOn 2 February 2009, drummer Ishikawa Ryou announced on the band's official\nwebsite of his departure from the band in April 2009.<ref name=\"lunkhead_jp\">\n{{cite web\n| work = Lunkhead.jp title = Staff Special year = 2009 url =\n| http://lunkhead.jp/staff/index.html accessdate = 2009-02-03\n}} </ref>\n",
+      "title" : "lunkhead",
+      "headings" : [
+         "Band members",
+         "Discography",
+         "Books",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "1: Shikoku",
+      "1: Japan",
+      "1: Music_of_Japan#Rock",
+      "1: Pop_punk",
+      "1: Japanese_rock",
+      "1: Waseda_University",
+      "1: Aoyama_Gakuin_University",
+      "1: Hosei_University",
+      "1: Meiji_University",
+      "1: All_Apologies",
+      "1: Radiohead"
+   ]
+}

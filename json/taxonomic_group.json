@@ -1,0 +1,105 @@
+{
+   "micrownet" : [
+      "taxonomic_group"
+   ],
+   "duck" : [
+      "HASH(0x4ccf5d8)",
+      "HASH(0x49ecd60)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_rodent_discovery_leads_to_new_mammal_family\" title=\"New rodent discovery leads to new mammal family\">New rodent discovery leads to new mammal family</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bones_of_%27small-bodied_humans%27_found_in_Micronesian_cave\" title=\"Bones of &#39;small-bodied humans&#39; found in Micronesian cave\">Bones of &#39;small-bodied humans&#39; found in Micronesian cave</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465416,
+   "book" : [],
+   "micro-www" : {
+      "taxonomic_group" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Taxonomy|",
+         "Classification systems",
+         "Nomenclature"
+      ],
+      "text" : "\n\n\n\n'Taxonomy' (from [[taxis]], \"arrangement,\" and [[:wikt:-nomy|-nomia]],\n\"method\")<ref></ref> is the academic discipline of defining groups of biological\norganisms on the basis of shared characteristics and giving names to those\ngroups. Each group is given a rank and groups of a given rank can be aggregated\nto form a super group of higher rank and thus create a hierarchical\nclassification.<ref name=Judd>Judd, W.S., Campbell, C.S., Kellog, E.A., Stevens,\nP.F., Donoghue, M.J. (2007) Taxonomy. In Plant Systematics - A Phylogenetic\nApproach, Third Edition. Sinauer Associates, Sunderland.</ref><ref\nname=Simpson></ref> The groups created through this process are referred to as\n'taxa' (singular taxon). An example of a modern classification is the one\npublished in 2009 by the Angiosperm Phylogeny Group for all living flowering\nplant families (the APG III system).<ref name=\"apgiii\"></ref>\n\nCarolus Linnaeus, the Swedish botanist is regarded as the father of\nmodern taxonomy.\n",
+      "title" : "Taxonomy%20%28biology%29",
+      "headings" : [
+         "Definition",
+         "Application",
+         "Taxonomic descriptions",
+         "Classifying organisms",
+         "History of taxonomy",
+         "Databases",
+         "See also",
+         "Notes",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "4: Biological_classification",
+      "2: Carl_Linnaeus",
+      "2: Systematics",
+      "2: Nomenclature",
+      "1: Scientific_method",
+      "1: Academic_discipline",
+      "1: Taxon",
+      "1: Angiosperm_Phylogeny_Group",
+      "1: Flowering_plant",
+      "1: APG_III_system",
+      "1: Biology",
+      "1: Naturalist",
+      "1: Biodiversity",
+      "1: Conservation_biology",
+      "1: Scientific_community",
+      "1: Pitcher_plant",
+      "1: Zoology",
+      "1: Taxonomic_rank",
+      "1: Subspecies",
+      "1: Botany",
+      "1: Phycology",
+      "1: Mycology",
+      "1: Binomial_nomenclature",
+      "1: Quantitative_property",
+      "1: Qualitative_data",
+      "1: DNA_sequence",
+      "1: Phylum",
+      "1: Genus",
+      "1: Species",
+      "1: Phylogenetic",
+      "1: Cladistic",
+      "1: Plesiomorph",
+      "1: Neighbor_joining",
+      "1: Bayesian_inference",
+      "1: Shennong",
+      "1: Aristotle",
+      "1: Invertebrates",
+      "1: Vertebrates",
+      "1: Theophrastus",
+      "1: Pliny_the_Elder",
+      "1: Andrea_Cesalpino",
+      "1: Magnum_opus",
+      "1: Asteraceae",
+      "1: Brassicaceae",
+      "1: John_Ray",
+      "1: Joseph_Pitton_de_Tournefort",
+      "1: Linnaean_system",
+      "1: Candolle",
+      "1: Taxonomic_database",
+      "1: Alpha_taxonomy",
+      "1: Barcode_of_Life",
+      "1: Evolutionary_taxonomy",
+      "1: Phylogenetics",
+      "1: Species_description",
+      "1: Species_problem"
+   ]
+}

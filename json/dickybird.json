@@ -1,0 +1,28 @@
+{
+   "micrownet" : [
+      "dickybird"
+   ],
+   "duck" : [
+      "dickybird",
+      "dickybird definition: a small bird.",
+      "http://www.merriam-webster.com/dictionary/dickybird",
+      "dickybird definition: a small bird.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373466689,
+   "book" : [],
+   "micro-www" : {
+      "dickybird" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

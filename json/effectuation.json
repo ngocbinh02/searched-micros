@@ -1,0 +1,54 @@
+{
+   "micrownet" : [
+      "effectuation"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/c/Entrepreneurship\">Entrepreneurship</a>",
+      "\n<a href=\"http://duckduckgo.com/c/Prediction\">Prediction</a>",
+      "Effectuation",
+      "Effectuation is a set of decision-making principles expert entrepreneurs are observed to employ in situations of uncertainty.",
+      "ef·fec·tu·at·ed, ef·fec·tu·at·ing, ef·fec·tu·ates To bring about; effect."
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Judge_in_Nebraska_says_thou_shalt_not_sue_God\" title=\"Judge in Nebraska says thou shalt not sue God\">Judge in Nebraska says thou shalt not sue God</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Nebraska_Senator_sues_God\" title=\"Nebraska Senator sues God\">Nebraska Senator sues God</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bail_denied_in_Laos_overthrow_plot,_Hmong_protest\" title=\"Bail denied in Laos overthrow plot, Hmong protest\">Bail denied in Laos overthrow plot, Hmong protest</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471565,
+   "book" : [],
+   "micro-www" : {
+      "effectuation" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Entrepreneurship",
+         "Prediction"
+      ],
+      "text" : "\n\n'Effectuation' is a set of decision-making principles expert entrepreneurs are\nobserved to employ in situations of uncertainty. The alternative to\neffectuation, causality, describes decision-making heuristics rooted in\nprediction.\n\nSarasvathy contrasts the traditional sequence of analysis, planning,\nimplementation and control with effectuation as building on known capabilities\nfor possible ends.<ref> {{cite book\n| last = Davidsson first = Per title = The Entrepreneurship Research Challenge\n| url = http://books.google.com/books?id=WcwMLPJyn7wC accessdate = 20130125 year\n| = 2008 publisher = Edward Elgar Publishing isbn = 9781847202192 page = 80\n| quote = [...] effectuation logic takes a set of means as given and focuses on\n| selection between possible effects that can be achieved with these means.\n}} </ref>\n",
+      "title" : "effectuation",
+      "headings" : [
+         "References",
+         "External links",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "1: Decision-making",
+      "1: Expert",
+      "1: Entrepreneurs",
+      "1: Uncertainty",
+      "1: Causality",
+      "1: Prediction",
+      "1: Planning",
+      "1: Edward_Elgar_Publishing"
+   ]
+}

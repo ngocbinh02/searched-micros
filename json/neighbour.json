@@ -1,0 +1,83 @@
+{
+   "micrownet" : [
+      "neighbour",
+      "neighbourhood",
+      "neighbourliness",
+      "neighbourly"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Neighbors",
+      "HASH(0x4a27080)",
+      "Wikipedia",
+      "Neighbors",
+      "http://www.merriam-webster.com/dictionary/neighbors",
+      "neighbors definition: one living or located near another.",
+      "Merriam-Webster",
+      "HASH(0x4a2f358)",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Three_of_Serbia%27s_neighbours_recognize_Kosovo\" title=\"Three of Serbia&#39;s neighbours recognize Kosovo\">Three of Serbia&#39;s <span class=\"searchmatch\">neighbours</span> recognize Kosovo</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Neighbours_of_Niger_also_facing_food_crisis\" title=\"Neighbours of Niger also facing food crisis\"><span class=\"searchmatch\">Neighbours</span> of Niger also facing food crisis</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Christchurch,_NZ_man_admits_murdering_wife_and_neighbour_and_having_sex_with_bodies\" title=\"Christchurch, NZ man admits murdering wife and neighbour and having sex with bodies\">Christchurch, NZ man admits murdering wife and <span class=\"searchmatch\">neighbour</span> and having sex with bodies</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UN_warns_neighbours_of_Turkey_about_bird_flu\" title=\"UN warns neighbours of Turkey about bird flu\">UN warns <span class=\"searchmatch\">neighbours</span> of Turkey about bird flu</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_Labor_Party_announces_new_Climate_Change_Policy\" title=\"Australian Labor Party announces new Climate Change Policy\">Australian Labor Party announces new Climate Change Policy</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Smart-1_probe_ends_mission_with_planned_crash_into_the_Moon\" title=\"Smart-1 probe ends mission with planned crash into the Moon\">Smart-1 probe ends mission with planned crash into the Moon</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_police_arrest_woman_over_William_Davis_murder\" title=\"UK police arrest woman over William Davis murder\">UK police arrest woman over William Davis murder</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Finnish_Olympic_champion_ski_jumper_arrested_for_attempted_murder\" title=\"Finnish Olympic champion ski jumper arrested for attempted murder\">Finnish Olympic champion ski jumper arrested for attempted murder</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Wheelchair-bound_Australian_rescued_in_New_Orleans\" title=\"Wheelchair-bound Australian rescued in New Orleans\">Wheelchair-bound Australian rescued in New Orleans</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Guantanamo%27-style_detention_facility_under_construction_on_Australian_Island\" title=\"&#39;Guantanamo&#39;-style detention facility under construction on Australian Island\">&#39;Guantanamo&#39;-style detention facility under construction on Australian Island</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Woman_killed_in_house_fire_in_South_Yorkshire,_England\" title=\"Woman killed in house fire in South Yorkshire, England\">Woman killed in house fire in South Yorkshire, England</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Champion_AFL_footballer_Chris_Mainwaring_dies\" title=\"Champion AFL footballer Chris Mainwaring dies\">Champion AFL footballer Chris Mainwaring dies</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Somali_tensions_rise_as_Ethiopia_sends_in_troops\" title=\"Somali tensions rise as Ethiopia sends in troops\">Somali tensions rise as Ethiopia sends in troops</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Romanian_economy_booms_in_2004\" title=\"Romanian economy booms in 2004\">Romanian economy booms in 2004</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Three_dead_infants_found_in_Canadian_home\" title=\"Three dead infants found in Canadian home\">Three dead infants found in Canadian home</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Seventeen_year_old_accused_of_raping_four_year_old_in_Kherwadi,_Mumbai\" title=\"Seventeen year old accused of raping four year old in Kherwadi, Mumbai\">Seventeen year old accused of raping four year old in Kherwadi, Mumbai</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U2_fan_ordered_to_destroy_CDs\" title=\"U2 fan ordered to destroy CDs\">U2 fan ordered to destroy CDs</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Two_10-year-old_UK_boys_arrested_for_alleged_rape_of_girl_aged_8\" title=\"Two 10-year-old UK boys arrested for alleged rape of girl aged 8\">Two 10-year-old UK boys arrested for alleged rape of girl aged 8</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/European_Venus_probe_launched_successfully\" title=\"European Venus probe launched successfully\">European Venus probe launched successfully</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373466502,
+   "book" : [],
+   "micro-www" : {
+      "neighbour" : [
+         "neighbouring",
+         "neighbourhood",
+         "Neighbourhood_unit",
+         "Neighbourhood_(mathematics)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Neighbours', 'Neighbors', 'Neighbour' or 'Neighbor' may refer to:\n\n* People who live in one's neighbourhood\n",
+      "title" : "Neighbors",
+      "headings" : [
+         "People",
+         "Literature",
+         "Songs",
+         "Television",
+         "Films",
+         "Other uses"
+      ]
+   },
+   "micro-relation" : [
+      "1: Neighbourhood",
+      "1: Cindy_Neighbor",
+      "1: Billy_Neighbors",
+      "1: Robert_Neighbors",
+      "1: Cicely_Tyson#Television",
+      "1: United_States",
+      "1: Raymond_Carver",
+      "1: Neighbor_Mountain",
+      "1: Nauvoo_Neighbor",
+      "1: Neighbors_Expedition"
+   ]
+}

@@ -1,0 +1,49 @@
+{
+   "micrownet" : [
+      "pass_with_flying_colors"
+   ],
+   "duck" : [
+      "HASH(0x4c73930)",
+      "HASH(0x4a7b200)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462384,
+   "book" : [],
+   "micro-www" : {
+      "pass_with_flying_colors" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Figures of speech",
+         "English phrases"
+      ],
+      "text" : "\n'\"With flying colours\"' is a popular proverbial phrase of the English language.\nThe phrase's origins relate to ship flags.\n",
+      "title" : "With%20flying%20colours",
+      "headings" : [
+         "History",
+         "See also",
+         "References",
+         "Sources",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Age_of_Discovery",
+      "1: Proverbial",
+      "1: English_language",
+      "1: Pirate",
+      "1: Blackbeard",
+      "1: British_navy",
+      "1: Black_Bart_Roberts",
+      "1: Colours,_standards_and_guidons"
+   ]
+}

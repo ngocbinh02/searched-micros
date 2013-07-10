@@ -1,0 +1,112 @@
+{
+   "micrownet" : [
+      "chisel",
+      "chisel-like",
+      "chisel_in",
+      "chisel_steel",
+      "chiseled",
+      "chiseler",
+      "chiseller",
+      "cold_chisel",
+      "drove_chisel",
+      "firmer_chisel",
+      "ripping_chisel",
+      "set_chisel",
+      "wood_chisel"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Chisel",
+      "\n<a href=\"http://duckduckgo.com/Spud_bar\">Spud bar</a> - A spud bar, or in British English usually crowbar, pry bar, or just bar, is a long, straight metal bar used lengthwise as a hand tool to deliver blows to a target, causing the target...",
+      "Wikipedia",
+      "Chisel",
+      "\n<a href=\"http://duckduckgo.com/Burin\">Burin</a> - Burin from the French burin meaning \"cold chisel\" has two specialised meanings for types of tools in English, one meaning a  steel cutting tool which is the essential tool of engraving, and ...",
+      "http://www.merriam-webster.com/dictionary/chisel",
+      "chisel definition: a metal tool with a sharpened edge at one end used to chip, carve, or cut into a solid material (as wood, stone, or metal).",
+      "\n<a href=\"http://duckduckgo.com/Chisel_(band)\">Chisel (band)</a> - Chisel was a punk rock band from the United States that existed between 1990 and 1997.",
+      "A chisel is a tool with a characteristically shaped cutting edge (such that wood chisels have lent part of their name to a particular grind) of blade on its end, for carving or cutting a hard material such as wood, stone, or metal.",
+      "HASH(0x49e86a0)",
+      "\n<a href=\"http://duckduckgo.com/c/Chisels\">Chisels</a>",
+      "https://i.duckduckgo.com/i/af036a5d.jpeg",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Chisel_(album)\">Chisel (album)</a> - Chisel is the 1998 compilation album by Australian pub rockers Cold Chisel.",
+      "HASH(0x49efa98)",
+      "A",
+      "A chisel is a tool with a characteristically shaped cutting edge (such that wood chisels have lent part of their name to a particular grind) of blade on its end, for carving or cutting a hard material such as wood, stone, or metal."
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Man_attacked_by_shark_now_safe_in_hospital\" title=\"Man attacked by shark now safe in hospital\">Man attacked by shark now safe in hospital</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Exclusive:_%27The_Scientology_Reformation%27_author_examines_Tom_Cruise_and_David_Miscavige\" title=\"Exclusive: &#39;The Scientology Reformation&#39; author examines Tom Cruise and David Miscavige\">Exclusive: &#39;The Scientology Reformation&#39; author examines Tom Cruise and David Miscavige</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Stanford_physicists_print_smallest-ever_letters_%27SU%27_at_subatomic_level_of_1.5_nanometres_tall\" title=\"Stanford physicists print smallest-ever letters &#39;SU&#39; at subatomic level of 1.5 nanometres tall\">Stanford physicists print smallest-ever letters &#39;SU&#39; at subatomic level of 1.5 nanometres tall</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465084,
+   "book" : [],
+   "micro-www" : {
+      "chisel" : [
+         "chisel",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Chisels|"
+      ],
+      "text" : "\n\n\n\nA 'chisel' is a tool with a characteristically shaped cutting edge (such that\nwood chisels have lent part of their name to a particular grind) of blade on its\nend, for carving or cutting a hard material such as wood, stone, or metal. The\nhandle and blade of some types of chisel are made of metal or wood with a sharp\nedge in it.\n\nIn use, the chisel is forced into the material to cut it. The driving force may\nbe manually applied or applied using a mallet or hammer. In industrial use, a\nhydraulic ram or falling weight ('trip hammer') drives the chisel into the\nmaterial to be cut.\n\nA gouge, one type of chisel, is used, particularly in woodworking,\nwoodturning and sculpture, to carve small pieces from the material. Gouges\nare most often used in creating concave surfaces. A gouge typically has a 'U'-\nshaped cross-section.\n",
+      "title" : "chisel",
+      "headings" : [
+         "Use",
+         "Woodworking{{Anchor|Woodworking chisels}}",
+         "Lathe tools",
+         "Metalworking",
+         "Stone",
+         "Masonry",
+         "Gouge",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "1: Tool",
+      "1: Grind#Typical_grinds",
+      "1: Blade",
+      "1: Wood",
+      "1: Metalworking",
+      "1: Mallet",
+      "1: Hammer",
+      "1: Hydraulic_ram",
+      "1: Trip_hammer",
+      "1: Woodworking",
+      "1: Woodturning",
+      "1: Sculpture",
+      "1: Framing_Slick",
+      "1: Timber_framing",
+      "1: Construction",
+      "1: Mortise_and_tenon",
+      "1: Dovetail",
+      "1: Tempered_steel",
+      "1: Sledgehammer",
+      "1: Tin_snips",
+      "1: Beryllium_copper",
+      "1: Ember",
+      "1: Forge",
+      "1: Anvil",
+      "1: Hardy_hole",
+      "1: Tongs",
+      "1: Stonemasonry",
+      "1: Sculptors",
+      "1: Lump_hammer",
+      "1: Hammer_drill",
+      "1: Jack_hammer",
+      "1: Linoleum",
+      "1: Linocut",
+      "1: Burin",
+      "1: Spud_bar",
+      "1: Reader's_Digest"
+   ]
+}

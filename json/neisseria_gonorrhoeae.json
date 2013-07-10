@@ -1,0 +1,100 @@
+{
+   "micrownet" : [
+      "neisseria_gonorrhoeae"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471125,
+   "book" : [],
+   "micro-www" : {
+      "neisseria_gonorrhoeae" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Proteobacteria",
+         "Bacterium-related cutaneous conditions",
+         "Gram-negative bacteria",
+         "Infections with a predominantly sexual mode of transmission",
+         "Pathogenic bacteria"
+      ],
+      "text" : "{{Taxobox\n| color = lightgrey image = Neisseria_gonorrhoeae_01.png image_width = 240px\n| image_caption = Neisseria gonorrhoeae cultured on two different media types\n| and presented in stereoscopic 3d. regnum = Bacteria phylum = Proteobacteria\n| classis = Beta Proteobacteria ordo = Neisseriales familia = Neisseriaceae\n| genus = [[Neisseria]] species = 'N. gonorrhoeae' binomial = Neisseria\n| gonorrhoeae binomial_authority = Zopf, 1885 synonyms = Gonococcus\n| <small>Neisser 1879</small>\n}} 'Neisseria gonorrhoeae', also known as 'gonococci' (plural), or 'gonococcus'\n(singular), is a species of Gram-negative coffee bean-shaped diplococci bacteria\nresponsible for the sexually transmitted infection gonorrhea.<ref\nname=Sherris></ref>\n\nN. gonorrhoea was first described by Albert Neisser in 1879.\n",
+      "title" : "neisseria gonorrhoeae",
+      "headings" : [
+         "Microbiology",
+         "Disease",
+         "Treatment and prevention",
+         "Survival of gonococci",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Bacteria",
+      "2: Neisseriaceae",
+      "2: Albert_Ludwig_Sigesmund_Neisser",
+      "2: Gonorrhea",
+      "2: Type_IV_pilus",
+      "2: Conjunctivitis",
+      "2: Pelvic_inflammatory_disease",
+      "1: Proteobacteria",
+      "1: Beta_Proteobacteria",
+      "1: Gram-negative",
+      "1: Coffee_bean",
+      "1: Diplococci",
+      "1: Sexually_transmitted_infection",
+      "1: Fastidious",
+      "1: Chocolate_agar",
+      "1: Carbon_dioxide",
+      "1: Human_sexual_activity",
+      "1: Thayer-Martin_agar",
+      "1: Agar_plate",
+      "1: Antibiotic",
+      "1: Vancomycin",
+      "1: Colistin",
+      "1: Nystatin",
+      "1: Co-trimoxazole",
+      "1: Oxidase",
+      "1: Carbohydrates",
+      "1: Maltose",
+      "1: Sucrose",
+      "1: Glucose",
+      "1: Grappling_hook",
+      "1: Antigenic_variation",
+      "1: Horizontal_gene_transfer",
+      "1: Pus",
+      "1: Dysuria",
+      "1: Pharyngitis",
+      "1: Proctitis",
+      "1: Urethritis",
+      "1: Prostatitis",
+      "1: Orchitis",
+      "1: Neonates",
+      "1: Silver_nitrate",
+      "1: Antibiotics",
+      "1: Endocarditis",
+      "1: Meningitis",
+      "1: Arthralgia",
+      "1: Tenosynovitis",
+      "1: Pruritic",
+      "1: Dermatitis",
+      "1: Peritoneum",
+      "1: Cervix",
+      "1: Endometrium",
+      "1: Fallopian_tubes",
+      "1: Antibiotic_resistance",
+      "1: Penicillin",
+      "1: Ceftriaxone",
+      "1: Cephalosporin",
+      "1: Sexually_transmitted_infections"
+   ]
+}

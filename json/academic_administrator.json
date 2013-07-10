@@ -1,0 +1,73 @@
+{
+   "micrownet" : [
+      "academic_administrator"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/4_year-old_suspended_from_kindergarten_in_Texas,_US\" title=\"4 year-old suspended from kindergarten in Texas, US\">4 year-old suspended from kindergarten in Texas, US</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Teacher_sexual_misconduct_rampant_in_American_schools,_says_AP\" title=\"Teacher sexual misconduct rampant in American schools, says AP\">Teacher sexual misconduct rampant in American schools, says AP</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:October_22,_2007\" title=\"News briefs:October 22, 2007\">News briefs:October 22, 2007</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Colleges_offering_admission_to_displaced_New_Orleans_students/OH-WY\" title=\"Colleges offering admission to displaced New Orleans students/OH-WY\">Colleges offering admission to displaced New Orleans students/OH-WY</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Senate_unanimously_confirms_Michael_Griffin_as_new_NASA_head\" title=\"Senate unanimously confirms Michael Griffin as new NASA head\">Senate unanimously confirms Michael Griffin as new NASA head</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Colleges_offering_admission_to_displaced_New_Orleans_graduate_students\" title=\"Colleges offering admission to displaced New Orleans graduate students\">Colleges offering admission to displaced New Orleans graduate students</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Jimmy_Wales_asks_Wikipedian_to_resign_%22his_positions_of_trust%22_over_nonexistent_degrees\" title=\"Jimmy Wales asks Wikipedian to resign &quot;his positions of trust&quot; over nonexistent degrees\">Jimmy Wales asks Wikipedian to resign &quot;his positions of trust&quot; over nonexistent degrees</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tangled_in_his_own_wiki_web:_Wikipedia_administrator_found_to_be_a_fraud\" title=\"Tangled in his own wiki web: Wikipedia administrator found to be a fraud\">Tangled in his own wiki web: Wikipedia <span class=\"searchmatch\">administrator</span> found to be a </a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Colleges_offering_admission_to_displaced_New_Orleans_students/LA-ND\" title=\"Colleges offering admission to displaced New Orleans students/LA-ND\">Colleges offering admission to displaced New Orleans students/LA-ND</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Encyclop%C3%A6dia_Britannica_fights_back_against_Wikipedia,_soon_to_let_users_edit_contents\" title=\"Encyclopædia Britannica fights back against Wikipedia, soon to let users edit contents\">Encyclopædia Britannica fights back against Wikipedia, soon to let users edit contents</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hundreds_of_SUNY_New_Paltz_students_demonstrate,_storm_administration_building\" title=\"Hundreds of SUNY New Paltz students demonstrate, storm administration building\">Hundreds of SUNY New Paltz students demonstrate, storm administration building</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373468301,
+   "book" : [],
+   "micro-www" : {
+      "academic_administrator" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Academic administration|",
+         "Academia|Administration",
+         "Educational administration",
+         "University governance"
+      ],
+      "text" : "\n'Academic administration' is a branch of university or college employees\nresponsible for the maintenance and supervision of the institution and separate\nfrom the faculty or academics, although some personnel may have joint\nresponsibilities. Some type of separate administrative structure exists at\nalmost all academic institutions, as fewer and fewer schools are governed by\nemployees who are also involved in academic or scholarly work. Many\nadministrators are academics who have advanced degrees and no longer teach or\nconduct research actively.\n",
+      "title" : "Academic%20administration",
+      "headings" : [
+         "Key responsibilities",
+         "Academic administration by country",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: College",
+      "1: University",
+      "1: Academics",
+      "1: Academic",
+      "1: Tenure",
+      "1: Public_safety",
+      "1: Campus_police",
+      "1: Computer",
+      "1: Local_area_network",
+      "1: Information_technology",
+      "1: Tertiary_education",
+      "1: Association_for_Tertiary_Education_Management",
+      "1: Association_of_University_Administrators",
+      "1: United_States",
+      "1: University_President",
+      "1: Board_of_Trustees",
+      "1: Chief_Executive_Officer",
+      "1: Humanities",
+      "1: Natural_sciences",
+      "1: Graduate_school",
+      "1: Minority_group",
+      "1: Academic_department"
+   ]
+}

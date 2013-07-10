@@ -1,0 +1,98 @@
+{
+   "micrownet" : [
+      "nurse_shark"
+   ],
+   "duck" : [
+      "HASH(0x4cc3528)",
+      "HASH(0x4c24f10)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_sharks",
+      "List_of_prehistoric_cartilaginous_fish"
+   ],
+   "created" : 1373465077,
+   "book" : [],
+   "micro-www" : {
+      "nurse_shark" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Ginglymostomatidae",
+         "Ovoviviparous fish",
+         "Animals described in 1788"
+      ],
+      "text" : "\n{{Taxobox\n| name = Nurse shark fossil_range = Albian to Present<ref>{{cite journal last =\n| Sepkoski first = Jack title = A compendium of fossil marine animal genera\n| (Chondrichthyes entry) journal = Bulletins of American Paleontology volume =\n| 364 page = 560 date = 2002 url =\n| http://strata.ummp.lsa.umich.edu/jack/showgenera.php?taxon=575&rank=class\n| accessdate = 9 January 2008}}</ref> status = DD status_system = IUCN3.1 image\n| = nurse shark.jpg regnum = Animalia phylum = Chordata classis = Chondrichthyes\n| subclassis = Elasmobranchii ordo = Orectolobiformes familia =\n| Ginglymostomatidae genus = 'Ginglymostoma' species = 'G. cirratum'\n| genus_authority = J. P. Müller & Henle, 1837 range_map = Ginglymostoma\n| cirratum distmap.png range_map_caption = Range of nurse shark (in blue)\n| binomial = Ginglymostoma cirratum binomial_authority = (Bonnaterre, 1788)\n}}\n\nThe 'nurse shark', '(Ginglymostoma cirratum)', is a shark in the nurse sharks\n(Ginglymostomatidae) family, the only member of its genus 'Ginglymostoma'. Nurse\nsharks can reach a length of and a weight of .<ref>[http://animals.nationalgeographic.com/animals/fish/nurse-\nshark.html Nurse Shark] National Geographic</ref>\n",
+      "title" : "nurse shark",
+      "headings" : [
+         "Taxonomy",
+         "Distribution and habitat",
+         "Behavior and diet",
+         "Reproduction",
+         "Interaction with humans",
+         "Gallery",
+         "See also",
+         "References",
+         "Further reading",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Ginglymostomatidae",
+      "1: Albian",
+      "1: Animal",
+      "1: Chordate",
+      "1: Chondrichthyes",
+      "1: Elasmobranchii",
+      "1: Orectolobiformes",
+      "1: Johannes_Peter_Müller",
+      "1: Friedrich_Gustav_Jakob_Henle",
+      "1: Pierre_Joseph_Bonnaterre",
+      "1: Shark",
+      "1: Genus",
+      "1: Greek_language",
+      "1: Nebrius",
+      "1: Clade",
+      "1: Short-tail_nurse_shark",
+      "1: Whale_shark",
+      "1: Zebra_shark",
+      "1: Tropical",
+      "1: Subtropical",
+      "1: Continental_shelf",
+      "1: Habitat",
+      "1: Coral_reef",
+      "1: Mangrove",
+      "1: Sand_flat",
+      "1: Rhode_Island",
+      "1: Brazil",
+      "1: Cameroon",
+      "1: Gabon",
+      "1: Baja_California",
+      "1: Peru",
+      "1: Nocturnal",
+      "1: Reef",
+      "1: Crustacean",
+      "1: Mollusc",
+      "1: Tunicate",
+      "1: Fish",
+      "1: Stingray",
+      "1: Algae",
+      "1: Coral",
+      "1: Ovoviviparity",
+      "1: Gestation",
+      "1: Aquarium_Fish_Magazine",
+      "1: Introduced_species",
+      "1: Remora",
+      "1: Atlantis_Paradise_Island",
+      "1: List_of_sharks",
+      "1: List_of_prehistoric_cartilaginous_fish"
+   ]
+}

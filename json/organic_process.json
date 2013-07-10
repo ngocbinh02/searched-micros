@@ -1,0 +1,64 @@
+{
+   "micrownet" : [
+      "organic_process"
+   ],
+   "duck" : [
+      "HASH(0x47c4b68)",
+      "HASH(0x499ed40)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Meteorites_in_Morocco_found_to_be_from_Mars\" title=\"Meteorites in Morocco found to be from Mars\">Meteorites in Morocco found to be from Mars</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NASA_to_extend_the_Phoenix_probe_mission_by_5_weeks\" title=\"NASA to extend the Phoenix probe mission by 5 weeks\">NASA to extend the Phoenix probe mission by 5 weeks</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Meteorite_blamed_for_mysterious_illness_in_Peru\" title=\"Meteorite blamed for mysterious illness in Peru\">Meteorite blamed for mysterious illness in Peru</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Israeli_company_develops_new_radioactive_waste_conversion_process\" title=\"Israeli company develops new radioactive waste conversion process\">Israeli company develops new radioactive waste conversion <span class=\"searchmatch\">process</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NASA_says_star_system_contains_%27earth-like_planet%27_in_the_making\" title=\"NASA says star system contains &#39;earth-like planet&#39; in the making\">NASA says star system contains &#39;earth-like planet&#39; in the making</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ontario_Votes_2007:_Interview_with_Green_Party_candidate_Miriam_Stucky,_Peterborough\" title=\"Ontario Votes 2007: Interview with Green Party candidate Miriam Stucky, Peterborough\">Ontario Votes 2007: Interview with Green Party candidate Miriam Stucky, Peterborough</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/HP_to_aquire_EDS_for_13.9B\" title=\"HP to aquire EDS for 13.9B\">HP to aquire EDS for 13.9B</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:May_27,_2010\" title=\"News briefs:May 27, 2010\">News briefs:May 27, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Brazilian_President_party_received_money_from_FARC,_say_documents\" title=\"Brazilian President party received money from FARC, say documents\">Brazilian President party received money from FARC, say documents</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Death_sentences_in_2008_Chinese_tainted_milk_scandal\" title=\"Death sentences in 2008 Chinese tainted milk scandal\">Death sentences in 2008 Chinese tainted milk scandal</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464343,
+   "book" : [],
+   "micro-www" : {
+      "organic_process" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Biological processes|"
+      ],
+      "text" : "\n\n\n\n\nA 'biological process' is a process of a living organism. Biological processes\nare made up of any number of chemical reactions or other events that results in\na transformation.\n\nRegulation of biological processes occurs where any process is modulated in its\nfrequency, rate or extent. Biological processes are regulated by many means;\nexamples include the control of gene expression, protein modification or\ninteraction with a protein or substrate molecule.\n* Physiological process, those processes specifically pertinent to the\n  functioning of integrated living units: cells, tissues, organs, and organisms.\n* Reproduction\n* Digestion\n* Response to stimulus: a change in state or activity of a cell or an organism\n  (in terms of movement, secretion, enzyme production, gene expression, etc.) as\n  a result of a stimulus.\n* Interaction between organisms. the processes by which an organism has an\n  observable effect on another organism of the same or different species.\n* Also: fermentation, fertilisation, germination, tropism, hybridisation,\n  metamorphosis, photosynthesis, transpiration.\n",
+      "title" : "Biological%20process",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "2: Organism",
+      "2: Chemical_transformation",
+      "2: Gene_expression",
+      "1: Chemical_reaction",
+      "1: Reproduction",
+      "1: Digestion",
+      "1: Secretion",
+      "1: Enzyme",
+      "1: Biological_interaction",
+      "1: Fertilisation",
+      "1: Germination",
+      "1: Tropism",
+      "1: Metamorphosis",
+      "1: Photosynthesis",
+      "1: Transpiration",
+      "1: Chemical_process",
+      "1: Organic_reaction"
+   ]
+}

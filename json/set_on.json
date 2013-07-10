@@ -1,0 +1,49 @@
+{
+   "micrownet" : [
+      "set_on",
+      "set_on_fire"
+   ],
+   "duck" : [
+      "HASH(0x4a39988)",
+      "HASH(0x4a396e8)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Danish_and_Norwegian_embassies_set_on_fire\" title=\"Danish and Norwegian embassies set on fire\">Danish and Norwegian embassies <span class=\"searchmatch\">set</span> <span class=\"searchmatch\">on</span> fire</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Birmingham_Central_Mosque_is_set_on_fire\" title=\"Birmingham Central Mosque is set on fire\">Birmingham Central Mosque is <span class=\"searchmatch\">set</span> <span class=\"searchmatch\">on</span> fire</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Belgrade:_demonstration_against_independent_Kosovo_escalates_into_riots\" title=\"Belgrade: demonstration against independent Kosovo escalates into riots\">Belgrade: demonstration against independent Kosovo escalates into riots</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Serbia%27s_U.S._embassy_set_on_fire\" title=\"Serbia&#39;s U.S. embassy set on fire\">Serbia&#39;s U.S. embassy <span class=\"searchmatch\">set</span> <span class=\"searchmatch\">on</span> fire</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/APEC_countries_set_%22aspirational_goals%22_on_climate_change\" title=\"APEC countries set &quot;aspirational goals&quot; on climate change\">APEC countries <span class=\"searchmatch\">set</span> &quot;aspirational goals&quot; on climate change</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Western_Australian_court_to_set_precedent_on_the_burqa\" title=\"Western Australian court to set precedent on the burqa\">Western Australian court to <span class=\"searchmatch\">set</span> precedent on the burqa</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Accident_on_set_of_British_television_program_Heartbeat\" title=\"Accident on set of British television program Heartbeat\">Accident <span class=\"searchmatch\">on</span> <span class=\"searchmatch\">set</span> of British television program Heartbeat</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Attorney_Jack_Thompson_sets_sights_on_Sims_2\" title=\"Attorney Jack Thompson sets sights on Sims 2\">Attorney Jack Thompson <span class=\"searchmatch\">sets</span> sights on Sims 2</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Man_uses_home-made_flamethrower_to_set_relatives_on_fire\" title=\"Man uses home-made flamethrower to set relatives on fire\">Man uses home-made flamethrower to <span class=\"searchmatch\">set</span> relatives on fire</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Space_shuttle_Atlantis_set_to_launch_on_September_6\" title=\"Space shuttle Atlantis set to launch on September 6\">Space shuttle Atlantis <span class=\"searchmatch\">set</span> to launch on September 6</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/James_Bond_set_at_Pinewood_Studios_destroyed_by_fire\" title=\"James Bond set at Pinewood Studios destroyed by fire\">James Bond <span class=\"searchmatch\">set</span> at Pinewood Studios destroyed by fire</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Woman_in_Buffalo,_New_York_accidentally_sets_herself_on_fire\" title=\"Woman in Buffalo, New York accidentally sets herself on fire\">Woman in Buffalo, New York accidentally <span class=\"searchmatch\">sets</span> herself on fire</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canada_set_to_rule_on_U.S._Army_refugee\" title=\"Canada set to rule on U.S. Army refugee\">Canada <span class=\"searchmatch\">set</span> to rule on U.S. Army refugee</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/World_record_set_for_balloon_blowing_with_nose,_on_US_talk_show\" title=\"World record set for balloon blowing with nose, on US talk show\">World record <span class=\"searchmatch\">set</span> for balloon blowing with nose, on US talk show</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/EU_looks_set_to_continue_arms_embargo_on_China\" title=\"EU looks set to continue arms embargo on China\">EU looks <span class=\"searchmatch\">set</span> to continue arms embargo on China</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Security_Council_set_to_adopt_non-binding_text_on_N._Korea\" title=\"Security Council set to adopt non-binding text on N. Korea\">Security Council <span class=\"searchmatch\">set</span> to adopt non-binding text on N. Korea</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Somali_%22Anti-Terrorism_Alliance%22_gets_US_funds;_so_do_%22Blackhawk_Down%22_warlords\" title=\"Somali &quot;Anti-Terrorism Alliance&quot; gets US funds; so do &quot;Blackhawk Down&quot; warlords\">Somali &quot;Anti-Terrorism Alliance&quot; gets US funds; so do &quot;Blackhawk Down&quot; warlords</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bush%27s_war_on_terror_set_back_in_Somalia\" title=\"Bush&#39;s war on terror set back in Somalia\">Bush&#39;s war on terror <span class=\"searchmatch\">set</span> back in Somalia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Turkey_sets_the_price_to_lift_the_ban_on_YouTube_and_Google_services\" title=\"Turkey sets the price to lift the ban on YouTube and Google services\">Turkey <span class=\"searchmatch\">sets</span> the price to lift the ban on YouTube and Google services</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Onion_the_dog_case_set_for_Nevada_high_court_oral_argument\" title=\"Onion the dog case set for Nevada high court oral argument\">Onion the dog case <span class=\"searchmatch\">set</span> for Nevada high court oral argument</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Multiple_bombs_set_off_in_Turkish_resort\" title=\"Multiple bombs set off in Turkish resort\">Multiple bombs <span class=\"searchmatch\">set</span> off in Turkish resort</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Questions_raised_over_Mosquito_device_ahead_of_New_South_Wales_trial\" title=\"Questions raised over Mosquito device ahead of New South Wales trial\">Questions raised over Mosquito device ahead of New South Wales trial</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373463415,
+   "book" : [],
+   "micro-www" : {
+      "set_on" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

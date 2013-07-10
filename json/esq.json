@@ -1,0 +1,39 @@
+{
+   "micrownet" : [
+      "esq",
+      "esquimau",
+      "esquire"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/SLM_shareholders_led_by_Martin_Garbus_sue_Spider-Man_creator_Stan_Lee_and_Marvel_for_$750m\" title=\"SLM shareholders led by Martin Garbus sue Spider-Man creator Stan Lee and Marvel for $750m\">SLM shareholders led by Martin Garbus sue Spider-Man creator Stan Lee and Marvel for $750m</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Court_of_Appeals_reduces_sentence_for_former_Philippines_officer_in_spy_case\" title=\"US Court of Appeals reduces sentence for former Philippines officer in spy case\">US Court of Appeals reduces sentence for former Philippines officer in spy case</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Senior_citizen_group_seeks_recovery_of_Medicare_expenses_from_U.S._cigarette_makers\" title=\"Senior citizen group seeks recovery of Medicare expenses from U.S. cigarette makers\">Senior citizen group seeks recovery of Medicare expenses from U.S. cigarette makers</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/South_Downs_to_get_National_Park_status_in_UK\" title=\"South Downs to get National Park status in UK\">South Downs to get National Park status in UK</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373468630,
+   "book" : [],
+   "micro-www" : {
+      "esq" : [
+         "Esquel_(meteorite)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "'Esq' or 'ESQ' may refer to:\n\n* Employee screening questionnaire, a psychological test developed by Canadian\n  psychology professor Douglas N. Jackson\n* Esquire (abbreviated Esq.), a modern, informal, non-royally awarded title\n",
+      "title" : "esq",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Douglas_N._Jackson",
+      "1: Esquire"
+   ]
+}

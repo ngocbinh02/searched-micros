@@ -1,0 +1,55 @@
+{
+   "micrownet" : [
+      "esr"
+   ],
+   "duck" : [
+      "ESR"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373473447,
+   "book" : [],
+   "micro-www" : {
+      "esr" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "'ESR' may refer to:\n",
+      "title" : "ESR",
+      "headings" : [
+         "Organisations",
+         "Science",
+         "Technology",
+         "Transport"
+      ]
+   },
+   "micro-relation" : [
+      "1: Institute_of_Environmental_Science_and_Research",
+      "1: Experiment_In_Self-Reliance",
+      "1: Earlham_School_of_Religion",
+      "1: E.S.R.,_Inc.",
+      "1: Electron_spin_resonance",
+      "1: Environmental_stress_cracking",
+      "1: Erythrocyte_sedimentation_rate",
+      "1: Estrogen_receptor",
+      "1: European_Society_of_Radiology",
+      "1: Electro-slag_remelting",
+      "1: Electronic_Staff_Record",
+      "1: Solar_and_Heliospheric_Observatory",
+      "1: Equivalent_series_resistance",
+      "1: ESR_Technology",
+      "1: Firefox",
+      "1: Eric_S._Raymond",
+      "1: East_Somerset_Railway",
+      "1: Slow_zone",
+      "1: Ricardo_García_Posada_Airport"
+   ]
+}

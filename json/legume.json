@@ -1,0 +1,117 @@
+{
+   "micrownet" : [
+      "legume",
+      "legume_family"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/c/Legumes\">Legumes</a>",
+      "Legume",
+      "http://www.merriam-webster.com/dictionary/legume",
+      "\n<a href=\"http://duckduckgo.com/c/Vegetarian_cuisine\">Vegetarian cuisine</a>",
+      "legume definition: the fruit or seed of plants of the legume family (as peas or beans) used for food.",
+      "Merriam-Webster",
+      "https://i.duckduckgo.com/i/3b1fb9a4.jpg",
+      "\n<a href=\"http://duckduckgo.com/c/Vegan_cuisine\">Vegan cuisine</a>",
+      "A legume  is a plant in the family Fabaceae (or Leguminosae), or the fruit or seed of such a plant."
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mediterranean_diet_reduces_risk_of_Alzheimer%27s_disease,_study_concludes\" title=\"Mediterranean diet reduces risk of Alzheimer&#39;s disease, study concludes\">Mediterranean diet reduces risk of Alzheimer&#39;s disease, study concludes</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373470418,
+   "book" : [],
+   "micro-www" : {
+      "legume" : [
+         "legume",
+         "Legume",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Legumes|Legumes",
+         "Fruit morphology",
+         "Vegan cuisine",
+         "Vegetarian cuisine"
+      ],
+      "text" : " seeds, a popular legume]]\n\nA 'legume' is a plant in the family Fabaceae (or Leguminosae), or the fruit or\nseed of such a plant. Legumes are grown agriculturally, primarily for their food\ngrain seed (e.g. beans and lentils, or generally pulse), for livestock forage\nand silage, and as soil-enhancing green manure. Legumes are notable in that most\nof them have symbiotic nitrogen-fixing bacteria in structures called root\nnodules. Well-known legumes include alfalfa, clover, peas, beans, lentils,\nlupins, mesquite, carob, soybeans, peanuts, tamarind, and the woody climbing\nvine wisteria. Legume trees like the Locust trees ([[Gleditsia]], [[Robinia]])\nor the Kentucky coffeetree (Gymnocladus dioicus) can be used in permaculture\nfood forests.<ref name=CDI>Cirrus Digital: [http://www.cirrusimage.com/trees.htm\nTree Encyclopedia]</ref>\n\nA legume fruit is a simple dry fruit that develops from a simple carpel and\nusually dehisces (opens along a seam) on two sides. A common name for this type\nof fruit is a 'pod', although the term \"pod\" is also applied to a few other\nfruit types, such as vanilla and radish.\n",
+      "title" : "legume",
+      "headings" : [
+         "Nitrogen-fixing ability",
+         "Uses by humans",
+         "Nutritional facts",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "3: Green_manure",
+      "3: Alfalfa",
+      "3: Clover",
+      "3: Pea",
+      "3: Bean",
+      "3: Lentil",
+      "3: Peanut",
+      "2: Seed",
+      "2: Forage",
+      "2: Lupin",
+      "2: Soybean",
+      "2: Amino_acid",
+      "2: Cereal",
+      "1: Plant",
+      "1: Fabaceae",
+      "1: Fruit",
+      "1: Food_grain",
+      "1: Livestock",
+      "1: Silage",
+      "1: Root_nodules",
+      "1: Mesquite",
+      "1: Carob",
+      "1: Tamarind",
+      "1: Wisteria",
+      "1: Locust_tree",
+      "1: Kentucky_coffeetree",
+      "1: Permaculture",
+      "1: Food_forest",
+      "1: Fruit#Simple_fruit",
+      "1: Carpel",
+      "1: Vanilla",
+      "1: Radish",
+      "1: Symbiosis",
+      "1: Root_nodule",
+      "1: Root",
+      "1: Styphnolobium",
+      "1: Nitrogen_fixation",
+      "1: Ammonia",
+      "1: Ammonium",
+      "1: Plant_proteins",
+      "1: Ingredient",
+      "1: Harvest",
+      "1: Soil",
+      "1: Crop_rotation",
+      "1: Thomas_Jefferson",
+      "1: Indehiscent",
+      "1: Pasture",
+      "1: Dye",
+      "1: Natural_gum",
+      "1: Essential_amino_acid",
+      "1: Methionine",
+      "1: Dairy_product",
+      "1: Metabolism",
+      "1: Plant_kingdom",
+      "1: Protein_combining",
+      "1: Frances_Moore_Lappé",
+      "1: Lysine",
+      "1: Dal",
+      "1: Rice",
+      "1: Beans",
+      "1: Tofu",
+      "1: Peanut_butter"
+   ]
+}

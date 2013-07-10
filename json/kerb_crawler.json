@@ -1,0 +1,50 @@
+{
+   "micrownet" : [
+      "kerb_crawler"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471143,
+   "book" : [],
+   "micro-www" : {
+      "kerb_crawler" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Prostitution"
+      ],
+      "text" : "\n\nA 'kerb crawler' (or curb crawler) is a person who drives around areas known\nfor street prostitution soliciting prostitutes for sex. The act is known as\n\"kerb crawling\" because the person will typically drive very slowly along\nthe kerbside.\n\nKerb crawlers are widely regarded as a public nuisance because they help keep\nstreet prostitutes in business in red-light districts and often solicit\npedestrians who are not prostitutes for sex, and as a result, kerb-crawling is\nillegal in many jurisdictions.\n\nSting operations in which undercover police wait for kerb crawlers to\nproposition them are a common method for tackling kerb crawling. Kerb crawling\nis illegal in Canada, the United Kingdom the United States, and Russia. Police\nmay also collect licence-plate numbers of vehicles that appear to be kerb\ncrawling and may contact their registered owners.\n",
+      "title" : "kerb crawler",
+      "headings" : [
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "1: Street_prostitution",
+      "1: Soliciting",
+      "1: Prostitution",
+      "1: Public_nuisance",
+      "1: Red-light_district",
+      "1: Solicit",
+      "1: Pedestrian",
+      "1: Jurisdiction",
+      "1: Sting_operation",
+      "1: Undercover_police",
+      "1: Proposition",
+      "1: Canada",
+      "1: United_Kingdom",
+      "1: United_States",
+      "1: Russia",
+      "1: Vehicle_registration_plate",
+      "1: Vehicle_registration"
+   ]
+}

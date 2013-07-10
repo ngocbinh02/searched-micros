@@ -1,0 +1,60 @@
+{
+   "micrownet" : [
+      "housekeeper"
+   ],
+   "duck" : [
+      "A housekeeper is a person responsible for the cleaning and maintenance of (usually residential) premises.",
+      "https://en.wikipedia.org/wiki/Housekeeper",
+      "HASH(0x4e9ea60)",
+      "Wikipedia",
+      "Housekeeper",
+      "http://www.merriam-webster.com/dictionary/housekeeper",
+      "housekeeper definition: a woman employed to keep house.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Housekeeper_(domestic_worker)\">Housekeeper (domestic worker)</a>, a person heading up domestic maintenance - A housekeeper is an individual responsible for the cleaning and maintenance of the interior of a residence, including direction of subordinate maids.",
+      "HASH(0x4ea2f28)",
+      "\n<a href=\"http://duckduckgo.com/Janitor\">Janitor</a>, a person responsible for institutional maintenance",
+      "A housekeeper is a person responsible for the cleaning and maintenance of (usually residential) premises.",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Maid\">Maid</a>, a female with various domestic duties"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Actress_Patricia_Neal_dies_aged_84\" title=\"Actress Patricia Neal dies aged 84\">Actress Patricia Neal dies aged 84</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_actor_Heath_Ledger_found_dead_in_New_York_City\" title=\"Australian actor Heath Ledger found dead in New York City\">Australian actor Heath Ledger found dead in New York City</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Kerik_withdraws_from_nomination\" title=\"Kerik withdraws from nomination\">Kerik withdraws from nomination</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Duke_and_Duchess_of_Cambridge_to_move_into_Kensington_Palace,_London\" title=\"Duke and Duchess of Cambridge to move into Kensington Palace, London\">Duke and Duchess of Cambridge to move into Kensington Palace, London</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Obituaries:_January_21-27,_2008\" title=\"Obituaries: January 21-27, 2008\">Obituaries: January 21-27, 2008</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Author_Amy_Scobee_recounts_abuse_as_Scientology_executive\" title=\"Author Amy Scobee recounts abuse as Scientology executive\">Author Amy Scobee recounts abuse as Scientology executive</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_York_couple_keeps_Indonesian_women_as_slaves\" title=\"New York couple keeps Indonesian women as slaves\">New York couple keeps Indonesian women as slaves</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Activists_protest_against_School_of_the_Americas\" title=\"Activists protest against School of the Americas\">Activists protest against School of the Americas</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Shriver_speaks_out_over_Schwarzenegger%E2%80%99s_affair_and_love_child\" title=\"Shriver speaks out over Schwarzenegger’s affair and love child\">Shriver speaks out over Schwarzenegger’s affair and love child</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465464,
+   "book" : [],
+   "micro-www" : {
+      "housekeeper" : [
+         "Housekeeper_(servant)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Housekeeper' may refer to:\n\n* Housekeeper (domestic worker), a person heading up domestic maintenance\n* Maid, a female with various domestic duties\n* Janitor, a person responsible for institutional maintenance\n* A person engaged in housekeeping\n",
+      "title" : "housekeeper",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Maid",
+      "1: Janitor",
+      "1: Housekeeping"
+   ]
+}

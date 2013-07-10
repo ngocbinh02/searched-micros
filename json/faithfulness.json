@@ -1,0 +1,67 @@
+{
+   "micrownet" : [
+      "faithfulness"
+   ],
+   "duck" : [
+      "Faithfulness",
+      "Faithfulness implies closely following a prescribed course of action based on belief rather than on evidence.",
+      "http://www.merriam-webster.com/dictionary/faithfulness",
+      "faithfulness definition: '''obsolete''' full of faith.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/South_Sudan_gains_independence\" title=\"South Sudan gains independence\">South Sudan gains independence</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/One_million_pilgrims_attend_open-air_mass_with_Pope\" title=\"One million pilgrims attend open-air mass with Pope\">One million pilgrims attend open-air mass with Pope</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/DEA_raids_San_Diego_State_University_dorms\" title=\"DEA raids San Diego State University dorms\">DEA raids San Diego State University dorms</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/On_the_campaign_trail,_March_2012\" title=\"On the campaign trail, March 2012\">On the campaign trail, March 2012</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_conductor_Edward_Downes_and_wife_die_in_double_assisted_suicide\" title=\"British conductor Edward Downes and wife die in double assisted suicide\">British conductor Edward Downes and wife die in double assisted suicide</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Same-sex_marriage_bill_passes_in_Spanish_Congress_of_Deputies\" title=\"Same-sex marriage bill passes in Spanish Congress of Deputies\">Same-sex marriage bill passes in Spanish Congress of Deputies</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Prime_Minister_of_Barbados_David_Thompson_dies_at_age_48\" title=\"Prime Minister of Barbados David Thompson dies at age 48\">Prime Minister of Barbados David Thompson dies at age 48</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.K._National_Portrait_Gallery_threatens_U.S._citizen_with_legal_action_over_Wikimedia_images\" title=\"U.K. National Portrait Gallery threatens U.S. citizen with legal action over Wikimedia images\">U.K. National Portrait Gallery threatens U.S. citizen with legal action over Wikimedia images</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Great%27_title_for_John_Paul%3F\" title=\"&#39;Great&#39; title for John Paul?\">&#39;Great&#39; title for John Paul?</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Filipino_activist_arrested_for_disrupting_Manila_Cathedral_mass_in_Reproductive_Health_Bill_protest\" title=\"Filipino activist arrested for disrupting Manila Cathedral mass in Reproductive Health Bill protest\">Filipino activist arrested for disrupting Manila Cathedral mass in Reproductive Health Bill protest</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Desmond_Tutu_calls_for_election_of_African_pope\" title=\"Desmond Tutu calls for election of African pope\">Desmond Tutu calls for election of African pope</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pope_John_Paul_II_dies\" title=\"Pope John Paul II dies\">Pope John Paul II dies</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/World%27s_tallest_geyser_erupts\" title=\"World&#39;s tallest geyser erupts\">World&#39;s tallest geyser erupts</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/World%27s_Tallest_Geyser_Erupts\" title=\"World&#39;s Tallest Geyser Erupts\">World&#39;s Tallest Geyser Erupts</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Blown_for_Good_author_discusses_life_inside_international_headquarters_of_Scientology\" title=\"Blown for Good author discusses life inside international headquarters of Scientology\">Blown for Good author discusses life inside international headquarters of Scientology</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Al_Askari_Mosque_bombed_in_Samarra,_Iraq\" title=\"Al Askari Mosque bombed in Samarra, Iraq\">Al Askari Mosque bombed in Samarra, Iraq</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sudanese_protesters_demand_death_for_British_teacher\" title=\"Sudanese protesters demand death for British teacher\">Sudanese protesters demand death for British teacher</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mullah_Omar_says_his_jihad_to_continue\" title=\"Mullah Omar says his jihad to continue\">Mullah Omar says his jihad to continue</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Vatican_issues_defence_of_evolution,_rejects_fundamentalist_creationism\" title=\"Vatican issues defence of evolution, rejects fundamentalist creationism\">Vatican issues defence of evolution, rejects fundamentalist creationism</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373473775,
+   "book" : [],
+   "micro-www" : {
+      "faithfulness" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "Faithfulness implies closely following a prescribed course of action based on\nbelief rather than on evidence.\n* Faithfulness in religion implies unquestioning acceptance of divine revelation\n  or presuming scriptural truth to be superior to science.\n* Faithfulness in marriage may relate to monogamy where sexual intercourse\n  and/or emotional expression is restricted to a single spouse See also: *Faith\n  (disambiguation)\n",
+      "title" : "faithfulness",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Faithfulness",
+      "1: Belief",
+      "1: Evidence",
+      "1: Religion",
+      "1: Divine_revelation",
+      "1: Scriptural",
+      "1: Truth",
+      "1: Science",
+      "1: Monogamy",
+      "1: Sexual_intercourse",
+      "1: Emotional_expression",
+      "1: Spouse"
+   ]
+}

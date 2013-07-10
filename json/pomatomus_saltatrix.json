@@ -1,0 +1,102 @@
+{
+   "micrownet" : [
+      "pomatomus_saltatrix"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373469508,
+   "book" : [],
+   "micro-www" : {
+      "pomatomus_saltatrix" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Pomatomidae",
+         "Fauna of the United States",
+         "Edible fish",
+         "Fly fishing target species"
+      ],
+      "text" : "\n{{Taxobox\n| name = Bluefish image = Pomatomus saltatrix.png image_width = image_caption\n| = regnum = Animalia phylum = Chordata classis = Actinopterygii ordo =\n| Perciformes subordo = Percoidei superfamilia = Percoidea familia =\n| 'Pomatomidae' genus = 'Pomatomus' genus_authority = Lacépède, 1802 species =\n| 'P. saltatrix' binomial = Pomatomus saltatrix binomial_authority =\n| (Linnaeus, 1766)\n}}\n\nThe 'bluefish' (Pomatomus saltatrix) is the only extant species of the family\nPomatomidae. It is a marine pelagic fish found around the world in temperate and\nsub-tropical waters, except for the Northern Pacific Ocean. Bluefish are known\nas 'tailor' in Australia,<ref>[http://www.marine.csiro.au/caabsearch/caab_searc-\nh.caab_report?spcode=37334002 CAAB taxon report for Pomatomus saltatrix] at the\nCSIRO</ref> 'shad' on the east coast of South Africa, 'elf' on the west coast,\n() or () in Modern Greek, and similarly, 'lüfer'<ref>See Turkisk Vikipedi,\nhttp://tr.wikipedia.org/wiki/L%C3%BCfer; also see, http://www.treehugger.com/green-food/istanbul-celebrates-new-hope-for-a-\nfavorite-fish-with-first-annual-la14fer-festival.html</ref> in Turkish and\n'луфарь/lufar' in Russian. Other common names are blue, chopper, and\nanchoa.<ref> {{cite web\n| url = http://www.landbigfish.com/fish/fish.cfm?ID=49 title = Bluefish\n| Identification accessdate = 2009-02-17\n}}</ref> It is good eating and a popular gamefish.\n\nThe bluefish is a moderately proportioned fish, with a broad, forked tail. The\nspiny first dorsal fin is normally folded back in a groove, as are its pectoral\nfins. Coloration is a grayish blue-green dorsally, fading to white on the lower\nsides and belly. Its single row of teeth in each jaw are uniform in size, knife-\nedged and sharp. Bluefish commonly range in size from seven-inch (18-cm)\n\"snappers\" to much larger, sometimes weighing as much as 40 pounds (18&nbsp;kg),\nthough fish heavier than 20 pounds (9&nbsp;kg) are exceptional.\n",
+      "title" : "Bluefish",
+      "headings" : [
+         "Distribution",
+         "Life history",
+         "Feeding habits",
+         "Commercial fisheries",
+         "Management",
+         "As food",
+         "Other uses",
+         "Similar species",
+         "Notes",
+         "Other references",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "1: Animalia",
+      "1: Chordata",
+      "1: Actinopterygii",
+      "1: Perciformes",
+      "1: Percoidei",
+      "1: Percoidea",
+      "1: Bernard_Germain_Étienne_de_la_Ville,_Comte_de_Lacépède",
+      "1: Carolus_Linnaeus",
+      "1: Pelagic_fish",
+      "1: Australia",
+      "1: CSIRO",
+      "1: South_Africa",
+      "1: Modern_Greek",
+      "1: Turkish_language",
+      "1: Russian_language",
+      "1: Gamefish",
+      "1: Dorsal_fin",
+      "1: Pectoral_fin",
+      "1: Currier_&_Ives",
+      "1: Pelagic",
+      "1: Estuaries",
+      "1: Brackish",
+      "1: Florida",
+      "1: Massachusetts",
+      "1: Nova_Scotia",
+      "1: Zooplankton",
+      "1: Cape_Hatteras",
+      "1: North_Carolina",
+      "1: Gulf_Stream",
+      "1: New_England",
+      "1: Shoaling_and_schooling",
+      "1: Forage_fish",
+      "1: Feeding_frenzy",
+      "1: Menhaden",
+      "1: Sardine",
+      "1: Clupeidae",
+      "1: Scombridae",
+      "1: Weakfish",
+      "1: Sciaenidae",
+      "1: Haemulidae",
+      "1: Engraulidae",
+      "1: Shrimp",
+      "1: Squid",
+      "1: Surf_zone",
+      "1: Alicante",
+      "1: Overfishing",
+      "1: Fish_stock",
+      "1: Fish_fillet",
+      "1: Fried_fish",
+      "1: Martha's_Vineyard",
+      "1: Tuna",
+      "1: Shark",
+      "1: Billfish",
+      "1: Gnomefish",
+      "1: Scombropidae",
+      "1: Miocene"
+   ]
+}

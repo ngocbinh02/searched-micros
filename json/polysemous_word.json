@@ -1,0 +1,25 @@
+{
+   "micrownet" : [
+      "polysemous_word"
+   ],
+   "duck" : [
+      "HASH(0x4d2d6c8)",
+      "HASH(0x4d2d158)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373466180,
+   "book" : [],
+   "micro-www" : {
+      "polysemous_word" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

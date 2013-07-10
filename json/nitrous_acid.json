@@ -1,0 +1,91 @@
+{
+   "micrownet" : [
+      "nitrous_acid"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373468838,
+   "book" : [],
+   "micro-www" : {
+      "nitrous_acid" : [
+         "Nitrous_acid",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Nitrogen oxoacids",
+         "Nitrogen metabolism",
+         "Oxidizing agents",
+         "Mineral acids"
+      ],
+      "text" : "{{Chembox\n| Verifiedfields = changed verifiedrevid = 462262187 ImageFile = Nitrous acid\n| acsv.svg ImageSize = 200px ImageName = Nitrous acid PIN = Nitrous acid\n| SystematicName = Hydroxidooxidonitrogen Section1 = {{Chembox Identifiers CASNo\n| = 7782-77-6 CASNo_Ref = PubChem = 24529 PubChem_Ref = ChemSpiderID = 22936\n| ChemSpiderID_Ref = EINECS = 231-963-7 KEGG_Ref = KEGG = C00088 MeSHName =\n| Nitrous+acid ChEBI_Ref = ChEBI = 25567 SMILES = O=NO ChEMBL_Ref = ChEMBL =\n| 1161681 StdInChI_Ref = StdInChI = 1S/HNO2/c2-1-3/h(H,2,3) StdInChIKey_Ref =\n| StdInChIKey = IOVCWXUNBOPUCH-UHFFFAOYSA-N Gmelin = 983 3DMet = B00022}}\n| Section2 = {{Chembox Properties Formula = HNO<sub>2</sub> Appearance = Pale\n| blue solution MolarMass = 47.013 g/mol Density = Approx. 1 g/ml Solubility =\n| MeltingPt = Only known in solution pKa = 3.398\n  }}\n| Section7 = {{Chembox Hazards ExternalMSDS = EUIndex = Not listed EUClass =\n| RPhrases = SPhrases = MainHazards = NFPA-H = NFPA-F = NFPA-R = NFPA-O =\n| FlashPt = Non-flammable\n  }}\n| Section8 = {{Chembox Related OtherAnions = Nitric acid OtherCations = Sodium\n| nitrite<br/>Potassium nitrite<br/>Ammonium nitrite OtherCpds = Dinitrogen\n| trioxide\n  }} }} 'Nitrous acid' (molecular formula HNO<sub>2</sub>) is a weak and\n  monobasic acid known only in solution and in the form of nitrite salts.\n\nNitrous acid is used to make diazides from amines; this occurs by nucleophilic\nattack of the amine onto the nitrite, reprotonation by the surrounding solvent,\nand double-elimination of water. The diazide can then be liberated to give a\ncarbene or carbenoid.\n",
+      "title" : "nitrous acid",
+      "headings" : [
+         "Structure",
+         "Preparation",
+         "Decomposition",
+         "Chemistry",
+         "Atmosphere of the earth",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "3: Nitric_acid",
+      "3: Nitrite",
+      "2: Sodium_nitrite",
+      "2: Hydrogen",
+      "2: Nitrogen",
+      "2: Oxygen",
+      "2: Nitric_oxide",
+      "1: Potassium_nitrite",
+      "1: Ammonium_nitrite",
+      "1: Dinitrogen_trioxide",
+      "1: Monobasic_acid",
+      "1: Solution",
+      "1: Diazo",
+      "1: Carbene",
+      "1: Carbenoid",
+      "1: Infrared_spectroscopy",
+      "1: Gibbs_free_energy",
+      "1: Rotational_spectroscopy",
+      "1: Ball-and-stick_model",
+      "1: Nitrogen_dioxide",
+      "1: Nitrate",
+      "1: Potassium_permanganate",
+      "1: Kinetic_control",
+      "1: Thermodynamic_control",
+      "1: Iodine",
+      "1: Diazonium_salt",
+      "1: Aryl",
+      "1: Organic_synthesis",
+      "1: Sandmeyer_reaction",
+      "1: Azo_dye",
+      "1: Aniline",
+      "1: Sodium_azide",
+      "1: Α-hydrogen",
+      "1: Ketone",
+      "1: Oxime",
+      "1: Adipic_acid",
+      "1: Alcohol",
+      "1: Alkyl_nitrites",
+      "1: Vasodilation",
+      "1: Ozone",
+      "1: Atmosphere",
+      "1: Troposphere",
+      "1: Heterogeneous",
+      "1: Aerosol",
+      "1: Photolysis",
+      "1: Hydroxyl",
+      "1: Demjanov_rearrangement",
+      "1: Tiffeneau-Demjanov_rearrangement"
+   ]
+}

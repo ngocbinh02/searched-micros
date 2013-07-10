@@ -1,0 +1,68 @@
+{
+   "micrownet" : [
+      "compound_morphology",
+      "derivational_morphology",
+      "inflectional_morphology",
+      "morphology"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/galaxy_morphological_classification\">Morphology (astronomy)</a>, study of the shape of astronomical objects such as nebulae, galaxies, or other extended objects",
+      "https://en.wikipedia.org/wiki/Morphology",
+      "\n<a href=\"http://duckduckgo.com/River_morphology\">River morphology</a>, the field of science dealing with changes of river platform",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/d/Morphological_analysis\">Morphological analysis Meanings</a>",
+      "Morphology",
+      "\n<a href=\"http://duckduckgo.com/Morphology_(Architecture_and_Engineering)\">Morphology (Architecture and Engineering)</a>, research which is based on theories of two dimensional and three dimensional symmetries, and then uses these geometries for planning buildings and structures.",
+      "\n<a href=\"http://duckduckgo.com/Morphology_(molecular)\">Morphology (molecular)</a>, study of how the shape and form of molecules affect their chemical properties, dynamic reconfiguration and interactions",
+      "A center of population, commerce, and culture; a town of significant size and importance.",
+      "\n<a href=\"http://duckduckgo.com/Morphology_(biology)\">Morphology (biology)</a>, the study of the form or shape of an organism or part thereof",
+      "\n<a href=\"http://duckduckgo.com/Urban_morphology\">Urban morphology</a>, the study of growth and development of functions in cities",
+      "\n<a href=\"http://duckduckgo.com/Morphology_(linguistics)\">Morphology (linguistics)</a>, the study of the structure and content of word forms",
+      "\n<a href=\"http://duckduckgo.com/Morphology_(archaeology)\">Morphology (archaeology)</a>, study of the shapes or forms of artefacts",
+      "\n<a href=\"http://duckduckgo.com/Mathematical_morphology\">Mathematical morphology</a>, a theoretical model based on lattice theory, used for digital image processing",
+      "HASH(0x4b4c5c0)",
+      "\n<a href=\"http://duckduckgo.com/Geomorphology\">Geomorphology</a>, the study of landforms",
+      "\n<a href=\"http://duckduckgo.com/Morphology_(social)\">Morphology (social)</a>, study of the form and structure of society",
+      "\n<a href=\"http://duckduckgo.com/Morphology_(materials_science)\">Morphology (materials science)</a>, the study of shape, size, texture and phase distribution of physical objects.",
+      "HASH(0x4b4bcb0)",
+      "\n<a href=\"http://duckduckgo.com/Morphology_(ideology)\">Morphology (ideology)</a>, the study of the conceptual structure of ideologies, and the rules defining the admissibility of meanings into concepts.",
+      "\n<a href=\"http://duckduckgo.com/Morphology_(folkloristics)\">Morphology (folkloristics)</a>, the structure of narratives such as folk tales",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Horizons_probe_bound_for_Pluto_on_nine_year_journey\" title=\"New Horizons probe bound for Pluto on nine year journey\">New Horizons probe bound for Pluto on nine year journey</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Reported_Bigfoot_sighting_in_Clarence,_New_York_a_hoax\" title=\"Reported Bigfoot sighting in Clarence, New York a hoax\">Reported Bigfoot sighting in Clarence, New York a hoax</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_rodent_discovery_leads_to_new_mammal_family\" title=\"New rodent discovery leads to new mammal family\">New rodent discovery leads to new mammal family</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465860,
+   "book" : [],
+   "micro-www" : {
+      "morphology" : [
+         "Morphology_(linguistics)",
+         "Morphology_(folkloristics)",
+         "Morphology_(biology)",
+         "Morphology_(astronomy)",
+         "Morphology_(archaeology)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Morphology', from the Greek and meaning \"study of shape\", may mean:\n\n*Morphology (archaeology), study of the shapes or forms of artefacts *Morphology\n(astronomy), study of the shape of astronomical objects such as nebulae,\ngalaxies, or other extended objects *Morphology (biology), the study of the form\nor shape of an organism or part thereof *Morphology (folkloristics), the\nstructure of narratives such as folk tales *Morphology (linguistics), the study\nof the structure and content of word forms *Mathematical morphology, a\ntheoretical model based on lattice theory, used for digital image processing\n*River morphology, the field of science dealing with changes of river platform\n*Urban morphology, the study of growth and development of functions in cities\n*Geomorphology, the study of landforms *Morphological analysis (disambiguation)\n*Morphology (materials science), the study of shape, size, texture and phase\ndistribution of physical objects. *Morphology (molecular), study of how the\nshape and form of molecules affect their chemical properties, dynamic\nreconfiguration and interactions *Morphology (Architecture and Engineering),\nresearch which is based on theories of two dimensional and three dimensional\nsymmetries, and then uses these geometries for planning buildings and\nstructures. *Morphology (social), study of the form and structure of society\n\n*Morphology (ideology), the study of the conceptual structure of ideologies, and\nthe rules defining the admissibility of meanings into concepts. *Morphology\n(journal),\n",
+      "title" : "morphology",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Mathematical_morphology",
+      "1: River_morphology",
+      "1: Urban_morphology",
+      "1: Geomorphology"
+   ]
+}

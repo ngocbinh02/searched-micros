@@ -1,0 +1,44 @@
+{
+   "micrownet" : [
+      "acholia"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/c/Medical_signs\">Medical signs</a>",
+      "Acholia",
+      "The acholia is the lack or absence of bile secretion."
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373473829,
+   "book" : [],
+   "micro-www" : {
+      "acholia" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Medical signs",
+         "Medical terminology"
+      ],
+      "text" : "{{Infobox disease\n| Name = Acholia Image = Alt = Caption = DiseasesDB = ICD10 = ICD9 = ICDO = OMIM\n| = MedlinePlus = eMedicineSubj = eMedicineTopic = MeSH = GeneReviewsNBK =\n| GeneReviewsName =\n}}\n\nThe 'acholia' is the lack or absence of bile secretion.<ref>Dorland's Medical\nDictionary for Health Consumers. Saunders; 2007.</ref>\n",
+      "title" : "acholia",
+      "headings" : [
+         "Etymology",
+         "Etiology",
+         "See too",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "1: Ancient_Greek",
+      "1: Hepatitis",
+      "1: Choluria"
+   ]
+}

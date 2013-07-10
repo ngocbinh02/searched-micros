@@ -1,0 +1,132 @@
+{
+   "micrownet" : [
+      "instrumentation"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Instrumentation_(music)\">Instrumentation (music)</a> - In music, instrumentation refers to the particular combination of musical instruments employed in a composition, and to the properties of those instruments individually.",
+      "https://en.wikipedia.org/wiki/Instrumentation_(disambiguation)",
+      "\n<a href=\"http://duckduckgo.com/Instrumentation_(computer_programming)\">Instrumentation (computer programming)</a>, the ability to monitor a product's performance and to diagnose errors.",
+      "Wikipedia",
+      "Instrumentation",
+      "\n<a href=\"http://duckduckgo.com/Instrumentation\">Instrumentation</a>, the art and science of measurement and control",
+      "http://www.merriam-webster.com/dictionary/instrumentation",
+      "\n<a href=\"http://duckduckgo.com/Instrumentation_amplifier\">Instrumentation amplifier</a>, an integrated circuit sometimes used in measurement instruments.",
+      "instrumentation definition: the arrangement or composition of music for instruments especially for a band or orchestra.",
+      "HASH(0x4a646b8)",
+      "\n<a href=\"http://duckduckgo.com/d/Instrument\">Instrument Meanings</a>",
+      "Merriam-Webster",
+      "HASH(0x4a7d6c8)",
+      "\n<a href=\"http://duckduckgo.com/Internal_validity\">Instrumentation (research)</a> The instrument used during the testing process can change the experiment. If this occurs, an instrumentation error occurs and internal validity is effected.",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Virtual_instrumentation\">Virtual instrumentation</a> - Virtual instrumentation is the use of customizable software and modular measurement hardware to create user-defined measurement systems, called virtual instruments."
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Astronomer_proposes_Hubble_replacement\" title=\"Astronomer proposes Hubble replacement\">Astronomer proposes Hubble replacement</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Shuttle_launch_called_off_due_to_faulty_fuel_tank_sensor\" title=\"Shuttle launch called off due to faulty fuel tank sensor\">Shuttle launch called off due to faulty fuel tank sensor</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/ESA_launches_Herschel_Space_Observatory_and_Planck_Satellite\" title=\"ESA launches Herschel Space Observatory and Planck Satellite\">ESA launches Herschel Space Observatory and Planck Satellite</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bobby_Charlton_launches_anti-landmine_campaign\" title=\"Bobby Charlton launches anti-landmine campaign\">Bobby Charlton launches anti-landmine campaign</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hubble_Space_Telescope_successor_unveiled_by_NASA\" title=\"Hubble Space Telescope successor unveiled by NASA\">Hubble Space Telescope successor unveiled by NASA</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Space_Shuttle_Endeavour_launches_for_mission_STS-123\" title=\"Space Shuttle Endeavour launches for mission STS-123\">Space Shuttle Endeavour launches for mission STS-123</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_sensors"
+   ],
+   "created" : 1373464365,
+   "book" : [],
+   "micro-www" : {
+      "instrumentation" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Sensors",
+         "Measuring instruments|"
+      ],
+      "text" : "\n\n\n\n\n'Instrumentation' is defined as the art and science of measurement and control\nof process variables within a production or manufacturing area.<ref\nname=NAIT></ref>\n\nAn instrument is a device that measures a physical quantity such as flow,\ntemperature, level, distance, angle, or pressure. Instruments may be as simple\nas direct reading thermometers or may be complex multi-variable process\nanalyzers. Instruments are often part of a control system in refineries,\nfactories, and vehicles. The control of processes is one of the main branches of\napplied instrumentation. Instrumentation can also refer to handheld devices that\nmeasure some desired variable. Diverse handheld instrumentation is common in\nlaboratories, but can be found in the household as well. For example, a smoke\ndetector is a common instrument found in most western homes.\n\nInstruments attached to a control system may provide signals used to operate\nsolenoids, valves, regulators, circuit breakers, or relays. These devices\ncontrol a desired output variable, and provide either remote or automated\ncontrol capabilities. These are often referred to as final control elements when\ncontrolled remotely or by a control system.\n\nA Transmitter is a device that produces an output signal, often in the form of\na 4&ndash;20&nbsp;mA electrical current signal, although many other options\nusing voltage, frequency, pressure, or ethernet are possible. This signal can\nbe used for informational purposes, or it can be sent to a PLC, DCS, SCADA\nsystem, LabView or other type of computerized controller, where it can be\ninterpreted into readable values and used to control other devices and\nprocesses in the system.\n\nControl instrumentation plays a significant role in both gathering information\nfrom the field and changing the field parameters, and as such are a key part of\ncontrol loops.\n",
+      "title" : "instrumentation",
+      "headings" : [
+         "History",
+         "Definition",
+         "Examples",
+         "Measurement",
+         "Control",
+         "Instrumentation engineering",
+         "Instrumentation technologists and mechanics",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Voltage",
+      "2: Frequency",
+      "2: Pressure",
+      "2: Programmable_logic_controller",
+      "2: Distributed_Control_System",
+      "2: SCADA",
+      "1: Thermometers",
+      "1: Smoke_detector",
+      "1: Solenoid",
+      "1: Valve",
+      "1: Circuit_breaker",
+      "1: Relay",
+      "1: Control_system",
+      "1: Transmitter",
+      "1: Ampere",
+      "1: Ethernet",
+      "1: LabView",
+      "1: Control_loop",
+      "1: Water_clock",
+      "1: Christopher_Wren",
+      "1: Transistor#History",
+      "1: Thermostat",
+      "1: Bi-metallic_strip",
+      "1: Mercury_switch",
+      "1: Burglar_alarm",
+      "1: Miniature_snap-action_switch",
+      "1: Toaster",
+      "1: Toilet",
+      "1: Vehicle_bus",
+      "1: Airbag",
+      "1: Anti-lock_braking_system",
+      "1: Cruise_control",
+      "1: OnStar",
+      "1: Autonomous_car",
+      "1: Avionics",
+      "1: Inertial_navigation_system",
+      "1: Global_positioning_system",
+      "1: Weather_radar",
+      "1: Event_data_recorder",
+      "1: Head-up_display",
+      "1: Air_traffic_control_radar_beacon_system",
+      "1: Differential_pressure_transducer",
+      "1: Static_pressure",
+      "1: Rate_of_fluid_flow",
+      "1: Temperature_measurement",
+      "1: Level_Measurement",
+      "1: Density",
+      "1: Viscosity",
+      "1: Radiation",
+      "1: Inductance",
+      "1: Capacitance",
+      "1: Resistivity",
+      "1: Automated",
+      "1: Chemical_plant",
+      "1: Manufacturing",
+      "1: Productivity",
+      "1: Human_factors",
+      "1: Industrial_control_system",
+      "1: Instrumentation_in_petrochemical_industries",
+      "1: List_of_sensors",
+      "1: Metrology",
+      "1: Measurement",
+      "1: International_Society_of_Automation"
+   ]
+}

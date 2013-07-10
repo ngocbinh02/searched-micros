@@ -1,0 +1,25 @@
+{
+   "micrownet" : [
+      "anatomical_structure"
+   ],
+   "duck" : [
+      "HASH(0x4bd1c50)",
+      "HASH(0x4bd3028)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465189,
+   "book" : [],
+   "micro-www" : {
+      "anatomical_structure" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

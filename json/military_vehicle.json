@@ -1,0 +1,59 @@
+{
+   "micrownet" : [
+      "military_vehicle"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Militants_in_Pakistan_torch_NATO,_US_military_vehicles\" title=\"Militants in Pakistan torch NATO, US military vehicles\">Militants in Pakistan torch NATO, US <span class=\"searchmatch\">military</span> <span class=\"searchmatch\">vehicles</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Roadside_bomb_in_Turkey_kills_nine_soldiers,_injures_two\" title=\"Roadside bomb in Turkey kills nine soldiers, injures two\">Roadside bomb in Turkey kills nine soldiers, injures two</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Eyewitnesses_challenge_Egyptian_state_media_impartiality_in_fatal_protests\" title=\"Eyewitnesses challenge Egyptian state media impartiality in fatal protests\">Eyewitnesses challenge Egyptian state media impartiality in fatal protests</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/French_aircraft_on_flights_over_Libya;_US_missiles_launched_at_targets\" title=\"French aircraft on flights over Libya; US missiles launched at targets\">French aircraft on flights over Libya; US missiles launched at targets</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bob_Woodruff_injured_by_improvised_explosive_device_in_Iraq\" title=\"Bob Woodruff injured by improvised explosive device in Iraq\">Bob Woodruff injured by improvised explosive device in Iraq</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Car_bomb_explodes_in_Turkey,_killing_4_and_injuring_many\" title=\"Car bomb explodes in Turkey, killing 4 and injuring many\">Car bomb explodes in Turkey, killing 4 and injuring many</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Land_mine_explodes_in_Siirt,_Turkey_killing_three_soldiers,_injuring_six_others\" title=\"Land mine explodes in Siirt, Turkey killing three soldiers, injuring six others\">Land mine explodes in Siirt, Turkey killing three soldiers, injuring six others</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Remaining_US_troops_exit_Iraq\" title=\"Remaining US troops exit Iraq\">Remaining US troops exit Iraq</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Turkey_strengthens_air_defence_at_Syrian_border_following_shootdown\" title=\"Turkey strengthens air defence at Syrian border following shootdown\">Turkey strengthens air defence at Syrian border following shootdown</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Suicide_bomber_attacks_US_base_in_Afghanistan\" title=\"Suicide bomber attacks US base in Afghanistan\">Suicide bomber attacks US base in Afghanistan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Soldiers_question_U.S._Defense_Secretary_on_issues_during_Kuwait_visit\" title=\"Soldiers question U.S. Defense Secretary on issues during Kuwait visit\">Soldiers question U.S. Defense Secretary on issues during Kuwait visit</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Thai_PM_Thaksin_ousted_by_coup\" title=\"Thai PM Thaksin ousted by coup\">Thai PM Thaksin ousted by coup</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Israel_completing_Gaza_withdrawal\" title=\"Israel completing Gaza withdrawal\">Israel completing Gaza withdrawal</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Russian_troops_advance_into_Georgia,_violating_truce\" title=\"Russian troops advance into Georgia, violating truce\">Russian troops advance into Georgia, violating truce</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Minnesota_World_War_II_Memorial_dedicated\" title=\"Minnesota World War II Memorial dedicated\">Minnesota World War II Memorial dedicated</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Battle_of_the_Bulge_reenacted_in_Belgium\" title=\"Battle of the Bulge reenacted in Belgium\">Battle of the Bulge reenacted in Belgium</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Suicide_bomber_kills_at_least_45_in_Lahore,_Pakistan\" title=\"Suicide bomber kills at least 45 in Lahore, Pakistan\">Suicide bomber kills at least 45 in Lahore, Pakistan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Saudi_military_attacks_Yemeni_rebels\" title=\"Saudi military attacks Yemeni rebels\">Saudi <span class=\"searchmatch\">military</span> attacks Yemeni rebels</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_unmanned_aircraft_crashes_into_Iraq_political_office\" title=\"US unmanned aircraft crashes into Iraq political office\">US unmanned aircraft crashes into Iraq political office</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UN:_Military_attacks_on_Darfur_violated_international_law\" title=\"UN: Military attacks on Darfur violated international law\">UN: <span class=\"searchmatch\">Military</span> attacks on Darfur violated international law</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373467838,
+   "book" : [],
+   "micro-www" : {
+      "military_vehicle" : [
+         "military_vehicles",
+         "Military_vehicle",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Military vehicles|"
+      ],
+      "text" : "\n\nA 'military vehicle' is a vehicle that includes all land combat and\ntransportation vehicles, which are designed for or are significantly used by\nmilitary forces. Many military vehicles have armor plate or off-road\ncapabilities or both. Vehicles that are armored for combat are called armoured\nfighting vehicles.\n",
+      "title" : "military vehicle",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Combat_vehicle",
+      "1: Military_transport",
+      "1: Armed_forces",
+      "1: Off-road_vehicle",
+      "1: Armoured_fighting_vehicle"
+   ]
+}

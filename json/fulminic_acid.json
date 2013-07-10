@@ -1,0 +1,51 @@
+{
+   "micrownet" : [
+      "fulminic_acid"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373468864,
+   "book" : [],
+   "micro-www" : {
+      "fulminic_acid" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Hydrogen compounds",
+         "Acids",
+         "Fulminates"
+      ],
+      "text" : "{{chembox\n| verifiedrevid = 443827756 ImageFile = Fulminic acid.svg ImageSize = 250px\n| ImageFile1 = Fulminic_acid_3D_spacefill.png ImageSize1 = 200px IUPACName =\n| Oxidoazaniumylidynemethane OtherNames = Section1 = {{Chembox Identifiers\n| ChemSpiderID_Ref = ChemSpiderID = 454715 InChI = 1/CHNO/c1-2-3/h1H InChIKey =\n| UXKUODQYLDZXDL-UHFFFAOYAL ChEMBL_Ref = ChEMBL = 185198 StdInChI_Ref = StdInChI\n| = 1S/CHNO/c1-2-3/h1H StdInChIKey_Ref = StdInChIKey = UXKUODQYLDZXDL-UHFFFAOYSA-\n| N CASNo_Ref = CASNo = 506-85-4 PubChem = 521293 ChEBI_Ref = ChEBI = 29813\n| SMILES = [O-][N+]#C InChI=1/CHNO/c1-2-3/h1H\n  }}\n| Section2 = {{Chembox Properties Formula = HCNO MolarMass = 43.02 g\n| mol<sup>−1</sup>\n  }} }}\n\n'Fulminic acid' is a chemical compound with a molecular formula HCNO. Its silver\nsalt was discovered in 1800 by Edward Charles Howard and later investigated in\n1824 by Justus von Liebig. It is an organic acid and an isomer of isocyanic\nacid, the silver salt of which was discovered one year later by Friedrich\nWoehler.<ref>{{cite journal\n| title = Fulminic Acid in the History of Organic Chemistry author = F. Kurzer\n| journal = J. Chem. Educ. year = 2000 volume = 77 issue = 7 pages = 851–857 url\n| = http://jchemed.chem.wisc.edu/journal/Issues/2000/Jul/abs851.html doi =\n| 10.1021/ed077p851\n}}</ref> <ref> {{cite journal\n| title = The Life and Work of Edward Charles Howard author = F. Kurzer journal\n| = Annals of Science year = 1999 volume = 56 issue = 2 pages = 113–141 doi =\n| 10.1080/000337999296445\n}}</ref> The free acid was first isolated in 1966.<ref>Beck, W. and Feldl, K.\n(1966), The Structure of Fulminic Acid, HCNO. Angew. Chem. Int. Ed. Engl., 5:\n722–723. </ref>\n\nFulminic acid and its salts (fulminates), for instance mercury fulminate, are\nvery dangerous, and are often used as detonators for other explosive materials,\nand are examples of primary explosives. The vapors also are toxic.\n",
+      "title" : "fulminic acid",
+      "headings" : [
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Fulminate",
+      "1: Chemical_compound",
+      "1: Molecular_formula",
+      "1: Silver_fulminate",
+      "1: Edward_Charles_Howard",
+      "1: Justus_von_Liebig",
+      "1: Isomer",
+      "1: Isocyanic_acid",
+      "1: Friedrich_Woehler",
+      "1: J._Chem._Educ.",
+      "1: Annals_of_Science",
+      "1: Mercury_fulminate",
+      "1: Detonators",
+      "1: Explosive_materials",
+      "1: Primary_explosives"
+   ]
+}

@@ -1,0 +1,24 @@
+{
+   "micrownet" : [
+      "calymmatobacterium",
+      "calymmatobacterium_granulomatis",
+      "genus_calymmatobacterium"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471145,
+   "book" : [],
+   "micro-www" : {
+      "calymmatobacterium" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

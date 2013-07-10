@@ -1,0 +1,76 @@
+{
+   "micrownet" : [
+      "hyponym",
+      "hyponymy"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/c/Hierarchy\">Hierarchy</a>",
+      "https://en.wikipedia.org/wiki/Hyponymy",
+      "\n<a href=\"http://duckduckgo.com/-onym\">-onym</a> - The suffix -onym, in English and other languages, means \"word, name,\" and words ending in -onym refer to a specified kind of name or word, most of which are classical compounds.",
+      "Wikipedia",
+      "Hyponymy",
+      "\n<a href=\"http://duckduckgo.com/Blanket_terminology\">Blanket terminology</a> - Blanket terminology is the name given to a term that assigns the same name to a range of often unrelated or disparate group of events, phenomena, or ideas.",
+      "\n<a href=\"http://duckduckgo.com/Subcategory\">Subcategory</a> - In mathematics, a subcategory of a category C is a category S whose objects are objects in C and whose morphisms are morphisms in C with the same identities and composition of mo...",
+      "\n<a href=\"http://duckduckgo.com/c/Lexical_semantics\">Lexical semantics</a>",
+      "In linguistics, a hyponym is a word or phrase whose semantic field is included within that of another word, its hypernym (sometimes spelled hyperonym outside of the natural language processing community).",
+      "\n<a href=\"http://duckduckgo.com/Meronymy\">Meronymy</a> - Meronymy is a semantic relation used in linguistics.",
+      "HASH(0x4985620)",
+      "\n<a href=\"http://duckduckgo.com/Is-a\">Is-a</a> - In knowledge representation, object-oriented programming and design, is-a or is_a or is a (subsumption) is a relationship where one class A is a subclass  of another class B ...",
+      "HASH(0x4981160)",
+      "\n<a href=\"http://duckduckgo.com/Contrast_set\">Contrast set</a> - A contrast set is a bounded collection of items, each of which could fill the same slot in a given schema, syntactic structure, or other linguistic environment.",
+      "A",
+      "In linguistics, a hyponym is a word or phrase whose semantic field is included within that of another word, its hypernym (sometimes spelled hyperonym outside of the natural language processing community)."
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373466172,
+   "book" : [],
+   "micro-www" : {
+      "hyponym" : [
+         "Hyponym",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Hierarchy",
+         "Lexical semantics"
+      ],
+      "text" : "\n\nIn linguistics, a 'hyponym' is a word or phrase whose semantic\nfield<ref>Brinton, Laurel J. (2000). The structure of modern English: a\nlinguistic introduction. Illustrated edition. John Benjamins Publishing Company.\nISBN.9027225672, 9789027225672. Source: [http://books.google.com.au/books?id=Cq-\nhef3mfhXQC&dq=semantic+field&source=gbs_navlinks_s] (accessed: Sunday May 2,\n2010), p.112</ref> is included within that of another word, its 'hypernym'\n(sometimes spelled hyperonym outside of the natural language processing\ncommunity). In simpler terms, a hyponym shares a type-of relationship with its\nhypernym. For example, scarlet, vermilion, carmine, and crimson are all hyponyms\nof red (their hypernym), which is, in turn, a hyponym of colour.<ref></ref>\n\nComputer science often terms this relationship an \"is-a\" relationship. For\nexample, the phrase Red is-a colour can be used to describe the hyponymic\nrelationship between red and colour. <!--*autohyponyms (Horn, 1994) ?? -->\n\n'Hypernymy' is the semantic relation in which one word is the 'hypernym' of\nanother. Hypernymy, the relation in which words stand when their extensions\nstand in the relation of class to subclass, should not be confused with\nholonymy, which is the relation in which words stand when the things that they\ndenote stand in the relation of whole to part. A similar warning applies to\nhyponymy and meronymy.\n\nAs a hypernym can be understood as a more general word than its hyponym, the\nrelation is used in semantic compression by generalization to reduce a level of\nspecialization.\n",
+      "title" : "Hyponymy",
+      "headings" : [
+         "Notes",
+         "References",
+         "See also",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Is-a",
+      "2: Meronymy",
+      "1: Linguistics",
+      "1: Word",
+      "1: Phrase",
+      "1: Semantic_field",
+      "1: Natural_language_processing",
+      "1: Computer_science",
+      "1: 1994",
+      "1: Semantics",
+      "1: Holonymy",
+      "1: Generalization",
+      "1: Semantic_compression",
+      "1: Blanket_terminology",
+      "1: Contrast_set",
+      "1: -onym",
+      "1: Subcategory",
+      "1: Synonym",
+      "1: Umbrella_term",
+      "1: WordNet"
+   ]
+}

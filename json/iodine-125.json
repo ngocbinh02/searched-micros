@@ -1,0 +1,88 @@
+{
+   "micrownet" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Iodine_in_biology\">Iodine in biology</a> - Iodine is an essential trace element for life, the heaviest element commonly needed by living organisms, and the second-heaviest known to be used by any form of life (only tungsten, a component ...",
+      "Iodine-125",
+      "\n<a href=\"http://duckduckgo.com/c/Radiobiology\">Radiobiology</a>",
+      "Iodine compounds are used as germicides, antiseptics, and dyes.",
+      "\n<a href=\"http://duckduckgo.com/c/Radiopharmaceuticals\">Radiopharmaceuticals</a>",
+      "\n<a href=\"http://duckduckgo.com/Isotopes_of_iodine\">Isotopes of iodine</a> - There are 37 known isotopes of iodine from 108I to 144I, but only one, 127I, is stable.",
+      "\n<a href=\"http://duckduckgo.com/c/Radiation_oncology\">Radiation oncology</a>",
+      "Iodine-125 is a radioisotope of iodine which has uses in biological assays, nuclear medicine imaging and in radiation therapy as brachytherapy to treat prostate cancer and brain tumors.",
+      "\n<a href=\"http://duckduckgo.com/c/Isotopes_of_iodine\">Isotopes of iodine</a>"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471397,
+   "book" : [],
+   "micro-www" : {
+      "iodine-125" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Isotopes of iodine",
+         "Radiopharmaceuticals",
+         "Radiobiology",
+         "Radiation therapy"
+      ],
+      "text" : "{{Infobox isotope\n\n    | alternate_names =Radioiodine symbol =I mass_number =125 mass =\n    | num_neutrons =72 num_protons =53 abundance = halflife =59.4 days\n    | error_halflife = background =#c9F text_color = image = decay_product =\n    | decay_symbol = decay_mass = decay_mode1 = decay_energy1 = decay_mode2 =\n    | decay_energy2 = decay_mode3 = decay_energy3 = decay_mode4 = decay_energy4\n    | = parent = parent_symbol = parent_mass = parent_decay = parent2 =\n    | parent2_symbol = parent2_mass = parent2_decay = spin = excess_energy =\n    | error1 = binding_energy = error2 =\n}}\n\n'Iodine-125' (<sup>125</sup>I) is a radioisotope of iodine which has uses in\nbiological assays, nuclear medicine imaging and in radiation therapy as\nbrachytherapy to treat prostate cancer and brain tumors. It is the second longest-\nlived radioisotope of iodine, after iodine-129.\n\nIts half-life is around 59 days and it decays by electron capture to an excited\nstate of tellurium-125. This state is not the metastable Te-125m, but rather a\nlower energy state that decays immediately by gamma decay with a maximum energy\nof 35 keV. Some of the excess energy of the excited Te-125 may be internally\nconverted ejected electrons (also at 35 keV), or to x-rays (from electron\nbremsstrahlung), and also a total of 21 Auger electrons, which are produced at\nthe low energies of 50 to 500 electron\nvolts.<ref>[http://jnm.snmjournals.org/cgi/reprint/33/12/2196.pdf Comparison of\nradiotoxicity of radioiodine isotopes] accessed 6/22/10</ref> Eventually, stable\nnonradioactive ground-state Te-125 is produced, as the final decay product.\n\nThe internal conversion and Auger electrons cause little damage outside the cell\nwhich contains the isotope atom. The X-rays and gamma rays are of low enough\nenergy to deliver a higher radiation dose selectively to nearby tissues, in\n\"permanent\" brachytherapy where the isotope capsules are left in place (I-125\ncompetes with palladium-103 in such uses).<ref>[http://www.prostate-cancer.com/brachytherapy/cancer-\ntreatments/tools-of-brachytherapy.html I-125 vs. Pd-103 for permanent prostate\nbrachytherapy] accessed June 22, 2010.</ref>\n\nBecause of its relatively long half-life and emission of low-energy photons\nwhich can be detected by gamma-counter crystal detectors, I-125 is a preferred\nisotope for tagging antibodies in radioimmunoassay and other gamma-counting\nprocedures involving proteins outside the body. The same properties of the\nisotope make it useful for brachytherapy (as noted), and for certain nuclear\nmedicine scanning procedures, in which it is attached to proteins (albumin or\nfibrinogen), and where a longer half-life than provided by I-123 is required for\ntest lasting several days.\n\nIodine-125 has been used in scanning/imaging the thyroid, but iodine-123 is\npreferred for this purpose, due to better radiation penetration and shorter half-\nlife (13 hours). For radiotherapy killing of tissues that absorb iodine (such as\nthe thyroid) or that absorb an iodine-containing radiopharmaceutical, the beta-\nemitter iodine-131 is the preferred isotope; iodine-125 is used therapeutically\n(to kill tissue) only in brachytherapy.\n\n<sup>125</sup>I is created by the electron capture decay of <sup>125</sup>Xe,\nwhich is a synthetic isotope of xenon, itself created by neutron capture of the\nslightly radioactive <sup>124</sup>Xe, which occurs naturally with an abundance\nof around 0.1%. Because of the synthetic production route of <sup>125</sup>I and\nits short half-life, the natural abundance is effectively zero.\n",
+      "title" : "iodine-125",
+      "headings" : [
+         "Production",
+         "Availability and purity",
+         "Producers",
+         "Physical Data",
+         "See also",
+         "Notes and references"
+      ]
+   },
+   "micro-relation" : [
+      "4: Electron_capture",
+      "3: Xenon",
+      "2: Brachytherapy",
+      "2: Gamma_decay",
+      "2: Internal_conversion",
+      "2: Neutron_capture",
+      "2: Hypoiodite",
+      "1: Radioisotope",
+      "1: Iodine",
+      "1: Biological_assay",
+      "1: Nuclear_medicine",
+      "1: Radiation_therapy",
+      "1: Prostate_cancer",
+      "1: Brain_tumor",
+      "1: Iodine-129",
+      "1: Half-life",
+      "1: Tellurium-125",
+      "1: Electronvolt",
+      "1: X-rays",
+      "1: Bremsstrahlung",
+      "1: Auger_effect",
+      "1: Palladium-103",
+      "1: Radioimmunoassay",
+      "1: Radiopharmaceutical",
+      "1: Xenon-125",
+      "1: Xenon-124",
+      "1: Gas",
+      "1: Zircaloy",
+      "1: Nuclear_reactor",
+      "1: Iodide",
+      "1: Disproportionation",
+      "1: Halogen",
+      "1: Hypohalite",
+      "1: McMaster_University",
+      "1: McMaster_Nuclear_Reactor",
+      "1: National_Research_Universal_Reactor",
+      "1: Auger_electron",
+      "1: Isotopes_of_iodine",
+      "1: Iodine_in_biology"
+   ]
+}

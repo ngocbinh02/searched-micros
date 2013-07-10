@@ -1,0 +1,28 @@
+{
+   "micrownet" : [
+      "vaccinee"
+   ],
+   "duck" : [
+      "vaccinee",
+      "vaccinee definition: a vaccinated individual.",
+      "http://www.merriam-webster.com/dictionary/vaccinee",
+      "vaccinee definition: a vaccinated individual.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471729,
+   "book" : [],
+   "micro-www" : {
+      "vaccinee" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

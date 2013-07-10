@@ -1,0 +1,58 @@
+{
+   "micrownet" : [
+      "materialization"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Materialization",
+      "HASH(0x4af3098)",
+      "Wikipedia",
+      "Materialization",
+      "http://www.merriam-webster.com/dictionary/materialization",
+      "materialization definition: the action of materializing or becoming materialized.",
+      "Merriam-Webster",
+      "HASH(0x48008c8)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/teleportation\">Materialization (science fiction)</a> &mdash; an action, in <a href=\"http://duckduckgo.com/?q=science fiction\">science fiction</a>, associated with a <a href=\"http://duckduckgo.com/?q=matter transport system\">matter transport system</a>.",
+      "\n<a href=\"http://duckduckgo.com/materialization_(paranormal)\">Materialization (parapsychology)</a> &mdash; a concept, in <a href=\"http://duckduckgo.com/?q=parapsychology\">parapsychology</a>, is the creation or appearance of <a href=\"http://duckduckgo.com/?q=matter\">matter</a> from unknown sources."
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Roberto_C%C3%B3rdova_wins_Concertaci%C3%B3n_primary_elections_in_Pichilemu,_Chile\" title=\"Roberto Córdova wins Concertación primary elections in Pichilemu, Chile\">Roberto Córdova wins Concertación primary elections in Pichilemu, Chile</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Alberta%27s_opposition_filibuster_anti-gay_marriage_bill\" title=\"Alberta&#39;s opposition filibuster anti-gay marriage bill\">Alberta&#39;s opposition filibuster anti-gay marriage bill</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/United_States_deportation_policies_challenged_in_Santa_Clara_County,_California\" title=\"United States deportation policies challenged in Santa Clara County, California\">United States deportation policies challenged in Santa Clara County, California</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Fortieth_anniversary_of_first_manned_Moon_landing\" title=\"Fortieth anniversary of first manned Moon landing\">Fortieth anniversary of first manned Moon landing</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Negotiations_between_Athens_and_Skopje_lead_to_deadlock\" title=\"Negotiations between Athens and Skopje lead to deadlock\">Negotiations between Athens and Skopje lead to deadlock</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/North_Korea_reportedly_planning_nuclear_bomb_test\" title=\"North Korea reportedly planning nuclear bomb test\">North Korea reportedly planning nuclear bomb test</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Free_Software_Foundation_announces_release_of_gNewSense_version_1.0\" title=\"Free Software Foundation announces release of gNewSense version 1.0\">Free Software Foundation announces release of gNewSense version 1.0</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Senate_Select_Committee_on_Intelligence_finds_no_link_between_Saddam_Hussein_and_al-Qaeda\" title=\"US Senate Select Committee on Intelligence finds no link between Saddam Hussein and al-Qaeda\">US Senate Select Committee on Intelligence finds no link between Saddam Hussein and al-Qaeda</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chula_Vista,_California_becomes_model_for_blight_control_laws_in_the_US\" title=\"Chula Vista, California becomes model for blight control laws in the US\">Chula Vista, California becomes model for blight control laws in the US</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NYC_Transit_on_strike\" title=\"NYC Transit on strike\">NYC Transit on strike</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/David_Lange,_former_New_Zealand_prime_minister,_dies_at_63\" title=\"David Lange, former New Zealand prime minister, dies at 63\">David Lange, former New Zealand prime minister, dies at 63</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Interview_with_Innocent_Watat,_City_Council_candidate_for_Wards_3_%26_4_in_Brampton,_Canada\" title=\"Interview with Innocent Watat, City Council candidate for Wards 3 &amp; 4 in Brampton, Canada\">Interview with Innocent Watat, City Council candidate for Wards 3 &amp; 4 in Brampton, Canada</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465467,
+   "book" : [],
+   "micro-www" : {
+      "materialization" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Materialization' is the name of several things: *Materialization\n(parapsychology) &mdash; a concept, in parapsychology, is the creation or\nappearance of matter from unknown sources. *Materialization (science\nfiction) &mdash; an action, in science fiction, associated with a matter\ntransport system.\n",
+      "title" : "materialization",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Parapsychology",
+      "1: Matter",
+      "1: Science_fiction",
+      "1: Teleportation"
+   ]
+}

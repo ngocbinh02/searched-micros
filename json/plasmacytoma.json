@@ -1,0 +1,106 @@
+{
+   "micrownet" : [
+      "plasmacytoma"
+   ],
+   "duck" : [
+      "Plasmacytoma refers to a malignant plasma cell tumor growing within soft tissue or within the axial skeleton.",
+      "https://en.wikipedia.org/wiki/Plasmacytoma",
+      "\n<a href=\"http://duckduckgo.com/c/Lymphoid-related_cutaneous_conditions\">Lymphoid-related cutaneous conditions</a>",
+      "\n<a href=\"http://duckduckgo.com/waldenstr%C3%B6m's_macroglobulinemia\">Waldenstrom's macroglobulinemia</a> - Waldenström's macroglobulinemia (WM, also known as lymphoplasmacytic lymphoma) is cancer affecting B cells, a type of white blood cell.",
+      "HASH(0x49df110)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Multiple_myeloma\">Multiple myeloma</a> - Multiple myeloma (from Greek myelo-, bone marrow), also known as plasma cell myeloma or Kahler's disease (after Otto Kahler), is a cancer of plasma cells, a type of white blood c...",
+      "Plasmacytoma",
+      "\n<a href=\"http://duckduckgo.com/Cutaneous_B-cell_lymphoma\">Cutaneous B-cell lymphoma</a> - Cutaneous B-cell lymphomas constitute a group of diseases that occur less commonly than cutaneous T-cell lymphoma, and are characterized histologically by B-cells that appear similar to those no...",
+      "https://i.duckduckgo.com/i/a4f7be29.jpg",
+      "\n<a href=\"http://duckduckgo.com/Monoclonal_gammopathy_of_undetermined_significance\">Monoclonal gammopathy of undetermined significance</a> or <a href=\"http://duckduckgo.com/?q=MGUS\">MGUS</a>",
+      "HASH(0x4f2a7a0)",
+      "Plasmacytoma refers to a malignant plasma cell tumor growing within soft tissue or within the axial skeleton.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373463926,
+   "book" : [],
+   "micro-www" : {
+      "plasmacytoma" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Hematologic neoplasms",
+         "Lymphoid-related cutaneous conditions"
+      ],
+      "text" : "\n{{Infobox disease\n | Name = Plasmacytoma Image = Plasmacytoma ultramini1.jpg Caption =\n | Micrograph of a 'plasmacytoma'. H&E stain. DiseasesDB = 8628 ICD10 = ICD9 =\n | ICDO = , OMIM = MedlinePlus = eMedicineSubj = med eMedicineTopic = 2532\n | MeshID = D010954\n}} 'Plasmacytoma' refers to a malignant plasma cell tumor growing within soft\ntissue or within the axial skeleton. There are three distinct groups of\nplasmacytoma defined by the International Myeloma Working Group: solitary\nplasmacytoma of bone (SPB), extramedullary plasmacytoma (EP) and multiple\nplasmacytomas that are either primary or recurrent.<ref name=\"pmid12780789\"/>\nThe most common of these is SPB, accounting for 3–5% of all plasma cell\nmalignancies.<ref name=\"pmid15009059\"/> SPBs occur as lytic lesions within the\naxial skeleton and EPs most often occur in the upper respiratory tract (85%),\nbut can occur in any soft tissue. Approximately half of all cases produce\nparaproteinemia. SBPs and EPs are mostly treated with radiotherapy, but surgery\nis used in some cases of EP. The skeletal forms frequently progress to multiple\nmyeloma over the course of 2–4 years.<ref name=\"pmid16304406\"/> Due to their\ncellular similarity, plasmacytomas have to be differentiated from multiple\nmyeloma. For SPB and EP the distinction is the presence of only one lesion\n(either in bone or soft tissue), normal bone marrow (<5% plasma cells), normal\nskeletal survey, no or low paraprotein and no end organ damage.<ref\nname=\"pmid12780789\"/>\n",
+      "title" : "plasmacytoma",
+      "headings" : [
+         "Terminology",
+         "Classification",
+         "Epidemiology",
+         "Signs and symptoms",
+         "Diagnosis",
+         "Treatment",
+         "Prognosis",
+         "Gallery",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "5: Multiple_myeloma",
+      "3: Skeletal_survey",
+      "3: Paraprotein",
+      "2: Plasma_cell",
+      "2: Tumor",
+      "2: Axial_skeleton",
+      "2: International_Myeloma_Working_Group",
+      "2: Upper_respiratory_tract",
+      "2: Radiotherapy",
+      "2: Bone_marrow",
+      "2: Systemic_disease",
+      "2: PET-CT",
+      "1: Micrograph",
+      "1: H&E_stain",
+      "1: Malignant",
+      "1: Soft_tissue",
+      "1: Paraproteinemia",
+      "1: Plasma_cell_dyscrasia",
+      "1: Back_pain",
+      "1: Spinal_cord_compression",
+      "1: Pathological_fracture",
+      "1: Mucosa",
+      "1: Epistaxis",
+      "1: Rhinorrhoea",
+      "1: Palpable",
+      "1: Serum_protein_electrophoresis",
+      "1: Bone_marrow_biopsy",
+      "1: Bence_Jones_protein",
+      "1: Complete_blood_count",
+      "1: Projectional_radiography",
+      "1: MRI",
+      "1: Polyclonal_antibodies",
+      "1: Monoclonal_antibodies",
+      "1: Phenotype",
+      "1: Cluster_of_differentiation",
+      "1: Primary_tumors",
+      "1: X-ray_computed_tomography",
+      "1: Blood_calcium",
+      "1: Renal_insufficiency",
+      "1: Anemia",
+      "1: Radiosensitivity",
+      "1: Surgery",
+      "1: Monoclonal_gammopathy_of_undetermined_significance",
+      "1: MGUS",
+      "1: Waldenstrom's_macroglobulinemia",
+      "1: Cutaneous_B-cell_lymphoma",
+      "1: National_Cancer_Institute"
+   ]
+}

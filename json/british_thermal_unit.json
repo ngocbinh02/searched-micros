@@ -1,0 +1,74 @@
+{
+   "micrownet" : [
+      "british_thermal_unit"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/A_leak_at_the_Sellafield_nuclear_reprocessing_facility_on_Cumbrian_coast,_England\" title=\"A leak at the Sellafield nuclear reprocessing facility on Cumbrian coast, England\">A leak at the Sellafield nuclear reprocessing facility on Cumbrian coast, England</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:May_26,_2010\" title=\"News briefs:May 26, 2010\">News briefs:May 26, 2010</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373469136,
+   "book" : [],
+   "micro-www" : {
+      "british_thermal_unit" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Units of energy",
+         "Imperial units",
+         "Customary units of measurement in the United States"
+      ],
+      "text" : "\n\n\nThe 'British thermal unit' (symbol 'Btu' or sometimes 'BTU') is a traditional\nunit of energy equal to about 1055 joules. It is the amount of energy needed to\ncool or heat one pound of water by one degree Fahrenheit. In scientific contexts\nthe Btu has largely been replaced by the SI unit of energy, the joule.\n\nThe unit is most often used as a measure of power (as Btu/h) in the power, steam\ngeneration, heating and air conditioning industries, and also as a measure of\nagricultural energy production (Btu/kg). It is still used in metric English-\nspeaking countries (such as Canada), and remains the standard unit of\nclassification for air conditioning units manufactured and sold in many non-English-\nspeaking metric countries. In North America, the term \"Btu\" is used to describe\nthe heat value (energy content) of fuels.\n",
+      "title" : "british thermal unit",
+      "headings" : [
+         "Definitions",
+         "Conversions",
+         "Associated units",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "4: Calorie",
+      "3: Joule",
+      "2: Canada",
+      "1: Energy",
+      "1: International_System_of_Units",
+      "1: Electrical_power_industry",
+      "1: Steam",
+      "1: Heating",
+      "1: Air_conditioning",
+      "1: Metric_system",
+      "1: North_America",
+      "1: London",
+      "1: International_Organization_for_Standardization",
+      "1: International_standard",
+      "1: ISO_31-4",
+      "1: United_States",
+      "1: Roman_numerals",
+      "1: Mega-",
+      "1: Watt_hour",
+      "1: Foot-poundal",
+      "1: Foot-pound",
+      "1: Natural_gas",
+      "1: Watt",
+      "1: American_Society_of_Heating,_Refrigerating_and_Air-Conditioning_Engineers",
+      "1: Horsepower",
+      "1: 1,000,000,000,000,000",
+      "1: Board_of_Trade_Unit",
+      "1: Conversion_of_units",
+      "1: Latent_heat",
+      "1: Metrication",
+      "1: Ton_of_refrigeration"
+   ]
+}

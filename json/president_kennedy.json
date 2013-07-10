@@ -1,0 +1,45 @@
+{
+   "micrownet" : [
+      "president_kennedy"
+   ],
+   "duck" : [
+      "HASH(0x4a240b8)",
+      "HASH(0x46fea68)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/President_Kennedy%27s_sister_Eunice_Kennedy_in_critical_condition_at_hospital\" title=\"President Kennedy&#39;s sister Eunice Kennedy in critical condition at hospital\"><span class=\"searchmatch\">President</span> <span class=\"searchmatch\">Kennedy</span>&#39;s sister Eunice <span class=\"searchmatch\">Kennedy</span> in critical condition at </a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Author_of_Wikipedia_character_assassination_takes_responsibility\" title=\"Author of Wikipedia character assassination takes responsibility\">Author of Wikipedia character assassination takes responsibility</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Gillibrand_named_as_Clinton%27s_Senate_replacement\" title=\"Gillibrand named as Clinton&#39;s Senate replacement\">Gillibrand named as Clinton&#39;s Senate replacement</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Senator_Ted_Kennedy_dies_at_age_77\" title=\"Senator Ted Kennedy dies at age 77\">Senator Ted <span class=\"searchmatch\">Kennedy</span> dies at age 77</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Loss_of_integrity_in_underground_city_tunnel_causes_evacuation_of_Downtown_Montreal\" title=\"Loss of integrity in underground city tunnel causes evacuation of Downtown Montreal\">Loss of integrity in underground city tunnel causes evacuation of Downtown Montreal</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Documents_regarding_Kennedy_assassination_found_in_Dallas\" title=\"Documents regarding Kennedy assassination found in Dallas\">Documents regarding <span class=\"searchmatch\">Kennedy</span> assassination found in Dallas</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Senator_Ted_Kennedy_collapses_during_inaugural_luncheon\" title=\"US Senator Ted Kennedy collapses during inaugural luncheon\">US Senator Ted <span class=\"searchmatch\">Kennedy</span> collapses during inaugural luncheon</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bush_announces_2007_Medal_of_Freedom_winners\" title=\"Bush announces 2007 Medal of Freedom winners\">Bush announces 2007 Medal of Freedom winners</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._Senator_Dodd_bows_out_of_presidential_race\" title=\"U.S. Senator Dodd bows out of presidential race\">U.S. Senator Dodd bows out of presidential race</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sherpa_mountaineer_Nawang_Gombu,_first_to_summit_Mount_Everest_twice,_dies\" title=\"Sherpa mountaineer Nawang Gombu, first to summit Mount Everest twice, dies\">Sherpa mountaineer Nawang Gombu, first to summit Mount Everest twice, dies</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_White_House_correspondent_Helen_Thomas_retires\" title=\"US White House correspondent Helen Thomas retires\">US White House correspondent Helen Thomas retires</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Economist_John_Kenneth_Galbraith_dies\" title=\"Economist John Kenneth Galbraith dies\">Economist John Kenneth Galbraith dies</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Caroline_Kennedy_drops_bid_for_New_York_Senate_seat\" title=\"Caroline Kennedy drops bid for New York Senate seat\">Caroline <span class=\"searchmatch\">Kennedy</span> drops bid for New York Senate seat</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Former_U.S._senator_Lloyd_Bentsen_dies_at_85\" title=\"Former U.S. senator Lloyd Bentsen dies at 85\">Former U.S. senator Lloyd Bentsen dies at 85</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ted_Kennedy_diagnosed_with_brain_tumor\" title=\"Ted Kennedy diagnosed with brain tumor\">Ted <span class=\"searchmatch\">Kennedy</span> diagnosed with brain tumor</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_unveils_revived_space_exploration_program\" title=\"US unveils revived space exploration program\">US unveils revived space exploration program</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Comprehensive_immigration_bill_fails_in_United_States_Senate\" title=\"Comprehensive immigration bill fails in United States Senate\">Comprehensive immigration bill fails in United States Senate</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Islamic_political_party_seeks_registration_in_Australia\" title=\"Islamic political party seeks registration in Australia\">Islamic political party seeks registration in Australia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Correspondence_of_late_Greek_Orthodox_leader_of_Americas_to_be_published\" title=\"Correspondence of late Greek Orthodox leader of Americas to be published\">Correspondence of late Greek Orthodox leader of Americas to be published</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464000,
+   "book" : [],
+   "micro-www" : {
+      "president_kennedy" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

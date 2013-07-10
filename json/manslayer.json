@@ -1,0 +1,86 @@
+{
+   "micrownet" : [
+      "manslayer"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Manslaughter",
+      "\n<a href=\"http://duckduckgo.com/Criminal_transmission_of_HIV\">Criminal transmission of HIV</a> -  Some countries or jurisdictions, including some areas of the U.S., have enacted laws expressly to criminalize HIV transmission or exposure, charging those accused with criminal transmission of HIV.",
+      "Wikipedia",
+      "Manslaughter",
+      "http://www.merriam-webster.com/dictionary/manslaughter",
+      "manslaughter definition: the unlawful killing of a human being without express or implied malice.",
+      "\n<a href=\"http://duckduckgo.com/c/Manslaughter\">Manslaughter Category</a>",
+      "\n<a href=\"http://duckduckgo.com/Manslaughter_in_English_law\">Manslaughter in English law</a> - In the English law of homicide, manslaughter is a less serious offence than murder, the differential being between levels of fault based on the mens rea.",
+      "Manslaughter is a legal term for the killing of a human being, in a manner considered by law as less culpable than murder.",
+      "\n<a href=\"http://duckduckgo.com/Imperfect_self-defense\">Imperfect self-defense</a> - Imperfect self-defense is a common law doctrine of criminal procedure recognized by some jurisdictions whereby a defendant may mitigate punishment or sentencing imposed for a crime involving the...",
+      "HASH(0x47f1e38)",
+      "\n<a href=\"http://duckduckgo.com/depraved-heart_murder\">Depraved heart murder</a> - Depraved-heart murder, also known as depraved-indifference murder, is an American legal term for an action that demonstrates a \"callous disregard for human life\" and results in death.",
+      "\n<a href=\"http://duckduckgo.com/c/Criminal_law\">Criminal law</a>",
+      "Merriam-Webster",
+      "HASH(0x4964148)",
+      "A",
+      "Manslaughter is a legal term for the killing of a human being, in a manner considered by law as less culpable than murder."
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465924,
+   "book" : [],
+   "micro-www" : {
+      "manslayer" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Criminal law",
+         "Manslaughter|"
+      ],
+      "text" : "\n\n\n\n'Manslaughter' is a legal term for the killing of a human being, in a manner\nconsidered by law as less culpable than murder. The distinction between murder\nand manslaughter is said to have first been made by the Ancient Athenian\nlawmaker Draco in the 7th century BCE.<ref>Ehrenberg, Victor. From Solon to\nSocrates. London & New York: Routledge, 2010. p. 46.</ref>\n\nThe definition of manslaughter differs from jurisdiction to jurisdiction. The\nlaw generally differentiates between levels of criminal culpability based on the\n[[mens rea]], or state of mind; or the circumstances under which the killing\noccurred (mitigating factors). Manslaughter is usually broken down into two\ndistinct categories: [[#Voluntary manslaughter|voluntary manslaughter]] and\n[[#Involuntary manslaughter|involuntary manslaughter]]; however, this is not the\ncase in all jurisdictions.<ref>See, e.g., </ref>\n\nIn some jurisdictions, such as the UK, Canada and some Australian states\nprovocation (or \"loss of control\" in English law) is a partial defence to a\ncharge of murder which acts by converting what would otherwise have been murder\ninto manslaughter.\n",
+      "title" : "manslaughter",
+      "headings" : [
+         "General",
+         "United States law",
+         "English law",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: United_States",
+      "2: England_and_Wales",
+      "2: Criminal_negligence",
+      "1: Culpability",
+      "1: Murder",
+      "1: Mitigating_factor",
+      "1: Malice_aforethought",
+      "1: Lesser_included_offense",
+      "1: Infanticide",
+      "1: Post-natal_depression",
+      "1: Scotland",
+      "1: Commonwealth_of_Nations",
+      "1: Willful_blindness",
+      "1: Intoxication",
+      "1: Assisted_suicide",
+      "1: English_law",
+      "1: Murder_in_English_law",
+      "1: Judge",
+      "1: Lesser_included_offence",
+      "1: Jury",
+      "1: Defendant",
+      "1: Homicide_Act_1957",
+      "1: Coroners_and_Justice_Act_2009",
+      "1: Grievous_bodily_harm",
+      "1: Partial_defence",
+      "1: Criminal_transmission_of_HIV",
+      "1: Depraved_heart_murder",
+      "1: Imperfect_self-defense",
+      "1: Manslaughter_in_English_law"
+   ]
+}

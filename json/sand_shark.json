@@ -1,0 +1,69 @@
+{
+   "micrownet" : [
+      "sand_shark"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Palau_police_shoot_Chinese_fisherman,_police_plane_feared_lost\" title=\"Palau police shoot Chinese fisherman, police plane feared lost\">Palau police shoot Chinese fisherman, police plane feared lost</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373467383,
+   "book" : [],
+   "micro-www" : {
+      "sand_shark" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Odontaspididae",
+         "Ovoviviparous fish"
+      ],
+      "text" : "\n\n{{Taxobox\n| status = VU status_system = IUCN3.1 name = Sand sharks image =\n| Grey_Nurse_Shark_at_Fish_Rock_Cave,_NSW.jpg image_width = 250px image_caption\n| = Sand tiger shark (''Carcharias taurus'') fossil_range = regnum = Animalia\n| phylum = Chordata classis = Chondrichthyes subclassis = Elasmobranchii ordo =\n| Lamniformes familia = 'Odontaspididae' familia_authority = J. P. Müller &\n| Henle, 1839\n}}\n\n'Sand sharks', also known as 'sand tiger sharks', 'grey nurse sharks' or\n'ragged tooth sharks', are mackerel sharks of the family 'Odontaspididae'. They\nare found worldwide in temperate and tropical waters. There are four species in\ntwo genera.\n",
+      "title" : "sand shark",
+      "headings" : [
+         "Description",
+         "Location and origins",
+         "Behavior",
+         "Reproduction",
+         "Attacks on people",
+         "Species",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Lamniformes",
+      "2: Constantine_Samuel_Rafinesque",
+      "1: Sand_tiger_shark",
+      "1: Animal",
+      "1: Chordate",
+      "1: Chondrichthyes",
+      "1: Elasmobranchii",
+      "1: Johannes_Peter_Müller",
+      "1: Friedrich_Gustav_Jakob_Henle",
+      "1: Dorsal_fin",
+      "1: Pacific",
+      "1: Mediterranean",
+      "1: Adriatic_Sea",
+      "1: Stomachs",
+      "1: Prey",
+      "1: Squid",
+      "1: Fishing_nets",
+      "1: Buoyant",
+      "1: Embryo",
+      "1: Oophagy",
+      "1: Vulnerable_species",
+      "1: People",
+      "1: Francis_Day",
+      "1: Louis_Agassiz",
+      "1: Antoine_Risso",
+      "1: Günther_Maul"
+   ]
+}

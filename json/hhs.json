@@ -1,0 +1,31 @@
+{
+   "micrownet" : [
+      "hhs"
+   ],
+   "duck" : [
+      "HHS"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Advocacy_groups_complain_about_4parents.gov_sex-ed_website\" title=\"Advocacy groups complain about 4parents.gov sex-ed website\">Advocacy groups complain about 4parents.gov sex-ed website</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._minimum_wage_gets_first_federal_boost_in_a_decade\" title=\"U.S. minimum wage gets first federal boost in a decade\">U.S. minimum wage gets first federal boost in a decade</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Kentucky_faith-based_agency_under_fire_for_religious_coercion\" title=\"Kentucky faith-based agency under fire for religious coercion\">Kentucky faith-based agency under fire for religious coercion</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/George_W._Bush_nominates_EPA_Administrator_Mike_Leavitt_as_health_secretary\" title=\"George W. Bush nominates EPA Administrator Mike Leavitt as health secretary\">George W. Bush nominates EPA Administrator Mike Leavitt as health secretary</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Department_of_Health_proposes_priorities_for_flu_vaccine_distribution\" title=\"US Department of Health proposes priorities for flu vaccine distribution\">US Department of Health proposes priorities for flu vaccine distribution</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/EPA_declares_%27emergency%27_asbestos_cleanup_in_Montana_town\" title=\"EPA declares &#39;emergency&#39; asbestos cleanup in Montana town\">EPA declares &#39;emergency&#39; asbestos cleanup in Montana town</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373467783,
+   "book" : [],
+   "micro-www" : {
+      "hhs" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

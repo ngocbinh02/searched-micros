@@ -1,0 +1,103 @@
+{
+   "micrownet" : [],
+   "duck" : [
+      "HASH(0x4c8f800)",
+      "HASH(0x4d619d8)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Soviet_rockets_on_sale_in_Moldovan_breakoff_region\" title=\"Soviet rockets on sale in Moldovan breakoff region\">Soviet rockets on sale in Moldovan breakoff region</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373463764,
+   "book" : [],
+   "micro-www" : {
+      "strontium_90" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Fission products",
+         "Isotopes of strontium|Strontium-090",
+         "Radioisotope fuels"
+      ],
+      "text" : "\n{{Infobox isotope\n    | alternate_names = symbol =Sr mass_number =90 mass = num_neutrons =52\n    | num_protons =38 abundance = syn halflife =28.79 years error_halflife =\n    | background = orange text_color = image = decay_product =isotopes of\n    | yttrium#90 decay_symbol =Y decay_mass =90 decay_mode1 =Beta decay\n    | decay_energy1 =0.546 decay_mode2 = decay_energy2 = decay_mode3 =\n    | decay_energy3 = decay_mode4 = decay_energy4 = parent = parent_symbol =\n    | parent_mass = parent_decay = parent2 = parent2_symbol = parent2_mass =\n    | parent2_decay = spin = excess_energy = error1 = binding_energy = error2 =\n}}\n\n'Strontium-90' ('{{SimpleNuclide2|strontium|90}}') is a radioactive isotope of\nstrontium produced by nuclear fission with a half-life of 28.8 years. It\nundergoes β<sup>−</sup> decay into yttrium-90, with a decay energy of\n0.546&nbsp;MeV.<ref name=\"hyperphysics\"></ref> Strontium-90 has applications in\nmedicine and industry and is an isotope of concern in fallout from nuclear\nweapons and nuclear accidents.<ref name=\"EPA\"></ref>\n",
+      "title" : "Strontium-90",
+      "headings" : [
+         "Radioactivity",
+         "Fission product",
+         "Biological effects",
+         "Industrial and aerospace applications",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "4: Beta_decay",
+      "3: Nuclear_fallout",
+      "2: Nuclear_fission",
+      "2: Half-life",
+      "2: Bone_cancer",
+      "2: Chernobyl_disaster",
+      "1: Syn",
+      "1: Radioactive",
+      "1: Isotope",
+      "1: Strontium",
+      "1: Yttrium-90",
+      "1: Nuclear_weapons",
+      "1: Nuclear_accidents",
+      "1: Decay_energy",
+      "1: Electronvolt",
+      "1: Electron",
+      "1: Yttrium",
+      "1: Zirconium",
+      "1: Beta_particle",
+      "1: Gamma_photon",
+      "1: Spent_nuclear_fuel",
+      "1: Radioactive_waste",
+      "1: Nuclear_reactor",
+      "1: Nuclear_test",
+      "1: Thermal_neutron",
+      "1: Fission_product_yield",
+      "1: Uranium-235",
+      "1: Uranium-233",
+      "1: Pu-239",
+      "1: Bone_seeker",
+      "1: Calcium",
+      "1: Group_2_element",
+      "1: Bone",
+      "1: Bone_marrow",
+      "1: Leukemia",
+      "1: Bioassay",
+      "1: Urinalysis",
+      "1: Nuclear_weapon",
+      "1: Biological_half_life",
+      "1: Caesium",
+      "1: Caesium-137",
+      "1: Iodine-131",
+      "1: Calcium-sensing_receptor",
+      "1: Parathyroid",
+      "1: Primary_hyperparathyroidism",
+      "1: Radiotherapy",
+      "1: Strontium-89",
+      "1: Radioactive_tracer",
+      "1: Deciduous_teeth",
+      "1: Louise_Reiss",
+      "1: Baby_Tooth_Survey",
+      "1: John_F._Kennedy",
+      "1: Partial_Nuclear_Test_Ban_Treaty",
+      "1: United_Kingdom",
+      "1: Soviet_Union",
+      "1: Nuclear_weapons_testing",
+      "1: Plutonium-238",
+      "1: Radioisotope_thermoelectric_generator",
+      "1: Strontium_fluoride",
+      "1: Strontium_titanate"
+   ]
+}

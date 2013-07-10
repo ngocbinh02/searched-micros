@@ -1,0 +1,63 @@
+{
+   "micrownet" : [
+      "tercet"
+   ],
+   "duck" : [
+      "A tercet is composed of three lines of poetry, forming a stanza or a complete poem.",
+      "https://en.wikipedia.org/wiki/Tercet",
+      "HASH(0x49c3ee0)",
+      "Wikipedia",
+      "Tercet",
+      "\n<a href=\"http://duckduckgo.com/c/Stanzaic_form\">Stanzaic form</a>",
+      "http://www.merriam-webster.com/dictionary/tercet",
+      "tercet definition: a unit or group of three lines of verse.",
+      "Merriam-Webster",
+      "HASH(0x49c4e28)",
+      "A tercet is composed of three lines of poetry, forming a stanza or a complete poem.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464556,
+   "book" : [],
+   "micro-www" : {
+      "tercet" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Stanzaic form"
+      ],
+      "text" : "\nA 'tercet' is composed of three lines of poetry, forming a stanza or a complete\npoem.<ref>William Baer, Writing metrical poetry: contemporary lessons for\nmastering traditional forms, 2006, \"Chapet 9: The Tercet\" pp 128ff.</ref> English-\nlanguage haiku is an example of an unrhymed tercet poem. A poetic triplet is a\ntercet in which all three lines follow the same rhyme, a a a; triplets are\nrather rare; they are more customarily used sparingly in verse of heroic\ncouplets or other couplet verse, to add extraordinary emphasis.<ref>Baer\n2006.</ref>\n\nOther types of tercet include an enclosed tercet where the lines rhyme in an a b\na pattern and terza rima where the a b a pattern of a verse is continued in the\nnext verse by making the outer lines of the next stanza rhyme with the central\nline of the preceding stanza, b c b, as in the terza rima or terzina form of\nDante Alighieri's Divine Comedy. There has been much investigation of the\npossible sources of the Dantesque terzina, which Benedetto Croce characterised\nas \"linked, enclosed, disciplined, vehement and yet calm\".<ref>Croce, (M.E.\nMoss, tr.) Essays on Literature and Literary Criticism, 1990, \"Dante's poetry\",\np 290.</ref> William Baer observes of the tercets of terza rima, \"These\ninterlocking rhymes tend to pull the listener's attention forward in a\ncontinuous flow.... Given this natural tendency to glide forward, terza rima is\nespecially well-suited to narration and description\".<ref>Baer 2006, p.\n130.</ref>\n\nThe tercet also forms part of the villanelle, where the initial five stanzas are\ntercets, followed by a concluding quatrain.\n\nA tercet may also form the separate halves of the ending sestet in a Petrarchan\nsonnet, where the rhyme scheme is abbaabba cdccdc, as in Longfellow's \"Cross of\nSnow\". For example, while \"Cross of Snow\" is indeed a Petrarchan sonnet, it does\nnot follow the form of abbaabba cdccdc. Instead, its form is abba cddc efg efg.\nA tercet also ends sestinas where the keywords of the lines before are repeated\nin a highly ordered form.\n\nThe tercet was introduced into English poetry by Sir Thomas Wyatt in the 16th\ncentury. It was employed by Shelley and is the form used in Byron's The Prophecy\nof Dante.<ref>Noted in [[Benet's Reader's Encyclopedia]], 1948, s.v. \"tercet\",\n\"terza rima\"</ref>\n",
+      "title" : "tercet",
+      "headings" : [
+         "Notes"
+      ]
+   },
+   "micro-relation" : [
+      "1: Poetry",
+      "1: Stanza",
+      "1: Haiku_in_English",
+      "1: Rhyme_scheme",
+      "1: Heroic_couplet",
+      "1: Terza_rima",
+      "1: Dante_Alighieri",
+      "1: Divine_Comedy",
+      "1: Benedetto_Croce",
+      "1: Villanelle",
+      "1: Quatrain",
+      "1: Sestet",
+      "1: Petrarchan_sonnet",
+      "1: Sestina",
+      "1: English_poetry",
+      "1: Percy_Bysshe_Shelley",
+      "1: George_Gordon,_Lord_Byron"
+   ]
+}

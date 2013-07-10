@@ -1,0 +1,25 @@
+{
+   "micrownet" : [
+      "genus_arabidopsis"
+   ],
+   "duck" : [
+      "HASH(0x4a64bb0)",
+      "HASH(0x49d4bc0)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465414,
+   "book" : [],
+   "micro-www" : {
+      "genus_arabidopsis" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

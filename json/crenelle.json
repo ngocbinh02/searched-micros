@@ -1,0 +1,58 @@
+{
+   "micrownet" : [
+      "crenelle"
+   ],
+   "duck" : [
+      "crenelle",
+      "An embrasure or indentation in a battlement; a loophole in a fortress; an indentation; a notch.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=crenelle",
+      "An embrasure or indentation in a battlement; a loophole in a fortress; an indentation; a notch.",
+      "TheFreeDictionary"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373467326,
+   "book" : [],
+   "micro-www" : {
+      "crenelle" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Fortification (architectural elements)",
+         "Walls",
+         "Windows",
+         "Medieval defences"
+      ],
+      "text" : "\n\n\n at the top) and small cannon fire through the circular opening, Château de\n Caen, France]] stepped embrasure, Taunton Stop Line, England]]\n\nIn military architecture, an 'embrasure' is the opening in a crenellation or\nbattlement between the two raised solid portions or merlons, sometimes called a\ncrenel or crenelle. In domestic architecture this refers to the outward splay of\na window or arrow slit on the inside.\n\nA 'loophole', 'arrow loop' or 'arrow slit' passes through a solid wall and was\noriginally for use by archers. The purpose of embrasures is to allow weapons to\nbe fired out from the fortification while the firer remains under cover. The\nsplay of the wall on the inside provides room for the soldier and his equipment,\nand allows them to get as close to the wall face and arrow slit itself as\npossible. Excellent examples of deep embrasures with arrow slits are to be seen\nat Aigues-Mortes and Château de Coucy, both in France.\n",
+      "title" : "Embrasure",
+      "headings" : [
+         "History",
+         "Variations",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Cannon",
+      "2: Arrowslit",
+      "1: Château_de_Caen",
+      "1: Taunton_Stop_Line",
+      "1: Battlement",
+      "1: Merlon",
+      "1: Domestic_architecture",
+      "1: Arrow_slit",
+      "1: Aigues-Mortes",
+      "1: Château_de_Coucy",
+      "1: Musket",
+      "1: Arbalest",
+      "1: Christian_symbolism"
+   ]
+}

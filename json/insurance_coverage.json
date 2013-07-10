@@ -1,0 +1,42 @@
+{
+   "micrownet" : [
+      "insurance_coverage"
+   ],
+   "duck" : [
+      "HASH(0x4abc0a8)",
+      "HASH(0x49e7730)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Senate_advances_health_care_reform_bill\" title=\"US Senate advances health care reform bill\">US Senate advances health care reform bill</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Senate_finance_committee_to_vote_on_health_care_bill\" title=\"US Senate finance committee to vote on health care bill\">US Senate finance committee to vote on health care bill</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Illinois_tollway_worker_jailed_for_stealing_fines\" title=\"Illinois tollway worker jailed for stealing fines\">Illinois tollway worker jailed for stealing fines</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._Senate_passes_landmark_health_care_reform_bill\" title=\"U.S. Senate passes landmark health care reform bill\">U.S. Senate passes landmark health care reform bill</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Swiss_reject_single_health_insurance\" title=\"Swiss reject single health insurance\">Swiss reject single health <span class=\"searchmatch\">insurance</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ontario_Votes_2007:_Interview_with_Family_Coalition_Party_candidate_Suzanne_Fortin,_Nepean-Carleton\" title=\"Ontario Votes 2007: Interview with Family Coalition Party candidate Suzanne Fortin, Nepean-Carleton\">Ontario Votes 2007: Interview with Family Coalition Party candidate Suzanne Fortin, Nepean-Carleton</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Massachusetts_lawmakers_enact_plan_for_universal_health_coverage\" title=\"Massachusetts lawmakers enact plan for universal health coverage\">Massachusetts lawmakers enact plan for universal health <span class=\"searchmatch\">coverage</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_healthcare_bill_passes_Senate_vote\" title=\"US healthcare bill passes Senate vote\">US healthcare bill passes Senate vote</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._Senate_releases_version_of_Healthcare_Bill\" title=\"U.S. Senate releases version of Healthcare Bill\">U.S. Senate releases version of Healthcare Bill</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Senate_unanimously_passes_genetic_nondiscrimination_bill\" title=\"US Senate unanimously passes genetic nondiscrimination bill\">US Senate unanimously passes genetic nondiscrimination bill</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Smoke_from_massive_warehouse_fire_in_Buffalo,_New_York_USA_can_be_seen_40_miles_away\" title=\"Smoke from massive warehouse fire in Buffalo, New York USA can be seen 40 miles away\">Smoke from massive warehouse fire in Buffalo, New York USA can be seen 40 miles away</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._Supreme_Court_upholds_health_care_mandate\" title=\"U.S. Supreme Court upholds health care mandate\">U.S. Supreme Court upholds health care mandate</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/On_the_campaign_trail,_March_2012\" title=\"On the campaign trail, March 2012\">On the campaign trail, March 2012</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Senate_passes_new_bankruptcy_bill\" title=\"US Senate passes new bankruptcy bill\">US Senate passes new bankruptcy bill</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:April_6,_2006\" title=\"News briefs:April 6, 2006\">News briefs:April 6, 2006</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Zealand_National_party:_%22TVNZ_must_explain_coup_threat_coverage%22\" title=\"New Zealand National party: &quot;TVNZ must explain coup threat coverage&quot;\">New Zealand National party: &quot;TVNZ must explain coup threat <span class=\"searchmatch\">coverage</span>&quot;</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464247,
+   "book" : [],
+   "micro-www" : {
+      "insurance_coverage" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

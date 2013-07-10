@@ -1,0 +1,109 @@
+{
+   "micrownet" : [
+      "mathematical_statement"
+   ],
+   "duck" : [
+      "HASH(0x498fd18)",
+      "HASH(0x498f538)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mathematician_Beno%C3%AEt_Mandelbrot_dies_aged_85\" title=\"Mathematician Benoît Mandelbrot dies aged 85\">Mathematician Benoît Mandelbrot dies aged 85</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_computer_scientist%27s_new_%22nullity%22_idea_provokes_reaction_from_mathematicians\" title=\"British computer scientist&#39;s new &quot;nullity&quot; idea provokes reaction from mathematicians\">British computer scientist&#39;s new &quot;nullity&quot; idea provokes reaction from mathematicians</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_computer_scientist%27s_new_%22nullity%22_idea_provokes_reaction_from_mathematicians#Mathematical_analysis\" title=\"British computer scientist&#39;s new &quot;nullity&quot; idea provokes reaction from mathematicians\"><span class=\"searchmatch\">Mathematical</span> analysis</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Lance_Armstrong_disputes_French_doping_results\" title=\"Lance Armstrong disputes French doping results\">Lance Armstrong disputes French doping results</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Satanism:_An_interview_with_Church_of_Satan_High_Priest_Peter_Gilmore\" title=\"Satanism: An interview with Church of Satan High Priest Peter Gilmore\">Satanism: An interview with Church of Satan High Priest Peter Gilmore</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:June_2,_2010\" title=\"News briefs:June 2, 2010\">News briefs:June 2, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scientist_Stephen_Hawking_rushed_to_hospital_in_ambulance\" title=\"Scientist Stephen Hawking rushed to hospital in ambulance\">Scientist Stephen Hawking rushed to hospital in ambulance</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Iranian_President_Ahmadinejad_speaks_at_Columbia_University\" title=\"Iranian President Ahmadinejad speaks at Columbia University\">Iranian President Ahmadinejad speaks at Columbia University</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/California_students_continue_struggle_with_Exit_Exam_in_classrooms,_courtroom\" title=\"California students continue struggle with Exit Exam in classrooms, courtroom\">California students continue struggle with Exit Exam in classrooms, courtroom</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/President_Obama_names_16_recipients_of_the_2009_Presidential_Medal_of_Freedom\" title=\"President Obama names 16 recipients of the 2009 Presidential Medal of Freedom\">President Obama names 16 recipients of the 2009 Presidential Medal of Freedom</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Taliban_resurgent_in_Pakistan_on_enforcement_of_Sharia_law/Interview_archive\" title=\"Taliban resurgent in Pakistan on enforcement of Sharia law/Interview archive\">Taliban resurgent in Pakistan on enforcement of Sharia law/Interview archive</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373466073,
+   "book" : [],
+   "micro-www" : {
+      "mathematical_statement" : [
+         "Mathematical_statement",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Semantic units",
+         "Philosophy of language",
+         "Statements",
+         "Syntax (logic)",
+         "Mental content",
+         "Mathematical logic",
+         "Propositional calculus",
+         "Ontology",
+         "Propositions|",
+         "Logical expressions"
+      ],
+      "text" : "\n\n\n\nIn philosophy and logic, the term 'proposition' refers to either (a) the\n\"content\" or [[Meaning (philosophy of language)|\"meaning\"]] of a meaningful\ndeclarative sentence or (b) the pattern of symbols, marks, or sounds that make\nup a meaningful declarative sentence. The meaning of a proposition includes\nhaving the quality or property of being either true or false, and as such\npropositions are claimed to be truthbearers.\n\nThe existence of propositions in sense (a) above, as well as the existence of\n\"meanings,\" is disputed by some philosophers. Where the concept of a \"meaning\"\nis admitted, its nature is controversial. In earlier texts writers have not\nalways made it sufficiently clear whether they are using the term proposition in\nsense of the words or the \"meaning\" expressed by the words.<ref>see e.g.\nhttp://plato.stanford.edu/entries/propositions/</ref> To avoid the controversies\nand ontological implications, the term sentence is often now used instead of\nproposition to refer to just those strings of symbols that are truthbearers,\nbeing either true or false under an interpretation. Strawson advocated the use\nof the term \"statement,\" and some mathematicians have adopted this usage.<ref>A.\nG. Hamilton, Logic for Mathematicians, p. 1, \"We shall refer to simple and\ncompound statements, and our assumption will be that all statements are either\ntrue or false.\", Cambridge University Press, 1978, ISBN 952-12-9291-3 ,</ref>\n",
+      "title" : "Proposition",
+      "headings" : [
+         "Historical usage",
+         "Relation to the mind",
+         "Treatment in logic",
+         "Objections to propositions",
+         "Related concepts",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Truthbearer",
+      "2: Aristotelian_logic",
+      "2: Truth_value",
+      "2: Propositional_calculus",
+      "2: Semantics",
+      "1: Philosophy",
+      "1: Logic",
+      "1: Declarative_sentence",
+      "1: Truth",
+      "1: Falsity",
+      "1: Ontology",
+      "1: Open_sentence",
+      "1: Logical_positivism",
+      "1: Yes–no_question",
+      "1: Semiotics",
+      "1: Belief",
+      "1: Propositional_attitude",
+      "1: Bertrand_Russell",
+      "1: Propositional_attitudes",
+      "1: Folk_psychology",
+      "1: Philosophy_of_mind",
+      "1: Psychology",
+      "1: Intentionality",
+      "1: Internalism#Philosophy_of_mind",
+      "1: Free_and_bound_variables",
+      "1: Logical_connective",
+      "1: Functional_predicate",
+      "1: Predicate_variable",
+      "1: Quantification",
+      "1: Concatenation",
+      "1: Recursion",
+      "1: Predicate_logic",
+      "1: Arity",
+      "1: Syntax",
+      "1: Mental_world",
+      "1: W.V._Quine",
+      "1: Fact",
+      "1: Compound_fact",
+      "1: Premise",
+      "1: Conclusions",
+      "1: Validity",
+      "1: Main_contention",
+      "1: Theorem#Terminology",
+      "1: Stanford_Encyclopedia_of_Philosophy"
+   ]
+}

@@ -1,0 +1,29 @@
+{
+   "micrownet" : [
+      "bar_absolute"
+   ],
+   "duck" : [
+      "HASH(0x1a57ab0)",
+      "HASH(0x4807800)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Gay_Talese_on_the_state_of_journalism,_Iraq_and_his_life\" title=\"Gay Talese on the state of journalism, Iraq and his life\">Gay Talese on the state of journalism, Iraq and his life</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Gay_Talese_on_the_state_of_journalism,_Iraq_and_his_life#On_Chinese_gay_bars\" title=\"Gay Talese on the state of journalism, Iraq and his life\">On Chinese gay <span class=\"searchmatch\">bars</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_teens_cleared_of_school_massacre_plot\" title=\"UK teens cleared of school massacre plot\">UK teens cleared of school massacre plot</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462703,
+   "book" : [],
+   "micro-www" : {
+      "bar_absolute" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

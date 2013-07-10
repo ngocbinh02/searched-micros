@@ -1,0 +1,28 @@
+{
+   "micrownet" : [
+      "explosive_detection_system"
+   ],
+   "duck" : [
+      "HASH(0x4a31f20)",
+      "HASH(0x49e7498)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bobby_Charlton_launches_anti-landmine_campaign\" title=\"Bobby Charlton launches anti-landmine campaign\">Bobby Charlton launches anti-landmine campaign</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:May_18,_2010\" title=\"News briefs:May 18, 2010\">News briefs:May 18, 2010</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462710,
+   "book" : [],
+   "micro-www" : {
+      "explosive_detection_system" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

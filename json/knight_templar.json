@@ -1,0 +1,38 @@
+{
+   "micrownet" : [
+      "knight_templar"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373470826,
+   "book" : [],
+   "micro-www" : {
+      "knight_templar" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "The '[[Knights Templar]]' was a medieval Christian military order prominent in\nthe Crusades, from the early 12th century until the early 14th century\n\n'Knights Templar' may also refer to:\n\n*Knights Templar (Freemasonry) *The Knights Templar (Deus Ex), a fictional\norganization in the Deus Ex series *''Knight Templar'' (The Saint), a 1930\nnovel by Leslie Charteris *Knight Templar, a superhero character who appeared\nin the Marvel Comics limited series *Knights Templar School, a school in\nBaldock, England *Knights Templar Cartel, a drug cartel in Mexico. *Trials of\nthe Knights Templar\n",
+      "title" : "Knights%20Templar%20%28disambiguation%29",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Marvel_Comics",
+      "1: Knights_Templar_School",
+      "1: Knights_Templar_Cartel",
+      "1: Trials_of_the_Knights_Templar",
+      "1: Sovereign_Military_Order_of_the_Temple_of_Jerusalem",
+      "1: Militia_Templi",
+      "1: Royal_Order_of_Scotland"
+   ]
+}

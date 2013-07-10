@@ -1,0 +1,78 @@
+{
+   "micrownet" : [
+      "absorption",
+      "absorption_band",
+      "absorption_coefficient",
+      "absorption_factor",
+      "absorption_indicator",
+      "absorption_spectrum",
+      "absorption_unit"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Absorption",
+      "\n<a href=\"http://duckduckgo.com/Flow_(psychology)\">Flow (psychology)</a>, a state of total mental \"absorption\"",
+      "HASH(0x4b6eea8)",
+      "Wikipedia",
+      "Absorption",
+      "http://www.merriam-webster.com/dictionary/absorption",
+      "absorption definition: the process of absorbing or of being absorbed — compare adsorption.",
+      "Merriam-Webster",
+      "HASH(0x4b6eff8)",
+      "\n<a href=\"http://duckduckgo.com/Digestion\">Digestion</a>, the uptake of substances by the gastrointetssuinal tract",
+      "\n<a href=\"http://duckduckgo.com/Adsorption\">Adsorption</a>, the formation of a gas or liquid film on a solid surface",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/South_Korean_president_proposes_a_reunification_tax\" title=\"South Korean president proposes a reunification tax\">South Korean president proposes a reunification tax</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NASA_says_water_found_on_exoplanet\" title=\"NASA says water found on exoplanet\">NASA says water found on exoplanet</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Coldest_month_of_March_in_Stockholm_since_1942\" title=\"Coldest month of March in Stockholm since 1942\">Coldest month of March in Stockholm since 1942</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Yale_University_builds_world%27s_first_anti-laser\" title=\"Yale University builds world&#39;s first anti-laser\">Yale University builds world&#39;s first anti-laser</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/South_Ossetia_says_it_will_join_North_Ossetia-Alania_as_a_federal_subject_of_Russia\" title=\"South Ossetia says it will join North Ossetia-Alania as a federal subject of Russia\">South Ossetia says it will join North Ossetia-Alania as a federal subject of Russia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Asbestos_victims_file_6.6_billion_yen_class_action_lawsuit_in_Tokyo\" title=\"Asbestos victims file 6.6 billion yen class action lawsuit in Tokyo\">Asbestos victims file 6.6 billion yen class action lawsuit in Tokyo</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465770,
+   "book" : [],
+   "micro-www" : {
+      "absorption" : [
+         "Absorption_refrigerator",
+         "Absorption_(small_intestine)",
+         "Absorption_(skin)",
+         "Absorption_(pharmacokinetics)",
+         "Absorption_(light)",
+         "Absorption_(electromagnetic_radiation)",
+         "Absorption_(chemistry)",
+         "Absorption_(acoustics)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Absorption' may refer to:\n",
+      "title" : "absorption",
+      "headings" : [
+         "Chemistry and biology",
+         "Physics and mechanical engineering",
+         "Mathematics and economics",
+         "Logic",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: CO2_scrubber",
+      "1: Permittivity",
+      "1: Absorption_refrigerator",
+      "1: Solar_air_conditioning",
+      "1: Absorption_law",
+      "1: Absorbing_element",
+      "1: Absorption_costing",
+      "1: Adsorption",
+      "1: Digestion"
+   ]
+}

@@ -1,0 +1,64 @@
+{
+   "micrownet" : [
+      "extremity",
+      "pedal_extremity"
+   ],
+   "duck" : [
+      "extremity",
+      "The greatest or utmost degree: the extremity of despair.",
+      "http://www.merriam-webster.com/dictionary/extremity",
+      "extremity definition: the farthest or most remote part, section, or point.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Massive_earthquake_hits_Indonesia,_no_tsunami_risk\" title=\"Massive earthquake hits Indonesia, no tsunami risk\">Massive earthquake hits Indonesia, no tsunami risk</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2008_Computex_Preview:_WiMAX,_threat%3F_opportunity%3F\" title=\"2008 Computex Preview: WiMAX, threat? opportunity?\">2008 Computex Preview: WiMAX, threat? opportunity?</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2008_Tour_de_Taiwan_Stage_8:_A_great_ending_for_John_Murphy\" title=\"2008 Tour de Taiwan Stage 8: A great ending for John Murphy\">2008 Tour de Taiwan Stage 8: A great ending for John Murphy</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2007_Taipei_101_Run_Up_invites_elite_runners_Run_to_Top_of_the_World\" title=\"2007 Taipei 101 Run Up invites elite runners Run to Top of the World\">2007 Taipei 101 Run Up invites elite runners Run to Top of the World</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373469663,
+   "book" : [],
+   "micro-www" : {
+      "extremity" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Anatomy",
+         "Animal anatomy"
+      ],
+      "text" : "\n\n\nIn invertebrate biology, an 'appendage' (or 'outgrowth') is an external body\npart, or natural prolongation, that protrudes from an organism's body (in\nvertebrate biology, an example would be a vertebrate's limbs). It is a general\nterm that covers any of the homologous body parts that may extend from a body\nsegment. These include antennae, mouthparts (including mandibles, maxillae and\nmaxillipeds), wings, elytra, gills, walking legs (pereiopods), swimming legs\n(pleopods), sexual organs (gonopods), and parts of the tail (uropods).\nTypically, each body segment carries one pair of appendages.\n\nAn appendage which is modified to assist in feeding is known as a 'maxilliped'\nor 'gnathopod'.\n\nAppendages may become uniramous, as in insects and centipedes, where each\nappendage comprises a single series of segments, or it may be biramous, as in\nmany crustaceans, where each appendage branches into two sections. Triramous\n(branching into three) appendages are also possible.There are many appendages.\n\nAll arthropod appendages are variations of the same basic structure\n(homologous), and which structure is produced is controlled by \"homeobox\"\ngenes. Changes to these genes have allowed scientists to produce animals\n(chiefly [[Drosophila melanogaster]]) with modified appendages, such as legs\ninstead of antennae.\n",
+      "title" : "appendage",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Invertebrate",
+      "1: Biology",
+      "1: Organism",
+      "1: Vertebrate_biology",
+      "1: Vertebrate",
+      "1: Body_segment",
+      "1: Arthropod_mouthparts",
+      "1: Maxilliped",
+      "1: Insect_wing",
+      "1: Elytron",
+      "1: Gill",
+      "1: Arthropod_leg",
+      "1: Pereiopod",
+      "1: Pleopod",
+      "1: Gonopod",
+      "1: Uropod",
+      "1: Insect",
+      "1: Centipede",
+      "1: Crustacean",
+      "1: Homeobox"
+   ]
+}

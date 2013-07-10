@@ -1,0 +1,29 @@
+{
+   "micrownet" : [
+      "adp_system"
+   ],
+   "duck" : [
+      "HASH(0x4a0cad0)",
+      "HASH(0x4a1c928)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Small_aircraft_crashes_into_building_in_New_York_City\" title=\"Small aircraft crashes into building in New York City\">Small aircraft crashes into building in New York City</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Colleges_offering_admission_to_displaced_New_Orleans_graduate_students\" title=\"Colleges offering admission to displaced New Orleans graduate students\">Colleges offering admission to displaced New Orleans graduate students</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Colleges_offering_admission_to_displaced_New_Orleans_students/AL-KY\" title=\"Colleges offering admission to displaced New Orleans students/AL-KY\">Colleges offering admission to displaced New Orleans students/AL-KY</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462121,
+   "book" : [],
+   "micro-www" : {
+      "adp_system" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

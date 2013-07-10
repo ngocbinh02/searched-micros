@@ -1,0 +1,24 @@
+{
+   "micrownet" : [
+      "acute_inclusion_body_encephalitis",
+      "inclusion_body_encephalitis",
+      "subacute_inclusion_body_encephalitis"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373470856,
+   "book" : [],
+   "micro-www" : {
+      "inclusion_body_encephalitis" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

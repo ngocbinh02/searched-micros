@@ -1,0 +1,70 @@
+{
+   "micrownet" : [
+      "data_system",
+      "naval_tactical_data_system"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/HP_to_aquire_EDS_for_13.9B\" title=\"HP to aquire EDS for 13.9B\">HP to aquire EDS for 13.9B</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tunisia,_South_Korea_partner_to_monitor_air_quality\" title=\"Tunisia, South Korea partner to monitor air quality\">Tunisia, South Korea partner to monitor air quality</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Effect_Of_Mobile_Phones_On_Health\" title=\"Effect Of Mobile Phones On Health\">Effect Of Mobile Phones On Health</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Juno_spacecraft_bound_for_Jupiter\" title=\"Juno spacecraft bound for Jupiter\">Juno spacecraft bound for Jupiter</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Saturn%27s_rings_are_much_older_than_previously_thought\" title=\"Saturn&#39;s rings are much older than previously thought\">Saturn&#39;s rings are much older than previously thought</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Progress_spacecraft_fails_to_dock_with_International_Space_Station\" title=\"Progress spacecraft fails to dock with International Space Station\">Progress spacecraft fails to dock with International Space Station</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Climate_change_impacts_Wyoming\" title=\"Climate change impacts Wyoming\">Climate change impacts Wyoming</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UN_proposes_world-wide_natural_disaster_warning_system\" title=\"UN proposes world-wide natural disaster warning system\">UN proposes world-wide natural disaster warning <span class=\"searchmatch\">system</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/London_Tube_bombs_went_%27bang_bang_bang,_very_close_together%27\" title=\"London Tube bombs went &#39;bang bang bang, very close together&#39;\">London Tube bombs went &#39;bang bang bang, very close together&#39;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/IBEX_satellite_releases_first_all_sky_map\" title=\"IBEX satellite releases first all sky map\">IBEX satellite releases first all sky map</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Campaigners_angry_at_new_British_police_tracking_system\" title=\"Campaigners angry at new British police tracking system\">Campaigners angry at new British police tracking <span class=\"searchmatch\">system</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Airbus_offers_funding_to_search_for_black_boxes_from_Air_France_disaster\" title=\"Airbus offers funding to search for black boxes from Air France disaster\">Airbus offers funding to search for black boxes from Air France disaster</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Computer_glitch_delays_online_tax_filing_in_Canada\" title=\"Computer glitch delays online tax filing in Canada\">Computer glitch delays online tax filing in Canada</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Agencies_choose_yearlong_crew_for_International_Space_Station\" title=\"Agencies choose yearlong crew for International Space Station\">Agencies choose yearlong crew for International Space Station</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Google_launches_Google_Mars\" title=\"Google launches Google Mars\">Google launches Google Mars</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Wolfram_Research%E2%80%99s_new_product_Alpha_to_compete_with_Google_and_Wikipedia\" title=\"Wolfram Research’s new product Alpha to compete with Google and Wikipedia\">Wolfram Research’s new product Alpha to compete with Google and Wikipedia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/India_successfully_test-fires_Agni-III_missile\" title=\"India successfully test-fires Agni-III missile\">India successfully test-fires Agni-III missile</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sony_refreshes_VAIO_brand_for_business_and_entertainment\" title=\"Sony refreshes VAIO brand for business and entertainment\">Sony refreshes VAIO brand for business and entertainment</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Reactions_to_Apple%27s_OS_X_Tiger\" title=\"Reactions to Apple&#39;s OS X Tiger\">Reactions to Apple&#39;s OS X Tiger</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Venus_was_once_more_Earth-like_than_previously_thought\" title=\"Venus was once more Earth-like than previously thought\">Venus was once more Earth-like than previously thought</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373467727,
+   "book" : [],
+   "micro-www" : {
+      "data_system" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Information systems",
+         "Databases"
+      ],
+      "text" : "'Data system' is a term used to refer to an organized collection of symbols and\nprocesses that may be used to operate on such symbols.<ref>Beynon-Davies P.\n(2009) Business Information Systems. Palgrave, Basingstoke</ref><ref>Beynon-\nDavies P. (2010) Significance: exploring the nature of information, systems and\ntechnology. Palgrave, Basingstoke</ref> Any organised collection of symbols and\nsymbol-manipulating operations can be considered a data system. Hence, human-\nspeech analysed at the level of phonemes can be considered a data system as can\nthe Incan artefact of the khipu and an image stored as pixels. A data system is\ndefined in terms of some data model and bears a resemblance to the idea of a\nphysical symbol system.\n\nSymbols within some data systems may be persistent or not. Hence, the sounds\nof human speech are non-persistent symbols because they decay rapidly in\nair. In contrast, pixels stored on some peripheral storage device are\npersistent symbols.\n",
+      "title" : "data system",
+      "headings" : [
+         "Education",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "1: Phonemes",
+      "1: Incan",
+      "1: Khipu",
+      "1: Pixels",
+      "1: Data_model",
+      "1: Physical_symbol_system",
+      "1: Education",
+      "1: Data",
+      "1: Data_processing",
+      "1: Persistence",
+      "1: Create,_read,_update_and_delete",
+      "1: Paul_beynon-davies"
+   ]
+}

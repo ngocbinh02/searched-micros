@@ -1,0 +1,108 @@
+{
+   "micrownet" : [
+      "red_wolf"
+   ],
+   "duck" : [
+      "HASH(0x4b22f78)",
+      "HASH(0x4ab6578)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2007/08_Bundesliga:_Bayern_Munich_vs._N%C3%BCrnberg\" title=\"2007/08 Bundesliga: Bayern Munich vs. Nürnberg\">2007/08 Bundesliga: Bayern Munich vs. Nürnberg</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:April_30,_2010\" title=\"News briefs:April 30, 2010\">News briefs:April 30, 2010</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464935,
+   "book" : [],
+   "micro-www" : {
+      "red_wolf" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Wolves",
+         "Canid hybrids",
+         "Wolves in the United States",
+         "Megafauna of North America",
+         "Animals described in 1851"
+      ],
+      "text" : "\n{{Taxobox\n| name = Red wolf<ref name=Chambers> </ref> status = CR status_system = iucn3.1\n| trend = up status_ref =<ref name=\"iucn\"> Database entry includes justification\n| for why this species is critically endangered.</ref> image = 07-03-\n| 23RedWolfAlbanyGAChehaw.jpg regnum = Animalia phylum = Chordata classis =\n| Mammalia ordo = Carnivora familia = Canidae genus = [[Canis]] species = 'C.\n| rufus' binomial = Canis rufus binomial_authority = (Audubon & Bachman,\n| 1851)<ref name=\"ref3\">Audubon, J. and J.Bachman.1851.The quadrupeds of North\n| America, Volume 2.New York, NY.p.334.</ref> synonyms = Canis lupus rufus\n| subdivision_ranks = Subspecies subdivision =\n*&dagger; C. r. floridanis (extinct) *&dagger; C. r. gregoryi (extinct) *C. r.\nrufus }} The 'red wolf' (Canis rufus<ref name=Chambers/>, formerly Canis lupus\nrufus<ref name=msw3/>) is a North American canid that once roamed throughout the\nSoutheastern United States.<ref>Reich, D.E., R.K. Wayne, and D.B. Goldstein.\n(1999) Genetic evidence for a recent origin by hybridization of red wolves.\nMolecular Ecology 8:139-144.</ref> Based on fossil and archaeological evidence,\nthe original red wolf range extended throughout the southeast, from the Atlantic\nand Gulf Coasts, north to the Ohio River Valley and central Pennsylvania, and\nwest to central Texas and southeastern Missouri. Historical habitats included\nforests, swamps, and coastal prairies, where it was an apex predator. The red\nwolf is morphologically midway between grey wolves and coyotes, and a 2011\ngenetic study indicated that it may be a hybrid species between grey wolves and\ncoyotes.<ref name=VonHolt/> Re-analysis of this study coupled with a broader\ncontextual analysis including behavioral, morphological and additional genetic\ninformation led to arguments that the red wolf is an independent species but has\nsuffered from significant introgression of coyote genes likely due to decimation\nof red wolf packs with fragmentation of their social structure from hunting.<ref\nname=Rutledge> </ref> The most recent comprehensive review (in October 2012) of\nthe genetics studies concluded that the red wolf, eastern wolf and gray wolf\nwere three distinct species.<ref name=Chambers/>\n\nThe red wolf was thought to be extinct in the wild by 1980. 1987 saw a\nreintroduction in northeastern North Carolina through a captive breeding\nprogram and the animals are considered to be successfully breeding in the\nwild.<ref name=\"ref4\">U.S. Fish and Wildlife Service.1997.Endangered Red\nWolves. http://library.fws.gov/Pubs4/endangered_red_wolves.pdf:1-3.</ref>\n",
+      "title" : "red wolf",
+      "headings" : [
+         "Physiology",
+         "Ecology",
+         "Life history and behavior",
+         "Conservation",
+         "Cultural reference",
+         "References",
+         "Further reading",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "3: Coyote",
+      "2: Subspecies",
+      "2: Texas",
+      "2: Gray_wolf",
+      "2: North_Carolina",
+      "2: Florida",
+      "1: Animal",
+      "1: Chordate",
+      "1: Mammal",
+      "1: Carnivora",
+      "1: Canidae",
+      "1: John_James_Audubon",
+      "1: John_Bachman",
+      "1: Extinct",
+      "1: North_America",
+      "1: Canid",
+      "1: Southeastern_United_States",
+      "1: Ohio_River",
+      "1: Pennsylvania",
+      "1: Missouri",
+      "1: Hybrid_speciation",
+      "1: Rufous",
+      "1: Single_nucleotide_polymorphisms",
+      "1: U.S._Fish_and_Wildlife_Service",
+      "1: Florida_Black_Wolf",
+      "1: Canis_lupus_gregoryi",
+      "1: Texas_red_wolf",
+      "1: Extinct_in_the_wild",
+      "1: Critically_endangered",
+      "1: Megaannum#SI_prefix_multipliers",
+      "1: Eastern_wolf",
+      "1: Eurasia",
+      "1: Maine",
+      "1: Wappinger",
+      "1: Canada",
+      "1: Central_Texas",
+      "1: Estrous_cycle",
+      "1: Sexually_mature",
+      "1: Breeding_pair",
+      "1: American_black_bear",
+      "1: Coypu",
+      "1: Cape_Romain_National_Wildlife_Refuge",
+      "1: Alligator_River_National_Wildlife_Refuge",
+      "1: Horn_Island",
+      "1: St._Vincent_Island,_Florida",
+      "1: Cape_San_Blas",
+      "1: Apalachicola,_Florida",
+      "1: Cape_St._George_Island",
+      "1: Great_Smoky_Mountains_National_Park",
+      "1: Species_Survival_Plan",
+      "1: United_States_Navy",
+      "1: Naval_Special_Warfare",
+      "1: HSC-84",
+      "1: SH-60_Seahawk",
+      "1: Arkansas_State_University",
+      "1: Arkansas_State_Red_Wolves",
+      "1: Indiana_University_East",
+      "1: Grizzly_Man"
+   ]
+}

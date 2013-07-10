@@ -1,0 +1,60 @@
+{
+   "micrownet" : [
+      "connective_tissue"
+   ],
+   "duck" : [
+      "HASH(0x48266d0)",
+      "HASH(0x48266b8)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Crosswords/2005/February/11\" title=\"Crosswords/2005/February/11\">Crosswords/2005/February/11</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465344,
+   "book" : [],
+   "micro-www" : {
+      "connective_tissue" : [
+         "Connective_tissue",
+         ""
+      ]
+   },
+   "micro-relation" : [
+      "2: Connective_tissue_proper",
+      "2: Neoplastic",
+      "1: Epithelial_tissue",
+      "1: Muscle_tissue",
+      "1: Nervous_tissue",
+      "1: Loose_connective_tissue",
+      "1: Dense_connective_tissue",
+      "1: Dense_regular_connective_tissue",
+      "1: Dense_irregular_connective_tissue",
+      "1: Reticular_connective_tissue",
+      "1: Adipose_tissue",
+      "1: Cartilage",
+      "1: Bone",
+      "1: Blood",
+      "1: Lymphatic_system#lymphoid_tissue",
+      "1: Fibroblasts",
+      "1: Type-I_collagen",
+      "1: Fiber",
+      "1: Collagen",
+      "1: Elastic_fiber",
+      "1: Reticular_fiber",
+      "1: Sarcoma",
+      "1: Hemangiopericytoma",
+      "1: Van_Gieson's",
+      "1: Masson's_trichrome",
+      "1: Mallory's_Aniline_Blue",
+      "1: Azocarmine",
+      "1: Krajian's_Aniline_Blue",
+      "1: Eosin",
+      "1: Fascia",
+      "1: Myofascial_meridians"
+   ]
+}

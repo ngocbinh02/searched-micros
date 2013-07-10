@@ -1,0 +1,30 @@
+{
+   "micrownet" : [
+      "brussels_griffon"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373473485,
+   "book" : [],
+   "micro-www" : {
+      "brussels_griffon" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "#REDIRECTGriffon Bruxellois\n",
+      "title" : "brussels griffon",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Griffon_Bruxellois"
+   ]
+}

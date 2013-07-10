@@ -1,0 +1,102 @@
+{
+   "micrownet" : [
+      "multistage_rocket"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/China,_UN_rebuke_North_Korea_for_rocket_launch\" title=\"China, UN rebuke North Korea for rocket launch\">China, UN rebuke North Korea for <span class=\"searchmatch\">rocket</span> launch</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/North_Korea_successfully_launches_long_range_rocket\" title=\"North Korea successfully launches long range rocket\">North Korea successfully launches long range <span class=\"searchmatch\">rocket</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:_April_15,_2012\" title=\"News briefs: April 15, 2012\">News briefs: April 15, 2012</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:_April_15,_2012#Airlines_modify_flight_routes_amid_North_Korea_rocket_launch_plans_.2F_Report:_North_Korea_planning_third_nuclear_bomb_test_.280:29.29\" title=\"News briefs: April 15, 2012\">Airlines modify flight routes amid North Korea <span class=\"searchmatch\">rocket</span> launch plans / </a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:_April_21,_2012\" title=\"News briefs: April 21, 2012\">News briefs: April 21, 2012</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:_April_21,_2012#China.2C_UN_rebuke_North_Korea_for_rocket_launch_.280:27.29\" title=\"News briefs: April 21, 2012\">China, UN rebuke North Korea for <span class=\"searchmatch\">rocket</span> launch (0:27)</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471833,
+   "book" : [],
+   "micro-www" : {
+      "multistage_rocket" : [
+         "Multistage_rocket",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Aerospace engineering",
+         "Chinese inventions",
+         "Spacecraft propulsion"
+      ],
+      "text" : "\n multistage sounding rocket]] rocket]] A 'multistage' (or 'multi-stage')\n 'rocket' is a rocket that uses two or more stages, each of which contains its\n own engines and propellant. A tandem or serial stage is mounted on top of\n another stage; a parallel stage is attached alongside another stage. The result\n is effectively two or more rockets stacked on top of or attached next to each\n other. Taken together these are sometimes called a launch vehicle. Two stage\n rockets are quite common, but rockets with as many as five separate stages have\n been successfully launched. By jettisoning stages when they run out of\n propellant, the mass of the remaining rocket is decreased. This staging allows\n the thrust of the remaining stages to more easily accelerate the rocket to its\n final speed and height.\n\nIn serial or tandem staging schemes, the 'first stage' is at the bottom and is\nusually the largest, the 'second stage' and subsequent 'upper stages' are above\nit, usually decreasing in size. In parallel staging schemes solid or liquid\nrocket boosters are used to assist with lift-off. These are sometimes referred\nto as 'stage 0'. In the typical case, the first stage and booster engines fire\nto propel the entire rocket upwards. When the boosters run out of fuel, they are\ndetached from the rest of the rocket (usually with some kind of small explosive\ncharge) and fall away. The first stage then burns to completion and falls off.\nThis leaves a smaller rocket, with the second stage on the bottom, which then\nfires. Known in rocketry circles as 'staging', this process is repeated until\nthe final stage's motor burns to completion.\n\nIn some cases with serial staging, the upper stage ignites before the separation-\nthe interstage ring is designed with this in mind, and the thrust is used to\nhelp positively separate the two vehicles.\n\nThe Taurus rocket is unusual in that its 'stage 1' ignites in flight; this\ndesignation is used because its upper three stages are identical to those of\nthe Pegasus rocket, with the 'stage 0' booster replacing the Pegasus'\ncarrier aircraft.\n",
+      "title" : "multistage rocket",
+      "headings" : [
+         "Advantages",
+         "Disadvantages",
+         "Upper stages",
+         "History and development",
+         "Separation events",
+         "Alternatives to rockets",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Launch_vehicle",
+      "2: Conrad_Haas",
+      "1: Sounding_rocket",
+      "1: Rocket",
+      "1: Rocket_engine",
+      "1: Rocket_propellant",
+      "1: Newton's_First_Law_of_Motion",
+      "1: Solid_rocket_booster",
+      "1: Liquid_rocket_booster",
+      "1: Explosive",
+      "1: Orbit",
+      "1: Single_stage_to_orbit",
+      "1: Rocket_engine#Combustion_chamber",
+      "1: Rocket_engine_nozzle#Aerostatic_back-pressure_and_optimum_expansion",
+      "1: Liquid_rocket",
+      "1: AJ-10",
+      "1: Spacecraft",
+      "1: Satellite",
+      "1: Geostationary_transfer_orbit",
+      "1: Geostationary_orbit",
+      "1: History_of_China",
+      "1: Jiao_Yu",
+      "1: Booster_rocket",
+      "1: C-602",
+      "1: Anti-ship_missile",
+      "1: Joseph_Needham",
+      "1: Choe_Museon",
+      "1: Singijeon",
+      "1: Hermannstadt",
+      "1: Transylvania",
+      "1: Kazimierz_Siemienowicz",
+      "1: Polish–Lithuanian_Commonwealth",
+      "1: Russia",
+      "1: Konstantin_Tsiolkovsky",
+      "1: United_States",
+      "1: German_people",
+      "1: Hermann_Oberth",
+      "1: Mikhail_Tikhonravov",
+      "1: Dmitry_Okhotsimsky",
+      "1: R-7_Semyorka",
+      "1: Atlas_I",
+      "1: Atlas_II",
+      "1: Risk",
+      "1: Complexity",
+      "1: Payload_fairing",
+      "1: Launch_escape_system",
+      "1: Human_spaceflight",
+      "1: Bumper_Project",
+      "1: Saturn_V",
+      "1: NASA",
+      "1: Reusable_launch_system",
+      "1: Single-stage-to-orbit"
+   ]
+}

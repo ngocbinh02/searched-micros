@@ -1,0 +1,32 @@
+{
+   "micrownet" : [
+      "elaboration"
+   ],
+   "duck" : [
+      "elaboration",
+      "Planned or executed with painstaking attention to numerous parts or details.",
+      "http://www.merriam-webster.com/dictionary/elaboration",
+      "elaboration definition: to produce by labor.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bomb_scare_halts_Brisbane_transport\" title=\"Bomb scare halts Brisbane transport\">Bomb scare halts Brisbane transport</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Zinaida_Greceanii_nominated_Moldovan_Prime_Minister\" title=\"Zinaida Greceanii nominated Moldovan Prime Minister\">Zinaida Greceanii nominated Moldovan Prime Minister</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Gas_leak_kills_six_and_injures_28_at_Chinese_fertiliser_factory\" title=\"Gas leak kills six and injures 28 at Chinese fertiliser factory\">Gas leak kills six and injures 28 at Chinese fertiliser factory</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373470917,
+   "book" : [],
+   "micro-www" : {
+      "elaboration" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

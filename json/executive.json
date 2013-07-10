@@ -1,0 +1,108 @@
+{
+   "micrownet" : [
+      "account_executive",
+      "business_executive",
+      "chief_executive",
+      "chief_executive_officer",
+      "corporate_executive",
+      "executive",
+      "executive_agency",
+      "executive_branch",
+      "executive_clemency",
+      "executive_council",
+      "executive_department",
+      "executive_director",
+      "executive_officer",
+      "executive_program",
+      "executive_routine",
+      "executive_secretary",
+      "executive_session",
+      "executive_vice_president",
+      "top_executive"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Business_executive\">Business executive</a>, a person responsible for running an organization",
+      "\n<a href=\"http://duckduckgo.com/Executive_officer\">Executive officer</a>, high-ranking member of a corporation body, government or military",
+      "Executive",
+      "\n<a href=\"http://duckduckgo.com/Studio_executive\">Studio executive</a>, employee of a film studio",
+      "http://www.merriam-webster.com/dictionary/executive",
+      "executive definition: of or relating to the execution of the laws and the conduct of public and national affairs.",
+      "\n<a href=\"http://duckduckgo.com/Account_executive\">Account executive</a>, a job title given by a number of marketing agencies to usually trainee staff, who report to account managers",
+      "\n<a href=\"http://duckduckgo.com/Chief_executive_officer\">Chief executive officer</a> (CEO), one of the highest-ranking corporate officers (executives) or administrators",
+      "\n<a href=\"http://duckduckgo.com/Executive_education\">Executive education</a>, term used for programs at graduate-level business schools that aim to give classes for managers or entrepreneurs",
+      "\n<a href=\"http://duckduckgo.com/Executive_functions\">Executive functions</a> or executive system, theorized cognitive system in psychology that controls and manages other cognitive processes",
+      "\n<a href=\"http://duckduckgo.com/Executive_(operating_system)\">Executive (operating system)</a>, the operating system for the ICL 290x range of computers",
+      "\n<a href=\"http://duckduckgo.com/the_Raincoats_(Seinfeld)\">The Executive</a>, fictional belt-less raincoat in the American sitcom Seinfeld",
+      "\n<a href=\"http://duckduckgo.com/Executive_(government)\">Executive (government)</a>, branch of government that has sole authority and responsibility for the daily administration of the state bureaucracy",
+      "\n<a href=\"http://duckduckgo.com/Executive_director\">Executive director</a>, the senior manager of an organization, company, or corporation",
+      "\n<a href=\"http://duckduckgo.com/Executive_car\">Executive car</a>, British term that refers to a car's size and is used to describe an automobile larger than a large family car",
+      "\n<a href=\"http://duckduckgo.com/Music_executive\">Music executive</a> or record executive, person within a record label who works in senior management",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Apple_executive_leaves_company_after_iPhone_4_antenna_issues\" title=\"Apple executive leaves company after iPhone 4 antenna issues\">Apple <span class=\"searchmatch\">executive</span> leaves company after iPhone 4 antenna issues</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Nokia_appoints_Microsoft_Business_Division_Head_as_chief_executive\" title=\"Nokia appoints Microsoft Business Division Head as chief executive\">Nokia appoints Microsoft Business Division Head as chief <span class=\"searchmatch\">executive</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Author_Amy_Scobee_recounts_abuse_as_Scientology_executive\" title=\"Author Amy Scobee recounts abuse as Scientology executive\">Author Amy Scobee recounts abuse as Scientology <span class=\"searchmatch\">executive</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_PM_says_executive_pay_to_be_put_to_shareholder_vote\" title=\"British PM says executive pay to be put to shareholder vote\">British PM says <span class=\"searchmatch\">executive</span> pay to be put to shareholder vote</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Guatemalan_football_executive_shot_dead_after_team_meeting\" title=\"Guatemalan football executive shot dead after team meeting\">Guatemalan football <span class=\"searchmatch\">executive</span> shot dead after team meeting</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/David_Abraham_appointed_as_new_chief_executive_of_British_Channel_4\" title=\"David Abraham appointed as new chief executive of British Channel 4\">David Abraham appointed as new chief <span class=\"searchmatch\">executive</span> of British Channel 4</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Three_Google_executives_found_guilty_over_Italian_video\" title=\"Three Google executives found guilty over Italian video\">Three Google <span class=\"searchmatch\">executives</span> found guilty over Italian video</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tyco_executives_found_guilty\" title=\"Tyco executives found guilty\">Tyco <span class=\"searchmatch\">executives</span> found guilty</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Nationalised_UK_bank_Northern_Rock_appoints_new_chief_executive\" title=\"Nationalised UK bank Northern Rock appoints new chief executive\">Nationalised UK bank Northern Rock appoints new chief <span class=\"searchmatch\">executive</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_lawmakers_approve_bill_taxing_executive_bonuses\" title=\"US lawmakers approve bill taxing executive bonuses\">US lawmakers approve bill taxing <span class=\"searchmatch\">executive</span> bonuses</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_York_Yankees_executive_George_Steinbrenner_dies_at_80\" title=\"New York Yankees executive George Steinbrenner dies at 80\">New York Yankees <span class=\"searchmatch\">executive</span> George Steinbrenner dies at 80</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ryanair_executives_pay_frozen_over_increased_fuel_prices\" title=\"Ryanair executives pay frozen over increased fuel prices\">Ryanair <span class=\"searchmatch\">executives</span> pay frozen over increased fuel prices</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hong_Kong_chief_executive_invites_opponent_to_television_debate\" title=\"Hong Kong chief executive invites opponent to television debate\">Hong Kong chief <span class=\"searchmatch\">executive</span> invites opponent to television debate</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Former_Scientology_executives_say_leader_David_Miscavige_abused_staff\" title=\"Former Scientology executives say leader David Miscavige abused staff\">Former Scientology <span class=\"searchmatch\">executives</span> say leader David Miscavige abused staff</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Apple_executive_Steve_Jobs_resigns\" title=\"Apple executive Steve Jobs resigns\">Apple <span class=\"searchmatch\">executive</span> Steve Jobs resigns</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_findings_suggest_AIG_executive_bonuses_were_larger_than_previously_thought\" title=\"New findings suggest AIG executive bonuses were larger than previously thought\">New findings suggest AIG <span class=\"searchmatch\">executive</span> bonuses were larger than previously thought</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_York_executive_files_$60_million_libel_lawsuit_over_insurance_scandal\" title=\"New York executive files $60 million libel lawsuit over insurance scandal\">New York <span class=\"searchmatch\">executive</span> files $60 million libel lawsuit over insurance scandal</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_president_Obama,_Congress_call_for_blocking_of_executive_bonuses_at_AIG_insurance_company\" title=\"US president Obama, Congress call for blocking of executive bonuses at AIG insurance company\">US president Obama, Congress call for blocking of <span class=\"searchmatch\">executive</span> bonuses at AIG insurance company</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Komen_executive_resigns_and_criticizes_Planned_Parenthood\" title=\"Komen executive resigns and criticizes Planned Parenthood\">Komen <span class=\"searchmatch\">executive</span> resigns and criticizes Planned Parenthood</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Executives_from_IT_industry_focus_on_10-year_anniversary_of_Microsoft_Research_Asia\" title=\"Executives from IT industry focus on 10-year anniversary of Microsoft Research Asia\"><span class=\"searchmatch\">Executives</span> from IT industry focus on 10-year anniversary of Microsoft Research Asia</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373468308,
+   "book" : [],
+   "micro-www" : {
+      "executive" : [
+         "executive_privilege",
+         "Executive_summary",
+         "Executive_protection",
+         "Executive_producer",
+         "Executive_editor",
+         "Executive_Council_of_British_Columbia",
+         "Executive_(government)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Executive' may refer to:\n\n* Executive (government), branch of government that has sole authority and\n  responsibility for the daily administration of the state bureaucracy\n* Executive (senior management), senior manager in a corporation ** Chief\n  executive officer (CEO), one of the highest-ranking corporate officers\n  (executives) or administrators ** Executive director, the senior manager of an\n  organization, company, or corporation ** Executive education, term used for\n  programs at graduate-level business schools that aim to give classes for\n  managers or entrepreneurs ** Executive officer, high-ranking member of a\n  corporation body, government or military ** Business executive, a person\n  responsible for running an organization ** Music executive or record\n  executive, person within a record label who works in senior management **\n  Studio executive, employee of a film studio\n* Account executive, a job title given by a number of marketing agencies to\n  usually trainee staff, who report to account managers\n* Executive (operating system), the operating system for the ICL 290x range\n  of computers\n* Executive car, British term that refers to a car's size and is used to\n  describe an automobile larger than a large family car\n* Executive functions or executive system, theorized cognitive system in\n  psychology that controls and manages other cognitive processes\n* The Executive, fictional belt-less raincoat in the American sitcom Seinfeld\n* The Windows Executive, internal part of modern Microsoft Windows\n  operating systems\n",
+      "title" : "executive",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Senior_management",
+      "1: Chief_executive_officer",
+      "1: Executive_director",
+      "1: Executive_education",
+      "1: Executive_officer",
+      "1: Business_executive",
+      "1: Music_executive",
+      "1: Studio_executive",
+      "1: Account_executive",
+      "1: Executive_car",
+      "1: Executive_functions",
+      "1: The_Executive",
+      "1: Architecture_of_Windows_NT#Executive"
+   ]
+}

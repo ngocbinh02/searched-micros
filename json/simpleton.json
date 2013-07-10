@@ -1,0 +1,48 @@
+{
+   "micrownet" : [
+      "simpleton"
+   ],
+   "duck" : [
+      "A simpleton is one who is simple.",
+      "https://en.wikipedia.org/wiki/Simpleton",
+      "\n<a href=\"http://duckduckgo.com/Simpleton_(folklore)\">Simpleton (folklore)</a>, a generic character in folklore",
+      "HASH(0x49d2f78)",
+      "Wikipedia",
+      "Simpleton",
+      "\n<a href=\"http://duckduckgo.com/Simpleton_(reggae_artist)\">Simpleton (reggae artist)</a>, 1990s Jamaican reggae artist",
+      "http://www.merriam-webster.com/dictionary/simpleton",
+      "simpleton definition: a person lacking in common sense.",
+      "Merriam-Webster",
+      "HASH(0x4ab9d58)",
+      "A simpleton is one who is simple.",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Crosswords/2005/March/12\" title=\"Crosswords/2005/March/12\">Crosswords/2005/March/12</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462562,
+   "book" : [],
+   "micro-www" : {
+      "simpleton" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Simpleton' may refer to:\n\n* Simpleton (folklore), a generic character in folklore\n* Simpleton (reggae artist), 1990s Jamaican reggae artist\n",
+      "title" : "simpleton",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: The_Mayor_of_Simpleton"
+   ]
+}

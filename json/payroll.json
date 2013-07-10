@@ -1,0 +1,93 @@
+{
+   "micrownet" : [
+      "payroll",
+      "payroll_check",
+      "payroll_department"
+   ],
+   "duck" : [
+      "In a company, payroll is  the sum of all financial records of salaries for an employee, wages, bonuses and deductions.",
+      "https://en.wikipedia.org/wiki/Payroll",
+      "HASH(0x4c454f0)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Payroll_(film)\">Payroll (film)</a> - Payroll is a 1961 British crime thriller starring Michael Craig, and based on the novel by Derek Bickerton.",
+      "Payroll",
+      "http://www.merriam-webster.com/dictionary/payroll",
+      "\n<a href=\"http://duckduckgo.com/c/Expense\">Expense</a>",
+      "payroll definition: a paymaster's or employer's list of those entitled to pay and of the amounts due to each.",
+      "Merriam-Webster",
+      "https://i.duckduckgo.com/i/6f24c2cc.png",
+      "HASH(0x4c088b8)",
+      "\n<a href=\"http://duckduckgo.com/c/Employment_compensation\">Employment compensation</a>",
+      "In a company, payroll is  the sum of all financial records of salaries for an employee, wages, bonuses and deductions.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._Congress_reaches_deal_on_payroll_tax_cut_extension\" title=\"U.S. Congress reaches deal on payroll tax cut extension\">U.S. Congress reaches deal on <span class=\"searchmatch\">payroll</span> tax cut extension</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._House_rejects_Senate_version_of_payroll_tax_cut\" title=\"U.S. House rejects Senate version of payroll tax cut\">U.S. House rejects Senate version of <span class=\"searchmatch\">payroll</span> tax cut</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/ADP_says_US_economy_lost_742,000_jobs_in_March\" title=\"ADP says US economy lost 742,000 jobs in March\">ADP says US economy lost 742,000 jobs in March</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Senior_citizen_group_seeks_recovery_of_Medicare_expenses_from_U.S._cigarette_makers\" title=\"Senior citizen group seeks recovery of Medicare expenses from U.S. cigarette makers\">Senior citizen group seeks recovery of Medicare expenses from U.S. cigarette makers</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%22Dr_Dino%22_gets_10_years_in_prison_after_failure_to_pay_taxes\" title=\"&quot;Dr Dino&quot; gets 10 years in prison after failure to pay taxes\">&quot;Dr Dino&quot; gets 10 years in prison after failure to pay taxes</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Kent_Hovind%27s_April_2007_appeal_denied\" title=\"Kent Hovind&#39;s April 2007 appeal denied\">Kent Hovind&#39;s April 2007 appeal denied</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scandinavian_Airlines_System_to_cut_8,600_jobs\" title=\"Scandinavian Airlines System to cut 8,600 jobs\">Scandinavian Airlines System to cut 8,600 jobs</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._jobs_picture_not_improving\" title=\"U.S. jobs picture not improving\">U.S. jobs picture not improving</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Walloon_region_of_Belgium_officially_recognises_mosques\" title=\"Walloon region of Belgium officially recognises mosques\">Walloon region of Belgium officially recognises mosques</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bush_to_Propose_Major_Overhaul_of_Social_Security_Benefits\" title=\"Bush to Propose Major Overhaul of Social Security Benefits\">Bush to Propose Major Overhaul of Social Security Benefits</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Best_Buy_signs_leases_for_28_new_stores\" title=\"Best Buy signs leases for 28 new stores\">Best Buy signs leases for 28 new stores</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/George_Bush_proposes_economic_growth_package_worth_up_to_US$150_billion\" title=\"George Bush proposes economic growth package worth up to US$150 billion\">George Bush proposes economic growth package worth up to US$150 billion</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Obama_cabinet_nominees_withdraw_over_tax_issues\" title=\"Obama cabinet nominees withdraw over tax issues\">Obama cabinet nominees withdraw over tax issues</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Kenya_government_fires_health_worker_strikers_over_failure_to_%27report_back_to_work%27\" title=\"Kenya government fires health worker strikers over failure to &#39;report back to work&#39;\">Kenya government fires health worker strikers over failure to &#39;report back to work&#39;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Makati_City_Mayor_suspended\" title=\"Makati City Mayor suspended\">Makati City Mayor suspended</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Darcy_Richardson_to_seek_Reform_Party_presidential_nomination\" title=\"Darcy Richardson to seek Reform Party presidential nomination\">Darcy Richardson to seek Reform Party presidential nomination</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ontario_Votes_2007:_Interview_with_Green_Party_candidate_Torbjorn_Zetterlund,_Willowdale\" title=\"Ontario Votes 2007: Interview with Green Party candidate Torbjorn Zetterlund, Willowdale\">Ontario Votes 2007: Interview with Green Party candidate Torbjorn Zetterlund, Willowdale</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/BBC_Resources_sale_could_be_unprofitable\" title=\"BBC Resources sale could be unprofitable\">BBC Resources sale could be unprofitable</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sources_close_to_both_sides_say_NHL,_NHLPA_agree_on_Salary_Cap_structure\" title=\"Sources close to both sides say NHL, NHLPA agree on Salary Cap structure\">Sources close to both sides say NHL, NHLPA agree on Salary Cap structure</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Thailand_forces_registration_of_prepaid_phones_to_thwart_insurgency\" title=\"Thailand forces registration of prepaid phones to thwart insurgency\">Thailand forces registration of prepaid phones to thwart insurgency</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373463256,
+   "book" : [],
+   "micro-www" : {
+      "payroll" : [
+         "Payroll",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Expense",
+         "Employment compensation"
+      ],
+      "text" : "\n\n\ns to employees.]] In a company, 'payroll' is the sum of all financial records\nof salaries for an employee, wages, bonuses and deductions. In accounting,\npayroll refers to the amount paid to employees for services they provided\nduring a certain period of time. Payroll plays a major role in a company for\nseveral reasons.\n\nFrom an accounting perspective, payroll is crucial because payroll and payroll\ntaxes considerably affect the net income of most companies and they are subject\nto laws and regulations (e.g. in the US payroll is subject to federal and state\nregulations). From an ethics in business viewpoint payroll is a critical\ndepartment as employees are responsive to payroll errors and irregularities:\ngood employee morale requires payroll to be paid timely and accurately. The\nprimary mission of the payroll department is to ensure that all employees are\npaid accurately and timely with the correct withholdings and deductions, and to\nensure the withholdings and deductions are remitted in a timely manner. This\nincludes salary payments, tax withholdings, and deductions from a paycheck.\n",
+      "title" : "payroll",
+      "headings" : [
+         "Payroll taxes",
+         "Frequency",
+         "Outsourcing",
+         "See also",
+         "Footnotes",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "1: Company",
+      "1: Financial",
+      "1: Salary",
+      "1: Wage",
+      "1: Tax_deduction",
+      "1: Paycheck",
+      "1: Income_tax",
+      "1: Trust_fund",
+      "1: Fortnight",
+      "1: Annually",
+      "1: Payroll_service_bureau",
+      "1: Payroll_tax",
+      "1: PAYE",
+      "1: National_Insurance"
+   ]
+}

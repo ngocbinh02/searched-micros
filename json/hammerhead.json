@@ -1,0 +1,75 @@
+{
+   "micrownet" : [
+      "hammerhead",
+      "hammerhead_shark",
+      "smalleye_hammerhead",
+      "smooth_hammerhead"
+   ],
+   "duck" : [
+      "\nThe <a href=\"http://duckduckgo.com/Hammerhead_shark\">Hammerhead shark</a>",
+      "https://en.wikipedia.org/wiki/Hammerhead",
+      "HASH(0x4ebc298)",
+      "Wikipedia",
+      "Hammerhead",
+      "\n<a href=\"http://duckduckgo.com/Hammerhead_(comics)\">Hammerhead (comics)</a>, a Marvel Comics foe of Spider-Man",
+      "http://www.merriam-webster.com/dictionary/hammerhead",
+      "hammerhead definition: the striking part of a hammer.",
+      "Merriam-Webster",
+      "HASH(0x4ec2cf0)",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hammerhead_sharks_can_give_birth_without_mating,_study_shows\" title=\"Hammerhead sharks can give birth without mating, study shows\"><span class=\"searchmatch\">Hammerhead</span> sharks can give birth without mating, study shows</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scientists_discover_new_kind_of_shark_in_northwest_Atlantic\" title=\"Scientists discover new kind of shark in northwest Atlantic\">Scientists discover new kind of shark in northwest Atlantic</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Virgin_lizard_reproduces\" title=\"Virgin lizard reproduces\">Virgin lizard reproduces</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462586,
+   "book" : [],
+   "micro-www" : {
+      "hammerhead" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Hammerhead' may refer to:\n\n* The head of a hammer\n* The Hammerhead shark\n",
+      "title" : "hammerhead",
+      "headings" : [
+         "Fiction",
+         "Games and rides",
+         "Music",
+         "Science and technology",
+         "Sports",
+         "United States Navy submarines"
+      ]
+   },
+   "micro-relation" : [
+      "2: Hammerhead_shark",
+      "1: Hammer",
+      "1: Dale_Brown#Independent_Series",
+      "1: Dale_Brown",
+      "1: James_Mayo",
+      "1: Momaw_Nadon",
+      "1: Hammerhead,_Hoof_and_Mouth",
+      "1: Hector_Williams",
+      "1: The_Unit",
+      "1: Twisted_Metal",
+      "1: Rare_Bird",
+      "1: Pat_Travers",
+      "1: Heat_in_the_Street",
+      "1: Hammerkop",
+      "1: Hammerhead_ribozyme",
+      "1: Jupiter_Hammerheads",
+      "1: Wilmington_Hammerheads",
+      "1: Corpus_Christi_Hammerheads",
+      "1: Stall_Turn",
+      "1: Aerobatic_maneuver"
+   ]
+}

@@ -1,0 +1,26 @@
+{
+   "micrownet" : [
+      "test_instrument_vehicle"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Deep_Impact_cruising_for_comet_crash\" title=\"Deep Impact cruising for comet crash\">Deep Impact cruising for comet crash</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Mars_Orbiter_arrives_for_launch\" title=\"New Mars Orbiter arrives for launch\">New Mars Orbiter arrives for launch</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:April_24,_2010\" title=\"News briefs:April 24, 2010\">News briefs:April 24, 2010</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471811,
+   "book" : [],
+   "micro-www" : {
+      "test_instrument_vehicle" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

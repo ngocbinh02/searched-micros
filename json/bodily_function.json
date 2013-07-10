@@ -1,0 +1,38 @@
+{
+   "micrownet" : [
+      "bodily_function"
+   ],
+   "duck" : [
+      "HASH(0x49e5388)",
+      "HASH(0x4a9d160)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/DNA_in_underwear_matches_Philippines_rape_victim\" title=\"DNA in underwear matches Philippines rape victim\">DNA in underwear matches Philippines rape victim</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465214,
+   "book" : [],
+   "micro-www" : {
+      "bodily_function" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "'Bodily functions' can refer to one of the following:\n\n* The functions (i.e. processes) of human or animal bodies, called \"systems\" in\n  physiology.\n* A euphemism for urination or defecation\n* Bodily Functions (album)\n",
+      "title" : "bodily function",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Human_physiology#Systems",
+      "1: Euphemism",
+      "1: Urination",
+      "1: Defecation"
+   ]
+}

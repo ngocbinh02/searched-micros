@@ -1,0 +1,60 @@
+{
+   "micrownet" : [
+      "ayah"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Ayah_(disambiguation)",
+      "HASH(0x4985a58)",
+      "Wikipedia",
+      "Ayah",
+      "\n<a href=\"http://duckduckgo.com/Ayah\">Ayah</a>, a verse of the Qur'an",
+      "http://www.merriam-webster.com/dictionary/ayah",
+      "ayah definition: a nurse or maid native to India.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Paul_Abine_Ayah\">Paul Abine Ayah</a> (21st century), member of the National Assembly of Cameroon",
+      "\nA <a href=\"http://duckduckgo.com/nanny\">nanny</a> in India during the colonial period.",
+      "\nAyah or <a href=\"http://duckduckgo.com/Amah_(occupation)\">Amah (occupation)</a>, a domestic servant",
+      "HASH(0x47c4ce8)",
+      "\n<a href=\"http://duckduckgo.com/Princess_Ayah_bint_Al_Faisal\">Princess Ayah bint Al Faisal</a> (born 1990), Jordanian princess",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465433,
+   "book" : [],
+   "micro-www" : {
+      "ayah" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Ayat| Ayah",
+         "Arrangement of the Quran"
+      ],
+      "text" : "\n\n'Ayah' or 'Aayah'\" (Arabic: {{transl|ar|DIN|āyah}}, plural: ayat or ayaat\n{{transl|ar|DIN|āyāt}}) is the Arabic word for 'evidence' or 'sign'. The term\nalso refers to verses of the Quran which are marked with a verse number written\nat the end of each verse.\n\n:\"These are the Ayat (proofs, evidences, verses, lessons, revelations, etc.) of\n:God, which We recite to you (O Muhammad) with truth. Then in which speech after\n:God and His signs will they believe? (45:6)\"<ref>(Surat Al-Jathiya 45:6, Mohsin\n:Khan translation of the\n:Quran)[http://corpus.quran.com/translation.jsp?chapter=45&verse=6 Sura 45:6]\n:online at the Quranic Arabic Corpus</ref>\n\nAlthough the term is usually used to refer to the smallest unit of the Quran, or\na verse, it is doubtful whether it ever means anything other than sign or a\nremarkable event in the Quran. The ‘sign’ refers to various phenomena, sometimes\nit refers to nature, creation of the universe, the alternation of day and night,\nrainfall, or the life and growth plants. Other references are to the fate of\nunbelievers, the reward of believers, or miracles.<ref></ref> For example:\n\n\n:\"And of his signs is the creation of the heavens and earth and what He has\n:dispersed throughout them of creatures.(42:29)\"\n\n:\"And a sign for them is the dead earth. We have brought it to life and brought\n:forth from it grain, and from it they eat.(33:33)\"\n\n:\"and they denied him; therefore we destroyed them. Herein is indeed a sign yet\n:most of them are not believers.(26:139)\"\n\n:\"you are but a mortal like us. So bring some sign if you are of the\n:truthful.(26:154)\"\n\nChapters in the Quran, called [[sura]]s in Arabic, are made up of several\nverses. Chapters vary in length, ranging from 3 to 286 verses. Within a long\nchapter, the verses may be further grouped into thematic sequences or passages.\n\nFor the purpose of interpretation, the verses are separated into two groups:\nthose that are clear and unambiguous (\"muhkam\") and those that are allegorical\n(\"mutashabeh\").<ref>Association of Islamic Charitable Projects.\n[http://www.aicp.org/SupportingDocs/The%20Ayahs.pdf The Ayahs of the Quran: The\nMuhkam and the Mutashabih.]</ref> This distinction is based on the Quran itself:\n\"It is God Who has sent down to you the Book. In it are verses that are 'clear',\nthey are the foundation of the Book. Others are 'allegorical' but those in whose\nhearts is perversity follow the part thereof that is allegorical, seeking\ndiscord, and searching for its hidden meanings, but no one knows its hidden\nmeanings except God. And those who are firmly grounded in knowledge say: We\nbelieve in the Book, the whole of it is from our Lord. And none will grasp the\nMessage except men of understanding.(3:7)\"<ref> (Ali-Imran 3:7, Yusuf Ali\ntranslation of the\nQuran)[http://corpus.quran.com/translation.jsp?chapter=3&verse=7 Sura 3:7]\nonline at the Quranic Arabic Corpus</ref>\n\nThe word ayah is also used to refer to the verses of the Bible by Arab\nChristians and Christians in countries where Arabic words are used for religious\nterms.<ref>E.g. </ref>\n\nA common myth persists that the number of verses in the Quran is\n6,666.<ref></ref> In fact, the total number of verses in all chapters is 6,236.\nThe number varies if the Basmala which appear in the beginning of each chapter,\nare counted separately.\n\nThis symbol of a verse in the text of Quran is: ۝ . Its Unicode number is U+06DD.<ref>[http://www.evertype.com/standards/iso10646/pdf/09419-encode-\nkoranic.pdf Proposal for additional Unicode characters]; page 3 has a scanned\nexample of the use of the Ayah symbol.</ref>\n",
+      "title" : "ayah",
+      "headings" : [
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Quranic_Arabic_Corpus",
+      "1: Arabic_language",
+      "1: Surat_Al-Jathiya",
+      "1: Muhammad_Muhsin_Khan",
+      "1: Quran",
+      "1: Ali-Imran",
+      "1: Abdullah_Yusuf_Ali",
+      "1: Chapters_and_verses_of_the_Bible#Verses",
+      "1: Arab_Christian",
+      "1: Basmala",
+      "1: Unicode"
+   ]
+}

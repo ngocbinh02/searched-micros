@@ -1,0 +1,28 @@
+{
+   "micrownet" : [
+      "causal_agency"
+   ],
+   "duck" : [
+      "HASH(0x47c4ca8)",
+      "HASH(0x49c3680)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scores_feared_dead_in_Indonesian_landslides_after_heavy_rain\" title=\"Scores feared dead in Indonesian landslides after heavy rain\">Scores feared dead in Indonesian landslides after heavy rain</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_Airways_Flight_38_suffered_low_fuel_pressure;_investigation_continues\" title=\"British Airways Flight 38 suffered low fuel pressure; investigation continues\">British Airways Flight 38 suffered low fuel pressure; investigation continues</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462250,
+   "book" : [],
+   "micro-www" : {
+      "causal_agency" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

@@ -1,0 +1,58 @@
+{
+   "micrownet" : [
+      "cash_advance"
+   ],
+   "duck" : [
+      "HASH(0x49ba718)",
+      "HASH(0x4976e20)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Luxembourg,_India_spar_over_Arcelor_takeover_bid\" title=\"Luxembourg, India spar over Arcelor takeover bid\">Luxembourg, India spar over Arcelor takeover bid</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Blatter_set_to_be_re-elected_as_FIFA_suspends_two_senior_officials\" title=\"Blatter set to be re-elected as FIFA suspends two senior officials\">Blatter set to be re-elected as FIFA suspends two senior officials</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:July_23,_2010\" title=\"News briefs:July 23, 2010\">News briefs:July 23, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._Congressman_William_Jefferson_faces_16-count_indictment_for_corruption\" title=\"U.S. Congressman William Jefferson faces 16-count indictment for corruption\">U.S. Congressman William Jefferson faces 16-count indictment for corruption</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/An_interview_with_Paul_Campbell,_founder_of_Amazing_Radio_UK\" title=\"An interview with Paul Campbell, founder of Amazing Radio UK\">An interview with Paul Campbell, founder of Amazing Radio UK</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Microsoft_to_buy_back_US$40_B_of_its_stock_over_5_years\" title=\"Microsoft to buy back US$40 B of its stock over 5 years\">Microsoft to buy back US$40 B of its stock over 5 years</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Computer_glitch_delays_online_tax_filing_in_Canada\" title=\"Computer glitch delays online tax filing in Canada\">Computer glitch delays online tax filing in Canada</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Eleven_HIV/AIDS_patient-protestors_detained_in_Myanmar\" title=\"Eleven HIV/AIDS patient-protestors detained in Myanmar\">Eleven HIV/AIDS patient-protestors detained in Myanmar</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Marketing_blitz_begins_for_final_%27Star_Wars%27_film\" title=\"Marketing blitz begins for final &#39;Star Wars&#39; film\">Marketing blitz begins for final &#39;Star Wars&#39; film</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Interpol_orders_arrest_of_Wikileaks_founder_to_face_rape_charges\" title=\"Interpol orders arrest of Wikileaks founder to face rape charges\">Interpol orders arrest of Wikileaks founder to face rape charges</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373463267,
+   "book" : [],
+   "micro-www" : {
+      "cash_advance" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Credit card terminology",
+         "Business terms",
+         "Payment systems"
+      ],
+      "text" : "\n{{multiple issues|\n\n\n}}\n\nA 'cash advance' is a service provided by most credit card and charge card\nissuers. The service allows cardholders to withdraw cash, either through an ATM\nor over the counter at a bank or other financial agency, up to a certain limit.\nFor a credit card, this will be the credit limit (or some percentage of it).\n\nCash advances generally incur a fee (to replace the interchange fee normally\ncharged to the merchant on a card transaction), although this is sometimes\nwaived if the account is in credit. When made on a credit card, they are usually\ncharged at a higher rate of interest than a regular credit card transaction, and\ngenerally do not attract an interest-free period which is customarily given to\ncardholders who pay off their bill in full every month.\n\nSome \"purchases\" made with a credit card of items that are viewed as cash are\nalso considered to be cash advances in accordance with the credit card network's\nguidelines, thereby incurring the higher interest rate and the lack of the grace\nperiod. These often include money orders, lottery tickets, gaming chips, and\ncertain taxes and fees paid to certain governments. However, should the merchant\nnot disclose the actual nature of the transactions, these will be processed as\nregular credit card transactions. Many merchants have passed on the credit card\nprocessing fees to the credit card holders in spite of the credit card network's\nguidelines, which state the credit card holders should not have any extra fee\nfor doing a transaction with a credit card.\n\nUnder card scheme rules, a credit card holder presenting an accepted form of\nidentification must be issued a cash advance over the counter at any bank\nwhich issues that type of credit card, even if the cardholder cannot give his\nor her PIN.\n",
+      "title" : "cash advance",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Credit_card",
+      "1: Charge_card",
+      "1: Cash",
+      "1: Automatic_teller_machine",
+      "1: Interchange_fee",
+      "1: Interest",
+      "1: Grace_period",
+      "1: Money_order",
+      "1: Lottery",
+      "1: Gaming_chip",
+      "1: Personal_identification_number"
+   ]
+}

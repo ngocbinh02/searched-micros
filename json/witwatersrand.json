@@ -1,0 +1,104 @@
+{
+   "micrownet" : [
+      "witwatersrand"
+   ],
+   "duck" : [
+      "Witwatersrand",
+      "\n<a href=\"http://duckduckgo.com/Pilanesberg\">Pilanesberg</a> - The Pilanesberg Game Reserve is located in North West Province in South Africa, west of Pretoria.",
+      "\n<a href=\"http://duckduckgo.com/c/Geography_of_South_Africa\">Geography of South Africa</a>",
+      "Often called Rand A region of northeast South Africa between the Vaal River and Johannesburg.",
+      "https://i.duckduckgo.com/i/aa506b04.jpg",
+      "\n<a href=\"http://duckduckgo.com/c/Mountain_ranges_of_South_Africa\">Mountain ranges of South Africa</a>",
+      "\n<a href=\"http://duckduckgo.com/c/Geography_of_Gauteng\">Geography of Gauteng</a>",
+      "\n<a href=\"http://duckduckgo.com/c/Johannesburg\">Johannesburg</a>",
+      "The Witwatersrand is a large sedimentary range of rocky hills in South Africa.",
+      "\n<a href=\"http://duckduckgo.com/University_of_the_Witwatersrand\">University of the Witwatersrand</a> - The University of the Witwatersrand, Johannesburg is a multi-campus South African public research university situated in the northern areas of central Johannesburg.",
+      "\n<a href=\"http://duckduckgo.com/Borakalalo_Game_Reserve\">Borakalalo Game Reserve</a> - The Borakalalo Game Reserve is a protected area in North West Province, South Africa."
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/South_African_lawyer_and_anti-apartheid_leader_Harry_Schwarz_dies_age_85\" title=\"South African lawyer and anti-apartheid leader Harry Schwarz dies age 85\">South African lawyer and anti-apartheid leader Harry Schwarz dies age 85</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Thousands_of_trapped_miners_rescued_in_South_Africa\" title=\"Thousands of trapped miners rescued in South Africa\">Thousands of trapped miners rescued in South Africa</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_mountain_ranges_of_South_Africa"
+   ],
+   "created" : 1373469652,
+   "book" : [],
+   "micro-www" : {
+      "witwatersrand" : [
+         "Witwatersrand",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Geography of Gauteng",
+         "Geography of South Africa",
+         "Johannesburg",
+         "Mountain ranges of South Africa"
+      ],
+      "text" : "\n{{Infobox mountain range\n| name = Witwatersrand photo = Witwatersrand National Botanical Gardens.jpg\n| photo_caption =Landscape of the Witwatersrand National Botanical Gardens\n| highest = highest_elevation= 1913 highest_ref= listing = parent = nearest_city\n| =Rustenburg country = South Africa region_type = Provinces region1 = North\n| West | region2 = Gauteng | region3 = Mpumalanga map = South Africa |\n| map_relief = 1 | region_code = ZA map_caption = label_position = lat_d = 26 |\n| lat_m = 12 | lat_s = 13 | lat_NS = S long_d= 28 | long_m= 2 | long_s= 34 |\n| long_EW= E coordinates_ref = geology=Quartzites, conglomerates and shales\n| period=Precambrian orogeny=Kaapvaal craton length_km= 460| length_orientation=\n| ESE/WNW width_km= 140 | width_orientation= NNE/SSW easiest_route = From\n| Gauteng or Pretoria\n}}\n\nThe 'Witwatersrand' is a large sedimentary range of rocky hills in South Africa.\nAlthough it has an elevation of 1700&ndash;1800 metres above sea-level, it\nappears low because of the average height of the surrounding mountain plateau.\nThe Witwatersrand runs in an east-west direction through Gauteng. The word in\nAfrikaans means \"the ridge of white waters\".\n\nGeologically it is complex, but the principal formations are quartzites,\nconglomerates and shales of the Witwatersrand System.\n\nThe Witwatersrand range forms a continental divide with rivers to the north such\nas the Crocodile River draining into the Limpopo River and Indian Ocean and with\nthe run-off to the south draining into the Orange River and Atlantic. The\nWitwatersrand lies within the province of Gauteng, formerly called the PWV area,\nan acronym for Pretoria, Witwatersrand, and Vereeniging.\n",
+      "title" : "witwatersrand",
+      "headings" : [
+         "Gold mining",
+         "Urban areas",
+         "History",
+         "See also",
+         "Further reading",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "3: Gauteng",
+      "2: South_Africa",
+      "2: Quartzite",
+      "2: Shale",
+      "2: Pretoria",
+      "1: Rustenburg",
+      "1: Mpumalanga",
+      "1: Precambrian",
+      "1: Kaapvaal_craton",
+      "1: Afrikaans",
+      "1: Continental_divide",
+      "1: Limpopo_River",
+      "1: Indian_Ocean",
+      "1: Orange_River",
+      "1: Atlantic_Ocean",
+      "1: Acronym",
+      "1: Vereeniging",
+      "1: Reef",
+      "1: Uranium",
+      "1: Gold",
+      "1: Earth",
+      "1: Klerksdorp",
+      "1: Bethal",
+      "1: South_African_rand",
+      "1: Magaliesburg",
+      "1: Greater_Johannesburg",
+      "1: Randfontein",
+      "1: Carletonville",
+      "1: Springs,_South_Africa",
+      "1: East_Rand",
+      "1: West_Rand",
+      "1: Soweto",
+      "1: Transvaal_Province",
+      "1: Boers",
+      "1: Great_Trek",
+      "1: Krugersdorp",
+      "1: Pound_sterling",
+      "1: Jukskei_River",
+      "1: Witwatersrand_Gold_Rush",
+      "1: Africa",
+      "1: Geography_of_South_Africa",
+      "1: List_of_mountain_ranges_of_South_Africa",
+      "1: Pilanesberg",
+      "1: Borakalalo_Game_Reserve"
+   ]
+}

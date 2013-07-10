@@ -1,0 +1,50 @@
+{
+   "micrownet" : [
+      "oxbow",
+      "oxbow_lake"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Oxbow\">Oxbow</a>, a part of oxen tack",
+      "https://en.wikipedia.org/wiki/Oxbow_(disambiguation)",
+      "\n<a href=\"http://duckduckgo.com/Meander\">Meander</a> in a river, especially a horseshoe-shaped one",
+      "HASH(0x49cedb8)",
+      "Wikipedia",
+      "Oxbow",
+      "http://www.merriam-webster.com/dictionary/populated",
+      "populated definition: to have a place in.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Oxbow_lake\">Oxbow lake</a> - An oxbow lake is a U-shaped body of water formed when a wide meander from the main stem of a river is cut off to create a lake.",
+      "HASH(0x4a66e50)",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373466419,
+   "book" : [],
+   "micro-www" : {
+      "oxbow" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Animal equipment"
+      ],
+      "text" : "\n\n\nAn 'oxbow' is a U-shaped wooden or metal frame that fits under and around the\nneck of an ox or bullock, with its upper ends passing through the bar of the\nyoke and held in place with a metal key, called a bow pin. The wood most\noften used is hardwood steamed into shape, like elm or hickory and sometimes\nwillow. A ring is attached by a plate to the centre underside of the yoke, to\nenable a pair of bullocks to be chained to other pairs in a team and thence\nhitched to the load.\n\nWhen rivers meander and are sometimes cut off from their course, they form an\n'[[oxbow lake]]' which is so named because of the distinctive '\"U\"' shape.\n",
+      "title" : "oxbow",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: U",
+      "1: Ox",
+      "1: Yoke",
+      "1: River",
+      "1: Meander"
+   ]
+}

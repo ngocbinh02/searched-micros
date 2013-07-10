@@ -1,0 +1,92 @@
+{
+   "micrownet" : [
+      "brightness",
+      "brightness_constancy",
+      "brightness_level",
+      "radio_brightness"
+   ],
+   "duck" : [
+      "Brightness",
+      "\n<a href=\"http://duckduckgo.com/c/Photometry\">Photometry</a>",
+      "\n<a href=\"http://duckduckgo.com/Luminance_(relative)\">Luminance (relative)</a> - Relative luminance follows the photometric definition of luminance, but with the values normalized to 1 or 100 for a reference white.",
+      "http://www.merriam-webster.com/dictionary/brightness",
+      "\n<a href=\"http://duckduckgo.com/c/Vision\">Vision</a>",
+      "brightness definition: the quality or state of being bright.",
+      "Merriam-Webster",
+      "https://i.duckduckgo.com/i/9e84cfd5.jpg",
+      "\n<a href=\"http://duckduckgo.com/Luminosity\">Luminosity</a> - Luminosity is generally understood as a measurement of brightness.",
+      "\n<a href=\"http://duckduckgo.com/Luma_(video)\">Luma (video)</a> - In video, luma, sometimes called luminance, represents the brightness in an image.",
+      "Brightness is an attribute of visual perception in which a source appears to be radiating or reflecting light."
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/European_telescope_searches_for_planets\" title=\"European telescope searches for planets\">European telescope searches for planets</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Jupiter_at_its_brightest_in_47_years\" title=\"Jupiter at its brightest in 47 years\">Jupiter at its brightest in 47 years</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Unexpected_comet_%27outburst%27_could_be_visible_for_weeks\" title=\"Unexpected comet &#39;outburst&#39; could be visible for weeks\">Unexpected comet &#39;outburst&#39; could be visible for weeks</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Saturn%27s_moon_Titan_hosts_liquid_lakes_and_rivers\" title=\"Saturn&#39;s moon Titan hosts liquid lakes and rivers\">Saturn&#39;s moon Titan hosts liquid lakes and rivers</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bright_object_falls_from_sky_over_northwest_United_States\" title=\"Bright object falls from sky over northwest United States\"><span class=\"searchmatch\">Bright</span> object falls from sky over northwest United States</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NASA_observes_largest_supernova_on_record\" title=\"NASA observes largest supernova on record\">NASA observes largest supernova on record</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Asteroid_to_fly_by_Earth\" title=\"Asteroid to fly by Earth\">Asteroid to fly by Earth</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bigger_than_Pluto,_possible_10th_planet_found\" title=\"Bigger than Pluto, possible 10th planet found\">Bigger than Pluto, possible 10th planet found</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_comet_to_be_visible_to_naked_eye_for_several_days\" title=\"New comet to be visible to naked eye for several days\">New comet to be visible to naked eye for several days</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Recent_%27Earth-like_planet%27_found_in_April_%27too_hot%27_for_life_say_some_scientists\" title=\"Recent &#39;Earth-like planet&#39; found in April &#39;too hot&#39; for life say some scientists\">Recent &#39;Earth-like planet&#39; found in April &#39;too hot&#39; for life say some scientists</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NASA_launches_two_space_probes_to_the_moon\" title=\"NASA launches two space probes to the moon\">NASA launches two space probes to the moon</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Planet_Mercury_to_blaze_across_Sun_today\" title=\"Planet Mercury to blaze across Sun today\">Planet Mercury to blaze across Sun today</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NASA_successfully_launches_Kepler_Telescope\" title=\"NASA successfully launches Kepler Telescope\">NASA successfully launches Kepler Telescope</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:October_27,_2007\" title=\"News briefs:October 27, 2007\">News briefs:October 27, 2007</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_stars_found_in_Southern_Cross\" title=\"New stars found in Southern Cross\">New stars found in Southern Cross</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Apple_releases_new_Magic_Trackpad,_updated_iMacs_and_Mac_Pros\" title=\"Apple releases new Magic Trackpad, updated iMacs and Mac Pros\">Apple releases new Magic Trackpad, updated iMacs and Mac Pros</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:June_10,_2010\" title=\"News briefs:June 10, 2010\">News briefs:June 10, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:June_8,_2010\" title=\"News briefs:June 8, 2010\">News briefs:June 8, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Bright%27_idea_lights_its_way_to_win_NASA_contest\" title=\"&#39;Bright&#39; idea lights its way to win NASA contest\">&#39;<span class=\"searchmatch\">Bright</span>&#39; idea lights its way to win NASA contest</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Locals_and_officer_claim_to_have_seen_a_UFO_in_Charlotte,_North_Carolina\" title=\"Locals and officer claim to have seen a UFO in Charlotte, North Carolina\">Locals and officer claim to have seen a UFO in Charlotte, North Carolina</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373470054,
+   "book" : [],
+   "micro-www" : {
+      "brightness" : [
+         "Brightness",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Vision",
+         "Photometry"
+      ],
+      "text" : "\n\n'Brightness' is an attribute of visual perception in which a source appears to\nbe radiating or reflecting light.<ref>[http://www.merriam-\nwebster.com/dictionary/bright Merriam-Webster.com] Merriam-Webster Dictionary\ndefinition of bright</ref> In other words, brightness is the perception elicited\nby the luminance of a visual target. This is a subjective attribute/property of\nan object being observed.\n",
+      "title" : "brightness",
+      "headings" : [
+         "Terminology",
+         "Brightness of sounds",
+         "See also",
+         "Notes",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "1: Visual_perception",
+      "1: Light",
+      "1: Luminance",
+      "1: Common_Germanic",
+      "1: Proto-Indo-European_language",
+      "1: Radiometric",
+      "1: Federal_Standard_1037C",
+      "1: White's_illusion",
+      "1: RGB_color_space",
+      "1: Arithmetic_mean",
+      "1: HSV_color_space",
+      "1: Star",
+      "1: Apparent_magnitude",
+      "1: Absolute_magnitude",
+      "1: Timbre",
+      "1: Spectral_centroid",
+      "1: Luminosity"
+   ]
+}

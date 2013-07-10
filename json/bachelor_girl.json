@@ -1,0 +1,83 @@
+{
+   "micrownet" : [
+      "bachelor_girl"
+   ],
+   "duck" : [
+      "HASH(0x4bad0f8)",
+      "HASH(0x4b6ada0)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Interview_with_Stephanie_Beaumier,_City_Council_candidate_for_Wards_1_%26_5_in_Brampton,_Canada\" title=\"Interview with Stephanie Beaumier, City Council candidate for Wards 1 &amp; 5 in Brampton, Canada\">Interview with Stephanie Beaumier, City Council candidate for Wards 1 &amp; 5 in Brampton, Canada</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:June_9,_2010\" title=\"News briefs:June 9, 2010\">News briefs:June 9, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Past_Eurovision_contestants_give_advice_to_this_year%27s_performers,_speculate_on_who_will_win\" title=\"Past Eurovision contestants give advice to this year&#39;s performers, speculate on who will win\">Past Eurovision contestants give advice to this year&#39;s performers, speculate on who will win</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Satanism:_An_interview_with_Church_of_Satan_High_Priest_Peter_Gilmore\" title=\"Satanism: An interview with Church of Satan High Priest Peter Gilmore\">Satanism: An interview with Church of Satan High Priest Peter Gilmore</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_archer_Alice_Ingley_readies_for_potential_Olympic_spot\" title=\"Australian archer Alice Ingley readies for potential Olympic spot\">Australian archer Alice Ingley readies for potential Olympic spot</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462978,
+   "book" : [],
+   "micro-www" : {
+      "bachelor_girl" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "ARIA Award winners",
+         "Victoria (Australia) musical groups",
+         "Australian pop music groups",
+         "Australian indie rock groups",
+         "Musical groups established in 1992",
+         "Musical groups disestablished in 2003",
+         "Australian musical duos"
+      ],
+      "text" : "\n\n{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->\n| name = Bachelor Girl image = <!-- Commented out because image was deleted:\n| Bach girl d.jpg --> caption = Bachelor Girl in 2002 image_size = 150\n| background = group_or_band alias = origin = Melbourne, Victoria, Australia\n| genre = Pop, pop rock, indie years_active = 1992–2003, 2011 label = Gotham,\n| BMG, Arista associated_acts = website = current_members = past_members = Tania\n| Doko<br />James Roche\n}} 'Bachelor Girl' was an Australian pop duo, formed in 1992 by Tania Doko as\nvocalist and James Roche as musician, producer and arranger. Their 1998 debut\nsingle, \"Buses and Trains\", was a top&nbsp;10 hit in Australia and New Zealand;\nit peaked in the top&nbsp;30 in Sweden and charted in the United Kingdom. The\nfollow up single, \"Treat Me Good\" reached the top&nbsp;40 in Australia and New\nZealand. The related album, [[Waiting for the Day]] (November 1999) appeared in\nthe top&nbsp;20 on the ARIA Albums Chart and achieved platinum certification\nfrom ARIA.\n",
+      "title" : "Bachelor%20Girl",
+      "headings" : [
+         "History",
+         "Discography",
+         "Awards",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "5: ARIA_Award",
+      "4: Buses_and_Trains",
+      "3: Gotham_Records",
+      "3: Treat_Me_Good",
+      "3: ARIA_Charts",
+      "2: Australia",
+      "2: Pop_music",
+      "2: BMG",
+      "2: Arista_Records",
+      "2: RIANZ",
+      "2: Sverigetopplistan",
+      "1: Melbourne",
+      "1: Pop_rock",
+      "1: Indie_music",
+      "1: Record_producer",
+      "1: Allmusic",
+      "1: Rovi_Corporation",
+      "1: Tommy_Emmanuel",
+      "1: John_Farnham",
+      "1: Irwin_Thomas",
+      "1: Girl_group",
+      "1: Sony_Music",
+      "1: The_Official_Finnish_Charts",
+      "1: I'm_Just_a_Girl",
+      "1: Japan",
+      "1: Billboard_200",
+      "1: Compact_disc",
+      "1: Australian_Recording_Industry_Association",
+      "1: Platinum_album",
+      "1: Finland",
+      "1: UK_Singles_Chart",
+      "1: Drowning_Not_Waving"
+   ]
+}

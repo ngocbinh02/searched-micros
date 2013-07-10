@@ -1,0 +1,53 @@
+{
+   "micrownet" : [
+      "canis_lupus_tundrarum"
+   ],
+   "duck" : [
+      "HASH(0x4a89ed0)",
+      "HASH(0x4a92bb0)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464903,
+   "book" : [],
+   "micro-www" : {
+      "canis_lupus_tundrarum" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Wolves",
+         "Arctic land animals",
+         "Fauna of the Arctic"
+      ],
+      "text" : "\n{{Taxobox\n| name = Alaskan tundra wolf regnum = Animalia phylum = Chordata classis =\n| Mammalia ordo = Carnivora familia = Canidae genus = [[Canis]] species = [[Gray\n| Wolf|C. lupus]] subspecies = 'C. l. tundrarum' trinomial = Canis lupus\n| tundrarum trinomial_authority = Miller, 1912<ref></ref>}}\n\nThe 'Alaskan tundra wolf' (Canis lupus tundrarum<ref></ref>) is a subspecies of\nthe gray wolf, Canis lupus, that resides along the Arctic coast in\nAlaska.<ref></ref>\n",
+      "title" : "Alaskan%20tundra%20wolf",
+      "headings" : [
+         "Social behavior",
+         "Diet and hunting behavior",
+         "Physiology",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "1: Animal",
+      "1: Chordate",
+      "1: Mammal",
+      "1: Carnivora",
+      "1: Canidae",
+      "1: Subspecies",
+      "1: Gray_wolf",
+      "1: Arctic_coast",
+      "1: Alaska",
+      "1: Reindeer",
+      "1: Muskoxen"
+   ]
+}

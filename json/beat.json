@@ -1,0 +1,124 @@
+{
+   "micrownet" : [
+      "beat",
+      "beat(predicate)",
+      "beat-up",
+      "beat_a_retreat",
+      "beat_about",
+      "beat_around_the_bush",
+      "beat_back",
+      "beat_down",
+      "beat_generation",
+      "beat_in",
+      "beat_out",
+      "beat_up",
+      "beatable",
+      "beaten",
+      "beaten-up",
+      "beater",
+      "beatific",
+      "beatification",
+      "beatified",
+      "beatify",
+      "beating",
+      "beating-reed_instrument",
+      "beatitude",
+      "beatles",
+      "beatnik",
+      "beatniks",
+      "beatrice",
+      "beatrice_lillie",
+      "beatrice_webb",
+      "beats",
+      "beats_per_minute"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Beat",
+      "HASH(0x4ab5bc0)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Beat_Generation\">Beat Generation</a>, writers of beat poetry and other beat literature",
+      "Beat",
+      "http://www.merriam-webster.com/dictionary/beat",
+      "beat definition: to strike repeatedly.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Beats_by_Dr._Dre\">Beats by Dr. Dre</a>, a brand of headphones",
+      "HASH(0x4d26a58)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Beat_(music)\">Beat (music)</a>, the basic time unit of a piece of music"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Arsenal_beat_Real_Madrid_1-0\" title=\"Arsenal beat Real Madrid 1-0\">Arsenal <span class=\"searchmatch\">beat</span> Real Madrid 1-0</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Japanese_national_team_beats_ACT_softball_team\" title=\"Japanese national team beats ACT softball team\">Japanese national team <span class=\"searchmatch\">beats</span> ACT softball team</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/WNBL%27s_Sydney_Uni_Flames_decisively_beat_Canberra_Capitals\" title=\"WNBL&#39;s Sydney Uni Flames decisively beat Canberra Capitals\">WNBL&#39;s Sydney Uni Flames decisively <span class=\"searchmatch\">beat</span> Canberra Capitals</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Basketball:_Greece_beats_the_United_States,_101-95_on_semi-final\" title=\"Basketball: Greece beats the United States, 101-95 on semi-final\">Basketball: Greece <span class=\"searchmatch\">beats</span> the United States, 101-95 on semi-final</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ice_Hockey:_Detroit_Red_Wings_beat_San_Jose_Sharks_7-1_in_fourth_NHL_quarter_final_match\" title=\"Ice Hockey: Detroit Red Wings beat San Jose Sharks 7-1 in fourth NHL quarter final match\">Ice Hockey: Detroit Red Wings <span class=\"searchmatch\">beat</span> San Jose Sharks 7-1 in fourth NHL quarter final match</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Liverpool_beats_Milan_on_penalties_in_Champions_League_final\" title=\"Liverpool beats Milan on penalties in Champions League final\">Liverpool <span class=\"searchmatch\">beats</span> Milan on penalties in Champions League final</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Germany_beat_Poland_and_top_Group_A\" title=\"Germany beat Poland and top Group A\">Germany <span class=\"searchmatch\">beat</span> Poland and top Group A</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Japanese_national_team_decisively_beats_ACT_10-0_in_four_innings\" title=\"Japanese national team decisively beats ACT 10-0 in four innings\">Japanese national team decisively <span class=\"searchmatch\">beats</span> ACT 10-0 in four innings</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Japan_beats_Aussie_Spirit_in_first_two_games_of_series\" title=\"Japan beats Aussie Spirit in first two games of series\">Japan <span class=\"searchmatch\">beats</span> Aussie Spirit in first two games of series</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Paralympic_table_tennis_silver_medalist_Piotr_Grudzien_beats_Poland%27s_Richard_Csejtey\" title=\"Paralympic table tennis silver medalist Piotr Grudzien beats Poland&#39;s Richard Csejtey\">Paralympic table tennis silver medalist Piotr Grudzien <span class=\"searchmatch\">beats</span> Poland&#39;s Richard Csejtey</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NASCAR:_Johnson_beats_Bowyer_for_victory_in_Aarons%27_499\" title=\"NASCAR: Johnson beats Bowyer for victory in Aarons&#39; 499\">NASCAR: Johnson <span class=\"searchmatch\">beats</span> Bowyer for victory in Aarons&#39; 499</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2009-2010_France_Rugby_Championship:_Tolouse_beats_Castres\" title=\"2009-2010 France Rugby Championship: Tolouse beats Castres\">2009-2010 France Rugby Championship: Tolouse <span class=\"searchmatch\">beats</span> Castres</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2009-2010_France_Rugby_Champioship:_Tolouse_beats_Castres\" title=\"2009-2010 France Rugby Champioship: Tolouse beats Castres\">2009-2010 France Rugby Champioship: Tolouse <span class=\"searchmatch\">beats</span> Castres</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2009-2010_France_Rugby_Championship:_Toulouse_beats_Castres\" title=\"2009-2010 France Rugby Championship: Toulouse beats Castres\">2009-2010 France Rugby Championship: Toulouse <span class=\"searchmatch\">beats</span> Castres</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australia_men%27s_national_wheelchair_basketball_team_beat_Japan_80-49_in_final_game_of_pool_play\" title=\"Australia men&#39;s national wheelchair basketball team beat Japan 80-49 in final game of pool play\">Australia men&#39;s national wheelchair basketball team <span class=\"searchmatch\">beat</span> Japan 80-49 in final game of pool play</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canberra_Capitals_beat_Chinese_women%27s_national_B_basketball_team_in_pre-season\" title=\"Canberra Capitals beat Chinese women&#39;s national B basketball team in pre-season\">Canberra Capitals <span class=\"searchmatch\">beat</span> Chinese women&#39;s national B basketball team in pre-season</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/GAA:_Westmeath_beat_Donegal_by_narrowest_of_margins\" title=\"GAA: Westmeath beat Donegal by narrowest of margins\">GAA: Westmeath <span class=\"searchmatch\">beat</span> Donegal by narrowest of margins</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_Gliders_beat_Germany_women%27s_national_wheelchair_basketball_team_on_day_two_of_Rollers_%26_Gliders_World_Challenge\" title=\"Australian Gliders beat Germany women&#39;s national wheelchair basketball team on day two of Rollers &amp; Gliders World Challenge\">Australian Gliders <span class=\"searchmatch\">beat</span> Germany women&#39;s national wheelchair basketball team on day two of Rollers &amp; Gliders World Challenge</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Brazil_beat_Australia_with_two_second_half_goals_in_Group_F\" title=\"Brazil beat Australia with two second half goals in Group F\">Brazil <span class=\"searchmatch\">beat</span> Australia with two second half goals in Group F</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NHL:_Buffalo_Sabres_beat_Ottawa_Senators_3_to_2\" title=\"NHL: Buffalo Sabres beat Ottawa Senators 3 to 2\">NHL: Buffalo Sabres <span class=\"searchmatch\">beat</span> Ottawa Senators 3 to 2</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_Mega_Man_characters#Beat"
+   ],
+   "created" : 1373462064,
+   "book" : [],
+   "micro-www" : {
+      "beat" : [
+         "Beatrice_Rosen",
+         "Beatnik",
+         "Beating_the_bounds",
+         "Beat_reporting",
+         "Beat_(music)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Beat' or 'beats' may refer to:\n",
+      "title" : "beat",
+      "headings" : [
+         "Area of territory",
+         "Criminology",
+         "Entertainment and fiction",
+         "Motor vehicles",
+         "Other",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Beat_reporting",
+      "1: Gay_beat",
+      "1: Forest_range",
+      "1: Directorial_beat",
+      "1: Unit_of_action",
+      "1: Beat_music",
+      "1: Beats_by_Dr._Dre",
+      "1: List_of_Mega_Man_characters#Beat",
+      "1: Daiichi_Kosho_Whisper",
+      "1: Daewoo_Matiz",
+      "1: Honda_Beat",
+      "1: Honda_FC50",
+      "1: Sailing#Beating_or_\"working\"",
+      "1: Swatch_Internet_Time",
+      "1: Comic_timing",
+      "1: Beat_Generation",
+      "1: Beet"
+   ]
+}

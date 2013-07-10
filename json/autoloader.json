@@ -1,0 +1,74 @@
+{
+   "micrownet" : [
+      "autoloader"
+   ],
+   "duck" : [
+      "\nA jargon term for a <a href=\"http://duckduckgo.com/semi-automatic_firearm\">semi-automatic firearm</a>.",
+      "\n<a href=\"http://duckduckgo.com/Tape_library\">Autoloader (data storage device)</a>, sometimes called a stacker or a jukebox, a data storage device containing multiple media units that can be automatically loaded into the drive.",
+      "Autoloader",
+      "\nA fictional magazine featured in the <a href=\"http://duckduckgo.com/Punisher\">Punisher</a> MAX imprint",
+      "http://www.merriam-webster.com/dictionary/autoloader",
+      "autoloader definition: a semiautomatic firearm.",
+      "Merriam-Webster",
+      "\nAn <a href=\"http://duckduckgo.com/autoloader\">autoloader</a> is a mechanical aid or replacement for the personnel that load ordnance into crew-served weapons, such as tanks and artillery.",
+      "\nA system to <a href=\"http://duckduckgo.com/Autoload\">Autoload</a> parts of a computer program on demand instead of defining them explicitly"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471344,
+   "book" : [],
+   "micro-www" : {
+      "autoloader" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Firearm components",
+         "Autoloaders|*Main"
+      ],
+      "text" : "\n\n\nAn 'autoloader' or 'auto-loader' is a mechanical aid or replacement for the\npersonnel that load ordnance into crew-served weapons, such as tanks and\nartillery. The term is generally only applied to larger weapons that would\notherwise have a dedicated person or persons loading them. Semi-automatic\nfirearms are sometimes informally called \"auto-loaders\". However, this is a\nderivation of the term \"auto-loading\" rather than a physical \"autoloader\", as\ndiscussed here.\n\nAn autoloader, as its name suggests, extracts a shell and propellant charge from\nthe ammunition storage rack/compartment and loads it into a magazine, if the gun\nhas one, or directly into the chamber of the gun if it does not. It can and\noften does replace a human loader. By automating the loading process, it can\nstreamline and speed up the loading process, resulting in a more effective\nfighting machine. In addition, by removing the need for one (or more) crew\nmember, the overall size of the vehicle can be reduced, which in turn reduces\nthe amount of surface area that needs to be armored, and thus a vehicle designed\nto use an autoloader can benefit from a significant decrease in weight and size.\nAlso, since an autoloader can take up less volume inside a tank than a human, it\npotentially allows for a lower profile, making the tank harder to hit.\nAutoloaders are mechanical devices, and therefore their reliability depends on\nhow well they are made.\n",
+      "title" : "autoloader",
+      "headings" : [
+         "History",
+         "Naval",
+         "Ground vehicles",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Soviet_Union",
+      "2: T-64",
+      "2: United_States",
+      "1: Ammunition",
+      "1: Crew-served_weapon",
+      "1: Tank",
+      "1: Artillery",
+      "1: Semi-automatic_firearm",
+      "1: World_War_II",
+      "1: Henschel_Hs_129",
+      "1: Main_battle_tank",
+      "1: United_Kingdom",
+      "1: Russia",
+      "1: Italy",
+      "1: Des_moines_class_cruiser",
+      "1: Soviet_battlecruiser_Kirov",
+      "1: Shoot-and-scoot",
+      "1: Counterbattery",
+      "1: Jack-in-the-box_effect",
+      "1: T-90",
+      "1: Type_90_Kyū-maru",
+      "1: Type_10",
+      "1: Type_99",
+      "1: Leclerc",
+      "1: M1_Abrams",
+      "1: Leopard_2",
+      "1: Challenger_2"
+   ]
+}

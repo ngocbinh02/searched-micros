@@ -1,0 +1,25 @@
+{
+   "micrownet" : [
+      "franklin_pierce"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Colleges_offering_admission_to_displaced_New_Orleans_students/LA-ND\" title=\"Colleges offering admission to displaced New Orleans students/LA-ND\">Colleges offering admission to displaced New Orleans students/LA-ND</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2006_U.S._Congressional_Elections\" title=\"2006 U.S. Congressional Elections\">2006 U.S. Congressional Elections</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471207,
+   "book" : [],
+   "micro-www" : {
+      "franklin_pierce" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

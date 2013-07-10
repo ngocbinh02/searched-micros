@@ -1,0 +1,41 @@
+{
+   "micrownet" : [
+      "solid_ground"
+   ],
+   "duck" : [
+      "HASH(0x49673e8)",
+      "HASH(0x49ce558)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/After_100_days,_Deepwater_Horizon_oil_spill_still_threatens_Gulf_coast\" title=\"After 100 days, Deepwater Horizon oil spill still threatens Gulf coast\">After 100 days, Deepwater Horizon oil spill still threatens Gulf coast</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:August_02,_2010\" title=\"News briefs:August 02, 2010\">News briefs:August 02, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:August_2,_2010\" title=\"News briefs:August 2, 2010\">News briefs:August 2, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Airborne_laser_successfully_destroys_ballistic_missile\" title=\"Airborne laser successfully destroys ballistic missile\">Airborne laser successfully destroys ballistic missile</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Thunderbird_wins_MBA_rugby_tournament\" title=\"Thunderbird wins MBA rugby tournament\">Thunderbird wins MBA rugby tournament</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Romanian_fighter_jet_hit_by_UFOs\" title=\"Romanian fighter jet hit by UFOs\">Romanian fighter jet hit by UFOs</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Man_released_following_bomb-scare_forced_flight_diversion,_warning_a_possible_hoax\" title=\"Man released following bomb-scare forced flight diversion, warning a possible hoax\">Man released following bomb-scare forced flight diversion, warning a possible hoax</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Space_Shuttle_Discovery_launches_on_mission_STS-124\" title=\"Space Shuttle Discovery launches on mission STS-124\">Space Shuttle Discovery launches on mission STS-124</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Marine_Corps_blame_deadly_Morocco_Osprey_plane_crash_on_pilots\" title=\"US Marine Corps blame deadly Morocco Osprey plane crash on pilots\">US Marine Corps blame deadly Morocco Osprey plane crash on pilots</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Leaked_emails_show_UK_RAF_were_aware_of_Nimrod_problems_prior_to_fatal_crash\" title=\"Leaked emails show UK RAF were aware of Nimrod problems prior to fatal crash\">Leaked emails show UK RAF were aware of Nimrod problems prior to fatal crash</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Israel_elects_18th_Knesset\" title=\"Israel elects 18th Knesset\">Israel elects 18th Knesset</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Comet_Wild_samples_near_home\" title=\"Comet Wild samples near home\">Comet Wild samples near home</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Atlas_rocket_launches_ICO_G1_satellite\" title=\"Atlas rocket launches ICO G1 satellite\">Atlas rocket launches ICO G1 satellite</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Haiti_rescue_efforts_continue,_but_survivors_face_increasing_insecurity\" title=\"Haiti rescue efforts continue, but survivors face increasing insecurity\">Haiti rescue efforts continue, but survivors face increasing insecurity</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:May_28,_2010\" title=\"News briefs:May 28, 2010\">News briefs:May 28, 2010</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373466440,
+   "book" : [],
+   "micro-www" : {
+      "solid_ground" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

@@ -1,0 +1,33 @@
+{
+   "micrownet" : [
+      "isotonic_solution"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471647,
+   "book" : [],
+   "micro-www" : {
+      "isotonic_solution" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "The term 'isotonic' may refer to; *Isotonic (exercise physiology) for the term\nassociated with muscle contraction *An isotone in nuclear physics *Sports drinks\nare sometimes designed in an isotonic way to assist athletes in rehydrating\nwhile balancing electrolytes *Isotonicity:\n:*Isotonic solutions have equal osmotic pressure:\n::*Such as in metcell biology hayvanan isotonic environment happens when an\n::equal concentration exists inside and outside the cell\n",
+      "title" : "isotonic",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Isotone",
+      "1: Sports_drink",
+      "1: Isotonicity",
+      "1: Solution"
+   ]
+}

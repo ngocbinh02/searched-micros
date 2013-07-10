@@ -1,0 +1,101 @@
+{
+   "micrownet" : [
+      "escrow_funds",
+      "funds",
+      "investment_funds",
+      "matching_funds",
+      "medicaid_funds"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Fund",
+      "HASH(0x4c18d18)",
+      "Wikipedia",
+      "Fund",
+      "\n<a href=\"http://duckduckgo.com/Mutual_fund\">Mutual fund</a>, a specific type of collective investment in the United States",
+      "http://www.merriam-webster.com/dictionary/fund",
+      "\n<a href=\"http://duckduckgo.com/Meir_Fund\">Meir Fund</a>, American rabbi",
+      "fund definition: a sum of money or other resources whose principal or interest is set apart for a specific objective.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/fund_accounting\">Fund Accounting</a>, an accounting system often used by nonprofit organizations and by the public sector",
+      "\n<a href=\"http://duckduckgo.com/Hedge_fund\">Hedge fund</a>, an investment vehicle open only to investors who are qualified in some way",
+      "HASH(0x4c3c390)",
+      "\nA <a href=\"http://duckduckgo.com/Collective_investment_scheme\">Collective investment scheme</a> or vehicle, often referred to as a fund",
+      "\n<a href=\"http://duckduckgo.com/international_Convention_on_the_Establishment_of_an_International_Fund_for_Compensation_for_Oil_Pollution_Damage\">FUND</a> or FUND92, short names for the \"International Convention on the Establishment of an International Fund for Compensation for Oil Pollution Damage, 1992.\"",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/North_Korean_funds_released\" title=\"North Korean funds released\">North Korean <span class=\"searchmatch\">funds</span> released</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_Defence_Department_funds_controversial_development_training\" title=\"Australian Defence Department funds controversial development training\">Australian Defence Department <span class=\"searchmatch\">funds</span> controversial development training</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/White_House_diverted_$1.6b_war_funds_to_border_security\" title=\"White House diverted $1.6b war funds to border security\">White House diverted $1.6b war <span class=\"searchmatch\">funds</span> to border security</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/North_Korea_confirms_receipt_of_funds,_nuclear_shutdown_to_proceed\" title=\"North Korea confirms receipt of funds, nuclear shutdown to proceed\">North Korea confirms receipt of <span class=\"searchmatch\">funds</span>, nuclear shutdown to proceed</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Rockefeller_says_Iraq_is_draining_funds\" title=\"Rockefeller says Iraq is draining funds\">Rockefeller says Iraq is draining <span class=\"searchmatch\">funds</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Cuban_funds_tied_to_Lula_campaign,_Brazilian_magazine_alleges\" title=\"Cuban funds tied to Lula campaign, Brazilian magazine alleges\">Cuban <span class=\"searchmatch\">funds</span> tied to Lula campaign, Brazilian magazine alleges</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Somali_%22Anti-Terrorism_Alliance%22_gets_US_funds;_so_do_%22Blackhawk_Down%22_warlords\" title=\"Somali &quot;Anti-Terrorism Alliance&quot; gets US funds; so do &quot;Blackhawk Down&quot; warlords\">Somali &quot;Anti-Terrorism Alliance&quot; gets US <span class=\"searchmatch\">funds</span>; so do &quot;Blackhawk Down&quot; warlords</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Congress_House_panel_OKs_big_cut_in_public_broadcasting_funds\" title=\"US Congress House panel OKs big cut in public broadcasting funds\">US Congress House panel OKs big cut in public broadcasting <span class=\"searchmatch\">funds</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/DHS_funds_research_targeting_anonymity_and_blogs\" title=\"DHS funds research targeting anonymity and blogs\">DHS <span class=\"searchmatch\">funds</span> research targeting anonymity and blogs</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Minnesota_Governor_opposes_state_funds_to_Iran-tied_company\" title=\"Minnesota Governor opposes state funds to Iran-tied company\">Minnesota Governor opposes state <span class=\"searchmatch\">funds</span> to Iran-tied company</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Obama_raises_$35M_re-election_funds_from_244_campaign_%27bundlers%27_since_April\" title=\"Obama raises $35M re-election funds from 244 campaign &#39;bundlers&#39; since April\">Obama raises $35M re-election <span class=\"searchmatch\">funds</span> from 244 campaign &#39;bundlers&#39; since April</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Saddam_Hussein_profited_roughly_1B_by_taking_funds_from_UN_program\" title=\"Saddam Hussein profited roughly 1B by taking funds from UN program\">Saddam Hussein profited roughly 1B by taking <span class=\"searchmatch\">funds</span> from UN program</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Corruption_threatens_Brazil%27s_Olympics_and_World_Cup\" title=\"Corruption threatens Brazil&#39;s Olympics and World Cup\">Corruption threatens Brazil&#39;s Olympics and World Cup</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/North_Korea_receives_transfer_of_$25_million\" title=\"North Korea receives transfer of $25 million\">North Korea receives transfer of $25 million</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Lukashenko_accuses_foreign_donators_of_ideological_expansion\" title=\"Lukashenko accuses foreign donators of ideological expansion\">Lukashenko accuses foreign donators of ideological expansion</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Irish_National_Pensions_Reserve_Fund_gains_2.4%25_in_first_quarter\" title=\"Irish National Pensions Reserve Fund gains 2.4% in first quarter\">Irish National Pensions Reserve Fund gains 2.4% in first quarter</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Former_Taiwanese_President_Chen_Shui-bian_detained\" title=\"Former Taiwanese President Chen Shui-bian detained\">Former Taiwanese President Chen Shui-bian detained</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Cyprus_seeks_EU_bailout\" title=\"Cyprus seeks EU bailout\">Cyprus seeks EU bailout</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Jersey_officials:_Stimulus_bill_hurting_Atlantic_City_casinos\" title=\"New Jersey officials: Stimulus bill hurting Atlantic City casinos\">New Jersey officials: Stimulus bill hurting Atlantic City casinos</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/National_Rugby_League_Women_in_League_Round_celebrates_sons\" title=\"National Rugby League Women in League Round celebrates sons\">National Rugby League Women in League Round celebrates sons</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465744,
+   "book" : [],
+   "micro-www" : {
+      "funds" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Business terms",
+         "Fundraising"
+      ],
+      "text" : "'Funding' is the act of providing resources, usually in form of money\n(financing), or other values such as effort or time (sweat equity), for a\nproject, a person, a business, or any other private or public institutions. The\nprocess of soliciting and gathering fund is known as fundraising.\n\nSources of funding include credit, venture capital, donations, grants, savings,\nsubsidies, and taxes. Fundings such as donations, subsidies, and grants that\nhave no direct requirement for return of investment are described as \"'soft\nfunding'\" or \"crowdfunding\". Funding that facilitates the exchange of equity\nownership in a company for capital investment via an online funding portal as\nper the Jumpstart Our Business Startups Act (alternately, the \"JOBS Act of\n2012\") (U.S.) is known as 'equity crowdfunding'.\n\nFunds can be allocated for either short-term or long-term purposes.\n",
+      "title" : "Funding",
+      "headings" : [
+         "Economics",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "1: Resources",
+      "1: Money",
+      "1: Finance",
+      "1: Sweat_equity",
+      "1: Project",
+      "1: Fundraising",
+      "1: Venture_capital",
+      "1: Donation",
+      "1: Savings",
+      "1: Subsidy",
+      "1: Tax",
+      "1: Return_of_investment",
+      "1: Crowdfunding",
+      "1: Jumpstart_Our_Business_Startups_Act",
+      "1: Asset_allocation",
+      "1: Financial_intermediary",
+      "1: Indirect_finance",
+      "1: Financial_market",
+      "1: Direct_finance",
+      "1: Investment",
+      "1: Mass-funding",
+      "1: Peer-to-peer_lending",
+      "1: Research_funding",
+      "1: Seed_money"
+   ]
+}

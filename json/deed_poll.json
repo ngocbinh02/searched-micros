@@ -1,0 +1,60 @@
+{
+   "micrownet" : [
+      "deed_poll"
+   ],
+   "duck" : [
+      "HASH(0x4b09e10)",
+      "HASH(0x4a7dde0)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/12-year-old_school_boy_has_sex_change_in_Sussex,_England\" title=\"12-year-old school boy has sex change in Sussex, England\">12-year-old school boy has sex change in Sussex, England</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Polls_held_for_US_state_and_local_elections,_with_incomplete_GOP_success\" title=\"Polls held for US state and local elections, with incomplete GOP success\"><span class=\"searchmatch\">Polls</span> held for US state and local elections, with incomplete GOP success</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Creigh_Deeds_wins_Virginia_Democratic_primary\" title=\"Creigh Deeds wins Virginia Democratic primary\">Creigh <span class=\"searchmatch\">Deeds</span> wins Virginia Democratic primary</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/On_the_campaign_trail,_February_2012\" title=\"On the campaign trail, February 2012\">On the campaign trail, February 2012</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Karzai_declared_winner_of_Afghan_elections,_runoff_polls_cancelled\" title=\"Karzai declared winner of Afghan elections, runoff polls cancelled\">Karzai declared winner of Afghan elections, runoff <span class=\"searchmatch\">polls</span> cancelled</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:July_19,_2010\" title=\"News briefs:July 19, 2010\">News briefs:July 19, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:February_27,_2008\" title=\"News briefs:February 27, 2008\">News briefs:February 27, 2008</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464154,
+   "book" : [],
+   "micro-www" : {
+      "deed_poll" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Human names",
+         "English law"
+      ],
+      "text" : "A 'deed poll' (plural: 'deeds poll') is a legal document binding only to a\nsingle person or several persons acting jointly to express an active intention.\nIt is, strictly speaking, not a contract because it binds only one party and\nexpresses an intention instead of a promise.\n\nThe most common use is a name change through a deed of change of name (often\nreferred to simply as a deed poll). Deeds poll are used for this purpose in\ncountries including the United Kingdom, Ireland, New Zealand, Hong Kong and\nSingapore. In the United Kingdom a deed poll can also be used to change a\nchild's name, as long as everyone with parental responsibility for the child\nconsents to it<ref></ref> and the child does not object to it.<ref>http://www.a-\ndviceguide.org.uk/england/relationships_e/relationships_birth_certificates_and_-\nchanging_your_name_e/change_of_name.htm</ref> The child's parents execute the\ndeed poll on the child's behalf. In some other jurisdictions, a person may\nsimply start using a new name without any formal legal process. The usual\nrequirements are that the new name must be used exclusively and that the change\nmust not be made with intent to defraud. In Australia, name change was formerly\naccomplished by deed poll but now is done by completing a Change of Name form.\n\nAnother common use is to partition land into different sections. For example, a\npiece of land may be partitioned (or carved out) by a deed poll into Section A\nand the Remaining Portion thereof. This form of deed poll is commonly used in\nHong Kong.\n",
+      "title" : "deed poll",
+      "headings" : [
+         "Origin of the term",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Hong_Kong",
+      "1: Law",
+      "1: Contract",
+      "1: Name_change",
+      "1: Deed_of_change_of_name",
+      "1: United_Kingdom",
+      "1: New_Zealand",
+      "1: Singapore",
+      "1: Fraud",
+      "1: Australia",
+      "1: Archaism",
+      "1: Indenture",
+      "1: Forgery"
+   ]
+}

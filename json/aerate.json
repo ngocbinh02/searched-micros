@@ -1,0 +1,98 @@
+{
+   "micrownet" : [
+      "aerate",
+      "aerated"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Aeration",
+      "Wikipedia",
+      "Aeration",
+      "http://www.merriam-webster.com/dictionary/aeration",
+      "aeration definition: to supply or impregnate (as the soil or a liquid) with air.",
+      "\n<a href=\"http://duckduckgo.com/c/Aquaria\">Aquaria</a>",
+      "\n<a href=\"http://duckduckgo.com/Winkler_test_for_dissolved_oxygen\">Winkler test for dissolved oxygen</a> - The Winkler test is used to determine the concentration of dissolved oxygen in water samples.",
+      "Aeration (also called aerification) is the process by which air is circulated through, mixed with or dissolved in a liquid or substance.",
+      "\n<a href=\"http://duckduckgo.com/c/Chemical_processes\">Chemical processes</a>",
+      "HASH(0x4ac8db8)",
+      "\n<a href=\"http://duckduckgo.com/c/Brewing\">Brewing</a>",
+      "https://i.duckduckgo.com/i/0a7b5a34.jpg",
+      "Merriam-Webster",
+      "HASH(0x4a87658)",
+      "A",
+      "Aeration (also called aerification) is the process by which air is circulated through, mixed with or dissolved in a liquid or substance.",
+      "\n<a href=\"http://duckduckgo.com/c/Fishkeeping\">Fishkeeping</a>"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464790,
+   "book" : [],
+   "micro-www" : {
+      "aerate" : [
+         "Aerated_Bread_Company",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Fishkeeping",
+         "Aquaria",
+         "Brewing",
+         "Chemical processes"
+      ],
+      "text" : "\n\n'Aeration' (also called 'aerification') is the process by which air is\ncirculated through, mixed with or dissolved in a liquid or substance.\n",
+      "title" : "Aeration",
+      "headings" : [
+         "Aeration of liquids",
+         "Aeration of soil",
+         "Aeration in food",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Lawn_aerator",
+      "1: Systems_engineering_process",
+      "1: Air",
+      "1: Solvation",
+      "1: Liquid",
+      "1: Fountain",
+      "1: Waterfall",
+      "1: Venturi_tube",
+      "1: Aeration_Turbine",
+      "1: Compressed_air",
+      "1: Fine_bubble_diffusers",
+      "1: Coarse_bubble_diffusers",
+      "1: Sparger",
+      "1: Surface_area",
+      "1: Gas_transfer",
+      "1: Laminar_flow",
+      "1: Aerated_water",
+      "1: Cola",
+      "1: Sewage",
+      "1: Wastewater",
+      "1: Oxygen",
+      "1: Fishkeeping",
+      "1: Fish_farm",
+      "1: Worting",
+      "1: Must",
+      "1: Carbon_dioxide",
+      "1: Chlorine",
+      "1: Jacuzzi",
+      "1: Water_aeration",
+      "1: Porosity#Porosity_of_soil",
+      "1: Lawn",
+      "1: Turf_compaction",
+      "1: Wine_tasting",
+      "1: Wine_swirling",
+      "1: Decanter",
+      "1: Wine_aerator",
+      "1: Asturias",
+      "1: Winkler_test_for_dissolved_oxygen"
+   ]
+}

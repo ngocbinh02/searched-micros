@@ -1,0 +1,113 @@
+{
+   "micrownet" : [
+      "environment",
+      "environmental",
+      "environmental_condition",
+      "environmental_protection_agency",
+      "environmental_science",
+      "environmentalism",
+      "environmentalist"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Knowledge_environment\">Knowledge environment</a>, social practices, technological and physical arrangements intended to facilitate collaborative knowledge building, decision making, inference or discovery",
+      "\n<a href=\"http://duckduckgo.com/Social_environment\">Social environment</a>, the culture that an individual lives in, and the people and institutions with whom they interact",
+      "\n<a href=\"http://duckduckgo.com/Environments_(series)\">Environments (series)</a>, a series of LPs, cassettes and CDs depicting natural sounds",
+      "Environment",
+      "\n<a href=\"http://duckduckgo.com/Environment_(biophysical)\">Environment (biophysical)</a>, the physical and biological factors along with their chemical interactions that affect an organism",
+      "A center of population, commerce, and culture; a town of significant size and importance.",
+      "\n<a href=\"http://duckduckgo.com/Environment_(systems)\">Environment (systems)</a>, the surroundings of a physical system that may interact with the system by exchanging mass, energy, or other properties",
+      "\n<a href=\"http://duckduckgo.com/Environment_variable\">Environment variable</a>s, the dynamic set of variables defined in a process",
+      "The term environment can have a variety of meanings and elicits a number of different answers.",
+      "\n<a href=\"http://duckduckgo.com/Natural_environment\">Natural environment</a>, all living and non-living things"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_environmental_issues"
+   ],
+   "created" : 1373473359,
+   "book" : [],
+   "micro-www" : {
+      "environment" : [
+         "environments",
+         "environmentally",
+         "environmentalist",
+         "environmental_science",
+         "environmental_factor",
+         "environmental",
+         "environment",
+         "Environments_(series)",
+         "Environmentalism",
+         "Environmental_science",
+         "Environmental_remediation",
+         "Environmental_protection",
+         "Environmental_pollution",
+         "Environmental_policy",
+         "Environmental_mitigation",
+         "Environmental_microbiology",
+         "Environmental_justice",
+         "Environmental_geography",
+         "Environmental_factor",
+         "Environmental_enrichment_(neural)",
+         "Environmental_degradation",
+         "Environmental_control_system_(aircraft)",
+         "Environmental_consulting",
+         "Environmental_compliance",
+         "Environmental_biology",
+         "Environmental_Quality_Improvement_Act",
+         "Environmental_Psychology",
+         "Environmental_Protection_Agency",
+         "Environmental_Information_Regulations_2004",
+         "Environmental_Defence_Society",
+         "Environmental_Commissioner_of_Ontario",
+         "Environment_variable",
+         "Environment_chamber",
+         "Environment_and_Conservation_Organisations_of_Aotearoa_New_Zealand",
+         "Environment_(systems)",
+         "Environment_(biophysical)",
+         "Environment",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Environment disambiguation pages"
+      ],
+      "text" : "\n\n\n\n'Environment' may refer to:\n\n* Environment (biophysical), the physical and biological factors along with\n  their chemical interactions that affect an organism\n* Environment (systems), the surroundings of a physical system that may interact\n  with the system by exchanging mass, energy, or other properties\n* Environments (series), a series of LPs, cassettes and CDs depicting\n  natural sounds\n\nIt may also refer to:\n\n* Built environment, constructed surroundings that provide the setting for\n  human activity, ranging from the large-scale civic surroundings to the\n  personal places\n* Knowledge environment, social practices, technological and physical\n  arrangements intended to facilitate collaborative knowledge building, decision\n  making, inference or discovery\n* Natural environment, all living and non-living things\n* Social environment, the culture that an individual lives in, and the people\n  and institutions with whom they interact\n* Physical environment, in ecology\n\nIn computing:\n\n* Desktop environment, in computing, the graphical user interface to the\n  computer\n* Environment variables, the dynamic set of variables defined in a process\n* Integrated development environment, a type of computer software that assists\n  computer programmers in developing software\n* Runtime environment, a virtual machine state which provides software services\n  for processes or programs while a computer is running\n\n'Environmental' may refer to:\n\n* Environmental art\n* Environmental determinism\n* Environmental epidemiology\n* Environmental health\n* Environmental movement\n* Environmental policy\n* Environmental psychology\n* Environmental quality\n* Environmental science, the study of the interactions among the physical,\n  chemical and biological components of the environment\n",
+      "title" : "environment",
+      "headings" : [
+         "Other",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Built_environment",
+      "1: Knowledge_environment",
+      "1: Natural_environment",
+      "1: Social_environment",
+      "1: Ecology#Physical_environments",
+      "1: Desktop_environment",
+      "1: Environment_variable",
+      "1: Integrated_development_environment",
+      "1: Runtime_environment",
+      "1: Environmental_art",
+      "1: Environmental_determinism",
+      "1: Environmental_epidemiology",
+      "1: Environmental_health",
+      "1: Environmental_movement",
+      "1: Environmental_policy",
+      "1: Environmental_psychology",
+      "1: Environmental_quality",
+      "1: Environmental_science",
+      "1: Ecology",
+      "1: Environmentalism",
+      "1: Epidemiology",
+      "1: List_of_environmental_issues",
+      "1: Natural_landscape"
+   ]
+}

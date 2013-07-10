@@ -1,0 +1,101 @@
+{
+   "micrownet" : [
+      "business_relationship",
+      "family_relationship",
+      "friendly_relationship",
+      "human_relationship",
+      "marital_relationship",
+      "personal_relationship",
+      "relationship",
+      "sexual_relationship",
+      "spousal_relationship"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Relationship",
+      "\n<a href=\"http://duckduckgo.com/Ethical_relationship\">Ethical relationship</a> - An ethical relationship, in most theories of ethics that employ the term, is a basic and trustworthy relationship that one has to another human being, that cannot necessarily be characterized in...",
+      "HASH(0x4abda40)",
+      "Wikipedia",
+      "Relationship",
+      "\n<a href=\"http://duckduckgo.com/Intimate_relationship\">Intimate relationship</a> - An intimate relationship is an interpersonal relationship that involves physical or emotional intimacy.",
+      "http://www.merriam-webster.com/dictionary/relationship",
+      "relationship definition: the state of being related or interrelated.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Interpersonal_relationship\">Interpersonal relationship</a> - An interpersonal relationship is an association between two or more people that may range in duration from brief to enduring.",
+      "HASH(0x4abd200)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Entity-relationship_model\">Entity-relationship model</a> - In software engineering, an Entity–relationship model (ER model) is a data model for describing a database in an abstract way."
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Virginia_Bill_of_Rights_to_deny_legal_status_to_same-sex_and_unmarried_relationships\" title=\"Virginia Bill of Rights to deny legal status to same-sex and unmarried relationships\">Virginia Bill of Rights to deny legal status to same-sex and unmarried <span class=\"searchmatch\">relationships</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Personal_relationship_between_Bush_and_McCallum_questioned\" title=\"Personal relationship between Bush and McCallum questioned\">Personal <span class=\"searchmatch\">relationship</span> between Bush and McCallum questioned</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/The_Swiss_vote_yes_to_same-sex_relationships_and_%22Schengen/Dublin%22\" title=\"The Swiss vote yes to same-sex relationships and &quot;Schengen/Dublin&quot;\">The Swiss vote yes to same-sex <span class=\"searchmatch\">relationships</span> and &quot;Schengen/Dublin&quot;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Portland,_Oregon_mayor_admits_to_sexual_relationship_he_previously_denied\" title=\"Portland, Oregon mayor admits to sexual relationship he previously denied\">Portland, Oregon mayor admits to sexual <span class=\"searchmatch\">relationship</span> he previously denied</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/John_McCain_denies_romantic_relationship_with_lobbyist\" title=\"John McCain denies romantic relationship with lobbyist\">John McCain denies romantic <span class=\"searchmatch\">relationship</span> with lobbyist</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/South_Australian_father_and_daughter_in_sexual_relationship\" title=\"South Australian father and daughter in sexual relationship\">South Australian father and daughter in sexual <span class=\"searchmatch\">relationship</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Study_shows_long-term_couples_more_satisfied_with_relationships_and_sex_lives\" title=\"Study shows long-term couples more satisfied with relationships and sex lives\">Study shows long-term couples more satisfied with <span class=\"searchmatch\">relationships</span> and sex lives</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_House_of_Representatives_moves_to_affirm_support_for_heterosexual_marriage\" title=\"Australian House of Representatives moves to affirm support for heterosexual marriage\">Australian House of Representatives moves to affirm support for heterosexual marriage</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_House_of_Representatives_aims_to_define_marriage_as_heterosexual_relationship\" title=\"Australian House of Representatives aims to define marriage as heterosexual relationship\"> of Representatives aims to define marriage as heterosexual <span class=\"searchmatch\">relationship</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Capture_of_FARC_member_creates_crisis_between_Venezuela_and_Colombia\" title=\"Capture of FARC member creates crisis between Venezuela and Colombia\">Capture of FARC member creates crisis between Venezuela and Colombia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Marxist_terrorist_prision_jeopardizes_Venezuela-Colombia_relationship\" title=\"Marxist terrorist prision jeopardizes Venezuela-Colombia relationship\">Marxist terrorist prision jeopardizes Venezuela-Colombia <span class=\"searchmatch\">relationship</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Wikipedia_founder_embroiled_in_affair_and_financial_allegations\" title=\"Wikipedia founder embroiled in affair and financial allegations\">Wikipedia founder embroiled in affair and financial allegations</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Representative_Anthony_Weiner_resigns_over_sexual_conduct\" title=\"US Representative Anthony Weiner resigns over sexual conduct\">US Representative Anthony Weiner resigns over sexual conduct</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Weiner_lewd_photo_scandal:_wife_returns_home,_cross-dressing_pictures_emerge,_former_porn_star_admits_online_relationship\" title=\"Weiner lewd photo scandal: wife returns home, cross-dressing pictures emerge, former porn star admits online relationship\">, cross-dressing pictures emerge, former porn star admits online <span class=\"searchmatch\">relationship</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Journalist_Gebran_Tueni_murdered\" title=\"Journalist Gebran Tueni murdered\">Journalist Gebran Tueni murdered</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/North_Korea_seeks_diplomatic_relations_with_the_US\" title=\"North Korea seeks diplomatic relations with the US\">North Korea seeks diplomatic relations with the US</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Vatican_accepts_Juan_Pablo_Cafiero_as_Argentine_Ambassador\" title=\"Vatican accepts Juan Pablo Cafiero as Argentine Ambassador\">Vatican accepts Juan Pablo Cafiero as Argentine Ambassador</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Jury_finds_two_men_guilty_of_Liam_Aitchison_murder\" title=\"Jury finds two men guilty of Liam Aitchison murder\">Jury finds two men guilty of Liam Aitchison murder</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Judge_jails_two_men_for_life_over_Liam_Aitchison_murder\" title=\"Judge jails two men for life over Liam Aitchison murder\">Judge jails two men for life over Liam Aitchison murder</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Loneliness_unhealthy_as_smoking_and_alcoholism,_new_study_says\" title=\"Loneliness unhealthy as smoking and alcoholism, new study says\">Loneliness unhealthy as smoking and alcoholism, new study says</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._President_Bush_responds_to_Russian_criticism\" title=\"U.S. President Bush responds to Russian criticism\">U.S. President Bush responds to Russian criticism</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_As_Time_Goes_By_episodes#ep5"
+   ],
+   "created" : 1373465580,
+   "book" : [],
+   "micro-www" : {
+      "relationship" : [
+         "relationships",
+         "relationship",
+         "Relationship_obsessive-compulsive_disorder",
+         "Relationship_Education",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "'Relationship' or 'relationships' may refer to:\n* Interpersonal relationship\n* Intimate relationship\n* Ethical relationship\n",
+      "title" : "relationship",
+      "headings" : [
+         "Mathematics and statistics",
+         "Database design",
+         "Media",
+         "Psychology",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Interpersonal_relationship",
+      "1: Intimate_relationship",
+      "1: Ethical_relationship",
+      "1: Binary_relation",
+      "1: Causality",
+      "1: Correlation_and_dependence",
+      "1: Direct_relationship",
+      "1: Inverse_relation",
+      "1: Inverse_relationship",
+      "1: Entity-relationship_model",
+      "1: Relational_model",
+      "1: List_of_As_Time_Goes_By_episodes#ep5",
+      "1: Relationship_breakup",
+      "1: Relationship_counseling",
+      "1: Relationship_education",
+      "1: Relationship_obsessiveâcompulsive_disorder"
+   ]
+}

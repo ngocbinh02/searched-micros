@@ -1,0 +1,84 @@
+{
+   "micrownet" : [
+      "create",
+      "create_by_mental_act",
+      "create_from_raw_material",
+      "create_from_raw_stuff",
+      "create_mentally",
+      "create_verbally"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Create",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Create%3A_New_Student_Orientation\">Create: New Student Orientation</a>, UBC's Okanagan campus' new-to-UBC student orientation program",
+      "Create",
+      "\n<a href=\"http://duckduckgo.com/Create%2C_read%2C_update_and_delete\">Create</a>, one of the four basic functions of persistent storage identified in the acronym CRUD",
+      "http://www.merriam-webster.com/dictionary/create",
+      "create definition: to bring into existence.",
+      "\n<a href=\"http://duckduckgo.com/data_Definition_Language\">CREATE (SQL)</a>, a statement in SQL",
+      "HASH(0x4a0fec0)",
+      "\n<a href=\"http://duckduckgo.com/Create_(TV_network)\">Create (TV network)</a>, an American public television network consisting of lifestyle and human interest programming from the libraries of PBS and American Public Television",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Chicago_Region_Environmental_and_Transportation_Efficiency_Program\">Chicago Region Environmental and Transportation Efficiency Program</a>, a proposed improvement to the rail lines in the Chicago area",
+      "\n<a href=\"http://duckduckgo.com/Create_(!)\">Create (!)</a>, a free jazz band - Create is a free jazz or \"free form\" band formed in Long Beach, California in 1999.",
+      "HASH(0x4a84e70)",
+      "\n<a href=\"http://duckduckgo.com/Create_(video_game)\">Create (video game)</a>, a 2010 video game published by EA",
+      "\n<a href=\"http://duckduckgo.com/iRobot_Create\">iRobot Create</a>, a hobbyist robot based on the iRobot Roomba platform",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scientists_create_micro-battery_using_3D_printing\" title=\"Scientists create micro-battery using 3D printing\">Scientists <span class=\"searchmatch\">create</span> micro-battery using 3D printing</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_scientist_creates_%27artificial_life%27\" title=\"US scientist creates &#39;artificial life&#39;\">US scientist <span class=\"searchmatch\">creates</span> &#39;artificial life&#39;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Researchers_create_rat_kidneys_in_a_laboratory\" title=\"Researchers create rat kidneys in a laboratory\">Researchers <span class=\"searchmatch\">create</span> rat kidneys in a laboratory</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Two_thousand_people_use_bodies_to_create_message_on_Pichilemu_beach\" title=\"Two thousand people use bodies to create message on Pichilemu beach\">Two thousand people use bodies to <span class=\"searchmatch\">create</span> message on Pichilemu beach</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_call_centre_business_to_create_600_jobs_in_Wales\" title=\"US call centre business to create 600 jobs in Wales\">US call centre business to <span class=\"searchmatch\">create</span> 600 jobs in Wales</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._President_creates_Chimney_Rock_National_Monument\" title=\"U.S. President creates Chimney Rock National Monument\">U.S. President <span class=\"searchmatch\">creates</span> Chimney Rock National Monument</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tropical_Storm_Isaac_creates_worries_across_US_gulf_states\" title=\"Tropical Storm Isaac creates worries across US gulf states\">Tropical Storm Isaac <span class=\"searchmatch\">creates</span> worries across US gulf states</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Greenpeace_demands_Chilean_President_create_marine_parks\" title=\"Greenpeace demands Chilean President create marine parks\">Greenpeace demands Chilean President <span class=\"searchmatch\">create</span> marine parks</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scientists_create_schizophrenic_brain_cells\" title=\"Scientists create schizophrenic brain cells\">Scientists <span class=\"searchmatch\">create</span> schizophrenic brain cells</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Northeast_US_blizzards_create_havoc\" title=\"Northeast US blizzards create havoc\">Northeast US blizzards <span class=\"searchmatch\">create</span> havoc</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Japanese_researchers_create_smell_sensor_using_genetically_engineered_frog_eggs\" title=\"Japanese researchers create smell sensor using genetically engineered frog eggs\">Japanese researchers <span class=\"searchmatch\">create</span> smell sensor using genetically engineered frog eggs</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/MST_creates_Marxist_school_in_Brazil\" title=\"MST creates Marxist school in Brazil\">MST <span class=\"searchmatch\">creates</span> Marxist school in Brazil</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Lab_creates_petrified_wood\" title=\"Lab creates petrified wood\">Lab <span class=\"searchmatch\">creates</span> petrified wood</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_government_apologises_for_suggesting_the_Pope_could_create_a_brand_of_%22Benedict%22_condoms\" title=\"British government apologises for suggesting the Pope could create a brand of &quot;Benedict&quot; condoms\">British government apologises for suggesting the Pope could <span class=\"searchmatch\">create</span> a brand of &quot;Benedict&quot; condoms</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Yemeni_man_creates_world%27s_largest_crossword_puzzle\" title=\"Yemeni man creates world&#39;s largest crossword puzzle\">Yemeni man <span class=\"searchmatch\">creates</span> world&#39;s largest crossword puzzle</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Capture_of_FARC_member_creates_crisis_between_Venezuela_and_Colombia\" title=\"Capture of FARC member creates crisis between Venezuela and Colombia\">Capture of FARC member <span class=\"searchmatch\">creates</span> crisis between Venezuela and Colombia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Delaware_scientists_create_shortest_ever_metal_to_metal_bond\" title=\"Delaware scientists create shortest ever metal to metal bond\">Delaware scientists <span class=\"searchmatch\">create</span> shortest ever metal to metal bond</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bloomberg_and_Clinton_create_green_alliance\" title=\"Bloomberg and Clinton create green alliance\">Bloomberg and Clinton <span class=\"searchmatch\">create</span> green alliance</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Google_creates_new_desktop_software\" title=\"Google creates new desktop software\">Google <span class=\"searchmatch\">creates</span> new desktop software</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Birks_to_create_2010_Olympic,_Paralympic_jewelery;_wines_on_menu\" title=\"Birks to create 2010 Olympic, Paralympic jewelery; wines on menu\">Birks to <span class=\"searchmatch\">create</span> 2010 Olympic, Paralympic jewelery; wines on menu</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464966,
+   "book" : [],
+   "micro-www" : {
+      "create" : [
+         "created",
+         "create",
+         "Created_kind",
+         "Create_(video_game)",
+         "Create_(TV_network)",
+         "Create_(!)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Create' may refer to:\n\n\n* Create (TV network), an American public television network consisting of\n  lifestyle and human interest programming from the libraries of PBS and\n  American Public Television\n* Chicago Region Environmental and Transportation Efficiency Program, a proposed\n  improvement to the rail lines in the Chicago area\n* Create, one of the four basic functions of persistent storage identified in\n  the acronym CRUD ** CREATE (SQL), a statement in SQL\n* Create (!), a free jazz band\n* iRobot Create, a hobbyist robot based on the iRobot Roomba platform\n* , UBC's Okanagan campus' new-to-UBC student orientation program\n* ''Create'' (video game), a 2010 video game published by EA\n",
+      "title" : "create",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Chicago_Region_Environmental_and_Transportation_Efficiency_Program",
+      "1: Create,_read,_update_and_delete",
+      "1: IRobot_Create"
+   ]
+}

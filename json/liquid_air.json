@@ -1,0 +1,102 @@
+{
+   "micrownet" : [
+      "liquid_air"
+   ],
+   "duck" : [
+      "HASH(0x4ac9298)",
+      "HASH(0x4ac35b0)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tasmanians_protest_against_pulp_mill\" title=\"Tasmanians protest against pulp mill\">Tasmanians protest against pulp mill</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Engineers_develop_robotic_microhand\" title=\"Engineers develop robotic microhand\">Engineers develop robotic microhand</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Britain%27s_Royal_Windsor_Castle_to_get_hydro-electric_power_plant\" title=\"Britain&#39;s Royal Windsor Castle to get hydro-electric power plant\">Britain&#39;s Royal Windsor Castle to get hydro-electric power plant</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UAL_jet_diverts_in_bomb_scare\" title=\"UAL jet diverts in bomb scare\">UAL jet diverts in bomb scare</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mothers,_teachers_concerned_about_leukemia_deaths_at_California_elementary_school\" title=\"Mothers, teachers concerned about leukemia deaths at California elementary school\">Mothers, teachers concerned about leukemia deaths at California elementary school</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/The_Deadliest_Fall\" title=\"The Deadliest Fall\">The Deadliest Fall</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Police_in_Britain_uncover_suspected_terrorist_plot\" title=\"Police in Britain uncover suspected terrorist plot\">Police in Britain uncover suspected terrorist plot</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:October_21,_2007\" title=\"News briefs:October 21, 2007\">News briefs:October 21, 2007</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Failed_bomb_aboard_Delta_flight\" title=\"Failed bomb aboard Delta flight\">Failed bomb aboard Delta flight</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:June_16,_2008\" title=\"News briefs:June 16, 2008\">News briefs:June 16, 2008</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Delta_4_Heavy_rocket_poised_for_maiden_launch\" title=\"Delta 4 Heavy rocket poised for maiden launch\">Delta 4 Heavy rocket poised for maiden launch</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Gas_tanks_explode_at_facility_in_Texas,_US\" title=\"Gas tanks explode at facility in Texas, US\">Gas tanks explode at facility in Texas, US</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Signs_of_ancient_hydrothermal_vents_found_on_Mars\" title=\"Signs of ancient hydrothermal vents found on Mars\">Signs of ancient hydrothermal vents found on Mars</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Suspected_poisonous_gas_found_in_New_York\" title=\"Suspected poisonous gas found in New York\">Suspected poisonous gas found in New York</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Airborne_laser_successfully_destroys_ballistic_missile\" title=\"Airborne laser successfully destroys ballistic missile\">Airborne laser successfully destroys ballistic missile</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464774,
+   "book" : [],
+   "micro-www" : {
+      "liquid_air" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Atmosphere",
+         "Coolants",
+         "Cryogenics",
+         "Energy storage",
+         "Energy technology",
+         "Engineering thermodynamics",
+         "Industrial gases",
+         "Industrial processes",
+         "Phases of matter"
+      ],
+      "text" : "\n{{multiple issues|\n\n\n}} 'Liquid air' is air that has been cooled to very low temperatures (cryogenic\ntemperatures), so that it has condensed into a pale blue<ref></ref> mobile\nliquid. To protect it from room temperature, it must be kept in a vacuum\ninsulated flask. Liquid air can absorb heat rapidly and revert to its gaseous\nstate. It is often used for condensing other substances into liquid and/or\nsolidifying them, and as an industrial source of nitrogen, oxygen, argon, and\nother inert gases through a process called air separation. Liquid air is also\nreplacing liquid nitrogen for theatrical smoke and fog effects.\n",
+      "title" : "liquid air",
+      "headings" : [
+         "Properties",
+         "Preparation",
+         "Application",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Air_separation",
+      "2: Liquid_nitrogen",
+      "1: Atmosphere_of_Earth",
+      "1: Cryogenics",
+      "1: Room_temperature",
+      "1: Vacuum_flask",
+      "1: Nitrogen",
+      "1: Oxygen",
+      "1: Argon",
+      "1: Inert_gas",
+      "1: Theatrical_smoke_and_fog",
+      "1: Liquid_oxygen",
+      "1: Zygmunt_Florenty_Wróblewski",
+      "1: Karol_Olszewski",
+      "1: Hampson-Linde_cycle",
+      "1: Joule-Thomson_effect",
+      "1: Pressure_measurement#Absolute,_gauge_and_differential_pressures_-_zero_reference",
+      "1: Liquid",
+      "1: Oxy-fuel_welding_and_cutting",
+      "1: Shielding_gas",
+      "1: Gas_tungsten_arc_welding",
+      "1: World_War_II",
+      "1: Nazi_Germany",
+      "1: Coal_dust",
+      "1: Liquid_Air",
+      "1: Institution_of_Mechanical_Engineers",
+      "1: Peter_Dearman",
+      "1: Garage_inventor",
+      "1: Hertfordshire",
+      "1: Compressed_air",
+      "1: Compressed_air_energy_storage",
+      "1: Cryogenic_energy_storage",
+      "1: Grid_energy_storage",
+      "1: Industrial_gas",
+      "1: Liquefaction_of_gases",
+      "1: Liquid_nitrogen_vehicle",
+      "1: MIT_Technology_Review"
+   ]
+}

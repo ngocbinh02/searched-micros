@@ -1,0 +1,108 @@
+{
+   "micrownet" : [
+      "beats_per_minute",
+      "count_per_minute",
+      "last_minute",
+      "light_minute",
+      "minute",
+      "minute_book",
+      "minute_gun",
+      "minute_hand",
+      "minute_steak",
+      "minuteman",
+      "minuteness",
+      "minutes",
+      "new_york_minute",
+      "revolutions_per_minute",
+      "words_per_minute"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Minute_of_arc\">Minute of arc</a>: a unit used to measure angles",
+      "\n<a href=\"http://duckduckgo.com/Minute_to_Win_It\">Minute to Win It</a>, an American game show on <a href=\"http://duckduckgo.com/?q=NBC\">NBC</a> hosted by <a href=\"http://duckduckgo.com/?q=Guy Fieri\">Guy Fieri</a>.",
+      "Minute",
+      "\n<a href=\"http://duckduckgo.com/Minute_(basketball)\">Minute (basketball)</a>, a statistic in basketball",
+      "http://www.merriam-webster.com/dictionary/minute",
+      "minute definition: the 60th part of an hour of time.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Minute_(French_newspaper)\">Minute (French newspaper)</a>: a French far-right newspaper",
+      "\n<a href=\"http://duckduckgo.com/Minutes\">Minutes</a>, the document in which the proceedings of a court or a meeting are recorded",
+      "\n<a href=\"http://duckduckgo.com/Minute\">Minute</a> - A minute is a unit of measurement of time or of angle."
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Two-minute_silence_for_London_bombings_marked_across_the_EU\" title=\"Two-minute silence for London bombings marked across the EU\">Two-<span class=\"searchmatch\">minute</span> silence for London bombings marked across the EU</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_government_shutdown_averted_in_last-minute_deal\" title=\"US government shutdown averted in last-minute deal\">US government shutdown averted in last-<span class=\"searchmatch\">minute</span> deal</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Death_of_Michael_Jackson_causes_last_minute_changes_to_films_and_dramas\" title=\"Death of Michael Jackson causes last minute changes to films and dramas\">Death of Michael Jackson causes last <span class=\"searchmatch\">minute</span> changes to films and dramas</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Thailand_protest_cancelled_at_last_minute\" title=\"Thailand protest cancelled at last minute\">Thailand protest cancelled at last <span class=\"searchmatch\">minute</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_male_gymnasts_pick_up_medal_despite_last-minute_appeal_by_Japan\" title=\"British male gymnasts pick up medal despite last-minute appeal by Japan\">British male gymnasts pick up medal despite last-<span class=\"searchmatch\">minute</span> appeal by Japan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canadian_union,_railway_reach_last_minute_accord\" title=\"Canadian union, railway reach last minute accord\">Canadian union, railway reach last <span class=\"searchmatch\">minute</span> accord</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Details_emerge_on_Norway_Rock_Festival_deaths_as_Mot%C3%B6rhead_hold_minute%27s_silence\" title=\"Details emerge on Norway Rock Festival deaths as Motörhead hold minute&#39;s silence\">Details emerge on Norway Rock Festival deaths as Motörhead hold <span class=\"searchmatch\">minute</span>&#39;s silence</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Wail_of_sirens_marks_Holocaust_Remembrance_Day_in_Israel\" title=\"Wail of sirens marks Holocaust Remembrance Day in Israel\">Wail of sirens marks Holocaust Remembrance Day in Israel</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2007_FIFA_U-17_World_Cup:_Ghana_vs._Germany\" title=\"2007 FIFA U-17 World Cup: Ghana vs. Germany\">2007 FIFA U-17 World Cup: Ghana vs. Germany</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/AFC_Asian_Cup:_Qatar_scores_late_to_draw_with_defending_champions_Japan\" title=\"AFC Asian Cup: Qatar scores late to draw with defending champions Japan\">AFC Asian Cup: Qatar scores late to draw with defending champions Japan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Rugby_union:_Wales,_France,_England_win_in_second_week_of_2008_Six_Nations\" title=\"Rugby union: Wales, France, England win in second week of 2008 Six Nations\">Rugby union: Wales, France, England win in second week of 2008 Six Nations</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2007/08_Bundesliga:_Wolfsburg_vs._Hansa_Rostock\" title=\"2007/08 Bundesliga: Wolfsburg vs. Hansa Rostock\">2007/08 Bundesliga: Wolfsburg vs. Hansa Rostock</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_Airways_cabin_crew_begins_strike\" title=\"British Airways cabin crew begins strike\">British Airways cabin crew begins strike</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sale_Sharks_defeat_Leicester_Tigers_to_win_Guinness_Premiership\" title=\"Sale Sharks defeat Leicester Tigers to win Guinness Premiership\">Sale Sharks defeat Leicester Tigers to win Guinness Premiership</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Constitution_changes_do_not_convince_most_Sunni_parties\" title=\"Constitution changes do not convince most Sunni parties\">Constitution changes do not convince most Sunni parties</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sweden_stuns_Paraguay_two_minutes_from_time_in_Group_B\" title=\"Sweden stuns Paraguay two minutes from time in Group B\">Sweden stuns Paraguay two minutes from time in Group B</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Al-Qaeda_threatens_UK_over_Rushdie%27s_knighthood\" title=\"Al-Qaeda threatens UK over Rushdie&#39;s knighthood\">Al-Qaeda threatens UK over Rushdie&#39;s knighthood</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Liberia%27s_World_Cup_woes_averted\" title=\"Liberia&#39;s World Cup woes averted\">Liberia&#39;s World Cup woes averted</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pakistani_army_storms_Red_Mosque;_Ghazi_is_killed\" title=\"Pakistani army storms Red Mosque; Ghazi is killed\">Pakistani army storms Red Mosque; Ghazi is killed</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/West_Australian_Premier_addresses_gas_crisis_in_televised_broadcast\" title=\"West Australian Premier addresses gas crisis in televised broadcast\">West Australian Premier addresses gas crisis in televised broadcast</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373467141,
+   "book" : [],
+   "micro-www" : {
+      "minute" : [
+         "minutes",
+         "Minutes",
+         "Minute_of_arc",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Orders of magnitude (time)",
+         "Units of time"
+      ],
+      "text" : "\n\n\nA 'minute' is a unit of measurement of time or of angle. The minute is a unit of\ntime equal to (the first sexagesimal fraction<ref> {{cite web\n|url=http://www.wisteme.com/question.view?targetAction=viewQuestionTab&id=1768\n|title=What is the origin of hours, minutes and seconds? |work=Wisteme\n|quote=What we now call a minute derives from the first fractional sexagesimal\nplace |accessdate=2011-05-25}} </ref>) of an hour or 60 seconds. In the UTC time\nstandard, a minute on rare occasions has 59 or 61 seconds, a consequence of leap\nseconds. Although not an SI unit, the minute is accepted for use with SI\nunits.<ref>{{cite web\n|url=http://www.bipm.org/en/si/si_brochure/chapter4/table6.html |work=Bureau\nInternational de Poids et Mesures |title=Non-SI units accepted for use with the\nSI, and units based on fundamental constants |accessdate=2011-05-25}}</ref> The\nSI symbols for minute or minutes are 'min' for time measurement, and the prime\nsymbol after a number, e.g. 5&prime;, for angle measurement. The prime is also\nsometimes used informally to denote minutes of time.\n",
+      "title" : "minute",
+      "headings" : [
+         "Astronomy",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "2: Time",
+      "1: Unit_of_measurement",
+      "1: Angle",
+      "1: Sexagesimal",
+      "1: Hour",
+      "1: Second",
+      "1: Coordinated_Universal_Time",
+      "1: Time_standard",
+      "1: Leap_second",
+      "1: SI",
+      "1: Prime_symbol",
+      "1: Astronomy",
+      "1: Earth",
+      "1: Geographical_pole",
+      "1: Axis_of_rotation",
+      "1: Sidereal_time",
+      "1: Equator",
+      "1: Nautical_mile",
+      "1: Kepler",
+      "1: Saturn",
+      "1: International_System_of_Units",
+      "1: Latitude_and_longitude",
+      "1: Black's_Law_Dictionary",
+      "1: MathWorld"
+   ]
+}

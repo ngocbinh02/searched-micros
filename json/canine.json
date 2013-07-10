@@ -1,0 +1,71 @@
+{
+   "micrownet" : [
+      "canine",
+      "canine_chorea",
+      "canine_distemper",
+      "canine_tooth"
+   ],
+   "duck" : [
+      "Wolves Wolves are known to be very vicious.",
+      "\n<a href=\"http://duckduckgo.com/Canis\">Canis</a>, a genus including dogs, wolves, coyotes, and jackals.",
+      "\n<a href=\"http://duckduckgo.com/Canidae\">Canidae</a> - domestic dogs, wolves, foxes, jackals, coyotes, and other dog-like mammals",
+      "https://en.wikipedia.org/wiki/Canine",
+      "HASH(0x4af41e8)",
+      "Wikipedia",
+      "Canine",
+      "http://www.merriam-webster.com/dictionary/canine",
+      "canine definition: a conical pointed tooth; '''especially'''.",
+      "Merriam-Webster",
+      "HASH(0x49f8558)",
+      "\n<a href=\"http://duckduckgo.com/Canine_tooth\">Canine tooth</a> - In mammalian oral anatomy, the canine teeth, also called cuspids, dogteeth, fangs, or eye teeth, are relatively long, pointed teeth.",
+      "Wolves Wolves are known to be very vicious.",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/South_Korean_scientists_clone_dog_for_first_time\" title=\"South Korean scientists clone dog for first time\">South Korean scientists clone dog for first time</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_fossils_from_10_million_year_old_ape_found_in_Ethiopia\" title=\"New fossils from 10 million year old ape found in Ethiopia\">New fossils from 10 million year old ape found in Ethiopia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Suspicious%27_package_closes_half_of_Washington_Dulles_Airport_terminal\" title=\"&#39;Suspicious&#39; package closes half of Washington Dulles Airport terminal\">&#39;Suspicious&#39; package closes half of Washington Dulles Airport terminal</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Photoessay:_Fat_Tuesday_Easy_in_DC\" title=\"Photoessay: Fat Tuesday Easy in DC\">Photoessay: Fat Tuesday Easy in DC</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Study_says_dogs_can_smell_lung_and_breast_cancer\" title=\"Study says dogs can smell lung and breast cancer\">Study says dogs can smell lung and breast cancer</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Eight_killed_in_Virginia_shooting,_suspect_surrenders\" title=\"Eight killed in Virginia shooting, suspect surrenders\">Eight killed in Virginia shooting, suspect surrenders</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Security_scare_prompts_UK-US_flight_to_divert\" title=\"Security scare prompts UK-US flight to divert\">Security scare prompts UK-US flight to divert</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Crosswords/2005/February/17\" title=\"Crosswords/2005/February/17\">Crosswords/2005/February/17</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Dog_flu_spreads_across_the_US\" title=\"Dog flu spreads across the US\">Dog flu spreads across the US</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Crosswords/2005/February/19\" title=\"Crosswords/2005/February/19\">Crosswords/2005/February/19</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Search-and-rescue_dog_that_found_9/11_survivor_to_be_cloned\" title=\"Search-and-rescue dog that found 9/11 survivor to be cloned\">Search-and-rescue dog that found 9/11 survivor to be cloned</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464918,
+   "book" : [],
+   "micro-www" : {
+      "canine" : [
+         "Canine_tooth",
+         "Canine_teeth",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Canine' may refer to: *Canidae - domestic dogs, wolves, foxes, jackals,\ncoyotes, and other dog-like mammals **the sub-family Caninae ***Canis, a genus\nincluding dogs, wolves, coyotes, and jackals. *the domestic dog *Canine tooth\n",
+      "title" : "canine",
+      "headings" : [
+         "People",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Canidae",
+      "1: Caninae",
+      "1: Canis",
+      "1: Dog",
+      "1: Canine_tooth",
+      "1: Ralph_Canine",
+      "1: Glenn_Martin,_DDS"
+   ]
+}

@@ -1,0 +1,59 @@
+{
+   "micrownet" : [
+      "hulk",
+      "hulking",
+      "hulky"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Hulk",
+      "\n<a href=\"http://duckduckgo.com/The_Incredible_Hulk_(film)\">The Incredible Hulk (film)</a>, a 2008 reboot of the 2003 film",
+      "HASH(0x4b04590)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Hulk_Hogan\">Hulk Hogan</a> (born 1953), American professional wrestler",
+      "Hulk",
+      "http://www.merriam-webster.com/dictionary/hulk",
+      "\n<a href=\"http://duckduckgo.com/Hulk_(comics)\">Hulk (comics)</a>, a fictional character appearing in media published by Marvel Comics",
+      "hulk definition: a heavy clumsy ship.",
+      "Merriam-Webster",
+      "HASH(0x1a5b420)",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Nick_Hogan,_son_of_wrestling_star_Hulk_Hogan_%27seriously_injured%27_in_vehicle_accident\" title=\"Nick Hogan, son of wrestling star Hulk Hogan &#39;seriously injured&#39; in vehicle accident\">Nick Hogan, son of wrestling star <span class=\"searchmatch\">Hulk</span> Hogan &#39;seriously injured&#39; in vehicle accident</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/SLM_shareholders_led_by_Martin_Garbus_sue_Spider-Man_creator_Stan_Lee_and_Marvel_for_$750m\" title=\"SLM shareholders led by Martin Garbus sue Spider-Man creator Stan Lee and Marvel for $750m\">SLM shareholders led by Martin Garbus sue Spider-Man creator Stan Lee and Marvel for $750m</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mississippi_Gulf_Coast_may_soon_lose_landmark\" title=\"Mississippi Gulf Coast may soon lose landmark\">Mississippi Gulf Coast may soon lose landmark</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Cast_of_Bratz_appears_in_Canada_to_promote_film_release\" title=\"Cast of Bratz appears in Canada to promote film release\">Cast of Bratz appears in Canada to promote film release</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2006_Oscars_handed_out_at_Kodak_Theatre\" title=\"2006 Oscars handed out at Kodak Theatre\">2006 Oscars handed out at Kodak Theatre</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373463338,
+   "book" : [],
+   "micro-www" : {
+      "hulk" : [
+         "Hulk_(comics)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Hulk' may refer to:\n",
+      "title" : "hulk",
+      "headings" : [
+         "Entertainment",
+         "People",
+         "Ships",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Hulk_Hogan",
+      "1: Prison_ship",
+      "1: Hulk_in_other_media"
+   ]
+}

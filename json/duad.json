@@ -1,0 +1,41 @@
+{
+   "micrownet" : [
+      "duad"
+   ],
+   "duck" : [
+      "HASH(0x4a9bf58)",
+      "HASH(0x4a0b080)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462822,
+   "book" : [],
+   "micro-www" : {
+      "duad" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Technical factors of astrology",
+         "Hindu astrology"
+      ],
+      "text" : "\n\nIn astrology, a 'dwadasama', which is also called a dwad, duad or dwadachamsha,\nis 1/12 of a zodiacal sign. The dwadasama was developed by Hindu astrologers who\nbroke the 30 degree sign down into 12 equal parts of 2.5 degrees each. It is\nbased upon the principle of the part being a reflection of the whole, and 12\nsigns of the zodiac were placed within the confines of one sign. It is believed\nthat these signs within a sign, by virtue of their planetary rulers, account for\nsubtle shadings of expression found in different degrees of that sign.\nTherefore, in addition to the sign having a primary planetary ruler, it would\nalso have a sub-ruler, based upon which dwadasama it is placed in.\n\nFor example, if an individual's Sun is placed in 10 degrees 51 minutes Aquarius\nthen their Sun sign would be ruled by Uranus, but the dwad, being in the range\nof 10 to 12.5 degrees would be placed within Gemini (the 5th dwad), so the\nindividual's sub-ruler would be Mercury, which rules Gemini.\n\nA listing of the dwads for each sign is found in the diagram below:\n\n{| class=\"wikitable\"\n!\n! 1 !! 2 !! 3 !! 4 !! 5 !! 6 !! 7 !! 8 !! 9 !! 10 !! 11 !! 12\n|-\n! Ar\n| Ar || Ta || Ge || Ca || Le || Vi || Li || Sc || Sa || Cp || Aq || Pi -\n! Ta\n| Ta || Ge || Ca || Le || Vi || Li || Sc || Sa || Cp || Aq || Pi || Ar -\n! Ge\n| Ge || Ca || Le || Vi || Li || Sc || Sa || Cp || Aq || Pi || Ar || Ta -\n! Ca\n| Ca || Le || Vi || Li || Sc || Sa || Cp || Aq || Pi || Ar || Ta || Ge -\n! Le\n| Le || Vi || Li || Sc || Sa || Cp || Aq || Pi || Ar || Ta || Ge || Ca -\n! Vi\n| Vi || Li || Sc || Sa || Cp || Aq || Pi || Ar || Ta || Ge || Ca || Le -\n! Li\n| Li || Sc || Sa || Cp || Aq || Pi || Ar || Ta || Ge || Ca || Le || Vi -\n! Sc\n| Sc || Sa || Cp || Aq || Pi || Ar || Ta || Ge || Ca || Le || Vi || Li -\n! Sa\n| Sa || Cp || Aq || Pi || Ar || Ta || Ge || Ca || Le || Vi || Li || Sc -\n! Cp\n| Cp || Aq || Pi || Ar || Ta || Ge || Ca || Le || Vi || Li || Sc || Sa -\n! Aq\n| Aq || Pi || Ar || Ta || Ge || Ca || Le || Vi || Li || Sc || Sa || Cp -\n! Pi\n| Pi || Ar || Ta || Ge || Ca || Le || Vi || Li || Sc || Sa || Cp || Aq }\n",
+      "title" : "Dwadasama",
+      "headings" : [
+         "Decanates & Duads",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "1: Astrology",
+      "1: Hindu",
+      "1: Sun"
+   ]
+}

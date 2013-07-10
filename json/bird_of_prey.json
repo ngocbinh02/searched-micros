@@ -1,0 +1,99 @@
+{
+   "micrownet" : [],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Fossilized_remains_of_small_dinosaur_rediscovered_in_Canada\" title=\"Fossilized remains of small dinosaur rediscovered in Canada\">Fossilized remains of small dinosaur rediscovered in Canada</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:July_28,_2010\" title=\"News briefs:July 28, 2010\">News briefs:July 28, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Great_white_sharks_to_be_protected_in_New_Zealand\" title=\"Great white sharks to be protected in New Zealand\">Great white sharks to be protected in New Zealand</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:May_23,_2008\" title=\"News briefs:May 23, 2008\">News briefs:May 23, 2008</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:May_23,_2008#Bangladesh_reports_first_human_case_of_H5N1_bird_flu\" title=\"News briefs:May 23, 2008\">Bangladesh reports first human case of H5N1 <span class=\"searchmatch\">bird</span> flu</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373473135,
+   "book" : [],
+   "micro-www" : {
+      "bird_of_prey" : [
+         "bird_of_prey",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Birds of prey|"
+      ],
+      "text" : "\n]] 'Birds of prey' are birds that hunt for food primarily via flight, using\ntheir keen senses, especially vision. They are defined as birds that primarily\nhunt vertebrates, including other birds. Their talons and beaks tend to be\nrelatively large, powerful and adapted for tearing flesh. In most cases, the\nfemales are considerably larger than the males. The term \"'raptor'\" is derived\nfrom the Latin word [[wikt:rapio#Latin|rapere]] (meaning to seize or take by\nforce) and may refer informally to all birds of prey, or specifically to the\ndiurnal group.<ref name=brown></ref> Because of their predatory nature, often at\nthe top of the food chain, they face distinct conservation concerns.\n\nMany species of bird may be considered partly or exclusively predatory; however,\nin ornithology, the term \"bird of prey\" applies only to birds of the families\nlisted below.\n",
+      "title" : "bird of prey",
+      "headings" : [
+         "Definition",
+         "Classification by ancestry",
+         "Common names",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "3: Owl",
+      "2: Vertebrate",
+      "2: Diurnality",
+      "2: Vulture",
+      "2: Convergent_evolution",
+      "2: Accipitridae",
+      "2: Eagle",
+      "2: Osprey",
+      "2: Falconidae",
+      "2: Falcon",
+      "2: Caracara",
+      "1: Bird",
+      "1: Claw",
+      "1: Beak",
+      "1: Predation",
+      "1: Food_chain",
+      "1: Raptor_conservation",
+      "1: Ornithology",
+      "1: Bird_vision",
+      "1: Carrion",
+      "1: Condor",
+      "1: Stork",
+      "1: Gull",
+      "1: Skua",
+      "1: Penguin",
+      "1: Kookaburra",
+      "1: Species",
+      "1: Biological_classification",
+      "1: Falconiformes",
+      "1: Hawk",
+      "1: Buzzard",
+      "1: Old_World_vulture",
+      "1: Pandionidae",
+      "1: Sagittariidae",
+      "1: Secretary_bird",
+      "1: Cathartidae",
+      "1: New_World_vulture",
+      "1: Nocturnal",
+      "1: Extant_taxon",
+      "1: Strigidae",
+      "1: Tytonidae",
+      "1: Booted_eagle",
+      "1: Insect",
+      "1: Accipitrinae",
+      "1: Buzzards",
+      "1: Grassland",
+      "1: Marsh",
+      "1: Eastern_Hemisphere",
+      "1: Western_Hemisphere",
+      "1: New_World",
+      "1: Neotropics",
+      "1: Vulturine_Parrot",
+      "1: Owls",
+      "1: Dactyly",
+      "1: South_America",
+      "1: American_Ornithologists'_Union"
+   ]
+}

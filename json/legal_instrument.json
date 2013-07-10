@@ -1,0 +1,76 @@
+{
+   "micrownet" : [
+      "legal_instrument"
+   ],
+   "duck" : [
+      "HASH(0x4a131f0)",
+      "HASH(0x4a98688)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._mid-term_election_to_host_gay_marriage_referendum_in_Virginia\" title=\"U.S. mid-term election to host gay marriage referendum in Virginia\">U.S. mid-term election to host gay marriage referendum in Virginia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._military_tribunal_law_faces_first_court_challenge\" title=\"U.S. military tribunal law faces first court challenge\">U.S. military tribunal law faces first court challenge</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pope_addresses_UN_in_NY_as_US_visit_continues\" title=\"Pope addresses UN in NY as US visit continues\">Pope addresses UN in NY as US visit continues</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UN_passes_LGBT_rights_resolution\" title=\"UN passes LGBT rights resolution\">UN passes LGBT rights resolution</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Venezuela_buys_more_weapons,_now_from_Spain\" title=\"Venezuela buys more weapons, now from Spain\">Venezuela buys more weapons, now from Spain</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/23_Australians_arrested_in_global_child_porn_network\" title=\"23 Australians arrested in global child porn network\">23 Australians arrested in global child porn network</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_bans_export_of_fraudulent_bomb_detector;_arrests_director_of_manufacturer\" title=\"UK bans export of fraudulent bomb detector; arrests director of manufacturer\">UK bans export of fraudulent bomb detector; arrests director of manufacturer</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UN_General_Assembly_approves_measures_to_protect_economic,_social_and_cultural_rights\" title=\"UN General Assembly approves measures to protect economic, social and cultural rights\">UN General Assembly approves measures to protect economic, social and cultural rights</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:April_24,_2010\" title=\"News briefs:April 24, 2010\">News briefs:April 24, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Payment_pending;_Canadian_recording_industry_set_for_six_billion_penalties%3F\" title=\"Payment pending; Canadian recording industry set for six billion penalties?\">Payment pending; Canadian recording industry set for six billion penalties?</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/International_Anti-Smoking_Treaty_to_Take_Effect_Soon\" title=\"International Anti-Smoking Treaty to Take Effect Soon\">International Anti-Smoking Treaty to Take Effect Soon</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Zealand_government_withdraws_asset_forfeiture_bill\" title=\"New Zealand government withdraws asset forfeiture bill\">New Zealand government withdraws asset forfeiture bill</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Yell_threatens_to_shut_down_Yellowikis\" title=\"Yell threatens to shut down Yellowikis\">Yell threatens to shut down Yellowikis</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Vestas_occupation_continues;_left-wing_political_parties_voice_support\" title=\"Vestas occupation continues; left-wing political parties voice support\">Vestas occupation continues; left-wing political parties voice support</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canada%27s_Don_Valley_East_(Ward_33)_city_council_candidates_speak\" title=\"Canada&#39;s Don Valley East (Ward 33) city council candidates speak\">Canada&#39;s Don Valley East (Ward 33) city council candidates speak</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464154,
+   "book" : [],
+   "micro-www" : {
+      "legal_instrument" : [
+         "Legal_instrument",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Legal documents"
+      ],
+      "text" : "'Legal instrument' is a legal term of art that is used for any formally executed\nwritten document that can be formally attributed to its author,<ref>\"Law\nGlossary\", The K-Zone, s.v. \"instrument\", retrieved on 19 May 2009:\n[http://www.kevinboone.com/lawglos_Instrument.html].</ref> records and formally\nexpresses a legally enforceable act, process,<ref>Collaborative International\nDictionary of English v.0.44, s.v. \"instrument\", retrieved on 19 May 2009:\n[http://define.com/instrument].</ref> or contractual duty, obligation, or right,\nand therefore evidences that act, process, or\nagreement.<ref>BusinessDictionary.com, s.v. \"instrument\", retrieved 15 May 2009:\n[http://www.businessdictionary.com/definition/instrument.html].</ref><ref>Barro-\nn's Law Dictionary, s.v. \"instrument\".</ref> Examples include a , deed, bond,\ncontract, will, legislative act, notarial act, court writ or process, or any law\npassed by a competent legislative body in municipal (domestic) or international\nlaw. Many legal instruments were written under seal by affixing a wax or paper\nseal to the document in evidence of its legal execution and authenticity (which\noften removes the need for consideration in contract law); however, today many\njurisdictions have done away with the requirement of documents being under seal\nin order to give them legal effect. Others, such as Australia, have re-\ninterpreted sealing as a formally attested signature.\n",
+      "title" : "legal instrument",
+      "headings" : [
+         "Electronic legal documents",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Law",
+      "2: Contract",
+      "2: Authentication",
+      "1: Term_of_art",
+      "1: Document",
+      "1: Deed",
+      "1: Legislative_act",
+      "1: Legislative_body",
+      "1: Municipal",
+      "1: International_law",
+      "1: Consideration",
+      "1: Dematerialisation",
+      "1: Encryption",
+      "1: Electronic_Signatures_in_Global_and_National_Commerce_Act",
+      "1: Message_digest",
+      "1: Cryptographic_key",
+      "1: Digital_signature",
+      "1: Cryptographic_engineering",
+      "1: Legal_document_assistant",
+      "1: Global_Trust_Center"
+   ]
+}

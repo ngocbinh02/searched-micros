@@ -1,0 +1,47 @@
+{
+   "micrownet" : [
+      "take_place"
+   ],
+   "duck" : [
+      "HASH(0x47cc990)",
+      "HASH(0x4bae788)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/109th_Boston_marathon_takes_place\" title=\"109th Boston marathon takes place\">109th Boston marathon <span class=\"searchmatch\">takes</span> <span class=\"searchmatch\">place</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/First_gay_marriage_in_Spain_takes_place\" title=\"First gay marriage in Spain takes place\">First gay marriage in Spain <span class=\"searchmatch\">takes</span> <span class=\"searchmatch\">place</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Funeral_of_Pope_John_Paul_II_takes_place\" title=\"Funeral of Pope John Paul II takes place\">Funeral of Pope John Paul II <span class=\"searchmatch\">takes</span> <span class=\"searchmatch\">place</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/World_conference_of_expatriate_Greeks_to_take_place_in_Athens\" title=\"World conference of expatriate Greeks to take place in Athens\">World conference of expatriate Greeks to <span class=\"searchmatch\">take</span> <span class=\"searchmatch\">place</span> in Athens</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Olympus_Marathon_takes_place_in_northern_Greece\" title=\"Olympus Marathon takes place in northern Greece\">Olympus Marathon <span class=\"searchmatch\">takes</span> <span class=\"searchmatch\">place</span> in northern Greece</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Annual_Islamic_pilgrimage_takes_place\" title=\"Annual Islamic pilgrimage takes place\">Annual Islamic pilgrimage <span class=\"searchmatch\">takes</span> <span class=\"searchmatch\">place</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Algiers_protest_takes_place_despite_ban\" title=\"Algiers protest takes place despite ban\">Algiers protest <span class=\"searchmatch\">takes</span> <span class=\"searchmatch\">place</span> despite ban</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Off_Festival_2007_takes_place_in_Poland\" title=\"Off Festival 2007 takes place in Poland\">Off Festival 2007 <span class=\"searchmatch\">takes</span> <span class=\"searchmatch\">place</span> in Poland</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canadian_National_Exhibition_takes_place_in_Toronto\" title=\"Canadian National Exhibition takes place in Toronto\">Canadian National Exhibition <span class=\"searchmatch\">takes</span> <span class=\"searchmatch\">place</span> in Toronto</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Memorial_service_takes_place_for_Heath_Ledger\" title=\"Memorial service takes place for Heath Ledger\">Memorial service <span class=\"searchmatch\">takes</span> <span class=\"searchmatch\">place</span> for Heath Ledger</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/May_Day_march_takes_place_in_London\" title=\"May Day march takes place in London\">May Day march <span class=\"searchmatch\">takes</span> <span class=\"searchmatch\">place</span> in London</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Inter-Balkan_Summit_to_take_place_in_Thessalonika,_Greece\" title=\"Inter-Balkan Summit to take place in Thessalonika, Greece\">Inter-Balkan Summit to <span class=\"searchmatch\">take</span> <span class=\"searchmatch\">place</span> in Thessalonika, Greece</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Vigil_for_hate_victims_takes_place_in_London\" title=\"Vigil for hate victims takes place in London\">Vigil for hate victims <span class=\"searchmatch\">takes</span> <span class=\"searchmatch\">place</span> in London</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Controlled_explosions_take_place_as_police_enquiry_into_UK_bombings_continues\" title=\"Controlled explosions take place as police enquiry into UK bombings continues\">Controlled explosions <span class=\"searchmatch\">take</span> <span class=\"searchmatch\">place</span> as police enquiry into UK bombings continues</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ceremony_takes_place_for_decommissioned_Royal_Navy_flagship\" title=\"Ceremony takes place for decommissioned Royal Navy flagship\">Ceremony <span class=\"searchmatch\">takes</span> <span class=\"searchmatch\">place</span> for decommissioned Royal Navy flagship</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Events_take_place_across_UK_to_mark_Remembrance_Sunday\" title=\"Events take place across UK to mark Remembrance Sunday\">Events <span class=\"searchmatch\">take</span> <span class=\"searchmatch\">place</span> across UK to mark Remembrance Sunday</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Princes_William_and_Harry_host_the_Concert_for_Diana\" title=\"Princes William and Harry host the Concert for Diana\">Princes William and Harry host the Concert for Diana</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Diana_concert_takes_place\" title=\"Diana concert takes place\">Diana concert <span class=\"searchmatch\">takes</span> <span class=\"searchmatch\">place</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Raids_take_place_as_enquiry_into_failed_UK_bombings_continues\" title=\"Raids take place as enquiry into failed UK bombings continues\">Raids <span class=\"searchmatch\">take</span> <span class=\"searchmatch\">place</span> as enquiry into failed UK bombings continues</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Heavy_rains_start_in_central_and_southern_Chile_while_aftershock_takes_place\" title=\"Heavy rains start in central and southern Chile while aftershock takes place\">Heavy rains start in central and southern Chile while aftershock <span class=\"searchmatch\">takes</span> <span class=\"searchmatch\">place</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_Senate_inquiry_to_new_anti-terrorism_laws_to_take_place_in_one_day\" title=\"Australian Senate inquiry to new anti-terrorism laws to take place in one day\">Australian Senate inquiry to new anti-terrorism laws to <span class=\"searchmatch\">take</span> <span class=\"searchmatch\">place</span> in one day</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462312,
+   "book" : [],
+   "micro-www" : {
+      "take_place" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

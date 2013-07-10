@@ -1,0 +1,53 @@
+{
+   "micrownet" : [
+      "sand_stargazer"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_fish_families"
+   ],
+   "created" : 1373469532,
+   "book" : [],
+   "micro-www" : {
+      "sand_stargazer" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Dactyloscopidae|",
+         "Blennioidei"
+      ],
+      "text" : "{{Taxobox\n| name = Sand stargazers regnum = Animalia phylum = Chordata classis =\n| Actinopterygii ordo = Perciformes subordo = Blennioidei familia =\n| 'Dactyloscopidae' familia_authority = T. N. Gill, 1859 subdivision_ranks =\n| Genera<ref></ref> subdivision =\n[[Dactylagnus]]<br> [[Dactyloscopus]]<br> [[Gillellus]]<br> [[Heteristius]]<br>\n[[Leurochilus]]<br> [[Myxodagnus]]<br> [[Platygillellus]]<br>\n[[Sindoscopus]]<br> [[Storrsia]] }} 'Sand stargazers' are blennioids; perciform\nmarine fish of the family 'Dactyloscopidae'. Found in temperate to tropical\nwaters of North and South America; some may also inhabit brackish environments.\nThe giant sand stargazer (Dactylagnus mundus) isthe largest at 15 centimetres in\nlength; all other species are under 10 centimetres.\n\nThese blennies are named well: sand stargazers have protruding eyes on the top\nof their heads, fixed in an upward gaze, and may be on stalks. Their large\nmouths are also upturned. The dorsal fin is long and may or may not be\ncontinuous, with 7-23 spines; the pelvic fins are situated below the throat and\npossess one spine. The anal fin is equally long and flowing. The mouth is\nfringed, and like the upper edge of the operculum (the gill cover), this fringe\nis divided into finger-like structures. The body is greatly elongate and\ncoloration is generally drab.\n\nAs their name would suggest, sand stargazers spend most of their time buried in\nsandy substrates waiting for unsuspecting prey; only the eyes, nose and mouth\nare usually visible. Their mode of respiration is also unique among the\nblennioids, utilizing a branchiostegal rather than opercular pump; this is\nthought to be an adaptation to their largely sedentary, obscured lives. Sand\nstargazers generally stay within shallow (< 10 metres) intertidal zones in areas\nprotected from surges. Small invertebrates and fish make up the bulk of the sand\nstargazer's diet.\n\nThe family name Dactyloscopidae derives from the Greek words daktylos meaning\n\"finger\" (a reference to the divided mouth and operculum fringes) and skopein\nmeaning \"to watch\".\n",
+      "title" : "sand stargazer",
+      "headings" : [
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "1: Animal",
+      "1: Chordate",
+      "1: Actinopterygii",
+      "1: Perciformes",
+      "1: Blennioidei",
+      "1: Theodore_Nicholas_Gill",
+      "1: Blenny",
+      "1: Perciform",
+      "1: Fish",
+      "1: North_America",
+      "1: South_America",
+      "1: Brackish",
+      "1: Giant_sand_stargazer",
+      "1: Invertebrate",
+      "1: Greek_language",
+      "1: List_of_fish_families"
+   ]
+}

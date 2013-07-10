@@ -1,0 +1,42 @@
+{
+   "micrownet" : [
+      "bacteria_species"
+   ],
+   "duck" : [
+      "HASH(0x49b6168)",
+      "HASH(0x49c9c38)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_scientist_creates_%27artificial_life%27\" title=\"US scientist creates &#39;artificial life&#39;\">US scientist creates &#39;artificial life&#39;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scientists_discover_prehistoric_cave_with_unknown_lifeforms\" title=\"Scientists discover prehistoric cave with unknown lifeforms\">Scientists discover prehistoric cave with unknown lifeforms</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Health_Canada_issues_further_warning_on_toothpaste_from_India\" title=\"Health Canada issues further warning on toothpaste from India\">Health Canada issues further warning on toothpaste from India</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ulcer_researchers_awarded_%2705_Nobel_Prize\" title=\"Ulcer researchers awarded &#39;05 Nobel Prize\">Ulcer researchers awarded &#39;05 Nobel Prize</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ulcer_bacteria_researchers_awarded_2005_Nobel_Prize_in_Physiology_or_Medicine\" title=\"Ulcer bacteria researchers awarded 2005 Nobel Prize in Physiology or Medicine\">Ulcer <span class=\"searchmatch\">bacteria</span> researchers awarded 2005 Nobel Prize in Physiology or </a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Oil-eating_microbe_found_in_the_Gulf_of_Mexico\" title=\"Oil-eating microbe found in the Gulf of Mexico\">Oil-eating microbe found in the Gulf of Mexico</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_scientists_develop_culture_to_destroy_reef-killing_starfish\" title=\"Australian scientists develop culture to destroy reef-killing starfish\">Australian scientists develop culture to destroy reef-killing starfish</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Experiment_on_frozen_sperm_raises_hopes_of_%22restoring%22_extinct_mammals\" title=\"Experiment on frozen sperm raises hopes of &quot;restoring&quot; extinct mammals\">Experiment on frozen sperm raises hopes of &quot;restoring&quot; extinct mammals</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Large_scale_gene_transfer_between_single-celled_and_multicellular_organisms_reported\" title=\"Large scale gene transfer between single-celled and multicellular organisms reported\">Large scale gene transfer between single-celled and multicellular organisms reported</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_researchers_discover_first_antibiotics_originating_from_insects\" title=\"UK researchers discover first antibiotics originating from insects\">UK researchers discover first antibiotics originating from insects</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scientists_sequence_small_genome_of_a_pest:_spider_mite\" title=\"Scientists sequence small genome of a pest: spider mite\">Scientists sequence small genome of a pest: spider mite</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_scientist_says_he_created_first_%27artificial_life_form%27\" title=\"US scientist says he created first &#39;artificial life form&#39;\">US scientist says he created first &#39;artificial life form&#39;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:May_21,_2010\" title=\"News briefs:May 21, 2010\">News briefs:May 21, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Fast_evolution_observed_in_butterflies\" title=\"Fast evolution observed in butterflies\">Fast evolution observed in butterflies</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Toxic_wetlands_may_be_cause_of_thousands_of_bird_deaths_in_Western_Australia\" title=\"Toxic wetlands may be cause of thousands of bird deaths in Western Australia\">Toxic wetlands may be cause of thousands of bird deaths in Western Australia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ingrid_Newkirk,_co-founder_of_PETA,_on_animal_rights_and_the_film_about_her_life\" title=\"Ingrid Newkirk, co-founder of PETA, on animal rights and the film about her life\">Ingrid Newkirk, co-founder of PETA, on animal rights and the film about her life</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373464837,
+   "book" : [],
+   "micro-www" : {
+      "bacteria_species" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

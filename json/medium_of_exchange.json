@@ -1,0 +1,89 @@
+{
+   "micrownet" : [],
+   "duck" : [
+      "HASH(0x4a66fd8)",
+      "HASH(0x49aefe8)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/United_States_and_Poland_sign_missile-defence_deal_angering_Russia\" title=\"United States and Poland sign missile-defence deal angering Russia\">United States and Poland sign missile-defence deal angering Russia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/China_offers_Africa_financial_aid_including_$10_billion_in_loans\" title=\"China offers Africa financial aid including $10 billion in loans\">China offers Africa financial aid including $10 billion in loans</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/IMF_proposes_quota_increases_for_China,_South_Korea,_Mexico_and_Turkey\" title=\"IMF proposes quota increases for China, South Korea, Mexico and Turkey\">IMF proposes quota increases for China, South Korea, Mexico and Turkey</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tunisia,_South_Korea_partner_to_monitor_air_quality\" title=\"Tunisia, South Korea partner to monitor air quality\">Tunisia, South Korea partner to monitor air quality</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_economists"
+   ],
+   "created" : 1373465716,
+   "book" : [],
+   "micro-www" : {
+      "medium_of_exchange" : [
+         "Medium_of_exchange",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Currency",
+         "Money"
+      ],
+      "text" : "\n\nA 'medium of exchange' is an intermediary used in trade to avoid the\ninconveniences of a pure barter system.\n\nBy contrast, as William Stanley Jevons argued, in a barter system there must be\na coincidence of wants before two people can trade – one must want exactly what\nthe other has to offer, when and where it is offered, so that the exchange can\noccur. A medium of exchange permits the value of goods to be assessed and\nrendered in terms of the intermediary, most often, a form of money widely\naccepted to buy any other good.\n",
+      "title" : "medium of exchange",
+      "headings" : [
+         "Definition",
+         "Requisites needed for a medium of exchange",
+         "Bibliography",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "1: Trade",
+      "1: William_Stanley_Jevons",
+      "1: Coincidence_of_wants",
+      "1: Money",
+      "1: Inert",
+      "1: Fiat_money",
+      "1: Chartalism",
+      "1: Unit_of_account",
+      "1: Currency",
+      "1: Accounting",
+      "1: Commodity",
+      "1: Oresme",
+      "1: Copernicus",
+      "1: Thomas_Gresham",
+      "1: Gresham's_Law",
+      "1: Bank",
+      "1: Banking",
+      "1: Central_banking",
+      "1: Debt",
+      "1: Legal_tender",
+      "1: Economic_value",
+      "1: Standard_of_deferred_payment",
+      "1: Counterfeiting",
+      "1: Social_contract",
+      "1: Floor_price",
+      "1: Financial_capital",
+      "1: United_States",
+      "1: Cheque",
+      "1: Domino_effect",
+      "1: Electronic_money",
+      "1: Encryption",
+      "1: Public_key",
+      "1: Factoring_algorithm",
+      "1: Electronic_voting",
+      "1: List_of_economists",
+      "1: Authentication",
+      "1: Commodity_money",
+      "1: Forgery",
+      "1: History_of_money",
+      "1: Identity_theft",
+      "1: Private_currency"
+   ]
+}

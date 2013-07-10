@@ -1,0 +1,92 @@
+{
+   "micrownet" : [
+      "bounded_interval",
+      "closed_interval",
+      "interval",
+      "lunitidal_interval",
+      "musical_interval",
+      "open_interval",
+      "time_interval",
+      "unbounded_interval"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Recess_(break)\">Recess (break)</a>, a break between classes, also called \"interval\" in New Zealand",
+      "\n<a href=\"http://duckduckgo.com/Interval_(music)\">Interval (music)</a>, the relationship in pitch between two notes",
+      "Interval",
+      "http://www.merriam-webster.com/dictionary/interval",
+      "interval definition: a space of time between events or states.",
+      "\n<a href=\"http://duckduckgo.com/Interval_(play)\">Interval (play)</a>, 1939 play by Sumner Locke Elliott",
+      "\n<a href=\"http://duckduckgo.com/Interval_training\">Interval training</a>, in sports, a training technique often used by runners",
+      "\n<a href=\"http://duckduckgo.com/Interval_(mathematics)\">Interval (mathematics)</a>, a range of numbers (formally, a type of subset of an ordered set)",
+      "\n<a href=\"http://duckduckgo.com/Interval_(1973_film)\">Interval (1973 film)</a>, a 1973 film starring Merle Oberon",
+      "\n<a href=\"http://duckduckgo.com/Space-time_interval\">Space-time interval</a>, the distance between two points in 4-space",
+      "\n<a href=\"http://duckduckgo.com/Interval_Research_Corporation\">Interval Research Corporation</a>, a defunct technology think tank founded by Paul Allen",
+      "\n<a href=\"http://duckduckgo.com/Intermission\">Intermission</a> during a theatrical performance (used primarily in Great Britain)",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Intervals_(See_You_Next_Tuesday_album)\">Intervals (See You Next Tuesday album)</a>, 2008",
+      "\n<a href=\"http://duckduckgo.com/time\">Interval (time)</a>, the duration between two events",
+      "\n<a href=\"http://duckduckgo.com/Intervals_(Ahmad_Jamal_album)\">Intervals (Ahmad Jamal album)</a>, 1980"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/California%27s_same-sex_marriage_ban_ruled_unconstitutional;_appeal_expected\" title=\"California&#39;s same-sex marriage ban ruled unconstitutional; appeal expected\">California&#39;s same-sex marriage ban ruled unconstitutional; appeal expected</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Natural_methods_of_family_planning_under_investigation\" title=\"Natural methods of family planning under investigation\">Natural methods of family planning under investigation</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/India_wins_the_cricket_series_against_West_Indies_by_3-1\" title=\"India wins the cricket series against West Indies by 3-1\">India wins the cricket series against West Indies by 3-1</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2007_Rugby_World_Cup:_Scotland_42_-_0_Romania\" title=\"2007 Rugby World Cup: Scotland 42 - 0 Romania\">2007 Rugby World Cup: Scotland 42 - 0 Romania</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2007_Rugby_World_Cup:_New_Zealand,_Australia_and_England_open_with_wins\" title=\"2007 Rugby World Cup: New Zealand, Australia and England open with wins\">2007 Rugby World Cup: New Zealand, Australia and England open with wins</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2007_Rugby_World_Cup:_Argentina_and_France_qualify_for_quarter_finals\" title=\"2007 Rugby World Cup: Argentina and France qualify for quarter finals\">2007 Rugby World Cup: Argentina and France qualify for quarter finals</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tour_de_France:_Cancellara_wins_7.9_km_time_trial_prologue\" title=\"Tour de France: Cancellara wins 7.9 km time trial prologue\">Tour de France: Cancellara wins 7.9 km time trial prologue</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/South_Africa_defeats_England_15_-_6_to_win_the_2007_Rugby_World_Cup\" title=\"South Africa defeats England 15 - 6 to win the 2007 Rugby World Cup\">South Africa defeats England 15 - 6 to win the 2007 Rugby World Cup</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Holland_park_introduces_special_trail_for_elderly_and_impaired\" title=\"Holland park introduces special trail for elderly and impaired\">Holland park introduces special trail for elderly and impaired</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bomb_blasts_hit_south_Thailand_market_town_Sungai_Golok\" title=\"Bomb blasts hit south Thailand market town Sungai Golok\">Bomb blasts hit south Thailand market town Sungai Golok</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2007_Rugby_World_Cup:_Argentina_19_-_13_Scotland\" title=\"2007 Rugby World Cup: Argentina 19 - 13 Scotland\">2007 Rugby World Cup: Argentina 19 - 13 Scotland</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2007_Rugby_World_Cup:_South_Africa_37_-_13_Argentina\" title=\"2007 Rugby World Cup: South Africa 37 - 13 Argentina\">2007 Rugby World Cup: South Africa 37 - 13 Argentina</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Iraq_election_commission_refuses_recount_of_votes_from_parliamentary_election\" title=\"Iraq election commission refuses recount of votes from parliamentary election\">Iraq election commission refuses recount of votes from parliamentary election</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/England_off_to_electric_start_in_Women%27s_Euro_2005_football_championship\" title=\"England off to electric start in Women&#39;s Euro 2005 football championship\">England off to electric start in Women&#39;s Euro 2005 football championship</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/All_Blacks_retain_Bledisloe_Cup\" title=\"All Blacks retain Bledisloe Cup\">All Blacks retain Bledisloe Cup</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australia_capture_2006_ICC_Champions_Trophy\" title=\"Australia capture 2006 ICC Champions Trophy\">Australia capture 2006 ICC Champions Trophy</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2007_Rugby_World_Cup:_Italy_31_-_5_Portugal\" title=\"2007 Rugby World Cup: Italy 31 - 5 Portugal\">2007 Rugby World Cup: Italy 31 - 5 Portugal</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2007_Rugby_World_Cup:_England_36_-_20_Tonga\" title=\"2007 Rugby World Cup: England 36 - 20 Tonga\">2007 Rugby World Cup: England 36 - 20 Tonga</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2007_Rugby_World_Cup:_England_14_-_9_France\" title=\"2007 Rugby World Cup: England 14 - 9 France\">2007 Rugby World Cup: England 14 - 9 France</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2007_Rugby_World_Cup:_Tonga,_Fiji_and_Italy_win\" title=\"2007 Rugby World Cup: Tonga, Fiji and Italy win\">2007 Rugby World Cup: Tonga, Fiji and Italy win</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471470,
+   "book" : [],
+   "micro-www" : {
+      "interval" : [
+         "intervals",
+         "interval",
+         "Intervals_(See_You_Next_Tuesday_album)",
+         "Intervals_(Ahmad_Jamal_album)",
+         "Interval_training",
+         "Interval_cycle",
+         "Interval_Research_Corporation",
+         "Interval_(time)",
+         "Interval_(music)",
+         "Interval_(mathematics)",
+         "Interval_(1973_film)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Interval' may refer to:\n\n* Interval (mathematics), a range of numbers (formally, a type of subset of an\n  ordered set)\n* Interval measurements or interval variables in statistics is a level of\n  measurement\n* Interval (music), the relationship in pitch between two notes\n* Interval (time), the duration between two events\n* Space-time interval, the distance between two points in 4-space\n* In cricket, the breaks in between play\n* Interval training, in sports, a training technique often used by runners\n* Interval Research Corporation, a defunct technology think tank founded by\n  Paul Allen\n* Intermission during a theatrical performance (used primarily in Great Britain)\n* Interval (play), 1939 play by Sumner Locke Elliott\n* ''Interval'' (1973 film), a 1973 film starring Merle Oberon\n* ''Intervals'' (See You Next Tuesday album), 2008\n* ''Intervals'' (Ahmad Jamal album), 1980\n* Recess (break), a break between classes, also called \"interval\" in New Zealand\n",
+      "title" : "interval",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Level_of_measurement",
+      "1: Space-time_interval",
+      "1: Interval_training",
+      "1: Interval_Research_Corporation",
+      "1: Intermission"
+   ]
+}

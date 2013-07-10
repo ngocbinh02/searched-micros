@@ -1,0 +1,47 @@
+{
+   "micrownet" : [
+      "actuation"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Variable_valve_actuation\">Variable valve actuation</a>, any mechanism or method that can alter the shape or timing of a valve lift event within an internal combustion engine.",
+      "\n<a href=\"http://duckduckgo.com/High_Redundancy_Actuation\">High Redundancy Actuation</a> (HRA), a new approach to fault tolerant control in the area of mechanical actuation.",
+      "https://en.wikipedia.org/wiki/Actuation",
+      "HASH(0x499d570)",
+      "Wikipedia",
+      "Actuation",
+      "To put into motion or action; activate: electrical relays that actuate the elevator's movements.",
+      "HASH(0x4959b20)",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Space_Shuttle_Discovery_launches_on_mission_STS-124\" title=\"Space Shuttle Discovery launches on mission STS-124\">Space Shuttle Discovery launches on mission STS-124</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Robot_%27learns%27_to_walk_like_a_toddler\" title=\"Robot &#39;learns&#39; to walk like a toddler\">Robot &#39;learns&#39; to walk like a toddler</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Thought-controlled_cybernetic_arms_demonstrated\" title=\"Thought-controlled cybernetic arms demonstrated\">Thought-controlled cybernetic arms demonstrated</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sudanese_protesters_demand_death_for_British_teacher\" title=\"Sudanese protesters demand death for British teacher\">Sudanese protesters demand death for British teacher</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465140,
+   "book" : [],
+   "micro-www" : {
+      "actuation" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n*High Redundancy Actuation (HRA), a new approach to fault tolerant control in\nthe area of mechanical actuation. *Variable valve actuation, any mechanism or\nmethod that can alter the shape or timing of a valve lift event within an\ninternal combustion engine. *Actuation, a type of self-realization referred to\nin Aristotle's philosophy of entelechy.\n",
+      "title" : "actuation",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: High_Redundancy_Actuation",
+      "1: Variable_valve_actuation",
+      "1: Entelechy"
+   ]
+}

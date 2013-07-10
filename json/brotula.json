@@ -1,0 +1,54 @@
+{
+   "micrownet" : [
+      "brotula"
+   ],
+   "duck" : [
+      "Brotula",
+      "\n<a href=\"http://duckduckgo.com/c/Bythitidae\">Bythitidae</a>",
+      "Brotulas are a family, Bythitidae, of ophidiiform fishes, also known as viviparous brotulas as they bear live young.",
+      "\n<a href=\"http://duckduckgo.com/c/Viviparous_fish\">Viviparous fish</a>",
+      "https://i.duckduckgo.com/i/d58a740f.jpg"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373467805,
+   "book" : [],
+   "micro-www" : {
+      "brotula" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Bythitidae",
+         "Viviparous fish"
+      ],
+      "text" : "{{Taxobox\n| name = Brotulas image = Hephthocara simum.jpg image_width = 240px\n| image_caption = [[Hephthocara simum]] regnum = Animalia phylum = Chordata\n| classis = Actinopterygii ordo = Ophidiiformes familia = 'Bythitidae'\n| familia_authority = T. N. Gill, 1861 subdivision_ranks = subfamilies & genera\n| subdivision =\n* Brosmophycinae ** [[Alionematichthys]] ** [[Beaglichthys]] ** [[Bidenichthys]]\n  ** [[Brosmodorsalis]] ** [[Brosmolus]] ** [[Brosmophyciops]] **\n  [[Brosmophycis]] ** [[Brotulinella]] ** [[Dactylosurculus]] ** [[Dermatopsis]]\n  ** [[Dermatopsoides]] ** [[Diancistrus]] ** [[Didymothallus]] **\n  [[Dinematichthys]] ** [[Dipulus]] ** [[Eusurculus]] ** [[Fiordichthys]] **\n  [[Gunterichthys]] ** [[Lapitaichthys]] ** [[Lucifuga]] ** [[Majungaichthys]]\n  ** [[Mascarenichthys]] ** [[Melodichthys]] ** [[Monothrix]] ** [[Ogilbia]] **\n  [[Paradiancistrus]] ** [[Porocephalichthys]] ** [[Typhliasina]] **\n  [[Ungusurculus]] ** [[Zephyrichthys]]\n* Bythitinae ** [[Acarobythites]] ** [[Anacanthobythites]] ** [[Bellottia]] **\n  [[Bythites]] ** [[Calamopteryx]] ** [[Cataetyx]] ** [[Diplacanthopoma]] **\n  [[Ematops]] ** [[Grammonus]] ** [[Hastatobythites]] ** [[Hephthocara]] **\n  [[Microbrotula]] ** [[Nielsenichthys]] ** [[Ogilbichthys]] **\n  [[Parasaccogaster]]<ref>Nielsen, J.G., Schwarzhans, W. & Cohen, D.M. (2012):\n  Revision of Hastatobythites and Saccogaster (Teleostei, Bythitidae) with three\n  new species and a new genus. Zootaxa, 3579: 1–36.</ref> ** [[Pseudogilbia]] **\n  [[Pseudonus]] ** [[Saccogaster]] ** [[Stygnobrotula]] ** [[Thalassobathia]] **\n  [[Thermichthys]]\n* Incertae sedis ** [[Timorichthys]] ** [[Tuamotuichthys]] }}\n\n'Brotulas' are a family, 'Bythitidae', of ophidiiform fishes, also known as\n'viviparous brotulas' as they bear live young. They are found in tropical and\nsubtropical waters throughout the world. They are small fishes, around to in\nlength, and live in surface waters or around reefs.<ref name=EoF></ref>\n\nA few species are freshwater: for example, the Mexican blind brotula, Ogilbia\npearsei, is found in caves and sinkholes in the Yucatán Peninsula, Mexico.\n\nSince 2002, more than 110 new species have been added to this family.<ref>http:-\n//researcharchive.calacademy.org/research/ichthyology/catalog/SpeciesByFamily.a-\nsp</ref> In 2005, 26 new species were described in a single paper by Danish and\nGerman scientists<ref name=SMN2005></ref> and in 2007, an additional 8 new\ngenera with 20 new species were described in another paper by the same\nscientists.<ref name=20new></ref>\n",
+      "title" : "brotula",
+      "headings" : [
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "1: Animal",
+      "1: Chordate",
+      "1: Actinopterygii",
+      "1: Ophidiiformes",
+      "1: Theodore_Gill",
+      "1: Brosmophycinae",
+      "1: Bythitinae",
+      "1: Incertae_sedis",
+      "1: Ophidiiform",
+      "1: Viviparity",
+      "1: Reef",
+      "1: Mexican_blind_brotula",
+      "1: Yucatán_Peninsula",
+      "1: Mexico"
+   ]
+}

@@ -1,0 +1,100 @@
+{
+   "micrownet" : [
+      "angel_shark"
+   ],
+   "duck" : [
+      "HASH(0x4f49df8)",
+      "HASH(0x4cc3558)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_sharks",
+      "List_of_prehistoric_cartilaginous_fish"
+   ],
+   "created" : 1373465091,
+   "book" : [],
+   "micro-www" : {
+      "angel_shark" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Squatinidae|",
+         "Ovoviviparous fish"
+      ],
+      "text" : "\n\n{{Taxobox\n| name = Angel sharks fossil_range = <small>Oxfordian to Present</small> image =\n| Squatina japonica2.jpg image_width = 250px image_caption = Japanese\n| angelshark, Squatina japonica regnum = Animalia phylum = Chordata classis =\n| Chondrichthyes subclassis = Elasmobranchii ordo = 'Squatiniformes'\n| ordo_authority = Buen, 1926 familia = 'Squatinidae' familia_authority =\n| Bonaparte, 1838 genus = 'Squatina' genus_authority = A. M. C. Duméril, 1806\n| type_species = [[Squatina squatina|Squalus squatina]] type_species_authority =\n| Linnaeus, 1758\n}} , usually known simply as theangelshark'', is the type species for all\nangelsharks]] , Squatina tergocellata]] , Squatina australis]]\n\nAn 'angel shark' is a shark in the genus 'Squatina', which are unusual in having\nflattened bodies and broad pectoral fins that give them a strong resemblance to\nrays. Twenty-three species are known to exist in the genus, which is the only\none in its family, 'Squatinidae', and order 'Squatiniformes'. They occur\nworldwide in temperate and tropical seas. Most species inhabit shallow temperate\nor tropical seas, but one species inhabits deeper water, down to .<ref\nname=EoF/>\n",
+      "title" : "angel shark",
+      "headings" : [
+         "Appearance and biology",
+         "Behavior",
+         "Commercial value",
+         "Species",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "3: Charles_Tate_Regan",
+      "3: Peter_R._Last",
+      "3: William_T._White",
+      "3: Tomás_Leonardo_Marini",
+      "2: José_Luis_Castro-Aguirre",
+      "2: Héctor_Salvador_Espinosa-Pérez",
+      "2: Leticia_Huidobro-Campos",
+      "1: Oxfordian_stage",
+      "1: Japanese_angelshark",
+      "1: Animal",
+      "1: Chordata",
+      "1: Chondrichthyes",
+      "1: Elasmobranchii",
+      "1: Don_Fernando_de_Buen_y_Lozano",
+      "1: Charles_Lucien_Jules_Laurent_Bonaparte",
+      "1: André_Marie_Constant_Duméril",
+      "1: Type_species",
+      "1: Shark",
+      "1: Genus",
+      "1: Pectoral_fin",
+      "1: Batoidea",
+      "1: Spiracle",
+      "1: Gill",
+      "1: Pelvic_fin",
+      "1: Dorsal_fin",
+      "1: Anal_fin",
+      "1: Caudal_fin",
+      "1: Japanese_angel_shark",
+      "1: Fish",
+      "1: Crustacean",
+      "1: Mollusk",
+      "1: Ovoviviparity",
+      "1: Santa_Barbara,_California",
+      "1: California",
+      "1: Overfishing",
+      "1: Wildlife_and_Countryside_Act",
+      "1: Georges_Cuvier",
+      "1: Rodolfo_Amando_Philippi",
+      "1: Jonathan_H._Walsh",
+      "1: David_A._Ebert",
+      "1: Leonard_Joseph_Victor_Compagno",
+      "1: William_Orville_Ayres",
+      "1: Charles_Alexandre_Lesueur",
+      "1: Shen_Shih-Chieh",
+      "1: Ting_Wai-Hwa",
+      "1: Pieter_Bleeker",
+      "1: Carolus_Maria_Vooren",
+      "1: Kleber_Grübel_da_Silva",
+      "1: Charles_Lucien_Bonaparte",
+      "1: Carolus_Linnaeus",
+      "1: Alan_Riverstone_McCulloch",
+      "1: Johnson_T._F._Chen",
+      "1: List_of_sharks",
+      "1: List_of_prehistoric_cartilaginous_fish"
+   ]
+}

@@ -1,0 +1,78 @@
+{
+   "micrownet" : [
+      "boarding",
+      "boarding_card",
+      "boarding_house",
+      "boarding_pass",
+      "boarding_school",
+      "boardinghouse"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Boarding",
+      "Wikipedia",
+      "Boarding",
+      "http://www.merriam-webster.com/dictionary/boarding",
+      "\n<a href=\"http://duckduckgo.com/Boarding_(transport)\">Boarding (transport)</a>, transferring people onto a vehicle",
+      "boarding definition: a school that provides meals and lodging.",
+      "\n<a href=\"http://duckduckgo.com/Boarding_(ice_hockey)\">Boarding (ice hockey)</a>, a penalty called when an offending player violently pushes or checks an opposing player into the boards of the hockey rink",
+      "\n<a href=\"http://duckduckgo.com/Livery_yard\">Boarding (horses)</a> - A livery yard or  livery stable (Great Britain, Ireland), or boarding stable (Australia, North America) is a stable where horse owners pay a weekly or monthly fee to keep their horses.",
+      "HASH(0x495ab08)",
+      "\n<a href=\"http://duckduckgo.com/Boarding_(attack)\">Boarding (attack)</a>, customs, coastguard etc. inspections in peacetime",
+      "Merriam-Webster",
+      "HASH(0x4b4b0e0)",
+      "\n<a href=\"http://duckduckgo.com/Waterboarding\">Waterboarding</a>, a form of torture",
+      "D",
+      "\nTemporarily residing somewhere, as in a <a href=\"http://duckduckgo.com/boarding_school\">boarding school</a> or <a href=\"http://duckduckgo.com/?q=boarding house\">boarding house</a>",
+      "\n<a href=\"http://duckduckgo.com/Boarding_(attack)\">Boarding (attack)</a>, a naval term for the forcible attempt at capturing another naval vessel"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Oldest_Catholic_boarding_school_in_Australia_at_centre_of_child-sex_claims\" title=\"Oldest Catholic boarding school in Australia at centre of child-sex claims\">Oldest Catholic <span class=\"searchmatch\">boarding</span> school in Australia at centre of child-sex claims</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/FBI_raids_creator_of_fake_boarding_pass_generator\" title=\"FBI raids creator of fake boarding pass generator\">FBI raids creator of fake <span class=\"searchmatch\">boarding</span> pass generator</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Zealand_boarding_school_closed_due_to_gastro-enteritis_outbreak\" title=\"New Zealand boarding school closed due to gastro-enteritis outbreak\">New Zealand <span class=\"searchmatch\">boarding</span> school closed due to gastro-enteritis outbreak</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Babies_on_U.S._no-fly_lists_holding_up_passengers/Brief\" title=\"Babies on U.S. no-fly lists holding up passengers/Brief\">Babies on U.S. no-fly lists holding up passengers/Brief</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hurricane_Dennis_heads_for_Gulf_Coast,_leaves_trail_of_destruction_in_its_wake\" title=\"Hurricane Dennis heads for Gulf Coast, leaves trail of destruction in its wake\">Hurricane Dennis heads for Gulf Coast, leaves trail of destruction in its wake</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Babies_on_U.S._no-fly_lists_holding_up_passengers\" title=\"Babies on U.S. no-fly lists holding up passengers\">Babies on U.S. no-fly lists holding up passengers</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:August_16,_2005\" title=\"News briefs:August 16, 2005\">News briefs:August 16, 2005</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Iraqi_activist_forced_to_change_t-shirt_with_Arabic_peace_slogan\" title=\"Iraqi activist forced to change t-shirt with Arabic peace slogan\">Iraqi activist forced to change t-shirt with Arabic peace slogan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Worker%27s_Party_leader_detained_in_Sao_Paulo%27s_airport_with_$100,000_hidden_in_his_underpants\" title=\"Worker&#39;s Party leader detained in Sao Paulo&#39;s airport with $100,000 hidden in his underpants\">Worker&#39;s Party leader detained in Sao Paulo&#39;s airport with $100,000 hidden in his underpants</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Nineteen_activists_killed_by_Israeli_commandos_aboard_aid_convoy_bound_for_Gaza\" title=\"Nineteen activists killed by Israeli commandos aboard aid convoy bound for Gaza\">Nineteen activists killed by Israeli commandos aboard aid convoy bound for Gaza</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/German_judge_orders_life_sentence_for_nation%27s_%27first_Islamic-motivated_terror_attack%27\" title=\"German judge orders life sentence for nation&#39;s &#39;first Islamic-motivated terror attack&#39;\">German judge orders life sentence for nation&#39;s &#39;first Islamic-motivated terror attack&#39;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Detained_AIDS_activist_Phyu_Phyu_Thin_released_in_Myanmar\" title=\"Detained AIDS activist Phyu Phyu Thin released in Myanmar\">Detained AIDS activist Phyu Phyu Thin released in Myanmar</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pirates_kill_four_American_hostages\" title=\"Pirates kill four American hostages\">Pirates kill four American hostages</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australia_appeals_for_no_execution_in_Indonesian_drug_case\" title=\"Australia appeals for no execution in Indonesian drug case\">Australia appeals for no execution in Indonesian drug case</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Israel_announces_inquiry_into_Gaza_aid_ship_deaths\" title=\"Israel announces inquiry into Gaza aid ship deaths\">Israel announces inquiry into Gaza aid ship deaths</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Confrontation_between_Greenpeace_and_fishermen_off_Marseille\" title=\"Confrontation between Greenpeace and fishermen off Marseille\">Confrontation between Greenpeace and fishermen off Marseille</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/United_States_Navy_ordered_to_Somalian_coast\" title=\"United States Navy ordered to Somalian coast\">United States Navy ordered to Somalian coast</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Zealand_airlines_relax_knife_regulations\" title=\"New Zealand airlines relax knife regulations\">New Zealand airlines relax knife regulations</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Armed_gunmen_attack_cruise_ship_off_Somali_coast\" title=\"Armed gunmen attack cruise ship off Somali coast\">Armed gunmen attack cruise ship off Somali coast</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tensions_rise_between_North_Korea_and_United_States\" title=\"Tensions rise between North Korea and United States\">Tensions rise between North Korea and United States</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465989,
+   "book" : [],
+   "micro-www" : {
+      "boarding" : [
+         "Boarding_pass",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Boarding' may refer to:\n\n*Temporarily residing somewhere, as in a boarding school or boarding house\n*Boarding (attack), the forcible insertion of personnel onto a naval vessel\n*Boarding (ice hockey), a penalty called when an offending player violently\npushes or checks an opposing player into the boards of the hockey rink *Boarding\n(horses) *Boarding (transport), transferring people onto a vehicle\n*Waterboarding, a form of torture\n",
+      "title" : "boarding",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Boarding_school",
+      "1: Boarding_house",
+      "1: Waterboarding"
+   ]
+}

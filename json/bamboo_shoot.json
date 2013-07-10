@@ -1,0 +1,89 @@
+{
+   "micrownet" : [
+      "bamboo_shoot"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Flash_flooding_kills_fourteen_hikers_near_Chongqing,_China\" title=\"Flash flooding kills fourteen hikers near Chongqing, China\">Flash flooding kills fourteen hikers near Chongqing, China</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373472008,
+   "book" : [],
+   "micro-www" : {
+      "bamboo_shoot" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Stem vegetables",
+         "Japanese vegetables"
+      ],
+      "text" : "\n|t=|p=zhú sǔn|j=zuk1 seon2|kanji=竹の子 or\n筍|kana=タケノコ|romaji=takenoko|lang2=Nepali|lang2_content=तामा (Tama)|hangul=죽순,\n대나무싹|rr=juk sun, daenamu ssak|lang3=Vietnamese|lang3_content=măng|lang4=Tagalog-\n|lang4_content=labong|lang5=Assamese|lang5_content=বাঁহ গাজ/খৰিচা (bah\ngaj/khorisa)}}\n\n{{nutritionalvalue | name=Bamboo shoots, raw\n| kJ=115 protein=2.6 g fat=0.3 g carbs=5.2 g fibre=2.2 g sugars=3 g iron_mg=0.5\n| phosphorus_mg=59 potassium_mg=533 zinc_mg=1.1 manganese_mg=0.262 vitC_mg=4\n| thiamin_mg=0.15 riboflavin_mg=0.07 niacin_mg=0.6 pantothenic_mg=0.161\n| vitB6_mg=0.24 folate_ug=7 vitE_mg=1 source_usda=1\n| note=[http://ndb.nal.usda.gov/ndb/search/list?qlookup=11026&format=Full Link\n| to USDA Database entry]\n}}\n\n'Bamboo shoots' or 'bamboo sprouts' are the edible shoots (new bamboo culms that\ncome out of the ground) of many bamboo species including [[Bambusa vulgaris]]\nand [[Phyllostachys edulis]]. They are used in numerous Asian dishes and broths.\nThey are sold in various processed shapes, and are available in fresh, dried,\nand canned versions.\n",
+      "title" : "bamboo shoot",
+      "headings" : [
+         "Harvested species",
+         "Local names",
+         "Regional uses",
+         "Gallery",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Nagaland",
+      "2: Assam",
+      "2: Nepal",
+      "2: Jharkhand",
+      "2: Coconut_milk",
+      "1: Shoot",
+      "1: Bamboo",
+      "1: Asian_cuisine",
+      "1: Pyrus_pyrifolia",
+      "1: Taitung_City",
+      "1: Hualien_City",
+      "1: Chinese_language",
+      "1: Korean_language",
+      "1: Vietnamese_language",
+      "1: Japanese_language",
+      "1: Western_orissa",
+      "1: Indonesian_language",
+      "1: Malay_language",
+      "1: The_Philippines",
+      "1: Goa",
+      "1: Konkani_language",
+      "1: Uganda",
+      "1: Japan",
+      "1: China",
+      "1: Taiwan",
+      "1: Pickled",
+      "1: Condiment",
+      "1: Pith",
+      "1: Sikkim",
+      "1: Darjeeling",
+      "1: Karnataka",
+      "1: Diyun",
+      "1: Chakma_people",
+      "1: Pork",
+      "1: Western_Orissa",
+      "1: India",
+      "1: Tribal",
+      "1: Indonesia",
+      "1: Cyanide",
+      "1: Philippine_cuisine",
+      "1: Thai_cuisine",
+      "1: Thai_curry",
+      "1: Thai_salads",
+      "1: Vietnamese_cuisine",
+      "1: Thai_salad",
+      "1: Takenoko-zoku",
+      "1: Umami"
+   ]
+}

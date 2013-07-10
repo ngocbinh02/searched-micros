@@ -1,0 +1,85 @@
+{
+   "micrownet" : [
+      "lapdog"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/c/Companion_dogs\">Companion dogs</a>",
+      "Lap dog",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=lapdog",
+      "\n<a href=\"http://duckduckgo.com/Origin_of_the_domestic_dog\">Origin of the domestic dog</a> - The origin of the domestic dog began with the domestication of the Grey Wolf several tens of thousands of years ago.",
+      "A small dog kept as a pet.",
+      "TheFreeDictionary",
+      "https://i.duckduckgo.com/i/d9499d99.jpg",
+      "\n<a href=\"http://duckduckgo.com/c/Dog_types\">Dog types</a>",
+      "\n<a href=\"http://duckduckgo.com/c/Dogs_as_pets\">Dogs as pets</a>",
+      "A lapdog or lap dog is a dog that is both small enough to be held in the arms or lie comfortably on a person's lap and temperamentally predisposed to do so.",
+      "\n<a href=\"http://duckduckgo.com/Bichon\">Bichon</a> -  Bichon is the name for a type of related non-sporting category dog breeds."
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373473509,
+   "book" : [],
+   "micro-www" : {
+      "lapdog" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Dogs as pets",
+         "Dog types",
+         "Companion dogs|*Lap dog"
+      ],
+      "text" : "\n{{Infobox Dogbreed <!-- Put article text AFTER this infobox markup. See: --> <!--\nWikipedia:WikiProject Dogs/Templates for more info.-->\n| name = Lapdog Type image = Louis-Michel van Loo Princess Ekaterina Dmitrievna\n| Golitsyna.jpg image_caption = Princess Ekaterina Dmitrievna Golitsyna with a\n| Pug, 1759. }}\n\nA 'lapdog' or 'lap dog' is a dog that is both small enough to be held in the\narms or lie comfortably on a person's lap and temperamentally predisposed to do\nso. Lapdogs are not a specific breed, but is a generic term for a type of dog of\nsmall size and friendly disposition.\n\nLapdogs historically were kept in many societies around the world by individuals\nwith leisure time, as docile companion animals with no working function. Genetic\nanalysis reveals that lapdogs are among the earliest specific types of dogs to\nlive with people. Today, most lapdog breeds fall into the ''Toy'' breed group.\n",
+      "title" : "lap%20dog",
+      "headings" : [
+         "Appearance",
+         "History and breeds",
+         "Extinct lapdog breeds",
+         "Idiomatic use",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "3: Pug",
+      "3: Pekingese",
+      "2: Dog",
+      "2: Toy_Group",
+      "2: Shih_Tzu",
+      "2: John_George_Wood",
+      "1: Dog_type",
+      "1: Companion_dog",
+      "1: Bolonka",
+      "1: Neoteny",
+      "1: Zhou_Fang",
+      "1: Status_symbol",
+      "1: Terrier",
+      "1: Hanfu",
+      "1: Tibetan_Terrier",
+      "1: Lhasa_Apso",
+      "1: Spaniel",
+      "1: Cavalier_King_Charles_Spaniel",
+      "1: Dog_breed",
+      "1: Bichon_Frise",
+      "1: Japanese_Terrier",
+      "1: Yorkshire_Terrier",
+      "1: Jan_van_Eyck",
+      "1: Old_Masters",
+      "1: Chihuahuas",
+      "1: Russia",
+      "1: Mexico",
+      "1: Griffon_Bruxellois",
+      "1: Tartar_lamb",
+      "1: Great_Dane",
+      "1: News_media",
+      "1: Bichon",
+      "1: Origin_of_the_domestic_dog"
+   ]
+}

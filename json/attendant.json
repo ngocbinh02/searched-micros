@@ -1,0 +1,75 @@
+{
+   "micrownet" : [
+      "attendant",
+      "dining-room_attendant",
+      "flight_attendant",
+      "hospital_attendant",
+      "restaurant_attendant"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Car_attendant\">Car attendant</a>, a railroad employee",
+      "Attendant",
+      "\n<a href=\"http://duckduckgo.com/Sports_attendance\">Sports attendance</a>",
+      "http://www.merriam-webster.com/dictionary/attendant",
+      "attendant definition: one who attends another to perform a service; '''especially'''.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/washroom_attendant\">Toilet attendant</a>, maintains standards in a toilet and collects any usage fees",
+      "\n<a href=\"http://duckduckgo.com/parking_enforcement_officer\">Parking attendant</a> - A parking enforcement officer or parking attendant and sometimes parking inspector is a member of a traffic control department or agency who issues tickets for parking violations.",
+      "\n<a href=\"http://duckduckgo.com/Museum_attendant\">Museum attendant</a> - A museum attendant (or gallery attendant) looks after a gallery in a museum for security reasons, to help museum visitors, and sometimes to help curators in moving objects or changing the ...",
+      "\n<a href=\"http://duckduckgo.com/domestic_worker\">Servant</a> - A domestic worker is a person who works within the employer's household.",
+      "\n<a href=\"http://duckduckgo.com/Flight_attendant\">Flight attendant</a>, flight crew employed to ensure the safety and comfort of the passengers"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/JetBlue_flight_attendant_accused_of_cursing_at_passenger_granted_bail\" title=\"JetBlue flight attendant accused of cursing at passenger granted bail\">JetBlue flight <span class=\"searchmatch\">attendant</span> accused of cursing at passenger granted bail</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Resignation_of_JetBlue_flight_attendant_Steven_Slater_announced\" title=\"Resignation of JetBlue flight attendant Steven Slater announced\">Resignation of JetBlue flight <span class=\"searchmatch\">attendant</span> Steven Slater announced</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_immigration_detains_Aussie_flight_attendant_for_10mths,_and_maltreats_her\" title=\"Australian immigration detains Aussie flight attendant for 10mths, and maltreats her\">Australian immigration detains Aussie flight <span class=\"searchmatch\">attendant</span> for 10mths, and maltreats her</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hundreds_of_Air_Canada_flight_attendants_to_lose_jobs\" title=\"Hundreds of Air Canada flight attendants to lose jobs\">Hundreds of Air Canada flight <span class=\"searchmatch\">attendants</span> to lose jobs</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/United_Airlines_to_hire_2,000_flight_attendants\" title=\"United Airlines to hire 2,000 flight attendants\">United Airlines to hire 2,000 flight <span class=\"searchmatch\">attendants</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Flight_attendant_Todd_Herzog_wins_$1_million_on_%27Survivor:_China%27\" title=\"Flight attendant Todd Herzog wins $1 million on &#39;Survivor: China&#39;\">Flight <span class=\"searchmatch\">attendant</span> Todd Herzog wins $1 million on &#39;Survivor: China&#39;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_flight_from_Washington,_DC_diverted_after_man_reportedly_tries_to_open_door\" title=\"US flight from Washington, DC diverted after man reportedly tries to open door\">US flight from Washington, DC diverted after man reportedly tries to open door</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Cyprus_to_charge_five_over_2005_plane_crash_that_killed_121\" title=\"Cyprus to charge five over 2005 plane crash that killed 121\">Cyprus to charge five over 2005 plane crash that killed 121</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Clashes_in_France_after_anti-condom_speech_by_Pope\" title=\"Clashes in France after anti-condom speech by Pope\">Clashes in France after anti-condom speech by Pope</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Wife_of_British_Prime_Minister_attends_gay_pride_parade_in_London\" title=\"Wife of British Prime Minister attends gay pride parade in London\">Wife of British Prime Minister attends gay pride parade in London</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sydney_train_doors_stuck,_passengers_delayed\" title=\"Sydney train doors stuck, passengers delayed\">Sydney train doors stuck, passengers delayed</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Airliner_crash_wounds_four_in_Durban,_South_Africa\" title=\"Airliner crash wounds four in Durban, South Africa\">Airliner crash wounds four in Durban, South Africa</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Prosecution_to_proceed_with_alternate_witnesses_in_Moussaoui_trial\" title=\"Prosecution to proceed with alternate witnesses in Moussaoui trial\">Prosecution to proceed with alternate witnesses in Moussaoui trial</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Cypriot_court_begins_Greek_air_disaster_trial\" title=\"Cypriot court begins Greek air disaster trial\">Cypriot court begins Greek air disaster trial</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Cyprus_charges_five_over_2005_air_crash_that_killed_121\" title=\"Cyprus charges five over 2005 air crash that killed 121\">Cyprus charges five over 2005 air crash that killed 121</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/49_dead_after_Comair_regional_jet_crashes_in_Kentucky\" title=\"49 dead after Comair regional jet crashes in Kentucky\">49 dead after Comair regional jet crashes in Kentucky</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Unprecedented_review_to_be_held_on_Qantas_after_third_emergency_in_two_weeks\" title=\"Unprecedented review to be held on Qantas after third emergency in two weeks\">Unprecedented review to be held on Qantas after third emergency in two weeks</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Brazilian_surfer_wins_world_championship_in_Pichilemu,_Chile\" title=\"Brazilian surfer wins world championship in Pichilemu, Chile\">Brazilian surfer wins world championship in Pichilemu, Chile</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pair_taken_off_plane_because_of_%22suspicious%22_behaviour\" title=\"Pair taken off plane because of &quot;suspicious&quot; behaviour\">Pair taken off plane because of &quot;suspicious&quot; behaviour</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Kitty_Hawk_and_other_U.S._warships%27_visit_to_Hong_Kong_canceled\" title=\"Kitty Hawk and other U.S. warships&#39; visit to Hong Kong canceled\">Kitty Hawk and other U.S. warships&#39; visit to Hong Kong canceled</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471390,
+   "book" : [],
+   "micro-www" : {
+      "attendant" : [
+         "Attendant_circumstance",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Attendant' may refer to:\n\n* Car attendant, a railroad employee\n* Flight attendant, flight crew employed to ensure the safety and comfort of the\n  passengers\n* Museum attendant\n* Toilet attendant, maintains standards in a toilet and collects any usage fees\n* Parking attendant\n* Sports attendance *Servant\n* The operator of a telephone Attendant console\n",
+      "title" : "attendant",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Car_attendant",
+      "1: Flight_attendant",
+      "1: Museum_attendant",
+      "1: Toilet_attendant",
+      "1: Parking_attendant",
+      "1: Sports_attendance",
+      "1: Servant",
+      "1: Attendant_console"
+   ]
+}

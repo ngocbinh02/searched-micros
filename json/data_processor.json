@@ -1,0 +1,59 @@
+{
+   "micrownet" : [
+      "data_processor"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/PlayStation_3_will_be_used_to_help_cure_cancer_and_Alzheimer%27s\" title=\"PlayStation 3 will be used to help cure cancer and Alzheimer&#39;s\">PlayStation 3 will be used to help cure cancer and Alzheimer&#39;s</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/ACLU,_EFF_challenging_US_%27secret%27_court_orders_seeking_Twitter_data\" title=\"ACLU, EFF challenging US &#39;secret&#39; court orders seeking Twitter data\">ACLU, EFF challenging US &#39;secret&#39; court orders seeking Twitter <span class=\"searchmatch\">data</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:July_14,_2010\" title=\"News briefs:July 14, 2010\">News briefs:July 14, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:July_14,_2010#Crash_data_suggests_driver_error_in_Toyota_accidents_.286:34.29\" title=\"News briefs:July 14, 2010\">Crash <span class=\"searchmatch\">data</span> suggests driver error in Toyota accidents (6:34) </a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/40_million_credit_cards_compromised\" title=\"40 million credit cards compromised\">40 million credit cards compromised</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Virus_stole_data_from_40_million_bank_accounts_in_May_and_FBI_kept_it_quiet\" title=\"Virus stole data from 40 million bank accounts in May and FBI kept it quiet\">Virus stole <span class=\"searchmatch\">data</span> from 40 million bank accounts in May and FBI kept it </a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Data_Retention_Directive_passed_by_EU_Parliament\" title=\"Data Retention Directive passed by EU Parliament\"><span class=\"searchmatch\">Data</span> Retention Directive passed by EU Parliament</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2008_COMPUTEX_Taipei:_Three_awards,_One_target\" title=\"2008 COMPUTEX Taipei: Three awards, One target\">2008 COMPUTEX Taipei: Three awards, One target</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Police_track_kidney_doctor_to_Brampton,_Canada\" title=\"Police track kidney doctor to Brampton, Canada\">Police track kidney doctor to Brampton, Canada</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Modern_technology_maps_new_sections_of_the_Great_Wall_of_China\" title=\"Modern technology maps new sections of the Great Wall of China\">Modern technology maps new sections of the Great Wall of China</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NASA:_Old_Arctic_sea_ice_continues_to_melt\" title=\"NASA: Old Arctic sea ice continues to melt\">NASA: Old Arctic sea ice continues to melt</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:June_8,_2010\" title=\"News briefs:June 8, 2010\">News briefs:June 8, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Listening_to_you_at_last:_EU_plans_to_tap_cell_phones\" title=\"Listening to you at last: EU plans to tap cell phones\">Listening to you at last: EU plans to tap cell phones</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/On_the_campaign_trail,_July_2012\" title=\"On the campaign trail, July 2012\">On the campaign trail, July 2012</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_National_Fingerprint_Database_begins_without_parliamentary_consultation\" title=\"British National Fingerprint Database begins without parliamentary consultation\">British National Fingerprint Database begins without parliamentary consultation</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/OpenSync_Interview_-_syncing_on_the_free_desktop\" title=\"OpenSync Interview - syncing on the free desktop\">OpenSync Interview - syncing on the free desktop</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sam_Brownback_on_running_for_President,_gay_rights,_the_Middle_East_and_religion\" title=\"Sam Brownback on running for President, gay rights, the Middle East and religion\">Sam Brownback on running for President, gay rights, the Middle East and religion</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NASA%27s_Deep_Impact_probe_strikes_comet_successfully\" title=\"NASA&#39;s Deep Impact probe strikes comet successfully\">NASA&#39;s Deep Impact probe strikes comet successfully</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Deep_Impact_cruising_for_comet_crash\" title=\"Deep Impact cruising for comet crash\">Deep Impact cruising for comet crash</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373469903,
+   "book" : [],
+   "micro-www" : {
+      "data_processor" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Data processing"
+      ],
+      "text" : "\n\nData processing most often refers to Computer data processing, computer\nprocesses that convert data into information or knowledge.\n\n'Data processing' may also refer to:\n\n*Automatic Data Processing, computer services company *Data analysis; processing\ndata with the goal of highlighting, drawing conclusions, and supporting decision\nmaking *Data entry done by a data entry clerk *Data processing system, a system\nwhich processes data which has been captured and encoded in a format style\nrecognizable by the data processing system or has been created and stored by\nanother unit of an information processing system *Electronic data processing or\nEDP *Information processing; the change (processing), of information in any\nmanner detectable by an observer *Unit record equipment data processing\n",
+      "title" : "Data%20processing%20%28disambiguation%29",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Computer_data_processing",
+      "1: Automatic_Data_Processing",
+      "1: Data_analysis",
+      "1: Data_entry_clerk",
+      "1: Data_processing_system",
+      "1: Electronic_data_processing",
+      "1: Information_processing",
+      "1: Unit_record_equipment"
+   ]
+}

@@ -1,0 +1,107 @@
+{
+   "micrownet" : [
+      "communication_theory"
+   ],
+   "duck" : [
+      "HASH(0x4994640)",
+      "HASH(0x49783f8)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Social_networking_site_lets_users_run_virtual_campaign_for_US_president\" title=\"Social networking site lets users run virtual campaign for US president\">Social networking site lets users run virtual campaign for US president</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Satanism:_An_interview_with_Church_of_Satan_High_Priest_Peter_Gilmore\" title=\"Satanism: An interview with Church of Satan High Priest Peter Gilmore\">Satanism: An interview with Church of Satan High Priest Peter Gilmore</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ethiopia_plans_to_expand_country%27s_Internet_access\" title=\"Ethiopia plans to expand country&#39;s Internet access\">Ethiopia plans to expand country&#39;s Internet access</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:June_10,_2010\" title=\"News briefs:June 10, 2010\">News briefs:June 10, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Interview_with_Glen_Stollery_of_ScienTOMogy.info\" title=\"Interview with Glen Stollery of ScienTOMogy.info\">Interview with Glen Stollery of ScienTOMogy.info</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:May_24,_2010\" title=\"News briefs:May 24, 2010\">News briefs:May 24, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Brazil_blames_human_error_for_2006_midair_airliner_collision\" title=\"Brazil blames human error for 2006 midair airliner collision\">Brazil blames human error for 2006 midair airliner collision</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Brazil_dismisses_English_language_skills_on_Diplomatic_career_admission\" title=\"Brazil dismisses English language skills on Diplomatic career admission\">Brazil dismisses English language skills on Diplomatic career admission</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465628,
+   "book" : [],
+   "micro-www" : {
+      "communication_theory" : [
+         "Communication_theory_as_a_field",
+         "Communication_theory",
+         "Communication_Theory_(journal)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Communication theory|",
+         "Communication",
+         "Human behavior",
+         "Human communication",
+         "Linguistics"
+      ],
+      "text" : "'Communication theory' is a field of information and mathematics that studies\nthe technical process of information<ref name=\"Shannon\"></ref> and the human\nprocess of human communication.<ref></ref> According to communication theorist\nRobert T. Craig in his essay 'Communication Theory as a Field' (1999), \"despite\nthe ancient roots and growing profusion of theories about communication,\" there\nis not a field of study that can be identified as 'communication theory'.<ref\nname=\"Craig\"></ref>\n",
+      "title" : "communication theory",
+      "headings" : [
+         "History",
+         "''Communication Theory as a Field''",
+         "Elements of communication",
+         "See also",
+         "References",
+         "Further reading",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "3: Information",
+      "2: Mathematics",
+      "2: Claude_Shannon",
+      "2: Communication",
+      "2: Communication_studies",
+      "1: Human_communication",
+      "1: Robert_T._Craig",
+      "1: Information_theory",
+      "1: Bell_Labs",
+      "1: Harry_Nyquist",
+      "1: Ralph_Hartley",
+      "1: Alan_Turing",
+      "1: Cryptanalysis_of_the_Enigma",
+      "1: Bell_System_Technical_Journal",
+      "1: A_Mathematical_Theory_of_Communication",
+      "1: Probability_theory",
+      "1: Norbert_Wiener",
+      "1: Information_entropy",
+      "1: Cryptography",
+      "1: Communication_Theory_of_Secrecy_Systems",
+      "1: One-time_pad",
+      "1: Nyquist-Shannon_sampling_theorem",
+      "1: Natural_language_processing",
+      "1: Computational_linguistics",
+      "1: Warren_Weaver",
+      "1: Conceptual_model",
+      "1: Psychology",
+      "1: Sociology",
+      "1: Science",
+      "1: Engineer",
+      "1: Harold_Lasswell",
+      "1: Political_science",
+      "1: Wilbur_Schramm",
+      "1: Everett_Rogers",
+      "1: David_Kenneth_Berlo",
+      "1: Richard_Whately",
+      "1: Aristotle",
+      "1: James_L._Kinneavy",
+      "1: Orator",
+      "1: Latin",
+      "1: Concept",
+      "1: Semiotics",
+      "1: Metacommunicative_competence",
+      "1: Rogerian_argument",
+      "1: Tetrad_of_media_effects",
+      "1: Text_and_conversation_theory",
+      "1: McGraw-Hill",
+      "1: Morgan_Kaufmann",
+      "1: Pitman_Press"
+   ]
+}

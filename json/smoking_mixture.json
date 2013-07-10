@@ -1,0 +1,27 @@
+{
+   "micrownet" : [
+      "smoking_mixture"
+   ],
+   "duck" : [
+      "HASH(0x4ad8898)",
+      "HASH(0x4add3a0)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Edmund_White_on_writing,_incest,_life_and_Larry_Kramer\" title=\"Edmund White on writing, incest, life and Larry Kramer\">Edmund White on writing, incest, life and Larry Kramer</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373463451,
+   "book" : [],
+   "micro-www" : {
+      "smoking_mixture" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

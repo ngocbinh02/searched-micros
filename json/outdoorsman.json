@@ -1,0 +1,80 @@
+{
+   "micrownet" : [
+      "outdoorsman"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/c/Hobbies\">Hobbies</a>",
+      "Outdoor enthusiast",
+      "An outdoor enthusiast is a person who enjoys sports and activities in nature and wilderness areas.",
+      "\n<a href=\"http://duckduckgo.com/c/Outdoor_recreation\">Outdoor recreation</a>"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Fire_Fighters_Join_%22TR%22_Roosevelt_Conservation_Partnership\" title=\"Fire Fighters Join &quot;TR&quot; Roosevelt Conservation Partnership\">Fire Fighters Join &quot;TR&quot; Roosevelt Conservation Partnership</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_outdoorsmen_and_outdoor_educators"
+   ],
+   "created" : 1373469081,
+   "book" : [],
+   "micro-www" : {
+      "outdoorsman" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Outdoor recreation",
+         "Hobbies"
+      ],
+      "text" : "\n\nAn 'outdoor enthusiast' is a person who enjoys sports and activities in nature\nand wilderness areas. Interests associated with outdoor enthusiasts include\nhiking, fishing, hunting, cross-country skiing, snowshoeing, canoeing, climbing\nand camping. The term 'outdoorsman' has also been used.\n\nU.S. president Teddy Roosevelt was an avid outdoorsman. Other notable\noutdoorsmen include Doug Peacock, Richard Wiese, Kenneth \"Speedy\" Raulerson,\nEarl Shaffer, Jo Gjende from Norway, Saxton Pope, Randy Stoltmann, Christopher\nCamuto, Henry Pittock, Eddie Bauer, Gaylord DuBois, Euell Gibbons, Clay Perry,\nArthur Hasketh Groom, Bill Jordan (outdoorsman), Corey Ford, and Étienne Brûlé.\nPublications catering to the lifestyle and those interested in it include\nmagazines like [[Outdoor Life]].\n\nSparsely populated areas with mountains, lakes, rivers, scenic views, and rugged\nterrain are popular with outdoor enthusiasts. State Parks and National Parks\noffer campgrounds and opportunities for recreation of the sort.\n\nCulinary techniques and foods popular with outdoor enthusiasts include dutch\novens, grilling, cooking over \"open fires\" (often with rock fire rings), fish\nfrys, granola, and trail mix (sometimes referred to as GORP for good old\n[[raisin]]s and [[peanut]]s).\n",
+      "title" : "Outdoor%20enthusiast",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Nature",
+      "1: Wilderness",
+      "1: Hiking",
+      "1: Fishing",
+      "1: Hunting",
+      "1: Cross-country_skiing",
+      "1: Snowshoeing",
+      "1: Canoeing",
+      "1: Climbing",
+      "1: Camping",
+      "1: Teddy_Roosevelt",
+      "1: Doug_Peacock",
+      "1: Richard_Wiese",
+      "1: Kenneth_\"Speedy\"_Raulerson",
+      "1: Earl_Shaffer",
+      "1: Jo_Gjende",
+      "1: Saxton_Pope",
+      "1: Randy_Stoltmann",
+      "1: Christopher_Camuto",
+      "1: Henry_Pittock",
+      "1: Eddie_Bauer",
+      "1: Gaylord_DuBois",
+      "1: Euell_Gibbons",
+      "1: Clay_Perry",
+      "1: Arthur_Hasketh_Groom",
+      "1: Corey_Ford",
+      "1: Étienne_Brûlé",
+      "1: State_Park",
+      "1: National_Park",
+      "1: Campground",
+      "1: Dutch_ovens",
+      "1: Grilling",
+      "1: Fire_ring",
+      "1: Fish_fry",
+      "1: Granola",
+      "1: Trail_mix",
+      "1: List_of_outdoorsmen_and_outdoor_educators"
+   ]
+}

@@ -1,0 +1,111 @@
+{
+   "micrownet" : [
+      "near_beer"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_government_launches_car_industry_aid_package\" title=\"British government launches car industry aid package\">British government launches car industry aid package</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_Chancellor_of_the_Exchequer,_Alistair_Darling_releases_2008_budget\" title=\"UK Chancellor of the Exchequer, Alistair Darling releases 2008 budget\">UK Chancellor of the Exchequer, Alistair Darling releases 2008 budget</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bomb_explodes_in_Belarusian_city\" title=\"Bomb explodes in Belarusian city\">Bomb explodes in Belarusian city</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Fifth_person_killed_by_serial_killer_in_Mumbai\" title=\"Fifth person killed by serial killer in Mumbai\">Fifth person killed by serial killer in Mumbai</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Powerful_earthquake_rocks_southern_Japan,_tsunami_warnings_issued\" title=\"Powerful earthquake rocks southern Japan, tsunami warnings issued\">Powerful earthquake rocks southern Japan, tsunami warnings issued</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:August_4,_2010\" title=\"News briefs:August 4, 2010\">News briefs:August 4, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:August_4,_2010#One_dead_after_small_plane_crashes_near_Phoenix_.282:02.29\" title=\"News briefs:August 4, 2010\">One dead after small plane crashes <span class=\"searchmatch\">near</span> Phoenix (2:02) </a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Body_of_missing_Florida_girl_found\" title=\"Body of missing Florida girl found\">Body of missing Florida girl found</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Schoolboy_dies_in_Israel_after_bus_hit_by_rocket_from_Gaza\" title=\"Schoolboy dies in Israel after bus hit by rocket from Gaza\">Schoolboy dies in Israel after bus hit by rocket from Gaza</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373467624,
+   "book" : [],
+   "micro-www" : {
+      "near_beer" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Non-alcoholic beverages",
+         "Prohibition",
+         "Types of beer"
+      ],
+      "text" : ".]]\n\n'Low-alcohol beer' (also called 'light beer', 'non-alcoholic beer', 'small\nbeer', 'small ale', or 'near-beer') is beer with low alcohol content or no\nalcohol, which aim to reproduce the taste of beer without the inebriating\neffects of standard alcoholic brews. Most low-alcohol beers are lagers, but\nthere are some low-alcohol ales.\n\nIn the United States, beverages containing less than 0.5% alcohol by volume\n(ABV) were legally called non-alcoholic, according to the now-defunct Volstead\nAct. Because of its very low alcohol content, non-alcoholic beer may be legally\nsold to minors in many American states.\n\nIn the United Kingdom, the following definitions apply by law (correct as of\nMay 2007):<ref>[http://www.alcoholfree.co.uk/article_info.php?articles_id=5\nWhat Is Meant By Alcohol-Free? : The Alcohol-Free Shop<!-- Bot generated title\n-->]</ref>\n\n*No alcohol or alcohol-free: not more than 0.05% ABV *Dealcoholised: over 0.05%\nbut less than 0.5% ABV *Low-alcohol: not more than 1.2% ABV\n\nIn some parts of the European Union, beer must contain no more than 0.5% ABV if\nit is labelled \"alcohol-free\".\n\nIn Australia, the term \"light beer\" refers to any beer with less than 3%\nalcohol.\n",
+      "title" : "Low-alcohol%20beer",
+      "headings" : [
+         "History",
+         "Pros and Cons",
+         "Categories of low-alcohol beer",
+         "Legal drinking age",
+         "Brewing process",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "9: ABV",
+      "5: Alcohol_by_volume",
+      "3: Beer",
+      "3: United_States",
+      "2: Ethanol",
+      "2: Ale",
+      "2: Alcohol_by_volume#Proof_and_ABW",
+      "2: Minnesota",
+      "2: Prohibition",
+      "1: Lager",
+      "1: Volstead_Act",
+      "1: United_Kingdom",
+      "1: European_Union",
+      "1: Australia",
+      "1: Food_energy",
+      "1: Bud_Light",
+      "1: Coors_Light",
+      "1: Miller_Lite",
+      "1: Beer_classification_in_Sweden_and_Finland",
+      "1: U.S._state",
+      "1: Colorado",
+      "1: Kansas",
+      "1: Oklahoma",
+      "1: Utah",
+      "1: Missouri",
+      "1: Alcohol_laws_of_Missouri",
+      "1: Malt_beverage",
+      "1: Cereal",
+      "1: Bevo",
+      "1: Anheuser-Busch",
+      "1: Pabst_Brewing_Company",
+      "1: Miller_Brewing",
+      "1: Joseph_Schlitz_Brewing_Company",
+      "1: Waverley_Root",
+      "1: Puritan",
+      "1: Niccolò_Machiavelli",
+      "1: Iceland",
+      "1: Medieval",
+      "1: Europe",
+      "1: North_America",
+      "1: Holsten",
+      "1: Saudi_Arabia",
+      "1: Kuwait",
+      "1: Iran",
+      "1: Kirin_Free",
+      "1: Kirin_Brewery_Company",
+      "1: Japan",
+      "1: Ethanol_fermentation",
+      "1: Michigan",
+      "1: Texas",
+      "1: Wisconsin",
+      "1: New_Jersey",
+      "1: Illinois",
+      "1: Acetaldehyde",
+      "1: University_College_Cork",
+      "1: Distillation",
+      "1: Reverse_osmosis",
+      "1: Kvass",
+      "1: Malzbier",
+      "1: Small_beer"
+   ]
+}

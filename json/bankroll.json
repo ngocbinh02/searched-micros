@@ -1,0 +1,78 @@
+{
+   "micrownet" : [
+      "bankroll"
+   ],
+   "duck" : [
+      "A bank roll or roll is a paper or plastic container for a number of coins.",
+      "https://en.wikipedia.org/wiki/Bank_roll",
+      "HASH(0x4988118)",
+      "Wikipedia",
+      "Bank roll",
+      "\n<a href=\"http://duckduckgo.com/c/Numismatics\">Numismatics</a>",
+      "A bank roll or roll is a paper or plastic container for a number of coins.",
+      "https://i.duckduckgo.com/i/276012cb.jpg",
+      "\n<a href=\"http://duckduckgo.com/Coin_walk\">Coin walk</a> - The Coin walk is a type of coin trick in which a coin is flipped over the fingers to create the illusion of a coin walking across the back of the hand.",
+      "\n<a href=\"http://duckduckgo.com/c/Banking\">Banking</a>",
+      "HASH(0x4a0c1b0)",
+      "A bank roll or roll is a paper or plastic container for a number of coins.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Guinea_coup_trial_defendant_names_co-conspirators\" title=\"Guinea coup trial defendant names co-conspirators\">Guinea coup trial defendant names co-conspirators</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Cuban_dissidents_hold_rare_public_meeting\" title=\"Cuban dissidents hold rare public meeting\">Cuban dissidents hold rare public meeting</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Michael_Vick_placed_under_tighter_restrictions_after_failing_drug_test\" title=\"Michael Vick placed under tighter restrictions after failing drug test\">Michael Vick placed under tighter restrictions after failing drug test</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Former_northeastern_US_Republican_campaign_director_charged_with_conspiracy\" title=\"Former northeastern US Republican campaign director charged with conspiracy\">Former northeastern US Republican campaign director charged with conspiracy</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Israel-Palestine_ceasefire_begins_with_violence\" title=\"Israel-Palestine ceasefire begins with violence\">Israel-Palestine ceasefire begins with violence</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Dissident_meeting_held_in_Cuba\" title=\"Dissident meeting held in Cuba\">Dissident meeting held in Cuba</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Liberian_ex-President_Charles_Taylor_convicted_in_war_crimes_trial\" title=\"Liberian ex-President Charles Taylor convicted in war crimes trial\">Liberian ex-President Charles Taylor convicted in war crimes trial</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/WSJ:_Diller_close_to_$2_billion_deal_for_Ask_Jeeves\" title=\"WSJ: Diller close to $2 billion deal for Ask Jeeves\">WSJ: Diller close to $2 billion deal for Ask Jeeves</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Cubans_protest_communism\" title=\"Cubans protest communism\">Cubans protest communism</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tea_Party-endorsed_Christine_O%27Donnell_wins_Delaware_Senate_primary_election\" title=\"Tea Party-endorsed Christine O&#39;Donnell wins Delaware Senate primary election\">Tea Party-endorsed Christine O&#39;Donnell wins Delaware Senate primary election</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465764,
+   "book" : [],
+   "micro-www" : {
+      "bankroll" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Banking",
+         "Numismatics"
+      ],
+      "text" : "\n\n\n\n\nA 'coin wrapper', sometimes known as a 'bank roll' or 'roll' is a paper or\nplastic container for a number of coins. In the United States, empty rolls are\navailable free at most banks in every denomination (though it is becoming\nincreasingly difficult for half dollar and dollar to be readily made available).\nThe rolls come flat and one side will have to be folded to allow for coins to be\nplaced inside. When the roll is full, the top side will need to be folded.\nTypically, the full rolls are brought back to the banks in exchange for currency\nor to be deposited.\n\nIn the Eurozone, you also find empty plastic rolls at the banks in every\ndenomination, with five-coin staggered rows. Their main advantages are:\n;Reliability: Their five-coin staggered rows and transparency make quick\nverification of contents possible. ;Certainty: They provide a high degree of\ncertainty (transparency, reliable and legible contents). ;Cost effective : The\nhigh certainty means less time spent processing coins, while the solidity and\ntwo-way closure system increase the number of times the coin roll can be used,\neffectively reducing its overall cost.\n",
+      "title" : "Coin%20wrapper",
+      "headings" : [
+         "Searching rolls",
+         "Fraud",
+         "Amount in a roll in the United States",
+         "Amount in a roll in the Eurozone",
+         "Coin bags",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "1: United_States",
+      "1: United_States_dollar_coin",
+      "1: Eurozone",
+      "1: Copper",
+      "1: Silver",
+      "1: Half-dollar",
+      "1: Coin_roll_hunting",
+      "1: Coin_rolling_scams",
+      "1: Eisenhower_dollar",
+      "1: Quarter_Eagle",
+      "1: Half_Eagle",
+      "1: Automatic_coin_wrapper",
+      "1: Currency_packaging"
+   ]
+}

@@ -1,0 +1,34 @@
+{
+   "micrownet" : [
+      "millidegree"
+   ],
+   "duck" : [
+      "millidegree definition: one thousandth of a degree.",
+      "http://merriam-webster.com/dictionary/millidegree",
+      "HASH(0x4b49418)",
+      "Merriam-Webster",
+      "millidegree",
+      "http://www.merriam-webster.com/dictionary/millidegree",
+      "millidegree definition: one thousandth of a degree.",
+      "Merriam-Webster",
+      "HASH(0x4b9c820)",
+      "millidegree definition: one thousandth of a degree.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462853,
+   "book" : [],
+   "micro-www" : {
+      "millidegree" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

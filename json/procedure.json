@@ -1,0 +1,96 @@
+{
+   "micrownet" : [
+      "bureaucratic_procedure",
+      "cataloged_procedure",
+      "check-out_procedure",
+      "cloze_procedure",
+      "contingency_procedure",
+      "dental_procedure",
+      "desensitisation_procedure",
+      "desensitization_procedure",
+      "diagnostic_procedure",
+      "double-blind_procedure",
+      "emergency_procedure",
+      "experimental_procedure",
+      "gram's_procedure",
+      "medical_procedure",
+      "operating_procedure",
+      "parliamentary_procedure",
+      "procedure",
+      "standard_operating_procedure",
+      "standard_procedure",
+      "standing_operating_procedure",
+      "statistical_procedure",
+      "surgical_procedure"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Procedure_(term)\">Procedure (term)</a> - A procedure is a document written to support a \"Policy Directive\".",
+      "\n<a href=\"http://duckduckgo.com/standard_operating_procedure\">Standard Operating Procedure</a>, a step-by-step instruction to achieve a desired result, used in industry and military",
+      "Procedure",
+      "\n<a href=\"http://duckduckgo.com/Civil_procedure\">Civil procedure</a> - Civil procedure is the body of law that sets out the rules and standards that courts follow when adjudicating civil lawsuits.",
+      "http://www.merriam-webster.com/dictionary/procedure",
+      "procedure definition: a particular way of accomplishing something or of acting.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Administrative_law\">Administrative procedure</a> - Administrative law is the body of law that governs the activities of administrative agencies of government.",
+      "\n<a href=\"http://duckduckgo.com/Medical_procedure\">Medical procedure</a> - A medical procedure is a course of action intended to achieve a result in the care of persons with health problems.",
+      "\n<a href=\"http://duckduckgo.com/Criminal_procedure\">Criminal procedure</a> - Criminal procedure refers to the adjudication process of the criminal law.",
+      "\n<a href=\"http://duckduckgo.com/Procedural_law\">Legal procedure</a>, the body of law and rules used in the administration of justice in the court system, including—",
+      "\n<a href=\"http://duckduckgo.com/Parliamentary_procedure\">Parliamentary procedure</a>, a set of rules governing meetings."
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Americans_practice_attack_response_procedures\" title=\"Americans practice attack response procedures\">Americans practice attack response <span class=\"searchmatch\">procedures</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Standard_Operating_Procedure_changes_at_Camp_Delta,_Guantanamo_Bay\" title=\"Standard Operating Procedure changes at Camp Delta, Guantanamo Bay\">Standard Operating <span class=\"searchmatch\">Procedure</span> changes at Camp Delta, Guantanamo Bay</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bill_Clinton_leaves_hospital_following_heart_procedure\" title=\"Bill Clinton leaves hospital following heart procedure\">Bill Clinton leaves hospital following heart <span class=\"searchmatch\">procedure</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_military_confirms_authenticity_of_Standard_Operating_Procedures_for_Guantanamo_Bay\" title=\"US military confirms authenticity of Standard Operating Procedures for Guantanamo Bay\">US military confirms authenticity of Standard Operating <span class=\"searchmatch\">Procedures</span> for Guantanamo Bay</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._Senator_calls_for_nationwide_investigation_into_Army_recruitment_tactics\" title=\"U.S. Senator calls for nationwide investigation into Army recruitment tactics\">U.S. Senator calls for nationwide investigation into Army recruitment tactics</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._Military_recruitment_procedures_taped_by_17_year_old\" title=\"U.S. Military recruitment procedures taped by 17 year old\">U.S. Military recruitment <span class=\"searchmatch\">procedures</span> taped by 17 year old</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Investigation_launched_after_two_military_aircraft_nearly_collide_with_passenger_airliner\" title=\"Investigation launched after two military aircraft nearly collide with passenger airliner\">Investigation launched after two military aircraft nearly collide with passenger airliner</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/BP:_Plug_for_underwater_oil_leak_in_Gulf_of_Mexico_fails\" title=\"BP: Plug for underwater oil leak in Gulf of Mexico fails\">BP: Plug for underwater oil leak in Gulf of Mexico fails</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Study_will_examine_treating_heart_damage_with_adult_stem_cells\" title=\"Study will examine treating heart damage with adult stem cells\">Study will examine treating heart damage with adult stem cells</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Onion_the_dog_case_set_for_Nevada_high_court_oral_argument\" title=\"Onion the dog case set for Nevada high court oral argument\">Onion the dog case set for Nevada high court oral argument</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_clinic_plans_first_face_transplant\" title=\"US clinic plans first face transplant\">US clinic plans first face transplant</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Excessive_surgeries_swell_Medicare_costs_in_United_States\" title=\"Excessive surgeries swell Medicare costs in United States\">Excessive surgeries swell Medicare costs in United States</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Egyptian_military_issues_ultimatum_to_Morsi\" title=\"Egyptian military issues ultimatum to Morsi\">Egyptian military issues ultimatum to Morsi</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Gastric_bypass_surgery_performed_by_remote_control\" title=\"Gastric bypass surgery performed by remote control\">Gastric bypass surgery performed by remote control</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NASA:_Series_of_errors_led_to_loss_of_Mars_Global_Surveyor\" title=\"NASA: Series of errors led to loss of Mars Global Surveyor\">NASA: Series of errors led to loss of Mars Global Surveyor</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Supreme_Court_upholds_ban_on_partial_birth_abortions\" title=\"US Supreme Court upholds ban on partial birth abortions\">US Supreme Court upholds ban on partial birth abortions</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Jayant_%22Dr_Death%22_Patel_arrested_in_Oregon,_US\" title=\"Jayant &quot;Dr Death&quot; Patel arrested in Oregon, US\">Jayant &quot;Dr Death&quot; Patel arrested in Oregon, US</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Fire_in_Hospital_in_Costa_Rica_kills_18_persons\" title=\"Fire in Hospital in Costa Rica kills 18 persons\">Fire in Hospital in Costa Rica kills 18 persons</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/First_successful_womb_transplant_recipient_passes_six-week_pregnancy_mark\" title=\"First successful womb transplant recipient passes six-week pregnancy mark\">First successful womb transplant recipient passes six-week pregnancy mark</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Security_tightened_at_Singapore_courts_after_two_attempts_to_escape\" title=\"Security tightened at Singapore courts after two attempts to escape\">Security tightened at Singapore courts after two attempts to escape</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373468156,
+   "book" : [],
+   "micro-www" : {
+      "procedure" : [
+         "procedures",
+         "Procedure_(term)",
+         "Procedure_(disambiguation)",
+         "Procedure_(computer_science)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Procedure' may refer to:\n* Procedure (term)\n* Medical procedure\n* Instructions or recipes, a set of commands that show how to prepare or\n  make something\n* Standard Operating Procedure, a step-by-step instruction to achieve a desired\n  result, used in industry and military\n* Legal procedure, the body of law and rules used in the administration of\n  justice in the court system, including— ** Civil procedure ** Criminal\n  procedure ** Administrative procedure\n* Parliamentary procedure, a set of rules governing meetings.\n* In computer science, procedure, also known as function, routine, or subprogram\n",
+      "title" : "procedure",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Medical_procedure",
+      "1: Recipe",
+      "1: Standard_Operating_Procedure",
+      "1: Procedural_law",
+      "1: Civil_procedure",
+      "1: Criminal_procedure",
+      "1: Administrative_law",
+      "1: Parliamentary_procedure"
+   ]
+}

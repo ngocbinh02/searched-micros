@@ -1,0 +1,54 @@
+{
+   "micrownet" : [
+      "standard_atmosphere"
+   ],
+   "duck" : [
+      "HASH(0x4a465e0)",
+      "HASH(0x1a579a8)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bush_EPA_nominee_abandons_insecticide-on-children_study_after_Senate_hearing\" title=\"Bush EPA nominee abandons insecticide-on-children study after Senate hearing\">Bush EPA nominee abandons insecticide-on-children study after Senate hearing</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_firm_designs_hypersonic_passenger_jet\" title=\"UK firm designs hypersonic passenger jet\">UK firm designs hypersonic passenger jet</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/G20_protests:_Inside_a_labour_march\" title=\"G20 protests: Inside a labour march\">G20 protests: Inside a labour march</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/ACLU_President_Strossen_on_religion,_drugs,_guns_and_impeaching_George_Bush\" title=\"ACLU President Strossen on religion, drugs, guns and impeaching George Bush\">ACLU President Strossen on religion, drugs, guns and impeaching George Bush</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_military_to_shoot_down_errant_spy_satellite\" title=\"US military to shoot down errant spy satellite\">US military to shoot down errant spy satellite</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_report_shows_emissions_increase_%22more_than_doubled_since_the_1990s%22\" title=\"Australian report shows emissions increase &quot;more than doubled since the 1990s&quot;\">Australian report shows emissions increase &quot;more than doubled since the 1990s&quot;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Latest_trial_of_the_One_Laptop_Per_Child_running_in_India;_Uruguay_orders_100,000_machines\" title=\"Latest trial of the One Laptop Per Child running in India; Uruguay orders 100,000 machines\">Latest trial of the One Laptop Per Child running in India; Uruguay orders 100,000 machines</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/World%27s_biggest_polluters_won%27t_cut_back_on_fossil_fuel\" title=\"World&#39;s biggest polluters won&#39;t cut back on fossil fuel\">World&#39;s biggest polluters won&#39;t cut back on fossil fuel</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:July_22,_2010\" title=\"News briefs:July 22, 2010\">News briefs:July 22, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/March_against_new_French_copyright_law\" title=\"March against new French copyright law\">March against new French copyright law</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:July_12,_2010\" title=\"News briefs:July 12, 2010\">News briefs:July 12, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:August_3,_2010\" title=\"News briefs:August 3, 2010\">News briefs:August 3, 2010</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462694,
+   "book" : [],
+   "micro-www" : {
+      "standard_atmosphere" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "'Standard atmosphere' may refer to:\n\n* A standard reference value for air pressure: ** Atmosphere (unit), an\n  approximation of the value at sea level ** Atmospheric pressure, other\n  reference values\n* A model of how atmospheric pressure varies with altitude: ** The U.S. Standard\n  Atmosphere, a series of models that give values for pressure, density, and\n  temperature over a range of altitudes ** The International Standard Atmosphere\n  (ISA), an international standard model, defining typical atmospheric\n  properties with altitude, at mid-latitude\n",
+      "title" : "standard atmosphere",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Standard_atmospheric_pressure",
+      "1: Atmospheric_pressure",
+      "1: U.S._Standard_Atmosphere",
+      "1: International_Standard_Atmosphere",
+      "1: Atmospheric_models",
+      "1: NRLMSISE-00",
+      "1: Standard_conditions_for_temperature_and_pressure"
+   ]
+}

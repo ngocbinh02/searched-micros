@@ -1,0 +1,55 @@
+{
+   "micrownet" : [
+      "idiopathy"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/c/Nosology\">Nosology</a>",
+      "Idiopathic",
+      "\n<a href=\"http://duckduckgo.com/Diagnosis_of_exclusion\">Diagnosis of exclusion</a> - A diagnosis of exclusion is a medical condition reached by a process of elimination, which may be necessary if presence cannot be established with complete confidence from examination or testing.",
+      "\n<a href=\"http://duckduckgo.com/Idiosyncratic_drug_reaction\">Idiosyncratic drug reaction</a> - Idiosyncratic drug reactions, also known as type B reactions, are drug reactions that occur rarely and unpredictably amongst the population.",
+      "http://www.merriam-webster.com/dictionary/idiopathic",
+      "idiopathic definition: arising spontaneously or from an obscure or unknown cause.",
+      "Merriam-Webster",
+      "Idiopathic is an adjective used primarily in medicine meaning arising spontaneously or from an obscure or unknown cause.",
+      "\n<a href=\"http://duckduckgo.com/Cryptogenic_disease\">Cryptogenic disease</a> - A cryptogenic disease is a disease of which the cause is unknown."
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373470802,
+   "book" : [],
+   "micro-www" : {
+      "idiopathy" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Medical terminology",
+         "Nosology",
+         "Idiopathic diseases|"
+      ],
+      "text" : "'Idiopathic' is an adjective used primarily in medicine meaning arising\nspontaneously or from an obscure or unknown cause. From Greek ἴδιος, idios\n(one's own) + πάθος, pathos (suffering), it means approximately \"a disease of\nits own kind\". It is technically a term from nosology, the classification of\ndisease. For some medical conditions, one or more causes are somewhat\nunderstood, but in a certain percentage of people with the condition, the cause\nmay not be readily apparent or characterized. In these cases, the origin of the\ncondition is said to be idiopathic.\n\nWith some medical conditions, the root cause for a large percentage of all cases\nhas not been established—for example, focal segmental glomerulosclerosis or\nankylosing spondylitis; the majority of these cases are deemed idiopathic.<ref\nname=Daskalakis_2006></ref> With other conditions, idiopathic cases account for\nonly a small percentage (for example, pulmonary fibrosis).<ref name=MLP></ref>\nRegarding a particular condition or disease, as more root causes are discovered\nthe percentage of cases designated \"idiopathic\" decreases.\n",
+      "title" : "Idiopathic",
+      "headings" : [
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "1: Medicine",
+      "1: Disease",
+      "1: Nosology",
+      "1: Focal_segmental_glomerulosclerosis",
+      "1: Ankylosing_spondylitis",
+      "1: Pulmonary_fibrosis",
+      "1: Cryptogenic_disease",
+      "1: Diagnosis_of_exclusion",
+      "1: Idiosyncratic_drug_reaction"
+   ]
+}

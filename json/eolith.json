@@ -1,0 +1,71 @@
+{
+   "micrownet" : [
+      "eolith",
+      "eolithic",
+      "eolithic_age"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/c/Paleontology\">Paleontology</a>",
+      "\n<a href=\"http://duckduckgo.com/c/Petrology\">Petrology</a>",
+      "\n<a href=\"http://duckduckgo.com/c/Lithics\">Lithics</a>",
+      "Eolith",
+      "\n<a href=\"http://duckduckgo.com/Eolith_(company)\">Eolith (company)</a> - Eolith was a South Korean based company.",
+      "http://www.merriam-webster.com/dictionary/eolith",
+      "\n<a href=\"http://duckduckgo.com/c/Archaeological_artefact_types\">Archaeological artefact types</a>",
+      "eolith definition: a very crudely chipped flint.",
+      "Merriam-Webster",
+      "An eolith is a chipped flint nodule."
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373470886,
+   "book" : [],
+   "micro-www" : {
+      "eolith" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Archaeological artefact types",
+         "Lithics",
+         "Paleontology",
+         "Petrology"
+      ],
+      "text" : "\nAn 'eolith' (from Greek \"eos\", dawn, and \"lithos\", stone) is a chipped flint\nnodule. Eoliths were once thought to have been artifacts, the earliest stone\ntools, but are now believed to be naturally produced by geological processes\nsuch as glaciation.\n\nThe first eoliths were collected in Kent by Benjamin Harrison, an amateur\nnaturalist and archaeologist, in 1885 (though the name \"eolith\" wasn't coined\nuntil 1892, by J. Allen Browne). Harrison's discoveries were published by Sir\nJoseph Prestwich in 1891, and eoliths were generally accepted to have been\ncrudely made tools, dating from the Pliocene. Further discoveries of eoliths in\nthe early 20th century &ndash; in East Anglia by J. Reid Moir and in continental\nEurope by Aimé Louis Rutot and H. Klaatsch &ndash; were taken to be evidence of\nhuman habitation of those areas before the oldest known fossils. Indeed, the\nEnglish finds helped to secure acceptance of the hoax remains of Piltdown man.\n\nBecause eoliths were so crude, concern began to be raised that they were\nindistinguishable from the natural processes of erosion. Marcellin Boule, a\nFrench archaeologist, published an argument against the artifactual status of\neoliths in 1905,<ref>Boule, M. (1905) - « L'origine des éolithes »,\nL'Anthropologie, t. XVI, pp. 257-267.</ref> and Samuel Hazzledine Warren\nprovided confirmation of Boule's view after carrying out experiments on\nflints.<ref>Warren, S.H. (1905) - « On the origin of \"Eolithic\" flints by\nnaturals causes, especially by the foundering of drifts », Journal of the Royal\nAntrhopological Institute of Great Britain and Ireland, t. 35, pp. 337-\n364.</ref>\n\nAlthough the debate continued for about three decades, more and more evidence\nwas discovered that suggested a purely natural origin for eoliths. This,\ntogether with the discovery of genuine late-Pliocene tools in Africa (the\nOlduwan tools), made support for the artifact theory difficult to sustain.\n",
+      "title" : "eolith",
+      "headings" : [
+         "References",
+         "Further reading"
+      ]
+   },
+   "micro-relation" : [
+      "1: Greek_language",
+      "1: Flint",
+      "1: Geology",
+      "1: Glaciation",
+      "1: Kent",
+      "1: Natural_history",
+      "1: Archaeology",
+      "1: Joseph_Prestwich",
+      "1: Pliocene",
+      "1: East_Anglia",
+      "1: Europe",
+      "1: Fossil",
+      "1: England",
+      "1: Piltdown_man",
+      "1: Erosion",
+      "1: Marcellin_Boule",
+      "1: France",
+      "1: Africa",
+      "1: Olduwan",
+      "1: Terry_Harrison",
+      "1: H._James_Birx"
+   ]
+}

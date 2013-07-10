@@ -1,0 +1,45 @@
+{
+   "micrownet" : [
+      "plant_substance"
+   ],
+   "duck" : [
+      "HASH(0x1a58818)",
+      "HASH(0x1a57188)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tobacco_attracts_predators_with_chemicals_in_response_to_caterpillars,_a_study_finds\" title=\"Tobacco attracts predators with chemicals in response to caterpillars, a study finds\">Tobacco attracts predators with chemicals in response to caterpillars, a study finds</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Swedish_men_suspected_of_nuclear_plant_sabotage_released\" title=\"Swedish men suspected of nuclear plant sabotage released\">Swedish men suspected of nuclear <span class=\"searchmatch\">plant</span> sabotage released</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/United_Nations_Report:_Deserts_threatened_by_global_warming\" title=\"United Nations Report: Deserts threatened by global warming\">United Nations Report: Deserts threatened by global warming</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Post-probe,_problematic_peanut_paste_products_pulled\" title=\"Post-probe, problematic peanut paste products pulled\">Post-probe, problematic peanut paste products pulled</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Nuclear_plant_sealed_off_after_traces_of_explosives_found_on_bag\" title=\"Nuclear plant sealed off after traces of explosives found on bag\">Nuclear <span class=\"searchmatch\">plant</span> sealed off after traces of explosives found on bag</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Public_access_to_information_on_emissions_from_European_industries\" title=\"Public access to information on emissions from European industries\">Public access to information on emissions from European industries</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Third_explosion_at_Fukushima_Daiichi_nuclear_power_plant\" title=\"Third explosion at Fukushima Daiichi nuclear power plant\">Third explosion at Fukushima Daiichi nuclear power <span class=\"searchmatch\">plant</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_South_Wales_set_to_adopt_harsher_anti-cannabis_laws\" title=\"New South Wales set to adopt harsher anti-cannabis laws\">New South Wales set to adopt harsher anti-cannabis laws</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chinese_chemical_plant_explosion_threatens_water_supply_for_major_city\" title=\"Chinese chemical plant explosion threatens water supply for major city\">Chinese chemical <span class=\"searchmatch\">plant</span> explosion threatens water supply for major city</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mothers,_teachers_air_more_concerns_about_leukemia_cases_at_California_elementary_school\" title=\"Mothers, teachers air more concerns about leukemia cases at California elementary school\">Mothers, teachers air more concerns about leukemia cases at California elementary school</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Drug_website_surveys_LSD_users_and_culture\" title=\"Drug website surveys LSD users and culture\">Drug website surveys LSD users and culture</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Envelopes_containing_white_powder_sent_to_Church_of_Scientology_locations_in_southern_California,_USA\" title=\"Envelopes containing white powder sent to Church of Scientology locations in southern California, USA\">Envelopes containing white powder sent to Church of Scientology locations in southern California, USA</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Illegal_drug_found_to_be_used_in_the_manufacture_of_toys\" title=\"Illegal drug found to be used in the manufacture of toys\">Illegal drug found to be used in the manufacture of toys</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Obama_responds_to_criticism_over_medical_marijuana_raids\" title=\"Obama responds to criticism over medical marijuana raids\">Obama responds to criticism over medical marijuana raids</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/EPA_declares_%27emergency%27_asbestos_cleanup_in_Montana_town\" title=\"EPA declares &#39;emergency&#39; asbestos cleanup in Montana town\">EPA declares &#39;emergency&#39; asbestos cleanup in Montana town</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Unreported_tainted_milk_incident_publicised_in_China\" title=\"Unreported tainted milk incident publicised in China\">Unreported tainted milk incident publicised in China</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mothers,_teachers_concerned_about_leukemia_deaths_at_California_elementary_school\" title=\"Mothers, teachers concerned about leukemia deaths at California elementary school\">Mothers, teachers concerned about leukemia deaths at California elementary school</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:July_19,_2010\" title=\"News briefs:July 19, 2010\">News briefs:July 19, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:July_29,_2010\" title=\"News briefs:July 29, 2010\">News briefs:July 29, 2010</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373463458,
+   "book" : [],
+   "micro-www" : {
+      "plant_substance" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

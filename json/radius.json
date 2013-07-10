@@ -1,0 +1,95 @@
+{
+   "micrownet" : [
+      "radius",
+      "radius_vector"
+   ],
+   "duck" : [
+      "Radius",
+      "http://www.merriam-webster.com/dictionary/radius",
+      "\n<a href=\"http://duckduckgo.com/Radius\">Radius</a> is a straight line or distance from the center to the edge of a curve. It may also refer to:",
+      "radius definition: a line segment extending from the center of a circle or sphere to the circumference or bounding surface.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Newly_discovered_extra-solar_planet_may_be_Earth-like\" title=\"Newly discovered extra-solar planet may be Earth-like\">Newly discovered extra-solar planet may be Earth-like</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Villagers_evacuating_as_Mayon_volcano_erupts\" title=\"Villagers evacuating as Mayon volcano erupts\">Villagers evacuating as Mayon volcano erupts</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hurricane_Earl_threatens_eastern_US\" title=\"Hurricane Earl threatens eastern US\">Hurricane Earl threatens eastern US</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Explosions_near_British_consulate_in_New_York_shatter_windows\" title=\"Explosions near British consulate in New York shatter windows\">Explosions near British consulate in New York shatter windows</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/H5N1_hits_Britain\" title=\"H5N1 hits Britain\">H5N1 hits Britain</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Oil_pipeline_explosion_kills_27_in_central_Mexico\" title=\"Oil pipeline explosion kills 27 in central Mexico\">Oil pipeline explosion kills 27 in central Mexico</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Landing_of_Space_Shuttle_Atlantis_postponed_due_to_bad_weather\" title=\"Landing of Space Shuttle Atlantis postponed due to bad weather\">Landing of Space Shuttle Atlantis postponed due to bad weather</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Indonesian_volcano_eruption_prompts_thousands_to_evacuate\" title=\"Indonesian volcano eruption prompts thousands to evacuate\">Indonesian volcano eruption prompts thousands to evacuate</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/China_to_run_low-cost_maglevs_by_next_year\" title=\"China to run low-cost maglevs by next year\">China to run low-cost maglevs by next year</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/23rd_Southeast_Asian_Games_officially_begins_November_27\" title=\"23rd Southeast Asian Games officially begins November 27\">23rd Southeast Asian Games officially begins November 27</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_avian_flu_outbreaks_reported_in_western_Europe\" title=\"New avian flu outbreaks reported in western Europe\">New avian flu outbreaks reported in western Europe</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Controversial_medical_center_demolished_in_Buffalo,_New_York\" title=\"Controversial medical center demolished in Buffalo, New York\">Controversial medical center demolished in Buffalo, New York</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/CSX_freight_train_derails_in_Oneida,_New_York,_tank_car_explodes\" title=\"CSX freight train derails in Oneida, New York, tank car explodes\">CSX freight train derails in Oneida, New York, tank car explodes</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Southern_Australian_munitions_factory_explodes\" title=\"Southern Australian munitions factory explodes\">Southern Australian munitions factory explodes</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Explosion_at_earthquake-damaged_Fukushima_nuclear_power_plant\" title=\"Explosion at earthquake-damaged Fukushima nuclear power plant\">Explosion at earthquake-damaged Fukushima nuclear power plant</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Explosion_near_Beirut_kills_three,_injures_five\" title=\"Explosion near Beirut kills three, injures five\">Explosion near Beirut kills three, injures five</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Detroit_chemical_plant_experiences_explosions,_fire;_residents_evacuated\" title=\"Detroit chemical plant experiences explosions, fire; residents evacuated\">Detroit chemical plant experiences explosions, fire; residents evacuated</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/7.4_magnitude_hits_Pacific_near_New_Zealand\" title=\"7.4 magnitude hits Pacific near New Zealand\">7.4 magnitude hits Pacific near New Zealand</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/King%27s_Cross_railway_station_in_London_evacuated\" title=\"King&#39;s Cross railway station in London evacuated\">King&#39;s Cross railway station in London evacuated</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Cricket:_Buderim_to_fill_half_Politicians_team_on_Australia_Day\" title=\"Cricket: Buderim to fill half Politicians team on Australia Day\">Cricket: Buderim to fill half Politicians team on Australia Day</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373471109,
+   "book" : [],
+   "micro-www" : {
+      "radius" : [
+         "radius",
+         "Radius_of_convergence",
+         "Radius",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Spheres",
+         "Circles",
+         "Length"
+      ],
+      "text" : "\n\nIn classical geometry, the 'radius' of a circle or sphere is the length of a\nline segment from its center to its perimeter. By extension, the diameter is\ndefined as twice the radius:<ref name=\"mwd1\">\n[http://www.mathwords.com/r/radius_of_a_circle_or_sphere.htm Definition of\nradius] at mathwords.com. Accessed on 2009-08-08.</ref>\n\n: <math>d \\doteq 2r \\quad \\Rightarrow \\quad r = \\frac{d}{2}.</math>\n\nIf the object does not have an obvious center, the term may refer to its\ncircumradius, the radius of its circumscribed circle or circumscribed sphere. In\neither case, the radius may be more than half the diameter, which is usually\ndefined as the maximum distance between any two points of the figure. The\ninradius of a geometric figure is usually the radius of the largest circle or\nsphere contained in it. The inner radius of a ring, tube or other hollow object\nis the radius of its cavity.\n\nFor regular polygons, the radius is the same as its circumradius.<ref\nname=\"schaum\">Barnett Rich, Christopher Thomas (2008), Schaum's Outline of\nGeometry, 4th edition, 326 pages. McGraw-Hill Professional. ISBN 0-07-154412-7,\nISBN 978-0-07-154412-2. [http://books.google.com.br/books?id=ab8lZG2yubcC Online\nversion] accessed on 2009-08-08.</ref> The inradius of a regular polygon is also\ncalled apothem. In graph theory, the radius of a graph is the minimum over all\nvertices u of the maximum distance from u to any other vertex of the graph.<ref\nname=\"yel\">Jonathan L. Gross, Jay Yellen (2006), Graph theory and its\napplications. 2nd edition, 779 pages; CRC Press. ISBN 1-58488-505-X,\n9781584885054. [http://books.google.com.br/books?id=unEloQ_sYmkC Online version]\naccessed on 2009-08-08.</ref>\n\nThe name comes from Latin radius, meaning \"ray\" but also the spoke of a chariot\nwheel.<ref name=\"radic\"> [http://dictionary.reference.com/browse/Radius\nDefinition of Radius] at dictionary.reference.com. Accessed on 2009-08-08.\n</ref> The plural of radius can be either radii or the conventional English\nplural radiuses.<ref></ref>\n\nThe radius of the circle with perimeter (circumference) C is\n\n: <math>r = \\frac{C}{2\\pi}.</math>\n",
+      "title" : "radius",
+      "headings" : [
+         "Radius from area",
+         "Radius from three points",
+         "Formulas for regular polygons",
+         "Formulas for hypercubes",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Perimeter",
+      "1: Geometry",
+      "1: Circle",
+      "1: Sphere",
+      "1: Line_segment",
+      "1: Diameter",
+      "1: Circumscribed_circle",
+      "1: Circumscribed_sphere",
+      "1: Apothem",
+      "1: Graph_theory",
+      "1: Latin",
+      "1: Circumference",
+      "1: Area",
+      "1: Atomic_radius",
+      "1: Bend_radius",
+      "1: Bohr_radius",
+      "1: Filling_radius",
+      "1: Minimum_railway_curve_radius",
+      "1: Radius_of_convergence",
+      "1: Radius_of_convexity",
+      "1: Radius_of_curvature",
+      "1: Radius_of_gyration",
+      "1: Schwarzschild_radius"
+   ]
+}

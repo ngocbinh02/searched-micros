@@ -1,0 +1,27 @@
+{
+   "micrownet" : [
+      "bodily_structure"
+   ],
+   "duck" : [
+      "HASH(0x497d750)",
+      "HASH(0x4a81870)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Two_men_charged_with_igniting_second-largest_fire_in_California_history\" title=\"Two men charged with igniting second-largest fire in California history\">Two men charged with igniting second-largest fire in California history</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465196,
+   "book" : [],
+   "micro-www" : {
+      "bodily_structure" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

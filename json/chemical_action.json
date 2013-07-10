@@ -1,0 +1,47 @@
+{
+   "micrownet" : [
+      "chemical_action"
+   ],
+   "duck" : [
+      "HASH(0x4a718a8)",
+      "HASH(0x4a385e8)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_use_of_white_phosphorus_in_Iraq_may_constitute_a_war_crime\" title=\"US use of white phosphorus in Iraq may constitute a war crime\">US use of white phosphorus in Iraq may constitute a war crime</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_use_of_white_phosphorus_in_Iraq_may_constitute_a_war_crime#White_phosphorus._A_conventional_or_a_chemical_weapon.3F\" title=\"US use of white phosphorus in Iraq may constitute a war crime\">White phosphorus. A conventional or a <span class=\"searchmatch\">chemical</span> weapon?</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Multiple_planes_perform_aerial_spraying_over_greater_Dallas,_Texas_in_effort_to_combat_mosquitoes\" title=\"Multiple planes perform aerial spraying over greater Dallas, Texas in effort to combat mosquitoes\">Multiple planes perform aerial spraying over greater Dallas, Texas in effort to combat mosquitoes</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Detroit_chemical_plant_experiences_explosions,_fire;_residents_evacuated\" title=\"Detroit chemical plant experiences explosions, fire; residents evacuated\">Detroit <span class=\"searchmatch\">chemical</span> plant experiences explosions, fire; residents evacuated</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Green_tea_component_protects_heart_cells\" title=\"Green tea component protects heart cells\">Green tea component protects heart cells</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Oil_in_Alberta_spill_may_be_carcinogenic\" title=\"Oil in Alberta spill may be carcinogenic\">Oil in Alberta spill may be carcinogenic</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/500_stranded_melon-headed_whales_rescued_in_Philippine_bay\" title=\"500 stranded melon-headed whales rescued in Philippine bay\">500 stranded melon-headed whales rescued in Philippine bay</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Toxic_chemicals_found_in_four_Canadian_politicians\" title=\"Toxic chemicals found in four Canadian politicians\">Toxic <span class=\"searchmatch\">chemicals</span> found in four Canadian politicians</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Arrests_made_in_Australia_after_%27anti-terror%27_raids\" title=\"Arrests made in Australia after &#39;anti-terror&#39; raids\">Arrests made in Australia after &#39;anti-terror&#39; raids</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Thai_petrochemical_accident_kills_twelve\" title=\"Thai petrochemical accident kills twelve\">Thai petrochemical accident kills twelve</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Virginia_takes_action_against_Zebra_Mussels_in_private_pond\" title=\"Virginia takes action against Zebra Mussels in private pond\">Virginia takes <span class=\"searchmatch\">action</span> against Zebra Mussels in private pond</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_MP_calls_for_ban_on_Aspartame\" title=\"British MP calls for ban on Aspartame\">British MP calls for ban on Aspartame</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Detroit_chemical_plant_experiences_explosions,_fire;_residents_evacuated/Brief\" title=\"Detroit chemical plant experiences explosions, fire; residents evacuated/Brief\">Detroit <span class=\"searchmatch\">chemical</span> plant experiences explosions, fire; residents evacuated/Brief</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_lawyer_comments_on_court_case_against_Boeing_over_London_jet_crash\" title=\"UK lawyer comments on court case against Boeing over London jet crash\">UK lawyer comments on court case against Boeing over London jet crash</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/CIA_gives_up_search_and_interrogation_on_Iraq_WMDs\" title=\"CIA gives up search and interrogation on Iraq WMDs\">CIA gives up search and interrogation on Iraq WMDs</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tony_Blair_tells_Iraq_Inquiry_he_would_invade_again\" title=\"Tony Blair tells Iraq Inquiry he would invade again\">Tony Blair tells Iraq Inquiry he would invade again</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_admits_use_of_white_phosphorus_in_Iraq\" title=\"US admits use of white phosphorus in Iraq\">US admits use of white phosphorus in Iraq</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/America_admits_using_chemical_weapons_in_Iraq\" title=\"America admits using chemical weapons in Iraq\">America admits using <span class=\"searchmatch\">chemical</span> weapons in Iraq</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Surprise_demolition_of_partially_collapsed_building_in_Buffalo,_New_York_met_with_opposition\" title=\"Surprise demolition of partially collapsed building in Buffalo, New York met with opposition\">Surprise demolition of partially collapsed building in Buffalo, New York met with opposition</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Death_sentences_in_2008_Chinese_tainted_milk_scandal\" title=\"Death sentences in 2008 Chinese tainted milk scandal\">Death sentences in 2008 Chinese tainted milk scandal</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Interview_with_Glen_Stollery_of_ScienTOMogy.info\" title=\"Interview with Glen Stollery of ScienTOMogy.info\">Interview with Glen Stollery of ScienTOMogy.info</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373463302,
+   "book" : [],
+   "micro-www" : {
+      "chemical_action" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

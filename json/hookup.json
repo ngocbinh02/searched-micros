@@ -1,0 +1,60 @@
+{
+   "micrownet" : [
+      "hookup",
+      "temporary_hookup"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Hook-up",
+      "\n<a href=\"http://duckduckgo.com/Jeremy_Klein\">Hook-Ups</a>, an American <a href=\"http://duckduckgo.com/?q=skateboard\">skateboard</a> brand",
+      "HASH(0x49b36f0)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Hooking_Up\">Hooking Up</a>, a collection of essays and short stories by American author Tom Wolfe",
+      "\n<a href=\"http://duckduckgo.com/Casual_relationship\">Casual relationship</a> or <a href=\"http://duckduckgo.com/?q=casual sex\">casual sex</a>",
+      "\nAn <a href=\"http://duckduckgo.com/electrical_connector\">electrical connector</a>",
+      "Hook-up",
+      "http://www.merriam-webster.com/dictionary/hook%20up",
+      "hook up definition: to become associated especially in a working or social relationship.",
+      "Merriam-Webster",
+      "\nAn <a href=\"http://duckduckgo.com/electrical_connection\">electrical connection</a>",
+      "HASH(0x47d1d80)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Hookup_culture\">Hookup culture</a> -   A hookup culture has arisen in this context where hookups are not only accepted, but encouraged and expected."
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hundreds_of_thousands_rally_in_Australia_against_IR_legislation\" title=\"Hundreds of thousands rally in Australia against IR legislation\">Hundreds of thousands rally in Australia against IR legislation</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Senator_David_Vitter_to_earmark_$100,000_for_creationist_group\" title=\"Senator David Vitter to earmark $100,000 for creationist group\">Senator David Vitter to earmark $100,000 for creationist group</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462133,
+   "book" : [],
+   "micro-www" : {
+      "hookup" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Hook-up' or 'hook up' has several meanings:\n* Making a connection between components in a system ** An electrical connection\n  ** An electrical connector ** A connection to water, sewer, or electrical\n  utilities at a campsite\n* Meet up, or making a connection between people ** Slang term for courtship,\n  especially of short duration ** Casual relationship or casual sex ***\n  Hookup culture\n* In urban slang, a discount\n* In urban slang, a drug dealer\n* Hook-Ups, an American skateboard brand\n* [[Hooking Up]], a collection of essays and short stories by American\n  author Tom Wolfe\n",
+      "title" : "Hook-up",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Electrical_connection",
+      "1: Electrical_connector",
+      "1: Campsite",
+      "1: Courtship",
+      "1: Casual_relationship",
+      "1: Casual_sex",
+      "1: Hookup_culture",
+      "1: Discounts_and_allowances",
+      "1: Drug_dealer",
+      "1: Jeremy_Klein",
+      "1: Skateboard"
+   ]
+}

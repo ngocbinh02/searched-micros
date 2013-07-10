@@ -1,0 +1,116 @@
+{
+   "micrownet" : [
+      "administrative_unit"
+   ],
+   "duck" : [
+      "HASH(0x4a8c050)",
+      "HASH(0x4958118)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Colombia_releases_detailed_report_about_the_FARC\" title=\"Colombia releases detailed report about the FARC\">Colombia releases detailed report about the FARC</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Israel_responds_to_Hamas_rockets_with_air_strike_on_Gaza,_killing_four\" title=\"Israel responds to Hamas rockets with air strike on Gaza, killing four\">Israel responds to Hamas rockets with air strike on Gaza, killing four</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Former_Australian_defence_chief%27s_son_to_be_discharged_from_the_Army\" title=\"Former Australian defence chief&#39;s son to be discharged from the Army\">Former Australian defence chief&#39;s son to be discharged from the Army</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Grandfather_held_in_Guantanamo_dies_of_cancer\" title=\"Grandfather held in Guantanamo dies of cancer\">Grandfather held in Guantanamo dies of cancer</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Former_Washington_D.C._police_officer_sues_district_for_racial_discrimination_and_harassment\" title=\"Former Washington D.C. police officer sues district for racial discrimination and harassment\">Former Washington D.C. police officer sues district for racial discrimination and harassment</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Colleges_offering_admission_to_displaced_New_Orleans_students/International\" title=\"Colleges offering admission to displaced New Orleans students/International\">Colleges offering admission to displaced New Orleans students/International</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sri_Lanka_Army_captures_Tamil_Tiger%27s_capital_of_Kilinochchi\" title=\"Sri Lanka Army captures Tamil Tiger&#39;s capital of Kilinochchi\">Sri Lanka Army captures Tamil Tiger&#39;s capital of Kilinochchi</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Moscow_gas_pipeline_catches_fire\" title=\"Moscow gas pipeline catches fire\">Moscow gas pipeline catches fire</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Colleges_offering_admission_to_displaced_New_Orleans_students/OH-WY\" title=\"Colleges offering admission to displaced New Orleans students/OH-WY\">Colleges offering admission to displaced New Orleans students/OH-WY</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_administrative_division_name_changes",
+      "List_of_current_constituent_monarchs",
+      "List_of_etymologies_of_country_subdivision_names"
+   ],
+   "created" : 1373465829,
+   "book" : [],
+   "micro-www" : {
+      "administrative_unit" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Administrative divisions|",
+         "Country subdivisions"
+      ],
+      "text" : "\n\n\n\nAn 'administrative division', 'subnational entity', 'geopolitical division', or\n'country subdivision' is a portion of a country or other political division,\nestablished for the purpose of government. Administrative divisions are each\ngranted a certain degree of autonomy, and are required to manage themselves\nthrough their own local governments. Countries are divided up into these smaller\nunits to make managing their land and the affairs of their people easier. For\nexample, a country may be divided into provinces, which in turn are divided into\ncounties, which in turn may be divided in whole or in part into municipalities.\nThese are only a few of the names given to administrative subdivisions; more\nexamples are provided below.\n\nAdministrative divisions are conceptually separate from dependent territories,\nwith the former being an integral part of the state and the other being only\nunder some lesser form of control. However, the term \"administrative division\"\ncan include dependent territories as well as accepted administrative divisions\n(for example, in geographical databases).\n",
+      "title" : "Administrative%20division",
+      "headings" : [
+         "Examples of administrative divisions",
+         "Comparison",
+         "See also",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "3: Country",
+      "3: Sovereign_state",
+      "2: Province",
+      "2: County",
+      "2: Municipality",
+      "2: Empire",
+      "1: Political_division",
+      "1: Autonomous_area",
+      "1: Local_government",
+      "1: Dependent_territories",
+      "1: Geographical_database",
+      "1: All_politics_is_local",
+      "1: Home_rule",
+      "1: Statute_law",
+      "1: Territorial_entities",
+      "1: County_seat",
+      "1: Cambridge,_Massachusetts",
+      "1: Boston",
+      "1: Massachusetts",
+      "1: Autonomous_communities",
+      "1: Autonomous_communities_of_Spain",
+      "1: United_Kingdom",
+      "1: Scotland",
+      "1: Constituency",
+      "1: Electoral_division",
+      "1: Namibia",
+      "1: Canton_of_St._Gallen",
+      "1: Switzerland",
+      "1: Despotate",
+      "1: District",
+      "1: Duchy",
+      "1: Monarchy",
+      "1: Rural_municipality",
+      "1: Regional_municipality",
+      "1: Regional_county_municipality",
+      "1: Okrug",
+      "1: Prefecture",
+      "1: Principality",
+      "1: Kingdom_of_the_Netherlands",
+      "1: Region",
+      "1: Republic",
+      "1: Constituent_state",
+      "1: Special_administrative_region",
+      "1: Voivodship",
+      "1: Borough",
+      "1: Burgh",
+      "1: City",
+      "1: Shire",
+      "1: Town",
+      "1: Township",
+      "1: Village",
+      "1: Tribe",
+      "1: Indian_reservation",
+      "1: Indian_reserve",
+      "1: Band_society",
+      "1: Administrative_division_codes_of_the_People's_Republic_of_China",
+      "1: GADM",
+      "1: ISO_3166-2",
+      "1: List_of_administrative_division_name_changes",
+      "1: List_of_current_constituent_monarchs",
+      "1: List_of_etymologies_of_country_subdivision_names",
+      "1: Table_of_administrative_divisions_by_country"
+   ]
+}

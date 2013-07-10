@@ -1,0 +1,56 @@
+{
+   "micrownet" : [
+      "slush_fund"
+   ],
+   "duck" : [
+      "HASH(0x4a670e0)",
+      "HASH(0x48355e0)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UN_IIC_report_faults_former_%22Oil-for-Food%22_director\" title=\"UN IIC report faults former &quot;Oil-for-Food&quot; director\">UN IIC report faults former &quot;Oil-for-Food&quot; director</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ontario_Votes_2007:_Interview_with_Progressive_Conservative_candidate_Dan_McCreary,_Brant\" title=\"Ontario Votes 2007: Interview with Progressive Conservative candidate Dan McCreary, Brant\">Ontario Votes 2007: Interview with Progressive Conservative candidate Dan McCreary, Brant</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Former_AWB_chairman_paid_almost_$1,000,000_by_AusAID\" title=\"Former AWB chairman paid almost $1,000,000 by AusAID\">Former AWB chairman paid almost $1,000,000 by AusAID</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465722,
+   "book" : [],
+   "micro-www" : {
+      "slush_fund" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Corruption",
+         "Financial crimes",
+         "Funds"
+      ],
+      "text" : "\n\n\nA 'slush fund', colloquially, is an auxiliary monetary account or a reserve\nfund. However, in the context of corrupt dealings, such as those by governments\nor large corporations, a slush fund can have particular connotations of\nillegality, illegitimacy, or secrecy in regard to the use of this money and the\nmeans by which the funds were acquired.\n\nPolitical dealings with slush funds tend to create suspicions of quid pro quo\n(buying political favors), and can be viewed on the surface as corrupt and\nsubversive of the democratic process. For example, Richard Nixon's \"Checkers\nspeech\" of 1952 was a successful effort to dispel a scandal concerning a rumored\nslush fund of campaign contributions. Years later Nixon's Watergate scandal did\ninvolve slush funds to buy the silence of the Watergate Plumbers.\n\nA slush fund can also be connected to amateur level athletics. In the past fifty\nyears, there have been multiple occurrences where boosters and supporters of a\ncollegiate sport program provide the school and coaches with extra money. This\nmoney is then distributed to a number of athletes in order to compensate them\nfor their participation and commitment to their program.\n\nSome of the most memorable scandals that involved slush funds with college\nathletics are: Southern Methodist University in 1986 and University of Michigan\nin the 1990s. Southern Methodist's football team was caught receiving money from\nthe school which was being funded by one of the boosters. The University of\nMichigan had one booster paying several of the Men's Basketball players,\nincluding NBA superstar Chris Webber.\n\nThe term slush fund is used in accounting to describe a general ledger account\nin which all manner of transactions can be posted to commingled funds and\n\"loose\" monies by debits and credits cancelling each other out.\n",
+      "title" : "slush fund",
+      "headings" : [
+         "Etymology",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "1: Political_corruption",
+      "1: Quid_pro_quo",
+      "1: Democratic_process",
+      "1: Richard_Nixon",
+      "1: Checkers_speech",
+      "1: Campaign_contribution",
+      "1: General_ledger",
+      "1: Debit",
+      "1: Glossary_of_nautical_terms",
+      "1: Fat",
+      "1: Yellow_grease",
+      "1: Salt-cured_meat"
+   ]
+}

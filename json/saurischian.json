@@ -1,0 +1,92 @@
+{
+   "micrownet" : [
+      "saurischian",
+      "saurischian_dinosaur"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/c/Saurischians\">Saurischians</a>",
+      "Saurischia",
+      "Saurischia (from the Greek sauros (σαυρος) meaning 'lizard' and ischion (ισχιον) meaning 'hip joint') is one of the two basic divisions of dinosaurs.",
+      "https://i.duckduckgo.com/i/706fd336.jpg"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373466571,
+   "book" : [],
+   "micro-www" : {
+      "saurischian" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Saurischians|"
+      ],
+      "text" : "{{Automatic taxobox |name = Saurischians |fossil_range = Late Triassic—Present,\n|image = Tyrannosaurus pelvis left.jpg |image_caption =\n[[Tyrannosaurus|Tyrannosaurus rex]] saurischian pelvis and hind limbs (left\nside). |authority = Seeley, 1888 |subdivision_ranks = Subgroups |subdivision =\n*[[Spondylosoma]]?\n* Herrerasauridae?\n* 'Eusaurischia' ** [[Eoraptor]] ** Sauropodomorpha ** Theropoda\n| synonyms =Harpagosauria <small>Haeckel, 1866</small>\n}} 'Saurischia' ( , from the Greek sauros (σαυρος) meaning 'lizard' and ischion\n(ισχιον) meaning 'hip joint')<ref>OED</ref> is one of the two basic divisions of\ndinosaurs. In 1888, Harry Seeley classified dinosaurs into two orders, based on\ntheir hip structure.<ref name=\"seeley1888\">Seeley, H.G. (1888). \"On the\nclassification of the fossil animals commonly named Dinosauria.\" Proceedings of\nthe Royal Society of London, '43': 165-171.</ref> Saurischians ('lizard-hipped')\nare distinguished from the ornithischians ('bird-hipped') by retaining the\nancestral configuration of bones in the hip.\n\nSauropod and theropod dinosaurs fall under the class Saurischia. Orinthischia\n(bird hipped dinosaurs) consists of Ceratopsian<nowiki/>s and dinosaurs such as\nParasaurolophus and Corythosaurus.\n\nAll carnivorous dinosaurs (the theropods) are saurischians, as are one of the\ntwo primary lineages of herbivorous dinosaurs, the sauropodomorphs. At the end\nof the Cretaceous Period, all saurischians except the birds became extinct. This\nis referred to as the Cretaceous–Paleogene extinction event. Avians (modern\nbirds), as direct descendants of one group of theropod dinosaurs,<ref\nname=\"padian2004\"></ref> are a sub-clade of saurischian dinosaurs in\nphylogenetic classification.\n",
+      "title" : "Saurischia",
+      "headings" : [
+         "Description",
+         "Classification",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "3: Theropoda",
+      "3: Dinosaurs",
+      "2: Sauropodomorpha",
+      "2: Ornithischia",
+      "2: Theropod",
+      "2: Bird",
+      "2: Clade",
+      "2: Sauropoda",
+      "2: Segnosaur",
+      "1: Late_Triassic",
+      "1: Harry_Govier_Seeley",
+      "1: Herrerasauridae",
+      "1: Ancient_Greek",
+      "1: Dinosaur",
+      "1: Harry_Seeley",
+      "1: Ceratopsian",
+      "1: Parasaurolophus",
+      "1: Corythosaurus",
+      "1: Carnivorous",
+      "1: Herbivorous",
+      "1: Sauropodomorph",
+      "1: Cretaceous",
+      "1: Extinct",
+      "1: CretaceousâPaleogene_extinction_event",
+      "1: Modern_birds",
+      "1: Phylogenetic_nomenclature",
+      "1: Pelvis",
+      "1: Ischium",
+      "1: Anatomy",
+      "1: Lizard",
+      "1: Avialae",
+      "1: Convergent_evolution",
+      "1: Omnivorous",
+      "1: Othniel_Charles_Marsh",
+      "1: Ornithopoda",
+      "1: Stegosauria",
+      "1: Archosaur",
+      "1: Polyphyletic",
+      "1: Cladistic",
+      "1: Robert_T._Bakker",
+      "1: Prosauropod",
+      "1: Cladogram",
+      "1: Thecodontosauridae",
+      "1: Prosauropoda",
+      "1: Ceratosauria",
+      "1: Coelophysoidea",
+      "1: Tetanurae",
+      "1: Spinosauroidea",
+      "1: Avetheropoda",
+      "1: Carnosauria",
+      "1: Coelurosauria"
+   ]
+}

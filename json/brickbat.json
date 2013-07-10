@@ -1,0 +1,34 @@
+{
+   "micrownet" : [
+      "brickbat"
+   ],
+   "duck" : [
+      "A piece, especially of brick, used as a weapon or missile.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=brickbat",
+      "HASH(0x4a09958)",
+      "The Free Dictionary",
+      "brickbat",
+      "http://www.merriam-webster.com/dictionary/brickbat",
+      "brickbat definition: a fragment of a hard material (as a brick); '''especially'''.",
+      "Merriam-Webster",
+      "HASH(0x4ab9598)",
+      "A piece, especially of brick, used as a weapon or missile.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465008,
+   "book" : [],
+   "micro-www" : {
+      "brickbat" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

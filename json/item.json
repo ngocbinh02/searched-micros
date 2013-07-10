@@ -1,0 +1,75 @@
+{
+   "micrownet" : [
+      "agenda_item",
+      "collector's_item",
+      "inventory_item",
+      "item",
+      "item-by-item",
+      "itemisation",
+      "itemise",
+      "itemization",
+      "itemize",
+      "line_item",
+      "news_item"
+   ],
+   "duck" : [
+      "Item",
+      "http://www.merriam-webster.com/dictionary/item",
+      "item definition: and in addition.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mahathma_Gandhi%27s_items_auctioned_for_$1.8_million\" title=\"Mahathma Gandhi&#39;s items auctioned for $1.8 million\">Mahathma Gandhi&#39;s <span class=\"searchmatch\">items</span> auctioned for $1.8 million</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Developing_nations_bring_technology_transfer_on_agenda_against_resistance_of_Canada,_Japan_and_US\" title=\"Developing nations bring technology transfer on agenda against resistance of Canada, Japan and US\">Developing nations bring technology transfer on agenda against resistance of Canada, Japan and US</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Subsidiary_body_at_Climate_conference_takes_up_Technology_transfer_as_agenda_item,_establishes_contact_group\" title=\"Subsidiary body at Climate conference takes up Technology transfer as agenda item, establishes contact group\"> takes up Technology transfer as agenda <span class=\"searchmatch\">item</span>, establishes contact group</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Big_shoes_to_fill_at_eBay\" title=\"Big shoes to fill at eBay\">Big shoes to fill at eBay</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Police_remove_valuables_from_unlocked_cars\" title=\"Police remove valuables from unlocked cars\">Police remove valuables from unlocked cars</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_drawing_by_Leonardo_Da_Vinci_found\" title=\"New drawing by Leonardo Da Vinci found\">New drawing by Leonardo Da Vinci found</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Documents_regarding_Kennedy_assassination_found_in_Dallas\" title=\"Documents regarding Kennedy assassination found in Dallas\">Documents regarding Kennedy assassination found in Dallas</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_policy_at_Madani_High_School_requires_non-Muslim_girls_to_wear_hijabs\" title=\"New policy at Madani High School requires non-Muslim girls to wear hijabs\">New policy at Madani High School requires non-Muslim girls to wear hijabs</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._negotiator_calls_Kyoto_Treaty_%22not_based_on_science%22\" title=\"U.S. negotiator calls Kyoto Treaty &quot;not based on science&quot;\">U.S. negotiator calls Kyoto Treaty &quot;not based on science&quot;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Discovery_Space_Shuttle_Launch_scheduled_for_July_13\" title=\"Discovery Space Shuttle Launch scheduled for July 13\">Discovery Space Shuttle Launch scheduled for July 13</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scotland_predicted_to_have_worst_recession_since_1980,_but_not_as_bad_as_rest_of_UK\" title=\"Scotland predicted to have worst recession since 1980, but not as bad as rest of UK\">Scotland predicted to have worst recession since 1980, but not as bad as rest of UK</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Judge_jails_two_men_for_life_over_Liam_Aitchison_murder\" title=\"Judge jails two men for life over Liam Aitchison murder\">Judge jails two men for life over Liam Aitchison murder</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Man_dies_in_North_Uist,_Outer_Hebrides_after_being_hit_by_car\" title=\"Man dies in North Uist, Outer Hebrides after being hit by car\">Man dies in North Uist, Outer Hebrides after being hit by car</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Wikipedians_support_the_Great_Orchestra_of_Christmas_Charity_by_bidding_on_Wikipedia_DVDs\" title=\"Wikipedians support the Great Orchestra of Christmas Charity by bidding on Wikipedia DVDs\">Wikipedians support the Great Orchestra of Christmas Charity by bidding on Wikipedia DVDs</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Five_arrested_in_Italian_art_smuggling\" title=\"Five arrested in Italian art smuggling\">Five arrested in Italian art smuggling</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/O.J._Simpson_named_suspect_in_robbery\" title=\"O.J. Simpson named suspect in robbery\">O.J. Simpson named suspect in robbery</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ozzy_Osbourne%27s_personal_possessions_fetch_$800,000_for_charity\" title=\"Ozzy Osbourne&#39;s personal possessions fetch $800,000 for charity\">Ozzy Osbourne&#39;s personal possessions fetch $800,000 for charity</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ten_April_Fool%27s_pranks_of_2009\" title=\"Ten April Fool&#39;s pranks of 2009\">Ten April Fool&#39;s pranks of 2009</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scissors,_screwdrivers_accepted_on_US_flights_beginning_December_22\" title=\"Scissors, screwdrivers accepted on US flights beginning December 22\">Scissors, screwdrivers accepted on US flights beginning December 22</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Spelbound_declared_winner_of_Britain%27s_Got_Talent_2010\" title=\"Spelbound declared winner of Britain&#39;s Got Talent 2010\">Spelbound declared winner of Britain&#39;s Got Talent 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Several_injured_at_campground_in_Maine_as_storm_topples_trees\" title=\"Several injured at campground in Maine as storm topples trees\">Several injured at campground in Maine as storm topples trees</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373473376,
+   "book" : [],
+   "micro-www" : {
+      "item" : [
+         "items",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Item' may refer to:\n",
+      "title" : "item",
+      "headings" : [
+         "Organizations",
+         "Newspapers",
+         "Other uses",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: ITeM",
+      "1: ITEM_club",
+      "1: Digital_Item"
+   ]
+}

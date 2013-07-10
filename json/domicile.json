@@ -1,0 +1,50 @@
+{
+   "micrownet" : [
+      "domicile"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Domicile",
+      "\n<a href=\"http://duckduckgo.com/Domicile_(astrology)\">Domicile (astrology)</a>, the zodiac sign over which a planet has rulership",
+      "HASH(0x4bfd378)",
+      "Wikipedia",
+      "Domicile",
+      "\n<a href=\"http://duckduckgo.com/Domicile_(law)\">Domicile (law)</a>, the status or attribution of being a permanent resident in a particular jurisdiction",
+      "http://www.merriam-webster.com/dictionary/domicile",
+      "domicile definition: a dwelling place.",
+      "Merriam-Webster",
+      "HASH(0x4bfda80)",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/World%27s_Largest_Ball_of_Twine_Turns_50\" title=\"World&#39;s Largest Ball of Twine Turns 50\">World&#39;s Largest Ball of Twine Turns 50</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_government_plans_to_replace_House_of_Lords_with_elected_chamber\" title=\"UK government plans to replace House of Lords with elected chamber\">UK government plans to replace House of Lords with elected chamber</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Digest/22November2004\" title=\"Digest/22November2004\">Digest/22November2004</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462229,
+   "book" : [],
+   "micro-www" : {
+      "domicile" : [
+         "Domicile_(law)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Domicile' may refer to:\n\n* In architecture, a general term for a place of residence<!--leave link to\n  article dab since \"residence\" can mean multiple kinds of builings/places where\n  one resides--> or \"permanent residence\" in legal terms\n* Domicile (astrology), the zodiac sign over which a planet has rulership\n* Domicile (law), the status or attribution of being a permanent resident in a\n  particular jurisdiction\n* Domicile (airline), a location where aircrew are centered to staff aircraft.\n  These locations are typically at a scheduled service passenger airline's,\n  cargo airline's, or charter airline's main focus city or hub in larger\n  metropolitan areas.\n* In product packaging, the manufacturer information, sometimes located near the\n  UPC or on the side of the package <!--* Domicile, a thrash metal band from\n  Manchester, England-->\n",
+      "title" : "domicile",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Aircrew",
+      "1: Packaging"
+   ]
+}

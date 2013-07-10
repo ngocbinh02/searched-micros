@@ -1,0 +1,68 @@
+{
+   "micrownet" : [
+      "chemical_decomposition_reaction",
+      "decomposition_reaction",
+      "double_decomposition_reaction"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373467006,
+   "book" : [],
+   "micro-www" : {
+      "decomposition_reaction" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Inorganic chemistry",
+         "Organic chemistry",
+         "Chemical reactions"
+      ],
+      "text" : "'Chemical decomposition', 'analysis' or 'breakdown' is the separation of a\nchemical compound into elements or simpler compounds. It is sometimes defined as\nthe exact opposite of a chemical synthesis. Chemical decomposition is often an\nundesired chemical reaction. The stability that a chemical compound ordinarily\nhas is eventually limited when exposed to extreme environmental conditions like\nheat, radiation, humidity or the acidity of a solvent. The details of\ndecomposition processes are generally not well defined, as a molecule may break\nup into a host of smaller fragments. Chemical decomposition is exploited in\nseveral analytical techniques, notably mass spectrometry, traditional\ngravimetric analysis, and thermogravimetric analysis.\n\nA broader definition of the term 'decomposition' also includes the breakdown of\none phase into two or more phases.<ref name=\"Gold\"></ref>\n\nThere are three broad types of decomposition reactions: thermal, electrolytic\nand catalytic.\n",
+      "title" : "Chemical%20decomposition",
+      "headings" : [
+         "Reaction formula",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "1: Chemical_compound",
+      "1: Chemical_element",
+      "1: Chemical_synthesis",
+      "1: Chemical_reaction",
+      "1: Heat",
+      "1: Radiation",
+      "1: Humidity",
+      "1: Acidity",
+      "1: Solvent",
+      "1: Molecule",
+      "1: Mass_spectrometry",
+      "1: Gravimetric_analysis",
+      "1: Thermogravimetric_analysis",
+      "1: Electrolysis",
+      "1: Hydrogen",
+      "1: Oxygen",
+      "1: Hydrogen_peroxide",
+      "1: Carbonate",
+      "1: Carbonic_acid",
+      "1: Carbon_dioxide",
+      "1: Metal",
+      "1: Oxide",
+      "1: Calcium_carbonate",
+      "1: Chlorate",
+      "1: Chloride",
+      "1: Potassium_chlorate",
+      "1: Analytical_chemistry",
+      "1: Thermal_decomposition"
+   ]
+}

@@ -1,0 +1,79 @@
+{
+   "micrownet" : [
+      "tawny_eagle"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373473161,
+   "book" : [],
+   "micro-www" : {
+      "tawny_eagle" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Aquila (genus)",
+         "Eagles",
+         "Birds of Pakistan",
+         "Birds of Iran|Eagle, Tawny",
+         "Birds of India",
+         "Birds of Africa",
+         "Birds of South Africa",
+         "Birds of Tanzania",
+         "Animals described in 1828",
+         "Birds of Cameroon"
+      ],
+      "text" : "{{Taxobox\n| name = Tawny Eagle status = LC status_system = IUCN3.1 status_ref =\n| <ref></ref> image = 2012-tawny-eagle-0.jpg image_caption = From Etosha\n| National Park regnum = Animalia phylum = Chordata classis = Aves ordo =\n| Accipitriformes familia = Accipitridae genus = [[Aquila (genus)|Aquila]]\n| species = 'A. rapax' binomial = Aquila rapax binomial_authority = (Temminck,\n| 1828) synonyms =\nAquila rapax rapax }} The 'Tawny Eagle' (Aquila rapax) is a large bird of prey.\nLike all eagles, it belongs to the family Accipitridae. It was once considered\nto be closely related to the migratory Steppe Eagle, Aquila nipalensis, and the\ntwo forms have previously been treated as conspecific. They were split based on\npronounced differences in morphology and anatomy;<ref>Clark, W. S. (1992): The\ntaxonomy of Steppe and Tawny Eagles, with criteria for separation of museum\nspecimens and live eagles. Bull. B.O.C. '112': 150–157</ref><ref>Olson, Storrs\nL. (1994): Cranial osteology of Tawny and Steppe Eagles Aquila rapax and A.\nnipalensis. Bull. B.O.C. '114': 264–267</ref><ref>Sangster, George; Knox, Alan\nG.; Helbig, Andreas J. & Parkin, David T. (2002): Taxonomic recommendations for\nEuropean birds. Ibis '144'(1): 153–159 [http://www.blackwell-synergy.com/doi/pdf/10.1046/j.0019-\n1019.2001.00026.x PDF fulltext]</ref> two molecular studies, each based on a\nvery small number of genes, indicate that the species are distinct but disagree\nover how closely related they are.<ref>http://www.globalraptors.org/grin/Specie-\nsResults.asp?specID=8167</ref><!-- compare with Olson, 1994 -->\n\nIt breeds in most of Africa both north and south of the Sahara Desert and across\ntropical southwestern Asia to India. It is a resident breeder which lays 1–3\neggs in a stick nest in a tree, crag or on the ground.\n\nThroughout its range it favours open dry habitats, such as desert, semi-desert,\nsteppes, or savannah, plains.\n",
+      "title" : "Tawny%20Eagle",
+      "headings" : [
+         "Description",
+         "Behaviour",
+         "Gallery",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "3: India",
+      "2: Eagle",
+      "2: Bulletin_of_the_British_Ornithologists'_Club",
+      "1: Etosha_National_Park",
+      "1: Animal",
+      "1: Chordate",
+      "1: Bird",
+      "1: Accipitriformes",
+      "1: Accipitridae",
+      "1: Coenraad_Jacob_Temminck",
+      "1: Bird_of_prey",
+      "1: Bird_migration",
+      "1: Steppe_Eagle",
+      "1: Africa",
+      "1: Sahara_Desert",
+      "1: Asia",
+      "1: Bird_egg",
+      "1: Bird_nest",
+      "1: Habitat",
+      "1: Desert",
+      "1: Steppe",
+      "1: Savannah",
+      "1: Plumage",
+      "1: Carrion",
+      "1: Mammal",
+      "1: Rabbit",
+      "1: Reptile",
+      "1: Guineafowl",
+      "1: Crow",
+      "1: Black-backed_jackal",
+      "1: England",
+      "1: Jaisalmer",
+      "1: Black_Kite"
+   ]
+}

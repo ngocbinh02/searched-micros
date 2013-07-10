@@ -1,0 +1,63 @@
+{
+   "micrownet" : [
+      "mental_lexicon"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373473534,
+   "book" : [],
+   "micro-www" : {
+      "mental_lexicon" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Linguistics",
+         "Mental content"
+      ],
+      "text" : "\n\nThe 'mental lexicon' is defined as a mental dictionary that contains information\nregarding a word's meaning, pronunciation, syntactic characteristics, and so\non.' <ref>{{cite book|last=Jackendoff|first=R.S|title=Foundations of Language:\nBrain, Meaning, Grammar, and Evolution|year=2002|publisher=Oxford University\nPress}}</ref>'Although this definition has been challenged over the years, this\nremains the most consistent definition of the term.<ref></ref>\n\nThe mental lexicon is a construct used in linguistics and psycholinguistics to\nrefer to individual speakers’ lexical, or word, representations. However, not\nall scientists agree as to the utility of the mental lexicon as a scientific\nconstruct.\n\nThe mental lexicon differs from the lexicon in that it is not just a general\ncollection of words; instead, it deals with how those words are activated,\nstored, processed, and retrieved by each speaker. An individual’s mental lexicon\nchanges and grows as new words are learned and is always developing, but there\nare several theorists that argue exactly how this occurs. Some theories about\nthe mental lexicon include the Spectrum Theory, the Dual-coding theory,\nChomsky’s Nativist theory, as well as the Semantic Network Theory. Scientists\nalso study the areas of the brain involved in lexical representations. The\nfollowing addresses some of the physiological, social, and linguistic aspects of\nthe mental lexicon.\n\nRecent studies have also shown the possibility that the mental lexicon can\nshrink as an individual ages, limiting the amount of words they can remember and\nlearn.<ref></ref> The development of a second mental lexicon (L2) in bilingual\nspeakers has also emerged as a topic of interest, suggesting that a speaker's\nmultiple languages are not stored together, but as separate entities that are\nactively chosen from in each linguistic situation.<ref name=jiang></ref>\n",
+      "title" : "mental lexicon",
+      "headings" : [
+         "Methods of inquiry",
+         "Theories and perspectives",
+         "Development",
+         "Brain and the mental lexicon",
+         "Impaired access",
+         "Shrinking of the Mental Lexicon",
+         "Other Considerations",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Fast_mapping",
+      "2: Lexeme",
+      "2: Lemma",
+      "1: Linguistics",
+      "1: Psycholinguistics",
+      "1: Mental_representation",
+      "1: Lexicon",
+      "1: Dual-coding_theory",
+      "1: Chomsky",
+      "1: Universal_grammar",
+      "1: Slips_of_the_tongue",
+      "1: Lexical_decision_task",
+      "1: Dual_coding_theory",
+      "1: Common_coding_theory",
+      "1: Temporal_lobe",
+      "1: Parietal_lobe",
+      "1: Anomic_aphasia",
+      "1: Aphasia",
+      "1: Expressive",
+      "1: Receptive_aphasia",
+      "1: Alzheimer's_disease",
+      "1: Nonce_words"
+   ]
+}

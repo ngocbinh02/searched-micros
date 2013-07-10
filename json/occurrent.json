@@ -1,0 +1,35 @@
+{
+   "micrownet" : [
+      "occurrent"
+   ],
+   "duck" : [
+      "The action, fact, or instance of occurring.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=occurrent",
+      "HASH(0x4a5e948)",
+      "The Free Dictionary",
+      "occurrent",
+      "http://www.merriam-webster.com/dictionary/occurrent",
+      "occurrent definition: occurring at a particular time or place.",
+      "Merriam-Webster",
+      "HASH(0x4a5e1e0)",
+      "The action, fact, or instance of occurring.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465808,
+   "book" : [],
+   "micro-www" : {
+      "occurrent" : [
+         "Occurrent_belief",
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

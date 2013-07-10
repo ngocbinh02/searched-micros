@@ -1,0 +1,94 @@
+{
+   "micrownet" : [
+      "fair_use",
+      "in_use",
+      "use",
+      "use_immunity",
+      "use_up",
+      "useable",
+      "useableness",
+      "used",
+      "used-car",
+      "used-car_lot",
+      "used_to",
+      "useful",
+      "usefulness",
+      "useless",
+      "uselessness",
+      "user",
+      "user-friendly",
+      "user_interface"
+   ],
+   "duck" : [
+      "Use",
+      "http://www.merriam-webster.com/dictionary/use",
+      "\n<a href=\"http://duckduckgo.com/Use_(law)\">Use (law)</a>, an obligation on a person to whom property has been conveyed",
+      "\n<a href=\"http://duckduckgo.com/User_story\">User story</a> - In software development and product management, a user story is one or more sentences in the everyday or business language of the end user or user of a system that captures what a user does or n...",
+      "\n<a href=\"http://duckduckgo.com/Use_case\">Use case</a> - In software and systems engineering, a use case  is a list of steps, typically defining interactions between a role and a system, to achieve a goal.",
+      "use definition: the act or practice of employing something.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Use%E2%80%93mention_distinction\">Use–mention distinction</a>, the distinction between using a word and mentioning it"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bart_Simpson_used_to_promote_Scientology\" title=\"Bart Simpson used to promote Scientology\">Bart Simpson <span class=\"searchmatch\">used</span> to promote Scientology</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scientists_create_micro-battery_using_3D_printing\" title=\"Scientists create micro-battery using 3D printing\">Scientists create micro-battery <span class=\"searchmatch\">using</span> 3D printing</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Gaddafi_loyalists_allegedly_using_Red_Cross_helicopters_to_bomb_rebel_held_city\" title=\"Gaddafi loyalists allegedly using Red Cross helicopters to bomb rebel held city\">Gaddafi loyalists allegedly <span class=\"searchmatch\">using</span> Red Cross helicopters to bomb rebel held city</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scots_report_crime_using_Facebook\" title=\"Scots report crime using Facebook\">Scots report crime <span class=\"searchmatch\">using</span> Facebook</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Iraqi_insurgents_intercepted_drone_feeds_using_widely_available_software\" title=\"Iraqi insurgents intercepted drone feeds using widely available software\">Iraqi insurgents intercepted drone feeds <span class=\"searchmatch\">using</span> widely available software</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Expelled%27_fair_use_upheld\" title=\"&#39;Expelled&#39; fair use upheld\">&#39;Expelled&#39; fair <span class=\"searchmatch\">use</span> upheld</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Rafael_Palmeiro_suspended_for_using_steroids\" title=\"Rafael Palmeiro suspended for using steroids\">Rafael Palmeiro suspended for <span class=\"searchmatch\">using</span> steroids</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Japanese_researchers_create_smell_sensor_using_genetically_engineered_frog_eggs\" title=\"Japanese researchers create smell sensor using genetically engineered frog eggs\">Japanese researchers create smell sensor <span class=\"searchmatch\">using</span> genetically engineered frog eggs</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Researchers:_Wild_gorillas_seen_using_tools\" title=\"Researchers: Wild gorillas seen using tools\">Researchers: Wild gorillas seen <span class=\"searchmatch\">using</span> tools</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK%27s_highest_court_to_rule_on_use_of_information_extracted_under_torture\" title=\"UK&#39;s highest court to rule on use of information extracted under torture\">UK&#39;s highest court to rule on <span class=\"searchmatch\">use</span> of information extracted under torture</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_admits_use_of_white_phosphorus_in_Iraq\" title=\"US admits use of white phosphorus in Iraq\">US admits <span class=\"searchmatch\">use</span> of white phosphorus in Iraq</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Two_thousand_people_use_bodies_to_create_message_on_Pichilemu_beach\" title=\"Two thousand people use bodies to create message on Pichilemu beach\">Two thousand people <span class=\"searchmatch\">use</span> bodies to create message on Pichilemu beach</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Test_article_for_dev_use\" title=\"Test article for dev use\">Test article for dev <span class=\"searchmatch\">use</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_scientists_discover_multiple_antibiotics_used_by_fungus-farming_ants_to_protect_colonies\" title=\"UK scientists discover multiple antibiotics used by fungus-farming ants to protect colonies\">UK scientists discover multiple antibiotics <span class=\"searchmatch\">used</span> by fungus-farming ants to protect colonies</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NASA_considers_continuing_shuttle_use_after_2010\" title=\"NASA considers continuing shuttle use after 2010\">NASA considers continuing shuttle <span class=\"searchmatch\">use</span> after 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Teen_charged_over_%27bomb_attempt%27_at_US_Christmas_celebration\" title=\"Teen charged over &#39;bomb attempt&#39; at US Christmas celebration\">Teen charged over &#39;bomb attempt&#39; at US Christmas celebration</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Teen_charged_with_attempting_to_use_bomb_at_US_Christmas_celebration\" title=\"Teen charged with attempting to use bomb at US Christmas celebration\">Teen charged with attempting to <span class=\"searchmatch\">use</span> bomb at US Christmas celebration</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Drug_addicts_used_in_police_training\" title=\"Drug addicts used in police training\">Drug addicts <span class=\"searchmatch\">used</span> in police training</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Puppies_used_to_smuggle_heroin\" title=\"Puppies used to smuggle heroin\">Puppies <span class=\"searchmatch\">used</span> to smuggle heroin</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/FBI_document_reviews_symbols_used_by_pedophiles\" title=\"FBI document reviews symbols used by pedophiles\">FBI document reviews symbols <span class=\"searchmatch\">used</span> by pedophiles</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Virginians_melee_at_used_Apple_iBook_sale\" title=\"Virginians melee at used Apple iBook sale\">Virginians melee at <span class=\"searchmatch\">used</span> Apple iBook sale</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373467586,
+   "book" : [],
+   "micro-www" : {
+      "use" : [
+         "usefulness",
+         "User_profile",
+         "User_interface",
+         "User_experience_design",
+         "User_Datagram_Protocol",
+         "User_(computing)",
+         "User:AaronSw",
+         "Usenet_newsgroup",
+         "Usenet_Death_Penalty",
+         "Usenet",
+         "Use_of_force",
+         "Use_case",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Use' may refer to:\n\n* Use (law), an obligation on a person to whom property has been conveyed\n* Use–mention distinction, the distinction between using a word and\n  mentioning it\n",
+      "title" : "use",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Useâmention_distinction",
+      "1: Use_case",
+      "1: User_story"
+   ]
+}

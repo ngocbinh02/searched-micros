@@ -1,0 +1,63 @@
+{
+   "micrownet" : [
+      "life-time"
+   ],
+   "duck" : [
+      "HASH(0x49eb798)",
+      "HASH(0x49e9a88)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Over_200_skiers_trapped_as_lift_breaks_at_Maine_resort\" title=\"Over 200 skiers trapped as lift breaks at Maine resort\">Over 200 skiers trapped as lift breaks at Maine resort</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hubble_Space_Telescope_successor_unveiled_by_NASA\" title=\"Hubble Space Telescope successor unveiled by NASA\">Hubble Space Telescope successor unveiled by NASA</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_emergency_services_personnel_exposed_to_asbestos\" title=\"Australian emergency services personnel exposed to asbestos\">Australian emergency services personnel exposed to asbestos</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/38_miners_killed_in_Russian_mine_explosion\" title=\"38 miners killed in Russian mine explosion\">38 miners killed in Russian mine explosion</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Patron_of_Republican_Sinn_F%C3%A9in_Dan_Keating_dies_at_age_105\" title=\"Patron of Republican Sinn Féin Dan Keating dies at age 105\">Patron of Republican Sinn Féin Dan Keating dies at age 105</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Study_claims_to_show_difference_between_male_and_female_brains\" title=\"Study claims to show difference between male and female brains\">Study claims to show difference between male and female brains</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ontario_Votes_2007:_Interview_with_Green_Party_candidate_Torbjorn_Zetterlund,_Willowdale\" title=\"Ontario Votes 2007: Interview with Green Party candidate Torbjorn Zetterlund, Willowdale\">Ontario Votes 2007: Interview with Green Party candidate Torbjorn Zetterlund, Willowdale</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Search_and_rescue_beacons_soon_to_make_the_digital_jump\" title=\"Search and rescue beacons soon to make the digital jump\">Search and rescue beacons soon to make the digital jump</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Expelled%27_producers_accused_of_copyright_violations\" title=\"&#39;Expelled&#39; producers accused of copyright violations\">&#39;Expelled&#39; producers accused of copyright violations</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Good_Friday_Appeal_achieves_fund-raising_record\" title=\"Good Friday Appeal achieves fund-raising record\">Good Friday Appeal achieves fund-raising record</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Japanese_researchers_create_smell_sensor_using_genetically_engineered_frog_eggs\" title=\"Japanese researchers create smell sensor using genetically engineered frog eggs\">Japanese researchers create smell sensor using genetically engineered frog eggs</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/California_judge_jails_Michael_Jackson_doctor\" title=\"California judge jails Michael Jackson doctor\">California judge jails Michael Jackson doctor</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Coordinated_terrorist_attack_hits_London\" title=\"Coordinated terrorist attack hits London\">Coordinated terrorist attack hits London</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/National_Museum_of_Scotland_reopens_after_three-year_redevelopment\" title=\"National Museum of Scotland reopens after three-year redevelopment\">National Museum of Scotland reopens after three-year redevelopment</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Two_politicians_jailed_for_life_over_Rwandan_genocide\" title=\"Two politicians jailed for life over Rwandan genocide\">Two politicians jailed for <span class=\"searchmatch\">life</span> over Rwandan genocide</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bush_signs_historic_Schiavo_bill_into_law\" title=\"Bush signs historic Schiavo bill into law\">Bush signs historic Schiavo bill into law</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Woman_killed_in_shark_attack_at_Amity_Point,_Australia\" title=\"Woman killed in shark attack at Amity Point, Australia\">Woman killed in shark attack at Amity Point, Australia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Contestant_seriously_injured_during_live_German_game_show\" title=\"Contestant seriously injured during live German game show\">Contestant seriously injured during live German game show</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Indian_Children%27s_Games\" title=\"Indian Children&#39;s Games\">Indian Children&#39;s Games</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373462664,
+   "book" : [],
+   "micro-www" : {
+      "life-time" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Lifetime' may refer to:\n\n*Life expectancy, the length of time a person is expected to remain alive *Mean\nlifetime, a certain number that characterizes the rate of reduction (\"decay\") of\na particle of an assembly *Service life, a product's expected lifetime, or the\nacceptable period of use in service *Object lifetime, in object-oriented\nprogramming, the time between an object's creation until the object is no longer\nused *Lifetime (TV network), a cable television programming network geared\ntowards women *Lifetime (Canada), the Canadian version of the TV channel of the\nsame name. *Lifetime Products, a manufacturer of tables, chairs, outdoor sheds,\nutility trailers, and residential basketball equipment\n",
+      "title" : "lifetime",
+      "headings" : [
+         "Music",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "1: Life_expectancy",
+      "1: Mean_lifetime",
+      "1: Service_life",
+      "1: Object_lifetime",
+      "1: Lifetime_Products",
+      "1: The_Tony_Williams_Lifetime",
+      "1: A_Lifetime"
+   ]
+}

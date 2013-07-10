@@ -1,0 +1,80 @@
+{
+   "micrownet" : [
+      "matrix_algebra"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_mathematician_Nick_Higham_wins_Fr%C3%B6hlich_Prize\" title=\"UK mathematician Nick Higham wins FrÃ¶hlich Prize\">UK mathematician Nick Higham wins FrÃ¶hlich Prize</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373469579,
+   "book" : [],
+   "micro-www" : {
+      "matrix_algebra" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Algebraic structures",
+         "Ring theory",
+         "Matrix theory"
+      ],
+      "text" : "\n\nIn abstract algebra, a 'matrix ring' is any collection of matrices forming a\nring under matrix addition and matrix multiplication. The set of n&times;n\nmatrices with entries from another ring is a matrix ring, as well as some\nsubsets of infinite matrices which form 'infinite matrix rings'. Any subrings of\nthese matrix rings are also called matrix rings.\n\nIn the case when R is a commutative ring, then the matrix ring M<sub>n</sub>(R)\nis an associative algebra which may be called a 'matrix algebra'. In this\nsituation, if M is a matrix and r is in R, then the matrix Mr is the matrix M\nwith each of its entries multiplied by r.\n\nIt is assumed throughout that R is an associative ring with a unit\n1&nbsp;≠&nbsp;0, although matrix rings can be formed over rings without unity.\n",
+      "title" : "Matrix%20ring",
+      "headings" : [
+         "Examples",
+         "Structure",
+         "Properties",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "3: Commutative_ring",
+      "3: Simple_ring",
+      "2: Matrix_multiplication",
+      "2: Zero_divisor",
+      "2: Division_ring",
+      "2: Identity_matrix",
+      "2: Artinian_ring",
+      "1: Abstract_algebra",
+      "1: Matrix_addition",
+      "1: Associative_algebra",
+      "1: Associative_ring",
+      "1: Triangular_matrices",
+      "1: Normed_algebra",
+      "1: Absolutely_convergent_series",
+      "1: Hilbert_space#Operators_on_Hilbert_spaces",
+      "1: 2_Ã_2_real_matrices",
+      "1: Quaternion",
+      "1: Matrix_unit",
+      "1: Nonsingular_matrix",
+      "1: General_linear_group",
+      "1: *-algebra",
+      "1: Matrix_transpose",
+      "1: Complex_number",
+      "1: Angular_momentum",
+      "1: Pauli_matrices",
+      "1: Biquaternion",
+      "1: Frobenius_algebra",
+      "1: Ring_of_endomorphisms",
+      "1: Free_module",
+      "1: Semisimple_ring",
+      "1: Full_linear_ring",
+      "1: ArtinâWedderburn_theorem",
+      "1: Morita_equivalent",
+      "1: Noetherian_ring",
+      "1: Prime_ring",
+      "1: Morita_equivalence",
+      "1: Nilpotent_element",
+      "1: Central_simple_algebra",
+      "1: Clifford_algebra"
+   ]
+}

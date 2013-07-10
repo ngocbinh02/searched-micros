@@ -1,0 +1,28 @@
+{
+   "micrownet" : [
+      "rootlet"
+   ],
+   "duck" : [
+      "rootlet",
+      "rootlet definition: a small root.",
+      "http://www.merriam-webster.com/dictionary/rootlet",
+      "rootlet definition: a small root.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373470440,
+   "book" : [],
+   "micro-www" : {
+      "rootlet" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

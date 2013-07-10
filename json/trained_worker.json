@@ -1,0 +1,43 @@
+{
+   "micrownet" : [
+      "trained_worker"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/FEMA_accused_of_misusing_trained_disaster_workers_as_public-relations_workers\" title=\"FEMA accused of misusing trained disaster workers as public-relations workers\">FEMA accused of misusing <span class=\"searchmatch\">trained</span> disaster <span class=\"searchmatch\">workers</span> as public-relations <span class=\"searchmatch\">workers</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Minimum_wage_to_be_increased_in_New_Zealand\" title=\"Minimum wage to be increased in New Zealand\">Minimum wage to be increased in New Zealand</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Three_Massachusetts_workers_dead_after_water_pipe_explosion_at_power_plant\" title=\"Three Massachusetts workers dead after water pipe explosion at power plant\">Three Massachusetts <span class=\"searchmatch\">workers</span> dead after water pipe explosion at power plant</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/FEMA_employees_pose_as_fake_reporters_during_press_conference\" title=\"FEMA employees pose as fake reporters during press conference\">FEMA employees pose as fake reporters during press conference</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/McDonald%27s_petitions_Oxford_English_Dictionary_to_remove_the_word_McJob\" title=\"McDonald&#39;s petitions Oxford English Dictionary to remove the word McJob\">McDonald&#39;s petitions Oxford English Dictionary to remove the word McJob</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NTSB_releases_updates_on_status_of_3_major_US_investigations\" title=\"NTSB releases updates on status of 3 major US investigations\">NTSB releases updates on status of 3 major US investigations</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/FARC_and_Brazilian_Workers%27_Party:the_general_didn%27t_tell_the_truth,_says_former_Abin_superior_to_Veja\" title=\"FARC and Brazilian Workers&#39; Party:the general didn&#39;t tell the truth, says former Abin superior to Veja\">FARC and Brazilian <span class=\"searchmatch\">Workers</span>&#39; Party:the general didn&#39;t tell the truth, says former Abin superior to Veja</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sydney_prepares_for_Forbes_Conference_and_30A_protest\" title=\"Sydney prepares for Forbes Conference and 30A protest\">Sydney prepares for Forbes Conference and 30A protest</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_Police_Commissioner:_Activist_groups_%27trained_to_disrupt_and_undermine%27\" title=\"Australian Police Commissioner: Activist groups &#39;trained to disrupt and undermine&#39;\">Australian Police Commissioner: Activist groups &#39;<span class=\"searchmatch\">trained</span> to disrupt </a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/London_bomb_survivors_launch_campaign_for_public_inquiry\" title=\"London bomb survivors launch campaign for public inquiry\">London bomb survivors launch campaign for public inquiry</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/More_bodies_recovered_from_capsized_boat_in_Kerala,_India\" title=\"More bodies recovered from capsized boat in Kerala, India\">More bodies recovered from capsized boat in Kerala, India</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Argentinian_workers_preparing_to_defend_control_of_factory\" title=\"Argentinian workers preparing to defend control of factory\">Argentinian <span class=\"searchmatch\">workers</span> preparing to defend control of factory</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/G20_protests:_Inside_a_labour_march\" title=\"G20 protests: Inside a labour march\">G20 protests: Inside a labour march</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/China_offers_Africa_financial_aid_including_$10_billion_in_loans\" title=\"China offers Africa financial aid including $10 billion in loans\">China offers Africa financial aid including $10 billion in loans</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_Defence_Department_funds_controversial_development_training\" title=\"Australian Defence Department funds controversial development training\">Australian Defence Department funds controversial development training</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Interview_with_US_political_activist_and_philosopher_Noam_Chomsky\" title=\"Interview with US political activist and philosopher Noam Chomsky\">Interview with US political activist and philosopher Noam Chomsky</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2006_U.S._Congressional_Elections\" title=\"2006 U.S. Congressional Elections\">2006 U.S. Congressional Elections</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Kucinich_asks_Bush_about_alleged_US_support_for_armed_insurgency_in_Iran\" title=\"Kucinich asks Bush about alleged US support for armed insurgency in Iran\">Kucinich asks Bush about alleged US support for armed insurgency in Iran</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Race_to_save_Chilean_miners_trapped_underground_from_spiralling_into_depression_continues\" title=\"Race to save Chilean miners trapped underground from spiralling into depression continues\">Race to save Chilean miners trapped underground from spiralling into depression continues</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Iraqi_TV_presenter_Riad_al-Saray_shot_dead_in_Baghdad\" title=\"Iraqi TV presenter Riad al-Saray shot dead in Baghdad\">Iraqi TV presenter Riad al-Saray shot dead in Baghdad</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373469841,
+   "book" : [],
+   "micro-www" : {
+      "trained_worker" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

@@ -1,0 +1,111 @@
+{
+   "micrownet" : [
+      "civil_rights_worker",
+      "construction_worker",
+      "dock_worker",
+      "factory_worker",
+      "farm_worker",
+      "fellow_worker",
+      "garment_worker",
+      "guest_worker",
+      "hard_worker",
+      "line_worker",
+      "medical_social_worker",
+      "miracle_worker",
+      "power-station_worker",
+      "power_worker",
+      "research_worker",
+      "seasonal_worker",
+      "skilled_worker",
+      "social_worker",
+      "temporary_worker",
+      "trained_worker",
+      "unpaid_worker",
+      "welfare_worker",
+      "worker",
+      "worker_bee"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Norman_Worker\">Norman Worker</a> (1927–2005), British comic book writer",
+      "Worker",
+      "http://www.merriam-webster.com/dictionary/worker",
+      "\n<a href=\"http://duckduckgo.com/George_Worker\">George Worker</a> (born 1989), New Zealand cricketer",
+      "worker definition: one that works especially at manual or industrial labor or with a particular material.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/workforce\">workforce</a> - The workforce is the labour pool in employment.",
+      "\n<a href=\"http://duckduckgo.com/Laborer\">Laborer</a>, a person who performs labour",
+      "\n<a href=\"http://duckduckgo.com/Web_worker\">Web worker</a>, in computer science, is a script that runs \"in the background\" in a web browser"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Kurdistan_Workers_Party\" title=\"Kurdistan Workers Party\">Kurdistan <span class=\"searchmatch\">Workers</span> Party</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Kurdistan_Workers%27_Party\" title=\"Kurdistan Workers&#39; Party\">Kurdistan <span class=\"searchmatch\">Workers</span>&#39; Party</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/French_workers_use_threats_in_compensation_demand\" title=\"French workers use threats in compensation demand\">French <span class=\"searchmatch\">workers</span> use threats in compensation demand</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Greek_workers_strike_over_austerity_measures\" title=\"Greek workers strike over austerity measures\">Greek <span class=\"searchmatch\">workers</span> strike over austerity measures</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Two_UN_contract_workers_kidnapped_in_Somalia\" title=\"Two UN contract workers kidnapped in Somalia\">Two UN contract <span class=\"searchmatch\">workers</span> kidnapped in Somalia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NASA_says_worker_tried_to_sabotage_ISS\" title=\"NASA says worker tried to sabotage ISS\">NASA says <span class=\"searchmatch\">worker</span> tried to sabotage ISS</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/A_1-year_long_strike_against_FMC_Novamed:_Women_workers_allege_unfair_treatment\" title=\"A 1-year long strike against FMC Novamed: Women workers allege unfair treatment\">A 1-year long strike against FMC Novamed: Women <span class=\"searchmatch\">workers</span> allege unfair treatment</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_study_highlights_child_abuse_by_humanitarian_workers\" title=\"UK study highlights child abuse by humanitarian workers\">UK study highlights child abuse by humanitarian <span class=\"searchmatch\">workers</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Kenya_government_fires_health_worker_strikers_over_failure_to_%27report_back_to_work%27\" title=\"Kenya government fires health worker strikers over failure to &#39;report back to work&#39;\">Kenya government fires health <span class=\"searchmatch\">worker</span> strikers over failure to &#39;report back to work&#39;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/South_Korean_police_battle_striking_workers\" title=\"South Korean police battle striking workers\">South Korean police battle striking <span class=\"searchmatch\">workers</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Vestas_protesters_sacked_with_immediate_effect\" title=\"Vestas protesters sacked with immediate effect\">Vestas protesters sacked with immediate effect</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Trade_union_offers_legal_representation,_airlifted_supplies_to_Vestas_workers\" title=\"Trade union offers legal representation, airlifted supplies to Vestas workers\"> union offers legal representation, airlifted supplies to Vestas <span class=\"searchmatch\">workers</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Toronto_transit_workers_strike_illegally\" title=\"Toronto transit workers strike illegally\">Toronto transit <span class=\"searchmatch\">workers</span> strike illegally</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Migrant_workers_in_Dominos_Pizza_%27slavery%27\" title=\"Migrant workers in Dominos Pizza &#39;slavery&#39;\">Migrant <span class=\"searchmatch\">workers</span> in Dominos Pizza &#39;slavery&#39;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Argentinian_workers_preparing_to_defend_control_of_factory\" title=\"Argentinian workers preparing to defend control of factory\">Argentinian <span class=\"searchmatch\">workers</span> preparing to defend control of factory</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/South_African_farm_worker_gets_life_for_Terre%27Blanche_murder\" title=\"South African farm worker gets life for Terre&#39;Blanche murder\">South African farm <span class=\"searchmatch\">worker</span> gets life for Terre&#39;Blanche murder</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Postal_worker_saves_baby%27s_life\" title=\"Postal worker saves baby&#39;s life\">Postal <span class=\"searchmatch\">worker</span> saves baby&#39;s life</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Kidnapped_Spanish_aid_worker_is_released\" title=\"Kidnapped Spanish aid worker is released\">Kidnapped Spanish aid <span class=\"searchmatch\">worker</span> is released</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Khamenei_criticizes_%22materialistic_values%22_for_mistreatment_of_workers\" title=\"Khamenei criticizes &quot;materialistic values&quot; for mistreatment of workers\">Khamenei criticizes &quot;materialistic values&quot; for mistreatment of <span class=\"searchmatch\">workers</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/United_States_Department_of_Justice_workers_among_government_Wikipedia_vandals\" title=\"United States Department of Justice workers among government Wikipedia vandals\">United States Department of Justice <span class=\"searchmatch\">workers</span> among government Wikipedia vandals</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Nigerian_kidnappers_release_8_oil_workers\" title=\"Nigerian kidnappers release 8 oil workers\">Nigerian kidnappers release 8 oil <span class=\"searchmatch\">workers</span></a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373469808,
+   "book" : [],
+   "micro-www" : {
+      "worker" : [
+         "workers",
+         "Workers'_Party_(Brazil)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Labor"
+      ],
+      "text" : "\n\n\n\nThe 'workforce' is the labour pool in employment. It is generally used to\ndescribe those working for a single company or industry, but can also apply to a\ngeographic region like a city, country, state, etc. The term generally excludes\nthe employers or management, and implies those involved in manual labour. It may\nalso mean all those that are available for work.\n\nWorkers may be unionised, whereby the union conducts negotiations regarding pay\nand conditions of employment. In the event of industrial unrest, unions provide\na co-ordinating role in organising ballots of the workforce, and strike action.\n",
+      "title" : "workforce",
+      "headings" : [
+         "See also",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "1: Employment",
+      "1: Types_of_companies",
+      "1: Industry",
+      "1: Employment#Employer",
+      "1: Management",
+      "1: Manual_labour",
+      "1: Labor_union",
+      "1: Wage",
+      "1: Industrial_unrest",
+      "1: Ballot",
+      "1: Strike_action",
+      "1: Collective_bargaining",
+      "1: Contingent_workforce",
+      "1: Division_of_labour",
+      "1: Human_capital",
+      "1: Labor_force",
+      "1: Occupational_illness",
+      "1: Occupational_safety_and_health",
+      "1: United_States_labor_law",
+      "1: Proletariat"
+   ]
+}

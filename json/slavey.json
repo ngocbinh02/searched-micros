@@ -1,0 +1,34 @@
+{
+   "micrownet" : [
+      "slavey"
+   ],
+   "duck" : [
+      "HASH(0x4d1ecf0)",
+      "HASH(0x4d1e108)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465440,
+   "book" : [],
+   "micro-www" : {
+      "slavey" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "'Slavey' may refer to: *the Slavey people *the Slavey language\n\n\n\n<!-- This long comment was added to the page to prevent it from being listed on\nSpecial:Shortpages. It and the accompanying monitoring template were generated\nvia Template:Long comment. Please do not remove the monitor template without\nremoving the comment as well.-->\n",
+      "title" : "slavey",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Slavey_people",
+      "1: Slavey_language"
+   ]
+}

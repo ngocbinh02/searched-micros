@@ -1,0 +1,34 @@
+{
+   "micrownet" : [
+      "oyster_plant",
+      "spanish_oyster_plant"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Greenpeace_tries_to_thwart_Chesapeake_Bay_fishing_fleet\" title=\"Greenpeace tries to thwart Chesapeake Bay fishing fleet\">Greenpeace tries to thwart Chesapeake Bay fishing fleet</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NOAA_says_Earth%27s_oceans_becoming_more_acidic\" title=\"NOAA says Earth&#39;s oceans becoming more acidic\">NOAA says Earth&#39;s oceans becoming more acidic</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373470435,
+   "book" : [],
+   "micro-www" : {
+      "oyster_plant" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "'Oyster Plant' is a common name used for various flowering plants, including:\n\n*[[Tragopogon porrifolius]] (also called Purple Salsify) *[[Mertensia]]\n[[Mertensia maritima|maritima]] *[[Tradescantia discolor]] Synonyms:\nTradescantia spathacea, Rhoeo spathacea, Rhoeo discolor. Family: Commelinaceae\nCommon names: Oyster Herb, Oyster Plant, Daun Kepah, Nanas Kerang, Boatlily (Cây\nLẻ Bạn, Lảo Bạn, Sò Huyết), Moses in a basket, Cradle Lily, Moses in His Cradle,\nMoses on a Raft, Moses in the Bulrushes, Men in a Boat, Moses-in-\nCradle(Chinese): 蚌花\n",
+      "title" : "Oyster%20Plant",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Common_name"
+   ]
+}

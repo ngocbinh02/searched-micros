@@ -1,0 +1,117 @@
+{
+   "micrownet" : [
+      "architectural_style",
+      "artistic_style",
+      "classical_style",
+      "expressive_style",
+      "hair_style",
+      "high_style",
+      "in_style",
+      "life_style",
+      "musical_style",
+      "new_style_calendar",
+      "nova_style_salmon",
+      "old_style",
+      "old_style_calendar",
+      "old_style_font",
+      "perpendicular_style",
+      "style",
+      "style_sheet",
+      "styleless",
+      "stylemark",
+      "styler",
+      "stylet",
+      "writing_style"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Design\">Design</a>, the process of creating something",
+      "Style",
+      "\n<a href=\"http://duckduckgo.com/Architectural_style\">Architectural style</a> - Architectural styles classify architecture in terms of the use of form, techniques, materials, time period, region and other stylistic influences.",
+      "http://www.merriam-webster.com/dictionary/style",
+      "style definition: designation, title.",
+      "\n<a href=\"http://duckduckgo.com/Fashion\">Fashion</a>, a prevailing mode of expression, e.g., clothing",
+      "\n<a href=\"http://duckduckgo.com/Style_(manner_of_address)\">Style (manner of address)</a>, titles or honorifics, including Chinese courtesy names",
+      "\n<a href=\"http://duckduckgo.com/Human_physical_appearance\">Human physical appearance</a> - Human physical appearance refers to the outward phenotype or look of human beings.",
+      "\n<a href=\"http://duckduckgo.com/stylus&v=n\">stylus</a> - A stylus (plural: styli or styluses) is a writing utensil, or a small tool for some other form of marking or shaping, for example in pottery.",
+      "\n<a href=\"http://duckduckgo.com/Style_(biology)\">Style (biology)</a>, a digestive structure in the midgut of many bivalve molluscs",
+      "\n<a href=\"http://duckduckgo.com/Cascading_Style_Sheets\">Cascading Style Sheets</a>, in web design",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Hairstyle\">Hairstyle</a> - A hairstyle, hairdo, or haircut refers to the styling of hair, usually on the human scalp.",
+      "\n<a href=\"http://duckduckgo.com/Style_(fiction)\">Style (fiction)</a>, an aspect of literary composition",
+      "\n<a href=\"http://duckduckgo.com/Style_(visual_arts)\">Style (visual arts)</a>, style in art and painting",
+      "\n<a href=\"http://duckduckgo.com/gynoecium\">Style (botany)</a>, a stalk structure in female flower parts"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Gangnam_Style%27_YouTube_view_count_passes_one_billion\" title=\"&#39;Gangnam Style&#39; YouTube view count passes one billion\">&#39;Gangnam <span class=\"searchmatch\">Style</span>&#39; YouTube view count passes one billion</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Gangnam_Style%27_becomes_most_watched_YouTube_video_ever\" title=\"&#39;Gangnam Style&#39; becomes most watched YouTube video ever\">&#39;Gangnam <span class=\"searchmatch\">Style</span>&#39; becomes most watched YouTube video ever</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Guantanamo%27-style_detention_facility_under_construction_on_Australian_Island\" title=\"&#39;Guantanamo&#39;-style detention facility under construction on Australian Island\">&#39;Guantanamo&#39;-<span class=\"searchmatch\">style</span> detention facility under construction on Australian Island</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Carnival_style_protest_held_in_Sydney\" title=\"Carnival style protest held in Sydney\">Carnival <span class=\"searchmatch\">style</span> protest held in Sydney</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_FBI-style_agency_launched\" title=\"British FBI-style agency launched\">British FBI-<span class=\"searchmatch\">style</span> agency launched</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Taiwan_Textile_Foundation_markets_%222008_Taipei_In_Style%22_in_Cross-Straits\" title=\"Taiwan Textile Foundation markets &quot;2008 Taipei In Style&quot; in Cross-Straits\">Taiwan Textile Foundation markets &quot;2008 Taipei In <span class=\"searchmatch\">Style</span>&quot; in Cross-Straits</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mao-style_suits_fading_away_in_China\" title=\"Mao-style suits fading away in China\">Mao-<span class=\"searchmatch\">style</span> suits fading away in China</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Naked_News_presents_a_new_style_of_news\" title=\"Naked News presents a new style of news\">Naked News presents a new <span class=\"searchmatch\">style</span> of news</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Skype_launches_%22Unlimited%22_monthly_service_to_change_communication_style\" title=\"Skype launches &quot;Unlimited&quot; monthly service to change communication style\">Skype launches &quot;Unlimited&quot; monthly service to change communication <span class=\"searchmatch\">style</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Fall_%2708_styles_at_New_York_Fashion_Week:_the_miniskirt_is_back_again\" title=\"Fall &#39;08 styles at New York Fashion Week: the miniskirt is back again\">Fall &#39;08 <span class=\"searchmatch\">styles</span> at New York Fashion Week: the miniskirt is back again</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_education_secretary_Michael_Gove_to_drop_GCSEs_in_favour_of_new_O-level-style_exams\" title=\"UK education secretary Michael Gove to drop GCSEs in favour of new O-level-style exams\">UK education secretary Michael Gove to drop GCSEs in favour of new O-level-<span class=\"searchmatch\">style</span> exams</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2008_Taipei_International_Book_Exhibition:_Varied_fiction_books_showed_different_authoring_style\" title=\"2008 Taipei International Book Exhibition: Varied fiction books showed different authoring style\">2008 Taipei International Book Exhibition: Varied fiction books showed different authoring <span class=\"searchmatch\">style</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Fall_%2708_styles_at_New_York_Fashion_Week:_rock_%27n%27_roll_is_here_to_stay\" title=\"Fall &#39;08 styles at New York Fashion Week: rock &#39;n&#39; roll is here to stay\">Fall &#39;08 <span class=\"searchmatch\">styles</span> at New York Fashion Week: rock &#39;n&#39; roll is here to stay</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Fall_%2708_styles_at_New_York_Fashion_Week:_the_%2770s_are_back\" title=\"Fall &#39;08 styles at New York Fashion Week: the &#39;70s are back\">Fall &#39;08 <span class=\"searchmatch\">styles</span> at New York Fashion Week: the &#39;70s are back</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Results_of_2005_United_Kingdom_General_Election\" title=\"Results of 2005 United Kingdom General Election\">Results of 2005 United Kingdom General Election</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373470872,
+   "book" : [],
+   "micro-www" : {
+      "style" : [
+         "style",
+         "Style_shifting",
+         "Style_guide",
+         "Style_(sociolinguistics)",
+         "Style_(manner_of_address)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n\n\n'Style' may refer to:\n* Style (fiction), an aspect of literary composition\n* Style (visual arts), style in art and painting\n* Architectural style\n* Design, the process of creating something\n* Fashion, a prevailing mode of expression, e.g., clothing\n* , various terms that refer to the style of different things\n* Human physical appearance\n* Hairstyle\n\n'Style', in specific fields, may also refer to:\n* In typeface, one of the three traditional design features along with size\n  and weight\n* Style (botany), a stalk structure in female flower parts\n* Style (biology), a digestive structure in the midgut of many bivalve molluscs\n* Style (manner of address), titles or honorifics, including Chinese\n  courtesy names\n",
+      "title" : "style",
+      "headings" : [
+         "Music",
+         "Film and television",
+         "Literature, linguistics, and rhetoric",
+         "Other uses",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "2: Elsa_Klensch",
+      "1: Architectural_style",
+      "1: Design",
+      "1: Fashion",
+      "1: Human_physical_appearance",
+      "1: Hairstyle",
+      "1: Typeface",
+      "1: Music_genre",
+      "1: Styles_P",
+      "1: Kana_Nishino",
+      "1: Style_Network",
+      "1: Style_guide",
+      "1: Joseph_M._Williams",
+      "1: Richard_A._Lanham",
+      "1: Walter_Raleigh",
+      "1: Neil_Strauss",
+      "1: Aeros_Style",
+      "1: Cascading_Style_Sheets",
+      "1: Gnomon",
+      "1: VIP_Style_Awards",
+      "1: Stile",
+      "1: Stiles",
+      "1: Stylus"
+   ]
+}

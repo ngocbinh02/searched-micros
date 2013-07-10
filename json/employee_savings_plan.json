@@ -1,0 +1,29 @@
+{
+   "micrownet" : [
+      "employee_savings_plan"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hewlett-Packard_to_cut_9,000_jobs_in_$1_billion_restructuring_plan\" title=\"Hewlett-Packard to cut 9,000 jobs in $1 billion restructuring plan\">Hewlett-Packard to cut 9,000 jobs in $1 billion restructuring <span class=\"searchmatch\">plan</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:June_2,_2010\" title=\"News briefs:June 2, 2010\">News briefs:June 2, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:June_2,_2010#Hewlett-Packard_to_cut_9.2C000_jobs_in_a_.241_billion_restructuring_plan_.288:19.29\" title=\"News briefs:June 2, 2010\">Hewlett-Packard to cut 9,000 jobs in a $1 billion restructuring <span class=\"searchmatch\">plan</span> (</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/AT%26T_to_buy_BellSouth_for_$67_billion\" title=\"AT&amp;T to buy BellSouth for $67 billion\">AT&amp;T to buy BellSouth for $67 billion</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Plane_crashes_into_office_block_in_Austin,_Texas/suicide_note\" title=\"Plane crashes into office block in Austin, Texas/suicide note\">Plane crashes into office block in Austin, Texas/suicide note</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/14,500_job_cuts_announced_by_Hewlett-Packard\" title=\"14,500 job cuts announced by Hewlett-Packard\">14,500 job cuts announced by Hewlett-Packard</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373473221,
+   "book" : [],
+   "micro-www" : {
+      "employee_savings_plan" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

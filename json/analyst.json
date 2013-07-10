@@ -1,0 +1,116 @@
+{
+   "micrownet" : [
+      "analyst",
+      "credit_analyst",
+      "financial_analyst",
+      "industry_analyst",
+      "intelligence_analyst",
+      "market_analyst",
+      "oil-industry_analyst",
+      "securities_analyst",
+      "systems_analyst",
+      "technical_analyst"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Systems_analyst\">Systems analyst</a> or <a href=\"http://duckduckgo.com/?q=Information analyst\">Information analyst</a>, an individual who analyzes technical design and functional design for software development",
+      "\n<a href=\"http://duckduckgo.com/marketing_research\">Marketing analyst</a>, a person who analyzes price, customer, competitor and economic data to help companies",
+      "\n<a href=\"http://duckduckgo.com/Cost_analyst\">Cost analyst</a>, an employee who analyzes business operations to determine which courses of action are most efficacious in business",
+      "Analyst",
+      "\n<a href=\"http://duckduckgo.com/Institutional_Research_Analyst\">Institutional Research Analyst</a>, an individual who analyzes data gathered for an educational institute",
+      "http://www.merriam-webster.com/dictionary/analyst",
+      "analyst definition: a person who analyzes or who is skilled in analysis.",
+      "\n<a href=\"http://duckduckgo.com/psychoanalysis\">Psychoanalyst</a>, a practitioner who acts to facilitate understanding of a patient's unconscious mind",
+      "\n<a href=\"http://duckduckgo.com/graphology\">Handwriting analyst</a>, a person who performs a personality assessment through handwriting",
+      "\n<a href=\"http://duckduckgo.com/Quantitative_analyst\">Quantitative analyst</a> applies mathematical techniques to investment banking, especially in the fields of risk management, trading and financial derivatives",
+      "\n<a href=\"http://duckduckgo.com/Accounting_analyst\">Accounting analyst</a>, an accounting analyst evaluates and interprets public company financial statements",
+      "\n<a href=\"http://duckduckgo.com/Financial_analyst\">Financial analyst</a>, an individual who analyzes securities and business equity in economics and finance",
+      "\n<a href=\"http://duckduckgo.com/Public_analyst\">Public analyst</a>, a qualified chemist appointed by a local authority in the United Kingdom",
+      "\n<a href=\"http://duckduckgo.com/Business_analyst\">Business analyst</a>, an employee who examines the needs and concerns of clients and stakeholders to determine where potential problems and opportunities lie, known also as a Business Systems Analyst in business",
+      "\n<a href=\"http://duckduckgo.com/Analyst_(journal)\">Analyst (journal)</a>, a chemistry journal",
+      "\n<a href=\"http://duckduckgo.com/News_analyst\">News analyst</a>, examines, analyses, interprets, and may comment on news received from various sources",
+      "\n<a href=\"http://duckduckgo.com/policy_analysis\">Public policy analyst</a> - Policy analysis is \"determining which of various alternative policies will most achieve a given set of goals in light of the relations between the policies and the goals\".",
+      "\n<a href=\"http://duckduckgo.com/Web_metrics_analyst\">Web metrics analyst</a>, an individual who examines trends and patterns in the use and expansion of the World Wide Web in webometrics",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Patent_analyst\">Patent analyst</a>, in the field of intellectual property is an individual who performs patent and non-patent literature searches to determine the patentability of an invention",
+      "\n<a href=\"http://duckduckgo.com/analytical_chemistry\">Chemical analyst</a>, a person who performs chemical experiments and analyses",
+      "\n<a href=\"http://duckduckgo.com/Industry_analyst\">Industry analyst</a>, an individual who performs market research on segments of specific industries toward the identification of trends in business and finance",
+      "\n<a href=\"http://duckduckgo.com/intelligence_analysis\">Intelligence analyst</a>, an individual who performs intelligence analysis",
+      "\n<a href=\"http://duckduckgo.com/Medical_analyst\">Medical analyst</a>, a person who can interpret medical data for specific analytical purposes",
+      "\n<a href=\"http://duckduckgo.com/mass-spectrometry_software\">Analyst (software)</a> (or AnalystQS), a mass spectrometry software",
+      "\n<a href=\"http://duckduckgo.com/color_commentator\">Color analyst</a>, an individual who, as against a play-by-play announcer, provides analysis and commentary in sports broadcasting"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_intelligence_analyst_arrested_over_Wikileaks_video\" title=\"US intelligence analyst arrested over Wikileaks video\">US intelligence <span class=\"searchmatch\">analyst</span> arrested over Wikileaks video</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/BP_CEO_Tony_Hayward_to_resign,_say_analysts\" title=\"BP CEO Tony Hayward to resign, say analysts\">BP CEO Tony Hayward to resign, say <span class=\"searchmatch\">analysts</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Political_pundits_debate_Fred_Thompson%27s_younger_wife\" title=\"Political pundits debate Fred Thompson&#39;s younger wife\">Political pundits debate Fred Thompson&#39;s younger wife</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Analyst:_Fred_Thompson%27s_wife_a_political_liability\" title=\"Analyst: Fred Thompson&#39;s wife a political liability\"><span class=\"searchmatch\">Analyst</span>: Fred Thompson&#39;s wife a political liability</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pittsburgh%27s_Bettis_to_work_as_NBC_studio_analyst\" title=\"Pittsburgh&#39;s Bettis to work as NBC studio analyst\">Pittsburgh&#39;s Bettis to work as NBC studio <span class=\"searchmatch\">analyst</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australia_Votes_2007:_Analysts_say_Rudd_wins_TV_debate\" title=\"Australia Votes 2007: Analysts say Rudd wins TV debate\">Australia Votes 2007: <span class=\"searchmatch\">Analysts</span> say Rudd wins TV debate</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_Labor_Party_reelected_to_Queensland_government:_Australian_Broadcasting_Corporation\" title=\"Australian Labor Party reelected to Queensland government: Australian Broadcasting Corporation\">Australian Labor Party reelected to Queensland government: Australian Broadcasting Corporation</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Google_planning_PayPal_rival\" title=\"Google planning PayPal rival\">Google planning PayPal rival</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Domestic_economic_impacts_likely_after_Japanese_earthquake\" title=\"Domestic economic impacts likely after Japanese earthquake\">Domestic economic impacts likely after Japanese earthquake</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Symbian_licenses_email_technology_from_rival_Microsoft\" title=\"Symbian licenses email technology from rival Microsoft\">Symbian licenses email technology from rival Microsoft</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Nokia_appoints_Microsoft_Business_Division_Head_as_chief_executive\" title=\"Nokia appoints Microsoft Business Division Head as chief executive\">Nokia appoints Microsoft Business Division Head as chief executive</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mitt_Romney_wins_Iowa_Caucus_by_eight_votes_over_surging_Rick_Santorum\" title=\"Mitt Romney wins Iowa Caucus by eight votes over surging Rick Santorum\">Mitt Romney wins Iowa Caucus by eight votes over surging Rick Santorum</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_and_South_Korea_to_conduct_naval_exercises_in_response_to_warship_sinking\" title=\"US and South Korea to conduct naval exercises in response to warship sinking\">US and South Korea to conduct naval exercises in response to warship sinking</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/North_Korea_denies_involvement_in_sinking_of_South_Korean_warship\" title=\"North Korea denies involvement in sinking of South Korean warship\">North Korea denies involvement in sinking of South Korean warship</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/South_Korean_president_proposes_a_reunification_tax\" title=\"South Korean president proposes a reunification tax\">South Korean president proposes a reunification tax</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/After_Bush_leaves_Russia,_Voice_of_Russia_commentary_questions_President%27s_intellect\" title=\"After Bush leaves Russia, Voice of Russia commentary questions President&#39;s intellect\">After Bush leaves Russia, Voice of Russia commentary questions President&#39;s intellect</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/ESPN_trades_Al_Michaels_for_%22Oswald_the_Lucky_Rabbit%22\" title=\"ESPN trades Al Michaels for &quot;Oswald the Lucky Rabbit&quot;\">ESPN trades Al Michaels for &quot;Oswald the Lucky Rabbit&quot;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/On_the_campaign_trail,_August_2012\" title=\"On the campaign trail, August 2012\">On the campaign trail, August 2012</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/On_the_campaign_trail,_August_2012#Analysts_react_to_Republican_VP_selection\" title=\"On the campaign trail, August 2012\"><span class=\"searchmatch\">Analysts</span> react to Republican VP selection</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/CNN_hires_three_conservative_commentators\" title=\"CNN hires three conservative commentators\">CNN hires three conservative commentators</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Google_Android_smartphone_sales_triple_in_the_UK_this_year\" title=\"Google Android smartphone sales triple in the UK this year\">Google Android smartphone sales triple in the UK this year</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Moscow_experiences_the_snowiest_winter_in_100_years\" title=\"Moscow experiences the snowiest winter in 100 years\">Moscow experiences the snowiest winter in 100 years</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373473256,
+   "book" : [],
+   "micro-www" : {
+      "analyst" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n* Accounting analyst, an accounting analyst evaluates and interprets public\n  company financial statements\n* AR - Analyst, The general responsibilities of a medical billing AR Analyst or\n  Accounts Receivable Analyst are simple and straightforward. An AR Analyst is\n  responsible for the billing for goods and services, receiving the payments\n  from a client and or insurance company and the processing of the payments to\n  the proper accounts as well as credit and collections if necessary. (eg. Guru\n  Ragavendran, Chennai)\n* Business analyst, an employee who examines the needs and concerns of clients\n  and stakeholders to determine where potential problems and opportunities lie,\n  known also as a Business Systems Analyst in business\n* Chemical analyst, a person who performs chemical experiments and analyses\n* Color analyst, an individual who, as against a play-by-play announcer,\n  provides analysis and commentary in sports broadcasting\n* Cost analyst, an employee who analyzes business operations to determine which\n  courses of action are most efficacious in business\n* Financial analyst, an individual who analyzes securities and business equity\n  in economics and finance\n* Handwriting analyst, a person who performs a personality assessment through\n  handwriting\n* Industry analyst, an individual who performs market research on segments\n  of specific industries toward the identification of trends in business\n  and finance\n* Institutional Research Analyst, an individual who analyzes data gathered for\n  an educational institute\n* Intelligence analyst, an individual who performs intelligence analysis\n* Marketing analyst, a person who analyzes price, customer, competitor and\n  economic data to help companies\n* Medical analyst, a person who can interpret medical data for specific\n  analytical purposes\n* News analyst, examines, analyses, interprets, and may comment on news received\n  from various sources\n* Patent analyst, in the field of intellectual property is an individual who\n  performs patent and non-patent literature searches to determine the\n  patentability of an invention\n* Psychoanalyst, a practitioner who acts to facilitate understanding of a\n  patient's unconscious mind\n* Public analyst, a qualified chemist appointed by a local authority in the\n  United Kingdom\n* Public policy analyst\n* Quantitative analyst applies mathematical techniques to investment banking,\n  especially in the fields of risk management, trading and financial derivatives\n* Systems analyst or Information analyst, an individual who analyzes technical\n  design and functional design for software development\n* Web metrics analyst, an individual who examines trends and patterns in the use\n  and expansion of the World Wide Web in webometrics\n* An analyst in mathematics, an individual who focuses in the area of\n  mathematical analysis\n* Analyst (software) (or AnalystQS), a mass spectrometry software\n* Analyst(tm) (software), fully parallelized high-performance, ultra-high\n  accuracy 3D finite element method (FEM) analysis software for complex\n  Electromagnetic (EM) problems.\n* Analyst (journal), a chemistry journal\n",
+      "title" : "analyst",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Accounting_analyst",
+      "1: AR_-_Analyst",
+      "1: Business_analyst",
+      "1: Chemical_analyst",
+      "1: Color_analyst",
+      "1: Cost_analyst",
+      "1: Financial_analyst",
+      "1: Handwriting_analyst",
+      "1: Industry_analyst",
+      "1: Institutional_Research_Analyst",
+      "1: Intelligence_analyst",
+      "1: Marketing_analyst",
+      "1: Medical_analyst",
+      "1: News_analyst",
+      "1: Patent_analyst",
+      "1: Psychoanalyst",
+      "1: Public_analyst",
+      "1: Public_policy_analyst",
+      "1: Quantitative_analyst",
+      "1: Systems_analyst",
+      "1: Information_analyst",
+      "1: Web_metrics_analyst",
+      "1: Mathematical_analysis",
+      "1: The_Analyst",
+      "1: Annalists",
+      "1: Anilyst"
+   ]
+}

@@ -1,0 +1,66 @@
+{
+   "micrownet" : [
+      "linear_equation"
+   ],
+   "duck" : [
+      "HASH(0x4a099d0)",
+      "HASH(0x499cc58)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373466088,
+   "book" : [],
+   "micro-www" : {
+      "linear_equation" : [
+         "Linear_equation",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Elementary algebra",
+         "Equations"
+      ],
+      "text" : "\n\n\nA 'linear equation' is an algebraic equation in which each term is\neither a constant or the product of a constant and (the first power of)\na single variable.\n\nLinear equations can have one or more variables. Linear equations occur with\ngreat regularity in applied mathematics. While they arise quite naturally when\nmodeling many phenomena, they are particularly useful since many non-linear\nequations may be reduced to linear equations by assuming that quantities of\ninterest vary to only a small extent from some \"background\" state. Linear\nequations do not include exponents.\n",
+      "title" : "linear equation",
+      "headings" : [
+         "Linear equations in two variables",
+         "Linear equations in more than two variables",
+         "See also",
+         "Notes",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "3: Constant_term",
+      "2: Slope",
+      "1: Algebraic_equation",
+      "1: Applied_mathematics",
+      "1: Non-linear_equation",
+      "1: Straight_line",
+      "1: Elementary_algebra",
+      "1: Cartesian_coordinate_system",
+      "1: Coordinate",
+      "1: Linear_algebra",
+      "1: System_of_linear_equations",
+      "1: Gauss-Jordan",
+      "1: Simultaneous_equations",
+      "1: Interpolation",
+      "1: Extrapolation",
+      "1: Hyperplane",
+      "1: Euclidean_space",
+      "1: Linear_belief_function",
+      "1: Linear_inequality",
+      "1: Quadratic_equation",
+      "1: Cubic_equation",
+      "1: Quartic_equation",
+      "1: Quintic_equation"
+   ]
+}

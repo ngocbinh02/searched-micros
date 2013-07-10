@@ -1,0 +1,59 @@
+{
+   "micrownet" : [
+      "genus_grampus",
+      "grampus",
+      "grampus_griseus"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Grampus",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Nagoya_Grampus\">Nagoya Grampus</a>, a Japanese soccer club",
+      "Grampus",
+      "http://www.merriam-webster.com/dictionary/grampus",
+      "grampus definition: a dolphin ('''Grampus griseus''') of temperate and tropical seas.",
+      "\n<a href=\"http://duckduckgo.com/Grampus_(TUGS)\">Grampus (TUGS)</a> a character from the children's series TUGS",
+      "\n<a href=\"http://duckduckgo.com/risso's_dolphin\">Grampus (genus)</a>, the genus that includes Risso's dolphin as its only species",
+      "\n<a href=\"http://duckduckgo.com/USS_Grampus\">USS Grampus</a>, the name of a number of ships of the United States Navy",
+      "\n<a href=\"http://duckduckgo.com/Krampus\">Krampus</a>, a mythical figure accompanying St. Nicholas in the Eastern alpine regions as well as Hungary and the Czech Republic",
+      "HASH(0x4d14ff8)",
+      "Merriam-Webster",
+      "HASH(0x4d1bd00)",
+      "\n<a href=\"http://duckduckgo.com/CSS_Grampus\">CSS Grampus</a>, a Confederate river steamer",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/HMS_Grampus\">HMS Grampus</a>, the name of a number of Royal Navy ships and submarines"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465537,
+   "book" : [],
+   "micro-www" : {
+      "grampus" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "<!----------------------------------------------------------------------> <!--\nFrom MoS:DAB: use ONE LINK per entry, SHORT descriptions. --> <!-- AVOID: piping\nlinks, external links, redlinks with little potential, full sentences, and\nreferences --> <!----------------------------------------------------------------------\n>\n\n'Grampus' may refer to: *A common name historically used for the orca\n*''Grampus'' (genus), the genus that includes Risso's dolphin as its only\nspecies *CSS ''Grampus'', a Confederate river steamer *USS Grampus, the name of\na number of ships of the United States Navy *HMS Grampus, the name of a number\nof Royal Navy ships and submarines *the Grampus class submarines, built in the\nstyle of HMS ''Grampus'' <!--*Grampus Heritage and Training, Ltd., an\narchaeology and traditional skills organization in northern England--> *Grampus\n(TUGS) a character from the children's series TUGS *Nagoya Grampus, a Japanese\nsoccer club <!--*Grampus (RR), a small 4 wheel railroad flatcar--> *A versatile\nattack, reconnaissance and research sub used by the Blue Fleet in the anime\nseries [[Blue Submarine No. 6]] *Another name for the hellbender salamander\n",
+      "title" : "grampus",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Orca",
+      "1: CSS_Grampus",
+      "1: USS_Grampus",
+      "1: HMS_Grampus",
+      "1: Grampus_class_submarine",
+      "1: Grampus_Heritage_and_Training,_Ltd.",
+      "1: Nagoya_Grampus",
+      "1: Hellbender",
+      "1: Krampus"
+   ]
+}

@@ -1,0 +1,64 @@
+{
+   "micrownet" : [
+      "maidservant"
+   ],
+   "duck" : [
+      "maidservant definition: a female servant.",
+      "http://merriam-webster.com/dictionary/maidservant",
+      "HASH(0x4ea2cb8)",
+      "Merriam-Webster",
+      "maidservant",
+      "http://www.merriam-webster.com/dictionary/maidservant",
+      "maidservant definition: a female servant.",
+      "Merriam-Webster",
+      "HASH(0x4ecb610)",
+      "maidservant definition: a female servant.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465471,
+   "book" : [],
+   "micro-www" : {
+      "maidservant" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Stock characters",
+         "Concubines|",
+         "Domestic work"
+      ],
+      "text" : "A 'handmaiden' (or 'handmaid') is a personal maid or female servant. <ref>http://www.merriam-\nwebster.com/dictionary/handmaiden</ref>\n",
+      "title" : "Handmaiden",
+      "headings" : [
+         "Domestic work",
+         "Religion",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "1: Concubine",
+      "1: Infertility",
+      "1: Rachel",
+      "1: Jacob",
+      "1: Bilhah",
+      "1: Leah",
+      "1: Virgin_Mary",
+      "1: Holy_Spirit",
+      "1: Dystopian_novel#Dystopian_fiction_",
+      "1: Margaret_Atwood",
+      "1: Republic_of_Gilead",
+      "1: Henchman",
+      "1: Lady-in-waiting",
+      "1: Nurse_stereotypes"
+   ]
+}

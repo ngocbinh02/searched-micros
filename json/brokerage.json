@@ -1,0 +1,76 @@
+{
+   "micrownet" : [
+      "brokerage",
+      "brokerage_account",
+      "brokerage_firm",
+      "brokerage_house",
+      "commodity_brokerage",
+      "marriage_brokerage"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/c/Brokerage_firms\">Brokerage firms</a>",
+      "Brokerage firm",
+      "\n<a href=\"http://duckduckgo.com/Broker\">Broker</a> - A broker is an individual or party that arranges transactions between a buyer and a seller, and gets a commission when the deal is executed.",
+      "\n<a href=\"http://duckduckgo.com/Mortgage_broker\">Mortgage broker</a> - A mortgage broker acts as an intermediary who brokers mortgage loans on behalf of individuals or businesses.",
+      "\n<a href=\"http://duckduckgo.com/Stockbroker\">Stockbroker</a> - A stock broker or stockbroker is a regulated professional broker who buys and sells shares and other securities through market makers or Agency Only Firms on behalf of investors.",
+      "\n<a href=\"http://duckduckgo.com/c/Financial_institutions\">Financial institutions</a>",
+      "A brokerage firm, or simply brokerage, is a financial institution that facilitates the buying and selling of financial securities between a buyer and a seller.",
+      "\n<a href=\"http://duckduckgo.com/Commodity_broker\">Commodity broker</a> - A commodity broker is a firm or individual who executes orders to buy or sell commodity contracts on behalf of clients and charges them a commission.",
+      "\n<a href=\"http://duckduckgo.com/Insurance_broker\">Insurance broker</a> - An insurance broker sells, solicits, or negotiates insurance for compensation."
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Alleged_tax-haven_scheme_linked_to_Canada%27s_largest_brokerage_firm\" title=\"Alleged tax-haven scheme linked to Canada&#39;s largest brokerage firm\">Alleged tax-haven scheme linked to Canada&#39;s largest <span class=\"searchmatch\">brokerage</span> firm</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Brokerage_executive_linked_to_Livedoor_deals_found_dead\" title=\"Brokerage executive linked to Livedoor deals found dead\"><span class=\"searchmatch\">Brokerage</span> executive linked to Livedoor deals found dead</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mobile_operator_Orange_bills_French_doctor_%E2%82%AC160,000_for_one_month_of_Internet_use\" title=\"Mobile operator Orange bills French doctor €160,000 for one month of Internet use\">Mobile operator Orange bills French doctor €160,000 for one month of Internet use</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canadian_MPP_joins_Ontario%27s_Liberal_cabinet\" title=\"Canadian MPP joins Ontario&#39;s Liberal cabinet\">Canadian MPP joins Ontario&#39;s Liberal cabinet</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Shares_in_Blackstone_Group_fall_below_IPO_price\" title=\"Shares in Blackstone Group fall below IPO price\">Shares in Blackstone Group fall below IPO price</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chinese_stock_markets_plunge_after_tax_increase\" title=\"Chinese stock markets plunge after tax increase\">Chinese stock markets plunge after tax increase</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2010_Komen_St._Louis_Race_for_the_Cure_becomes_world%27s_largest_Komen_race\" title=\"2010 Komen St. Louis Race for the Cure becomes world&#39;s largest Komen race\">2010 Komen St. Louis Race for the Cure becomes world&#39;s largest Komen race</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Utah_Man_pleads_guilty_in_wife%27s_death\" title=\"Utah Man pleads guilty in wife&#39;s death\">Utah Man pleads guilty in wife&#39;s death</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Prosecutors_continue_investigation_as_Livedoor_faces_possible_delisting\" title=\"Prosecutors continue investigation as Livedoor faces possible delisting\">Prosecutors continue investigation as Livedoor faces possible delisting</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373468523,
+   "book" : [],
+   "micro-www" : {
+      "brokerage" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Brokerage firms|",
+         "Financial institutions"
+      ],
+      "text" : "A 'brokerage firm', or simply 'brokerage', is a financial institution that\nfacilitates the buying and selling of financial securities between a buyer and a\nseller. Brokerage firms serve a clientele of investors who trade public stocks\nand other securities, usually through the firm's agent stockbrokers.<ref></ref>\nA traditional, or \"full service\", brokerage firm usually undertakes more than\nsimply carrying out a stock or bond trade. The staff of this type of brokerage\nfirm is entrusted with the responsibility of researching the markets to provide\nappropriate recommendations and in so doing they direct the actions of pension\nfund managers and portfolio managers alike. These firms also offer margin loans\nfor certain approved clients to purchase investments on credit, subject to\nagreed terms and conditions. Traditional brokerage firms have also become a\nsource of up-to-date stock prices and quotes.\n",
+      "title" : "Brokerage%20firm",
+      "headings" : [
+         "Discount brokers",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "3: Stockbroker",
+      "1: Financial_institution",
+      "1: Financial_securities",
+      "1: Investor",
+      "1: Portfolio_managers",
+      "1: Discount_broker",
+      "1: Online_broker",
+      "1: Block_trade",
+      "1: Broker",
+      "1: Real_estate_broker/agent",
+      "1: Mortgage_broker",
+      "1: Insurance_broker",
+      "1: Commodity_broker",
+      "1: Options_broker"
+   ]
+}

@@ -1,0 +1,43 @@
+{
+   "micrownet" : [
+      "eutherian",
+      "eutherian_mammal"
+   ],
+   "duck" : [
+      "Eutheria (from Ancient Greek ευ-, eu- \"true/good\" and θηρίον, thērion \"beast\" hence \"true beasts\") is one of two mammalian clades with extant members that diverged in the Late Jurassic.",
+      "https://en.wikipedia.org/wiki/Eutheria",
+      "\n<a href=\"http://duckduckgo.com/c/Mammals\">Mammals</a>",
+      "HASH(0x4c4f118)",
+      "Wikipedia",
+      "Eutheria",
+      "\n<a href=\"http://duckduckgo.com/Placenta\">Placenta</a> - The placenta is an organ that connects the developing fetus to the uterine wall to allow nutrient uptake, waste elimination, and gas exchange via the mother's blood supply.",
+      "https://i.duckduckgo.com/i/8995f9d3.jpg",
+      "HASH(0x4cd6818)",
+      "Eutheria (from Ancient Greek ευ-, eu- \"true/good\" and θηρίον, thērion \"beast\" hence \"true beasts\") is one of two mammalian clades with extant members that diverged in the Late Jurassic.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373465554,
+   "book" : [],
+   "micro-www" : {
+      "eutherian" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "#redirectEutheria\n",
+      "title" : "eutherian",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Eutheria"
+   ]
+}

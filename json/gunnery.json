@@ -1,0 +1,35 @@
+{
+   "micrownet" : [
+      "gunnery",
+      "gunnery_sergeant"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Marine_Corps_sets_up_MySpace_profile\" title=\"US Marine Corps sets up MySpace profile\">US Marine Corps sets up MySpace profile</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Court_of_Appeals_reduces_sentence_for_former_Philippines_officer_in_spy_case\" title=\"US Court of Appeals reduces sentence for former Philippines officer in spy case\">US Court of Appeals reduces sentence for former Philippines officer in spy case</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373469862,
+   "book" : [],
+   "micro-www" : {
+      "gunnery" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "'Gunnery' may refer to:\n* The use of guns or the study of how to apply the techniques and procedures of\n  operating them\n* The Gunnery, a coeducational prep school in Connecticut, United States\n",
+      "title" : "gunnery",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Gun",
+      "1: The_Gunnery"
+   ]
+}

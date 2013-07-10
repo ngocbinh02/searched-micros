@@ -1,0 +1,28 @@
+{
+   "micrownet" : [
+      "trash_dump"
+   ],
+   "duck" : [
+      "HASH(0x4a2f908)",
+      "HASH(0x49f3ad0)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Russia%27s_main_airport_faces_high_danger_from_dump_birds\" title=\"Russia&#39;s main airport faces high danger from dump birds\">Russia&#39;s main airport faces high danger from <span class=\"searchmatch\">dump</span> birds</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Report_urges_Kenya_to_ban_plastic_bags\" title=\"Report urges Kenya to ban plastic bags\">Report urges Kenya to ban plastic bags</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373466313,
+   "book" : [],
+   "micro-www" : {
+      "trash_dump" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

@@ -1,0 +1,75 @@
+{
+   "micrownet" : [
+      "argentinosaur"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/c/Dinosaurs_of_South_America\">Dinosaurs of South America</a>",
+      "\n<a href=\"http://duckduckgo.com/c/Titanosaurs\">Titanosaurs</a>",
+      "Argentinosaurus",
+      "Argentinosaurus is a genus of titanosaur sauropod dinosaur first discovered by Guillermo Heredia in Argentina.",
+      "https://i.duckduckgo.com/i/ebf111b5.jpg"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373466577,
+   "book" : [],
+   "micro-www" : {
+      "argentinosaur" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Cretaceous dinosaurs",
+         "Titanosaurs",
+         "Dinosaurs of South America"
+      ],
+      "text" : "{{speciesbox\n| name = Argentinosaurus fossil_range = Late Cretaceous, image = Argentinosaurus\n| DSC 2943.jpg image_caption = Reconstructed skeleton of [[Argentinosaurus\n| huinculensis]] at the Naturmuseum Senckenberg in Frankfurt, Germany genus =\n| Argentinosaurus species = huinculensis parent_authority = Bonaparte & Coria,\n| 1993 authority = Bonaparte & Coria, 1993\n}} 'Argentinosaurus' is a genus of titanosaur sauropod dinosaur first discovered\nby Guillermo Heredia in Argentina. The generic name refers to the country in\nwhich it was discovered. The dinosaur lived on the then-island continent of\nSouth America somewhere between 97 and 94&nbsp;million years ago, during the\nLate Cretaceous Epoch.\n",
+      "title" : "Argentinosaurus",
+      "headings" : [
+         "Description",
+         "Classification and history",
+         "Museum exhibits",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Late_Cretaceous",
+      "2: José_F._Bonaparte",
+      "2: Rodolfo_Coria",
+      "2: Titanosaur",
+      "2: Argentina",
+      "1: Naturmuseum_Senckenberg",
+      "1: Genus",
+      "1: Sauropod",
+      "1: Dinosaur",
+      "1: Guillermo_Heredia",
+      "1: Country",
+      "1: South_America",
+      "1: Million_years_ago",
+      "1: Holotype",
+      "1: Vertebrae",
+      "1: Tibia",
+      "1: Femur",
+      "1: Paleontologist",
+      "1: Animal",
+      "1: Gregory_S._Paul",
+      "1: Palaeontologist",
+      "1: Cenomanian",
+      "1: Faunal_stage",
+      "1: Fossil",
+      "1: Huincul_Formation",
+      "1: Río_Limay_Subgroup",
+      "1: Neuquén_Province",
+      "1: Giants_of_the_Mesozoic",
+      "1: Fernbank_Museum_of_Natural_History",
+      "1: Pterosaurs"
+   ]
+}

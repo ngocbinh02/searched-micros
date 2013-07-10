@@ -1,0 +1,60 @@
+{
+   "micrownet" : [
+      "clingfish"
+   ],
+   "duck" : [
+      "clingfish",
+      "n pl -fish, -fishes any small marine teleost fish of the family Gobiesocidae, having a flattened elongated body with a sucking disc beneath the head for clinging to rocks, etc.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=clingfish",
+      "n pl -fish, -fishes any small marine teleost fish of the family Gobiesocidae, having a flattened elongated body with a sucking disc beneath the head for clinging to rocks, etc.",
+      "TheFreeDictionary"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "created" : 1373467791,
+   "book" : [],
+   "micro-www" : {
+      "clingfish" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Gobiesocidae",
+         "Acanthopterygii"
+      ],
+      "text" : "{{Taxobox\n| name = Clingfishes image = Aspasmogaster tasmaniensis - Gould.jpg image_width\n| = 240px image_caption = [[Aspasmogaster tasmaniensis]] regnum = Animalia\n| phylum = Chordata classis = Actinopterygii superordo = Acanthopterygii ordo =\n| 'Gobiesociformes' subordo = 'Gobiesocoidei' familia = 'Gobiesocidae'\n| subdivision_ranks = Genera and species subdivision = See text.\n}}\n\n'Clingfishes' are fishes of the family 'Gobiesocidae'. Most species are marine,\nbeing found in shallow waters of the Atlantic, Pacific and Indian Oceans. They\nare bottom-dwelling fishes; some species shelter in sea urchins or crinoids.\n",
+      "title" : "Gobiesocidae",
+      "headings" : [
+         "Description",
+         "Classification",
+         "Subfamilies and Genera<ref name=\"family\"/>",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "3: Integrated_Taxonomic_Information_System",
+      "2: Acanthopterygii",
+      "1: Animal",
+      "1: Chordate",
+      "1: Actinopterygii",
+      "1: Fish",
+      "1: Atlantic_Ocean",
+      "1: Pacific_Ocean",
+      "1: Indian_Ocean",
+      "1: Sea_urchin",
+      "1: Crinoid",
+      "1: Dorsal_fin",
+      "1: Pelvic_fin",
+      "1: Lateral_line",
+      "1: FishBase",
+      "1: Paracanthopterygii",
+      "1: Perciformes"
+   ]
+}

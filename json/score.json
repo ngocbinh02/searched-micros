@@ -1,0 +1,127 @@
+{
+   "micrownet" : [
+      "apgar_score",
+      "baseball_score",
+      "basketball_score",
+      "bowling_score",
+      "football_score",
+      "know_the_score",
+      "line_score",
+      "musical_score",
+      "score",
+      "score_out",
+      "score_paper",
+      "scoreboard",
+      "scorecard",
+      "scorekeeper",
+      "scoreless",
+      "scorer",
+      "scores"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Score_(album)\">Score (album)</a>, a 2006 album by Dream Theater",
+      "\n<a href=\"http://duckduckgo.com/Scoreboarding\">Scoreboarding</a>, a centralized method for dynamically scheduling a pipeline in the CDC 6600 computer",
+      "Score",
+      "\n<a href=\"http://duckduckgo.com/Film_score\">Film score</a>, the music of a film",
+      "http://www.merriam-webster.com/dictionary/score",
+      "score definition: twenty.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Standard_score\">Standard score</a>, a quantity derived from the raw score",
+      "\n<a href=\"http://duckduckgo.com/Test_score\">Test score</a>, the result of an exam or test",
+      "\n<a href=\"http://duckduckgo.com/Scorefile\">Scorefile</a>, a file used by some Usenet newsreader programs",
+      "\nA <a href=\"http://duckduckgo.com/Groove_(engineering)\">groove</a> cut into a surface in engineering"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Rosslyn_Chapel_music_score_%27decoded%27\" title=\"Rosslyn Chapel music score &#39;decoded&#39;\">Rosslyn Chapel music <span class=\"searchmatch\">score</span> &#39;decoded&#39;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bombings_in_Iraq_kill_scores\" title=\"Bombings in Iraq kill scores\">Bombings in Iraq kill <span class=\"searchmatch\">scores</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/MLB:_Rangers_score_30_runs_against_Orioles_in_first_game_of_doubleheader\" title=\"MLB: Rangers score 30 runs against Orioles in first game of doubleheader\">MLB: Rangers <span class=\"searchmatch\">score</span> 30 runs against Orioles in first game of doubleheader</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scores_killed_in_Manila_game_show_stampede\" title=\"Scores killed in Manila game show stampede\"><span class=\"searchmatch\">Scores</span> killed in Manila game show stampede</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Gilchrist_scores_second_fastest_Test_century\" title=\"Gilchrist scores second fastest Test century\">Gilchrist <span class=\"searchmatch\">scores</span> second fastest Test century</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Democrats_score_upset_in_Ontario%27s_Parkdale-High_Park_by-election\" title=\"New Democrats score upset in Ontario&#39;s Parkdale-High Park by-election\">New Democrats <span class=\"searchmatch\">score</span> upset in Ontario&#39;s Parkdale-High Park by-election</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Plague_kills_scores_in_Democratic_Republic_of_Congo\" title=\"Plague kills scores in Democratic Republic of Congo\">Plague kills <span class=\"searchmatch\">scores</span> in Democratic Republic of Congo</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Two_car_bombs_kill_scores_in_Algiers,_Algeria\" title=\"Two car bombs kill scores in Algiers, Algeria\">Two car bombs kill <span class=\"searchmatch\">scores</span> in Algiers, Algeria</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Violent_clashes_in_Kenya_kill_scores\" title=\"Violent clashes in Kenya kill scores\">Violent clashes in Kenya kill <span class=\"searchmatch\">scores</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Brian_Lara_becomes_second_person_to_score_11_000_runs\" title=\"Brian Lara becomes second person to score 11 000 runs\">Brian Lara becomes second person to <span class=\"searchmatch\">score</span> 11 000 runs</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scores_killed_in_twin_Baghdad_marketplace_attacks\" title=\"Scores killed in twin Baghdad marketplace attacks\"><span class=\"searchmatch\">Scores</span> killed in twin Baghdad marketplace attacks</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/MLB:_Twins_defeat_Tigers_after_pinch_hit_scores_two\" title=\"MLB: Twins defeat Tigers after pinch hit scores two\">MLB: Twins defeat Tigers after pinch hit <span class=\"searchmatch\">scores</span> two</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scores_killed_in_bombings_at_Pakistani_shrine\" title=\"Scores killed in bombings at Pakistani shrine\"><span class=\"searchmatch\">Scores</span> killed in bombings at Pakistani shrine</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scores_killed_by_flooding_in_Yemen\" title=\"Scores killed by flooding in Yemen\"><span class=\"searchmatch\">Scores</span> killed by flooding in Yemen</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Italy_score_two_late_in_Extra_Time_to_advance_to_finals,_hosts_Germany_to_play_in_third_place_match\" title=\"Italy score two late in Extra Time to advance to finals, hosts Germany to play in third place match\">Italy <span class=\"searchmatch\">score</span> two late in Extra Time to advance to finals, hosts Germany to play in third place match</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Gliders_move_into_the_medal_round_with_victory_over_Mexico\" title=\"Gliders move into the medal round with victory over Mexico\">Gliders move into the medal round with victory over Mexico</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/AFC_Asian_Cup:_Qatar_scores_late_to_draw_with_defending_champions_Japan\" title=\"AFC Asian Cup: Qatar scores late to draw with defending champions Japan\">AFC Asian Cup: Qatar <span class=\"searchmatch\">scores</span> late to draw with defending champions Japan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_late_scores_down_Japan_3-1_in_Group_F\" title=\"Australian late scores down Japan 3-1 in Group F\">Australian late <span class=\"searchmatch\">scores</span> down Japan 3-1 in Group F</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Peter_Forsberg_scores_two_in_win_over_the_Boston_Bruins\" title=\"Peter Forsberg scores two in win over the Boston Bruins\">Peter Forsberg <span class=\"searchmatch\">scores</span> two in win over the Boston Bruins</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scorsese_finally_scores_Oscar_gold_with_%22The_Departed%22\" title=\"Scorsese finally scores Oscar gold with &quot;The Departed&quot;\">Scorsese finally <span class=\"searchmatch\">scores</span> Oscar gold with &quot;The Departed&quot;</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_scorewriters"
+   ],
+   "created" : 1373473353,
+   "book" : [],
+   "micro-www" : {
+      "score" : [
+         "Score_(sport)",
+         "Score_(game)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Score' or 'scorer' may refer to:\n\n*Test score, the result of an exam or test *A groove cut into a surface in\nengineering *A joining technique in pottery *Score, slang for sexual intercourse\nand other sexual activities *Scoreboarding, a centralized method for dynamically\nscheduling a pipeline in the CDC 6600 computer *Scorefile, a file used by some\nUsenet newsreader programs\n",
+      "title" : "score",
+      "headings" : [
+         "Sports and games",
+         "Mathematics",
+         "Music",
+         "Media and arts",
+         "Business",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Test_score",
+      "1: Pottery",
+      "1: Sexual_intercourse",
+      "1: Scoreboarding",
+      "1: Scorefile",
+      "1: Tales_of_the_Abyss",
+      "1: Score_Entertainment",
+      "1: Herb_Score",
+      "1: Scorer",
+      "1: Scoreboard",
+      "1: Scorecard",
+      "1: Score_bug",
+      "1: Glossary_of_chess#Score_sheet",
+      "1: Raw_score",
+      "1: Standard_score",
+      "1: Score_test",
+      "1: Scorer's_function",
+      "1: Manuscript_paper",
+      "1: Sheet_music",
+      "1: Piano-vocal_score",
+      "1: Full_score",
+      "1: Score_following",
+      "1: Dance_score",
+      "1: Film_score",
+      "1: Incidental_music#Underscore",
+      "1: Video_game_score",
+      "1: Scorewriter",
+      "1: Music_engraving",
+      "1: Hyperscore",
+      "1: Musescore",
+      "1: SmartScore",
+      "1: List_of_scorewriters",
+      "1: Event_score",
+      "1: Performance_art",
+      "1: The_Score_Group#Score",
+      "1: Bauer_Inverness",
+      "1: Score_Media",
+      "1: Scores_on_the_doors"
+   ]
+}

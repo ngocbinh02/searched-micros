@@ -1,0 +1,133 @@
+{
+   "micrownet" : [
+      "boy_scout",
+      "cub_scout",
+      "eagle_scout",
+      "girl_scout",
+      "scout",
+      "scout_car",
+      "scout_group",
+      "scout_troop",
+      "scouter",
+      "scouting",
+      "scouting_trip",
+      "scoutmaster",
+      "sea_scout",
+      "talent_scout"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Scouting\">Scouting</a>, Scouting Movement or Scout Movement.",
+      "Scout",
+      "\n<a href=\"http://duckduckgo.com/Scout_Taylor-Compton\">Scout Taylor-Compton</a> - Scout Taylor-Compton is an American actress.",
+      "http://www.merriam-webster.com/dictionary/scout",
+      "\n<a href=\"http://duckduckgo.com/Scout_Sniper\">Scout Sniper</a> - A United States Marine Corps Scout Sniper is a secondary MOS designator of U.S. Marine Corps infantrymen and reconnaissance Marines that have successfully graduated from a U.S. Marine Corps Scou...",
+      "scout definition: to explore an area to obtain information (as about an enemy).",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Four_Boy_Scouts_killed_in_Iowa_tornado\" title=\"Four Boy Scouts killed in Iowa tornado\">Four Boy <span class=\"searchmatch\">Scouts</span> killed in Iowa tornado</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Boy_Scout_missing_in_North_Carolina,_U.S.A.\" title=\"Boy Scout missing in North Carolina, U.S.A.\">Boy <span class=\"searchmatch\">Scout</span> missing in North Carolina, U.S.A.</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Boy_Scouts_and_hikers_airlifted_from_wildfire_in_Utah\" title=\"US Boy Scouts and hikers airlifted from wildfire in Utah\">US Boy <span class=\"searchmatch\">Scouts</span> and hikers airlifted from wildfire in Utah</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Missing_boy_scout_from_North_Carolina_found_alive\" title=\"Missing boy scout from North Carolina found alive\">Missing boy <span class=\"searchmatch\">scout</span> from North Carolina found alive</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Philadelphia_breaks_80_year_old_building_lease;_moves_to_evict_Scouts\" title=\"Philadelphia breaks 80 year old building lease; moves to evict Scouts\">Philadelphia breaks 80 year old building lease; moves to evict <span class=\"searchmatch\">Scouts</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Philadelphia_to_become_largest_city_in_U.S._without_Boy_Scout_building\" title=\"Philadelphia to become largest city in U.S. without Boy Scout building\">Philadelphia to become largest city in U.S. without Boy <span class=\"searchmatch\">Scout</span> building</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Quinn_Shows_Off_For_NFL_Scouts\" title=\"Quinn Shows Off For NFL Scouts\">Quinn Shows Off For NFL <span class=\"searchmatch\">Scouts</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mumbai_2008_attack_plotter_sentenced_to_35_years\" title=\"Mumbai 2008 attack plotter sentenced to 35 years\">Mumbai 2008 attack plotter sentenced to 35 years</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Arroyo_declares_state_of_emergency_due_to_coup_attempt_in_Philippines\" title=\"Arroyo declares state of emergency due to coup attempt in Philippines\">Arroyo declares state of emergency due to coup attempt in Philippines</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_Corp_acquires_IGN_for_US$650_million\" title=\"News Corp acquires IGN for US$650 million\">News Corp acquires IGN for US$650 million</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/World_War_One_veteran_becomes_world%27s_oldest_man\" title=\"World War One veteran becomes world&#39;s oldest man\">World War One veteran becomes world&#39;s oldest man</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/PayPal_receives_banking_licence\" title=\"PayPal receives banking licence\">PayPal receives banking licence</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NASA%27s_Phoenix_spacecraft_lands_safely_on_Mars\" title=\"NASA&#39;s Phoenix spacecraft lands safely on Mars\">NASA&#39;s Phoenix spacecraft lands safely on Mars</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mars_lander_website_opens\" title=\"Mars lander website opens\">Mars lander website opens</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/California_wildfire_forces_evacuation_of_thousands\" title=\"California wildfire forces evacuation of thousands\">California wildfire forces evacuation of thousands</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NASA_spacecraft_enters_Mars_orbit\" title=\"NASA spacecraft enters Mars orbit\">NASA spacecraft enters Mars orbit</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Phoenix_spacecraft_launches_towards_Mars\" title=\"Phoenix spacecraft launches towards Mars\">Phoenix spacecraft launches towards Mars</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Interview_with_gay_marriage_movement_founder_Evan_Wolfson\" title=\"Interview with gay marriage movement founder Evan Wolfson\">Interview with gay marriage movement founder Evan Wolfson</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Midwest_floods_raise_concerns_about_water_quality\" title=\"US Midwest floods raise concerns about water quality\">US Midwest floods raise concerns about water quality</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UN_holding_recruitment_exams_in_under-represented_countries\" title=\"UN holding recruitment exams in under-represented countries\">UN holding recruitment exams in under-represented countries</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_World_Organization_of_the_Scout_Movement_members",
+      "List_of_World_Association_of_Girl_Guides_and_Girl_Scouts_members",
+      "Order_of_World_Scouts#List_of_members",
+      "World_Federation_of_Independent_Scouts#List_of_members",
+      "List_of_non-aligned_Scouting_organizations"
+   ],
+   "created" : 1373473316,
+   "book" : [],
+   "micro-www" : {
+      "scout" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\nA 'scout' is a soldier performing reconnaissance and other support duties.\n\n'Scout' may also refer to:\n",
+      "title" : "scout",
+      "headings" : [
+         "Aircraft",
+         "Automotive and rail",
+         "Professions",
+         "Land military",
+         "Space applications",
+         "Ships",
+         "Youth movement",
+         "Military units",
+         "Other",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "2: Reconnaissance",
+      "1: Scout_plane",
+      "1: Aeryon_Scout",
+      "1: AD_Scout",
+      "1: Aeronca_K",
+      "1: American_Champion_Scout",
+      "1: IAI_Scout",
+      "1: Tennessee_Propellers_Scout",
+      "1: Westland_Scout",
+      "1: International_Harvester_Scout",
+      "1: Bedder",
+      "1: Scout.com",
+      "1: Scout_rifle",
+      "1: Steyr_Scout",
+      "1: Mars_Scout_Program",
+      "1: HMS_Scout",
+      "1: USS_Scout",
+      "1: Scouting",
+      "1: List_of_World_Organization_of_the_Scout_Movement_members",
+      "1: List_of_World_Association_of_Girl_Guides_and_Girl_Scouts_members",
+      "1: International_Union_of_Guides_and_Scouts_of_Europe#Member_organizations",
+      "1: Order_of_World_Scouts#List_of_members",
+      "1: World_Federation_of_Independent_Scouts#List_of_members",
+      "1: World_Organization_of_Independent_Scouts#Members",
+      "1: Confederation_of_European_Scouts#Member_organizations",
+      "1: List_of_non-aligned_Scouting_organizations",
+      "1: Age_groups_in_Scouting_and_Guiding",
+      "1: Scout_Sniper",
+      "1: Cavalry_Scout",
+      "1: Grey's_Scouts",
+      "1: Lovat_Scouts",
+      "1: Philippine_Scouts",
+      "1: Selous_Scouts",
+      "1: South_Pacific_Scouts",
+      "1: Traditional_Apache_scout",
+      "1: United_States_Army_Indian_Scouts",
+      "1: Scout_Taylor-Compton",
+      "1: The_Telltale_Moozadell",
+      "1: Jean_Louise_Finch",
+      "1: Ribble_Motor_Services",
+      "1: University_of_Oxford",
+      "1: LeapFrog_Enterprises",
+      "1: Steven_Plaut",
+      "1: Team_Fortress",
+      "1: Army_of_Toy_Soldiers"
+   ]
+}
