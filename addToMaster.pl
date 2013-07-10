@@ -32,29 +32,21 @@ sub init {
 	
 	$master = $memd->get("master");
 	
-	$master->{stats}->{top} = [] unless($master->{stats}->{top});
+	
 }
 our $dir = "";
 our $d = {};
 sub addToMaster {
 		
+	my @last = ();
+	my @sized = ();
+	my @sizedm=();
+	MAIN:
 	for (parse_dir(`ls -lR  $PATH`)) {
 		
 		my ($name, $type, $size, $mtime, $mode) = @$_;
-		
-		if(!-f $name){
-			
-			
-		
-			push @{$master->{stats}->{top}},$d->{name}unless(grep{/$d->{name}/}@{$master->{stats}->{top}});
-			my @top = @{$master->{stats}->{top}};
-			if($#top>5){
-				pop  @{$master->{stats}->{top}};
-			}
-		
-		
-		}
-		if( -f $name){
+	
+		if(-f $name){
 		
 			
 			if($name ne __FILE__){
@@ -63,7 +55,25 @@ sub addToMaster {
 				$d->{content} =  JSON::XS->new->allow_nonref->allow_blessed->decode($d->{content});
 				$d->{name} = $name;
 				$d->{name} =~ s/($PATH\/|$dir\/|.json)//g;
+				
+				
+				if($master->{files}->{$d->{name}}){
+			##		print ".";
+					next MAIN;
+				}
+			
+				
+				push @last,{name=>$d->{name},size=>length($d->{content})};
+				
+				if(max(@sized) <= length(Dumper($d->{content}))) {
+					push @sizedm,{name=>$d->{name},size=>length(Dumper($d->{content}))};	
+					push @size,length(Dumper($d->{content}));	
+					
+				}
+				
 			}
+			
+			
 			
 			my $check = $memd->get($d->{name});
 			
@@ -73,30 +83,15 @@ sub addToMaster {
 				
 				$memd->set($d->{name},$d->{content});
 		
-				my $json = JSON::XS->new->allow_nonref->allow_blessed->pretty(1)->encode($d->{content});
-				my $index = File::Spec->catfile( OUTPUT,"$d->{name}.json" );
-				open  my $ih, '>', $index or die "Can't write $index ($!)\n";
-				print $ih  $json;
-				close $ih;
 			
 			}
 			
 	}
-			print	$d->{name} ,"\n";
-			$memd->set($d->{name},$d->{content});
-			
-
-		
-				my $json = JSON::XS->new->allow_nonref->allow_blessed->pretty(1)->encode($d->{content});
-				my $index = File::Spec->catfile( OUTPUT,"$d->{name}.json" );
-				open  my $ih, '>', $index or die "Can't write $index ($!)\n";
-				print $ih  $json;
-				close $ih;
 			
 
 			$master->{files}->{$d->{name}} = 10+sprintf("%d",length(Dumper($d->{content}))/1024);
-			$master->{files}->{$d->{name}} = $master->{files}->{$d->{name}} > 90 ? 90 : $master->{files}->{$d->{name}} ;
-			my @top =  @{$master->{stats}->{top}};
+			$master->{files}->{$d->{name}} = $master->{files}->{$d->{name}} > 60 ? 60 : $master->{files}->{$d->{name}} ;
+			
 			
 		
 	}
@@ -104,12 +99,26 @@ sub addToMaster {
 	 my @vals = values %{$master->{files}};
 	 $master->{stats}->{mean} = sprintf("%3.4f",mean(@vals));
 	 $master->{stats}->{min} = min(@vals);
+	 $master->{stats}->{last}  = [];
+	 $master->{stats}->{large}  = [];
+	 $master->{files}={};
+	 foreach(0..15){
+	 my $n = pop @last;
+	 push @{$master->{stats}->{last}} ,$n unless(!$n);
+	 }
+	 
+	 foreach(0..30){
+	 my $n = shift @sizedm;
+	 push @{$master->{stats}->{large}} ,$n unless(!$n);
+	 }
+	 
 	 $master->{stats}->{max} = max(@vals);
      $memd->set("master",$master);
 	
 }
 init;
-addToMaster();
+#addToMaster();
+$memd->set("master",$master);
 p $master;
 1;
 __DATA__
