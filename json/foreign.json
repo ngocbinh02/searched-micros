@@ -1,0 +1,108 @@
+{
+   "micrownet" : [
+      "foreign",
+      "foreign-born",
+      "foreign_(vs._domestic)",
+      "foreign_(vs._native)",
+      "foreign_agent",
+      "foreign_aid",
+      "foreign_bill",
+      "foreign_correspondent",
+      "foreign_country",
+      "foreign_direct_investment",
+      "foreign_draft",
+      "foreign_exchange",
+      "foreign_intelligence_service",
+      "foreign_intelligence_surveillance_act",
+      "foreign_intelligence_surveillance_court",
+      "foreign_legion",
+      "foreign_minister",
+      "foreign_mission",
+      "foreign_office",
+      "foreign_policy",
+      "foreign_service",
+      "foreign_terrorist_organization",
+      "foreigner",
+      "foreignness",
+      "french_foreign_legion",
+      "french_foreign_office"
+   ],
+   "micro" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Foreign",
+      "\n<a href=\"http://duckduckgo.com/Foreign_corporation\">Foreign corporation</a>, a U.S. concept for a corporation that can do business outside its jurisdiction",
+      "\n<a href=\"http://duckduckgo.com/Foreign_policy\">Foreign policy</a>, how a country interacts with other countries of the world",
+      "HASH(0x6497120)",
+      "Wikipedia",
+      "Foreign",
+      "http://www.merriam-webster.com/dictionary/foreign",
+      "\n<a href=\"http://duckduckgo.com/Foreign_Policy\">Foreign Policy</a>, an American magazine",
+      "foreign definition: situated outside a place or country; '''especially'''.",
+      "Merriam-Webster",
+      "HASH(0x65165a0)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Foreign_language\">Foreign language</a>, a language not spoken by the people of a certain place",
+      "\n<a href=\"http://duckduckgo.com/Foreign_key\">Foreign key</a>, a constraint in a relational database",
+      "\n<a href=\"http://duckduckgo.com/Foreign_accent_syndrome\">Foreign accent syndrome</a>, a rare side effect of severe brain injury"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Palestinian_Foreign_Minister:_No_peace_with_Israel\" title=\"Palestinian Foreign Minister: No peace with Israel\">Palestinian <span class=\"searchmatch\">Foreign</span> Minister: No peace with Israel</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Philippine_Foreign_Secretary_Del_Rosario_to_visit_China_amid_South_China_Sea_territorial_dispute\" title=\"Philippine Foreign Secretary Del Rosario to visit China amid South China Sea territorial dispute\">Philippine <span class=\"searchmatch\">Foreign</span> Secretary Del Rosario to visit China amid South China Sea territorial dispute</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_Foreign_Secretary:_no_plans_for_Iran\" title=\"British Foreign Secretary: no plans for Iran\">British <span class=\"searchmatch\">Foreign</span> Secretary: no plans for Iran</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Libyan_foreign_minister_defects_to_the_UK\" title=\"Libyan foreign minister defects to the UK\">Libyan <span class=\"searchmatch\">foreign</span> minister defects to the UK</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Israeli_foreign_minister_reportedly_boycotts_Brazilian_President%27s_visit\" title=\"Israeli foreign minister reportedly boycotts Brazilian President&#39;s visit\">Israeli <span class=\"searchmatch\">foreign</span> minister reportedly boycotts Brazilian President&#39;s visit</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Israel%27s_Supreme_Court_recognizes_foreign_same-sex_marriages\" title=\"Israel&#39;s Supreme Court recognizes foreign same-sex marriages\">Israel&#39;s Supreme Court recognizes <span class=\"searchmatch\">foreign</span> same-sex marriages</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Imminent_threat%27_as_Foreign_Office_urges_Britons_to_leave_Benghazi\" title=\"&#39;Imminent threat&#39; as Foreign Office urges Britons to leave Benghazi\">&#39;Imminent threat&#39; as <span class=\"searchmatch\">Foreign</span> Office urges Britons to leave Benghazi</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Brazil_receives_Cuban_Foreign_Minister\" title=\"Brazil receives Cuban Foreign Minister\">Brazil receives Cuban <span class=\"searchmatch\">Foreign</span> Minister</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_Foreign_Minister_condemns_Fiji_media_decree\" title=\"Australian Foreign Minister condemns Fiji media decree\">Australian <span class=\"searchmatch\">Foreign</span> Minister condemns Fiji media decree</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Libya_frees_foreign_HIV_medics\" title=\"Libya frees foreign HIV medics\">Libya frees <span class=\"searchmatch\">foreign</span> HIV medics</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Foreign_Press_Association_criticises_Israeli_footage_of_flotilla_raid\" title=\"Foreign Press Association criticises Israeli footage of flotilla raid\"><span class=\"searchmatch\">Foreign</span> Press Association criticises Israeli footage of flotilla raid</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Lukashenko_accuses_foreign_donators_of_ideological_expansion\" title=\"Lukashenko accuses foreign donators of ideological expansion\">Lukashenko accuses <span class=\"searchmatch\">foreign</span> donators of ideological expansion</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Thai_junta_vows_retaliation_against_foreign_media\" title=\"Thai junta vows retaliation against foreign media\">Thai junta vows retaliation against <span class=\"searchmatch\">foreign</span> media</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Foreign_investment_rises_in_Romania_by_19_percent\" title=\"Foreign investment rises in Romania by 19 percent\"><span class=\"searchmatch\">Foreign</span> investment rises in Romania by 19 percent</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canadian_foreign_affairs_minister_resigns_amid_controversy\" title=\"Canadian foreign affairs minister resigns amid controversy\">Canadian <span class=\"searchmatch\">foreign</span> affairs minister resigns amid controversy</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Lukashenko_accuses_foreign_donators_of_ideological_expansion/Brief\" title=\"Lukashenko accuses foreign donators of ideological expansion/Brief\">Lukashenko accuses <span class=\"searchmatch\">foreign</span> donators of ideological expansion/Brief</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Portuguese_Minister_of_Foreign_Affairs_Freitas_do_Amaral_resigns\" title=\"Portuguese Minister of Foreign Affairs Freitas do Amaral resigns\">Portuguese Minister of <span class=\"searchmatch\">Foreign</span> Affairs Freitas do Amaral resigns</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Libya_releases_four_foreign_journalists\" title=\"Libya releases four foreign journalists\">Libya releases four <span class=\"searchmatch\">foreign</span> journalists</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sri_Lanka%27s_foreign_minister_killed_in_sniper_attack\" title=\"Sri Lanka&#39;s foreign minister killed in sniper attack\">Sri Lanka&#39;s <span class=\"searchmatch\">foreign</span> minister killed in sniper attack</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Foreign_Press_Association_critical_of_Israeli_flotilla_footage\" title=\"Foreign Press Association critical of Israeli flotilla footage\"><span class=\"searchmatch\">Foreign</span> Press Association critical of Israeli flotilla footage</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [
+      "Foreign_exchange_controls\n>pdf\nhttp://www.kpmg.com.pk/download/Investments/Chapter%206%20-%20Foreign%20Exchange%20Controls.pdf\nhttp://www.kpmg.com.pk/download/Investments/Chapter%206%20-%20Foreign%20Exchange%20Controls.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/2/29/ThreeCoins.svg/40px-ThreeCoins.svg.png\n\n",
+      "Foreign_direct_investment\n>pdf\nhttp://rbidocs.rbi.org.in/rdocs/notification/PDFs/40569a.pdf\nhttp://rbidocs.rbi.org.in/rdocs/notification/PDFs/40569a.pdf\nhttp://www.frbsf.org/publications/economics/papers/2008/wp08-27bk.pdf\nhttp://www.frbsf.org/publications/economics/papers/2008/wp08-27bk.pdf\n"
+   ],
+   "created" : 1373457377,
+   "book" : [],
+   "micro-www" : {
+      "foreign" : [
+         "Foreign_exchange_controls",
+         "Foreign_direct_investment",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Foreign' may refer to:\n\n*Foreign corporation, a U.S. concept for a corporation that can do business\noutside its jurisdiction *Foreign key, a constraint in a relational database\n*Foreign language, a language not spoken by the people of a certain place\n*Foreign policy, how a country interacts with other countries of the world\n*Foreign film, also known as world cinema, are films and film industries of non-\nEnglish speaking countries *Foreign accent syndrome, a rare side effect of\nsevere brain injury *Foreign Policy, an American magazine *Non-self, ** An\nexogenous antigen that stimulates an immune response ** A concept in Buddhist\nphilosophy, the \"non-self\" or \"absence of separate self\"\n",
+      "title" : "foreign",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Foreign_corporation",
+      "1: Foreign_key",
+      "1: Foreign_language",
+      "1: Foreign_policy",
+      "1: World_cinema",
+      "1: Foreign_accent_syndrome",
+      "1: Foreign_Policy",
+      "1: Buddhist_philosophy"
+   ]
+}

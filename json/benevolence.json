@@ -1,24 +1,73 @@
 {
-   "created" : 1373448855,
    "micrownet" : [
       "benevolence"
    ],
+   "google" : [
+      "/url?q=https://en.wikipedia.org/wiki/Benevolence&sa=U&ei=6SPdUe_cIMrdPdekgNAN&ved=0CBgQFjAA&usg=AFQjCNHnoi5xmb-lya09WiTSdF_nu-dLVg",
+      "/url?q=http://www.thefreedictionary.com/benevolence&sa=U&ei=6SPdUe_cIMrdPdekgNAN&ved=0CB8QFjAB&usg=AFQjCNF5ZABrFPyjGQ6lEyhlpB2tHdBmHg",
+      "/url?q=http://www.merriam-webster.com/dictionary/benevolence&sa=U&ei=6SPdUe_cIMrdPdekgNAN&ved=0CCcQFjAC&usg=AFQjCNGmK6X3ey20cRABcoJih9GGoQ_9Bg",
+      "/url?q=http://thesaurus.com/browse/benevolence&sa=U&ei=6SPdUe_cIMrdPdekgNAN&ved=0CCsQFjAD&usg=AFQjCNE9pS1uJty_ZaJZwFJqXlkdKUL2Mg",
+      "/url?q=http://dictionary.reference.com/browse/benevolence&sa=U&ei=6SPdUe_cIMrdPdekgNAN&ved=0CC8QFjAE&usg=AFQjCNELbZrOStRWcf8I6pdLhSg5a7nAtQ",
+      "/url?q=http://en.wiktionary.org/wiki/benevolence&sa=U&ei=6SPdUe_cIMrdPdekgNAN&ved=0CDMQFjAF&usg=AFQjCNGSvX92hgK0hnFssMPMkplXu_st_A",
+      "/url?q=http://www.mbfoundation.org/&sa=U&ei=6SPdUe_cIMrdPdekgNAN&ved=0CDYQFjAG&usg=AFQjCNEmvMFFXzp71BKWu88Kp9LxSMURTA",
+      "/url?q=http://benevolenceaustralia.org/&sa=U&ei=6SPdUe_cIMrdPdekgNAN&ved=0CDoQFjAH&usg=AFQjCNHwYxteOH0aiBK-7HEWAGIqya7KsQ",
+      "/url?q=http://sentence.yourdictionary.com/benevolence&sa=U&ei=6SPdUe_cIMrdPdekgNAN&ved=0CD8QFjAI&usg=AFQjCNFQZ801mGQTcFKXMlsSD6Uqx_CS1A",
+      "/url?q=http://www.goodreads.com/quotes/tag/benevolence&sa=U&ei=6SPdUe_cIMrdPdekgNAN&ved=0CEIQFjAJ&usg=AFQjCNEQG_mWTCg9yV1QtrntIRpVmvD5Mw"
+   ],
    "micro" : [
-      "attribute",
-      "state",
-      "abstraction",
+      "benevolence",
       "love",
-      "abstract_entity",
+      "abstraction",
+      "entity",
+      "state",
+      "attribute",
       "emotion",
       "feeling",
-      "entity",
       "beneficence",
-      "benevolence"
+      "abstract_entity"
    ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Mett%C4%81\">Mettā</a>, benevolence in Buddhism",
+      "Benevolence",
+      "http://www.merriam-webster.com/dictionary/benevolence",
+      "benevolence definition: disposition to do good.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Omnibenevolence\">Omnibenevolence</a> - Omnibenevolence is defined by the Oxford English Dictionary as \"unlimited or infinite benevolence\".",
+      "\n<a href=\"http://duckduckgo.com/Altruism\">Altruism</a> - Altruism is the principle or practice of concern for the welfare of others.",
+      "\n<a href=\"http://duckduckgo.com/Benevolence_(Phrenology)\">Benevolence (Phrenology)</a>, a faculty in the discredited theory of <a href=\"http://duckduckgo.com/?q=Phrenology\">Phrenology</a>",
+      "\n<a href=\"http://duckduckgo.com/USS_Benevolence_(AH-13)\">USS Benevolence (AH-13)</a>, a Haven class hospital ship"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373454294,
+   "book" : [],
    "micro-www" : {
       "benevolence" : [
          ""
       ]
    },
-   "micro-www-search" : []
+   "wiki" : {
+      "cat" : [
+         "Philosophy disambiguation"
+      ],
+      "text" : "\n'Benevolence' means an act of, or a general inclination towards, charity.\n\"Benevolence\" may also refer to:\n\n* Benevolence (Phrenology), a faculty in the discredited theory of Phrenology\n* USS ''Benevolence'' (AH-13), a Haven class hospital ship\n",
+      "title" : "benevolence",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Phrenology",
+      "1: Altruism",
+      "1: Omnibenevolence",
+      "1: Good_and_bad",
+      "1: MettÄ"
+   ]
 }

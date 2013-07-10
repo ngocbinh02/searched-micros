@@ -1,0 +1,75 @@
+{
+   "micrownet" : [
+      "monad",
+      "monadic_operation"
+   ],
+   "micro" : [
+      "constituent",
+      "physical_entity",
+      "relation",
+      "abstraction",
+      "atom",
+      "portion",
+      "abstract_entity",
+      "monad",
+      "component",
+      "matter",
+      "component_part",
+      "substance",
+      "entity",
+      "part"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Monad",
+      "HASH(0x5d83b20)",
+      "Wikipedia",
+      "Monad",
+      "http://www.merriam-webster.com/dictionary/monad",
+      "monad definition: unit, one.",
+      "Merriam-Webster",
+      "HASH(0x5dc6bb8)",
+      "\n<a href=\"http://duckduckgo.com/Monad_(functional_programming)\">Monad (functional programming)</a>, functional programming constructs that capture various notions of computation",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373455857,
+   "book" : [],
+   "micro-www" : {
+      "monad" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Monad' may refer to:\n",
+      "title" : "monad",
+      "headings" : [
+         "Philosophy",
+         "Mathematics and computer science",
+         "Music",
+         "Biology",
+         "Proper names and popular culture",
+         "Theosophy",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Monism",
+      "1: Immanuel_Kant",
+      "1: Unicellular_organism",
+      "1: Windows_PowerShell",
+      "1: Xmonad",
+      "1: The_World_Inside",
+      "1: Megastructure",
+      "1: Xenoblade_Chronicles",
+      "1: Monolith_Soft"
+   ]
+}

@@ -1,0 +1,100 @@
+{
+   "micrownet" : [],
+   "micro" : [],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "Heterochromatin is a tightly packed form of DNA, which comes in different varieties.",
+      "https://en.wikipedia.org/wiki/Heterochromatin",
+      "HASH(0x4f752c0)",
+      "Wikipedia",
+      "Heterochromatin",
+      "http://www.merriam-webster.com/dictionary/heterochromatin",
+      "\n<a href=\"http://duckduckgo.com/c/Molecular_genetics\">Molecular genetics</a>",
+      "heterochromatin definition: densely staining chromatin that appears as nodules in or along chromosomes and contains relatively few genes.",
+      "Merriam-Webster",
+      "https://i.duckduckgo.com/i/8f3f844e.png",
+      "HASH(0x4f29998)",
+      "Heterochromatin is a tightly packed form of DNA, which comes in different varieties.",
+      "A"
+   ],
+   "micro-www-search" : [
+      "heterochromatin\n>http\nhttp://en.m.wikipedia.org/wiki/Heterochromatin\nhttp://en.wikipedia.org/w/index.php?title=Heterochromatin&oldid=540012942\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Diagram_human_cell_nucleus.svg/350px-Diagram_human_cell_nucleus.svg.png\n\n",
+      "Heterochromatin_protein_1\n",
+      "Heterochromatin\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Diagram_human_cell_nucleus.svg/350px-Diagram_human_cell_nucleus.svg.png\n"
+   ],
+   "created" : 1373459162,
+   "micro-www" : {
+      "heterochromatin" : [
+         "heterochromatin",
+         "Heterochromatin_protein_1",
+         "Heterochromatin",
+         ""
+      ]
+   },
+   "book" : [],
+   "wiki" : {
+      "cat" : [
+         "Molecular genetics"
+      ],
+      "text" : "\n'Heterochromatin' is a tightly packed form of DNA, which comes in different\nvarieties. These varieties lie on a continuum between the two extremes of\n'constitutive' and 'facultative heterochromatin'. Both play a role in the\nexpression of genes, where constitutive heterochromatin can affect the genes\nnear them (position-effect variegation) and where facultative heterochromatin is\nthe result of genes that are silenced through a mechanism such as histone\nmethylation or siRNA through RNAi. Constitutive heterochromatin is usually\nrepetitive and forms structural functions such as centromeres or telomeres, in\naddition to acting as an attractor for other gene-expression or repression\nsignals. Facultative heterochromatin is not repetitive and although it shares\nthe compact structure of constitutive heterochromatin, facultative\nheterochromatin can, under specific developmental or environmental signaling\ncues, lose its condensed structure and become transcriptionally\nactive.<ref>Oberdoerffer P & Sinclair D.\n[http://www.nature.com/nrm/journal/v8/n9/box/nrm2238_BX2.html The role of\nnuclear architecture in genomic instability and ageing]. Nature Reviews\nMolecular Cell Biology 8, 692-702 (September 2007). </ref> Heterochromatin is\noften associated with the di and tri-methylation of H3K9.<ref\nname=\"Rosenfeld_2009\"></ref>\n",
+      "title" : "heterochromatin",
+      "headings" : [
+         "Structure",
+         "Function",
+         "Constitutive heterochromatin",
+         "Facultative heterochromatin",
+         "Yeast heterochromatin",
+         "See also",
+         "External links",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Gene_expression",
+      "2: Position-effect_variegation",
+      "2: Curr._Opin._Genet._Dev.",
+      "2: X_chromosome",
+      "1: DNA",
+      "1: Histone_methylation",
+      "1: Small_interfering_RNA",
+      "1: RNA_interference#Transcriptional_silencing",
+      "1: Centromeres",
+      "1: Telomeres",
+      "1: Histone_code",
+      "1: Chromatin",
+      "1: Euchromatin",
+      "1: Cell_nucleus",
+      "1: Epigenetic",
+      "1: Satellite_DNA",
+      "1: Centromere",
+      "1: Telomere",
+      "1: Barr_body",
+      "1: Cell_cycle",
+      "1: DNA_repair",
+      "1: Endonuclease",
+      "1: Epigenetic_inheritance",
+      "1: Chromosoma",
+      "1: Proc._Natl_Acad._Sci._USA",
+      "1: Embo_J.",
+      "1: Constitutive_heterochromatin",
+      "1: Y_chromosome",
+      "1: Morphogenesis",
+      "1: Cellular_differentiation",
+      "1: X-inactivation",
+      "1: Polycomb-group_proteins",
+      "1: Xist",
+      "1: Eukaryote",
+      "1: RNAi",
+      "1: SiRNA",
+      "1: RNA_polymerase_II",
+      "1: RevCen",
+      "1: Centric_Heterochromatin"
+   ]
+}

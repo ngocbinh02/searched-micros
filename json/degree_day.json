@@ -1,0 +1,95 @@
+{
+   "micrownet" : [
+      "degree_day"
+   ],
+   "micro" : [
+      "period",
+      "abstract_entity",
+      "period_of_time",
+      "entity",
+      "amount",
+      "calendar_day",
+      "quantity",
+      "time_period",
+      "measure",
+      "abstraction",
+      "commencementday",
+      "fundamental_measure",
+      "civil_day",
+      "day",
+      "degree_day",
+      "fundamental_quantity"
+   ],
+   "duck" : [
+      "HASH(0x4fa7f58)",
+      "HASH(0x4fa8a38)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Indian_Children%27s_Games\" title=\"Indian Children&#39;s Games\">Indian Children&#39;s Games</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Locals_claim_to_have_seen_a_UFO_in_Honolulu,_Hawaii\" title=\"Locals claim to have seen a UFO in Honolulu, Hawaii\">Locals claim to have seen a UFO in Honolulu, Hawaii</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Issues_of_World_Press_Freedom_Day_raised_in_U.N.,_Africa\" title=\"Issues of World Press Freedom Day raised in U.N., Africa\">Issues of World Press Freedom <span class=\"searchmatch\">Day</span> raised in U.N., Africa</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/California_wildfires_continue_to_spread\" title=\"California wildfires continue to spread\">California wildfires continue to spread</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/School_Principal_found_dead_in_Tennessee_classroom;_teen_held_by_police\" title=\"School Principal found dead in Tennessee classroom; teen held by police\">School Principal found dead in Tennessee classroom; teen held by police</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/American_Thom_Mayne_snags_Pritzker_architecture_prize\" title=\"American Thom Mayne snags Pritzker architecture prize\">American Thom Mayne snags Pritzker architecture prize</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Suspects_apprehended_after_car_chase_through_Denver,_US\" title=\"Suspects apprehended after car chase through Denver, US\">Suspects apprehended after car chase through Denver, US</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Severe_heat_wave_blankets_northeastern_US\" title=\"Severe heat wave blankets northeastern US\">Severe heat wave blankets northeastern US</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Volunteers_endure_bed-rest_study\" title=\"Volunteers endure bed-rest study\">Volunteers endure bed-rest study</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Arctic_air_brings_coldest_night_for_Florida_in_five_years\" title=\"Arctic air brings coldest night for Florida in five years\">Arctic air brings coldest night for Florida in five years</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/14_people_injured_after_bus_overturns_in_heavy_rain_near_Quebec_City\" title=\"14 people injured after bus overturns in heavy rain near Quebec City\">14 people injured after bus overturns in heavy rain near Quebec City</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ontario_investigators_search_for_the_body_of_Victoria_Stafford\" title=\"Ontario investigators search for the body of Victoria Stafford\">Ontario investigators search for the body of Victoria Stafford</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%22Mrs._Dino%22_sentenced_to_one_year_in_prison\" title=\"&quot;Mrs. Dino&quot; sentenced to one year in prison\">&quot;Mrs. Dino&quot; sentenced to one year in prison</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/24_people_rescued_from_roller_coaster_at_California%27s_Great_America_theme_park\" title=\"24 people rescued from roller coaster at California&#39;s Great America theme park\">24 people rescued from roller coaster at California&#39;s Great America theme park</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Two_teenagers_charged_over_shooting_of_student_at_C.W._Jefferys_Collegiate_Institute,_Toronto\" title=\"Two teenagers charged over shooting of student at C.W. Jefferys Collegiate Institute, Toronto\">Two teenagers charged over shooting of student at C.W. Jefferys Collegiate Institute, Toronto</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Race_to_save_Chilean_miners_trapped_underground_from_spiralling_into_depression_continues\" title=\"Race to save Chilean miners trapped underground from spiralling into depression continues\">Race to save Chilean miners trapped underground from spiralling into depression continues</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bertha_becomes_first_hurricane_of_2008_Atlantic_season\" title=\"Bertha becomes first hurricane of 2008 Atlantic season\">Bertha becomes first hurricane of 2008 Atlantic season</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canada_acquits_man_wrongly_jailed_for_over_a_decade_over_teen_girl%27s_murder\" title=\"Canada acquits man wrongly jailed for over a decade over teen girl&#39;s murder\">Canada acquits man wrongly jailed for over a decade over teen girl&#39;s murder</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Preliminary_report_released_on_Spanair_disaster_that_killed_154\" title=\"Preliminary report released on Spanair disaster that killed 154\">Preliminary report released on Spanair disaster that killed 154</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [
+      "Degree_day\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n"
+   ],
+   "created" : 1373460994,
+   "book" : [],
+   "micro-www" : {
+      "degree_day" : [
+         "Degree_day",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Horticulture and gardening",
+         "Agricultural terminology",
+         "Energy conservation",
+         "Seasons",
+         "Atmospheric thermodynamics"
+      ],
+      "text" : "\n\nA 'degree day' is a measure of heating or cooling. Totalized degree days from an\nappropriate starting date are used to plan the planting of crops and management\nof pests and pest control timing. Weekly or monthly degree-day figures may also\nbe used within an energy monitoring and targeting scheme to monitor the heating\nand cooling costs of climate controlled buildings, while annual figures can be\nused for estimating future costs.\n\nA degree day is computed as the integral of a function of time that generally\nvaries with temperature. The function is truncated to upper and lower limits\nthat vary by organism, or to limits that are appropriate for climate control.\nThe function can be estimated or measured by one of the following methods, in\neach case by reference to a chosen 'base temperature':\n\n*  frequent measurements and continuously integrating the temperature deficit\n   or excess;\n* Treating each day's temperature profile as a sine wave with amplitude equal to\n  the day's temperature variation, measured from max and min, and totalling the\n  daily results;\n* As above, but calculating the daily difference between mean temperature and\n  base temperature;\n* As previous, but with modified formulae on days when the max and min straddle\n  the base temperature.\n\nA zero degree-day in energy monitoring and targeting is when either heating or\ncooling consumption is at a minimum, which is useful with power utility\ncompanies in predicting seasonal low points in energy demand.\n\nHeating degree days are typical indicators of household energy consumption for\nspace heating. The air temperature in a building is on average 2°C to 3°C higher\nthan that of the air outside. A temperature of 18°C indoors corresponds to an\noutside temperature of about 15.5°C. If the air temperature outside is 1 °C\nbelow 15.5°C, then heating is required to maintain a temperature of about 18°C.\nIf the outside temperature is 1 °C below the average temperature it is accounted\nas 1 degree-day. The sum of the degree days over periods such as a month or an\nentire heating season is used in calculating the amount of heating required for\na building. Degree Days are also used to estimate air conditioning usage during\nthe warm season.\n",
+      "title" : "degree day",
+      "headings" : [
+         "See also",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Energy_monitoring_and_targeting",
+      "1: Heat",
+      "1: Crop",
+      "1: Pest_control",
+      "1: Climate_control",
+      "1: Integral",
+      "1: Time",
+      "1: Temperature",
+      "1: Sine_wave",
+      "1: Amplitude",
+      "1: Heating_degree_day",
+      "1: Growing_degree_day"
+   ]
+}

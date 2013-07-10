@@ -1,5 +1,4 @@
 {
-   "created" : 1373449075,
    "micrownet" : [
       "disposal",
       "disposal_plant",
@@ -8,20 +7,90 @@
       "sewage_disposal",
       "sewage_disposal_plant"
    ],
+   "google" : [
+      "/url?q=http://www.republicservices.com/&sa=U&ei=xCLdUZX7D8naOO29gbAK&ved=0CBgQFjAB&usg=AFQjCNHeECPXH28sputfq9pyAxDVzk2QjQ",
+      "/url?q=http://www.merriam-webster.com/dictionary/disposal&sa=U&ei=xCLdUZX7D8naOO29gbAK&ved=0CBwQFjAC&usg=AFQjCNF_YqFLhOxhCvZWETOqM6ROcgrAUg",
+      "/url?q=http://www.thefreedictionary.com/disposal&sa=U&ei=xCLdUZX7D8naOO29gbAK&ved=0CCAQFjAD&usg=AFQjCNHV26GYF4tAcJLzWxhp5JHqv3ItrQ",
+      "/url?q=http://en.wikipedia.org/wiki/Disposal&sa=U&ei=xCLdUZX7D8naOO29gbAK&ved=0CCkQFjAE&usg=AFQjCNHri6oS5Oqe1cjxuVyZccI6bxsLGw",
+      "/url?q=http://en.wiktionary.org/wiki/disposal&sa=U&ei=xCLdUZX7D8naOO29gbAK&ved=0CC0QFjAF&usg=AFQjCNFm5X-8yhIpPfNmFHWBIKg0DpyE7Q",
+      "/url?q=http://www.insinkerator.com/&sa=U&ei=xCLdUZX7D8naOO29gbAK&ved=0CDEQFjAG&usg=AFQjCNGxPKNyL3hcblaIgtr-kC91vrj3Rg",
+      "/url?q=http://www.dict.cc/englisch-deutsch/disposal.html&sa=U&ei=xCLdUZX7D8naOO29gbAK&ved=0CDUQFjAH&usg=AFQjCNFyavi50X4FttMFlpNAqeSf0p2KWA",
+      "/url?q=http://www.fda.gov/Drugs/ResourcesForYou/Consumers/BuyingUsingMedicineSafely/EnsuringSafeUseofMedicine/SafeDisposalofMedicines/ucm186188.htm&sa=U&ei=xCLdUZX7D8naOO29gbAK&ved=0CDkQFjAI&usg=AFQjCNF8WEFXFGaoiPNzdhkY9iJaJcsvig",
+      "/url?q=http://www.epa.gov/pesticides/regulating/disposal.htm&sa=U&ei=xCLdUZX7D8naOO29gbAK&ved=0CD4QFjAJ&usg=AFQjCNHHHzJMdVuMoEH_i984yZUSdy8kRg",
+      "/url?q=http://www.smarxtdisposal.net/&sa=U&ei=xCLdUZX7D8naOO29gbAK&ved=0CEIQFjAK&usg=AFQjCNFzQ7Em05utcWIlNco5m6gadWwbAw"
+   ],
    "micro" : [
+      "attribute",
+      "powerfulness",
       "disposal",
       "abstraction",
-      "powerfulness",
-      "abstract_entity",
-      "quality",
+      "entity",
       "power",
-      "attribute",
-      "entity"
+      "abstract_entity",
+      "quality"
    ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Disposal_of_human_corpses\">Disposal of human corpses</a>, the practice and process of dealing with the remains of a deceased human being",
+      "\n<a href=\"http://duckduckgo.com/Ship_disposal\">Ship disposal</a>, the disposing of a ship after it has reached the end of its effective or economic service life with an organisation",
+      "Disposal",
+      "http://www.merriam-webster.com/dictionary/disposal",
+      "\n<a href=\"http://duckduckgo.com/Garbage_disposal\">Garbage disposal</a>, a device installed under a kitchen sink between the sink's drain and the trap which shreds food waste into pieces small enough to pass through plumbing",
+      "disposal definition: the power or authority to dispose or make use of as one chooses.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Bomb_disposal\">Bomb disposal</a>, the process by which hazardous explosive devices are rendered safe",
+      "\n<a href=\"http://duckduckgo.com/Dispose_pattern\">Dispose pattern</a> in computer programming",
+      "\n<a href=\"http://duckduckgo.com/Disposal_tax_effect\">Disposal tax effect</a>, a concept in economics",
+      "\n<a href=\"http://duckduckgo.com/waste_management\">Waste disposal</a>, the getting rid of waste materials",
+      "\n<a href=\"http://duckduckgo.com/Disposal\">Disposal</a> is a situation in Australian rules football in which a player either kicks or handballs the football."
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_army_bomb_disposal_expert_killed_in_Afghanistan\" title=\"British army bomb disposal expert killed in Afghanistan\">British army bomb <span class=\"searchmatch\">disposal</span> expert killed in Afghanistan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Disposal_of_fracking_wastewater_poses_potential_environmental_problems\" title=\"Disposal of fracking wastewater poses potential environmental problems\"><span class=\"searchmatch\">Disposal</span> of fracking wastewater poses potential environmental problems</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_VX_nerve_gas_disposal_test_a_success\" title=\"US VX nerve gas disposal test a success\">US VX nerve gas <span class=\"searchmatch\">disposal</span> test a success</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/United_States_begins_testing_equipment_for_demolition_of_a_major_VX_nerve_gas_stockpile\" title=\"United States begins testing equipment for demolition of a major VX nerve gas stockpile\">United States begins testing equipment for demolition of a major VX nerve gas stockpile</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Major_police_operation_in_west_London\" title=\"Major police operation in west London\">Major police operation in west London</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Large_bomb_defused_in_Northern_Ireland\" title=\"Large bomb defused in Northern Ireland\">Large bomb defused in Northern Ireland</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Cyprus_Finance_Minister_Michael_Sarris_resigns_amid_bailout_talks\" title=\"Cyprus Finance Minister Michael Sarris resigns amid bailout talks\">Cyprus Finance Minister Michael Sarris resigns amid bailout talks</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pakistan%27s_judicial_crisis_deepens_as_police_attack_and_seal_private_news_channel\" title=\"Pakistan&#39;s judicial crisis deepens as police attack and seal private news channel\">Pakistan&#39;s judicial crisis deepens as police attack and seal private news channel</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/21_July_London_bombing_suspect_held\" title=\"21 July London bombing suspect held\">21 July London bombing suspect held</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Five_police_officers_injured_in_Naples_protest_over_new_garbage_tip\" title=\"Five police officers injured in Naples protest over new garbage tip\">Five police officers injured in Naples protest over new garbage tip</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_call_centre_business_to_create_600_jobs_in_Wales\" title=\"US call centre business to create 600 jobs in Wales\">US call centre business to create 600 jobs in Wales</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bomb_blast_damages_buildings_in_Athens\" title=\"Bomb blast damages buildings in Athens\">Bomb blast damages buildings in Athens</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Peruvians_sue_Newmont_Mining_Company_over_mercury_poisoning\" title=\"Peruvians sue Newmont Mining Company over mercury poisoning\">Peruvians sue Newmont Mining Company over mercury poisoning</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australia_won%27t_take_back_spent_uranium\" title=\"Australia won&#39;t take back spent uranium\">Australia won&#39;t take back spent uranium</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ireland%27s_Roscrea_town_centre_evacuated\" title=\"Ireland&#39;s Roscrea town centre evacuated\">Ireland&#39;s Roscrea town centre evacuated</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Lyneham_air_base_in_England_given_all_clear_after_bomb_scare\" title=\"Lyneham air base in England given all clear after bomb scare\">Lyneham air base in England given all clear after bomb scare</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Arrest_over_London_bombing\" title=\"Arrest over London bombing\">Arrest over London bombing</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/London_bombing:_Police_search_houses_in_Leeds\" title=\"London bombing: Police search houses in Leeds\">London bombing: Police search houses in Leeds</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Guatemalan_minister_killed_in_helicopter_crash\" title=\"Guatemalan minister killed in helicopter crash\">Guatemalan minister killed in helicopter crash</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/South_Thailand_insurgents_blamed_for_five_bombs\" title=\"South Thailand insurgents blamed for five bombs\">South Thailand insurgents blamed for five bombs</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373453999,
+   "book" : [],
    "micro-www" : {
       "disposal" : [
          ""
       ]
    },
-   "micro-www-search" : []
+   "wiki" : {
+      "cat" : [
+         "Australian rules football terminology"
+      ],
+      "text" : "\n\nA 'disposal' occurs in Australian rules football when a player either kicks\n(including from the ground) or handballs the football. A disposal is not counted\nif a player fumbles or illegally disposes the ball. A correct handball is when\nthe football is punched with a clenched fist.\n\nWhen commentating or reporting on Australian rules football, it is common to\nreport the number of disposals that a player has during a game. The words\npossessions or touches are used interchangeably with disposals in this context.\n\nIn recent years, the amount of disposals in a game has increased substantially,\nwith many high disposal records being set.<ref>Silkstone, Dan (12 July 2008)[ht-\ntp://www.realfooty.com.au/articles/2008/07/11/1215658140354.html?page=fullpage#-\ncontentSwap1 Disposable football]</ref> This can be attributed to teams' placing\ngreater emphasis on maintaining possession, rather than just on going forward at\nany cost.<ref>Capel, Andrew (14 April 2009)[http://www.news.com.au/adelaidenow/story/0,22606,25330380-\n5014673,00.html Port's disposal frenzy]; The Advertiser</ref>\n",
+      "title" : "disposal",
+      "headings" : [
+         "Notes"
+      ]
+   },
+   "micro-relation" : [
+      "1: Australian_rules_football"
+   ]
 }

@@ -1,0 +1,129 @@
+{
+   "micrownet" : [
+      "sextant"
+   ],
+   "micro" : [
+      "unit_of_measurement",
+      "sextant",
+      "definite_quantity",
+      "quantity",
+      "unit",
+      "entity",
+      "measure",
+      "angular_unit",
+      "abstraction",
+      "abstract_entity",
+      "amount"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Sextant_(disambiguation)",
+      "HASH(0x5ca3718)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Sextant_(astronomical)\">Sextant (astronomical)</a>, a non-reflecting astronomical instrument for measuring angles",
+      "\n<a href=\"http://duckduckgo.com/Sextant_(album)\">Sextant (album)</a>, by Herbie Hancock",
+      "Sextant",
+      "http://www.merriam-webster.com/dictionary/sextant",
+      "sextant definition: an instrument for measuring angular distances used especially in navigation to observe altitudes of celestial bodies (as in ascertaining latitude and longitude).",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Cairo_Conference\">Cairo Conference</a>, held in Cairo, Egypt in 1943 codenamed SEXTANT",
+      "HASH(0x5ca4b58)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Sextant\">Sextant</a>, a navigation instrument"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373455756,
+   "book" : [],
+   "micro-www" : {
+      "sextant" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Navigational equipment",
+         "Celestial navigation",
+         "1731 introductions",
+         "Astronomical instruments"
+      ],
+      "text" : "\n\n\nA 'sextant' is an instrument used to measure the angle between any two visible\nobjects. Its primary use is to determine the angle between a celestial object\nand the horizon which is known as the object's altitude. Making this measurement\nis known as sighting the object, shooting the object, or taking a sight and it\nis an essential part of celestial navigation. The angle, and the time when it\nwas measured, can be used to calculate a position line on a nautical or\naeronautical chart. Common uses of the sextant include sighting the sun at solar\nnoon and sighting Polaris at night, to find one's latitude (in northern\nlatitudes). Sighting the height of a landmark can give a measure of distance off\nand, held horizontally, a sextant can measure angles between objects for a\nposition on a chart.<ref></ref> A sextant can also be used to measure the lunar\ndistance between the moon and another celestial object (e.g., star, planet) in\norder to determine Greenwich time which is important because it can then be used\nto determine the longitude.\n\nThe scale of a sextant has a length of of a turn (60°); hence the sextant's name\n(sextāns, -antis is the Latin word for \"one sixth\"). An octant is a similar\ndevice with a shorter scale ( turn, or 45°), whereas a quintant ( turn, or 72°)\nand a quadrant ( turn, or 90°) have longer scales.\n\nSir Isaac Newton (1643–1727) invented the principle of the doubly reflecting\nnavigation instrument (a reflecting quadrant—see Octant (instrument)), but never\npublished it. Two men independently developed the octant around 1730: John\nHadley (1682–1744), an English mathematician, and Thomas Godfrey (1704–1749), a\nglazier in Philadelphia. John Bird made the first sextant in 1757. The octant\nand later the sextant, replaced the Davis quadrant as the main instrument for\nnavigation.\n",
+      "title" : "sextant",
+      "headings" : [
+         "Navigational sextants",
+         "See also",
+         "Notes",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "3: Davis_quadrant",
+      "2: Horizon",
+      "2: Sun",
+      "2: Latitude",
+      "2: Longitude",
+      "2: Mariner's_astrolabe",
+      "2: Monocular",
+      "2: Telescope",
+      "1: Measuring_instrument",
+      "1: Angle",
+      "1: Astronomical_object",
+      "1: Celestial_navigation",
+      "1: Position_line",
+      "1: Nautical_chart",
+      "1: Solar_noon",
+      "1: Polaris",
+      "1: Greenwich_time",
+      "1: Latin",
+      "1: Quintant",
+      "1: Isaac_Newton",
+      "1: Reflecting_instrument",
+      "1: John_Hadley",
+      "1: Philadelphia",
+      "1: Angular_accuracy",
+      "1: Cosine_error",
+      "1: Alidade",
+      "1: Silvering",
+      "1: Artificial_horizon",
+      "1: Minute_of_arc",
+      "1: Vernier_scale",
+      "1: Nautical_mile",
+      "1: Invar",
+      "1: Aircraft",
+      "1: Fuselage",
+      "1: Star",
+      "1: Planet",
+      "1: Watercraft",
+      "1: Mist",
+      "1: Rotation_around_a_fixed_axis",
+      "1: Horizontal_coordinate_system",
+      "1: Nautical_twilight",
+      "1: Dawn",
+      "1: Dusk",
+      "1: Point_source",
+      "1: Moon",
+      "1: Lunar_phase",
+      "1: Landmark",
+      "1: Lighthouse",
+      "1: Lighthouse#Components",
+      "1: Sea_level",
+      "1: Collimation",
+      "1: Longitude_by_chronometer",
+      "1: Harold_Gatty",
+      "1: Gago_Coutinho",
+      "1: Intercept_method",
+      "1: History_of_longitude",
+      "1: Navigation",
+      "1: Bris_sextant",
+      "1: National_Imagery_and_Mapping_Agency",
+      "1: The_Stationery_Office",
+      "1: Nathaniel_Bowditch"
+   ]
+}

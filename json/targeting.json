@@ -1,0 +1,108 @@
+{
+   "micrownet" : [],
+   "micro" : [
+      "take",
+      "aim",
+      "target",
+      "take_aim",
+      "place",
+      "train",
+      "direct",
+      "point"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Insurgency_targeting_of_teachers_causes_south_Thailand_school_closures\" title=\"Insurgency targeting of teachers causes south Thailand school closures\">Insurgency <span class=\"searchmatch\">targeting</span> of teachers causes south Thailand school closures</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Israeli_Defense_Force_admits_to_targeting_media_center_in_Gaza_City_airstrike\" title=\"Israeli Defense Force admits to targeting media center in Gaza City airstrike\">Israeli Defense Force admits to <span class=\"searchmatch\">targeting</span> media center in Gaza City airstrike</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/MTV_debuts_%27Logo%27_cable_channel_targeting_gay_market\" title=\"MTV debuts &#39;Logo&#39; cable channel targeting gay market\">MTV debuts &#39;Logo&#39; cable channel <span class=\"searchmatch\">targeting</span> gay market</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Anti-censorship_developers_targeting_China%27s_%22Great_Firewall%22\" title=\"Anti-censorship developers targeting China&#39;s &quot;Great Firewall&quot;\">Anti-censorship developers <span class=\"searchmatch\">targeting</span> China&#39;s &quot;Great Firewall&quot;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._airstrike_targeting_Ayman_al-Zawahiri_leaves_18_dead_in_Pakistani_village\" title=\"U.S. airstrike targeting Ayman al-Zawahiri leaves 18 dead in Pakistani village\">U.S. airstrike <span class=\"searchmatch\">targeting</span> Ayman al-Zawahiri leaves 18 dead in Pakistani village</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/DHS_funds_research_targeting_anonymity_and_blogs\" title=\"DHS funds research targeting anonymity and blogs\">DHS funds research <span class=\"searchmatch\">targeting</span> anonymity and blogs</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/China_kills_suspected_terrorists,_prevents_%27air_disaster%27\" title=\"China kills suspected terrorists, prevents &#39;air disaster&#39;\">China kills suspected terrorists, prevents &#39;air disaster&#39;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pakistan:_Twelve_militants_killed_in_recent_fighting\" title=\"Pakistan: Twelve militants killed in recent fighting\">Pakistan: Twelve militants killed in recent fighting</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pakistani_PM:_Anti-Taliban_offensive_in_South_Waziristan_is_over\" title=\"Pakistani PM: Anti-Taliban offensive in South Waziristan is over\">Pakistani PM: Anti-Taliban offensive in South Waziristan is over</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Suspected_Iraqi_bomber_murders_investigator\" title=\"Suspected Iraqi bomber murders investigator\">Suspected Iraqi bomber murders investigator</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Two_arrested_in_New_York_subway_bomb_plot\" title=\"Two arrested in New York subway bomb plot\">Two arrested in New York subway bomb plot</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_warns_of_attacks_on_Sudan-Uganda_flights\" title=\"US warns of attacks on Sudan-Uganda flights\">US warns of attacks on Sudan-Uganda flights</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mujahideen_Shura_Council_claims_responsibility_for_various_attacks_in_Iraq\" title=\"Mujahideen Shura Council claims responsibility for various attacks in Iraq\">Mujahideen Shura Council claims responsibility for various attacks in Iraq</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/The_Mujahideen_Shura_Council_Claims_Responsibility_for_a_Suicide_Bombing_Targeting_British_Soldiers_in_al-Basra,_Multiple_Bombings_and_Sniper_Attacks_Targeting_American_and_Iraqi_Forces,_and_a_Judge,_in_al-Ameriya,_al-Najaf,_al-Mosul_and_Baghdad\" title=\"The Mujahideen Shura Council Claims Responsibility for a Suicide Bombing Targeting British Soldiers in al-Basra, Multiple Bombings and Sniper Attacks Targeting American and Iraqi Forces, and a Judge, in al-Ameriya, al-Najaf, al-Mosul and Baghdad\"> Responsibility for a Suicide Bombing <span class=\"searchmatch\">Targeting</span> British Soldiers in al-</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Small_plane_crashes_in_central_Berlin\" title=\"Small plane crashes in central Berlin\">Small plane crashes in central Berlin</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Gun_background_checks_a_no-go_in_US_Senate\" title=\"Gun background checks a no-go in US Senate\">Gun background checks a no-go in US Senate</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pakistani_Official_claims_%27foreign_terrorists%27_among_civilians_killed_in_U.S._airstrike\" title=\"Pakistani Official claims &#39;foreign terrorists&#39; among civilians killed in U.S. airstrike\">Pakistani Official claims &#39;foreign terrorists&#39; among civilians killed in U.S. airstrike</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pakistani_Officials_say_at_least_4_terrorists_killed_in_U.S._airstrike_targeting_Ayman_al-Zawahiri\" title=\"Pakistani Officials say at least 4 terrorists killed in U.S. airstrike targeting Ayman al-Zawahiri\"> least 4 terrorists killed in U.S. airstrike <span class=\"searchmatch\">targeting</span> Ayman al-Zawahiri</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/75_Iraqi_militants_reported_dead_in_U.S._offensive\" title=\"75 Iraqi militants reported dead in U.S. offensive\">75 Iraqi militants reported dead in U.S. offensive</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Creationism_dangerous_in_education:_Council_of_Europe_resolution\" title=\"Creationism dangerous in education: Council of Europe resolution\">Creationism dangerous in education: Council of Europe resolution</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/USA_tracks_information_on_travelers\" title=\"USA tracks information on travelers\">USA tracks information on travelers</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Japan_will_not_shoot_down_missiles_headed_for_allies\" title=\"Japan will not shoot down missiles headed for allies\">Japan will not shoot down missiles headed for allies</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Targeting",
+      "\n<a href=\"http://duckduckgo.com/geotargeting\">Geo targeting</a>, in internet marketing",
+      "Wikipedia",
+      "Targeting",
+      "http://www.merriam-webster.com/dictionary/targeting",
+      "targeting definition: to make a target of.",
+      "\n<a href=\"http://duckduckgo.com/Targeted_advertising\">Targeted advertising</a>, to select a demographic or other group of people to <a href=\"http://duckduckgo.com/?q=advertise\">advertise</a> to, and create advertisements appropriately",
+      "\n<a href=\"http://duckduckgo.com/Geographic_targeting\">Geographic targeting</a>, in geography",
+      "\n<a href=\"http://duckduckgo.com/Behavioral_targeting\">Behavioral targeting</a>, in marketing",
+      "Targeting is to make a thing or group of things a target, to select it or them to be acted upon.",
+      "\n<a href=\"http://duckduckgo.com/Gene_targeting\">Gene targeting</a>, in genetics",
+      "HASH(0x51e5468)",
+      "\n<a href=\"http://duckduckgo.com/Targeting_pods\">Targeting pods</a>, in warfare",
+      "\n<a href=\"http://duckduckgo.com/Inflation_targeting\">Inflation targeting</a>, in economics",
+      "https://i.duckduckgo.com/i/495ae058.png",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Targeting_(politics)\">Targeting (politics)</a>, to determine where to spend the resources of time, money, manpower and attention when campaigning for election",
+      "HASH(0x51aae00)",
+      "\n<a href=\"http://duckduckgo.com/Targeting_(warfare)\">Targeting (warfare)</a>, to select objects or installations to be attacked, taken, or destroyed",
+      "D",
+      "Targeting is to make a thing or group of things a target, to select it or them to be acted upon.",
+      "\n<a href=\"http://duckduckgo.com/Targeting_tower\">Targeting tower</a>, a radio frequency antenna",
+      "\n<a href=\"http://duckduckgo.com/Protein_targeting\">Protein targeting</a>, in cell biology, is the mechanism by which a protein is transported to its proper destination"
+   ],
+   "micro-www-search" : [
+      "targeting\n>http\nhttp://en.m.wikipedia.org/wiki/Targeting\nhttp://en.wikipedia.org/w/index.php?title=Targeting&oldid=450961352\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
+      "Targeting_tower\n>http\nhttp://edwardbetts.com/find_link?q=Targeting_tower\nhttp://en.m.wikipedia.org/wiki/Targeting_tower\nhttp://en.wikipedia.org/w/index.php?title=Special%3ASearch&redirs=1&search=Targeting+tower&fulltext=Search&ns0=1&title=Special%3ASearch&advanced=1&fulltext=Targeting+tower\nhttp://en.wikipedia.org/w/index.php?title=Targeting_tower&oldid=539236362\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/40px-Wiki_letter_w.svg.png\n\n",
+      "Targeting_pods\n>http\nhttp://en.m.wikipedia.org/wiki/Targeting_pods\nhttp://en.wikipedia.org/w/index.php?title=Targeting_pods&oldid=541110738\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/3/37/NAVFLIR_DAMOCLES_P1220870.jpg/220px-NAVFLIR_DAMOCLES_P1220870.jpg\n\n",
+      "Targeting_(warfare)\n>http\nhttp://en.m.wikipedia.org/wiki/Targeting_(warfare)\nhttp://en.wikipedia.org/w/index.php?title=Targeting_(warfare)&oldid=542385880\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n\n",
+      "Targeting_(politics)\n>http\nhttp://en.m.wikipedia.org/wiki/Targeting_(politics)\nhttp://en.wikipedia.org/w/index.php?title=Targeting_(politics)&oldid=432913601\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n"
+   ],
+   "created" : 1373459044,
+   "micro-www" : {
+      "targeting" : [
+         "targeting",
+         "Targeting_tower",
+         "Targeting_pods",
+         "Targeting_(warfare)",
+         "Targeting_(politics)",
+         ""
+      ]
+   },
+   "book" : [],
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n\n\n'Targeting' is to make a thing or group of things a target, to select it or them\nto be acted upon.\n\n* Targeting (warfare), to select objects or installations to be attacked, taken,\n  or destroyed\n* Targeting (politics), to determine where to spend the resources of time,\n  money, manpower and attention when campaigning for election\n* Targeted advertising, to select a demographic or other group of people to\n  advertise to, and create advertisements appropriately\n* Targeting pods, in warfare\n* Targeting tower, a radio frequency antenna\n* Behavioral targeting, in marketing\n* Gene targeting, in genetics\n* Geo targeting, in internet marketing\n* Geographic targeting, in geography\n* Inflation targeting, in economics\n* Protein targeting, in cell biology, is the mechanism by which a protein is\n  transported to its proper destination\n",
+      "title" : "targeting",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Targeted_advertising",
+      "1: Advertising",
+      "1: Targeting_pods",
+      "1: Targeting_tower",
+      "1: Behavioral_targeting",
+      "1: Gene_targeting",
+      "1: Geo_targeting",
+      "1: Geographic_targeting",
+      "1: Inflation_targeting",
+      "1: Protein_targeting"
+   ]
+}

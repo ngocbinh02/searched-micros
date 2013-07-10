@@ -1,0 +1,58 @@
+{
+   "micrownet" : [
+      "sturdiness"
+   ],
+   "micro" : [
+      "sturdiness",
+      "entity",
+      "state",
+      "healthiness",
+      "condition",
+      "abstract_entity",
+      "abstraction",
+      "attribute",
+      "physiological_condition",
+      "good_health",
+      "physical_condition",
+      "status",
+      "physiological_state"
+   ],
+   "duck" : [
+      "Substantially made or built; stout: sturdy canvas.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=sturdiness",
+      "HASH(0x4fa7c88)",
+      "The Free Dictionary",
+      "sturdiness",
+      "http://www.merriam-webster.com/dictionary/sturdiness",
+      "sturdiness definition: firmly built or constituted.",
+      "Merriam-Webster",
+      "HASH(0x4fa5060)",
+      "Substantially made or built; stout: sturdy canvas.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australians_need_bigger_toilets\" title=\"Australians need bigger toilets\">Australians need bigger toilets</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Keith_Richards_denies_reports_that_he_snorted_his_father%27s_ashes\" title=\"Keith Richards denies reports that he snorted his father&#39;s ashes\">Keith Richards denies reports that he snorted his father&#39;s ashes</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Flora_springing_into_Spring_in_Mid-Atlantic_coastal_region,_USA\" title=\"Flora springing into Spring in Mid-Atlantic coastal region, USA\">Flora springing into Spring in Mid-Atlantic coastal region, USA</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NHL:_Devils_fall_to_Lightning,_series_tied_at_1-1\" title=\"NHL: Devils fall to Lightning, series tied at 1-1\">NHL: Devils fall to Lightning, series tied at 1-1</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/First_Tropical_Cyclone_of_2006_forms_off_West_Australia\" title=\"First Tropical Cyclone of 2006 forms off West Australia\">First Tropical Cyclone of 2006 forms off West Australia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Iran_court_sentences_opposition_activist_to_death\" title=\"Iran court sentences opposition activist to death\">Iran court sentences opposition activist to death</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NASA_issues_survivability_report_on_Columbia_crash\" title=\"NASA issues survivability report on Columbia crash\">NASA issues survivability report on Columbia crash</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373461019,
+   "book" : [],
+   "micro-www" : {
+      "sturdiness" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

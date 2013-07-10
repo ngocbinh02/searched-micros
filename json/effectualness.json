@@ -1,29 +1,58 @@
 {
-   "created" : 1373449075,
    "micrownet" : [
       "effectualness"
    ],
-   "micro" : [
-      "effectualness",
-      "abstraction",
-      "trenchancy",
-      "entity",
-      "attribute",
-      "powerfulness",
-      "effectiveness",
-      "efficacy",
-      "power",
-      "quality",
-      "effectuality",
-      "effectivity",
-      "incisiveness",
-      "abstract_entity",
-      "efficaciousness"
+   "google" : [
+      "/url?q=http://www.merriam-webster.com/dictionary/effectual&sa=U&ei=IiPdUf77EISPO7bEgMAH&ved=0CBgQFjAA&usg=AFQjCNHFJb32utk0S_Nw51UTHduuqSLCyQ",
+      "/url?q=http://www.merriam-webster.com/thesaurus/effectualness&sa=U&ei=IiPdUf77EISPO7bEgMAH&ved=0CBwQFjAB&usg=AFQjCNFQY8Za3OBeSbhckZZysxeIqtWCqQ",
+      "/url?q=http://www.thefreedictionary.com/Effectualness&sa=U&ei=IiPdUf77EISPO7bEgMAH&ved=0CB8QFjAC&usg=AFQjCNFqowght6zjAH2Hak3YLjZkZvaY_Q",
+      "/url?q=http://www.thefreedictionary.com/effectual&sa=U&ei=IiPdUf77EISPO7bEgMAH&ved=0CCMQFjAD&usg=AFQjCNE_mzOyHzqFQ7BTHY0Zx-Jlv2hSjQ",
+      "/url?q=http://thesaurus.com/browse/effectualness&sa=U&ei=IiPdUf77EISPO7bEgMAH&ved=0CCcQFjAE&usg=AFQjCNEMnMSUYJ3LjNb6JnnUxhaLfrJpLg",
+      "/url?q=http://thesaurus.com/browse/in-effectualness&sa=U&ei=IiPdUf77EISPO7bEgMAH&ved=0CCoQFjAF&usg=AFQjCNH0nkUisWVVecnwuiS3879HDGwPbA",
+      "/url?q=http://thesaurus.com/browse/effectual&sa=U&ei=IiPdUf77EISPO7bEgMAH&ved=0CC0QFjAG&usg=AFQjCNGTJC_0ipLCMTo-0wtihkVzn9ySCg",
+      "/url?q=http://dictionary.reference.com/browse/effectualness&sa=U&ei=IiPdUf77EISPO7bEgMAH&ved=0CDEQFjAH&usg=AFQjCNEllwa3m3wE2vB3JDWeVNqBLh_Tag",
+      "/url?q=http://en.wiktionary.org/wiki/effectualness&sa=U&ei=IiPdUf77EISPO7bEgMAH&ved=0CDQQFjAI&usg=AFQjCNHz7Vn89g5TZ95V_fU7oZKyuPcfRw",
+      "/url?q=http://www.interglot.com/dictionary/en/es/translate/effectualness&sa=U&ei=IiPdUf77EISPO7bEgMAH&ved=0CDcQFjAJ&usg=AFQjCNGJU1vvnl6hR4Vbj7FflfQjCi5XPw"
    ],
+   "micro" : [
+      "abstract_entity",
+      "effectuality",
+      "efficaciousness",
+      "efficacy",
+      "incisiveness",
+      "entity",
+      "effectiveness",
+      "powerfulness",
+      "effectivity",
+      "abstraction",
+      "quality",
+      "effectualness",
+      "trenchancy",
+      "attribute",
+      "power"
+   ],
+   "duck" : [
+      "Effectualness",
+      "Producing or sufficient to produce a desired effect; fully adequate.",
+      "Producing or sufficient to produce a desired effect; fully adequate."
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Endangered_Luzon_Buttonquail_photographed_alive_by_Philippines_documentary\" title=\"Endangered Luzon Buttonquail photographed alive by Philippines documentary\">Endangered Luzon Buttonquail photographed alive by Philippines documentary</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373454093,
+   "book" : [],
    "micro-www" : {
       "effectualness" : [
          ""
       ]
    },
-   "micro-www-search" : []
+   "micro-relation" : []
 }

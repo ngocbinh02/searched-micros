@@ -1,0 +1,98 @@
+{
+   "micrownet" : [
+      "distich"
+   ],
+   "micro" : [
+      "definite_quantity",
+      "twain",
+      "yoke",
+      "two",
+      "quantity",
+      "duo",
+      "ii",
+      "duad",
+      "digit",
+      "span",
+      "abstraction",
+      "whole_number",
+      "abstract_entity",
+      "brace",
+      "couple",
+      "deuce",
+      "figure",
+      "twosome",
+      "amount",
+      "duet",
+      "measure",
+      "doubleton",
+      "couplet",
+      "integer",
+      "distich",
+      "dyad",
+      "pair",
+      "entity",
+      "number"
+   ],
+   "duck" : [
+      "A unit of verse consisting of two lines, especially as used in Greek and Latin elegiac poetry.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=distich",
+      "HASH(0x5c72358)",
+      "The Free Dictionary",
+      "distich",
+      "http://www.merriam-webster.com/dictionary/distich",
+      "distich definition: a strophic unit of two lines.",
+      "Merriam-Webster",
+      "HASH(0x5d06940)",
+      "A unit of verse consisting of two lines, especially as used in Greek and Latin elegiac poetry.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373456407,
+   "book" : [],
+   "micro-www" : {
+      "distich" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Poetic form",
+         "Poetic rhythm"
+      ],
+      "text" : "\n\nA 'couplet' is a pair of lines of meter in poetry. It usually consists of two\nlines that rhyme and have the same meter.\n",
+      "title" : "Couplet",
+      "headings" : [
+         "Background",
+         "Couplets in Chinese poetry",
+         "See also",
+         "Notes"
+      ]
+   },
+   "micro-relation" : [
+      "1: Iambic_pentameter",
+      "1: Poetic_epigram",
+      "1: Shakespearean",
+      "1: Sonnet",
+      "1: Chaucer",
+      "1: John_Dryden",
+      "1: Alexander_Pope",
+      "1: Edna_St._Vincent_Millay",
+      "1: Chinese_couplet",
+      "1: Chinese_New_Year",
+      "1: CCTV_New_Year's_Gala",
+      "1: Mainland_China",
+      "1: Chinese_character",
+      "1: Elegiac_couplet",
+      "1: Closed_couplet",
+      "1: Chastushka",
+      "1: Coupletist"
+   ]
+}

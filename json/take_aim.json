@@ -1,0 +1,55 @@
+{
+   "micrownet" : [
+      "take_aim"
+   ],
+   "micro" : [
+      "position",
+      "take_aim",
+      "direct",
+      "take",
+      "aim",
+      "train"
+   ],
+   "duck" : [
+      "HASH(0x50326d8)",
+      "HASH(0x5001490)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Barack_Obama_accepts_US_presidential_nomination_from_the_Democratic_Party\" title=\"Barack Obama accepts US presidential nomination from the Democratic Party\">Barack Obama accepts US presidential nomination from the Democratic Party</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Vandalism_on_online_epilepsy_forum_triggers_convulsions\" title=\"Vandalism on online epilepsy forum triggers convulsions\">Vandalism on online epilepsy forum triggers convulsions</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Typhoon_Megi_heads_towards_China\" title=\"Typhoon Megi heads towards China\">Typhoon Megi heads towards China</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Cigarette_butts_kill_fish,_scientists_complain\" title=\"Cigarette butts kill fish, scientists complain\">Cigarette butts kill fish, scientists complain</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_refugee_contractor_accused_of_breaching_its_duty_of_care\" title=\"Australian refugee contractor accused of breaching its duty of care\">Australian refugee contractor accused of breaching its duty of care</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._house_majority_leader_DeLay_indicted,_steps_down_temporarily\" title=\"U.S. house majority leader DeLay indicted, steps down temporarily\">U.S. house majority leader DeLay indicted, steps down temporarily</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Amnesty_International_calls_for_Guantanamo_shutdown\" title=\"Amnesty International calls for Guantanamo shutdown\">Amnesty International calls for Guantanamo shutdown</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Rolling_Stones_unleash_new_song_critical_of_Bush\" title=\"Rolling Stones unleash new song critical of Bush\">Rolling Stones unleash new song critical of Bush</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ruling_Liberals_of_British_Columbia_attack_opposition_in_election_campaign\" title=\"Ruling Liberals of British Columbia attack opposition in election campaign\">Ruling Liberals of British Columbia attack opposition in election campaign</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Computer_giants_attack_Aussie_CSIRO%27s_WLAN_patent\" title=\"Computer giants attack Aussie CSIRO&#39;s WLAN patent\">Computer giants attack Aussie CSIRO&#39;s WLAN patent</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Microsoft_announces_Xbox_360_launch_dates\" title=\"Microsoft announces Xbox 360 launch dates\">Microsoft announces Xbox 360 launch dates</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Demosphere.net_launches_new_Wiki\" title=\"Demosphere.net launches new Wiki\">Demosphere.net launches new Wiki</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/APEC_2005_wraps_up\" title=\"APEC 2005 wraps up\">APEC 2005 wraps up</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Third_party_U.S._presidential_candidates_hold_debate\" title=\"Third party U.S. presidential candidates hold debate\">Third party U.S. presidential candidates hold debate</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Paralympic_table_tennis_silver_medalist_Piotr_Grudzien_beats_Poland%27s_Richard_Csejtey\" title=\"Paralympic table tennis silver medalist Piotr Grudzien beats Poland&#39;s Richard Csejtey\">Paralympic table tennis silver medalist Piotr Grudzien beats Poland&#39;s Richard Csejtey</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Two_Brampton_residents_announce_2010_Ontario_mayoral_intentions\" title=\"Two Brampton residents announce 2010 Ontario mayoral intentions\">Two Brampton residents announce 2010 Ontario mayoral intentions</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Death_of_Kentucky_census_worker_considered_suicide\" title=\"Death of Kentucky census worker considered suicide\">Death of Kentucky census worker considered suicide</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Britain_expects_troops_out_of_Iraq_within_next_4_years\" title=\"Britain expects troops out of Iraq within next 4 years\">Britain expects troops out of Iraq within next 4 years</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Reports:_North_Korean_officials_may_meet_with_United_States_officials_in_New_York\" title=\"Reports: North Korean officials may meet with United States officials in New York\">Reports: North Korean officials may meet with United States officials in New York</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tech_heavyweights_unite_to_offer_$100_laptops_to_poor_nations\" title=\"Tech heavyweights unite to offer $100 laptops to poor nations\">Tech heavyweights unite to offer $100 laptops to poor nations</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373460764,
+   "book" : [],
+   "micro-www" : {
+      "take_aim" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

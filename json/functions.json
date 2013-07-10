@@ -1,0 +1,116 @@
+{
+   "micrownet" : [],
+   "micro" : [
+      "relation",
+      "run",
+      "mathematical_relation",
+      "mathematical_function",
+      "metric_function",
+      "trigonometric_function",
+      "threshold_function",
+      "kronecker_delta",
+      "expansion",
+      "abstract_entity",
+      "multinomial",
+      "inverse_function",
+      "transformation",
+      "metric",
+      "polynomial",
+      "go",
+      "function",
+      "abstraction",
+      "entity",
+      "operate",
+      "exponential_function",
+      "mapping",
+      "operator",
+      "isometry",
+      "map",
+      "single-valued_function",
+      "work",
+      "exponential",
+      "circular_function"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Function_model\">Function model</a>, a structured representation of the functions, activities or processes",
+      "https://en.wikipedia.org/wiki/Function",
+      "Wikipedia",
+      "Function",
+      "http://www.merriam-webster.com/dictionary/function",
+      "\n<a href=\"http://duckduckgo.com/functional_theories_of_grammar\">Function (language)</a>, in linguistics, a way of achieving an aim using language",
+      "function definition: professional or official position.",
+      "\n<a href=\"http://duckduckgo.com/Function_(biology)\">Function (biology)</a>, explaining why a feature survived selection",
+      "\n<a href=\"http://duckduckgo.com/subroutine\">Function (computer science)</a>, or subroutine, a portion of code within a larger program, performs a specific task",
+      "\n<a href=\"http://duckduckgo.com/Function_(engineering)\">Function (engineering)</a>, related to the selected property of a system",
+      "\n<a href=\"http://duckduckgo.com/Function_(E-40_song)\">Function (E-40 song)</a>, a 2012 song by American rapper <a href=\"http://duckduckgo.com/?q=E-40\">E-40</a> featuring <a href=\"http://duckduckgo.com/?q=YG\">YG</a>, iAmSu & Problem",
+      "\n<a href=\"http://duckduckgo.com/Function_object\">Function object</a>, or functor or functionoid, a concept of object-oriented programming",
+      "HASH(0x4f2cab8)",
+      "\n<a href=\"http://duckduckgo.com/Function_(mathematics)\">Function (mathematics)</a>, an abstract entity that associates an input to a corresponding output according to some rule",
+      "\n<a href=\"http://duckduckgo.com/Function_Drinks\">Function Drinks</a>, a beverage company based in Redondo Beach, California.",
+      "Merriam-Webster",
+      "HASH(0x51d71b0)",
+      "\n<a href=\"http://duckduckgo.com/Diatonic_function\">Diatonic function</a>, a term in music theory",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Manmohan_Singh_becomes_the_third_longest_serving_Prime_Minister_of_India\" title=\"Manmohan Singh becomes the third longest serving Prime Minister of India\">Manmohan Singh becomes the third longest serving Prime Minister of India</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Fidel_Castro_temporarily_hands_power_to_his_brother_Raul\" title=\"Fidel Castro temporarily hands power to his brother Raul\">Fidel Castro temporarily hands power to his brother Raul</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Fidel_Castro_delegates_functions_to_his_Brother\" title=\"Fidel Castro delegates functions to his Brother\">Fidel Castro delegates <span class=\"searchmatch\">functions</span> to his Brother</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sex,_mental_and_physical_exercise,_fight_dementia\" title=\"Sex, mental and physical exercise, fight dementia\">Sex, mental and physical exercise, fight dementia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Study:_Taste_of_beer_causes_chemical_reward_in_male_brain\" title=\"Study: Taste of beer causes chemical reward in male brain\">Study: Taste of beer causes chemical reward in male brain</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Researchers_create_rat_kidneys_in_a_laboratory\" title=\"Researchers create rat kidneys in a laboratory\">Researchers create rat kidneys in a laboratory</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Some_Australian_government_welfare_recipients_will_be_forced_to_pay_their_bills\" title=\"Some Australian government welfare recipients will be forced to pay their bills\">Some Australian government welfare recipients will be forced to pay their bills</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mathematician_Martin_Taylor_awarded_knighthood\" title=\"Mathematician Martin Taylor awarded knighthood\">Mathematician Martin Taylor awarded knighthood</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/First_person_infected_with_Bird_Flu_in_China_has_clean_bill_of_health\" title=\"First person infected with Bird Flu in China has clean bill of health\">First person infected with Bird Flu in China has clean bill of health</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2007_Intel_Developer_Forum_Taipei_Autumn_starts_with_Mobility_and_Internet_Experience\" title=\"2007 Intel Developer Forum Taipei Autumn starts with Mobility and Internet Experience\">2007 Intel Developer Forum Taipei Autumn starts with Mobility and Internet Experience</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Microsoft_without_Bill_Gates_at_the_helm\" title=\"Microsoft without Bill Gates at the helm\">Microsoft without Bill Gates at the helm</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Author_Amy_Scobee_recounts_abuse_as_Scientology_executive\" title=\"Author Amy Scobee recounts abuse as Scientology executive\">Author Amy Scobee recounts abuse as Scientology executive</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/China_ends_retaliation_on_social_media_sites\" title=\"China ends retaliation on social media sites\">China ends retaliation on social media sites</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/IBM_and_Cisco_in_attempt_to_create_a_universal_platform_for_communications_software_development\" title=\"IBM and Cisco in attempt to create a universal platform for communications software development\">IBM and Cisco in attempt to create a universal platform for communications software development</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/OpenSync_Interview_-_syncing_on_the_free_desktop\" title=\"OpenSync Interview - syncing on the free desktop\">OpenSync Interview - syncing on the free desktop</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Computer-controlled_prosthetic_ankle_patent_awarded_to_Oklahoma_City_company\" title=\"Computer-controlled prosthetic ankle patent awarded to Oklahoma City company\">Computer-controlled prosthetic ankle patent awarded to Oklahoma City company</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Word_2007_will_include_blogging_tools\" title=\"Word 2007 will include blogging tools\">Word 2007 will include blogging tools</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Former_Israeli_PM_Ariel_Sharon_moved_out_of_ICU\" title=\"Former Israeli PM Ariel Sharon moved out of ICU\">Former Israeli PM Ariel Sharon moved out of ICU</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hubble_Space_Telescope%27s_main_camera_stops_working\" title=\"Hubble Space Telescope&#39;s main camera stops working\">Hubble Space Telescope&#39;s main camera stops working</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/SciScoop_changes_ownership\" title=\"SciScoop changes ownership\">SciScoop changes ownership</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ethics_debate_surrounds_surgery_to_stunt_disabled_girl%27s_growth\" title=\"Ethics debate surrounds surgery to stunt disabled girl&#39;s growth\">Ethics debate surrounds surgery to stunt disabled girl&#39;s growth</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [
+      "functions\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
+      "Functions\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n"
+   ],
+   "created" : 1373460662,
+   "book" : [],
+   "micro-www" : {
+      "functions" : [
+         "functions",
+         "Functions",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Function' may refer to:\n\n*Function (biology), explaining why a feature survived selection *Function\n(computer science), or subroutine, a portion of code within a larger program,\nperforms a specific task *Function (engineering), related to the selected\nproperty of a system *Function (language), in linguistics, a way of achieving an\naim using language *Function (mathematics), an abstract entity that associates\nan input to a corresponding output according to some rule *Function model, a\nstructured representation of the functions, activities or processes *Function\nobject, or functor or functionoid, a concept of object-oriented programming\n*Function Drinks, a beverage company based in Redondo Beach, California.\n*Diatonic function, a term in music theory *Function (E-40 song), a 2012 song by\nAmerican rapper E-40 featuring YG, iAmSu & Problem\n",
+      "title" : "Function",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Function_model",
+      "1: Function_object",
+      "1: Function_Drinks",
+      "1: Diatonic_function",
+      "1: E-40",
+      "1: Function_hall",
+      "1: Structural_unit",
+      "1: Functor"
+   ]
+}

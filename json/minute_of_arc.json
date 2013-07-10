@@ -1,0 +1,123 @@
+{
+   "micrownet" : [],
+   "micro" : [
+      "quantity",
+      "minute",
+      "abstraction",
+      "minute_of_arc",
+      "abstract_entity",
+      "unit_of_measurement",
+      "amount",
+      "angular_unit",
+      "unit",
+      "arcminute",
+      "entity",
+      "measure",
+      "definite_quantity"
+   ],
+   "duck" : [
+      "HASH(0x5c9af58)",
+      "HASH(0x5c983a8)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_rules_football:_Drouin_through_to_2010_Gippsland_Football_League_Grand_Final\" title=\"Australian rules football: Drouin through to 2010 Gippsland Football League Grand Final\">Australian rules football: Drouin through to 2010 Gippsland Football League Grand Final</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NASA_launches_two_space_probes_to_the_moon\" title=\"NASA launches two space probes to the moon\">NASA launches two space probes to the moon</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/An_interview_with_gossip_columnist_Michael_Musto_on_the_art_of_celebrity_journalism\" title=\"An interview with gossip columnist Michael Musto on the art of celebrity journalism\">An interview with gossip columnist Michael Musto on the art of celebrity journalism</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [
+      "Minute_of_arc\n>pdf\nhttp://www.bobwheeler.com/guns/GroupStat.pdf\nhttp://www.bobwheeler.com/guns/GroupStat.pdf\n\n>image\nhttp://upload.wikimedia.org/math/8/d/8/8d8209398588ede7c663c7446209a6e1.png\n"
+   ],
+   "created" : 1373455751,
+   "book" : [],
+   "micro-www" : {
+      "minute_of_arc" : [
+         "Minute_of_arc",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Units of angle|Arcminute"
+      ],
+      "text" : "A 'minute of arc', 'arcminute', or 'minute arc' ('MOA'), is a unit of angular\nmeasurement equal to one sixtieth () of one degree. In turn, a 'second of arc'\nor 'arcsecond' is one sixtieth () of one arcminute. Since one degree is defined\nas one three hundred and sixtieth () of a rotation, one minute of arc is of a\nrotation, which also equals radians. It is used in those fields which require a\nunit for the expression of small angles, such as astronomy, optometry,\nophthalmology, optics, navigation and marksmanship.\n\nThe number of square arcminutes in a complete sphere is\n: <math>4 \\pi \\left(\\frac{1}{\\pi}10\\,800\\right)^2 =\n: \\frac{1}{\\pi}466\\,560\\,000,</math>\nor approximately 148,510,660.498 square arcminutes.\n\nThe arcsecond is of a degree, or of a circle, or radians (which is\napproximately radian).\n\nTo express even smaller angles, standard SI prefixes can be employed; in\nparticular, the 'milliarcsecond', abbreviated 'mas', is used in astronomy.\n",
+      "title" : "minute of arc",
+      "headings" : [
+         "Symbols and abbreviations",
+         "Uses",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "3: Radian",
+      "3: Astronomy",
+      "2: Navigation",
+      "2: ASCII",
+      "2: Angular_diameter",
+      "1: Angle",
+      "1: Optometry",
+      "1: Ophthalmology",
+      "1: Optics",
+      "1: Marksmanship",
+      "1: SI_prefix",
+      "1: Circumflex",
+      "1: Double_prime",
+      "1: Degree_symbol",
+      "1: Celestial_navigation",
+      "1: Global_Positioning_System",
+      "1: Firearm",
+      "1: Rifle",
+      "1: Imperial_measurement_system",
+      "1: Subtend",
+      "1: Inch",
+      "1: Yard",
+      "1: Shooting_range",
+      "1: Metric_units",
+      "1: M24_Sniper_Weapon_System",
+      "1: Metric_system",
+      "1: Reticle",
+      "1: Cartography",
+      "1: Sea_level",
+      "1: Equator",
+      "1: Nautical_mile",
+      "1: Geoid",
+      "1: Oblate_spheroid",
+      "1: Latitude",
+      "1: Longitude",
+      "1: Prime_Meridian",
+      "1: Reference_ellipsoid",
+      "1: Radix",
+      "1: Surveying",
+      "1: Metes_and_bounds",
+      "1: Cardinal_direction",
+      "1: Declination",
+      "1: Celestial_equator",
+      "1: Parallax",
+      "1: Stellar_parallax",
+      "1: Proper_motion",
+      "1: Parsec",
+      "1: Astrometry",
+      "1: Gaia_mission",
+      "1: U.S._Naval_Observatory",
+      "1: R_Doradus",
+      "1: Supergiant",
+      "1: Betelgeuse",
+      "1: Astronomical_seeing",
+      "1: Telescope",
+      "1: Pluto",
+      "1: Table_tennis",
+      "1: Diffraction_limit#Diffraction_limit_of_telescopes",
+      "1: Hubble_space_telescope",
+      "1: Adaptive_optics",
+      "1: Visual_acuity#Normal_vision",
+      "1: Spatial_pattern",
+      "1: Visual_angle",
+      "1: Optical_engineering"
+   ]
+}

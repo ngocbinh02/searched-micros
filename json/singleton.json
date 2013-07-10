@@ -1,0 +1,122 @@
+{
+   "micrownet" : [
+      "john_singleton_copley",
+      "singleton"
+   ],
+   "micro" : [
+      "entity",
+      "one",
+      "digit",
+      "abstract_entity",
+      "i",
+      "number",
+      "definite_quantity",
+      "mate",
+      "figure",
+      "amount",
+      "single",
+      "integer",
+      "singleton",
+      "abstraction",
+      "whole_number",
+      "unity",
+      "quantity",
+      "measure",
+      "fellow",
+      "ace"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Singleton",
+      "\n<a href=\"http://duckduckgo.com/Singleton_variable\">Singleton variable</a>, a variable in computer programming that is referred to only once",
+      "\n<a href=\"http://duckduckgo.com/Ken_Singleton\">Ken Singleton</a> (born 1947), sports commentator, former professional baseball player",
+      "Wikipedia",
+      "Singleton",
+      "\n<a href=\"http://duckduckgo.com/Singleton_pattern\">Singleton pattern</a>, a design pattern used in object-oriented programming to permit no more than one instance of a class",
+      "\n<a href=\"http://duckduckgo.com/Singleton_(global_governance)\">Singleton (global governance)</a>, a single decision-maker at the highest level of the world order",
+      "http://www.merriam-webster.com/dictionary/singleton",
+      "singleton definition: a card that is the only one of its suit originally dealt to a player.",
+      "\n<a href=\"http://duckduckgo.com/John_Singleton\">John Singleton</a> (born 1968), American film director, producer, and screenwriter",
+      "HASH(0x5d31ea0)",
+      "\n<a href=\"http://duckduckgo.com/Singleton_bound\">Singleton bound</a>, used in coding theory",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Singleton_field\">Singleton field</a>, used in conformal field theory",
+      "HASH(0x5ed7478)",
+      "\n<a href=\"http://duckduckgo.com/Singleton_(lifestyle)\">Singleton (lifestyle)</a>, a self-description of individuals without romantic partners, particularly applied to women in their thirties introduced in the novel and film Bridget Jones's Diary",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Singleton_(mathematics)\">Singleton (mathematics)</a>, a set with exactly one element"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/National_Rugby_Competition_to_kick_off_in_Australia\" title=\"National Rugby Competition to kick off in Australia\">National Rugby Competition to kick off in Australia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Former_Australian_defence_chief%27s_son_to_be_discharged_from_the_Army\" title=\"Former Australian defence chief&#39;s son to be discharged from the Army\">Former Australian defence chief&#39;s son to be discharged from the Army</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Flooding_hits_NSW_Hunter_Region\" title=\"Flooding hits NSW Hunter Region\">Flooding hits NSW Hunter Region</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sprint_Nextel_customer_service_rep._harasses_client;_Sprint_cancels_his_account\" title=\"Sprint Nextel customer service rep. harasses client; Sprint cancels his account\">Sprint Nextel customer service rep. harasses client; Sprint cancels his account</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373455870,
+   "book" : [],
+   "micro-www" : {
+      "singleton" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Singleton' may refer to\n* Singleton (mathematics), a set with exactly one element\n* Singleton (global governance), a single decision-maker at the highest level of\n  the world order\n* Singleton pattern, a design pattern used in object-oriented programming to\n  permit no more than one instance of a class\n* Singleton bound, used in coding theory\n* Singleton field, used in conformal field theory\n* Singleton, another name for the Catawba (grape)\n* Singleton variable, a variable in computer programming that is referred\n  to only once\n* A character encoded with one unit in variable-width encoding schemes for\n  computer character sets\n* A person that is not a twin or other multiple birth\n* Singleton (lifestyle), a self-description of individuals without romantic\n  partners, particularly applied to women in their thirties introduced in the\n  novel and film Bridget Jones's Diary\n* \"Singleton\", a short story by Greg Egan\n* An empty tag or self-closing tag in XHTML or XML coding\n* A single card in a suit, as part of a hand in contract bridge\n* In linguistics, a consonant that is not a geminate\n",
+      "title" : "singleton",
+      "headings" : [
+         "Places named Singleton",
+         "People with the surname Singleton"
+      ]
+   },
+   "micro-relation" : [
+      "1: Singleton_pattern",
+      "1: Singleton_bound",
+      "1: Singleton_field",
+      "1: Singleton_variable",
+      "1: Variable-width_encoding",
+      "1: Twin",
+      "1: Greg_Egan",
+      "1: XML",
+      "1: Contract_bridge",
+      "1: Geminate",
+      "1: Singleton,_New_South_Wales",
+      "1: Singleton,_Western_Australia",
+      "1: Singleton,_Lancashire",
+      "1: Singleton,_West_Sussex",
+      "1: Singleton,_Kent",
+      "1: Singleton_Park",
+      "1: Singleton_Abbey",
+      "1: Singleton_Hospital",
+      "1: Al_Singleton",
+      "1: Alvin_Singleton",
+      "1: Big_Lurch",
+      "1: Benjamin_\"Pap\"_Singleton",
+      "1: Billy_Singleton",
+      "1: C._T._Singleton,_Jr.",
+      "1: Charles_Laverne_Singleton",
+      "1: Charles_S._Singleton",
+      "1: Dave_Singleton",
+      "1: Henry_Earl_Singleton",
+      "1: Jim_Singleton",
+      "1: John_Singleton",
+      "1: Ken_Singleton",
+      "1: Kenneth_Singleton",
+      "1: Lawrence_Singleton",
+      "1: Michael_Singleton",
+      "1: Mike_Singleton",
+      "1: Penny_Singleton",
+      "1: Roger_Singleton-Turner",
+      "1: Sandy_Singleton",
+      "1: Valerie_Singleton",
+      "1: Walter_K._Singleton",
+      "1: William_Dean_Singleton",
+      "1: Zutty_Singleton"
+   ]
+}

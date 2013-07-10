@@ -1,0 +1,138 @@
+{
+   "micrownet" : [
+      "adenine",
+      "nicotinamide_adenine_dinucleotide",
+      "nicotinamide_adenine_dinucleotide_phosphate"
+   ],
+   "micro" : [
+      "entity",
+      "substance",
+      "physical_entity",
+      "adenine",
+      "chemical_compound",
+      "matter",
+      "component_part",
+      "component",
+      "part",
+      "stuff",
+      "purine",
+      "chemical_substance",
+      "a",
+      "compound",
+      "abstraction",
+      "abstract_entity",
+      "relation",
+      "chemical",
+      "material",
+      "alkali",
+      "portion",
+      "base",
+      "constituent"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "Adenine  (A, Ade) is a nucleobase (a purine derivative) with a variety of roles in biochemistry including cellular respiration, in the form of both the energy-rich adenosine triphosphate (ATP) and the cofactors nicotinamide adenine dinucleotide (NAD) and flavin adenine dinucleotide (FAD), and protein synthesis, as a chemical component of DNA and RNA. The shape of adenine is complementary to either thymine in DNA or uracil in RNA.",
+      "\n<a href=\"http://duckduckgo.com/c/Purines\">Purines</a>",
+      "https://en.wikipedia.org/wiki/Adenine",
+      "HASH(0x4f98378)",
+      "Wikipedia",
+      "Adenine",
+      "http://www.merriam-webster.com/dictionary/adenine",
+      "\n<a href=\"http://duckduckgo.com/c/Vitamins\">Vitamins</a>",
+      "adenine definition: a purine base C^^5^^H^^5^^N^^5^^ that codes hereditary information in the genetic code in DNA and RNA — compare cytosine, guanine, thymine, uracil.",
+      "Merriam-Webster",
+      "https://i.duckduckgo.com/i/ce5dd7d2.png",
+      "HASH(0x4f97d18)",
+      "Adenine  (A, Ade) is a nucleobase (a purine derivative) with a variety of roles in biochemistry including cellular respiration, in the form of both the energy-rich adenosine triphosphate (ATP) and the cofactors nicotinamide adenine dinucleotide (NAD) and flavin adenine dinucleotide (FAD), and protein synthesis, as a chemical component of DNA and RNA. The shape of adenine is complementary to either thymine in DNA or uracil in RNA.",
+      "A",
+      "\n<a href=\"http://duckduckgo.com/Adenine_(programming_language)\">Adenine (programming language)</a> - Adenine, named after the nucleobase adenine, is a scripting language that is cross-platform, which is developed in the context of project Haystack and Project Oxygen of the Massachusetts Insti..."
+   ],
+   "micro-www-search" : [
+      "Adenine\n>http\nhttp://en.m.wikipedia.org/wiki/Adenine\nhttp://en.wikipedia.org/w/index.php?title=Adenine&oldid=539412816\nhttp://ghr.nlm.nih.gov/ghr/glossary/adenine\nhttp://www.etymonline.com/index.php?term=adenine\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adenine.svg/120px-Adenine.svg.png\n"
+   ],
+   "created" : 1373458429,
+   "micro-www" : {
+      "adenine" : [
+         "Adenine",
+         ""
+      ]
+   },
+   "book" : [],
+   "wiki" : {
+      "cat" : [
+         "Purines",
+         "Vitamins"
+      ],
+      "text" : "\n{{chembox\n| Watchedfields = changed verifiedrevid = 477242257 ImageFile1 = Adenine.svg\n| ImageSize1 = 120px ImageFileL2 = Adenine-3D-balls.png ImageSizeL2 = 120px\n| ImageFileR2 = Adenine-3D-vdW.png ImageSizeR2 = 120px IUPACName = 9H-purin-6-\n| amine OtherNames = 6-aminopurine Section1 = {{Chembox Identifiers UNII_Ref =\n| UNII = JAC85A2161 KEGG_Ref = KEGG = D00034 InChI = 1/C5H5N5/c6-4-3-5(9-1-7-3)10-2-8-4/h1-\n| 2H,(H3,6,7,8,9,10) InChIKey = GFFGJBXGBJISGV-UHFFFAOYAT SMILES1 =\n| c1[nH]c2c(ncnc2n1)N StdInChI_Ref = StdInChI = 1S/C5H5N5/c6-4-3-5(9-1-7-3)10-2-8-4/h1-\n| 2H,(H3,6,7,8,9,10) StdInChIKey_Ref = StdInChIKey = GFFGJBXGBJISGV-UHFFFAOYSA-N\n| ChEMBL_Ref = ChEMBL = 226345 CASNo = 73-24-5 CASNo_Ref = ChemSpiderID_Ref =\n| ChemSpiderID=185 PubChem = 190 DrugBank_Ref = DrugBank = DB00173 ChEBI_Ref =\n| ChEBI = 16708 SMILES = n1c(c2c(nc1)ncn2)N MeSHName = EINECS = 200-796-1 RTECS\n| = AU6125000\n  }}\n| Section2 = {{Chembox Properties Formula =\n| C<sub>5</sub>H<sub>5</sub>N<sub>5</sub> MolarMass = 135.13 g/mol Appearance =\n| white to light yellow, crystalline Density = 1.6 g/cm<sup>3</sup> (calculated)\n| MeltingPt = 360–365 °C (decomposes) BoilingPt = Solubility = 0.103 g/100 mL\n| SolubleOther = negligible in ethanol pKa=4.15 (secondary), 9.80\n| (primary)<ref>Dawson, R.M.C., et al., Data for Biochemical Research, Oxford,\n| Clarendon Press, 1959.</ref>\n  }}\n| Section4 = {{Chembox Thermochemistry DeltaHf = 96.9 kJ/mol HeatCapacity =\n| 147.0 J/K·mol\n  }}\n| Section5 = {{Chembox Hazards ExternalMSDS = [http://www.sigmaaldrich.com/MSDS-\n| /MSDS/DisplayMSDSPage.do?country=PL&language=EN-\n| generic&productNumber=A8626&brand=SIGMA&PageToGoToURL=http%3A//www.sigmaaldri-\n| ch.com/catalog/product/sigma/a8626%3Flang%3Dpl MSDS] MainHazards = FlashPt =\n| Autoignition = LD50 = 227 mg/kg (rat, oral)\n  }} }} 'Adenine' ('A', 'Ade') is a nucleobase (a purine derivative) with a\n  variety of roles in biochemistry including cellular respiration, in the form\n  of both the energy-rich adenosine triphosphate (ATP) and the cofactors\n  nicotinamide adenine dinucleotide (NAD) and flavin adenine dinucleotide (FAD),\n  and protein synthesis, as a chemical component of DNA and\n  RNA.<ref>[http://ghr.nlm.nih.gov/ghr/glossary/adenine Definition of Adenine\n  from the Genetics Home Reference] - National Institutes of Health</ref> The\n  shape of adenine is complementary to either thymine in DNA or uracil in RNA.\n",
+      "title" : "adenine",
+      "headings" : [
+         "Structure",
+         "Biosynthesis",
+         "Function",
+         "History",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "3: DNA",
+      "3: RNA",
+      "3: Guanine",
+      "2: Nucleobase",
+      "2: Adenosine_triphosphate",
+      "2: Nicotinamide_adenine_dinucleotide",
+      "2: FAD",
+      "2: Protein_biosynthesis",
+      "2: Thymine",
+      "2: Uracil",
+      "2: Nucleotide",
+      "2: Earth",
+      "1: Ethanol",
+      "1: Purine",
+      "1: Biochemistry",
+      "1: Cellular_respiration",
+      "1: National_Institutes_of_Health",
+      "1: Tautomer",
+      "1: Purine_metabolism",
+      "1: Inosine_monophosphate",
+      "1: Ribose_phosphate",
+      "1: Glycine",
+      "1: Glutamine",
+      "1: Aspartic_acid",
+      "1: Nucleic_acid",
+      "1: Hydrogen_bond",
+      "1: Adenosine",
+      "1: Nucleoside",
+      "1: Ribose",
+      "1: Deoxyadenosine",
+      "1: Deoxyribose",
+      "1: Phosphate_group",
+      "1: Chemical_energy",
+      "1: Chemical_reactions",
+      "1: Vitamin_B",
+      "1: Niacin",
+      "1: Riboflavin",
+      "1: Hermann_Emil_Fischer",
+      "1: Albrecht_Kossel",
+      "1: Gland",
+      "1: Greek_language",
+      "1: Joan_Oró",
+      "1: Polymerization",
+      "1: Ammonia",
+      "1: Hydrogen_cyanide",
+      "1: Origin_of_life",
+      "1: NASA",
+      "1: Meteorites",
+      "1: Organic_molecules",
+      "1: Outer_space",
+      "1: Ultraviolet_light",
+      "1: Spectroscopy",
+      "1: Heterocyclic"
+   ]
+}

@@ -1,0 +1,123 @@
+{
+   "micrownet" : [
+      "typescript",
+      "typeset",
+      "typesetter",
+      "typesetter's_case",
+      "typesetting_machine"
+   ],
+   "micro" : [
+      "conception",
+      "entity",
+      "mental_object",
+      "abstract_entity",
+      "breed",
+      "variety",
+      "psychological_feature",
+      "noesis",
+      "typewrite",
+      "edition",
+      "nature",
+      "content",
+      "idea",
+      "variant",
+      "construct",
+      "knowledge",
+      "form",
+      "abstraction",
+      "version",
+      "category",
+      "kind",
+      "write",
+      "type",
+      "thought",
+      "cognitive_content",
+      "sort",
+      "variation",
+      "concept",
+      "cognition"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Type_system\">Type system</a>, defines a programming language's response to data types",
+      "https://en.wikipedia.org/wiki/Type",
+      "HASH(0x556f0b8)",
+      "Wikipedia",
+      "Type",
+      "\n<a href=\"http://duckduckgo.com/Data_type\">Data type</a>, collection of values used for computations",
+      "http://www.merriam-webster.com/dictionary/type",
+      "type definition: a person or thing (as in the Old Testament) believed to foreshadow another (as in the New Testament).",
+      "Merriam-Webster",
+      "HASH(0x58b5800)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Typeface\">Typeface</a>, used in <a href=\"http://duckduckgo.com/?q=typesetting\">typesetting</a>"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Study_finds_burning_your_food_could_cause_some_cancers\" title=\"Study finds burning your food could cause some cancers\">Study finds burning your food could cause some cancers</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Type_O_Negative_announce_US_tour_details;_Lordi_supporting\" title=\"Type O Negative announce US tour details; Lordi supporting\"><span class=\"searchmatch\">Type</span> O Negative announce US tour details; Lordi supporting</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Toronto_team-led_research_on_Type_1_Diabetes_%27groundbreaking%27\" title=\"Toronto team-led research on Type 1 Diabetes &#39;groundbreaking&#39;\">Toronto team-led research on <span class=\"searchmatch\">Type</span> 1 Diabetes &#39;groundbreaking&#39;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._study_says_Type_2_diabetes_in_youth_is_hard_to_control\" title=\"U.S. study says Type 2 diabetes in youth is hard to control\">U.S. study says <span class=\"searchmatch\">Type</span> 2 diabetes in youth is hard to control</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mullah_Omar_says_his_jihad_to_continue\" title=\"Mullah Omar says his jihad to continue\">Mullah Omar says his jihad to continue</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Actor_John_Fiedler,_voice_of_Piglet_and_%22Bob_Newhart%22_regular,_dead_at_80\" title=\"Actor John Fiedler, voice of Piglet and &quot;Bob Newhart&quot; regular, dead at 80\">Actor John Fiedler, voice of Piglet and &quot;Bob Newhart&quot; regular, dead at 80</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Asexual_ants_discovered\" title=\"Asexual ants discovered\">Asexual ants discovered</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/EU_ban_on_75W_bulbs_comes_into_force\" title=\"EU ban on 75W bulbs comes into force\">EU ban on 75W bulbs comes into force</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_drug_may_treat_virtually_all_viral_infections\" title=\"New drug may treat virtually all viral infections\">New drug may treat virtually all viral infections</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tomatoes,_watermelons,_peppers_reduce_stroke_risk,_Finnish_study_suggests\" title=\"Tomatoes, watermelons, peppers reduce stroke risk, Finnish study suggests\">Tomatoes, watermelons, peppers reduce stroke risk, Finnish study suggests</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Halloween_faces_pumpkin_shortage\" title=\"Halloween faces pumpkin shortage\">Halloween faces pumpkin shortage</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/First_rail_service_in_50_years_begins_across_Korean_borders\" title=\"First rail service in 50 years begins across Korean borders\">First rail service in 50 years begins across Korean borders</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Iran_conducts_nine_missile_tests\" title=\"Iran conducts nine missile tests\">Iran conducts nine missile tests</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_researchers_discover_first_antibiotics_originating_from_insects\" title=\"UK researchers discover first antibiotics originating from insects\">UK researchers discover first antibiotics originating from insects</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scientists_create_micro-battery_using_3D_printing\" title=\"Scientists create micro-battery using 3D printing\">Scientists create micro-battery using 3D printing</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Study_says_dogs_can_smell_lung_and_breast_cancer\" title=\"Study says dogs can smell lung and breast cancer\">Study says dogs can smell lung and breast cancer</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pope_gets_feeding_tube_through_nose\" title=\"Pope gets feeding tube through nose\">Pope gets feeding tube through nose</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NASA:_Series_of_errors_led_to_loss_of_Mars_Global_Surveyor\" title=\"NASA: Series of errors led to loss of Mars Global Surveyor\">NASA: Series of errors led to loss of Mars Global Surveyor</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Clothes_from_China_piling_up_on_European_borders\" title=\"Clothes from China piling up on European borders\">Clothes from China piling up on European borders</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Extremely_drug-resistant_tuberculosis_strain_emerges_in_South_Africa\" title=\"Extremely drug-resistant tuberculosis strain emerges in South Africa\">Extremely drug-resistant tuberculosis strain emerges in South Africa</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [
+      "types\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
+      "Typesetting\n>pdf\nhttp://www.cs.uwaterloo.ca/40th/Chronology/ChronologyGlossary.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n\n",
+      "Types_of_swords\n>http\nhttp://en.wikipedia.org/w/index.php?title=Types_of_swords&oldid=560694694\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n"
+   ],
+   "created" : 1373460588,
+   "book" : [],
+   "micro-www" : {
+      "types" : [
+         "types",
+         "Typesetting",
+         "Types_of_swords",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Type' may refer to:\n\nIn 'philosophy': *Type (metaphysics), a concept in the type&ndash;token\ndistinction\n\nIn 'theology': *Type & Antitype in Typology (theology)\n\nIn 'mathematics': *Type (model theory) *Type theory, basis for the study of type\nsystems *Type or arity, the number of operands a function takes *Type, any\nproposition or set in the intuitionistic type theory\n\nIn 'computing': *Typing, producing text via a keyboard *Data type, collection of\nvalues used for computations *Type (command), a DOS command to display contents\nof a file *Type (Unix), a POSIX shell builtin that gives information about\ncommands *Type system, defines a programming language's response to data types\n\nIn 'sociology': *Ideal type *Normal type *Typification\n\n'Other':\n* ''Type'' (song), a 1990 song by the band Living Colour\n* Type (designation), a model numbering system used for vehicles or\n  military equipment\n* Typeface, used in typesetting ** Sort (typesetting), cast metal type for\n  printing ** Type Museum, museum about the above\n* Architectural type, classification of architecture by functional types\n  (houses, institutions), morphological types or historical types Architectural\n  style subcategories\n* Dog type, categorization by use or function of domestic dogs\n* Type (biology), which fixes a scientific name to a taxon\n",
+      "title" : "Type",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Type_theory",
+      "1: Arity",
+      "1: Intuitionistic_type_theory",
+      "1: Typing",
+      "1: Data_type",
+      "1: Type_system",
+      "1: Ideal_type",
+      "1: Normal_type",
+      "1: Typification",
+      "1: Typeface",
+      "1: Typesetting",
+      "1: Type_Museum",
+      "1: Architectural_style",
+      "1: Dog_type",
+      "1: Categorization"
+   ]
+}

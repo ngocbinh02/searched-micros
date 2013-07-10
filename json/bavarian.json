@@ -1,0 +1,92 @@
+{
+   "micrownet" : [
+      "bavarian",
+      "bavarian_blue",
+      "bavarian_cream"
+   ],
+   "micro" : [
+      "living_thing",
+      "bavarian",
+      "mortal",
+      "dweller",
+      "somebody",
+      "animate_thing",
+      "object",
+      "organism",
+      "someone",
+      "individual",
+      "entity",
+      "european",
+      "german",
+      "cause",
+      "habitant",
+      "denizen",
+      "physical_object",
+      "being",
+      "causal_agency",
+      "person",
+      "physical_entity",
+      "whole",
+      "unit",
+      "indweller",
+      "soul",
+      "inhabitant",
+      "causal_agent"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Bavarian",
+      "HASH(0x5da63f8)",
+      "Wikipedia",
+      "Bavarian",
+      "\n<a href=\"http://duckduckgo.com/Bavarian_cream\">Bavarian cream</a>, a custard sauce",
+      "\n<a href=\"http://duckduckgo.com/Bavarian_language\">Bavarian language</a>, a group of closely related dialects of German, spoken in parts of Bavaria, most of Austria and <a href=\"http://duckduckgo.com/?q=South Tyrol\">South Tyrol</a>",
+      "\n<a href=\"http://duckduckgo.com/Bavarii\">Bavarii</a>, Bajuwari, Baiwaren, Bajuwaren tribe of <a href=\"http://duckduckgo.com/?q=Bavaria\">Bavaria</a>, The first part \"baio\" refers to the name of the <a href=\"http://duckduckgo.com/?q=Celtic\">Celtic</a> <a href=\"http://duckduckgo.com/?q=Boii\">Boii</a> tribe,",
+      "The High German dialect of Bavaria and Austria.",
+      "HASH(0x5da7dc0)",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/German_opposition_launches_election_campaign\" title=\"German opposition launches election campaign\">German opposition launches election campaign</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Two_killed,_two_seriously_injured_after_boulder_collapses_onto_house_in_Stein_an_der_Traun,_Germany\" title=\"Two killed, two seriously injured after boulder collapses onto house in Stein an der Traun, Germany\">Two killed, two seriously injured after boulder collapses onto house in Stein an der Traun, Germany</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Schr%C3%B6der_gives_up_German_chancellorship_ambitions,_makes_way_for_Merkel\" title=\"Schröder gives up German chancellorship ambitions, makes way for Merkel\">Schröder gives up German chancellorship ambitions, makes way for Merkel</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2007_German_League_Cup:_Werder_Bremen_1-4_FC_Bayern_Munich\" title=\"2007 German League Cup: Werder Bremen 1-4 FC Bayern Munich\">2007 German League Cup: Werder Bremen 1-4 FC Bayern Munich</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2007/08_Bundesliga:_Bayern_Munich_vs._N%C3%BCrnberg\" title=\"2007/08 Bundesliga: Bayern Munich vs. Nürnberg\">2007/08 Bundesliga: Bayern Munich vs. Nürnberg</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Angela_Merkel_elected_new_German_chancellor\" title=\"Angela Merkel elected new German chancellor\">Angela Merkel elected new German chancellor</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bremer_Freimarkt,_oldest_fair_in_Germany,_reaches_its_climax\" title=\"Bremer Freimarkt, oldest fair in Germany, reaches its climax\">Bremer Freimarkt, oldest fair in Germany, reaches its climax</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/TV_debate_between_German_chancellor_Schr%C3%B6der_and_opposition_leader_Merkel_held\" title=\"TV debate between German chancellor Schröder and opposition leader Merkel held\">TV debate between German chancellor Schröder and opposition leader Merkel held</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pope_visits_homeland_in_Germany\" title=\"Pope visits homeland in Germany\">Pope visits homeland in Germany</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/German_Cardinal_Ratzinger_elected_Pope_Benedict_XVI\" title=\"German Cardinal Ratzinger elected Pope Benedict XVI\">German Cardinal Ratzinger elected Pope Benedict XVI</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Piano_Man%27_speaks_and_is_identified,_returns_home_to_Germany\" title=\"&#39;Piano Man&#39; speaks and is identified, returns home to Germany\">&#39;Piano Man&#39; speaks and is identified, returns home to Germany</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373455503,
+   "book" : [],
+   "micro-www" : {
+      "bavarian" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "'Bavarian' is the adjective form of the German state of Bavaria, and refers to\npeople of ancestry from Bavaria. Bavarian may also refer to:\n* Bavarii, Bajuwari, Baiwaren, Bajuwaren tribe of Bavaria, The first part \"baio\"\n  refers to the name of the Celtic Boii tribe,\n* Bavarian language, a group of closely related dialects of German, spoken in\n  parts of Bavaria, most of Austria and South Tyrol\n* Bavarian cream, a custard sauce\n",
+      "title" : "bavarian",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "2: Bavaria",
+      "1: Bavarii",
+      "1: Celts",
+      "1: Boii",
+      "1: Bavarian_language",
+      "1: German_language",
+      "1: South_Tyrol",
+      "1: Bavarian_cream"
+   ]
+}

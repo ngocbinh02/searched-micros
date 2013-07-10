@@ -1,0 +1,58 @@
+{
+   "micrownet" : [],
+   "micro" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Holliday",
+      "HASH(0x52dad88)",
+      "HASH(0x52da560)",
+      "Wikipedia",
+      "Holliday",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/holiday&v=n\">holiday</a> - A holiday is a day set aside by custom or by law in which normal activities, especially business or work, is to be suspended or reduced."
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/CanadaVOTES:_NDP_candidate_David_Sparrow_in_Don_Valley_West\" title=\"CanadaVOTES: NDP candidate David Sparrow in Don Valley West\">CanadaVOTES: NDP candidate David Sparrow in Don Valley West</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Nine_dead_in_shooting_rampage_at_Connecticut_beer_warehouse\" title=\"Nine dead in shooting rampage at Connecticut beer warehouse\">Nine dead in shooting rampage at Connecticut beer warehouse</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Major_League_Baseball_roundup:_September_12,_2007\" title=\"Major League Baseball roundup: September 12, 2007\">Major League Baseball roundup: September 12, 2007</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Major_League_Baseball_roundup:_September_2,_2007\" title=\"Major League Baseball roundup: September 2, 2007\">Major League Baseball roundup: September 2, 2007</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Major_League_Baseball_roundup:_September_11,_2007\" title=\"Major League Baseball roundup: September 11, 2007\">Major League Baseball roundup: September 11, 2007</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Paramedics_protest_outside_New_South_Wales_parliament\" title=\"Paramedics protest outside New South Wales parliament\">Paramedics protest outside New South Wales parliament</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:August_4,_2010\" title=\"News briefs:August 4, 2010\">News briefs:August 4, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/St_Louis_Cardinals_win_baseball%27s_World_Series\" title=\"St Louis Cardinals win baseball&#39;s World Series\">St Louis Cardinals win baseball&#39;s World Series</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [
+      "Holliday_junction\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Holliday_Junction.svg/200px-Holliday_Junction.svg.png\n"
+   ],
+   "created" : 1373460440,
+   "book" : [],
+   "micro-www" : {
+      "holliday" : [
+         "Holliday_junction",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Holliday' is the name of a number of places and people. It may refer to:\n",
+      "title" : "holliday",
+      "headings" : [
+         "Places",
+         "Other uses",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Holliday,_Missouri",
+      "1: Holliday,_Texas",
+      "1: Hollidays_Cove,_West_Virginia",
+      "1: Billie_Holiday",
+      "1: Roman_Holliday"
+   ]
+}

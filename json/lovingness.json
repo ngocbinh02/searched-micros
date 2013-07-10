@@ -1,26 +1,67 @@
 {
-   "created" : 1373449076,
    "micrownet" : [
       "lovingness"
    ],
    "micro" : [
-      "entity",
-      "warmth",
-      "abstraction",
+      "love",
       "state",
-      "warmheartedness",
+      "attribute",
+      "lovingness",
       "caring",
       "abstract_entity",
+      "abstraction",
+      "emotion",
       "feeling",
-      "love",
-      "lovingness",
-      "attribute",
-      "emotion"
+      "entity",
+      "warmheartedness",
+      "warmth"
    ],
+   "duck" : [
+      "The only two bands of good will, loveliness and lovingness.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=Lovingness",
+      "HASH(0x5d38ec8)",
+      "The Free Dictionary",
+      "Lovingness",
+      "The only two bands of good will, loveliness and lovingness.",
+      "HASH(0x5cf5888)",
+      "The only two bands of good will, loveliness and lovingness.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tennessee_Lieutenant_Governor_suggests_that_Islam_is_a_%27cult%27\" title=\"Tennessee Lieutenant Governor suggests that Islam is a &#39;cult&#39;\">Tennessee Lieutenant Governor suggests that Islam is a &#39;cult&#39;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_nationals_arrested_for_alleged_abduction_of_Haitian_children\" title=\"US nationals arrested for alleged abduction of Haitian children\">US nationals arrested for alleged abduction of Haitian children</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/President_Obama_easily_wins_Texas_primary;_Romney_secures_Republican_nomination\" title=\"President Obama easily wins Texas primary; Romney secures Republican nomination\">President Obama easily wins Texas primary; Romney secures Republican nomination</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sam_Brownback_on_running_for_President,_gay_rights,_the_Middle_East_and_religion\" title=\"Sam Brownback on running for President, gay rights, the Middle East and religion\">Sam Brownback on running for President, gay rights, the Middle East and religion</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pope_Benedict_XVI_visit_to_the_United_States_begins\" title=\"Pope Benedict XVI visit to the United States begins\">Pope Benedict XVI visit to the United States begins</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:July_29,_2010\" title=\"News briefs:July 29, 2010\">News briefs:July 29, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_mother_cleared_of_attempted_murder_of_ME-suffering_daughter\" title=\"UK mother cleared of attempted murder of ME-suffering daughter\">UK mother cleared of attempted murder of ME-suffering daughter</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Apple_announces_two_billionth_download_from_App_Store\" title=\"Apple announces two billionth download from App Store\">Apple announces two billionth download from App Store</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_woman_convicted_of_%27mercy%27_murder_of_son\" title=\"UK woman convicted of &#39;mercy&#39; murder of son\">UK woman convicted of &#39;mercy&#39; murder of son</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hollywood_legend_Charlton_Heston_dies_at_age_84\" title=\"Hollywood legend Charlton Heston dies at age 84\">Hollywood legend Charlton Heston dies at age 84</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Zealand_pilot_selling_uniform_online\" title=\"New Zealand pilot selling uniform online\">New Zealand pilot selling uniform online</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sesame_Street_to_promote_healthy_lifestyles\" title=\"Sesame Street to promote healthy lifestyles\">Sesame Street to promote healthy lifestyles</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/South_Australian_father_and_daughter_in_sexual_relationship\" title=\"South Australian father and daughter in sexual relationship\">South Australian father and daughter in sexual relationship</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Man_arrested_in_Mississippi_over_Internet_assassination_threats_against_Barack_Obama\" title=\"Man arrested in Mississippi over Internet assassination threats against Barack Obama\">Man arrested in Mississippi over Internet assassination threats against Barack Obama</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/American_author_Michael_Crichton_dies_at_age_66\" title=\"American author Michael Crichton dies at age 66\">American author Michael Crichton dies at age 66</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scottish_judge_sentences_Jack_Frew_murderer_to_life_imprisonment\" title=\"Scottish judge sentences Jack Frew murderer to life imprisonment\">Scottish judge sentences Jack Frew murderer to life imprisonment</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Interview_with_gay_marriage_movement_founder_Evan_Wolfson\" title=\"Interview with gay marriage movement founder Evan Wolfson\">Interview with gay marriage movement founder Evan Wolfson</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/On_the_campaign_trail,_April_2012\" title=\"On the campaign trail, April 2012\">On the campaign trail, April 2012</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Dog%27s_throat_cut_in_Cairns,_Australia\" title=\"Dog&#39;s throat cut in Cairns, Australia\">Dog&#39;s throat cut in Cairns, Australia</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373455631,
+   "book" : [],
    "micro-www" : {
       "lovingness" : [
          ""
       ]
    },
-   "micro-www-search" : []
+   "micro-relation" : []
 }

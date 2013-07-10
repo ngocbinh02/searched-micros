@@ -1,0 +1,81 @@
+{
+   "micrownet" : [
+      "endogenous",
+      "endogenous_(vs._exogenous)",
+      "endogenous_depression"
+   ],
+   "micro" : [],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/c/Etymology\">Etymology</a>",
+      "Endogenous substances are those that originate from within an organism, tissue, or cell.",
+      "https://en.wikipedia.org/wiki/Endogeny",
+      "HASH(0x501ca90)",
+      "Wikipedia",
+      "Endogeny",
+      "\n<a href=\"http://duckduckgo.com/Endogenous_growth_theory\">Endogenous growth theory</a> - Endogenous growth theory holds that economic growth is primarily the result of endogenous and not external forces.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=endogenous",
+      "\n<a href=\"http://duckduckgo.com/Endogenous_preferences\">Endogenous preferences</a> - Endogenous preferences are preferences that cannot be taken as given, but are affected by individual internal responses to the external state of affairs.",
+      "Originating or produced within an organism, tissue, or cell: endogenous secretions.",
+      "TheFreeDictionary",
+      "\n<a href=\"http://duckduckgo.com/Endogeneity_(economics)\">Endogeneity (economics)</a> - In a statistical model, a parameter or variable is said to be endogenous when there is a correlation between the parameter or variable and the error term.",
+      "HASH(0x50584a0)",
+      "Endogenous substances are those that originate from within an organism, tissue, or cell.",
+      "A"
+   ],
+   "micro-www-search" : [
+      "endogenous\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
+      "Endogenous_viral_element\n",
+      "Endogenous_mediator\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Myoglobin.png/30px-Myoglobin.png\n\n",
+      "Endogenous\n>http\nhttp://dictionary.reference.com/search?q=endogenous\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n"
+   ],
+   "created" : 1373459878,
+   "micro-www" : {
+      "endogenous" : [
+         "endogenous",
+         "Endogenous_viral_element",
+         "Endogenous_mediator",
+         "Endogenous",
+         ""
+      ]
+   },
+   "book" : [],
+   "wiki" : {
+      "cat" : [
+         "Etymology"
+      ],
+      "text" : "\n\n'Endogenous' substances are those that originate from within an organism,\ntissue, or cell.<ref></ref>\n\nEndogenous viral elements (EVEs) are DNA sequences derived from viruses that are\nancestrally inserted into the genomes of germ cells. These sequences, which may\nbe fragments of viruses, or entire viral genomes (proviruses), can persist in\nthe germline, being passed on from one generation to the next as host alleles.\n\nEndogenous processes include senescence, the menstrual cycle and the self-\nsustained circadian rhythms of plants and animals.\n\nIn some biological systems, endogeneity refers to the recipient of DNA (usually\nin prokaryotes). However, because of homeostasis, discerning between internal\nand external influences is often difficult.\n\nEndogenous transcription factors refers to those that are manufactured by the\ncell, as opposed to cloned transcription factors.\n",
+      "title" : "Endogeny",
+      "headings" : [
+         "Etymology",
+         "Notes",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Endogenous_viral_element",
+      "1: Germ_cell",
+      "1: Provirus",
+      "1: Germline",
+      "1: Allele",
+      "1: Senescence",
+      "1: Menstrual_cycle",
+      "1: Circadian_rhythm",
+      "1: Biology",
+      "1: DNA",
+      "1: Prokaryote",
+      "1: Homeostasis",
+      "1: Transcription_factor",
+      "1: Exogenous",
+      "1: Endogeneity",
+      "1: Endogenous_preferences",
+      "1: Endogenous_growth_theory"
+   ]
+}

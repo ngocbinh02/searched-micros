@@ -1,0 +1,69 @@
+{
+   "micrownet" : [
+      "all_important",
+      "important",
+      "important-looking",
+      "important_person",
+      "very_important_person"
+   ],
+   "micro" : [],
+   "duck" : [
+      "Strongly affecting the course of events or the nature of things; significant: an important message that must get through; close friends who are important to me.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=important",
+      "HASH(0x5164740)",
+      "The Free Dictionary",
+      "important",
+      "http://www.merriam-webster.com/dictionary/important",
+      "important definition: marked by or indicative of significant worth or consequence.",
+      "Merriam-Webster",
+      "HASH(0x50e4c38)",
+      "Strongly affecting the course of events or the nature of things; significant: an important message that must get through; close friends who are important to me.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Missed_field_goal_gives_Dallas_important_victory\" title=\"Missed field goal gives Dallas important victory\">Missed field goal gives Dallas <span class=\"searchmatch\">important</span> victory</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Security_is_important_for_potential_presidents_in_Haiti\" title=\"Security is important for potential presidents in Haiti\">Security is <span class=\"searchmatch\">important</span> for potential presidents in Haiti</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Greek-Cypriots_vote_for_President\" title=\"Greek-Cypriots vote for President\">Greek-Cypriots vote for President</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Blair_challenges_New_Zealand_to_fight_against_global_warming\" title=\"Blair challenges New Zealand to fight against global warming\">Blair challenges New Zealand to fight against global warming</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Zealand_challenges_to_play_a_important_role_in_climate_change\" title=\"New Zealand challenges to play a important role in climate change\">New Zealand challenges to play a <span class=\"searchmatch\">important</span> role in climate change</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Turkish_newspaper_alleges_cover-up_in_Hrant_Dink_case\" title=\"Turkish newspaper alleges cover-up in Hrant Dink case\">Turkish newspaper alleges cover-up in Hrant Dink case</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._Sen._Larry_Craig_resigns_over_sex_scandal\" title=\"U.S. Sen. Larry Craig resigns over sex scandal\">U.S. Sen. Larry Craig resigns over sex scandal</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Darfur_rebels_threaten_to_pull_out_of_peace_talks\" title=\"Darfur rebels threaten to pull out of peace talks\">Darfur rebels threaten to pull out of peace talks</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Belgian_Archbishop_lectures_on_health_care_and_religion\" title=\"Belgian Archbishop lectures on health care and religion\">Belgian Archbishop lectures on health care and religion</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Insights_on_nutrient_traffic_in_living_cells\" title=\"Insights on nutrient traffic in living cells\">Insights on nutrient traffic in living cells</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Olympus_Marathon_takes_place_in_northern_Greece\" title=\"Olympus Marathon takes place in northern Greece\">Olympus Marathon takes place in northern Greece</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Lord_Ganapathi_festival_celebrations_begin\" title=\"Lord Ganapathi festival celebrations begin\">Lord Ganapathi festival celebrations begin</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Interview_with_gay_marriage_movement_founder_Evan_Wolfson\" title=\"Interview with gay marriage movement founder Evan Wolfson\">Interview with gay marriage movement founder Evan Wolfson</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sunshine_Coast_Council_ratifies_McDonald%27s_development_rejection\" title=\"Sunshine Coast Council ratifies McDonald&#39;s development rejection\">Sunshine Coast Council ratifies McDonald&#39;s development rejection</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Key_town_captured_by_Islamist_Somali_militants\" title=\"Key town captured by Islamist Somali militants\">Key town captured by Islamist Somali militants</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%C2%A35.8m_Turner_watercolour_a_British_record\" title=\"£5.8m Turner watercolour a British record\">£5.8m Turner watercolour a British record</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/German_BND_claims_U.S._exaggerated_Iraq_WMD_claims\" title=\"German BND claims U.S. exaggerated Iraq WMD claims\">German BND claims U.S. exaggerated Iraq WMD claims</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Saudi_Arabia_plans_to_open_embassy_in_Finland\" title=\"Saudi Arabia plans to open embassy in Finland\">Saudi Arabia plans to open embassy in Finland</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/SpaceX_Dragon_spacecraft_certified_by_US_Federal_Aviation_Administration\" title=\"SpaceX Dragon spacecraft certified by US Federal Aviation Administration\">SpaceX Dragon spacecraft certified by US Federal Aviation Administration</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [
+      "important\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/50px-Wiktionary-logo-en.svg.png\n"
+   ],
+   "created" : 1373458941,
+   "book" : [],
+   "micro-www" : {
+      "important" : [
+         "important",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n<!-- This long comment was added to the page to prevent it being listed on\nSpecial:Shortpages. It and the accompanying monitoring template were\ngenerated via Template:Longcomment. Please do not remove the monitor template\nwithout removing the comment as well. Example: the impotance of this project\nis at my priority.\n\n\n-->\n",
+      "title" : "Importance",
+      "headings" : []
+   },
+   "micro-relation" : []
+}

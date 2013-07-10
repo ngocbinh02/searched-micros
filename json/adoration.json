@@ -1,24 +1,95 @@
 {
-   "created" : 1373448855,
    "micrownet" : [
       "adoration"
    ],
+   "google" : [
+      "/url?q=http://www.imdb.com/title/tt1074929/&sa=U&ei=niPdUZfzFofvOq2lgbgN&ved=0CBgQFjAA&usg=AFQjCNHDRHiQAytsp9OSUHH3r60WTpuzBg",
+      "/url?q=http://en.wikipedia.org/wiki/Eucharistic_adoration&sa=U&ei=niPdUZfzFofvOq2lgbgN&ved=0CB0QFjAB&usg=AFQjCNEOSQT33DQZakgkdSWM9JmcypPPEg",
+      "/url?q=http://en.wikipedia.org/wiki/Adoration&sa=U&ei=niPdUZfzFofvOq2lgbgN&ved=0CCYQFjAC&usg=AFQjCNECnFfDBLi_ampW7-CUo3MKuSu4gA",
+      "/url?q=http://en.wikipedia.org/wiki/Adoration_(film)&sa=U&ei=niPdUZfzFofvOq2lgbgN&ved=0CC8QFjAD&usg=AFQjCNFQ9TZk-dbhwbxA4mPCelJVF093Aw",
+      "/url?q=http://www.newadvent.org/cathen/01151a.htm&sa=U&ei=niPdUZfzFofvOq2lgbgN&ved=0CDMQFjAE&usg=AFQjCNGscERk77rzjmRGNEthmxMepLYHGg",
+      "/url?q=http://www.thefreedictionary.com/adoration&sa=U&ei=niPdUZfzFofvOq2lgbgN&ved=0CDcQFjAF&usg=AFQjCNEQb9vijALRFaZ7YK1OBQ0BDcWexw",
+      "/url?q=http://www.merriam-webster.com/dictionary/adoration&sa=U&ei=niPdUZfzFofvOq2lgbgN&ved=0CDsQFjAG&usg=AFQjCNHK3-pBF6SRE4IMznQoJntZ7l-z9Q",
+      "/url?q=http://www.medjugorje.org/adore.htm&sa=U&ei=niPdUZfzFofvOq2lgbgN&ved=0CD8QFjAH&usg=AFQjCNGSyc_l1GifBf7koQpopDA4mAR_1A",
+      "/url?q=http://en.wiktionary.org/wiki/adoration&sa=U&ei=niPdUZfzFofvOq2lgbgN&ved=0CEQQFjAI&usg=AFQjCNExumSdwOn_PagbqlJ5BIJMbbq_Ng",
+      "/url?q=http://www.ewtn.com/faith/teachings/euchd3.htm&sa=U&ei=niPdUZfzFofvOq2lgbgN&ved=0CEgQFjAJ&usg=AFQjCNHO53TEXoXZqhmS5FIaAAWAPDDkuQ"
+   ],
    "micro" : [
       "state",
-      "worship",
-      "emotion",
+      "abstraction",
       "attribute",
+      "entity",
       "love",
       "abstract_entity",
+      "emotion",
+      "worship",
       "adoration",
-      "feeling",
-      "abstraction",
-      "entity"
+      "feeling"
    ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Adoration_(film)\">Adoration (film)</a> - 2008 film",
+      "\n<a href=\"http://duckduckgo.com/Adoration\">Adoration</a> - Adoration (Latin) is love given with deep affection.",
+      "Adoration",
+      "http://www.merriam-webster.com/dictionary/adoration",
+      "adoration definition: the act of adoring.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Adoration%3A_The_Worship_Album\">Adoration: The Worship Album</a> - a Newsboys album",
+      "\n<a href=\"http://duckduckgo.com/Adoration_(song)\">\"Adoration\" (song)</a> - 2004 single from <a href=\"http://duckduckgo.com/?q=Mortal Love\">Mortal Love</a>"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Vietnam_bans_pet_hamsters\" title=\"Vietnam bans pet hamsters\">Vietnam bans pet hamsters</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Venezuelan_polls_test_Ch%C3%A1vez\" title=\"Venezuelan polls test ChÃ¡vez\">Venezuelan polls test ChÃ¡vez</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373454219,
+   "book" : [],
    "micro-www" : {
       "adoration" : [
          ""
       ]
    },
-   "micro-www-search" : []
+   "wiki" : {
+      "cat" : [
+         "Religious behaviour and experience",
+         "Interpersonal relationships",
+         "Christian terms",
+         "Emotions",
+         "Latin loanwords"
+      ],
+      "text" : "\n]] 'Adoration' (Latin) is to respect; reverence; strong admiration or devotion.\nThe term comes from the Latin adōrātiō, meaning \"to give homage or worship to\nsomeone or something.\"\n",
+      "title" : "adoration",
+      "headings" : [
+         "Ancient Middle East",
+         "Western Europe",
+         "Catholic Church",
+         "See also",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "1: Latin",
+      "1: Homage",
+      "1: Worship",
+      "1: Persian_Empire",
+      "1: Cyrus_the_Great",
+      "1: Kissing_Hands",
+      "1: Eucharistic_adoration",
+      "1: Transubstantiation",
+      "1: Real_Presence",
+      "1: Sacramental_bread",
+      "1: Monstrance",
+      "1: Benediction_of_the_Blessed_Sacrament",
+      "1: Eucharist",
+      "1: Greeting_habits",
+      "1: Hand-kissing",
+      "1: Kowtow",
+      "1: Proskynesis"
+   ]
 }

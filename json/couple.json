@@ -1,0 +1,106 @@
+{
+   "micrownet" : [
+      "a_couple_of",
+      "couple",
+      "couple_on",
+      "couple_up",
+      "coupled",
+      "coupler",
+      "couplet",
+      "married_couple",
+      "power_couple"
+   ],
+   "micro" : [
+      "bring_together",
+      "couple",
+      "join",
+      "duo",
+      "same-sex_marriage",
+      "grouping",
+      "group",
+      "abstract_entity",
+      "assemblage",
+      "duet",
+      "mate",
+      "pair",
+      "gathering",
+      "entity",
+      "social_group",
+      "match",
+      "twosome",
+      "twin",
+      "abstraction"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Couple",
+      "HASH(0x5c6abe0)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Thermocouple\">Thermocouple</a>, a type of temperature sensor",
+      "Couple",
+      "http://www.merriam-webster.com/dictionary/couple",
+      "couple definition: two persons married, engaged, or otherwise romantically paired.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/2_(number)\">Two</a> to <a href=\"http://duckduckgo.com/?q=five\">five</a> items of a type.",
+      "HASH(0x5d3baf0)",
+      "\n<a href=\"http://duckduckgo.com/Couple_(mechanics)\">Couple (mechanics)</a>, a system of forces with a resultant moment but no resultant force",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Iconic_gay_couple_split\" title=\"Iconic gay couple split\">Iconic gay <span class=\"searchmatch\">couple</span> split</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Marriage_(Same_Sex_Couples)_Bill\" title=\"Marriage (Same Sex Couples) Bill\">Marriage (Same Sex <span class=\"searchmatch\">Couples</span>) Bill</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/First_same-sex_couple_wed_in_south_of_France\" title=\"First same-sex couple wed in south of France\">First same-sex <span class=\"searchmatch\">couple</span> wed in south of France</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Washington_State_Initiative_would_require_married_couples_to_have_kids\" title=\"Washington State Initiative would require married couples to have kids\">Washington State Initiative would require married <span class=\"searchmatch\">couples</span> to have kids</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Jersey%27s_State_Supreme_Court_says_gay_couples_have_same_rights_as_heterosexual_couples\" title=\"New Jersey&#39;s State Supreme Court says gay couples have same rights as heterosexual couples\">New Jersey&#39;s State Supreme Court says gay <span class=\"searchmatch\">couples</span> have same rights as heterosexual <span class=\"searchmatch\">couples</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_York_couple_keeps_Indonesian_women_as_slaves\" title=\"New York couple keeps Indonesian women as slaves\">New York <span class=\"searchmatch\">couple</span> keeps Indonesian women as slaves</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pennsylvania_couple_murdered;_daughter_abducted\" title=\"Pennsylvania couple murdered; daughter abducted\">Pennsylvania <span class=\"searchmatch\">couple</span> murdered; daughter abducted</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Malawi_President_pardons_jailed_gay_couple\" title=\"Malawi President pardons jailed gay couple\">Malawi President pardons jailed gay <span class=\"searchmatch\">couple</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Kidnapped_British_couple_%22need_urgent_help%22\" title=\"Kidnapped British couple &quot;need urgent help&quot;\">Kidnapped British <span class=\"searchmatch\">couple</span> &quot;need urgent help&quot;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Swedish_couple_names_baby_boy_%22Google%22\" title=\"Swedish couple names baby boy &quot;Google&quot;\">Swedish <span class=\"searchmatch\">couple</span> names baby boy &quot;Google&quot;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Gay_couple_elected_prom_king_and_queen_in_Maine%27s_Sanford_High_School\" title=\"Gay couple elected prom king and queen in Maine&#39;s Sanford High School\">Gay <span class=\"searchmatch\">couple</span> elected prom king and queen in Maine&#39;s Sanford High School</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Elderly_couple_found_slain_in_scrapyard_in_Staffordshire,_England\" title=\"Elderly couple found slain in scrapyard in Staffordshire, England\">Elderly <span class=\"searchmatch\">couple</span> found slain in scrapyard in Staffordshire, England</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Uninvited_couple_passes_Secret_Service_checkpoint,_crashes_White_House_state_dinner\" title=\"Uninvited couple passes Secret Service checkpoint, crashes White House state dinner\">Uninvited <span class=\"searchmatch\">couple</span> passes Secret Service checkpoint, crashes White House state dinner</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Plane_with_Dutch_royal_couple_on_board_makes_emergency_landing\" title=\"Plane with Dutch royal couple on board makes emergency landing\">Plane with Dutch royal <span class=\"searchmatch\">couple</span> on board makes emergency landing</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/South_African_couple_killed_after_being_hit_by_train_while_having_sex\" title=\"South African couple killed after being hit by train while having sex\">South African <span class=\"searchmatch\">couple</span> killed after being hit by train while having sex</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Somali_piracy:_Kenyan_navy_kills_three,_Chinese_ship_hijacked,_British_couple_freed\" title=\"Somali piracy: Kenyan navy kills three, Chinese ship hijacked, British couple freed\">Somali piracy: Kenyan navy kills three, Chinese ship hijacked, British <span class=\"searchmatch\">couple</span> freed</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/FLDS_couple_reunited_with_child,_Texas_fear_families_will_flee_justice\" title=\"FLDS couple reunited with child, Texas fear families will flee justice\">FLDS <span class=\"searchmatch\">couple</span> reunited with child, Texas fear families will flee justice</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Study_shows_long-term_couples_more_satisfied_with_relationships_and_sex_lives\" title=\"Study shows long-term couples more satisfied with relationships and sex lives\">Study shows long-term <span class=\"searchmatch\">couples</span> more satisfied with relationships and sex lives</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mayan_mob_lynch_couple_in_Guatemala\" title=\"Mayan mob lynch couple in Guatemala\">Mayan mob lynch <span class=\"searchmatch\">couple</span> in Guatemala</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [
+      "couple\n>http\nhttp://en.m.wikipedia.org/wiki/Couple\nhttp://en.wikipedia.org/w/index.php?title=Couple&oldid=530016942\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/f/f9/En-us-couple.ogg\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n>media\nhttp://upload.wikimedia.org/wikipedia/commons/f/f9/En-us-couple.ogg\n\n",
+      "Coupler_(disambiguation)\n>http\nhttp://en.m.wikipedia.org/wiki/Coupler\nhttp://en.wikipedia.org/w/index.php?title=Coupler&oldid=543505681\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
+      "Couple_(mechanics)\n>http\nhttp://en.m.wikipedia.org/wiki/Couple_(mechanics)\nhttp://en.wikipedia.org/w/index.php?title=Couple_(mechanics)&oldid=543364432\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Translation_to_english_arrow.svg/50px-Translation_to_english_arrow.svg.png\n"
+   ],
+   "created" : 1373456223,
+   "book" : [],
+   "micro-www" : {
+      "couple" : [
+         "couple",
+         "Coupler_(disambiguation)",
+         "Couple_(mechanics)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Integers",
+         "Duos|"
+      ],
+      "text" : "\n\n'Couple' () may refer to: *Two items of a type. **Two members of a band. *Couple\n(mechanics), a system of forces with a resultant moment but no resultant force\n*Thermocouple, a type of temperature sensor\n",
+      "title" : "couple",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Two",
+      "1: Thermocouple"
+   ]
+}

@@ -1,0 +1,99 @@
+{
+   "micrownet" : [
+      "phonetic_transcription",
+      "transcription"
+   ],
+   "micro" : [
+      "written_text",
+      "transliteration",
+      "entity",
+      "written_language",
+      "transcription",
+      "written_communication",
+      "communication",
+      "abstraction",
+      "black_and_white",
+      "phonetic_transcription",
+      "abstract_entity"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Transcription",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Transcription_(software)\">Transcription (software)</a>, software which helps (manually or automatically) convert speech into text transcript",
+      "Transcription",
+      "http://www.merriam-webster.com/dictionary/transcription",
+      "\n<a href=\"http://duckduckgo.com/Transcription_(genetics)\">Transcription (genetics)</a>, the copying of DNA into messenger RNA in gene expression",
+      "transcription definition: an act, process, or instance of transcribing.",
+      "\n<a href=\"http://duckduckgo.com/Transcription_(linguistics)\">Transcription (linguistics)</a>, the representation of speech in written form",
+      "\n<a href=\"http://duckduckgo.com/Medical_transcription\">Medical transcription</a>, documentation of patient medical records",
+      "\n<a href=\"http://duckduckgo.com/Transcription_(music)\">Transcription (music)</a>, notating an unnotated piece, or copying / rewriting a piece for clarity or as an arrangement for another instrument",
+      "HASH(0x5ea5f80)",
+      "\n<a href=\"http://duckduckgo.com/Transcription_(service)\">Transcription (service)</a>, a business which converts speech into a written or electronic text document",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Transcription_disc\">Transcription disc</a>, a sound recording made during broadcasting for internal use by the broadcasting organization",
+      "HASH(0x60036a0)",
+      "\n<a href=\"http://duckduckgo.com/Piano_transcription\">Piano transcription</a>, a piece of music played on one or more pianos that is an approximation of a source piece of music",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Phonetic_transcription\">Phonetic transcription</a>, the representation specifically of speech sounds"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2006_Nobel_Prize_in_chemistry_for_insight_into_cells\" title=\"2006 Nobel Prize in chemistry for insight into cells\">2006 Nobel Prize in chemistry for insight into cells</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scientists_find_key_human_language_gene\" title=\"Scientists find key human language gene\">Scientists find key human language gene</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Nobel_Prize_winner_Arthur_Kornberg_dies_at_age_89\" title=\"Nobel Prize winner Arthur Kornberg dies at age 89\">Nobel Prize winner Arthur Kornberg dies at age 89</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Expelled%27_producers_accused_of_copyright_violations\" title=\"&#39;Expelled&#39; producers accused of copyright violations\">&#39;Expelled&#39; producers accused of copyright violations</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Third_explosion_at_Fukushima_Daiichi_nuclear_power_plant\" title=\"Third explosion at Fukushima Daiichi nuclear power plant\">Third explosion at Fukushima Daiichi nuclear power plant</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.K._National_Portrait_Gallery_threatens_U.S._citizen_with_legal_action_over_Wikimedia_images\" title=\"U.K. National Portrait Gallery threatens U.S. citizen with legal action over Wikimedia images\">U.K. National Portrait Gallery threatens U.S. citizen with legal action over Wikimedia images</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Turkish_newspaper_alleges_cover-up_in_Hrant_Dink_case\" title=\"Turkish newspaper alleges cover-up in Hrant Dink case\">Turkish newspaper alleges cover-up in Hrant Dink case</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_Prime_Minister_Tony_Blair_speaks_about_London_bombings\" title=\"British Prime Minister Tony Blair speaks about London bombings\">British Prime Minister Tony Blair speaks about London bombings</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/French_presidential_candidates_Royal_and_Sarkozy_debate\" title=\"French presidential candidates Royal and Sarkozy debate\">French presidential candidates Royal and Sarkozy debate</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Iran_determined_to_continue_with_nuclear_program\" title=\"Iran determined to continue with nuclear program\">Iran determined to continue with nuclear program</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [
+      "transcriptional\n>http\nhttp://en.m.wikipedia.org/wiki/Transcription_(genetics)\nhttp://en.wikipedia.org/w/index.php?title=Transcription_(genetics)&oldid=543111319\nhttp://vcell.ndsu.nodak.edu/animations/transcription/index.htm\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/MRNA.svg/400px-MRNA.svg.png\n\n",
+      "transcription\n>http\nhttp://en.m.wikipedia.org/wiki/Transcription\nhttp://en.wikipedia.org/w/index.php?title=Transcription&oldid=540771856\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
+      "Transcription_disc\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png\n\n",
+      "Transcription_(software)\n",
+      "Transcription_(service)\n>http\nhttp://en.m.wikipedia.org/wiki/Transcription_(service)\nhttp://en.wikipedia.org/w/index.php?title=Transcription_(service)&oldid=544155825\nhttp://www.transcriptionwing.com/security.html\n\n>pdf\nhttp://www.screen.subtitling.com/downloads/Live%20Subtitling.pdf\nhttp://www.screen.subtitling.com/downloads/Live%20Subtitling.pdf\n\n",
+      "Transcription_(music)\n>pdf\nhttp://citeseer.ist.psu.edu/cache/papers/cs/23771/zSzzSzwww.ai.univie.ac.atzSz~simonzSzpubzSzjnmr.pdf/dixon01automatic.pdf\nzSzzSzwww.ai.univie.ac.atzSz~simonzSzpubzSzjnmr.pdf/dixon01automatic.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/8/8c/Humoresque_1955_performance.ogg\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/50px-Gnome-mime-sound-openclipart.svg.png\n\n>media\nhttp://upload.wikimedia.org/wikipedia/commons/8/8c/Humoresque_1955_performance.ogg\n\n",
+      "Transcription_(linguistics)\n>pdf\nhttp://www.exmaralda.org/files/azm_56.pdf\nhttp://www.gespraechsforschung-ozs.de/heft2009/px-gat2.pdf\nhttp://edlinked.soe.waikato.ac.nz/research/files/etpc/files/2007v6n1art1.pdf\n\n",
+      "Transcription_(genetics)\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/MRNA.svg/400px-MRNA.svg.png\n\n",
+      "Transcription_(disambiguation)\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n"
+   ],
+   "created" : 1373457304,
+   "book" : [],
+   "micro-www" : {
+      "transcription" : [
+         "transcriptional",
+         "transcription",
+         "Transcription_disc",
+         "Transcription_(software)",
+         "Transcription_(service)",
+         "Transcription_(music)",
+         "Transcription_(linguistics)",
+         "Transcription_(genetics)",
+         "Transcription_(disambiguation)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Transcription' may refer to:\n\n*Transcription (service), a business which converts speech into a written or\nelectronic text document *Transcription (software), software which helps\n(manually or automatically) convert speech into text transcript *Transcription\n(genetics), the copying of DNA into messenger RNA in gene expression\n*Transcription (linguistics), the representation of speech in written form\n**Phonetic transcription, the representation specifically of speech sounds\n*Transcription (music), notating an unnotated piece, or copying / rewriting a\npiece for clarity or as an arrangement for another instrument *Piano\ntranscription, a piece of music played on one or more pianos that is an\napproximation of a source piece of music *Medical transcription, documentation\nof patient medical records *Transcription disc, a sound recording made during\nbroadcasting for internal use by the broadcasting organization\n",
+      "title" : "transcription",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Phonetic_transcription",
+      "1: Piano_transcription",
+      "1: Medical_transcription",
+      "1: Transcription_disc"
+   ]
+}

@@ -1,25 +1,121 @@
 {
-   "created" : 1373448855,
    "micrownet" : [
       "agape",
       "agape(predicate)",
       "agape_love"
    ],
-   "micro" : [
-      "love",
-      "attribute",
-      "abstraction",
-      "entity",
-      "emotion",
-      "agape",
-      "abstract_entity",
-      "feeling",
-      "state"
+   "google" : [
+      "/url?q=https://en.wikipedia.org/wiki/Agape&sa=U&ei=qCPdUcjSEYPfPf2RgLAG&ved=0CBgQFjAA&usg=AFQjCNFOLRgqt6aH3Lrc1RNHlLChCeqD7A",
+      "/url?q=http://agapelive.com/&sa=U&ei=qCPdUcjSEYPfPf2RgLAG&ved=0CB8QFjAB&usg=AFQjCNEpNm4yskJJPVb3jkWTdGM4oaC3QQ",
+      "/url?q=http://christianity.about.com/od/glossary/a/Agape.htm&sa=U&ei=qCPdUcjSEYPfPf2RgLAG&ved=0CCIQFjAC&usg=AFQjCNFimbvH_AsiIkdwD3vD78polKgjFg",
+      "/url?q=http://www.thefreedictionary.com/agape&sa=U&ei=qCPdUcjSEYPfPf2RgLAG&ved=0CCUQFjAD&usg=AFQjCNFQGUvkb-w6yM68uxWmcx3nqVQFiA",
+      "/url?q=http://www.agape.org.uk/&sa=U&ei=qCPdUcjSEYPfPf2RgLAG&ved=0CCkQFjAE&usg=AFQjCNGDzWzY2gva9w5l6B1D6sWk-vDFMA",
+      "/url?q=http://www.agapeboutique.com.my/&sa=U&ei=qCPdUcjSEYPfPf2RgLAG&ved=0CC0QFjAF&usg=AFQjCNGfxHUH0RxDqXg4qfdU2KhHMg2ECA",
+      "/url?q=http://www.agaperestaurant.com/&sa=U&ei=qCPdUcjSEYPfPf2RgLAG&ved=0CDAQFjAG&usg=AFQjCNGVEmnIA3eYqbwOs9QgNwvmKq8I0w",
+      "/url?q=http://www.agapedesign.it/&sa=U&ei=qCPdUcjSEYPfPf2RgLAG&ved=0CDQQFjAH&usg=AFQjCNEh47VKwtUu87C8BsNmobejo3l3PQ",
+      "/url?q=http://www.agapemeanslove.org/&sa=U&ei=qCPdUcjSEYPfPf2RgLAG&ved=0CDgQFjAI&usg=AFQjCNHrv6XcI-MNsfPD0HvVhXtRO1h_gg",
+      "/url?q=http://www.merriam-webster.com/dictionary/agape&sa=U&ei=qCPdUcjSEYPfPf2RgLAG&ved=0CDwQFjAJ&usg=AFQjCNEM0jgMNd_HP5mIc6rkqTMTixAKXQ"
    ],
+   "micro" : [
+      "abstract_entity",
+      "love",
+      "agape",
+      "emotion",
+      "attribute",
+      "entity",
+      "state",
+      "feeling",
+      "abstraction"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Agape_(Christian_rapper)\">Agape (Christian rapper)</a>, Christian rap artist Dave Scherer",
+      "\n<a href=\"http://duckduckgo.com/Agape_Europe\">Agape Europe</a>, the Western European branch of Campus Crusade for Christ",
+      "Agape",
+      "http://www.merriam-webster.com/dictionary/agape",
+      "\n<a href=\"http://duckduckgo.com/Ag%C3%A1p%C4%93_(mixtape)\">Agápē</a>, a mixtape by American pop-R&B singer <a href=\"http://duckduckgo.com/?q=JoJo\">JoJo</a>",
+      "agape definition: love feast.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Agapism\">Agapism</a>, the belief that love should be the sole ultimate value, and that it is the sole moral imperative",
+      "\n<a href=\"http://duckduckgo.com/Agape\">Agape</a> love, a term commonly used by Christians to describe God's love, defining it as unconditional love",
+      "\n<a href=\"http://duckduckgo.com/Agape_International_Spiritual_Center\">Agape International Spiritual Center</a>, a New Thought church in Culver City, California",
+      "\n<a href=\"http://duckduckgo.com/Agape_Church\">Agape Church</a>, a Christian non-denominational church in Little Rock, Arkansas"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tempers_flare_over_New_Orleans_tragedy\" title=\"Tempers flare over New Orleans tragedy\">Tempers flare over New Orleans tragedy</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373454231,
+   "book" : [],
    "micro-www" : {
       "agape" : [
          ""
       ]
    },
-   "micro-www-search" : []
+   "wiki" : {
+      "cat" : [
+         "Christian terms",
+         "Philosophy of love"
+      ],
+      "text" : "\n\n'Agape' (<ref>[[Oxford English Dictionary]]</ref> or ; Classical Greek: , agápē;\nModern Greek: ) is one of the Koine Greek words translated into English as love,\none which became particularly appropriated in Christian theology as the love of\nGod or Christ for humankind. In the New Testament, it refers to the covenant\nlove of God for humans, as well as the human reciprocal love for God; the term\nnecessarily extends to the love of one’s fellow man.<ref>\"agape.\" Encyclopædia\nBritannica. Encyclopædia Britannica Online. Encyclopædia Britannica, 2011. Web.\n17 Sep. 2011. <http://www.britannica.com/EBchecked/topic/662884/agape>. </ref>\nMany have thought that this word represents divine, unconditional, self-\nsacrificing, active, volitional, and thoughtful love. . Although the word does\nnot have specific religious connotation, the word has been used by a variety of\ncontemporary and ancient sources, including biblical authors and Christian\nauthors. Greek philosophers at the time of Plato and other ancient authors have\nused forms of the word to denote love of a spouse or family, or affection for a\nparticular activity, in contrast to philia (an affection that could denote\nfriendship, brotherhood or generally non-sexual affection) and eros, an\naffection of a sexual nature. Thomas Jay Oord has defined agape as \"an\nintentional response to promote well-being when responding to that which has\ngenerated ill-being.\"<ref>“ The love racket: Defining love and agape for the love-and-\nscience research program,” Zygon, vol. 40, no. 4 (December 2005), pp. 919-938\nhttp://www.calvin.edu/~jks4/city/Oord~Defining%20Love.pdf</ref>\n",
+      "title" : "agape",
+      "headings" : [
+         "Christianity",
+         "See also",
+         "Notes",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Love",
+      "2: Agape_feast",
+      "1: Ancient_Greek",
+      "1: Modern_Greek",
+      "1: Koine",
+      "1: Greek_words_for_love",
+      "1: Love_of_God",
+      "1: Christ",
+      "1: New_Testament",
+      "1: Bible",
+      "1: Plato",
+      "1: Philia",
+      "1: Thomas_Jay_Oord",
+      "1: Catacombs_of_Rome",
+      "1: Marcellinus_and_Peter",
+      "1: Via_Labicana",
+      "1: Rome",
+      "1: Christianity",
+      "1: God",
+      "1: Kenosis",
+      "1: Gospel",
+      "1: Jesus",
+      "1: Great_Commandment",
+      "1: Judaism",
+      "1: Shema_Yisrael",
+      "1: King_James_Version",
+      "1: Sermon_on_the_Mount",
+      "1: Tertullian",
+      "1: Oliver_Chase_Quick",
+      "1: Epistle_of_Jude",
+      "1: Second_Epistle_of_Peter",
+      "1: Agapism",
+      "1: Compassionate_love",
+      "1: Love_styles",
+      "1: Loving-kindness",
+      "1: The_Four_Loves",
+      "1: Jewish_views_on_love",
+      "1: Chesed",
+      "1: Hebrew_language",
+      "1: Kindness",
+      "1: Sephirot",
+      "1: Dveikut",
+      "1: MettÄ"
+   ]
 }

@@ -1,0 +1,68 @@
+{
+   "micrownet" : [],
+   "micro" : [
+      "point",
+      "take",
+      "direct",
+      "target",
+      "aim",
+      "train",
+      "take_aim",
+      "place"
+   ],
+   "duck" : [
+      "An object, such as a padded disk with a marked surface, that is shot at to test accuracy in rifle or archery practice.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=Targeted",
+      "HASH(0x4d8d830)",
+      "The Free Dictionary",
+      "Targeted",
+      "An object, such as a padded disk with a marked surface, that is shot at to test accuracy in rifle or archery practice.",
+      "HASH(0x4e19d28)",
+      "An object, such as a padded disk with a marked surface, that is shot at to test accuracy in rifle or archery practice.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Targeted_killing\" title=\"Targeted killing\"><span class=\"searchmatch\">Targeted</span> killing</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Syrian_citizen_journalists_risk_death,_targeted;_city_of_Homs_facing_starvation\" title=\"Syrian citizen journalists risk death, targeted; city of Homs facing starvation\">Syrian citizen journalists risk death, <span class=\"searchmatch\">targeted</span>; city of Homs facing starvation</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_federal_judge_dismisses_targeted_killing_lawsuit\" title=\"US federal judge dismisses targeted killing lawsuit\">US federal judge dismisses <span class=\"searchmatch\">targeted</span> killing lawsuit</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UN_convoy_targeted_in_Syrian_province_of_Idlib\" title=\"UN convoy targeted in Syrian province of Idlib\">UN convoy <span class=\"searchmatch\">targeted</span> in Syrian province of Idlib</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Convicted_sex_offenders_in_US_targeted_for_on-line_identity_registration\" title=\"Convicted sex offenders in US targeted for on-line identity registration\">Convicted sex offenders in US <span class=\"searchmatch\">targeted</span> for on-line identity registration</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Black_vulture_population_targeted_for_reduction_at_Virginia_boat_launch\" title=\"Black vulture population targeted for reduction at Virginia boat launch\">Black vulture population <span class=\"searchmatch\">targeted</span> for reduction at Virginia boat launch</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Interview_with_Usenet_search_sites_targeted_by_the_MPAA\" title=\"Interview with Usenet search sites targeted by the MPAA\">Interview with Usenet search sites <span class=\"searchmatch\">targeted</span> by the MPAA</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Report_says_Israeli_air_strike_targeted_Syrian_nuclear_reactor\" title=\"Report says Israeli air strike targeted Syrian nuclear reactor\">Report says Israeli air strike <span class=\"searchmatch\">targeted</span> Syrian nuclear reactor</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._airstrike_targeting_Ayman_al-Zawahiri_leaves_18_dead_in_Pakistani_village\" title=\"U.S. airstrike targeting Ayman al-Zawahiri leaves 18 dead in Pakistani village\">U.S. airstrike targeting Ayman al-Zawahiri leaves 18 dead in Pakistani village</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Al-Qaeda_member_Ayman_al-Zawahiri_targeted_in_attack\" title=\"Al-Qaeda member Ayman al-Zawahiri targeted in attack\">Al-Qaeda member Ayman al-Zawahiri <span class=\"searchmatch\">targeted</span> in attack</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Israeli_Defense_Force_admits_to_targeting_media_center_in_Gaza_City_airstrike\" title=\"Israeli Defense Force admits to targeting media center in Gaza City airstrike\">Israeli Defense Force admits to targeting media center in Gaza City airstrike</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Getting_the_exclusive_lowdown_on_The_Lowdown\" title=\"Getting the exclusive lowdown on The Lowdown\">Getting the exclusive lowdown on The Lowdown</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Terrorist_attacks_in_Algiers,_Algeria_kill_23_people_and_wound_162\" title=\"Terrorist attacks in Algiers, Algeria kill 23 people and wound 162\">Terrorist attacks in Algiers, Algeria kill 23 people and wound 162</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Afghanistan:_Suicide_attackers_kill_several_people_in_Kabul\" title=\"Afghanistan: Suicide attackers kill several people in Kabul\">Afghanistan: Suicide attackers kill several people in Kabul</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Jian_Seng_ghost_ship_affair_brings_criticism_of_Australian_government\" title=\"Jian Seng ghost ship affair brings criticism of Australian government\">Jian Seng ghost ship affair brings criticism of Australian government</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Homeland_Security_helps_secure_open-source_code\" title=\"Homeland Security helps secure open-source code\">Homeland Security helps secure open-source code</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/United_States_bank_receives_death_threats\" title=\"United States bank receives death threats\">United States bank receives death threats</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_PM_rules_out_economic_sanctions_against_Myanmar\" title=\"Australian PM rules out economic sanctions against Myanmar\">Australian PM rules out economic sanctions against Myanmar</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canadian_diplomat_and_whistleblower_Richard_Colvin_files_complaint_against_Harper_government\" title=\"Canadian diplomat and whistleblower Richard Colvin files complaint against Harper government\">Canadian diplomat and whistleblower Richard Colvin files complaint against Harper government</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Homes_of_six_Minnesota_politicians_vandalized\" title=\"Homes of six Minnesota politicians vandalized\">Homes of six Minnesota politicians vandalized</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Day_of_attacks_continue_in_Israel_and_Lebanon\" title=\"Day of attacks continue in Israel and Lebanon\">Day of attacks continue in Israel and Lebanon</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [
+      "Targeted_therapy\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mechanism_imatinib.svg/300px-Mechanism_imatinib.svg.png\n\n",
+      "Targeted_advertising\n>http\nhttp://curiosity.discovery.com/question/targeted-advertising\nhttp://en.m.wikipedia.org/wiki/Targeted_advertising\nhttp://en.wikipedia.org/w/index.php?title=Targeted_advertising&oldid=543826413\nhttp://news.yahoo.com/americans-not-fans-online-targeted-ads-survey-202406653.html\nhttp://www.privacyinternational.org/article/online-behavioural-targeted-advertising-%E2%80%93-privacy-international%E2%80%99s-position\n\n>pdf\nhttp://faculty.haas.berkeley.edu/giyer/index_files/tgtadv.pdf\nhttp://faculty.haas.berkeley.edu/giyer/index_files/tgtadv.pdf\nhttp://www.networkadvertising.org/pdfs/Beales_NAI_Study.pdf\nhttp://www2012.wwwconference.org/proceedings/proceedings/p111.pdf\nhttp://www.networkadvertising.org/pdfs/Beales_NAI_Study.pdf\n"
+   ],
+   "created" : 1373460284,
+   "book" : [],
+   "micro-www" : {
+      "targeted" : [
+         "Targeted_therapy",
+         "Targeted_advertising",
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

@@ -1,0 +1,104 @@
+{
+   "micrownet" : [
+      "steradian"
+   ],
+   "micro" : [
+      "entity",
+      "unit_of_measurement",
+      "measure",
+      "unit",
+      "abstraction",
+      "abstract_entity",
+      "steradian",
+      "definite_quantity",
+      "angular_unit",
+      "sr",
+      "amount",
+      "quantity"
+   ],
+   "duck" : [
+      "The steradian (symbol: sr) is the SI unit of solid angle.",
+      "https://en.wikipedia.org/wiki/Steradian",
+      "HASH(0x5c9c9f8)",
+      "Wikipedia",
+      "Steradian",
+      "\n<a href=\"http://duckduckgo.com/c/SI_derived_units\">SI derived units</a>",
+      "\n<a href=\"http://duckduckgo.com/c/Natural_units\">Natural units</a>",
+      "https://i.duckduckgo.com/i/17ec9aeb.png",
+      "HASH(0x5ca4ba0)",
+      "The steradian (symbol: sr) is the SI unit of solid angle.",
+      "A",
+      "\n<a href=\"http://duckduckgo.com/c/Units_of_angle\">Units of angle</a>"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373455771,
+   "book" : [],
+   "micro-www" : {
+      "steradian" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Natural units",
+         "SI derived units",
+         "Units of angle"
+      ],
+      "text" : "\n\nThe 'steradian' (symbol: 'sr') is the SI unit of solid angle. It is used to\nquantify two-dimensional angular spans in three-dimensional space, analogously\nto how the radian quantifies angles in a plane. The name is derived from the\nGreek stereos for \"solid\" and the Latin radius for \"ray, beam\".\n\nThe steradian, like the radian, is dimensionless, essentially because a solid\nangle is the ratio between the area subtended and the square of its distance\nfrom the vertex: both the numerator and denominator of this ratio have dimension\nlength<sup>2</sup>. It is useful, however, to distinguish between dimensionless\nquantities of different nature, so in practice the symbol \"sr\" is used to\nindicate a solid angle. For example, radiant intensity can be measured in watts\nper steradian (W·sr<sup>−1</sup>). The steradian was formerly an SI\nsupplementary unit, but this category was abolished from the SI in 1995 and the\nsteradian is now considered an SI derived unit.\n",
+      "title" : "steradian",
+      "headings" : [
+         "Definition",
+         "Other properties",
+         "Analogue to radians",
+         "SI multiples",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "1: International_System_of_Units",
+      "1: Solid_angle",
+      "1: Linear_span",
+      "1: Dimension",
+      "1: Radian",
+      "1: Greek_language",
+      "1: Latin_language",
+      "1: Dimensionless_quantity",
+      "1: Radiant_intensity",
+      "1: SI_supplementary_unit",
+      "1: SI_derived_unit",
+      "1: Subtended_angle",
+      "1: Unit_sphere",
+      "1: Area",
+      "1: Radius",
+      "1: Spherical_cap",
+      "1: Polygon",
+      "1: Angle_excess",
+      "1: Sphere",
+      "1: Square_degree",
+      "1: Arc_length",
+      "1: Americas",
+      "1: Sea",
+      "1: Earth",
+      "1: Oceania",
+      "1: Asia",
+      "1: Russia",
+      "1: Algeria",
+      "1: Libya",
+      "1: Zimbabwe",
+      "1: Paraguay",
+      "1: Switzerland",
+      "1: Costa_Mesa,_California",
+      "1: American_football",
+      "1: A5_paper",
+      "1: American_wire_gauge",
+      "1: Red_blood_cell"
+   ]
+}

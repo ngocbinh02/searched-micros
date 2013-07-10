@@ -1,0 +1,72 @@
+{
+   "micrownet" : [
+      "snake_eyes"
+   ],
+   "micro" : [
+      "amount",
+      "deuce",
+      "entity",
+      "craps",
+      "abstract_entity",
+      "digit",
+      "definite_quantity",
+      "number",
+      "abstraction",
+      "measure",
+      "ii",
+      "integer",
+      "whole_number",
+      "quantity",
+      "figure",
+      "two",
+      "snake_eyes"
+   ],
+   "duck" : [
+      "HASH(0x5ceebe0)",
+      "HASH(0x5cc0588)"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373456416,
+   "book" : [],
+   "micro-www" : {
+      "snake_eyes" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Dice",
+         "Dice games",
+         "Slang",
+         "English-language slang",
+         "Gambling terminology"
+      ],
+      "text" : "\n\n\n\nIn gambling, 'snake eyes' is the outcome of rolling the dice in a game and\ngetting only one pip on each die. The pair of pips resembles a pair of eyes,\nwhich is appended to the term 'snake' because of the long-standing association\nof this word with treachery and betrayal. The dictionary of etymology traces\nthat use of the term back to 1929,<ref\nname=\"ref1\">[http://www.etymonline.com/index.php?l=s&p=28 Online Etymology\nDictionary]</ref> although it may be traced all the way back to the ancient\nRoman dice games, where 'Dogs' represented two ones. They referred to this as\n\"the dog throw\". In modern parlance, it refers to such a roll in any game\ninvolving dice. Snake eyes also refers to looking one way and passing the ball\nthe other way in the game of Taps.\n",
+      "title" : "snake eyes",
+      "headings" : [
+         "Games",
+         "Probability",
+         "See also",
+         "Notes"
+      ]
+   },
+   "micro-relation" : [
+      "2: Craps",
+      "1: Gambling",
+      "1: Dice",
+      "1: Pips#Dice",
+      "1: Etymology",
+      "1: Ancient_Rome",
+      "1: Bad_luck",
+      "1: Board_games",
+      "1: House_rules"
+   ]
+}

@@ -1,0 +1,73 @@
+{
+   "micrownet" : [],
+   "micro" : [],
+   "duck" : [
+      "Demethylation is the chemical process resulting in the removal a of methyl group from a molecule.",
+      "https://en.wikipedia.org/wiki/Demethylation",
+      "HASH(0x503bd30)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/c/Organic_reactions\">Organic reactions</a>",
+      "Demethylation",
+      "http://www.merriam-webster.com/dictionary/demethylation",
+      "\n<a href=\"http://duckduckgo.com/Methylation\">Methylation</a>, the addition of a <a href=\"http://duckduckgo.com/?q=methyl group\">methyl group</a> to a <a href=\"http://duckduckgo.com/?q=substrate\">substrate</a>",
+      "demethylation definition: to remove a methyl group from (a chemical compound).",
+      "Merriam-Webster",
+      "https://i.duckduckgo.com/i/2e5e58fe.png",
+      "\n<a href=\"http://duckduckgo.com/c/Gene_expression\">Gene expression</a>",
+      "HASH(0x5039400)",
+      "Demethylation is the chemical process resulting in the removal a of methyl group from a molecule.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [
+      "demethylation\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Krapcho_reaction.svg/400px-Krapcho_reaction.svg.png\n"
+   ],
+   "created" : 1373458270,
+   "book" : [],
+   "micro-www" : {
+      "demethylation" : [
+         "demethylation",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Gene expression",
+         "Organic reactions"
+      ],
+      "text" : "'Demethylation' is the chemical process resulting in the removal of a methyl\ngroup (CH<sub>3</sub>) from a molecule.<ref name=\"Clayden1st\"></ref><ref\nname=\"March6th\"></ref> A common way of demethylation is the replacement of a\nmethyl group by a hydrogen atom, resulting in a net loss of one carbon and two\nhydrogen atoms.\n",
+      "title" : "demethylation",
+      "headings" : [
+         "In biochemistry",
+         "In organic chemistry",
+         "References",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "2: Methyl_group",
+      "1: Biochemical",
+      "1: Catalyst",
+      "1: Demethylase",
+      "1: Histone",
+      "1: Cytochrome_P450",
+      "1: Ketoglutarate",
+      "1: Lignin",
+      "1: Vanillin",
+      "1: Boron_tribromide",
+      "1: Borane",
+      "1: Hydrolysis",
+      "1: Boric_acid",
+      "1: Hydrogen_bromide",
+      "1: Saponification",
+      "1: Krapcho_decarboxylation",
+      "1: Methylation"
+   ]
+}

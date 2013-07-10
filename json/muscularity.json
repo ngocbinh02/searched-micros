@@ -1,0 +1,56 @@
+{
+   "micrownet" : [
+      "muscularity"
+   ],
+   "micro" : [
+      "physical_condition",
+      "physiological_condition",
+      "muscularity",
+      "abstract_entity",
+      "abstraction",
+      "condition",
+      "state",
+      "physiological_state",
+      "status",
+      "entity",
+      "attribute"
+   ],
+   "duck" : [
+      "Of, relating to, or consisting of muscle: muscular contraction.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=Muscularity",
+      "HASH(0x4dce840)",
+      "The Free Dictionary",
+      "Muscularity",
+      "Of, relating to, or consisting of muscle: muscular contraction.",
+      "HASH(0x50738d8)",
+      "Of, relating to, or consisting of muscle: muscular contraction.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/41st_Jerry_Lewis_telethon_to_run_Sunday,_Monday\" title=\"41st Jerry Lewis telethon to run Sunday, Monday\">41st Jerry Lewis telethon to run Sunday, Monday</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Greece_defeats_Portugal_in_boccia_match_at_2012_London_Paralympics\" title=\"Greece defeats Portugal in boccia match at 2012 London Paralympics\">Greece defeats Portugal in boccia match at 2012 London Paralympics</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Clarence_Clemons,_Springsteen%E2%80%99s_E_Street_Band_sax_player,_dies_at_69\" title=\"Clarence Clemons, Springsteen’s E Street Band sax player, dies at 69\">Clarence Clemons, Springsteen’s E Street Band sax player, dies at 69</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Current_Israel_Hezbollah_conflict_being_compared_with_%22Operation_Grapes_of_Wrath%22\" title=\"Current Israel Hezbollah conflict being compared with &quot;Operation Grapes of Wrath&quot;\">Current Israel Hezbollah conflict being compared with &quot;Operation Grapes of Wrath&quot;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Jersey_to_legalize_medical_marijuana\" title=\"New Jersey to legalize medical marijuana\">New Jersey to legalize medical marijuana</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Insights_on_nutrient_traffic_in_living_cells\" title=\"Insights on nutrient traffic in living cells\">Insights on nutrient traffic in living cells</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Am%C3%A9lie_Mauresmo_wins_Australian_Open\" title=\"Amélie Mauresmo wins Australian Open\">Amélie Mauresmo wins Australian Open</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2007/08_UEFA_Cup:_Sporting_Braga_vs._Bayern_Munich\" title=\"2007/08 UEFA Cup: Sporting Braga vs. Bayern Munich\">2007/08 UEFA Cup: Sporting Braga vs. Bayern Munich</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Vanity_Fair_contributing_editor_Craig_Unger_on_the_Bush_family_feud,_neoconservatives_and_the_Christian_right\" title=\"Vanity Fair contributing editor Craig Unger on the Bush family feud, neoconservatives and the Christian right\">Vanity Fair contributing editor Craig Unger on the Bush family feud, neoconservatives and the Christian right</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373460958,
+   "book" : [],
+   "micro-www" : {
+      "muscularity" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

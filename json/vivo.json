@@ -1,0 +1,61 @@
+{
+   "micrownet" : [
+      "ex_vivo",
+      "in_vivo"
+   ],
+   "micro" : [],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Experiment_on_frozen_sperm_raises_hopes_of_%22restoring%22_extinct_mammals\" title=\"Experiment on frozen sperm raises hopes of &quot;restoring&quot; extinct mammals\">Experiment on frozen sperm raises hopes of &quot;restoring&quot; extinct mammals</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Illegal_drug_found_to_be_used_in_the_manufacture_of_toys\" title=\"Illegal drug found to be used in the manufacture of toys\">Illegal drug found to be used in the manufacture of toys</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%C3%8Dngrid_Betancourt_and_others_rescued,_says_Colombia\" title=\"Íngrid Betancourt and others rescued, says Colombia\">Íngrid Betancourt and others rescued, says Colombia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Colegio_Preciosa_Sangre,_Pichilemu,_amidst_other_Chilean_schools_celebrate_Student%27s_Day\" title=\"Colegio Preciosa Sangre, Pichilemu, amidst other Chilean schools celebrate Student&#39;s Day\">Colegio Preciosa Sangre, Pichilemu, amidst other Chilean schools celebrate Student&#39;s Day</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/VivoCity\">VivoCity</a>, the largest shopping mall in Singapore",
+      "\n<a href=\"http://duckduckgo.com/In_vivo\">In vivo</a> or <a href=\"http://duckduckgo.com/?q=Ex vivo\">Ex vivo</a>",
+      "https://en.wikipedia.org/wiki/Vivo",
+      "HASH(0x554ae40)",
+      "Wikipedia",
+      "Vivo",
+      "HASH(0x576ba98)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/HTC_Incredible_S\">HTC Incredible S</a>, Internal codename for the HTC Incredible S"
+   ],
+   "micro-www-search" : [],
+   "created" : 1373459924,
+   "micro-www" : {
+      "vivo" : [
+         ""
+      ]
+   },
+   "book" : [],
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Vivo' may refer to:\n",
+      "title" : "vivo",
+      "headings" : [
+         "Computer and technology",
+         "Places",
+         "Music and television",
+         "Others"
+      ]
+   },
+   "micro-relation" : [
+      "1: Vivo_Software",
+      "1: VivoActive",
+      "1: Vivo_S.A.",
+      "1: Vivo_Miles",
+      "1: HTC_Incredible_S",
+      "1: Vivo,_Limpopo",
+      "1: VivoCity",
+      "1: Al_Rojo_Vivo",
+      "1: Tempo"
+   ]
+}

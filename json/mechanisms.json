@@ -1,0 +1,94 @@
+{
+   "micrownet" : [],
+   "micro" : [
+      "natural_process",
+      "activity",
+      "chemical_change",
+      "chemical_mechanism",
+      "entity",
+      "process",
+      "mechanism",
+      "natural_action",
+      "biochemical_mechanism",
+      "action",
+      "chemical_process",
+      "physical_entity",
+      "physical_process",
+      "chemical_action"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Mechanism",
+      "Wikipedia",
+      "Mechanism",
+      "\n<a href=\"http://duckduckgo.com/Mechanism_(philosophy)\">Mechanism (philosophy)</a>, a theory that all natural phenomena can be explained by physical causes",
+      "http://www.merriam-webster.com/dictionary/mechanism",
+      "\n<a href=\"http://duckduckgo.com/Defence_mechanism\">Defence mechanism</a>, unconscious mechanisms aimed at reducing anxiety",
+      "mechanism definition: a piece of machinery.",
+      "\n<a href=\"http://duckduckgo.com/Mechanism_(sociology)\">Mechanism (sociology)</a>, a theory that all social phenomena can be explained by the existence of a deterministic mechanism",
+      "\n<a href=\"http://duckduckgo.com/Machine\">Machine</a> - A machine is a tool consisting of one or more parts that is constructed to achieve a particular goal.",
+      "HASH(0x4f69aa0)",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Antikythera_mechanism\">Antikythera mechanism</a>, an ancient Greek analog computer",
+      "HASH(0x2029c08)",
+      "\n<a href=\"http://duckduckgo.com/Mechanism_(biology)\">Mechanism (biology)</a>, explaining how a feature is created",
+      "\n<a href=\"http://duckduckgo.com/Mechanism_(band)\">Mechanism (band)</a>, a death metal band from Canada",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Mechanism_(engineering)\">Mechanism (engineering)</a>, rigid bodies connected by joints in order to accomplish a desired force and/or motion transmission"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Imperfect_immune_systems_help_avoid_autoimmune_disease\" title=\"Imperfect immune systems help avoid autoimmune disease\">Imperfect immune systems help avoid autoimmune disease</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Prospective_Nobel_Prize_for_Higgs_boson_work_disputed\" title=\"Prospective Nobel Prize for Higgs boson work disputed\">Prospective Nobel Prize for Higgs boson work disputed</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_ISPs_restrict_access_to_Wikipedia_amid_child_pornography_allegations\" title=\"British ISPs restrict access to Wikipedia amid child pornography allegations\">British ISPs restrict access to Wikipedia amid child pornography allegations</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UN_General_Assembly_approves_measures_to_protect_economic,_social_and_cultural_rights\" title=\"UN General Assembly approves measures to protect economic, social and cultural rights\">UN General Assembly approves measures to protect economic, social and cultural rights</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/American_trio_wins_the_2007_Nobel_Prize_in_Economics\" title=\"American trio wins the 2007 Nobel Prize in Economics\">American trio wins the 2007 Nobel Prize in Economics</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Study_suggests_%27sleeping_sickness%27_parasite_mutated_to_evade_immune_system_defences\" title=\"Study suggests &#39;sleeping sickness&#39; parasite mutated to evade immune system defences\">Study suggests &#39;sleeping sickness&#39; parasite mutated to evade immune system defences</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2010_Sakurai_Prize_awarded_for_1964_Higgs_Boson_theory_work\" title=\"2010 Sakurai Prize awarded for 1964 Higgs Boson theory work\">2010 Sakurai Prize awarded for 1964 Higgs Boson theory work</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/India_and_China_to_develop_friendly_relations\" title=\"India and China to develop friendly relations\">India and China to develop friendly relations</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Interview_with_gay_marriage_movement_founder_Evan_Wolfson\" title=\"Interview with gay marriage movement founder Evan Wolfson\">Interview with gay marriage movement founder Evan Wolfson</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Protesters_serenade_Lockheed_Martin_outside_firm%27s_UK_HQ\" title=\"Protesters serenade Lockheed Martin outside firm&#39;s UK HQ\">Protesters serenade Lockheed Martin outside firm&#39;s UK HQ</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hospital_morale_vital_during_any_outbreak:_expert_warns\" title=\"Hospital morale vital during any outbreak: expert warns\">Hospital morale vital during any outbreak: expert warns</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Nine_hundred_thousand_Somalis_face_food_crisis\" title=\"Nine hundred thousand Somalis face food crisis\">Nine hundred thousand Somalis face food crisis</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Calls_for_aid_to_help_feed_millions,_as_East_Africa_plunges_into_drought\" title=\"Calls for aid to help feed millions, as East Africa plunges into drought\">Calls for aid to help feed millions, as East Africa plunges into drought</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_web_search_engine_uses_only_user-generated_results\" title=\"New web search engine uses only user-generated results\">New web search engine uses only user-generated results</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Nobel_Prize_winner_Arthur_Kornberg_dies_at_age_89\" title=\"Nobel Prize winner Arthur Kornberg dies at age 89\">Nobel Prize winner Arthur Kornberg dies at age 89</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Indian_activist_begins_%22fast-unto-death%22_hunger_strike_to_end_corruption\" title=\"Indian activist begins &quot;fast-unto-death&quot; hunger strike to end corruption\">Indian activist begins &quot;fast-unto-death&quot; hunger strike to end corruption</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Former_US_President_Jimmy_Carter_meets_with_Hamas_Leader\" title=\"Former US President Jimmy Carter meets with Hamas Leader\">Former US President Jimmy Carter meets with Hamas Leader</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UN_General_Assembly_opens_with_rhetorical_appeals_by_both_Bush_and_Ahmadinejad\" title=\"UN General Assembly opens with rhetorical appeals by both Bush and Ahmadinejad\">UN General Assembly opens with rhetorical appeals by both Bush and Ahmadinejad</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Saturn_moon_may_contain_liquid_water\" title=\"Saturn moon may contain liquid water\">Saturn moon may contain liquid water</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tobacco_attracts_predators_with_chemicals_in_response_to_caterpillars,_a_study_finds\" title=\"Tobacco attracts predators with chemicals in response to caterpillars, a study finds\">Tobacco attracts predators with chemicals in response to caterpillars, a study finds</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [
+      "mechanisms\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n"
+   ],
+   "created" : 1373458593,
+   "book" : [],
+   "micro-www" : {
+      "mechanisms" : [
+         "mechanisms",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Mechanism' may refer to:\n\n*Mechanism (engineering), rigid bodies connected by joints in order to\naccomplish a desired force and/or motion transmission *Mechanism (biology),\nexplaining how a feature is created *Mechanism (philosophy), a theory that all\nnatural phenomena can be explained by physical causes *Mechanism (sociology), a\ntheory that all social phenomena can be explained by the existence of a\ndeterministic mechanism *Mechanism (band), a death metal band from Canada\n",
+      "title" : "mechanism",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Machine",
+      "1: Mechanism_design",
+      "1: Mechanism_of_action",
+      "1: Defence_mechanism",
+      "1: Reaction_mechanism",
+      "1: Antikythera_mechanism"
+   ]
+}

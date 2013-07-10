@@ -1,0 +1,65 @@
+{
+   "micrownet" : [
+      "mightiness"
+   ],
+   "micro" : [
+      "entity",
+      "strength",
+      "abstraction",
+      "mightiness",
+      "attribute",
+      "property",
+      "abstract_entity",
+      "might",
+      "power"
+   ],
+   "duck" : [
+      "Having or showing great power, skill, strength, or force: a mighty orator; a mighty blow.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=mightiness",
+      "HASH(0x5073e78)",
+      "The Free Dictionary",
+      "mightiness",
+      "http://www.merriam-webster.com/dictionary/mightiness",
+      "mightiness definition: the quality or state of being mighty.",
+      "Merriam-Webster",
+      "HASH(0x4fe0e60)",
+      "Having or showing great power, skill, strength, or force: a mighty orator; a mighty blow.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_%27Mighty_Mouse%27_from_Apple_debuts\" title=\"New &#39;Mighty Mouse&#39; from Apple debuts\">New &#39;<span class=\"searchmatch\">Mighty</span> Mouse&#39; from Apple debuts</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Genetically_altered_mice_are_%22superathletes%22\" title=\"Genetically altered mice are &quot;superathletes&quot;\">Genetically altered mice are &quot;superathletes&quot;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Desmond_Tutu_calls_for_election_of_African_pope\" title=\"Desmond Tutu calls for election of African pope\">Desmond Tutu calls for election of African pope</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NSW_to_Queensland_water_pipeline_would_be_%22cost-effective%22:_Report\" title=\"NSW to Queensland water pipeline would be &quot;cost-effective&quot;: Report\">NSW to Queensland water pipeline would be &quot;cost-effective&quot;: Report</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:June_3,_2010\" title=\"News briefs:June 3, 2010\">News briefs:June 3, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pitt_and_Jolie%27s_guard_pulls_gun_on_photographer_in_Pune,_India\" title=\"Pitt and Jolie&#39;s guard pulls gun on photographer in Pune, India\">Pitt and Jolie&#39;s guard pulls gun on photographer in Pune, India</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Buddy_Roemer_suspends_U.S._presidential_campaign\" title=\"Buddy Roemer suspends U.S. presidential campaign\">Buddy Roemer suspends U.S. presidential campaign</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Oilers_make_it_to_Cup_final\" title=\"Oilers make it to Cup final\">Oilers make it to Cup final</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Jolie_finds_playing_slain_journalist%27s_wife_challenging\" title=\"Jolie finds playing slain journalist&#39;s wife challenging\">Jolie finds playing slain journalist&#39;s wife challenging</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UEFA_Euro_2008:_Cyprus_-_Germany_1-1._The_mouse_that_roars%3F\" title=\"UEFA Euro 2008: Cyprus - Germany 1-1. The mouse that roars?\">UEFA Euro 2008: Cyprus - Germany 1-1. The mouse that roars?</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NHL:_Stars_advance_in_eighth-longest_playoff_game\" title=\"NHL: Stars advance in eighth-longest playoff game\">NHL: Stars advance in eighth-longest playoff game</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/American_pitchman_Billy_Mays_dies_at_age_50\" title=\"American pitchman Billy Mays dies at age 50\">American pitchman Billy Mays dies at age 50</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Former_Louisiana_governor_Buddy_Roemer_announces_run_for_president\" title=\"Former Louisiana governor Buddy Roemer announces run for president\">Former Louisiana governor Buddy Roemer announces run for president</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Zealander_on_oxygen_machine_dies_after_power_disconnection\" title=\"New Zealander on oxygen machine dies after power disconnection\">New Zealander on oxygen machine dies after power disconnection</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ontario_Votes_2007:_Interview_with_Progressive_Conservative_candidate_Pam_Hundal,_Bramalea%E2%80%94Gore%E2%80%94Malton\" title=\"Ontario Votes 2007: Interview with Progressive Conservative candidate Pam Hundal, Bramalea—Gore—Malton\">Ontario Votes 2007: Interview with Progressive Conservative candidate Pam Hundal, Bramalea—Gore—Malton</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UEFA_Champions_League_and_UEFA_Cup_2007%E2%80%9308_draw_results\" title=\"UEFA Champions League and UEFA Cup 2007–08 draw results\">UEFA Champions League and UEFA Cup 2007–08 draw results</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Aviator,%27_%27Baby%27_dominate_2005_Academy_Awards\" title=\"&#39;Aviator,&#39; &#39;Baby&#39; dominate 2005 Academy Awards\">&#39;Aviator,&#39; &#39;Baby&#39; dominate 2005 Academy Awards</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:May_31,_2010\" title=\"News briefs:May 31, 2010\">News briefs:May 31, 2010</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373460948,
+   "book" : [],
+   "micro-www" : {
+      "mightiness" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

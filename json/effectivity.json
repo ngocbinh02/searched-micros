@@ -1,29 +1,78 @@
 {
-   "created" : 1373449075,
    "micrownet" : [
       "effectivity"
    ],
-   "micro" : [
-      "effectuality",
-      "efficacy",
-      "power",
-      "effectiveness",
-      "trenchancy",
-      "entity",
-      "attribute",
-      "abstraction",
-      "effectivity",
-      "incisiveness",
-      "powerfulness",
-      "effectualness",
-      "abstract_entity",
-      "efficaciousness",
-      "quality"
+   "google" : [
+      "/url?q=http://www.thefreedictionary.com/effectivity&sa=U&ei=DCPdUYWqL82sPYHzgagF&ved=0CBgQFjAA&usg=AFQjCNHrFJMiKkxL-Yqj_Gd0Hx7BbY9_Kw",
+      "/url?q=http://en.wiktionary.org/wiki/effectivity&sa=U&ei=DCPdUYWqL82sPYHzgagF&ved=0CBwQFjAB&usg=AFQjCNER2wYtPlqc9x4QnJgLhbCtnFteTA",
+      "/url?q=http://www.usingenglish.com/forum/ask-teacher/142360-effectivity-relevant-word.html&sa=U&ei=DCPdUYWqL82sPYHzgagF&ved=0CCAQFjAC&usg=AFQjCNGqGLWMdunk0fz_tvA3GtxFxKDvgg",
+      "/url?q=http://www.urbandictionary.com/define.php%3Fterm%3Deffectivity&sa=U&ei=DCPdUYWqL82sPYHzgagF&ved=0CCQQFjAD&usg=AFQjCNGb0TdSbV0u3oPRV_fqmHwtyovPdQ",
+      "/url?q=http://en.wikipedia.org/wiki/Effectiveness&sa=U&ei=DCPdUYWqL82sPYHzgagF&ved=0CCgQFjAE&usg=AFQjCNFbBiBPpJssBup5AawfZnDJ9xNQlA",
+      "/url?q=http://dictionary.reference.com/browse/effectivity&sa=U&ei=DCPdUYWqL82sPYHzgagF&ved=0CCwQFjAF&usg=AFQjCNFTMjVsAzXYEPfFJReU5PWvDstF_g",
+      "/url?q=http://www.wordreference.com/enfr/effectivity&sa=U&ei=DCPdUYWqL82sPYHzgagF&ved=0CC8QFjAG&usg=AFQjCNHq9Z7FQQrI4ogLyTIvy8xRInFcYw",
+      "/url?q=http://www.wordreference.com/definition/effectivity&sa=U&ei=DCPdUYWqL82sPYHzgagF&ved=0CDIQFjAH&usg=AFQjCNEkoC49hGmRbOQTgFVsHMOqc38t_w",
+      "/url?q=http://martinfowler.com/eaaDev/Effectivity.html&sa=U&ei=DCPdUYWqL82sPYHzgagF&ved=0CDYQFjAI&usg=AFQjCNGvci_FAaHRsr6mKRZW7FTCILD84w",
+      "/url?q=http://www.ptc.com/appserver/wcms/relnotes/note.jsp%3F%26im_dbkey%3D136473%26icg_dbkey%3D826&sa=U&ei=DCPdUYWqL82sPYHzgagF&ved=0CDsQFjAJ&usg=AFQjCNGE0XQ9-OvZE3GSWOUMT9r_nfDTGQ"
    ],
+   "micro" : [
+      "entity",
+      "power",
+      "efficaciousness",
+      "effectuality",
+      "abstraction",
+      "efficacy",
+      "effectualness",
+      "attribute",
+      "effectiveness",
+      "quality",
+      "powerfulness",
+      "effectivity",
+      "trenchancy",
+      "abstract_entity",
+      "incisiveness"
+   ],
+   "duck" : [
+      "effectivity",
+      "Producing a strong impression or response; striking: gave an effective performance as Othello.",
+      "http://www.merriam-webster.com/dictionary/effectivity",
+      "effectivity definition: producing a decided, decisive, or desired effect.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/California%27s_violent_video_game_ban_law_ruled_unconstitutional_by_US_Court_of_Appeals\" title=\"California&#39;s violent video game ban law ruled unconstitutional by US Court of Appeals\">California&#39;s violent video game ban law ruled unconstitutional by US Court of Appeals</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NSW_to_Queensland_water_pipeline_would_be_%22cost-effective%22:_Report\" title=\"NSW to Queensland water pipeline would be &quot;cost-effective&quot;: Report\">NSW to Queensland water pipeline would be &quot;cost-<span class=\"searchmatch\">effective</span>&quot;: Report</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pope_Benedict_XVI_resigns_effective_February_28\" title=\"Pope Benedict XVI resigns effective February 28\">Pope Benedict XVI resigns <span class=\"searchmatch\">effective</span> February 28</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Andrew_Sayers_resigns_National_Museum_of_Australia_directorship\" title=\"Andrew Sayers resigns National Museum of Australia directorship\">Andrew Sayers resigns National Museum of Australia directorship</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/China_vows_effective_fight_against_internet_piracy\" title=\"China vows effective fight against internet piracy\">China vows <span class=\"searchmatch\">effective</span> fight against internet piracy</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Minnesota_2%25_biodiesel_mandate_becomes_effective_September_29\" title=\"Minnesota 2% biodiesel mandate becomes effective September 29\">Minnesota 2% biodiesel mandate becomes <span class=\"searchmatch\">effective</span> September 29</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Rare_antibody_yields_AIDS_vaccine_insight\" title=\"Rare antibody yields AIDS vaccine insight\">Rare antibody yields AIDS vaccine insight</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_York_Governor_Eliot_Spitzer_resigns\" title=\"New York Governor Eliot Spitzer resigns\">New York Governor Eliot Spitzer resigns</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Natural_methods_of_family_planning_under_investigation\" title=\"Natural methods of family planning under investigation\">Natural methods of family planning under investigation</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Defense_Secretary_announces_cuts_in_Pentagon_programs\" title=\"US Defense Secretary announces cuts in Pentagon programs\">US Defense Secretary announces cuts in Pentagon programs</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Interview_with_John_Sanderson,_Regional_Council_candidate_for_Wards_3_%26_4_in_Brampton,_Canada\" title=\"Interview with John Sanderson, Regional Council candidate for Wards 3 &amp; 4 in Brampton, Canada\">Interview with John Sanderson, Regional Council candidate for Wards 3 &amp; 4 in Brampton, Canada</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Swiss_canton_of_Appenzell_Innerrhoden_fights_back_after_invasion_of_German_naked_hikers\" title=\"Swiss canton of Appenzell Innerrhoden fights back after invasion of German naked hikers\">Swiss canton of Appenzell Innerrhoden fights back after invasion of German naked hikers</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_children_suffering_from_iodine_deficiency\" title=\"Australian children suffering from iodine deficiency\">Australian children suffering from iodine deficiency</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Russia_ends_%22counterterrorism_operation%22_in_Chechnya\" title=\"Russia ends &quot;counterterrorism operation&quot; in Chechnya\">Russia ends &quot;counterterrorism operation&quot; in Chechnya</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Imperfect_immune_systems_help_avoid_autoimmune_disease\" title=\"Imperfect immune systems help avoid autoimmune disease\">Imperfect immune systems help avoid autoimmune disease</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Python_pops_after_eating_gator\" title=\"Python pops after eating gator\">Python pops after eating gator</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Talk-therapy_can_make_a_difference_in_early_treatment_of_severe_depression\" title=\"Talk-therapy can make a difference in early treatment of severe depression\">Talk-therapy can make a difference in early treatment of severe depression</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/GAO_report_says_federal_anti-drug_Ad-campaign_ineffectual\" title=\"GAO report says federal anti-drug Ad-campaign ineffectual\">GAO report says federal anti-drug Ad-campaign ineffectual</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Study:_cognitive_therapy_as_good_as_medication,_but_lasts_longer\" title=\"Study: cognitive therapy as good as medication, but lasts longer\">Study: cognitive therapy as good as medication, but lasts longer</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373454072,
+   "book" : [],
    "micro-www" : {
       "effectivity" : [
          ""
       ]
    },
-   "micro-www-search" : []
+   "micro-relation" : []
 }

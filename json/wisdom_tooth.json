@@ -1,0 +1,133 @@
+{
+   "micrownet" : [
+      "wisdom_tooth"
+   ],
+   "micro" : [
+      "grinder",
+      "connective_tissue",
+      "entity",
+      "thing",
+      "body_part",
+      "molar",
+      "part",
+      "bone",
+      "physical_entity",
+      "tissue",
+      "tooth",
+      "wisdomtooth",
+      "piece",
+      "animal_tissue",
+      "os"
+   ],
+   "duck" : [
+      "HASH(0x53916e0)",
+      "HASH(0x51d6fb8)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Jawbone_found_in_Aruba_is_not_Natalee_Holloway%27s\" title=\"Jawbone found in Aruba is not Natalee Holloway&#39;s\">Jawbone found in Aruba is not Natalee Holloway&#39;s</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373460698,
+   "book" : [],
+   "micro-www" : {
+      "wisdom_tooth" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Types of teeth"
+      ],
+      "text" : "\nA 'wisdom tooth', in humans, is any of the usual four 'third [[molar\n(tooth)|molars]]'. Wisdom teeth usually appear between the ages of 16 and\n25.<ref name=\"aaoms\"></ref> Most adults have four wisdom teeth, but it is\npossible to have fewer or more, in which case the extras are called\nsupernumerary teeth. Wisdom teeth commonly affect other teeth as they\ndevelop, becoming impacted or \"coming in sideways.\" They are often extracted\nwhen this occurs.\n",
+      "title" : "wisdom tooth",
+      "headings" : [
+         "Impaction",
+         "Partial eruption",
+         "Extraction",
+         "Post-extraction problems",
+         "Treatment controversy",
+         "Vestigiality and variation",
+         "Potential uses for extracted teeth",
+         "Etymology",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Pericoronitis",
+      "2: Inflammation",
+      "2: Alveolar_osteitis",
+      "2: American_Association_of_Oral_and_Maxillofacial_Surgeons",
+      "1: Hyperdontia",
+      "1: Teeth",
+      "1: Dental_extraction",
+      "1: Gum_line",
+      "1: Maxilla",
+      "1: Human_mandible",
+      "1: Maxillary_tuberosity",
+      "1: Maxillary_sinus",
+      "1: Magdalenian",
+      "1: Periodontal_disease",
+      "1: Oral_hygiene",
+      "1: Toothbrush",
+      "1: Syringe",
+      "1: Hydrogen_peroxide",
+      "1: Bacteria",
+      "1: Infection",
+      "1: Tooth_eruption",
+      "1: Jaw",
+      "1: Neck",
+      "1: Paradental_cyst",
+      "1: Odontogenic_cyst",
+      "1: Cyst",
+      "1: Infections",
+      "1: Malocclusion",
+      "1: Orthodontics",
+      "1: Tannins_in_tea",
+      "1: Chlorhexidine_gluconate",
+      "1: Blood_clots",
+      "1: NSAID",
+      "1: Ibuprofen",
+      "1: Surgeon",
+      "1: Patient",
+      "1: Nerve",
+      "1: Inferior_alveolar_nerve",
+      "1: Lingual_nerve",
+      "1: Trigeminal_nerve",
+      "1: Chorda_tympani_nerve",
+      "1: Seddon's_classification",
+      "1: Neuropraxia",
+      "1: Axonotmesis",
+      "1: Neurotmesis",
+      "1: Coronectomy",
+      "1: Dental_school",
+      "1: Israel",
+      "1: Cochrane_Collaboration",
+      "1: Systematic_review",
+      "1: Randomized_controlled_trials",
+      "1: Gingival_and_periodontal_pocket",
+      "1: Periodontitis",
+      "1: National_Institute_for_Health_and_Clinical_Excellence",
+      "1: National_Health_Service",
+      "1: American_Public_Health_Association",
+      "1: Vestigial",
+      "1: Cellulose",
+      "1: Agenesis",
+      "1: Tasmanian_Aborigines",
+      "1: Indigenous_peoples_in_Mexico",
+      "1: PAX9",
+      "1: Stem_cell",
+      "1: Dental_hygienist",
+      "1: Dentistry",
+      "1: Oral_and_maxillofacial_surgery",
+      "1: Toothache"
+   ]
+}

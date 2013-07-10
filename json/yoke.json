@@ -1,0 +1,123 @@
+{
+   "micrownet" : [
+      "yoke",
+      "yokel",
+      "yokel-like",
+      "yokelish"
+   ],
+   "micro" : [
+      "cloth",
+      "textile",
+      "unit",
+      "artefact",
+      "physical_entity",
+      "tucker",
+      "conjoin",
+      "fabric",
+      "material",
+      "yoke",
+      "join",
+      "object",
+      "physical_object",
+      "artifact",
+      "whole",
+      "entity"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Yoke_(disambiguation)",
+      "Wikipedia",
+      "Yoke",
+      "http://www.merriam-webster.com/dictionary/yoke",
+      "yoke definition: a wooden bar or frame by which two draft animals (as oxen) are joined at the heads or necks for working together.",
+      "\n<a href=\"http://duckduckgo.com/Yoke_(clothing)\">Yoke (clothing)</a>, part of the construction of a garment",
+      "\n<a href=\"http://duckduckgo.com/Yoke_(aircraft)\">Yoke (aircraft)</a>, Yoke is the term for the \"wheel\" that controls the ailerons and elevator on aircraft.",
+      "HASH(0x5ce6b60)",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Shoulder_pole\">Shoulder pole</a>, or Milkmaid's yoke, is a carrying device",
+      "\n<a href=\"http://duckduckgo.com/Yoke_(Lake_District)\">Yoke (Lake District)</a>, a high point in Cumbria, England",
+      "\nA <a href=\"http://duckduckgo.com/placeholder_name\">placeholder name</a>",
+      "\n<a href=\"http://duckduckgo.com/Yoke\">Yoke</a> -  A yoke is a wooden beam, normally used between a pair of oxen or other animals to enable them to pull together on a load when working in pairs, as oxen usually do; some yokes are fitted to indi...",
+      "HASH(0x5ce8788)",
+      "\n<a href=\"http://duckduckgo.com/six_pack_rings\">Six pack yoke</a>, a plastic holder for beverage cans",
+      "\n<a href=\"http://duckduckgo.com/Scotch_yoke\">Scotch yoke</a>, a mechanical linkage",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Yoke_(unit_of_measurement)\">Yoke (unit of measurement)</a> used in the time of the Domesday Book for tax purposes in Kent"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Iraq:_Uneven_voter_turnout_elects_women_who_push_sharia_law_while_anti-woman_violence_rages\" title=\"Iraq: Uneven voter turnout elects women who push sharia law while anti-woman violence rages\">Iraq: Uneven voter turnout elects women who push sharia law while anti-woman violence rages</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Women_in_Iraq_take_yoke_of_Sharia_law\" title=\"Women in Iraq take yoke of Sharia law\">Women in Iraq take <span class=\"searchmatch\">yoke</span> of Sharia law</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/As_increase_in_digital_music_sales_slows,_record_labels_look_to_new_ways_to_make_money\" title=\"As increase in digital music sales slows, record labels look to new ways to make money\">As increase in digital music sales slows, record labels look to new ways to make money</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373456370,
+   "book" : [],
+   "micro-www" : {
+      "yoke" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Animal equipment"
+      ],
+      "text" : "\n\n]] A 'yoke' is a wooden beam, normally used between a pair of oxen or other\nanimals to enable them to pull together on a load when working in pairs, as oxen\nusually do; some yokes are fitted to individual animals. There are several types\nof yoke, used in different cultures, and for different types of oxen. A pair of\noxen may be called a yoke of oxen, and yoke is also a verb, as in \"to yoke a\npair of oxen\". Other animals that may be yoked include horses, mules, donkeys\nand water buffalo.\n",
+      "title" : "yoke",
+      "headings" : [
+         "Etymology",
+         "Bow or neck yoke",
+         "Head yoke",
+         "Withers yoke",
+         "Comparison",
+         "Single yoke",
+         "Symbolism",
+         "Gallery",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Oxen",
+      "2: Water_buffalo",
+      "2: Africa",
+      "1: Horse",
+      "1: Mule",
+      "1: Donkey",
+      "1: Proto-Indo-European_language",
+      "1: Indo-European_languages",
+      "1: German_language",
+      "1: Latin",
+      "1: Ancient_Greek",
+      "1: Persian_language",
+      "1: Sanskrit",
+      "1: Hittite_language",
+      "1: Old_Church_Slavonic",
+      "1: Lithuanian_language",
+      "1: Old_Irish",
+      "1: Armenian_language",
+      "1: Oxbow",
+      "1: Europe",
+      "1: United_States",
+      "1: Australia",
+      "1: South_America",
+      "1: Canada",
+      "1: Withers",
+      "1: Zebu",
+      "1: India",
+      "1: Don_Det",
+      "1: Si_Phan_Don",
+      "1: Laos",
+      "1: Bible",
+      "1: Book_of_Genesis",
+      "1: Esau",
+      "1: Draught_animal",
+      "1: Carrying_pole"
+   ]
+}

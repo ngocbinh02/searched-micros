@@ -1,0 +1,51 @@
+{
+   "micrownet" : [],
+   "micro" : [],
+   "duck" : [
+      "Okano is a department of Woleu-Ntem Province in northern Gabon.",
+      "https://en.wikipedia.org/wiki/Okano_Department",
+      "HASH(0x5e43990)",
+      "Wikipedia",
+      "Okano Department",
+      "https://i.duckduckgo.com/i/b2037553.png",
+      "\n<a href=\"http://duckduckgo.com/c/Departments_of_Gabon\">Departments of Gabon</a>",
+      "\n<a href=\"http://duckduckgo.com/c/Woleu-Ntem_Province\">Woleu-Ntem Province</a>",
+      "HASH(0x5e442c0)",
+      "Okano is a department of Woleu-Ntem Province in northern Gabon.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373458053,
+   "book" : [],
+   "micro-www" : {
+      "okano" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Woleu-Ntem Province",
+         "Departments of Gabon"
+      ],
+      "text" : "\n\n{{Infobox settlement |name =Okano |settlement_type =Department <!--For Town or\nVillage (Leave blank for the default City)--> |official_name = |other_name =\n|native_name = |nickname = |motto = |image_skyline = |imagesize = |image_caption\n= |image_flag = |flag_size = |image_seal = |seal_size = |image_shield =\n|shield_size = |image_blank_emblem = |blank_emblem_size = |image_map = Woleu-\nNtem departments.png |mapsize = 350px |map_caption = Okano Department in the\nregion |image_map1 = |mapsize1 = |map_caption1 = |pushpin_map =\n|pushpin_label_position = |subdivision_type = Country |subdivision_name = Gabon\n|subdivision_type1 = Province |subdivision_name1 = Woleu-Ntem Province\n|subdivision_type2 = |subdivision_name2 = |seat_type = |seat = |government_type\n= |leader_title = |leader_name = |leader_title1 = <!-- for places with, say,\nboth a mayor and a city manager --> |leader_name1 = |established_title =\n|established_date = |area_magnitude = |unit_pref =Imperial<!--Enter: Imperial,\nif Imperial (metric) is desired--> |area_footnotes = |area_total_km2 =\n|area_land_km2 = |area_water_km2 = |area_total_sq_mi = |area_land_sq_mi =\n|area_water_sq_mi = |area_water_percent = |area_urban_km2 = |area_urban_sq_mi =\n|area_metro_km2 = |area_metro_sq_mi = |population_as_of = |population_footnotes\n= |population_note = |population_total = |population_density_km2 =\n|population_density_sq_mi = |population_metro = |population_density_metro_km2 =\n|population_density_metro_sq_mi = |population_urban =\n|population_density_urban_km2 = |population_density_urban_mi2 = |timezone = GMT\n+1 |utc_offset = +1 |timezone_DST = |utc_offset_DST = |latd=|latm=|lats=|latNS=\n|longd=|longm=|longs= |longEW= |elevation_footnotes = <!--for references: use\n<ref> tags--> |elevation_m = |elevation_ft = |postal_code_type = <!-- enter ZIP\ncode, Postcode, Post code, Postal code... --> |postal_code = |area_code =\n|website = |footnotes = }}\n\n'Okano' is a department of Woleu-Ntem Province in northern Gabon. The capital\nlies at Mitzic.\n",
+      "title" : "Okano%20Department",
+      "headings" : [
+         "Towns and villages"
+      ]
+   },
+   "micro-relation" : [
+      "2: Gabon",
+      "2: Woleu-Ntem_Province",
+      "1: Countries_of_the_world",
+      "1: Provinces_of_Gabon",
+      "1: Mitzic"
+   ]
+}

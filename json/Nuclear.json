@@ -1,4 +1,5 @@
 {
+   "micrownet" : [],
    "google" : [
       "/url?q=http://en.wikipedia.org/wiki/Nuclear_power&sa=U&ei=CtrYUbePNoKrO47sgMAM&ved=0CBgQFjAA&usg=AFQjCNGqBqfo8kAG9GjESgwJA6ERgKmMdw",
       "/url?q=http://en.wikipedia.org/wiki/Nuclear&sa=U&ei=CtrYUbePNoKrO47sgMAM&ved=0CCAQFjAB&usg=AFQjCNHPrKhKDkZhzV8ha6jXlT7mRBV8mg",
@@ -12,9 +13,17 @@
       "/url?q=http://www.eia.gov/nuclear/&sa=U&ei=CtrYUbePNoKrO47sgMAM&ved=0CEwQFjAP&usg=AFQjCNEP6WItQYLzSWtcnxhpWA9uPhqkcQ",
       "/url?q=http://www.nuclearblast.de/&sa=U&ei=CtrYUbePNoKrO47sgMAM&ved=0CE8QFjAQ&usg=AFQjCNEPrum8gaoqdZ1EB2p4mdiu2fABoA"
    ],
-   "micrownet" : [],
    "micro" : [],
-   "Lists" : [],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Nuclear_DNA\">Nuclear DNA</a> - Nuclear DNA, nuclear deoxyribonucleic acid (nDNA), is DNA contained within a nucleus of eukaryotic organisms.",
+      "\n<a href=\"http://duckduckgo.com/Nuclear_reactor_technology\">Nuclear reactor technology</a> -   A nuclear reactor is a device to initiate and control a sustained nuclear chain reaction.",
+      "\n<a href=\"http://duckduckgo.com/Nuclear_weapon\">Nuclear weapon</a> - A nuclear weapon is an explosive device that derives its destructive force from nuclear reactions, either fission or a combination of fission and fusion.",
+      "Nuclear",
+      "\n<a href=\"http://duckduckgo.com/Nuclear_power\">Nuclear power</a> - Nuclear power is the use of sustained exothermic nuclear processes to generate heat and electricity.",
+      "http://www.merriam-webster.com/dictionary/nuclear",
+      "nuclear definition: of, relating to, or constituting a nucleus.",
+      "Merriam-Webster"
+   ],
    "common" : {
       "news" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Nuclear_proliferation\" title=\"Nuclear proliferation\"><span class=\"searchmatch\">Nuclear</span> proliferation</a>",
@@ -43,16 +52,7 @@
          "<img alt=\"Powered by MediaWiki\" height=\"31\" src=\"//bits.wikimedia.org/static-1.22wmf8/skins/common/images/poweredby_mediawiki_88x31.png\" width=\"88\" />"
       ]
    },
-   "duck" : [
-      "\n<a href=\"http://duckduckgo.com/Nuclear_DNA\">Nuclear DNA</a> - Nuclear DNA, nuclear deoxyribonucleic acid (nDNA), is DNA contained within a nucleus of eukaryotic organisms.",
-      "\n<a href=\"http://duckduckgo.com/Nuclear_reactor_technology\">Nuclear reactor technology</a> -   A nuclear reactor is a device to initiate and control a sustained nuclear chain reaction.",
-      "\n<a href=\"http://duckduckgo.com/Nuclear_weapon\">Nuclear weapon</a> - A nuclear weapon is an explosive device that derives its destructive force from nuclear reactions, either fission or a combination of fission and fusion.",
-      "Nuclear",
-      "\n<a href=\"http://duckduckgo.com/Nuclear_power\">Nuclear power</a> - Nuclear power is the use of sustained exothermic nuclear processes to generate heat and electricity.",
-      "http://www.merriam-webster.com/dictionary/nuclear",
-      "nuclear definition: of, relating to, or constituting a nucleus.",
-      "Merriam-Webster"
-   ],
+   "Lists" : [],
    "micro-www-search" : [
       "nuclear_weapons_delivery\n>http\nhttp://en.wikipedia.org/w/index.php?title=Nuclear_weapons_delivery&oldid=560138293\nhttp://gizmodo.com/5895441/the-worlds-biggest-nuclear-submarine-is-also-one-of-the-sneakiest\nhttp://www.nuclearmissile.in\n\n>pdf\nhttp://space50.jhuapl.edu/pdfs/book.pdf\nhttp://space50.jhuapl.edu/pdfs/book.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n\n",
       "nuclear_weapons\n>http\nhttp://articles.washingtonpost.com/2011-10-06/opinions/35279184_1_nuclear-weapons-nuclear-power-nuclear-energy\nhttp://blogs.smithsonianmag.com/history/2012/08/going-nuclear-over-the-pacific/\nhttp://digital.library.unt.edu/govdocs/crs/search.tkl?q=nuclear+weapons&search_crit=title&search=Search&date1=Anytime&date2=Anytime&type=form\nhttp://en.wikipedia.org/w/index.php?title=Nuclear_weapon&oldid=561322038\nhttp://nuclearweaponarchive.org/\nhttp://nuclearweaponarchive.org/India/IndiaRealYields.html\nhttp://nuclearweaponarchive.org/News/INESAPTR1.html\nhttp://nuclearweaponarchive.org/Nwfaq/Nfaq0.html\nhttp://nuclearweaponarchive.org/Nwfaq/Nfaq4-5.html#Nfaq4.5.2\nhttp://nuclearweaponarchive.org/Russia/Sovwpnprog.html\nhttp://nuclearweaponarchive.org/Usa/Tests/Plumbob.html#PascalB\nhttp://phys.org/news/2012-07-nuclear-weapons-contribution-climate-science.html\nhttp://politicalticker.blogs.cnn.com/2010/04/12/cnn-poll-public-divided-on-eliminating-all-nuclear-weapons/\nhttp://www.cdi.org/nuclear/database/nukestab.html\nhttp://www.fas.org/programs/ssp/nukes/nuclearweapons/nukestatus.html\nhttp://www.guinnessworldrecords.com/world-records/1000/largest-crater-from-an-underground-nuclear-explosion\nhttp://www.ibiblio.org/rcip/nuclear.html\nhttp://www.icrc.org/web/eng/siteeng0.nsf/htmlall/section_ihl_nuclear_weapons\nhttp://www.newscientist.com/channel/mech-tech/nuclear\nhttp://www.nuclearmuseum.org/\nhttp://www.popsci.com/technology/article/2012-04/how-it-would-work-destroying-incoming-killer-asteroid-nuclear-blast\n\n>pdf\nhttp://cwihp.si.edu/pdf/bull4b.pdf\nhttp://e-reports-ext.llnl.gov/pdf/238468.pdf\nhttp://isis-online.org/uploads/isis-reports/documents/np_237_and_americium.pdf\nhttp://johnmearsheimer.uchicago.edu/pdfs/A0020.pdf\nhttp://path-2.narod.ru/design/base_e/rit-1.pdf\nhttp://path-2.narod.ru/design/base_e/rit-1.pdf\nhttp://pne.people.si.umich.edu/PDF/Edwards2012EntangledHistoriesBAS.pdf\nhttp://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA527730&Location=U2&doc=GetTRDoc.pdf\nhttp://www.fas.org/irp/threat/mctl98-2/p2sec06.pdf\nhttp://www.fas.org/sgp/othergov/doe/rdd-8.pdf\nhttp://www.miktechnology.com/pdf/Qattara%20Depression%20Potential%20Paper-IEEE%20Egypt%20Conference.pdf\nhttp://www.osti.gov/bridge/servlets/purl/658936-fpqpjO/webviewable/658936.pdf\nhttp://www.stimson.org/images/uploads/research-pdfs/ESCCONTROLCHAPTER1.pdf\nhttp://isis-online.org/uploads/isis-reports/documents/np_237_and_americium.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/a/ab/Nuclear_Weapon.ogg\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png\n\n>media\nhttp://upload.wikimedia.org/wikipedia/commons/a/ab/Nuclear_Weapon.ogg\n\n",

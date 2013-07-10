@@ -1,0 +1,58 @@
+{
+   "micrownet" : [],
+   "micro" : [
+      "part",
+      "relation",
+      "material",
+      "substance",
+      "chemical_substance",
+      "physical_entity",
+      "pyrimidine",
+      "c",
+      "alkali",
+      "constituent",
+      "chemical",
+      "base",
+      "abstraction",
+      "cytosine",
+      "portion",
+      "compound",
+      "matter",
+      "component_part",
+      "stuff",
+      "abstract_entity",
+      "component",
+      "chemical_compound",
+      "entity"
+   ],
+   "duck" : [
+      "cytosines definition: a pyrimidine base C<sub>4</sub>H<sub>5</sub>N<sub>3</sub>O that codes genetic information in the polynucleotide chain of DNA or RNA — compare adenine, guanine, thymine, uracil.",
+      "http://merriam-webster.com/dictionary/cytosines",
+      "HASH(0x4dc4cf8)",
+      "Merriam-Webster",
+      "cytosines",
+      "http://www.merriam-webster.com/dictionary/cytosines",
+      "cytosines definition: a pyrimidine base C^^4^^H^^5^^N^^3^^O that codes genetic information in the polynucleotide chain of DNA or RNA — compare adenine, guanine, thymine, uracil.",
+      "Merriam-Webster",
+      "HASH(0x2029da0)",
+      "cytosines definition: a pyrimidine base C<sub>4</sub>H<sub>5</sub>N<sub>3</sub>O that codes genetic information in the polynucleotide chain of DNA or RNA — compare adenine, guanine, thymine, uracil.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373460003,
+   "book" : [],
+   "micro-www" : {
+      "cytosines" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

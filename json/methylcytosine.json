@@ -1,0 +1,98 @@
+{
+   "micrownet" : [],
+   "micro" : [],
+   "duck" : [
+      "5-Methylcytosine is a methylated form of the DNA base cytosine that may be involved in the regulation of gene transcription.",
+      "https://en.wikipedia.org/wiki/5-Methylcytosine",
+      "HASH(0x6327470)",
+      "Wikipedia",
+      "5-Methylcytosine",
+      "\n<a href=\"http://duckduckgo.com/Nucleobase\">Nucleobase</a> - Nucleobases are nitrogen-containing biological compounds found within DNA, RNA, nucleotides, and nucleosides.",
+      "https://i.duckduckgo.com/i/cf18fce6.png",
+      "HASH(0x63c0260)",
+      "\n<a href=\"http://duckduckgo.com/c/Pyrimidones\">Pyrimidones</a>",
+      "5-Methylcytosine is a methylated form of the DNA base cytosine that may be involved in the regulation of gene transcription.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373457421,
+   "book" : [],
+   "micro-www" : {
+      "methylcytosine" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Pyrimidones"
+      ],
+      "text" : "{{chembox\n| verifiedrevid = 477225289\n|ImageFile=5-Methylcytosine.svg |ImageSize= |IUPACName=4-amino-5-methyl-3H-pyrimidin-2-\none |OtherNames= |Section1= {{Chembox Identifiers\n|  ChemSpiderID_Ref = ChemSpiderID = 58551 KEGG_Ref = KEGG = C02376 InChI = 1/C5H7N3O/c1-3-2-7-5(9)8-\n|  4(3)6/h2H,1H3,(H3,6,7,8,9) InChIKey = LRSASMSXMSNRBT-UHFFFAOYAO SMILES1 =\n|  Cc1cnc(=O)[nH]c1N StdInChI_Ref = StdInChI = 1S/C5H7N3O/c1-3-2-7-5(9)8-\n|  4(3)6/h2H,1H3,(H3,6,7,8,9) StdInChIKey_Ref = StdInChIKey = LRSASMSXMSNRBT-UHFFFAOYSA-\n|  N CASNo_Ref = CASNo=554-01-8 PubChem=65040 UNII_Ref = UNII = 6R795CQT4H\n|  ChEBI_Ref = ChEBI = 27551 SMILES = O=C1/N=C\\C(=C(\\N)N1)C MeSHName=5-\n|  Methylcytosine\n  }} |Section2= {{Chembox Properties\n|  C=5|H=7|N=3|O=1 Appearance= Density= MeltingPt= BoilingPt= Solubility=\n  }} |Section3= {{Chembox Hazards\n|  MainHazards= FlashPt= Autoignition=\n  }} }}\n\n'5-Methylcytosine' is a methylated form of the DNA base cytosine that may be\ninvolved in the regulation of gene transcription. When cytosine is methylated,\nthe DNA maintains the same sequence, but the expression of methylated genes can\nbe altered (the study of this is part of the field of epigenetics). 5-\nMethylcytosine is incorporated in the nucleoside 5-methylcytidine.\n\nIn 5-methylcytosine, a methyl group, is attached to the 5th atom in the 6-atom\nring (counting counterclockwise from the NH nitrogen at the six o'clock\nposition, not the 2 o'clock). This methyl group distinguishes 5-methylcytosine\nfrom cytosine.\n",
+      "title" : "5-Methylcytosine",
+      "headings" : [
+         "Discovery",
+         "''In vivo''",
+         "''In vitro''",
+         "See also",
+         "References",
+         "Literature"
+      ]
+   },
+   "micro-relation" : [
+      "3: Thymine",
+      "2: DNA",
+      "2: Cytosine",
+      "2: Epigenetics",
+      "2: Bacteria",
+      "2: Uracil",
+      "2: CpG_site",
+      "1: Methylation",
+      "1: Gene_expression",
+      "1: Nucleoside",
+      "1: 5-Methylcytidine",
+      "1: Methyl_group",
+      "1: Nitrogen",
+      "1: Toxin",
+      "1: Tuberculosis",
+      "1: Nucleic_acid",
+      "1: Tuberculinic_acid",
+      "1: Guanine",
+      "1: Treat_Baldwin_Johnson",
+      "1: Hydrolysis",
+      "1: Sulfuric_acid",
+      "1: Rollin_Douglas_Hotchkiss",
+      "1: Calf",
+      "1: Thymus",
+      "1: Paper_chromatography",
+      "1: RNA",
+      "1: DNA_methyltransferase",
+      "1: Restriction_enzymes",
+      "1: Eukaryote",
+      "1: Vertebrate",
+      "1: Deamination",
+      "1: APOBEC",
+      "1: Marjorie_Montemayor-Quellenberg",
+      "1: Harvard_Gazette",
+      "1: Boston,_Massachusetts",
+      "1: Harvard_University_Medical_School",
+      "1: Brigham_and_Women's_Hospital",
+      "1: Yujiang_Geno_Shi",
+      "1: Key_indicator",
+      "1: Malignant_melanoma",
+      "1: Clinical_outcome",
+      "1: Melanoma",
+      "1: Preclinical_studies",
+      "1: Nitrous_acid",
+      "1: Bisulfite",
+      "1: Bisulfite_sequencing",
+      "1: Nucleobase",
+      "1: National_Center_for_Biotechnology_Information"
+   ]
+}

@@ -1,0 +1,52 @@
+{
+   "micrownet" : [],
+   "micro" : [],
+   "duck" : [
+      "Glycosylases (EC 3.2) are enzymes that hydrolyze glycosyl compounds.",
+      "https://en.wikipedia.org/wiki/Glycosylase",
+      "\n<a href=\"http://duckduckgo.com/c/Enzymes\">Enzymes</a>",
+      "HASH(0x5135070)",
+      "Wikipedia",
+      "Glycosylase",
+      "\n<a href=\"http://duckduckgo.com/Glucosidases\">Glucosidases</a> - Glucosidases are glycoside hydrolase enzymes categorized under the EC number 3.2.1.",
+      "HASH(0x53bf810)",
+      "Glycosylases (EC 3.2) are enzymes that hydrolyze glycosyl compounds.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [
+      "glycosylase\n>http\nhttp://en.m.wikipedia.org/wiki/DNA_glycosylase\nhttp://en.wikipedia.org/w/index.php?title=DNA_glycosylase&oldid=541183874\nhttp://www.nlm.nih.gov/cgi/mesh/2011/MB_cgi?mode=&term=DNA+Glycosylases\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Uracil_base_glycosidase.jpg/300px-Uracil_base_glycosidase.jpg\n"
+   ],
+   "created" : 1373458738,
+   "book" : [],
+   "micro-www" : {
+      "glycosylase" : [
+         "glycosylase",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "EC 3.2",
+         "Enzymes"
+      ],
+      "text" : "'Glycosylases' () are enzymes that hydrolyze glycosyl compounds.<ref></ref> They\nare a type of hydrolase (EC 3). In turn, glycosylases are divided into two\ngroups: glycosidases -- enzymes that hydrolyze O- and S-glycosyl compounds (EC\n3.2.1) -- and enzymes that hydrolyze N-glycosyl compounds (EC 3.2.2).\n",
+      "title" : "glycosylase",
+      "headings" : [
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "1: Enzyme",
+      "1: Glycosyl",
+      "1: Hydrolase",
+      "1: Glycosidase"
+   ]
+}

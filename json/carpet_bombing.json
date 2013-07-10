@@ -1,0 +1,112 @@
+{
+   "micrownet" : [
+      "carpet_bombing"
+   ],
+   "micro" : [
+      "onset",
+      "attack",
+      "military_operation",
+      "bombing",
+      "activity",
+      "event",
+      "human_activity",
+      "operation",
+      "bomb",
+      "entity",
+      "saturation_bombing",
+      "human_action",
+      "bombard",
+      "psychological_feature",
+      "abstraction",
+      "area_bombing",
+      "carpetbombing",
+      "act",
+      "carpetbomb",
+      "deed",
+      "abstract_entity",
+      "onrush",
+      "onslaught",
+      "bombardment"
+   ],
+   "duck" : [
+      "HASH(0x5cd8b38)",
+      "HASH(0x5cd3248)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scores_killed_in_twin_Baghdad_marketplace_attacks\" title=\"Scores killed in twin Baghdad marketplace attacks\">Scores killed in twin Baghdad marketplace attacks</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hollywood_notables_condemn_Hamas_and_Hezbollah\" title=\"Hollywood notables condemn Hamas and Hezbollah\">Hollywood notables condemn Hamas and Hezbollah</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Prince_William_marries_Kate_Middleton%E2%80%94live_updates\" title=\"Prince William marries Kate Middleton—live updates\">Prince William marries Kate Middleton—live updates</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:October_21,_2007\" title=\"News briefs:October 21, 2007\">News briefs:October 21, 2007</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373455397,
+   "book" : [],
+   "micro-www" : {
+      "carpet_bombing" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Aerial bombing"
+      ],
+      "text" : ", German bombers set the entire inner city of ablaze, killing 814 of its\ninhabitants]] was 97% destroyed before it was finally taken by Allied\ntroops in 1945]]\n\n'Carpet bombing', also known as 'saturation bombing', is a large aerial bombing\ndone in a progressive manner to inflict damage in every part of a selected area\nof land.<ref></ref> The phrase evokes the image of explosions completely\ncovering an area, in the same way that a carpet covers a floor. Carpet bombing\nis usually achieved by dropping many unguided bombs. In contrast to precision\nbombing, it is not aimed at a small target, such as a bunker, an airfield, or a\nmilitary unit. One of its uses is the aerial bombing of cities.\n\nThe term obliteration bombing is sometimes used to describe especially\nintensified bombing with the intention of destroying a city or a large part of\nthe city. The term [[area bombing]] refers to indiscriminate bombing of an area,\nand also encompasses cases of carpet bombing, including obliteration bombing. It\nwas used in that sense especially during World War II.\n",
+      "title" : "carpet bombing",
+      "headings" : [
+         "Early history",
+         "During World War II",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Aerial_bombing_of_cities",
+      "2: Strategic_bombing",
+      "1: Aerial_bomb",
+      "1: Carpet",
+      "1: Unguided_bomb",
+      "1: Precision_bombing",
+      "1: World_War_II",
+      "1: Spanish_Civil_War",
+      "1: Battle_of_El_Mazuco",
+      "1: Condor_Legion",
+      "1: European_Theatre_of_World_War_II",
+      "1: Rotterdam_Blitz",
+      "1: Rotterdam",
+      "1: Luftwaffe",
+      "1: Battle_of_the_Netherlands",
+      "1: Utrecht",
+      "1: RAF_Bomber_Command",
+      "1: Arthur_Travers_Harris",
+      "1: Douhet",
+      "1: United_States_Army_Air_Forces",
+      "1: W._G._Sebald",
+      "1: Rubble_film",
+      "1: Close_air_support",
+      "1: Tunisia_Campaign#Endgame",
+      "1: Arthur_Tedder,_1st_Baron_Tedder",
+      "1: Operation_Overlord",
+      "1: Battle_for_Caen",
+      "1: Pacific_War",
+      "1: B-29_Superfortress",
+      "1: Heavy_bombers",
+      "1: Bombing_of_Tokyo",
+      "1: Atomic_bombings_of_Hiroshima_and_Nagasaki",
+      "1: Aerial_bombardment_and_international_law",
+      "1: Area_bombardment",
+      "1: Churchill's_advocacy_of_chemical_strike_against_German_cities",
+      "1: Civilian_casualties_of_strategic_bombing",
+      "1: Giulio_Douhet",
+      "1: Roerich_Pact",
+      "1: Tactical_bombing",
+      "1: Terror_bombing"
+   ]
+}

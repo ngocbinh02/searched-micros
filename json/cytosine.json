@@ -1,0 +1,119 @@
+{
+   "micrownet" : [
+      "cytosine"
+   ],
+   "micro" : [
+      "abstract_entity",
+      "portion",
+      "matter",
+      "component",
+      "pyrimidine",
+      "base",
+      "physical_entity",
+      "entity",
+      "c",
+      "relation",
+      "cytosine",
+      "chemical_substance",
+      "constituent",
+      "substance",
+      "chemical_compound",
+      "abstraction",
+      "material",
+      "compound",
+      "part",
+      "stuff",
+      "chemical",
+      "alkali",
+      "component_part"
+   ],
+   "duck" : [
+      "Cytosine  is one of the four main bases found in DNA and RNA, along with adenine, guanine, and thymine.",
+      "https://en.wikipedia.org/wiki/Cytosine",
+      "\n<a href=\"http://duckduckgo.com/c/Amines\">Amines</a>",
+      "HASH(0x5c96bc0)",
+      "Wikipedia",
+      "Cytosine",
+      "http://www.merriam-webster.com/dictionary/cytosine",
+      "\n<a href=\"http://duckduckgo.com/cysteine\">cysteine</a> - Cysteine (abbreviated as Cys or C) is an α-amino acid with the chemical formula HO2CCH(NH2)CH2SH. It is a semi-essential amino acid, which means that it can be biosynthes...",
+      "cytosine definition: a pyrimidine base C^^4^^H^^5^^N^^3^^O that codes genetic information in the polynucleotide chain of DNA or RNA — compare adenine, guanine, thymine, uracil.",
+      "Merriam-Webster",
+      "https://i.duckduckgo.com/i/aa3f973a.png",
+      "HASH(0x5c6acd0)",
+      "\n<a href=\"http://duckduckgo.com/c/Pyrimidones\">Pyrimidones</a>",
+      "Cytosine  is one of the four main bases found in DNA and RNA, along with adenine, guanine, and thymine.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [
+      "Cytosine\n>http\nhttp://en.m.wikipedia.org/wiki/Cytosine\nhttp://en.wikipedia.org/w/index.php?title=Cytosine&oldid=544403558\nhttp://www.nlm.nih.gov/cgi/mesh/2007/MB_cgi?mode=&term=Cytosine\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Cytosine_chemical_structure.png/120px-Cytosine_chemical_structure.png\n"
+   ],
+   "created" : 1373456935,
+   "book" : [],
+   "micro-www" : {
+      "cytosine" : [
+         "Cytosine",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Amines",
+         "Pyrimidones"
+      ],
+      "text" : "\n{{chembox\n| verifiedrevid = 443557332 ImageFile1 = Cytosine_chemical_structure.png\n| ImageSize1 = 120px ImageFile2 = Cytosine-3D-balls.png ImageSize2 = 180px\n| ImageFile3 = Cytosine-3D-vdW.png ImageSize3 = 150px IUPACName=4-aminopyrimidin-2(1H)-\n| one OtherNames=4-amino-1H-pyrimidine-2-one Section1= {{Chembox Identifiers\n| ChemSpiderID_Ref = ChemSpiderID = 577 ChEMBL_Ref = ChEMBL = 15913 StdInChI_Ref\n| = StdInChI = 1S/C4H5N3O/c5-3-1-2-6-4(8)7-3/h1-2H,(H3,5,6,7,8) StdInChIKey_Ref\n| = StdInChIKey = OPTASPLRGRRNAP-UHFFFAOYSA-N CASNo=71-30-7 CASNo_Ref =\n| PubChem=597 UNII_Ref = UNII = 8J337D1HZY ChEBI_Ref = ChEBI = 16040 SMILES =\n| c1cnc(=O)[nH]c1N KEGG_Ref = KEGG = C00380 InChI = 1/C4H5N3O/c5-3-1-2-6-4(8)7-3/h1-\n| 2H,(H3,5,6,7,8) InChIKey = OPTASPLRGRRNAP-UHFFFAOYAY MeSHName=Cytosine\n  }} |Section2 = {{Chembox Properties\n|  Formula=C<sub>4</sub>H<sub>5</sub>N<sub>3</sub>O MolarMass=111.10 g/mol\n|  Appearance= Density= 1.55 g/cm<sup>3</sup> (calculated) MeltingPtCL = 320\n|  MeltingPtCH = 325 Melting_notes = decomp. BoilingPt= pKa=4.45 (secondary),\n|  12.2 (primary)<ref></ref> Solubility=\n  }} |Section3= {{Chembox Hazards\n|  MainHazards= FlashPt= Autoignition=\n  }} }}\n\n'Cytosine' ('C') is one of the four main bases found in DNA and RNA, along\nwith adenine, guanine, and thymine (uracil in RNA). It is a pyrimidine\nderivative, with a heterocyclic aromatic ring and two substituents attached\n(an amine group at position 4 and a keto group at position 2). The nucleoside\nof cytosine is cytidine. In Watson-Crick base pairing, it forms three hydrogen\nbonds with guanine.\n",
+      "title" : "cytosine",
+      "headings" : [
+         "History",
+         "Chemical reactions",
+         "References",
+         "External links and Citations"
+      ]
+   },
+   "micro-relation" : [
+      "3: Guanine",
+      "2: Uracil",
+      "1: DNA",
+      "1: RNA",
+      "1: Adenine",
+      "1: Thymine",
+      "1: Pyrimidine",
+      "1: Heterocyclic",
+      "1: Aromatic_ring",
+      "1: Amine",
+      "1: Ketone",
+      "1: Nucleoside",
+      "1: Cytidine",
+      "1: Base_pair",
+      "1: Albrecht_Kossel",
+      "1: Thymus",
+      "1: Quantum_computation",
+      "1: Quantum",
+      "1: Information",
+      "1: David_Deutsch",
+      "1: Deutsch-Jozsa_algorithm",
+      "1: Qubit",
+      "1: Nuclear_magnetic_resonance",
+      "1: Nucleotide",
+      "1: Cytidine_triphosphate",
+      "1: Adenosine_diphosphate",
+      "1: Adenosine_triphosphate",
+      "1: Deamination",
+      "1: Point_mutation",
+      "1: DNA_repair",
+      "1: Enzyme",
+      "1: Methylation",
+      "1: 5-Methylcytosine",
+      "1: DNA_methyltransferase",
+      "1: Hydroxylation",
+      "1: 5-Hydroxymethylcytosine",
+      "1: APOBEC"
+   ]
+}

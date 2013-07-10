@@ -1,0 +1,94 @@
+{
+   "micrownet" : [
+      "run_bases"
+   ],
+   "micro" : [
+      "entity",
+      "unit",
+      "ground",
+      "found",
+      "artifact",
+      "army_base",
+      "abstract_entity",
+      "base",
+      "basis",
+      "military_installation",
+      "air_station",
+      "common_ground",
+      "air_base",
+      "relation",
+      "object",
+      "navy_base",
+      "base_of_operations",
+      "footing",
+      "foundation",
+      "rocket_base",
+      "abstraction",
+      "facility",
+      "firebase",
+      "physical_object",
+      "establish",
+      "whole",
+      "installation",
+      "artefact",
+      "physical_entity"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Bases",
+      "HASH(0x4fee358)",
+      "Wikipedia",
+      "Bases",
+      "\n<a href=\"http://duckduckgo.com/Bases_(fashion)\">Bases (fashion)</a>, a military style of dress adopted by the chivalry of the sixteenth century.",
+      "\n<a href=\"http://duckduckgo.com/Business_Association_of_Stanford_Entrepreneurial_Students\">Business Association of Stanford Entrepreneurial Students</a> (BASES)",
+      "HASH(0x558f750)",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Israeli_Air_Force_attacks_militant_bases_in_Lebanon\" title=\"Israeli Air Force attacks militant bases in Lebanon\">Israeli Air Force attacks militant <span class=\"searchmatch\">bases</span> in Lebanon</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._names_German_bases_to_close\" title=\"U.S. names German bases to close\">U.S. names German <span class=\"searchmatch\">bases</span> to close</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._Defense_Secretary_announces_closures_and_expansions_of_military_bases\" title=\"U.S. Defense Secretary announces closures and expansions of military bases\">U.S. Defense Secretary announces closures and expansions of military <span class=\"searchmatch\">bases</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Turkey_launches_airstrikes_against_Kurdish_rebels\" title=\"Turkey launches airstrikes against Kurdish rebels\">Turkey launches airstrikes against Kurdish rebels</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/United_States_and_Poland_sign_missile-defence_deal_angering_Russia\" title=\"United States and Poland sign missile-defence deal angering Russia\">United States and Poland sign missile-defence deal angering Russia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._missile-defence_bases_in_Poland\" title=\"U.S. missile-defence bases in Poland\">U.S. missile-defence <span class=\"searchmatch\">bases</span> in Poland</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Risk_of_major_US_shipyard_Bath_Iron_Works_closure_termed_%22substantial%22_by_Maine_Congressman\" title=\"Risk of major US shipyard Bath Iron Works closure termed &quot;substantial&quot; by Maine Congressman\">Risk of major US shipyard Bath Iron Works closure termed &quot;substantial&quot; by Maine Congressman</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Turkey_strengthens_air_defence_at_Syrian_border_following_shootdown\" title=\"Turkey strengthens air defence at Syrian border following shootdown\">Turkey strengthens air defence at Syrian border following shootdown</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Iraq_demands_immediate_withdrawal_of_Turkish_troops\" title=\"Iraq demands immediate withdrawal of Turkish troops\">Iraq demands immediate withdrawal of Turkish troops</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canadian_military_hosts_first_gay_military_wedding\" title=\"Canadian military hosts first gay military wedding\">Canadian military hosts first gay military wedding</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UN_official:_90_Rwandan_rebels_killed_in_DRC_by_army_troops\" title=\"UN official: 90 Rwandan rebels killed in DRC by army troops\">UN official: 90 Rwandan rebels killed in DRC by army troops</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._General_McChrystal_submits_plan_on_Afghanistan_to_President_Obama\" title=\"U.S. General McChrystal submits plan on Afghanistan to President Obama\">U.S. General McChrystal submits plan on Afghanistan to President Obama</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Turkish_planes_bomb_PKK_targets_in_northern_Iraq\" title=\"Turkish planes bomb PKK targets in northern Iraq\">Turkish planes bomb PKK targets in northern Iraq</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Teenager_killed_in_shark_attack_on_California_beach,_water_was_like_%27river_of_blood%27\" title=\"Teenager killed in shark attack on California beach, water was like &#39;river of blood&#39;\">Teenager killed in shark attack on California beach, water was like &#39;river of blood&#39;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Human_Rights_Watch_publish_documents_alleging_US_cooperated_with_Libya_on_torture\" title=\"Human Rights Watch publish documents alleging US cooperated with Libya on torture\">Human Rights Watch publish documents alleging US cooperated with Libya on torture</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Palestinian_rocket_attack_kills_Israeli_woman\" title=\"Palestinian rocket attack kills Israeli woman\">Palestinian rocket attack kills Israeli woman</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Lyneham_air_base_in_England_given_all_clear_after_bomb_scare\" title=\"Lyneham air base in England given all clear after bomb scare\">Lyneham air base in England given all clear after bomb scare</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/MLB:_Twins_defeat_Orioles_3-2\" title=\"MLB: Twins defeat Orioles 3-2\">MLB: Twins defeat Orioles 3-2</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/MLB:_Rangers_score_30_runs_against_Orioles_in_first_game_of_doubleheader\" title=\"MLB: Rangers score 30 runs against Orioles in first game of doubleheader\">MLB: Rangers score 30 runs against Orioles in first game of doubleheader</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_call_centre_business_to_create_600_jobs_in_Wales\" title=\"US call centre business to create 600 jobs in Wales\">US call centre business to create 600 jobs in Wales</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373460871,
+   "book" : [],
+   "micro-www" : {
+      "bases" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "'Bases' may refer to: *Bases (fashion), a military style of dress adopted by the\nchivalry of the sixteenth century. *Business Association of Stanford\nEntrepreneurial Students (BASES)\n",
+      "title" : "bases",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Business_Association_of_Stanford_Entrepreneurial_Students"
+   ]
+}

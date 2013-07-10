@@ -1,0 +1,62 @@
+{
+   "micrownet" : [
+      "materialisation"
+   ],
+   "micro" : [
+      "natural_process",
+      "materialization",
+      "natural_action",
+      "materialisation",
+      "process",
+      "action",
+      "physical_process",
+      "activity",
+      "physical_entity",
+      "entity"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Materialization",
+      "HASH(0x56bdf10)",
+      "Wikipedia",
+      "Materialization",
+      "http://www.merriam-webster.com/dictionary/materialization",
+      "materialization definition: the action of materializing or becoming materialized.",
+      "Merriam-Webster",
+      "HASH(0x5714cf0)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/teleportation\">Materialization (science fiction)</a> &mdash; an action, in <a href=\"http://duckduckgo.com/?q=science fiction\">science fiction</a>, associated with a <a href=\"http://duckduckgo.com/?q=matter transport system\">matter transport system</a>.",
+      "\n<a href=\"http://duckduckgo.com/materialization_(paranormal)\">Materialization (parapsychology)</a> &mdash; a concept, in <a href=\"http://duckduckgo.com/?q=parapsychology\">parapsychology</a>, is the creation or appearance of <a href=\"http://duckduckgo.com/?q=matter\">matter</a> from unknown sources."
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/General_Assembly_elects_Ban_Ki-moon_as_next_UN_chief\" title=\"General Assembly elects Ban Ki-moon as next UN chief\">General Assembly elects Ban Ki-moon as next UN chief</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Half_of_Australian_defence_force%27s_munitions_of_no_use\" title=\"Half of Australian defence force&#39;s munitions of no use\">Half of Australian defence force&#39;s munitions of no use</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Geelong_win_2009_Australian_Football_League_Grand_Final\" title=\"Geelong win 2009 Australian Football League Grand Final\">Geelong win 2009 Australian Football League Grand Final</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373460700,
+   "book" : [],
+   "micro-www" : {
+      "materialisation" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Materialization' is the name of several things: *Materialization\n(parapsychology) &mdash; a concept, in parapsychology, is the creation or\nappearance of matter from unknown sources. *Materialization (science\nfiction) &mdash; an action, in science fiction, associated with a matter\ntransport system.\n",
+      "title" : "Materialization",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Parapsychology",
+      "1: Matter",
+      "1: Science_fiction",
+      "1: Teleportation"
+   ]
+}

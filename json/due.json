@@ -1,0 +1,122 @@
+{
+   "micrownet" : [
+      "be_due",
+      "due",
+      "due(predicate)",
+      "due_(vs._undue)",
+      "due_care",
+      "due_date",
+      "due_east",
+      "due_north",
+      "due_process",
+      "due_south",
+      "due_west",
+      "duel",
+      "dueler",
+      "duelist",
+      "dueller",
+      "duellist",
+      "duenna",
+      "duet",
+      "duette",
+      "right_to_due_process"
+   ],
+   "micro" : [
+      "content",
+      "mental_object",
+      "cognition",
+      "cognitive_content",
+      "idea",
+      "abstract",
+      "abstract_entity",
+      "due",
+      "psychological_feature",
+      "thought",
+      "noesis",
+      "right",
+      "knowledge",
+      "abstraction",
+      "conception",
+      "entity",
+      "concept",
+      "construct"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/2_(number)\">two</a>, from the Italian due",
+      "https://en.wikipedia.org/wiki/Due",
+      "HASH(0x5059688)",
+      "Wikipedia",
+      "Due",
+      "http://www.merriam-webster.com/dictionary/due",
+      "\n<a href=\"http://duckduckgo.com/DNA_unwinding_element\">DNA unwinding element</a> - A DNA unwinding element, frequently abbreviated to DUE and on occasion DNAUE, is an enzyme complex that can be found during DNA synthesis at the origin of replication and is the init...",
+      "due definition: owed or owing as a debt.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Postage_due\">Postage due</a>, mail sent with insufficient postage",
+      "HASH(0x507e6c0)",
+      "\n<a href=\"http://duckduckgo.com/Union_dues\">Union dues</a>, a membership fee paid by members of labor unions",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mississippi_River_section_shut_down_due_to_sunken_tug_boat\" title=\"Mississippi River section shut down due to sunken tug boat\">Mississippi River section shut down <span class=\"searchmatch\">due</span> to sunken tug boat</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Victoria_power_grid_collapses_due_to_spot_fires\" title=\"Victoria power grid collapses due to spot fires\">Victoria power grid collapses <span class=\"searchmatch\">due</span> to spot fires</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Washington_Monument_evacuated_due_to_false_bomb_threat\" title=\"Washington Monument evacuated due to false bomb threat\">Washington Monument evacuated <span class=\"searchmatch\">due</span> to false bomb threat</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Landing_of_Space_Shuttle_Atlantis_postponed_due_to_bad_weather\" title=\"Landing of Space Shuttle Atlantis postponed due to bad weather\">Landing of Space Shuttle Atlantis postponed <span class=\"searchmatch\">due</span> to bad weather</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/La_Liga_fixtures_face_delay_due_to_players%27_strike\" title=\"La Liga fixtures face delay due to players&#39; strike\">La Liga fixtures face delay <span class=\"searchmatch\">due</span> to players&#39; strike</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Government_shuts_off_water_to_California_farms_in_controversial_effort_to_help_threatened_species\" title=\"Government shuts off water to California farms in controversial effort to help threatened species\">Government shuts off water to California farms in controversial effort to help threatened species</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Huron_California_Dries_Up_Due_to_Feds_Switching_Off_Pumps\" title=\"Huron California Dries Up Due to Feds Switching Off Pumps\">Huron California Dries Up <span class=\"searchmatch\">Due</span> to Feds Switching Off Pumps</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Eurostar_suspended_due_to_cold_weather\" title=\"Eurostar suspended due to cold weather\">Eurostar suspended <span class=\"searchmatch\">due</span> to cold weather</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Reports_of_at_least_fourteen_dead_this_week_due_to_gun-related_suicides_in_the_United_States\" title=\"Reports of at least fourteen dead this week due to gun-related suicides in the United States\">Reports of at least fourteen dead this week <span class=\"searchmatch\">due</span> to gun-related suicides in the United States</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NASA_announces_Shuttle_delay_due_to_Hurricane_Katrina\" title=\"NASA announces Shuttle delay due to Hurricane Katrina\">NASA announces Shuttle delay <span class=\"searchmatch\">due</span> to Hurricane Katrina</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Nineteen_Spanish_airports_closed_due_to_ash\" title=\"Nineteen Spanish airports closed due to ash\">Nineteen Spanish airports closed <span class=\"searchmatch\">due</span> to ash</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Times_Square_shuts_down_due_to_suspicious_vehicle\" title=\"Times Square shuts down due to suspicious vehicle\">Times Square shuts down <span class=\"searchmatch\">due</span> to suspicious vehicle</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Britain_loses_AAA_credit_rating_due_to_poor_economic_growth_and_continued_austerity\" title=\"Britain loses AAA credit rating due to poor economic growth and continued austerity\">Britain loses AAA credit rating <span class=\"searchmatch\">due</span> to poor economic growth and continued austerity</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Macy%27s_flagship_store_in_New_York_evacuated_due_to_fire\" title=\"Macy&#39;s flagship store in New York evacuated due to fire\">Macy&#39;s flagship store in New York evacuated <span class=\"searchmatch\">due</span> to fire</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/The_Taj_Mahal_turning_yellow_due_to_pollution\" title=\"The Taj Mahal turning yellow due to pollution\">The Taj Mahal turning yellow <span class=\"searchmatch\">due</span> to pollution</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_Incapacity_Benefit_due_to_be_overhauled_today\" title=\"British Incapacity Benefit due to be overhauled today\">British Incapacity Benefit <span class=\"searchmatch\">due</span> to be overhauled today</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Events_cancelled_at_Humber_due_to_college_strike\" title=\"Events cancelled at Humber due to college strike\">Events cancelled at Humber <span class=\"searchmatch\">due</span> to college strike</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sony_recalls_440,000_laptops_due_to_wiring_faults\" title=\"Sony recalls 440,000 laptops due to wiring faults\">Sony recalls 440,000 laptops <span class=\"searchmatch\">due</span> to wiring faults</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/1,100_evacuated_due_to_massive_Halifax_brush_fire\" title=\"1,100 evacuated due to massive Halifax brush fire\">1,100 evacuated <span class=\"searchmatch\">due</span> to massive Halifax brush fire</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Arroyo_declares_state_of_emergency_due_to_coup_attempt_in_Philippines\" title=\"Arroyo declares state of emergency due to coup attempt in Philippines\">Arroyo declares state of emergency <span class=\"searchmatch\">due</span> to coup attempt in Philippines</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Shuttle_launch_called_off_due_to_faulty_fuel_tank_sensor\" title=\"Shuttle launch called off due to faulty fuel tank sensor\">Shuttle launch called off <span class=\"searchmatch\">due</span> to faulty fuel tank sensor</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [
+      "due\n>http\nhttp://en.m.wikipedia.org/wiki/Due\nhttp://en.wikipedia.org/w/index.php?title=Due&oldid=540687943\nhttp://toolserver.org/~geohack/geohack.php?pagename=Due&params=50.823611_N_142.109722_E_\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
+      "Due_process\n>pdf\nhttp://students.law.umich.edu/mlr/archive/105/2/hawkins.pdf\nhttp://students.law.umich.edu/mlr/archive/105/2/hawkins.pdf\nhttp://www.constitution.org/18th/coke2nd1797/coke2nd1797_051-100.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png\n"
+   ],
+   "created" : 1373458865,
+   "book" : [],
+   "micro-www" : {
+      "due" : [
+         "due",
+         "Due_process",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'DUE' may stand for:\n\n* DNA unwinding element\n* two, from the Italian due ** Due – Due, the football match between Denmark and\n  Sweden in the UEFA Euro 2004\n* Union dues, a membership fee paid by members of labor unions\n* Postage due, mail sent with insufficient postage\n* \"Due\", a song by the American musical group Mindless Self Indulgence\n* Due, a character in the anime Magical Girl Lyrical Nanoha Strikers\n* Due (place) (), Sakhalin Oblast, Russia, a coal mining area on the southwest\n  of Alexandrovsk-Sakhalinsky (town).\n",
+      "title" : "due",
+      "headings" : [
+         "People",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: DNA_unwinding_element",
+      "1: Two",
+      "1: Denmark_and_Sweden_football_rivalry#Euro_2004_group_match",
+      "1: Union_dues",
+      "1: Postage_due",
+      "1: Mindless_Self_Indulgence",
+      "1: Tananarive_Due",
+      "1: Deus",
+      "1: Dus"
+   ]
+}

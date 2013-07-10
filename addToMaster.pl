@@ -1,5 +1,4 @@
 #!/usr/bin/perl
-
 use File::Path;
 use JSON::XS;
 use Cache::Memcached::Fast;
@@ -10,16 +9,10 @@ use AI::Classifier::Text::Analyzer;
 use Statistics::Basic qw(:all);
 use List::Util qw(min max);
         use threads;
-
-
-
 our $PATH = shift @ARGV or die("Where are the files -d ");
 our $master = {};
 use constant OUTPUT    => '/home/santex/repos/searched-micros/json/';
-
 mkpath( OUTPUT );
-
-
 our $memd = new Cache::Memcached::Fast({
 	 servers => [ { address => 'localhost:11211', weight => 2.5 }],
 	 namespace => 'my:',
@@ -32,26 +25,35 @@ our $memd = new Cache::Memcached::Fast({
 	 max_size => 512 * 1024,
 	});
 	
-
 sub init { 
 	
 	
 	print `cd   $PATH`;
 	
-	$master = {};#$memd->get("master");
+	$master = $memd->get("master");
+	
+	$master->{stats}->{top} = [] unless($master->{stats}->{top});
 }
-
 our $dir = "";
 our $d = {};
-
-
-
 sub addToMaster {
 		
 	for (parse_dir(`ls -lR  $PATH`)) {
 		
 		my ($name, $type, $size, $mtime, $mode) = @$_;
-
+		
+		if(!-f $name){
+			
+			
+		
+			push @{$master->{stats}->{top}},$d->{name}unless(grep{/$d->{name}/}@{$master->{stats}->{top}});
+			my @top = @{$master->{stats}->{top}};
+			if($#top>5){
+				pop  @{$master->{stats}->{top}};
+			}
+		
+		
+		}
 		if( -f $name){
 		
 			
@@ -77,18 +79,25 @@ sub addToMaster {
 				print $ih  $json;
 				close $ih;
 			
-		
 			}
 			
 	}
 			print	$d->{name} ,"\n";
 			$memd->set($d->{name},$d->{content});
 			
-			$master->{files}->{$d->{name}} = 1+sprintf("%d",length(Dumper($d->{content}))/1024);
-			$master->{files}->{$d->{name}} = $master->{files}->{$d->{name}} > 40 ? 40 : $master->{files}->{$d->{name}} ;
-			
+
+		
+				my $json = JSON::XS->new->allow_nonref->allow_blessed->pretty(1)->encode($d->{content});
+				my $index = File::Spec->catfile( OUTPUT,"$d->{name}.json" );
+				open  my $ih, '>', $index or die "Can't write $index ($!)\n";
+				print $ih  $json;
+				close $ih;
 			
 
+			$master->{files}->{$d->{name}} = 10+sprintf("%d",length(Dumper($d->{content}))/1024);
+			$master->{files}->{$d->{name}} = $master->{files}->{$d->{name}} > 90 ? 90 : $master->{files}->{$d->{name}} ;
+			my @top =  @{$master->{stats}->{top}};
+			
 		
 	}
 		
@@ -96,31 +105,19 @@ sub addToMaster {
 	 $master->{stats}->{mean} = sprintf("%3.4f",mean(@vals));
 	 $master->{stats}->{min} = min(@vals);
 	 $master->{stats}->{max} = max(@vals);
-
-
      $memd->set("master",$master);
 	
 }
-
 init;
-
 addToMaster();
-
 p $master;
-
 1;
 __DATA__
-
            my $analyzer = AI::Classifier::Text::Analyzer->new();
-
            my $features = $analyzer->analyze(Dumper($master));
-
-
 my @vals = values %$features;
 my $mean = mean(@vals);
-
 foreach(keys %$features){
-
 printf("\n%s\t%s",$features->{$_},$_) if($features->{$_}>=$mean*10);
 	
 }

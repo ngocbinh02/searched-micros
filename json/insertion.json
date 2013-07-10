@@ -1,0 +1,81 @@
+{
+   "micrownet" : [
+      "insertion",
+      "insertional_mutagenesis"
+   ],
+   "micro" : [
+      "entity",
+      "interpolation",
+      "insertion",
+      "communication",
+      "content",
+      "substance",
+      "subject_matter",
+      "abstract_entity",
+      "message",
+      "abstraction"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Insertion_reaction\">Insertion reaction</a>, a chemical reaction in which one chemical entity interposes itself into an existing bond of a second chemical entity (e.g.: A + B&ndash;C → B&ndash;A&ndash;C)",
+      "https://en.wikipedia.org/wiki/Insertion",
+      "Wikipedia",
+      "Insertion",
+      "\n<a href=\"http://duckduckgo.com/Local_insertion\">Local insertion</a>, in broadcasting",
+      "http://www.merriam-webster.com/dictionary/insertion",
+      "insertion definition: something that is inserted.",
+      "\n<a href=\"http://duckduckgo.com/Insertion_(genetics)\">Insertion (genetics)</a>, the addition of DNA into a genetic sequence",
+      "\n<a href=\"http://duckduckgo.com/Insertion_sort\">Insertion sort</a>, a simple computer algorithm for sorting arrays",
+      "HASH(0x4f69880)",
+      "Merriam-Webster",
+      "HASH(0x50b3890)",
+      "\n<a href=\"http://duckduckgo.com/Insertion_(anatomy)\">Insertion (anatomy)</a>, the point of a tendon or ligament onto the skeleton or other part of the body",
+      "D",
+      "\nSee also <a href=\"http://duckduckgo.com/Insert\">Insert</a>.",
+      "\n<a href=\"http://duckduckgo.com/Insertion_loss\">Insertion loss</a>, in electronics"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Space_Shuttle_Discovery_launches_on_mission_STS-124\" title=\"Space Shuttle Discovery launches on mission STS-124\">Space Shuttle Discovery launches on mission STS-124</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_BP_oil_spill_plan\" title=\"New BP oil spill plan\">New BP oil spill plan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NASA_spacecraft_to_begin_collecting_data_on_Mercury\" title=\"NASA spacecraft to begin collecting data on Mercury\">NASA spacecraft to begin collecting data on Mercury</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Indian_spacecraft_Chandrayaan-1_enters_moon_orbit\" title=\"Indian spacecraft Chandrayaan-1 enters moon orbit\">Indian spacecraft Chandrayaan-1 enters moon orbit</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Female_sponge_contraceptive_re-approved_for_US_market\" title=\"Female sponge contraceptive re-approved for US market\">Female sponge contraceptive re-approved for US market</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Audio_tape_indicating_Canadian_PM_involved_in_bribery_alleged_to_be_doctored\" title=\"Audio tape indicating Canadian PM involved in bribery alleged to be doctored\">Audio tape indicating Canadian PM involved in bribery alleged to be doctored</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Mars_Orbiter_arrives_for_launch\" title=\"New Mars Orbiter arrives for launch\">New Mars Orbiter arrives for launch</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pope_in_medical_crisis\" title=\"Pope in medical crisis\">Pope in medical crisis</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pope_gets_feeding_tube_through_nose\" title=\"Pope gets feeding tube through nose\">Pope gets feeding tube through nose</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/SpaceX_rocket_successfully_orbits_on_fourth_attempt\" title=\"SpaceX rocket successfully orbits on fourth attempt\">SpaceX rocket successfully orbits on fourth attempt</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/France:_Villepin%27s_cabinet_announced\" title=\"France: Villepin&#39;s cabinet announced\">France: Villepin&#39;s cabinet announced</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:May_25,_2010\" title=\"News briefs:May 25, 2010\">News briefs:May 25, 2010</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [
+      "Insertion\n>http\nhttp://en.m.wikipedia.org/wiki/Insertion\nhttp://en.wikipedia.org/w/index.php?title=Insertion&oldid=541704448\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png\n"
+   ],
+   "created" : 1373460043,
+   "book" : [],
+   "micro-www" : {
+      "insertion" : [
+         "Insertion",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "'Insertion' may refer to: *Insertion (anatomy), the point of a tendon or\nligament onto the skeleton or other part of the body *Insertion (genetics), the\naddition of DNA into a genetic sequence *Insertion loss, in electronics\n*Insertion reaction, a chemical reaction in which one chemical entity interposes\nitself into an existing bond of a second chemical entity (e.g.: <span\nstyle=\"color:red;\">A</span> + <span style=\"color:blue;\">B&ndash;C</span> → <span\nstyle=\"color:blue;\">B&ndash;</span><span style=\"color:red;\">A</span><span\nstyle=\"color:blue;\">&ndash;C</span>) *Insertion sort, a simple computer\nalgorithm for sorting arrays *Local insertion, in broadcasting\n\nSee also Insert.\n",
+      "title" : "insertion",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Insertion_loss",
+      "1: Insertion_reaction",
+      "1: Insertion_sort",
+      "1: Local_insertion",
+      "1: Insert"
+   ]
+}

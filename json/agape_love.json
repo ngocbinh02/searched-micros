@@ -1,24 +1,106 @@
 {
-   "created" : 1373448855,
    "micrownet" : [
       "agape_love"
    ],
-   "micro" : [
-      "love",
-      "agape",
-      "state",
-      "entity",
-      "attribute",
-      "abstract_entity",
-      "feeling",
-      "emotion",
-      "agape_love",
-      "abstraction"
+   "google" : [
+      "/url?q=http://www.openbible.info/topics/agape_love&sa=U&ei=syPdUdnoKM7-PJb7gegJ&ved=0CBoQFjAA&usg=AFQjCNEXx2kga_rgqTQxlrtq3SZi2v-nfQ",
+      "/url?q=http://www.kingjamesbibleonline.org/Agape_Love/&sa=U&ei=syPdUdnoKM7-PJb7gegJ&ved=0CB4QFjAB&usg=AFQjCNGso72VyZtEHIh4-V3eYBcisIJGnA",
+      "/url?q=http://www.goodreads.com/book/show/356225.Agape_Love&sa=U&ei=syPdUdnoKM7-PJb7gegJ&ved=0CCEQFjAC&usg=AFQjCNF9abZxs9wNaefkdI6RE5pariMJTA",
+      "/url?q=http://www.needhope.net/agape_love.htm&sa=U&ei=syPdUdnoKM7-PJb7gegJ&ved=0CCUQFjAD&usg=AFQjCNEjWNR5pkv8bJ4RmT18uL9o1csKBA",
+      "/url?q=http://templetonpress.org/content/agape-love&sa=U&ei=syPdUdnoKM7-PJb7gegJ&ved=0CCkQFjAE&usg=AFQjCNGkq1z-kc2Sr5F0HrPLk0k_aWsQHQ",
+      "/url?q=http://books.google.com/books/about/Agape_Love.html%3Fid%3DvQM8mKPjGgcC&sa=U&ei=syPdUdnoKM7-PJb7gegJ&ved=0CCwQFjAF&usg=AFQjCNGXURFgBbagZDPHRGmzJZjRhrki8Q",
+      "/url?q=http://www.zazzle.com/agape%2Blove%2Bgifts&sa=U&ei=syPdUdnoKM7-PJb7gegJ&ved=0CC8QFjAG&usg=AFQjCNGw7s8O9vBI-3SCUSLX-nBIo1T3Ag",
+      "/url?q=http://www.audioenglish.org/dictionary/agape_love.htm&sa=U&ei=syPdUdnoKM7-PJb7gegJ&ved=0CDIQFjAH&usg=AFQjCNFH-unLKuYGcN2HADiVXLk7iy5zow",
+      "/url?q=http://www.liveluvcreate.com/image/agape_love-173758.html&sa=U&ei=syPdUdnoKM7-PJb7gegJ&ved=0CDUQFjAI&usg=AFQjCNEuvLiHLxAg2HiFwWcZfzniJDleog",
+      "/url?q=http://christianity.about.com/od/glossary/a/Agape.htm&sa=U&ei=syPdUdnoKM7-PJb7gegJ&ved=0CDgQFjAJ&usg=AFQjCNGi84Nsk2xQBtVx8T_eiPsYSXEvfQ"
    ],
+   "micro" : [
+      "agape_love",
+      "abstract_entity",
+      "love",
+      "emotion",
+      "entity",
+      "feeling",
+      "attribute",
+      "abstraction",
+      "agape",
+      "state"
+   ],
+   "duck" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373454246,
+   "book" : [],
    "micro-www" : {
       "agape_love" : [
          ""
       ]
    },
-   "micro-www-search" : []
+   "wiki" : {
+      "cat" : [
+         "Christian terms",
+         "Philosophy of love"
+      ],
+      "text" : "\n\n'Agape' (<ref>[[Oxford English Dictionary]]</ref> or ; Classical Greek: , agápē;\nModern Greek: ) is one of the Koine Greek words translated into English as love,\none which became particularly appropriated in Christian theology as the love of\nGod or Christ for humankind. In the New Testament, it refers to the covenant\nlove of God for humans, as well as the human reciprocal love for God; the term\nnecessarily extends to the love of one’s fellow man.<ref>\"agape.\" Encyclopædia\nBritannica. Encyclopædia Britannica Online. Encyclopædia Britannica, 2011. Web.\n17 Sep. 2011. <http://www.britannica.com/EBchecked/topic/662884/agape>. </ref>\nMany have thought that this word represents divine, unconditional, self-\nsacrificing, active, volitional, and thoughtful love. . Although the word does\nnot have specific religious connotation, the word has been used by a variety of\ncontemporary and ancient sources, including biblical authors and Christian\nauthors. Greek philosophers at the time of Plato and other ancient authors have\nused forms of the word to denote love of a spouse or family, or affection for a\nparticular activity, in contrast to philia (an affection that could denote\nfriendship, brotherhood or generally non-sexual affection) and eros, an\naffection of a sexual nature. Thomas Jay Oord has defined agape as \"an\nintentional response to promote well-being when responding to that which has\ngenerated ill-being.\"<ref>“ The love racket: Defining love and agape for the love-and-\nscience research program,” Zygon, vol. 40, no. 4 (December 2005), pp. 919-938\nhttp://www.calvin.edu/~jks4/city/Oord~Defining%20Love.pdf</ref>\n",
+      "title" : "agape",
+      "headings" : [
+         "Christianity",
+         "See also",
+         "Notes",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Love",
+      "2: Agape_feast",
+      "1: Ancient_Greek",
+      "1: Modern_Greek",
+      "1: Koine",
+      "1: Greek_words_for_love",
+      "1: Love_of_God",
+      "1: Christ",
+      "1: New_Testament",
+      "1: Bible",
+      "1: Plato",
+      "1: Philia",
+      "1: Thomas_Jay_Oord",
+      "1: Catacombs_of_Rome",
+      "1: Marcellinus_and_Peter",
+      "1: Via_Labicana",
+      "1: Rome",
+      "1: Christianity",
+      "1: God",
+      "1: Kenosis",
+      "1: Gospel",
+      "1: Jesus",
+      "1: Great_Commandment",
+      "1: Judaism",
+      "1: Shema_Yisrael",
+      "1: King_James_Version",
+      "1: Sermon_on_the_Mount",
+      "1: Tertullian",
+      "1: Oliver_Chase_Quick",
+      "1: Epistle_of_Jude",
+      "1: Second_Epistle_of_Peter",
+      "1: Agapism",
+      "1: Compassionate_love",
+      "1: Love_styles",
+      "1: Loving-kindness",
+      "1: The_Four_Loves",
+      "1: Jewish_views_on_love",
+      "1: Chesed",
+      "1: Hebrew_language",
+      "1: Kindness",
+      "1: Sephirot",
+      "1: Dveikut",
+      "1: MettÄ"
+   ]
 }

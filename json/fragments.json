@@ -1,0 +1,115 @@
+{
+   "micrownet" : [],
+   "micro" : [
+      "clast",
+      "spawl",
+      "flake",
+      "split_up",
+      "brickbat",
+      "entity",
+      "part",
+      "fragmentize",
+      "fragment",
+      "fragmentise",
+      "fleck",
+      "cinder",
+      "sliver",
+      "separate",
+      "scrap",
+      "spall",
+      "restriction_fragment",
+      "physical_entity",
+      "break",
+      "paring",
+      "breakup",
+      "bit",
+      "clinker",
+      "spark",
+      "chip",
+      "fall_apart",
+      "shaving",
+      "filing",
+      "scraping",
+      "come_apart",
+      "coal",
+      "ember",
+      "piece",
+      "thing"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Fragment",
+      "HASH(0x52ec5b8)",
+      "Wikipedia",
+      "Fragment",
+      "http://www.merriam-webster.com/dictionary/fragment",
+      "fragment definition: a part broken off, detached, or incomplete.",
+      "Merriam-Webster",
+      "HASH(0x535dac8)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Fragments_(film)\">Fragments (film)</a> (a.k.a. Winged Creatures), a 2009 film",
+      "\n<a href=\"http://duckduckgo.com/Fragment_identifier\">Fragment identifier</a>, the segment of a URL following the \"#\" that identifies a portion of a larger document"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Two_explosives_factories_explode_in_India\" title=\"Two explosives factories explode in India\">Two explosives factories explode in India</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Infrared_technology_enables_recovery_of_lost_classical_writings\" title=\"Infrared technology enables recovery of lost classical writings\">Infrared technology enables recovery of lost classical writings</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Human_remains_in_mass_grave_confirm_Argentina_secret_death_camp\" title=\"Human remains in mass grave confirm Argentina secret death camp\">Human remains in mass grave confirm Argentina secret death camp</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Service_held_in_Nova_Scotia_on_tenth_anniversary_of_Swissair_crash_that_killed_229\" title=\"Service held in Nova Scotia on tenth anniversary of Swissair crash that killed 229\">Service held in Nova Scotia on tenth anniversary of Swissair crash that killed 229</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Debris_narrowly_misses_International_Space_Station\" title=\"Debris narrowly misses International Space Station\">Debris narrowly misses International Space Station</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Flight_from_Armenian_capital_Yerevan_crashes_near_Sochi\" title=\"Flight from Armenian capital Yerevan crashes near Sochi\">Flight from Armenian capital Yerevan crashes near Sochi</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2006_Nobel_Prize_in_Medicine_awarded_to_American_scientists\" title=\"2006 Nobel Prize in Medicine awarded to American scientists\">2006 Nobel Prize in Medicine awarded to American scientists</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/California_lead_bullet_ban_moves_forward\" title=\"California lead bullet ban moves forward\">California lead bullet ban moves forward</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ten_April_Fool%27s_pranks_of_2009\" title=\"Ten April Fool&#39;s pranks of 2009\">Ten April Fool&#39;s pranks of 2009</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Live_grenade_thrown_at_George_Bush_in_Georgia\" title=\"Live grenade thrown at George Bush in Georgia\">Live grenade thrown at George Bush in Georgia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Archaeologists_find_1.8M-year-old_Homo_erectus_skull\" title=\"Archaeologists find 1.8M-year-old Homo erectus skull\">Archaeologists find 1.8M-year-old Homo erectus skull</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/One_week_after_quake,_geologists_fear_Mount_Merapi_eruption\" title=\"One week after quake, geologists fear Mount Merapi eruption\">One week after quake, geologists fear Mount Merapi eruption</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Disabled_U.S._spy_satellite_to_fall_to_Earth\" title=\"Disabled U.S. spy satellite to fall to Earth\">Disabled U.S. spy satellite to fall to Earth</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_Jersey_woman_identified_after_fifteen_years_in_psychiatric_home\" title=\"New Jersey woman identified after fifteen years in psychiatric home\">New Jersey woman identified after fifteen years in psychiatric home</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Suicide_bomber_in_southern_Russia_kills_at_least_five_policemen\" title=\"Suicide bomber in southern Russia kills at least five policemen\">Suicide bomber in southern Russia kills at least five policemen</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ukrainian_journalist_Gongadze%27s_skull_may_have_been_found\" title=\"Ukrainian journalist Gongadze&#39;s skull may have been found\">Ukrainian journalist Gongadze&#39;s skull may have been found</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scientists_say_genetic_building_blocks_are_from_out_of_this_world\" title=\"Scientists say genetic building blocks are from out of this world\">Scientists say genetic building blocks are from out of this world</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Evidence_of_%27shattered_moon%27_found_inside_rings_of_Saturn\" title=\"Evidence of &#39;shattered moon&#39; found inside rings of Saturn\">Evidence of &#39;shattered moon&#39; found inside rings of Saturn</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_study_claims_Stonehenge_was_a_place_of_healing\" title=\"New study claims Stonehenge was a place of healing\">New study claims Stonehenge was a place of healing</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [
+      "fragments\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
+      "Fragments_(film)\n>http\nhttp://www.fandango.com/fragments_126557/movieoverview\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/1/12/Winged_creatures_ver2.jpg/220px-Winged_creatures_ver2.jpg\n\n",
+      "Fragments_(album)\n>http\nhttp://en.m.wikipedia.org/wiki/Fragments_(album)\nhttp://en.wikipedia.org/w/index.php?title=Fragments_(album)&oldid=460916579\nhttp://www.allmusic.com/album/fragments-r158591/review\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/a/a6/Fragments_%28album%29.jpg\n\n",
+      "Fragments_(Torchwood)\n>http\nhttp://en.m.wikipedia.org/wiki/Fragments_(Torchwood)\nhttp://en.wikipedia.org/w/index.php?title=Fragments_(Torchwood)&oldid=525244277\nhttp://www.wikia.com/wiki/c:tardis:Fragments\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/8/88/Fragments_%28Torchwood%29.jpg/275px-Fragments_%28Torchwood%29.jpg\n"
+   ],
+   "created" : 1373460306,
+   "book" : [],
+   "micro-www" : {
+      "fragments" : [
+         "fragments",
+         "Fragments_(film)",
+         "Fragments_(album)",
+         "Fragments_(Torchwood)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Fragment' may refer to:\n",
+      "title" : "Fragment",
+      "headings" : [
+         "Entertainment",
+         "Other",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Jakob_Sveistrup",
+      "1: Edward_Albee",
+      "1: Binjamin_Wilkomirski",
+      "1: Fragment_identifier",
+      "1: Literary_fragment",
+      "1: Sentence_fragment"
+   ]
+}

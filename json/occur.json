@@ -1,0 +1,81 @@
+{
+   "micrownet" : [
+      "occur",
+      "occurrence",
+      "occurrent"
+   ],
+   "micro" : [
+      "go_on",
+      "fall_out",
+      "come_about",
+      "pass_off",
+      "take_place",
+      "pass",
+      "hap",
+      "occur",
+      "happen"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/First_female_boxing_death_occurs_in_US_sanctioned_match\" title=\"First female boxing death occurs in US sanctioned match\">First female boxing death <span class=\"searchmatch\">occurs</span> in US sanctioned match</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Accidental_explosion_occurs_in_Israel\" title=\"Accidental explosion occurs in Israel\">Accidental explosion <span class=\"searchmatch\">occurs</span> in Israel</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tsunami_warning_briefly_issued_for_Indian_Ocean_after_latest_earthquake\" title=\"Tsunami warning briefly issued for Indian Ocean after latest earthquake\">Tsunami warning briefly issued for Indian Ocean after latest earthquake</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Earthquake_occurs_in_the_Indian_Ocean\" title=\"Earthquake occurs in the Indian Ocean\">Earthquake <span class=\"searchmatch\">occurs</span> in the Indian Ocean</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/8.0_magnitude_earthquake_occurs_near_Tonga\" title=\"8.0 magnitude earthquake occurs near Tonga\">8.0 magnitude earthquake <span class=\"searchmatch\">occurs</span> near Tonga</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Attack_occurs_in_Stavropol,_Russia;_at_least_six_dead\" title=\"Attack occurs in Stavropol, Russia; at least six dead\">Attack <span class=\"searchmatch\">occurs</span> in Stavropol, Russia; at least six dead</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Magnitude_5.4_earthquake_hits_Southern_California\" title=\"Magnitude 5.4 earthquake hits Southern California\">Magnitude 5.4 earthquake hits Southern California</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Magnitude_5.4_earthquake_occurs_in_South_California\" title=\"Magnitude 5.4 earthquake occurs in South California\">Magnitude 5.4 earthquake <span class=\"searchmatch\">occurs</span> in South California</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/May_Day_protests_occur_throughout_Switzerland\" title=\"May Day protests occur throughout Switzerland\">May Day protests <span class=\"searchmatch\">occur</span> throughout Switzerland</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Four_incidents_occur_at_Australian_reactor_in_a_week\" title=\"Four incidents occur at Australian reactor in a week\">Four incidents <span class=\"searchmatch\">occur</span> at Australian reactor in a week</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/First_high_level_meeting_between_US_and_North_Korea_in_five_years_occurs\" title=\"First high level meeting between US and North Korea in five years occurs\">First high level meeting between US and North Korea in five years <span class=\"searchmatch\">occurs</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2006_Chinese_wiki_conference_occurs_in_Shanghai\" title=\"2006 Chinese wiki conference occurs in Shanghai\">2006 Chinese wiki conference <span class=\"searchmatch\">occurs</span> in Shanghai</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Magnitude_7.7_earthquake_strikes_off_Indonesia_coast\" title=\"Magnitude 7.7 earthquake strikes off Indonesia coast\">Magnitude 7.7 earthquake strikes off Indonesia coast</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Magnitude_7.5_earthquake_occurs_off_Indonesia_coast\" title=\"Magnitude 7.5 earthquake occurs off Indonesia coast\">Magnitude 7.5 earthquake <span class=\"searchmatch\">occurs</span> off Indonesia coast</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/First_suicide_attack_since_Israeli_pullout_occurs_in_Beersheba\" title=\"First suicide attack since Israeli pullout occurs in Beersheba\">First suicide attack since Israeli pullout <span class=\"searchmatch\">occurs</span> in Beersheba</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Evolution_may_occur_faster_than_once_thought,_scientists_claim\" title=\"Evolution may occur faster than once thought, scientists claim\">Evolution may <span class=\"searchmatch\">occur</span> faster than once thought, scientists claim</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chinese_quake_death_toll_nears_32,500,_as_a_major_aftershock_occurs_and_mourning_begins\" title=\"Chinese quake death toll nears 32,500, as a major aftershock occurs and mourning begins\">Chinese quake death toll nears 32,500, as a major aftershock <span class=\"searchmatch\">occurs</span> and mourning begins</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Captain_and_four_shipping_companies_face_legal_action_over_2009_Australian_oil_spill\" title=\"Captain and four shipping companies face legal action over 2009 Australian oil spill\">Captain and four shipping companies face legal action over 2009 Australian oil spill</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Detroit_chemical_plant_experiences_explosions,_fire;_residents_evacuated\" title=\"Detroit chemical plant experiences explosions, fire; residents evacuated\">Detroit chemical plant experiences explosions, fire; residents evacuated</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Explosions,_fire_occurs_Detroit_chemical_plant\" title=\"Explosions, fire occurs Detroit chemical plant\">Explosions, fire <span class=\"searchmatch\">occurs</span> Detroit chemical plant</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Magnitude_7.0_earthquake_hits_New_Zealand\" title=\"Magnitude 7.0 earthquake hits New Zealand\">Magnitude 7.0 earthquake hits New Zealand</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/5.9_magnitude_aftershock_strikes_Lolol,_Chile_area\" title=\"5.9 magnitude aftershock strikes Lolol, Chile area\">5.9 magnitude aftershock strikes Lolol, Chile area</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._drones_enter_Libya_conflict\" title=\"U.S. drones enter Libya conflict\">U.S. drones enter Libya conflict</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Research_articles_predict_next_earthquake\" title=\"Research articles predict next earthquake\">Research articles predict next earthquake</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/When_Will_the_Next_Earthquake_Occur%3F\" title=\"When Will the Next Earthquake Occur?\">When Will the Next Earthquake <span class=\"searchmatch\">Occur</span>?</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "To be found to exist or appear: Copper deposits occur in the region.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=occur",
+      "HASH(0x50b3890)",
+      "The Free Dictionary",
+      "occur",
+      "http://www.merriam-webster.com/dictionary/occur",
+      "occur definition: to be found or met with.",
+      "Merriam-Webster",
+      "HASH(0x520bf48)",
+      "To be found to exist or appear: Copper deposits occur in the region.",
+      "A"
+   ],
+   "micro-www-search" : [
+      "occurrence\n>http\nhttp://en.m.wikipedia.org/wiki/Type%E2%80%93token_distinction#Occurrences\nhttp://en.wikipedia.org/w/index.php?title=Type-token_distinction&oldid=542787586#Occurrences\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/a/ae/Flock_of_birds_at_Rome.ogg\n\n>media\nhttp://upload.wikimedia.org/wikipedia/commons/a/ae/Flock_of_birds_at_Rome.ogg\n\n",
+      "Occurrent_belief\n>http\nhttp://en.m.wikipedia.org/wiki/Dispositional_and_occurrent_belief\nhttp://en.wikipedia.org/w/index.php?title=Dispositional_and_occurrent_belief&oldid=491641600\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n\n",
+      "Occurrence\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/6/67/MPG-69_zdj.nr_3.jpg/180px-MPG-69_zdj.nr_3.jpg\n"
+   ],
+   "created" : 1373459867,
+   "micro-www" : {
+      "occur" : [
+         "occurrence",
+         "Occurrent_belief",
+         "Occurrence",
+         ""
+      ]
+   },
+   "book" : [],
+   "micro-relation" : []
+}

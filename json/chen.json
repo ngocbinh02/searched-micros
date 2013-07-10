@@ -1,0 +1,111 @@
+{
+   "micrownet" : [
+      "chen",
+      "chen_caerulescens",
+      "chen_n._yang",
+      "chenfish",
+      "chenille",
+      "chenille_cord",
+      "chenin_blanc",
+      "chennai",
+      "chenopodiaceae",
+      "chenopodiales",
+      "chenopodium",
+      "chenopodium_album",
+      "chenopodium_ambrosioides",
+      "chenopodium_bonus-henricus",
+      "chenopodium_botrys",
+      "chenopodium_capitatum",
+      "chenopodium_glaucum",
+      "chenopodium_hybridum",
+      "chenopodium_murale",
+      "chenopodium_rubrum",
+      "chenopodium_vulvaria",
+      "subgenus_chen",
+      "yang_chen_ning"
+   ],
+   "micro" : [
+      "subgenus_chen",
+      "entity",
+      "bird_genus",
+      "taxonomic_group",
+      "chen",
+      "taxonomic_category",
+      "grouping",
+      "taxon",
+      "biological_group",
+      "abstract_entity",
+      "abstraction",
+      "group",
+      "genus"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Chen-style_t'ai_chi_ch'uan\">Chen-style t'ai chi ch'uan</a>, the well known Chinese martial art created by the Chen family",
+      "https://en.wikipedia.org/wiki/Chen",
+      "\n<a href=\"http://duckduckgo.com/Chen_(singer)\">Chen (singer)</a>, a member of the Chinese-South Korean boy band EXO",
+      "HASH(0x5113d50)",
+      "Wikipedia",
+      "Chen",
+      "\n<a href=\"http://duckduckgo.com/Chen_Dynasty\">Chen Dynasty</a>, dynasty in Chinese history",
+      "HASH(0x5082270)",
+      "\n<a href=\"http://duckduckgo.com/Chen_(state)\">Chen (state)</a> during the Zhou Dynasty, which is now part of present-day Anhui and Henan",
+      "\n<a href=\"http://duckduckgo.com/Chen_(genus)\">Chen (genus)</a>, a genus of geese which is sometimes included in Anser",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Former_Taiwanese_President_Chen_Shui-bian_detained\" title=\"Former Taiwanese President Chen Shui-bian detained\">Former Taiwanese President <span class=\"searchmatch\">Chen</span> Shui-bian detained</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Former_Taiwanese_President_Chen_Shui-bian_released_on_bail\" title=\"Former Taiwanese President Chen Shui-bian released on bail\">Former Taiwanese President <span class=\"searchmatch\">Chen</span> Shui-bian released on bail</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Taiwan_Voters_Move_Away_From_Chen%27s_Agenda\" title=\"Taiwan Voters Move Away From Chen&#39;s Agenda\">Taiwan Voters Move Away From <span class=\"searchmatch\">Chen</span>&#39;s Agenda</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Armorize_Technologies:_Crimes_use_%22Edison_Chen%27s_nude_photos%22_as_a_web_phishing_tool\" title=\"Armorize Technologies: Crimes use &quot;Edison Chen&#39;s nude photos&quot; as a web phishing tool\">Armorize Technologies: Crimes use &quot;Edison <span class=\"searchmatch\">Chen</span>&#39;s nude photos&quot; as a web phishing tool</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Taiwan_President%27s_daughter-in-law_back_in_Taiwan_for_birth\" title=\"Taiwan President&#39;s daughter-in-law back in Taiwan for birth\">Taiwan President&#39;s daughter-in-law back in Taiwan for birth</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Frank_Hsieh_named_new_Taiwanese_premier\" title=\"Frank Hsieh named new Taiwanese premier\">Frank Hsieh named new Taiwanese premier</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Former_Taiwanese_president_jailed_for_life_on_corruption_charges\" title=\"Former Taiwanese president jailed for life on corruption charges\">Former Taiwanese president jailed for life on corruption charges</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Taiwan_president_speaks_to_defend_himself_from_corruption_charges\" title=\"Taiwan president speaks to defend himself from corruption charges\">Taiwan president speaks to defend himself from corruption charges</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Jailed_former_Taiwanese_President_on_hunger_strike\" title=\"Jailed former Taiwanese President on hunger strike\">Jailed former Taiwanese President on hunger strike</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Taiwan%27s_cabinet_resigns\" title=\"Taiwan&#39;s cabinet resigns\">Taiwan&#39;s cabinet resigns</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pan-Green_and_Pan-Blue_Coalitions_battled_intensively_before_the_2008_Legislators%27_Election_in_Taiwan\" title=\"Pan-Green and Pan-Blue Coalitions battled intensively before the 2008 Legislators&#39; Election in Taiwan\">Pan-Green and Pan-Blue Coalitions battled intensively before the 2008 Legislators&#39; Election in Taiwan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Virginia_Tech_shooter_identified,_witness_reports_emerge\" title=\"Virginia Tech shooter identified, witness reports emerge\">Virginia Tech shooter identified, witness reports emerge</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Taiwanese_government_supports_IT_industry_by_participating_in_2007_Taipei_IT_Month\" title=\"Taiwanese government supports IT industry by participating in 2007 Taipei IT Month\">Taiwanese government supports IT industry by participating in 2007 Taipei IT Month</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Nationalist_Party_wins_Taiwan_election\" title=\"Nationalist Party wins Taiwan election\">Nationalist Party wins Taiwan election</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Gaming_executives_gather_for_the_2008_Taipei_Game_Show\" title=\"Gaming executives gather for the 2008 Taipei Game Show\">Gaming executives gather for the 2008 Taipei Game Show</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Eleven-day_%22Taiwan_Run_for_UN%22_torch_relay_comes_to_an_end\" title=\"Eleven-day &quot;Taiwan Run for UN&quot; torch relay comes to an end\">Eleven-day &quot;Taiwan Run for UN&quot; torch relay comes to an end</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/PTS_Taiwan_holds_%22Why_Democracy%3F%22_the_Movie_Pre-launch_Seminar_to_examine_the_democratic_process_in_Taiwan\" title=\"PTS Taiwan holds &quot;Why Democracy?&quot; the Movie Pre-launch Seminar to examine the democratic process in Taiwan\">PTS Taiwan holds &quot;Why Democracy?&quot; the Movie Pre-launch Seminar to examine the democratic process in Taiwan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Candidates_make_campaign_stop_at_trade_fairs_ahead_of_2008_Taiwan_Presidential_Election\" title=\"Candidates make campaign stop at trade fairs ahead of 2008 Taiwan Presidential Election\">Candidates make campaign stop at trade fairs ahead of 2008 Taiwan Presidential Election</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/YouTube_announced_the_release_of_Taiwan_Traditional_Chinese_website\" title=\"YouTube announced the release of Taiwan Traditional Chinese website\">YouTube announced the release of Taiwan Traditional Chinese website</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Taiwan_Democratic_Alliance_for_Peace_plans_massive_rally_on_Saturday\" title=\"Taiwan Democratic Alliance for Peace plans massive rally on Saturday\">Taiwan Democratic Alliance for Peace plans massive rally on Saturday</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_Touhou_Project_characters#Chen"
+   ],
+   "micro-www-search" : [],
+   "created" : 1373458563,
+   "book" : [],
+   "micro-www" : {
+      "chen" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Chen' is a Chinese surname (陳), and also a Hebrew word (\"חֵן\") meaning\n\"loveliness\", or \"grace\", which is also a common given name and surname. See\nChen (surname).\n\n'Chen' can also refer to: *Chen Dynasty, dynasty in Chinese history *Chen\n(state) during the Zhou Dynasty, which is now part of present-day Anhui and\nHenan *Chen Bridge Mutiny, a mythical story about a military uprising that led\nto the establishment of the Song Dynasty *Chen-style t'ai chi ch'uan, the well\nknown Chinese martial art created by the Chen family *[[Chen (genus)]], a genus\nof geese which is sometimes included in Anser *Chen's notation, a graphical entity-\nrelationship model devised by Peter Chen *Chen, a character from the Touhou\nProject video game series *Chen (singer), a member of the Chinese-South Korean\nboy band EXO\n* Chen, acronym in Hebrew for the Women's Army Corp, a defunct organization in\n  the Israeli Defence Force\n",
+      "title" : "chen",
+      "headings" : [
+         "See also",
+         "Acronyms"
+      ]
+   },
+   "micro-relation" : [
+      "1: Chen_Dynasty",
+      "1: Mythical_Stories_of_Henan",
+      "1: Chen-style_t'ai_chi_ch'uan",
+      "1: List_of_Touhou_Project_characters#Chen",
+      "1: Women_in_the_Israel_Defense_Forces",
+      "1: Council_for_Higher_Education_in_Newark"
+   ]
+}

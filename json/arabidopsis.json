@@ -1,0 +1,111 @@
+{
+   "micrownet" : [
+      "arabidopsis",
+      "arabidopsis_lyrata",
+      "arabidopsis_thaliana",
+      "genus_arabidopsis"
+   ],
+   "micro" : [
+      "dicot_genus",
+      "biological_group",
+      "arabidopsis",
+      "magnoliopsid_genus",
+      "abstraction",
+      "entity",
+      "dilleniid_dicot_genus",
+      "genus_arabidopsis",
+      "genus",
+      "taxon",
+      "taxonomic_group",
+      "grouping",
+      "abstract_entity",
+      "group",
+      "taxonomic_category"
+   ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "Arabidopsis is a genus in the family Brassicaceae.",
+      "https://en.wikipedia.org/wiki/Arabidopsis",
+      "\n<a href=\"http://duckduckgo.com/c/Brassicaceae\">Brassicaceae</a>",
+      "HASH(0x6185ae8)",
+      "Wikipedia",
+      "Arabidopsis",
+      "https://i.duckduckgo.com/i/63ab676b.jpg",
+      "\n<a href=\"http://duckduckgo.com/Arabidopsis_thaliana\">Arabidopsis thaliana</a> - Arabidopsis thaliana is a small flowering plant native to Europe, Asia, and northwestern Africa.",
+      "HASH(0x5e4bec8)",
+      "Arabidopsis is a genus in the family Brassicaceae.",
+      "A"
+   ],
+   "micro-www-search" : [
+      "arabidopsis\n>http\nhttp://en.m.wikipedia.org/wiki/Arabidopsis\nhttp://en.wikipedia.org/w/index.php?title=Arabidopsis&oldid=543628994\nhttp://www.arabidopsis.org/\nhttp://www.aspb.org/publications/arabidopsis/\n\n>pdf\nhttp://www.plantsci.cam.ac.uk/Haseloff/teaching/PDFlists/2002_PDFs/AlShehbaz2002.pdf\nhttp://www.plantsci.cam.ac.uk/Haseloff/teaching/PDFlists/2002_PDFs/AlShehbaz2002.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Arabidopsis_thaliana.jpg/220px-Arabidopsis_thaliana.jpg\n"
+   ],
+   "created" : 1373457700,
+   "micro-www" : {
+      "arabidopsis" : [
+         "arabidopsis",
+         ""
+      ]
+   },
+   "book" : [],
+   "wiki" : {
+      "cat" : [
+         "Brassicaceae"
+      ],
+      "text" : "\n\n{{taxobox |image = Arabidopsis thaliana.jpg |image_caption = Thale cress\n(Arabidopsis thaliana) |regnum = Plantae |unranked_divisio = Angiosperms\n|unranked_classis = Eudicots |unranked_ordo = Rosids |ordo = Brassicales\n|familia = Brassicaceae |genus = 'Arabidopsis' |genus_authority = Heynh. in Holl\n& Heynh. |subdivision_ranks = Species |subdivision = See text.\n|}}\n\n'Arabidopsis' ([[Syllable stress of Botanical Latin|A-ra-bi-dóp-sis]],\n'rockcress') is a genus in the family Brassicaceae. They are small flowering\nplants related to cabbage and mustard. This genus is of great interest since it\ncontains thale cress (Arabidopsis thaliana), one of the model organisms used for\nstudying plant biology and the first plant to have its entire genome sequenced.\nChanges in thale cress are easily observed, making it a very useful model.\n",
+      "title" : "arabidopsis",
+      "headings" : [
+         "Status",
+         "''A. thaliana'' in partial ''in vitro'' conditions",
+         "List of species and subspecies",
+         "Cytogenetics",
+         "Reclassified species",
+         "Sources",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "2: Thale_cress",
+      "2: Brassicaceae",
+      "2: Gustav_Heynhold",
+      "2: Model_organism",
+      "2: Germplasm",
+      "2: Nottingham_Arabidopsis_Stock_Centre",
+      "1: Plantae",
+      "1: Angiosperms",
+      "1: Eudicots",
+      "1: Rosids",
+      "1: Brassicales",
+      "1: Flowering_plant",
+      "1: Cabbage",
+      "1: Mustard_plant",
+      "1: Polyphyletic",
+      "1: Europe",
+      "1: North_America",
+      "1: Asia",
+      "1: Bioinformatics",
+      "1: Molecular_biology",
+      "1: GeneChips",
+      "1: Arabidopsis_Biological_Resource_Center",
+      "1: Ohio_State_University",
+      "1: Arabidopsis_arenosa",
+      "1: Arabidopsis_cebennensis",
+      "1: Arabidopsis_croatica",
+      "1: Arabidopsis_halleri",
+      "1: Arabidopsis_lyrata",
+      "1: Arabidopsis_neglecta",
+      "1: Arabidopsis_pedemontana",
+      "1: Arabidopsis_suecica",
+      "1: Arabidopsis_thaliana",
+      "1: Cytogenetics",
+      "1: Haploid",
+      "1: Chromosome",
+      "1: Polyploidy"
+   ]
+}

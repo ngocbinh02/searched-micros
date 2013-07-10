@@ -1,33 +1,123 @@
 {
-   "created" : 1373449075,
+   "google" : [
+      "/url?q=http://www.caringbridge.org/&sa=U&ei=-yHdUZTeI8TBO_GjgPAI&ved=0CBgQFjAA&usg=AFQjCNHwyehDvwmLEOWDIzjuHX-FagJXXw",
+      "/url?q=http://www.thefreedictionary.com/caring&sa=U&ei=-yHdUZTeI8TBO_GjgPAI&ved=0CCEQFjAB&usg=AFQjCNHynqXFE0X--WfFm-25r8qMAqJ2bQ",
+      "/url?q=http://caring2u.com/&sa=U&ei=-yHdUZTeI8TBO_GjgPAI&ved=0CCoQFjAC&usg=AFQjCNF9rnGp0IKzsN8eXPjK8gwsYicCAw",
+      "/url?q=http://www.caringinfo.org/&sa=U&ei=-yHdUZTeI8TBO_GjgPAI&ved=0CC4QFjAD&usg=AFQjCNHp6y-UPL8gq1BUPJN06oyp-1Lkag",
+      "/url?q=http://thesaurus.com/browse/caring&sa=U&ei=-yHdUZTeI8TBO_GjgPAI&ved=0CDIQFjAE&usg=AFQjCNHQ8OVR4Qsg3AQyCRdlyLSnGKCQRw",
+      "/images?hl=en&q=caring&gbv=1&num=10&gl=&sa=X&oi=image_result_group&ei=-yHdUZTeI8TBO_GjgPAI&ved=0CDYQsAQ",
+      "/url?q=http://www.caring.com/&sa=U&ei=-yHdUZTeI8TBO_GjgPAI&ved=0CEIQFjAK&usg=AFQjCNERSXnoeW4UG4bnCqqkmfsr5MNSmw",
+      "/url?q=http://www.caring.org/&sa=U&ei=-yHdUZTeI8TBO_GjgPAI&ved=0CEYQFjAL&usg=AFQjCNF6S9w74E1UiOpR5fT16uIjXj32Og",
+      "/url?q=https://twitter.com/Caring&sa=U&ei=-yHdUZTeI8TBO_GjgPAI&ved=0CEkQFjAM&usg=AFQjCNGF0NOuMs0BtyaZgzWQxnFjzTl4jQ",
+      "/url?q=http://en.wiktionary.org/wiki/caring&sa=U&ei=-yHdUZTeI8TBO_GjgPAI&ved=0CEwQFjAN&usg=AFQjCNEls26m8H_RL2sGrzatd0ReOpjNjA",
+      "/url?q=http://www.urbandictionary.com/define.php%3Fterm%3Dcaring&sa=U&ei=-yHdUZTeI8TBO_GjgPAI&ved=0CFAQFjAO&usg=AFQjCNFXO8T3nhRH5snaYTzw9brZOTZcmg"
+   ],
    "micrownet" : [
       "caring"
    ],
    "micro" : [
-      "state",
-      "sympathize_with",
       "caring",
-      "abstraction",
-      "feel_for",
-      "warmheartedness",
-      "care",
-      "compassionate",
-      "pity",
-      "warmth",
-      "condole_with",
+      "state",
       "love",
+      "condole_with",
+      "compassionate",
+      "warmth",
+      "pity",
       "feeling",
-      "emotion",
-      "attribute",
-      "abstract_entity",
+      "lovingness",
       "entity",
+      "care",
+      "attribute",
+      "feel_for",
       "phrasal_verb->_care",
-      "lovingness"
+      "sympathize_with",
+      "warmheartedness",
+      "emotion",
+      "abstraction",
+      "abstract_entity"
    ],
+   "Lists" : [],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ayatollah_Emami-Kashani_calls_Americans_%27murderers%27\" title=\"Ayatollah Emami-Kashani calls Americans &#39;murderers&#39;\">Ayatollah Emami-Kashani calls Americans &#39;murderers&#39;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Gender_imbalance_in_Tsunami_deaths\" title=\"Gender imbalance in Tsunami deaths\">Gender imbalance in Tsunami deaths</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pakistani_schoolgirl_Malala_Yousafzai_discharged_from_hospital\" title=\"Pakistani schoolgirl Malala Yousafzai discharged from hospital\">Pakistani schoolgirl Malala Yousafzai discharged from hospital</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2007_Alcon_Taiwan_Hiking_focuses_on_reducing_computing_hours\" title=\"2007 Alcon Taiwan Hiking focuses on reducing computing hours\">2007 Alcon Taiwan Hiking focuses on reducing computing hours</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Culture_of_violence_reported_in_central_Australian_Aboriginal_communities\" title=\"Culture of violence reported in central Australian Aboriginal communities\">Culture of violence reported in central Australian Aboriginal communities</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Libyan_rebels_in_Misrata_restrict_press_freedoms\" title=\"Libyan rebels in Misrata restrict press freedoms\">Libyan rebels in Misrata restrict press freedoms</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Man_wakes_up_from_coma_after_19_years\" title=\"Man wakes up from coma after 19 years\">Man wakes up from coma after 19 years</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Joseph_De_Veuster_voted_greatest_Belgian\" title=\"Joseph De Veuster voted greatest Belgian\">Joseph De Veuster voted greatest Belgian</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Earl_Woods,_father_of_Tiger_Woods,_dies_at_age_74\" title=\"Earl Woods, father of Tiger Woods, dies at age 74\">Earl Woods, father of Tiger Woods, dies at age 74</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Burma_introduces_military_draft\" title=\"Burma introduces military draft\">Burma introduces military draft</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/French_Workers_stay_at_home_for_Whit_Monday\" title=\"French Workers stay at home for Whit Monday\">French Workers stay at home for Whit Monday</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canadian_Governor_General_speaks_on_Montreal_shooting\" title=\"Canadian Governor General speaks on Montreal shooting\">Canadian Governor General speaks on Montreal shooting</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/400_pound_python_seized_by_wildlife_officials_in_Florida\" title=\"400 pound python seized by wildlife officials in Florida\">400 pound python seized by wildlife officials in Florida</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/49_dead_after_Comair_regional_jet_crashes_in_Kentucky\" title=\"49 dead after Comair regional jet crashes in Kentucky\">49 dead after Comair regional jet crashes in Kentucky</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_mother_cleared_of_attempted_murder_of_ME-suffering_daughter\" title=\"UK mother cleared of attempted murder of ME-suffering daughter\">UK mother cleared of attempted murder of ME-suffering daughter</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Man_jailed_for_murder_of_doctor_in_South_Yorkshire,_England\" title=\"Man jailed for murder of doctor in South Yorkshire, England\">Man jailed for murder of doctor in South Yorkshire, England</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Interview_with_Curtis_Grant,_Regional_Council_candidate_for_Wards_2_%26_6_in_Brampton,_Canada\" title=\"Interview with Curtis Grant, Regional Council candidate for Wards 2 &amp; 6 in Brampton, Canada\">Interview with Curtis Grant, Regional Council candidate for Wards 2 &amp; 6 in Brampton, Canada</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Dairy_cattle_with_names_produce_more_milk,_according_to_new_study\" title=\"Dairy cattle with names produce more milk, according to new study\">Dairy cattle with names produce more milk, according to new study</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Human_to_human_transmission_of_the_H5N1_Avian_Flu_may_have_infected_seven_Indonesian_family_members\" title=\"Human to human transmission of the H5N1 Avian Flu may have infected seven Indonesian family members\">Human to human transmission of the H5N1 Avian Flu may have infected seven Indonesian family members</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_York_Yankees_executive_George_Steinbrenner_dies_at_80\" title=\"New York Yankees executive George Steinbrenner dies at 80\">New York Yankees executive George Steinbrenner dies at 80</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Duty_of_care\">Duty of care</a>, a legal obligation in tort law",
+      "Care",
+      "\n<a href=\"http://duckduckgo.com/Foster_care\">Foster care</a>, a system by which a certified, stand-in \"parent(s)\" cares for minor children or young people",
+      "\n<a href=\"http://duckduckgo.com/Health_care\">Health care</a>, the treatment and management of illness, and the preservation of health through services offered",
+      "A burdened state of mind, as that arising from heavy responsibilities; worry."
+   ],
+   "micro-www-search" : [],
+   "created" : 1373453800,
    "micro-www" : {
       "caring" : [
          ""
       ]
    },
-   "micro-www-search" : []
+   "book" : [],
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Care' may refer to:\n",
+      "title" : "Care",
+      "headings" : [
+         "Media",
+         "Organizations and projects",
+         "Types or aspects of care",
+         "People",
+         "Other",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Carpet_America_Recovery_Effort",
+      "1: Charged_Aerosol_Release_Experiment",
+      "1: Christian_Action_Research_and_Education",
+      "1: United_States_Penitentiary,_Marion",
+      "1: Credit_Abuse_Resistance_Education",
+      "1: Heideggerian_terminology#Care_or_Concern",
+      "1: Child_care",
+      "1: Day_care",
+      "1: Duty_of_care",
+      "1: Elderly_care",
+      "1: Ethics_of_care",
+      "1: Foster_care",
+      "1: Health_care",
+      "1: Care_of_residents",
+      "1: Home_care",
+      "1: Intensive-care_medicine",
+      "1: Managed_care",
+      "1: Theology_of_relational_care",
+      "1: Vulnerability_and_Care_Theory_of_Love",
+      "1: Danny_Care",
+      "1: Peter_Care",
+      "1: Defined_benefit_pension_plan",
+      "1: Algebraic_Riccati_equation",
+      "1: Council_on_American-Islamic_Relations",
+      "1: KARE"
+   ]
 }

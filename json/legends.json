@@ -1,0 +1,93 @@
+{
+   "micrownet" : [],
+   "google" : [
+      "/url?q=http://en.wikipedia.org/wiki/Legend&sa=U&ei=Ih7dUeqcEYiVPJ3-gNgO&ved=0CBsQFjAA&usg=AFQjCNHciJHPDIZ4bfZ85RS-V0gxZj1RyQ",
+      "/url?q=http://www.legendsshopping.com/&sa=U&ei=Ih7dUeqcEYiVPJ3-gNgO&ved=0CCQQFjAB&usg=AFQjCNHkiM3M6H3yBI7YvTuQW0PyymbBxg",
+      "/url?q=http://www.buddyguy.com/&sa=U&ei=Ih7dUeqcEYiVPJ3-gNgO&ved=0CC0QFjAC&usg=AFQjCNFb-Cq91_rDEIAd0DviBYD6WkcoaA",
+      "/url?q=http://www.milb.com/index.jsp%3Fsid%3Dt495&sa=U&ei=Ih7dUeqcEYiVPJ3-gNgO&ved=0CDAQFjAD&usg=AFQjCNHzKo7nStMqEkJOMGfTSp7yCwwXWw",
+      "/url?q=http://legends.net/&sa=U&ei=Ih7dUeqcEYiVPJ3-gNgO&ved=0CDMQFjAE&usg=AFQjCNGVDm1okDJpCDlLBJChdKZ9M8QcfQ",
+      "/url?q=http://myths.e2bn.org/mythsandlegends/&sa=U&ei=Ih7dUeqcEYiVPJ3-gNgO&ved=0CDYQFjAF&usg=AFQjCNGkDoM3doVoLX51hpGHdh3tnWW09w",
+      "/url?q=http://urbanlegends.about.com/&sa=U&ei=Ih7dUeqcEYiVPJ3-gNgO&ved=0CDoQFjAG&usg=AFQjCNHccZWeQiO-hLYOM-KzicBLAewkbw",
+      "/url?q=http://www.legendbrewing.com/&sa=U&ei=Ih7dUeqcEYiVPJ3-gNgO&ved=0CD8QFjAH&usg=AFQjCNFlbk_ahVKDqlbJT1H4bEfb1pu6nA",
+      "/url?q=http://www.imdb.com/title/tt2402137/&sa=U&ei=Ih7dUeqcEYiVPJ3-gNgO&ved=0CEMQFjAI&usg=AFQjCNFJFl4xLmbbKI7SKbisWLu9agN58g",
+      "/url?q=http://www.legends-club.com/&sa=U&ei=Ih7dUeqcEYiVPJ3-gNgO&ved=0CEYQFjAJ&usg=AFQjCNFsZb3eMMSweqHelKnLpJzesHowLw"
+   ],
+   "micro" : [
+      "piece_of_writing",
+      "communication",
+      "written_communication",
+      "literary_work",
+      "fable",
+      "written_material",
+      "abstract_entity",
+      "written_language",
+      "writing",
+      "literary_composition",
+      "arthurian_legend",
+      "story",
+      "black_and_white",
+      "fiction",
+      "abstraction",
+      "legend",
+      "entity"
+   ],
+   "duck" : [
+      "Legends",
+      "\n<a href=\"http://duckduckgo.com/Legend\">Legend</a>s are historical narratives, symbolic representations of folk belief.",
+      "An unverified story handed down from earlier times, especially one popularly believed to be historical."
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hollywood_legend_Charlton_Heston_dies_at_age_84\" title=\"Hollywood legend Charlton Heston dies at age 84\">Hollywood <span class=\"searchmatch\">legend</span> Charlton Heston dies at age 84</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chess_legend_avoids_10_year_prison_term\" title=\"Chess legend avoids 10 year prison term\">Chess <span class=\"searchmatch\">legend</span> avoids 10 year prison term</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Motor_sport_legend_Peter_Brock_dies_in_rally\" title=\"Motor sport legend Peter Brock dies in rally\">Motor sport <span class=\"searchmatch\">legend</span> Peter Brock dies in rally</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Fiddle_Legend_Vassar_Clements_dead_at_77\" title=\"Fiddle Legend Vassar Clements dead at 77\">Fiddle <span class=\"searchmatch\">Legend</span> Vassar Clements dead at 77</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hollywood_legend_Paul_Newman_dies_of_cancer_age_83\" title=\"Hollywood legend Paul Newman dies of cancer age 83\">Hollywood <span class=\"searchmatch\">legend</span> Paul Newman dies of cancer age 83</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NCAA_Football:_Grambling_State_legend_Eddie_Robinson_dies\" title=\"NCAA Football: Grambling State legend Eddie Robinson dies\">NCAA Football: Grambling State <span class=\"searchmatch\">legend</span> Eddie Robinson dies</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Legendary_bluesman_Long_John_Baldry_dead_at_64\" title=\"Legendary bluesman Long John Baldry dead at 64\">Legendary bluesman Long John Baldry dead at 64</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Dad_sells_$90_video_game_for_$9000_after_catching_son_smoking_pot\" title=\"Dad sells $90 video game for $9000 after catching son smoking pot\">Dad sells $90 video game for $9000 after catching son smoking pot</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NHL:_Boston_Bruins_win_Winter_Classic_in_overtime\" title=\"NHL: Boston Bruins win Winter Classic in overtime\">NHL: Boston Bruins win Winter Classic in overtime</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%22Jezebel_of_Jazz%22_Anita_O%27Day_dies_at_age_87\" title=\"&quot;Jezebel of Jazz&quot; Anita O&#39;Day dies at age 87\">&quot;Jezebel of Jazz&quot; Anita O&#39;Day dies at age 87</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bathurst_to_host_Brock_tribute\" title=\"Bathurst to host Brock tribute\">Bathurst to host Brock tribute</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Fernando_Alonso_takes_pole_at_2009_Hungarian_Grand_Prix,_Felipe_Massa_badly_injured\" title=\"Fernando Alonso takes pole at 2009 Hungarian Grand Prix, Felipe Massa badly injured\">Fernando Alonso takes pole at 2009 Hungarian Grand Prix, Felipe Massa badly injured</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sir_John_Mills_dies_at_97\" title=\"Sir John Mills dies at 97\">Sir John Mills dies at 97</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bobby_Charlton_launches_anti-landmine_campaign\" title=\"Bobby Charlton launches anti-landmine campaign\">Bobby Charlton launches anti-landmine campaign</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Metal_singer_Ronnie_James_Dio_dies_aged_67\" title=\"Metal singer Ronnie James Dio dies aged 67\">Metal singer Ronnie James Dio dies aged 67</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Murray_Hill_on_the_life_and_versatility_of_a_New_York_drag_king\" title=\"Murray Hill on the life and versatility of a New York drag king\">Murray Hill on the life and versatility of a New York drag king</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Preparations_for_inaugural_Bathurst_International_Motor_Festival_begin\" title=\"Preparations for inaugural Bathurst International Motor Festival begin\">Preparations for inaugural Bathurst International Motor Festival begin</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/List_of_stupidest_laws_in_Britain_revealed\" title=\"List of stupidest laws in Britain revealed\">List of stupidest laws in Britain revealed</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mexican_senator_Andr%C3%A9s_Henestrosa_dies_at_101\" title=\"Mexican senator Andrés Henestrosa dies at 101\">Mexican senator Andrés Henestrosa dies at 101</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373452813,
+   "book" : [],
+   "micro-www" : {
+      "legends" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'[[Legend]]s' are historical narratives, symbolic representations of folelief.\n\n'Legends' may also refer to:\n",
+      "title" : "legends",
+      "headings" : [
+         "Music",
+         "Literature and comics",
+         "Television",
+         "Games",
+         "Sports",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Legends_Drum_and_Bugle_Corps",
+      "1: Dragonlance_Legends",
+      "1: Legends_car_racing"
+   ]
+}

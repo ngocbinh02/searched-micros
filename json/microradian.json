@@ -1,0 +1,129 @@
+{
+   "micrownet" : [
+      "microradian"
+   ],
+   "micro" : [
+      "microradian",
+      "definite_quantity",
+      "amount",
+      "entity",
+      "unit_of_measurement",
+      "abstraction",
+      "measure",
+      "quantity",
+      "abstract_entity",
+      "unit",
+      "angular_unit"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Angular_frequency\">Angular frequency</a> - In physics, angular frequency ω (also referred to by the terms angular speed, radial frequency, circular frequency, orbital frequency, radian frequency, and puls...",
+      "\n<a href=\"http://duckduckgo.com/Harmonic_analysis\">Harmonic analysis</a> - Harmonic analysis is a branch of mathematics concerned with the representation of functions or signals as the superposition of basic waves, and the study of and generalization of the notions of ...",
+      "\n<a href=\"http://duckduckgo.com/Angular_mil\">Angular mil</a> - military measurement",
+      "https://en.wikipedia.org/wiki/Radian",
+      "\n<a href=\"http://duckduckgo.com/gradian\">Grad</a> - The gradian is a unit of plane angle, equivalent to  of a turn.",
+      "Wikipedia",
+      "Radian",
+      "\n<a href=\"http://duckduckgo.com/c/SI_derived_units\">SI derived units</a>",
+      "\n<a href=\"http://duckduckgo.com/c/Natural_units\">Natural units</a>",
+      "http://www.merriam-webster.com/dictionary/radian",
+      "\n<a href=\"http://duckduckgo.com/Rad_(unit)\">Rad (unit)</a> - The rad is a deprecated unit of absorbed radiation dose, defined as 1 rad = 0.01 Gy = 0.01 J/kg.",
+      "radian definition: a unit of plane angular measurement that is equal to the angle at the center of a circle subtended by an arc whose length equals the radius or approximately 57.3 degrees.",
+      "The radian is the standard unit of angular measure, used in many areas of mathematics.",
+      "HASH(0x5d70920)",
+      "\n<a href=\"http://duckduckgo.com/d/Radian\">Radian Meanings</a>",
+      "https://i.duckduckgo.com/i/6f980f5f.gif",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/c/Pi\">Pi</a>",
+      "HASH(0x5c86968)",
+      "A",
+      "The radian is the standard unit of angular measure, used in many areas of mathematics.",
+      "\n<a href=\"http://duckduckgo.com/c/Units_of_angle\">Units of angle</a>"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373455733,
+   "book" : [],
+   "micro-www" : {
+      "microradian" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Natural units",
+         "SI derived units",
+         "Pi",
+         "Units of angle"
+      ],
+      "text" : "\n\n\n with the same length as the radius of that circle corresponds to an angle of 1\n radian. A full circle corresponds to an angle of 2π radians.]] The 'radian' is\n the standard unit of angular measure, used in many areas of mathematics. An\n angle's measurement in radians is numerically equal to the length of a\n corresponding arc of a unit circle, so one radian is just under 57.3 degrees\n (when the arc length is equal to the radius). The unit was formerly an SI\n supplementary unit, but this category was abolished in 1995 and the radian is\n now considered an SI derived unit. The SI unit of solid angle measurement is\n the steradian.\n\nThe radian is represented by the symbol \"rad\" or, more rarely, by the\nsuperscript c (for \"circular measure\"). For example, an angle of 1.2 radians\nwould be written as \"1.2 rad\" or \"1.2<sup>c</sup>\" (the latter symbol is often\nmistaken for a degree: \"1.2°\").\n",
+      "title" : "radian",
+      "headings" : [
+         "Definition",
+         "History",
+         "Conversions",
+         "Advantages of measuring in radians",
+         "Dimensional analysis",
+         "Use in physics",
+         "Multiples of radian units",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "3: Radius",
+      "2: Pi",
+      "2: Steradian",
+      "2: Angle",
+      "2: Subtended",
+      "2: Angular_mil",
+      "1: Mathematics",
+      "1: Unit_circle",
+      "1: SI_supplementary_unit",
+      "1: SI_derived_unit",
+      "1: Solid_angle",
+      "1: Circle",
+      "1: Pure_number",
+      "1: Â°",
+      "1: Roger_Cotes",
+      "1: Al-Kashi",
+      "1: Lord_Kelvin",
+      "1: Queen's_University_Belfast",
+      "1: Belfast",
+      "1: University_of_St_Andrews",
+      "1: Calculus",
+      "1: Trigonometric_function",
+      "1: Limit_of_a_function",
+      "1: Taylor_series",
+      "1: Exponential_function",
+      "1: Euler's_formula",
+      "1: Dimensionless_number",
+      "1: Polar_coordinates",
+      "1: Spherical_coordinates",
+      "1: Physics",
+      "1: Angular_velocity",
+      "1: Angular_acceleration",
+      "1: Phase_difference",
+      "1: Metric_prefix",
+      "1: Î ",
+      "1: Telescopic_sight",
+      "1: Stadiametric_rangefinding",
+      "1: Reticle",
+      "1: Beam_divergence",
+      "1: Laser",
+      "1: NATO",
+      "1: Gun",
+      "1: Sniper#Targeting",
+      "1: Angular_frequency",
+      "1: Harmonic_analysis",
+      "1: Trigonometry",
+      "1: MathWorld"
+   ]
+}

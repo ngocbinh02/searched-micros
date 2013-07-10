@@ -1,0 +1,70 @@
+{
+   "micrownet" : [
+      "package_bomb"
+   ],
+   "micro" : [
+      "object",
+      "physical_entity",
+      "implements_of_war",
+      "whole",
+      "instrumentation",
+      "parcel_bomb",
+      "arms",
+      "device",
+      "instrumentality",
+      "letterbomb",
+      "package_bomb",
+      "munition",
+      "weapons_system",
+      "artifact",
+      "physical_object",
+      "bomb",
+      "unit",
+      "entity",
+      "artefact",
+      "weaponry",
+      "explosive_device"
+   ],
+   "duck" : [
+      "HASH(0x5d43fb8)",
+      "HASH(0x5d80328)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Spain%27s_Ibiza_airport_evacuated_after_bomb_alert\" title=\"Spain&#39;s Ibiza airport evacuated after bomb alert\">Spain&#39;s Ibiza airport evacuated after <span class=\"searchmatch\">bomb</span> alert</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bomb_hoax_at_Royal_Ontario_Museum\" title=\"Bomb hoax at Royal Ontario Museum\"><span class=\"searchmatch\">Bomb</span> hoax at Royal Ontario Museum</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Fifth_bomb_discovered_in_London_after_July_21_attacks\" title=\"Fifth bomb discovered in London after July 21 attacks\">Fifth <span class=\"searchmatch\">bomb</span> discovered in London after July 21 attacks</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Two_Chicago_schools_evacuated_as_suspicious_package_found\" title=\"Two Chicago schools evacuated as suspicious package found\">Two Chicago schools evacuated as suspicious <span class=\"searchmatch\">package</span> found</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Authorities_detonate_bomb_left_on_doorstep_in_Florida\" title=\"Authorities detonate bomb left on doorstep in Florida\">Authorities detonate <span class=\"searchmatch\">bomb</span> left on doorstep in Florida</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Turkey_-_Two_more_killed_in_PKK-related_bombings\" title=\"Turkey - Two more killed in PKK-related bombings\">Turkey - Two more killed in PKK-related bombings</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Multiple_bombs_set_off_in_Turkish_resort\" title=\"Multiple bombs set off in Turkish resort\">Multiple <span class=\"searchmatch\">bombs</span> set off in Turkish resort</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/West_Wing_of_White_House_evacuated\" title=\"West Wing of White House evacuated\">West Wing of White House evacuated</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Two_embassies_in_Rome,_Italy_hit_by_bomb_attack\" title=\"Two embassies in Rome, Italy hit by bomb attack\">Two embassies in Rome, Italy hit by <span class=\"searchmatch\">bomb</span> attack</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Militant_group_%27protests%27_placards_used_in_Armenian-Turkish_journalist%27s_funeral\" title=\"Militant group &#39;protests&#39; placards used in Armenian-Turkish journalist&#39;s funeral\">Militant group &#39;protests&#39; placards used in Armenian-Turkish journalist&#39;s funeral</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Security_alert_shuts_down_West_London\" title=\"Security alert shuts down West London\">Security alert shuts down West London</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_Government_passes_new_terror_laws\" title=\"Australian Government passes new terror laws\">Australian Government passes new terror laws</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bomb_scare_closes_Times_Square,_New_York\" title=\"Bomb scare closes Times Square, New York\"><span class=\"searchmatch\">Bomb</span> scare closes Times Square, New York</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Explosives_stolen_from_a_California_mine,_partially_returned\" title=\"Explosives stolen from a California mine, partially returned\">Explosives stolen from a California mine, partially returned</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Suspicious_package%27_causes_closure_of_busy_street_in_Buffalo,_New_York\" title=\"&#39;Suspicious package&#39; causes closure of busy street in Buffalo, New York\">&#39;Suspicious <span class=\"searchmatch\">package</span>&#39; causes closure of busy street in Buffalo, New York</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bomb_hurt_seven_police_in_Basque_city_of_Bilbao\" title=\"Bomb hurt seven police in Basque city of Bilbao\"><span class=\"searchmatch\">Bomb</span> hurt seven police in Basque city of Bilbao</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Letter_bomb_explodes_near_Scotland_Yard_in_London,_England\" title=\"Letter bomb explodes near Scotland Yard in London, England\">Letter <span class=\"searchmatch\">bomb</span> explodes near Scotland Yard in London, England</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ferry_hijacked_to_protest_slogans_in_assassinated_Turkish-Armenian_journalist%27s_funeral\" title=\"Ferry hijacked to protest slogans in assassinated Turkish-Armenian journalist&#39;s funeral\">Ferry hijacked to protest slogans in assassinated Turkish-Armenian journalist&#39;s funeral</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Suspicious_package_found_outside_South_Carolina_coffee_shop\" title=\"Suspicious package found outside South Carolina coffee shop\">Suspicious <span class=\"searchmatch\">package</span> found outside South Carolina coffee shop</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bomb_discovered_in_toilet_on_Iranian_plane;_defused_safely\" title=\"Bomb discovered in toilet on Iranian plane; defused safely\"><span class=\"searchmatch\">Bomb</span> discovered in toilet on Iranian plane; defused safely</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373455394,
+   "book" : [],
+   "micro-www" : {
+      "package_bomb" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

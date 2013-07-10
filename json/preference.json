@@ -1,0 +1,109 @@
+{
+   "micrownet" : [
+      "preference",
+      "preference_shares"
+   ],
+   "micro" : [
+      "attribute",
+      "penchant",
+      "taste",
+      "predilection",
+      "abstraction",
+      "entity",
+      "liking",
+      "feeling",
+      "acquired_taste",
+      "state",
+      "preference",
+      "weakness",
+      "abstract_entity"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Preference_(disambiguation)",
+      "HASH(0x5866220)",
+      "Wikipedia",
+      "Preference",
+      "\n<a href=\"http://duckduckgo.com/Unfair_preference\">Unfair preference</a>, a legal term",
+      "http://www.merriam-webster.com/dictionary/preference",
+      "\n<a href=\"http://duckduckgo.com/Preference\">Preference</a> is a term used in scientific literature.",
+      "preference definition: the act of preferring.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Preferans\">Preferans</a>, the sophisticated Russian version of Préférence",
+      "HASH(0x5995ba8)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Preferred_stock\">Preferred stock</a>, preference stock or preference shares, a form of corporate equity ownership",
+      "\n<a href=\"http://duckduckgo.com/Preference_(economics)\">Preference (economics)</a>, as the term is used in economics",
+      "\n<a href=\"http://duckduckgo.com/Pr%C3%A9f%C3%A9rence\">Préférence</a>, a card game played in Austria, Hungary and the West Balkans"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/India_subsidizes_girls%27_education_to_offset_gender_imbalance\" title=\"India subsidizes girls&#39; education to offset gender imbalance\">India subsidizes girls&#39; education to offset gender imbalance</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Writs_issued_for_2012_Queensland_election\" title=\"Writs issued for 2012 Queensland election\">Writs issued for 2012 Queensland election</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Writs_issued_for_2012_Queensland_election#Preferences\" title=\"Writs issued for 2012 Queensland election\"><span class=\"searchmatch\">Preferences</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/DUP_and_Sinn_F%C3%A9in_make_gains_in_Northern_Ireland_Assembly_election\" title=\"DUP and Sinn FÃ©in make gains in Northern Ireland Assembly election\">DUP and Sinn FÃ©in make gains in Northern Ireland Assembly election</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/BC_election_writ_drops;_referendum_campaigns_underway\" title=\"BC election writ drops; referendum campaigns underway\">BC election writ drops; referendum campaigns underway</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/FBI_document_reviews_symbols_used_by_pedophiles\" title=\"FBI document reviews symbols used by pedophiles\">FBI document reviews symbols used by pedophiles</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Condemned_US_killer_to_face_execution_by_firing_squad\" title=\"Condemned US killer to face execution by firing squad\">Condemned US killer to face execution by firing squad</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Teachers_at_Australian_school_shocked_at_no_warning_over_redundancies,_can_apply_before_%27externals%27\" title=\"Teachers at Australian school shocked at no warning over redundancies, can apply before &#39;externals&#39;\">Teachers at Australian school shocked at no warning over redundancies, can apply before &#39;externals&#39;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/California_Supreme_Court_strikes_down_ban_on_gay_marriage\" title=\"California Supreme Court strikes down ban on gay marriage\">California Supreme Court strikes down ban on gay marriage</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/One_in_five_Americans_finds_socialism_superior,_poll_says\" title=\"One in five Americans finds socialism superior, poll says\">One in five Americans finds socialism superior, poll says</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Johnson_ousts_Livingstone_in_London_mayoral_election\" title=\"Johnson ousts Livingstone in London mayoral election\">Johnson ousts Livingstone in London mayoral election</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Israeli_President_chooses_Likud_leader_to_form_the_18th_Knesset_government\" title=\"Israeli President chooses Likud leader to form the 18th Knesset government\">Israeli President chooses Likud leader to form the 18th Knesset government</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_stadium_in_Auckland_for_2011_rugby_world_cup_preferred_by_NZ_government\" title=\"New stadium in Auckland for 2011 rugby world cup preferred by NZ government\">New stadium in Auckland for 2011 rugby world cup preferred by NZ government</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mitt_Romney_wins_Iowa_Caucus_by_eight_votes_over_surging_Rick_Santorum\" title=\"Mitt Romney wins Iowa Caucus by eight votes over surging Rick Santorum\">Mitt Romney wins Iowa Caucus by eight votes over surging Rick Santorum</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/USA_lifts_remaining_sanctions_on_Serbia_and_Montenegro\" title=\"USA lifts remaining sanctions on Serbia and Montenegro\">USA lifts remaining sanctions on Serbia and Montenegro</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Who%27s_the_richest_entertainer_in_Australia%3F_The_Wiggles_of_course!\" title=\"Who&#39;s the richest entertainer in Australia? The Wiggles of course!\">Who&#39;s the richest entertainer in Australia? The Wiggles of course!</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Department_of_Health_proposes_priorities_for_flu_vaccine_distribution\" title=\"US Department of Health proposes priorities for flu vaccine distribution\">US Department of Health proposes priorities for flu vaccine distribution</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._team_unveils_plans_for_F1_entry_in_2010\" title=\"U.S. team unveils plans for F1 entry in 2010\">U.S. team unveils plans for F1 entry in 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Los_Angeles_hospital_lies,_discriminates_for_Saudi_liver_transplant_patient\" title=\"Los Angeles hospital lies, discriminates for Saudi liver transplant patient\">Los Angeles hospital lies, discriminates for Saudi liver transplant patient</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [
+      "Preference\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n"
+   ],
+   "created" : 1373460844,
+   "book" : [],
+   "micro-www" : {
+      "preference" : [
+         "Preference",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Psychological attitude"
+      ],
+      "text" : "\nThe term 'preferences' is used in a variety of related, but not identical, ways\nin the scientific literature. This makes it necessary to make explicit the sense\nin which the term is used in different social sciences.\n",
+      "title" : "preference",
+      "headings" : [
+         "Psychology",
+         "Economics",
+         "Other",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "1: Psychology",
+      "1: Choices",
+      "1: Economics",
+      "1: Social_science",
+      "1: Happiness",
+      "1: Gratification",
+      "1: Utility",
+      "1: Choice",
+      "1: Genetics",
+      "1: Biology",
+      "1: Sexual_orientation",
+      "1: Motivation",
+      "1: Preference-based_planning",
+      "1: Preference_revelation",
+      "1: ICR/International_Communications_Research"
+   ]
+}

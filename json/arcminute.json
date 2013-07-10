@@ -1,0 +1,126 @@
+{
+   "micrownet" : [
+      "arcminute"
+   ],
+   "micro" : [
+      "amount",
+      "definite_quantity",
+      "arcminute",
+      "measure",
+      "abstract_entity",
+      "angular_unit",
+      "minute_of_arc",
+      "minute",
+      "unit_of_measurement",
+      "abstraction",
+      "quantity",
+      "entity",
+      "unit"
+   ],
+   "duck" : [
+      "A minute of arc, arcminute, or minute arc (MOA), is a unit of angular measurement equal to one sixtieth of one degree.",
+      "https://en.wikipedia.org/wiki/Minute_of_arc",
+      "HASH(0x5d88848)",
+      "Wikipedia",
+      "Minute of arc",
+      "https://i.duckduckgo.com/i/4af9f459.png",
+      "HASH(0x5c9d3d0)",
+      "A minute of arc, arcminute, or minute arc (MOA), is a unit of angular measurement equal to one sixtieth of one degree.",
+      "A",
+      "\n<a href=\"http://duckduckgo.com/c/Units_of_angle\">Units of angle</a>"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373455727,
+   "book" : [],
+   "micro-www" : {
+      "arcminute" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Units of angle|Arcminute"
+      ],
+      "text" : "A 'minute of arc', 'arcminute', or 'minute arc' ('MOA'), is a unit of angular\nmeasurement equal to one sixtieth () of one degree. In turn, a 'second of arc'\nor 'arcsecond' is one sixtieth () of one arcminute. Since one degree is defined\nas one three hundred and sixtieth () of a rotation, one minute of arc is of a\nrotation, which also equals radians. It is used in those fields which require a\nunit for the expression of small angles, such as astronomy, optometry,\nophthalmology, optics, navigation and marksmanship.\n\nThe number of square arcminutes in a complete sphere is\n: <math>4 \\pi \\left(\\frac{1}{\\pi}10\\,800\\right)^2 =\n: \\frac{1}{\\pi}466\\,560\\,000,</math>\nor approximately 148,510,660.498 square arcminutes.\n\nThe arcsecond is of a degree, or of a circle, or radians (which is\napproximately radian).\n\nTo express even smaller angles, standard SI prefixes can be employed; in\nparticular, the 'milliarcsecond', abbreviated 'mas', is used in astronomy.\n",
+      "title" : "Minute%20of%20arc",
+      "headings" : [
+         "Symbols and abbreviations",
+         "Uses",
+         "References"
+      ]
+   },
+   "micro-relation" : [
+      "3: Radian",
+      "3: Astronomy",
+      "2: Navigation",
+      "2: ASCII",
+      "2: Angular_diameter",
+      "1: Angle",
+      "1: Optometry",
+      "1: Ophthalmology",
+      "1: Optics",
+      "1: Marksmanship",
+      "1: SI_prefix",
+      "1: Circumflex",
+      "1: Double_prime",
+      "1: Degree_symbol",
+      "1: Celestial_navigation",
+      "1: Global_Positioning_System",
+      "1: Firearm",
+      "1: Rifle",
+      "1: Imperial_measurement_system",
+      "1: Subtend",
+      "1: Inch",
+      "1: Yard",
+      "1: Shooting_range",
+      "1: Metric_units",
+      "1: M24_Sniper_Weapon_System",
+      "1: Metric_system",
+      "1: Reticle",
+      "1: Cartography",
+      "1: Sea_level",
+      "1: Equator",
+      "1: Nautical_mile",
+      "1: Geoid",
+      "1: Oblate_spheroid",
+      "1: Latitude",
+      "1: Longitude",
+      "1: Prime_Meridian",
+      "1: Reference_ellipsoid",
+      "1: Radix",
+      "1: Surveying",
+      "1: Metes_and_bounds",
+      "1: Cardinal_direction",
+      "1: Declination",
+      "1: Celestial_equator",
+      "1: Parallax",
+      "1: Stellar_parallax",
+      "1: Proper_motion",
+      "1: Parsec",
+      "1: Astrometry",
+      "1: Gaia_mission",
+      "1: U.S._Naval_Observatory",
+      "1: R_Doradus",
+      "1: Supergiant",
+      "1: Betelgeuse",
+      "1: Astronomical_seeing",
+      "1: Telescope",
+      "1: Pluto",
+      "1: Table_tennis",
+      "1: Diffraction_limit#Diffraction_limit_of_telescopes",
+      "1: Hubble_space_telescope",
+      "1: Adaptive_optics",
+      "1: Visual_acuity#Normal_vision",
+      "1: Spatial_pattern",
+      "1: Visual_angle",
+      "1: Optical_engineering"
+   ]
+}

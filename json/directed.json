@@ -1,0 +1,111 @@
+{
+   "micrownet" : [
+      "directed",
+      "directed_study",
+      "directed_verdict"
+   ],
+   "micro" : [
+      "direct",
+      "enjoin",
+      "tell",
+      "say",
+      "order"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Executive_director\">Executive director</a> - Executive director is a term sometimes applied to the chief executive officer or managing director of an organization, company, or corporation.",
+      "https://en.wikipedia.org/wiki/Director",
+      "HASH(0x51c72a8)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Film_director\">Film director</a> - A film director is a person who directs the making of a film.",
+      "Director",
+      "\n<a href=\"http://duckduckgo.com/Creative_director\">Creative director</a>, a person usually responsible for creative development of Interactive Entertainment, and is generally regarded as the prime design authority across the company's product range.",
+      "http://www.merriam-webster.com/dictionary/director",
+      "director definition: one who directs.",
+      "Merriam-Webster",
+      "HASH(0x51dbac0)",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/FAA:_Jets_at_New_York_airport_directed_by_child\" title=\"FAA: Jets at New York airport directed by child\">FAA: Jets at New York airport <span class=\"searchmatch\">directed</span> by child</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Security_threats_directed_at_US_Democrats\" title=\"Security threats directed at US Democrats\">Security threats <span class=\"searchmatch\">directed</span> at US Democrats</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_Government_propaganda_directed_at_Muslim_youth\" title=\"UK Government propaganda directed at Muslim youth\">UK Government propaganda <span class=\"searchmatch\">directed</span> at Muslim youth</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Elvish,_Klingon_and_Na%27vi:_Constructed_languages_gain_foothold_in_film\" title=\"Elvish, Klingon and Na&#39;vi: Constructed languages gain foothold in film\">Elvish, Klingon and Na&#39;vi: Constructed languages gain foothold in film</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._Supreme_Court_requests_reconsideration_of_habeas_petitions_of_Gitmo_captives\" title=\"U.S. Supreme Court requests reconsideration of habeas petitions of Gitmo captives\">U.S. Supreme Court requests reconsideration of habeas petitions of Gitmo captives</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/PDPC_President_Rob_Levin_has_died\" title=\"PDPC President Rob Levin has died\">PDPC President Rob Levin has died</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/ESPN_trades_Al_Michaels_for_%22Oswald_the_Lucky_Rabbit%22\" title=\"ESPN trades Al Michaels for &quot;Oswald the Lucky Rabbit&quot;\">ESPN trades Al Michaels for &quot;Oswald the Lucky Rabbit&quot;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Woman_arrested_for_heckling_Chinese_President_Hu_at_White_House\" title=\"Woman arrested for heckling Chinese President Hu at White House\">Woman arrested for heckling Chinese President Hu at White House</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Woman_arrested_for_her_speech_directed_towards_Chinese_President_Hu\" title=\"Woman arrested for her speech directed towards Chinese President Hu\">Woman arrested for her speech <span class=\"searchmatch\">directed</span> towards Chinese President Hu</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Da_Vinci_Code%27_opens_in_theaters,_sparks_controversy\" title=\"&#39;Da Vinci Code&#39; opens in theaters, sparks controversy\">&#39;Da Vinci Code&#39; opens in theaters, sparks controversy</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Acting_teacher_and_director_Milton_Katselas_dies_at_age_75\" title=\"Acting teacher and director Milton Katselas dies at age 75\">Acting teacher and director Milton Katselas dies at age 75</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Centennial_of_%27father_of_contemporary_Thai_cinema%27_celebrated\" title=\"Centennial of &#39;father of contemporary Thai cinema&#39; celebrated\">Centennial of &#39;father of contemporary Thai cinema&#39; celebrated</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Finnish_actor_Markku_Peltola_dies_at_51\" title=\"Finnish actor Markku Peltola dies at 51\">Finnish actor Markku Peltola dies at 51</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/ANZAC_Day_marked_throughout_NZ,_AU\" title=\"ANZAC Day marked throughout NZ, AU\">ANZAC Day marked throughout NZ, AU</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/United_States_anti-drug_efforts_in_Latin_America_criticized_by_WOLA_report\" title=\"United States anti-drug efforts in Latin America criticized by WOLA report\">United States anti-drug efforts in Latin America criticized by WOLA report</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Michael_Jackson_film_%22This_Is_It%22_to_be_premiered_in_at_least_15_world_cities_simultaneously\" title=\"Michael Jackson film &quot;This Is It&quot; to be premiered in at least 15 world cities simultaneously\">Michael Jackson film &quot;This Is It&quot; to be premiered in at least 15 world cities simultaneously</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ian_Paisley_rejects_Sinn_Fein_nomination\" title=\"Ian Paisley rejects Sinn Fein nomination\">Ian Paisley rejects Sinn Fein nomination</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canadian_PM_vows_to_push_ahead_with_same-sex_marriage_bill\" title=\"Canadian PM vows to push ahead with same-sex marriage bill\">Canadian PM vows to push ahead with same-sex marriage bill</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/ANZAC_Day_marked_around_the_world\" title=\"ANZAC Day marked around the world\">ANZAC Day marked around the world</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/French_film_director_Alain_Corneau_dies_at_age_67\" title=\"French film director Alain Corneau dies at age 67\">French film director Alain Corneau dies at age 67</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/German_director_Christoph_Schlingensief_dies_at_age_49\" title=\"German director Christoph Schlingensief dies at age 49\">German director Christoph Schlingensief dies at age 49</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [
+      "directed-energy_weapon\n>http\nhttp://64.233.169.104/unclesam?q=cache:3_pQnrRIxDUJ:www.dtic.mil/doctrine/jel/jfq_pubs/1621.pdf+electromagnetic+microwave+directed-energy+weapons+lethal+human+death&hl=en&ct=clnk&cd=4&gl=us\nhttp://en.wikipedia.org/w/index.php?title=Directed-energy_weapon&oldid=559713265\nhttp://www.defenceiq.com/army-and-land-forces/articles/we-talk-to-dr-pali-ek-about-directed-energy-system/\n\n>pdf\nhttp://nobelprize.org/physics/laureates/1964/townes-lecture.pdf\nhttp://wstiac.alionscience.com/pdf/WSTV7N1.pdf\nhttp://wstiac.alionscience.com/pdf/WSTV7N1.pdf\nhttp://www.raytheon.com/capabilities/rtnwcm/groups/rms/documents/content/rtn_rms_ps_vigilanteagle_datas.pdf\nhttp://www.st.northropgrumman.com/media/SiteFiles/mediagallery/factsheet/JHPSSL.pdf\nhttp://www.raytheon.com/capabilities/rtnwcm/groups/rms/documents/content/rtn_rms_ps_vigilanteagle_datas.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png\n\n",
+      "Directed_set\n>image\nhttp://upload.wikimedia.org/math/9/e/e/9eedd61e32f7a8e70e171028a7e5dc08.png\n\n",
+      "Directed_mutation\n>pdf\nhttp://www.micab.umn.edu/current/adaprev01.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/f/f4/Ambox_content.png\n"
+   ],
+   "created" : 1373460018,
+   "book" : [],
+   "micro-www" : {
+      "directed" : [
+         "directed-energy_weapon",
+         "Directed_set",
+         "Directed_mutation",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Director' may refer to:\n",
+      "title" : "Director",
+      "headings" : [
+         "Arts",
+         "Business",
+         "Works",
+         "Other",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Film_director",
+      "1: Theatre_director",
+      "1: Artistic_director",
+      "1: Music_director",
+      "1: Television_director",
+      "1: Music_video_director",
+      "1: Sports_director",
+      "1: Technical_director",
+      "1: Creative_director",
+      "1: Board_of_directors",
+      "1: Director-general",
+      "1: Executive_director",
+      "1: Finance_director",
+      "1: Funeral_director",
+      "1: Managing_director",
+      "1: Non-executive_director",
+      "1: Cruise_director",
+      "1: Tournament_director",
+      "1: Director_string",
+      "1: Liquid_crystal#Director",
+      "1: Director_telephone_system",
+      "1: Aaron_Director",
+      "1: Fibre_Channel_director",
+      "1: Directeur_sportif"
+   ]
+}

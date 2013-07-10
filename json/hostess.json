@@ -1,0 +1,89 @@
+{
+   "micrownet" : [
+      "air_hostess",
+      "hostess"
+   ],
+   "micro" : [
+      "causal_agent",
+      "individual",
+      "being",
+      "physical_object",
+      "physical_entity",
+      "living_thing",
+      "hostess",
+      "unit",
+      "cause",
+      "person",
+      "entity",
+      "somebody",
+      "someone",
+      "adult",
+      "whole",
+      "soul",
+      "causal_agency",
+      "grownup",
+      "animate_thing",
+      "object",
+      "mortal",
+      "host",
+      "organism"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Hostess",
+      "HASH(0x5429d18)",
+      "Wikipedia",
+      "Hostess",
+      "http://www.merriam-webster.com/dictionary/hostess",
+      "hostess definition: a woman who entertains socially.",
+      "Merriam-Webster",
+      "HASH(0x543ece8)",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Photoessay:_The_Idiotarod:_When_Good_Shopping_Carts_Go_Bad\" title=\"Photoessay: The Idiotarod: When Good Shopping Carts Go Bad\">Photoessay: The Idiotarod: When Good Shopping Carts Go Bad</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Russia_wins_Junior_Eurovision_Song_Contest_2006\" title=\"Russia wins Junior Eurovision Song Contest 2006\">Russia wins Junior Eurovision Song Contest 2006</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Music_producer_Phil_Spector_convicted_of_murder\" title=\"Music producer Phil Spector convicted of murder\">Music producer Phil Spector convicted of murder</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Garuda_Indonesia_Flight_200%27s_pilot%27s_marital_problems_may_have_affected_judgement\" title=\"Garuda Indonesia Flight 200&#39;s pilot&#39;s marital problems may have affected judgement\">Garuda Indonesia Flight 200&#39;s pilot&#39;s marital problems may have affected judgement</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_Keeping_Up_Appearances_episodes"
+   ],
+   "micro-www-search" : [],
+   "created" : 1373461025,
+   "book" : [],
+   "micro-www" : {
+      "hostess" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\nA 'hostess' is a female host or presenter for an event.\n\n'Hostess' may also refer to:\n",
+      "title" : "hostess",
+      "headings" : [
+         "Hospitality trades",
+         "Product brands",
+         "Other",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Presenter",
+      "1: Air_hostess",
+      "1: Maître_d'",
+      "1: Hostess_club",
+      "1: Bargirl",
+      "1: Taxi_dancer",
+      "1: Hostess_Brands",
+      "1: Hostess_Potato_Chips",
+      "1: Frito-Lay",
+      "1: Hostess_Entertainment",
+      "1: List_of_Keeping_Up_Appearances_episodes"
+   ]
+}

@@ -1,0 +1,168 @@
+{
+   "micrownet" : [
+      "Pentagon"
+   ],
+   "google" : [
+      "/url?q=http://en.wikipedia.org/wiki/The_Pentagon&sa=U&ei=nB_dUaLBC8LQOa2zgYAG&ved=0CBgQFjAA&usg=AFQjCNHyjawcPWBHhNs3oEGoa4lSvRT5_Q",
+      "http://maps.google.com/maps?hl=en&gbv=1&num=10&gl=&um=1&ie=UTF-8&q=Pentagon&fb=1&hq=Pentagon&hnear=Pentagon&cid=0,0,12647181945379443503&sa=X&ei=nB_dUaLBC8LQOa2zgYAG&ved=0CCAQtQMwAQ",
+      "/url?q=http://pentagontours.osd.mil/&sa=U&ei=nB_dUaLBC8LQOa2zgYAG&ved=0CCIQFjAB&usg=AFQjCNEarTL99g5akV64En87hDd5Q57tgg",
+      "/url?q=http://www.defense.gov/&sa=U&ei=nB_dUaLBC8LQOa2zgYAG&ved=0CC0QFjAC&usg=AFQjCNEzalc0ZHtASYJCxmtECAeG60qFwA",
+      "/url?q=https://www.penfed.org/&sa=U&ei=nB_dUaLBC8LQOa2zgYAG&ved=0CDEQFjAD&usg=AFQjCNEUGiXcr3Q_CPElQvFlo7LvET0ThQ",
+      "/url?q=http://www.pentagonchannel.mil/&sa=U&ei=nB_dUaLBC8LQOa2zgYAG&ved=0CDUQFjAE&usg=AFQjCNG5xx_lGLF9gserXNQogQhH4EU8fw",
+      "/url?q=http://www.whs.mil/memorial/&sa=U&ei=nB_dUaLBC8LQOa2zgYAG&ved=0CDkQFjAF&usg=AFQjCNFzKzzIRIzEEO3Kyw3EPDXfBOeKfw",
+      "/images?hl=en&q=Pentagon&gbv=1&num=10&gl=&sa=X&oi=image_result_group&ei=nB_dUaLBC8LQOa2zgYAG&ved=0CDsQsAQ",
+      "/url?q=http://www.mathsisfun.com/geometry/pentagon.html&sa=U&ei=nB_dUaLBC8LQOa2zgYAG&ved=0CEcQFjAL&usg=AFQjCNHvpFnGp1yMHhsyALBpR_nm5NIjCA",
+      "/url?q=http://www.pentagon-group.co.uk/&sa=U&ei=nB_dUaLBC8LQOa2zgYAG&ved=0CFAQFjAN&usg=AFQjCNGnZ9O4kMyOlALux5_LrCXlc64sFg",
+      "/url?q=http://www.pentagon-vauxhall.co.uk/&sa=U&ei=nB_dUaLBC8LQOa2zgYAG&ved=0CFQQFjAO&usg=AFQjCNEnqw1Z8qLYT_KCgOJEv7-6XmowKg"
+   ],
+   "micro" : [
+      "edifice",
+      "whole",
+      "construction",
+      "structure",
+      "artifact",
+      "instance_of_government_building",
+      "building",
+      "physical_entity",
+      "physical_object",
+      "entity",
+      "unit",
+      "pentagon",
+      "artefact",
+      "object"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/The_Pentagon\">The Pentagon</a>, the headquarters of the United States Department of Defense in Arlington County, Virginia",
+      "\n<a href=\"http://duckduckgo.com/small_ring_(Brussels)\">Pentagon (Brussels)</a>, the historical city centre of Brussels, delimited by the \"small ring\"",
+      "\nA <a href=\"http://duckduckgo.com/pentagon\">pentagon</a> is a five-sided polygon.",
+      "\n<a href=\"http://duckduckgo.com/Pentagon_(computer)\">Pentagon (computer)</a>, a Soviet clone of the ZX Spectrum computer",
+      "Pentagon",
+      "\n<a href=\"http://duckduckgo.com/Pentagon_(WMATA_station)\">Pentagon (WMATA station)</a>, metro station",
+      "Southwest view of the Pentagon with the Potomac River and Washington Monument in background."
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pentagon%27s_Quadrennial_Defense_Review_released\" title=\"Pentagon&#39;s Quadrennial Defense Review released\"><span class=\"searchmatch\">Pentagon</span>&#39;s Quadrennial Defense Review released</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Defense_Secretary_announces_cuts_in_Pentagon_programs\" title=\"US Defense Secretary announces cuts in Pentagon programs\">US Defense Secretary announces cuts in <span class=\"searchmatch\">Pentagon</span> programs</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Report:_The_Pentagon%27s_new_powers\" title=\"Report: The Pentagon&#39;s new powers\">Report: The <span class=\"searchmatch\">Pentagon</span>&#39;s new powers</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pentagon_to_explain,_or_deny,_new_spy_plan\" title=\"Pentagon to explain, or deny, new spy plan\"><span class=\"searchmatch\">Pentagon</span> to explain, or deny, new spy plan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pentagon:_Russia_provided_information_to_Iraq\" title=\"Pentagon: Russia provided information to Iraq\"><span class=\"searchmatch\">Pentagon</span>: Russia provided information to Iraq</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_lawmakers_to_question_Pentagon_officials_about_war_costs\" title=\"US lawmakers to question Pentagon officials about war costs\">US lawmakers to question <span class=\"searchmatch\">Pentagon</span> officials about war costs</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pentagon_considers_using_non-nuke_ICBMs_for_preemptive_strikes_against_alleged_%22terrorists%22\" title=\"Pentagon considers using non-nuke ICBMs for preemptive strikes against alleged &quot;terrorists&quot;\"><span class=\"searchmatch\">Pentagon</span> considers using non-nuke ICBMs for preemptive strikes against alleged &quot;terrorists&quot;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pentagon_announces_end_to_ban_on_women_in_combat\" title=\"Pentagon announces end to ban on women in combat\"><span class=\"searchmatch\">Pentagon</span> announces end to ban on women in combat</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Two_police_officers_injured_in_Pentagon_shooting_incident\" title=\"Two police officers injured in Pentagon shooting incident\">Two police officers injured in <span class=\"searchmatch\">Pentagon</span> shooting incident</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._Pentagon_releases_Guantanamo_detainees%27_names\" title=\"U.S. Pentagon releases Guantanamo detainees&#39; names\">U.S. <span class=\"searchmatch\">Pentagon</span> releases Guantanamo detainees&#39; names</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Magnitude_5.8_earthquake_in_Virginia_felt_up_and_down_U.S._east_coast,_Pentagon_evacuated\" title=\"Magnitude 5.8 earthquake in Virginia felt up and down U.S. east coast, Pentagon evacuated\">Magnitude 5.8 earthquake in Virginia felt up and down U.S. east coast, <span class=\"searchmatch\">Pentagon</span> evacuated</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._Pentagon_conference_says_weapons_entered_Iraq_from_Iran\" title=\"U.S. Pentagon conference says weapons entered Iraq from Iran\">U.S. <span class=\"searchmatch\">Pentagon</span> conference says weapons entered Iraq from Iran</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Department_of_Defense_releases_9/11_video_of_plane_hitting_Pentagon\" title=\"Department of Defense releases 9/11 video of plane hitting Pentagon\">Department of Defense releases 9/11 video of plane hitting <span class=\"searchmatch\">Pentagon</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pentagon_unable_to_explain_%27mystery_missile%27_video\" title=\"Pentagon unable to explain &#39;mystery missile&#39; video\"><span class=\"searchmatch\">Pentagon</span> unable to explain &#39;mystery missile&#39; video</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pentagon_releases_video_of_incident_involving_Iranian_ships_in_Persian_Gulf\" title=\"Pentagon releases video of incident involving Iranian ships in Persian Gulf\"><span class=\"searchmatch\">Pentagon</span> releases video of incident involving Iranian ships in Persian Gulf</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pentagon_proposes_Taiwanese_arms_sale\" title=\"Pentagon proposes Taiwanese arms sale\"><span class=\"searchmatch\">Pentagon</span> proposes Taiwanese arms sale</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pentagon_announces_2,000th_U.S._military_death\" title=\"Pentagon announces 2,000th U.S. military death\"><span class=\"searchmatch\">Pentagon</span> announces 2,000th U.S. military death</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pentagon_%27don%27t_ask_don%27t_tell%27_poll_shows_support_for_repeal\" title=\"Pentagon &#39;don&#39;t ask don&#39;t tell&#39; poll shows support for repeal\"><span class=\"searchmatch\">Pentagon</span> &#39;don&#39;t ask don&#39;t tell&#39; poll shows support for repeal</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Afghanistan_general_Stanley_McChrystal_cleared_of_wrongdoing\" title=\"Afghanistan general Stanley McChrystal cleared of wrongdoing\">Afghanistan general Stanley McChrystal cleared of wrongdoing</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Pentagon_report_reflects_concerns_over_China%27s_increased_military\" title=\"Pentagon report reflects concerns over China&#39;s increased military\"><span class=\"searchmatch\">Pentagon</span> report reflects concerns over China&#39;s increased military</a>"
+      ],
+      "image" : [
+         [
+            "<img alt=\"Pentagon.svg\" height=\"114\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Pentagon.svg/120px-Pentagon.svg.png\" width=\"120\" />",
+            "<img alt=\"Pentagram pentagon.svg\" height=\"120\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Pentagram_pentagon.svg/120px-Pentagram_pentagon.svg.png\" width=\"120\" />",
+            "<img alt=\"Complete graph K5.svg\" height=\"118\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Complete_graph_K5.svg/120px-Complete_graph_K5.svg.png\" width=\"120\" />",
+            "<img alt=\"Regular pentagon construction.png\" height=\"120\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Regular_pentagon_construction.png/118px-Regular_pentagon_construction.png\" width=\"118\" />",
+            "<img alt=\"Regular pentagon construction.svg\" height=\"120\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Regular_pentagon_construction.svg/120px-Regular_pentagon_construction.svg.png\" width=\"120\" />",
+            "<img alt=\"Pentagonenoeud.png\" height=\"116\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Pentagonenoeud.png/120px-Pentagonenoeud.png\" width=\"120\" />"
+         ],
+         [
+            "<img alt=\"Dialog-information on.svg\" height=\"35\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Dialog-information_on.svg/35px-Dialog-information_on.svg.png\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Dialog-information_on.svg/53px-Dialog-information_on.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Dialog-information_on.svg/70px-Dialog-information_on.svg.png 2x\" width=\"35\" />"
+         ]
+      ]
+   },
+   "Lists" : [
+      "List_of_geometric_shapes"
+   ],
+   "micro-www-search" : [],
+   "created" : 1373453194,
+   "book" : [],
+   "micro-www" : {
+      "Pentagon" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Polygons",
+         "Elementary shapes"
+      ],
+      "text" : "\n\n\nIn geometry, a 'pentagon' (from pente, which is Greek for the number 5) is any\nfive-sided polygon. A pentagon may be simple or self-intersecting. The sum of\nthe internal angles in a simple pentagon is 540°. A pentagram is an example of a\nself-intersecting pentagon.\n",
+      "title" : "Pentagon",
+      "headings" : [
+         "Regular pentagons",
+         "Construction of a regular pentagon",
+         "Cyclic pentagons",
+         "Graphs",
+         "Examples of pentagons",
+         "Pentagons in tiling",
+         "See also",
+         "In-line notes and references",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "5: Pentagram",
+      "3: Golden_ratio",
+      "2: Schläfli_symbol",
+      "2: Regular_polygon",
+      "2: Pythagoras'_theorem",
+      "2: Circle",
+      "2: 5-cell",
+      "2: Rectified_5-cell",
+      "1: Geometry",
+      "1: Greek_language",
+      "1: Polygon",
+      "1: Internal_angle",
+      "1: Simple_polygon",
+      "1: Reflectional_symmetry",
+      "1: Rotational_symmetry",
+      "1: Diagonal",
+      "1: Star_polygon",
+      "1: Pentagram#Golden_ratio",
+      "1: Inscribed_figure",
+      "1: Apothem",
+      "1: Golden_ratio#The_side_and_diagonal_of_the_regular_pentagon",
+      "1: Constructible_polygon",
+      "1: Compass_and_straightedge",
+      "1: Euclid",
+      "1: Half-angle_formula",
+      "1: Carlyle_circle",
+      "1: Quadratic_equation",
+      "1: Overhand_knot",
+      "1: Hexagon",
+      "1: Pentagonal_pyramid",
+      "1: Cyclic_polygon",
+      "1: Septic_equation",
+      "1: Robbins_pentagon",
+      "1: Journal_of_Number_Theory",
+      "1: Complete_graph",
+      "1: Orthographic_projection",
+      "1: Okra",
+      "1: Morning_glories",
+      "1: Gynoecium",
+      "1: Apple",
+      "1: Five-pointed_star",
+      "1: Carambola",
+      "1: Sea_star",
+      "1: Echinoderms",
+      "1: Brittle_stars",
+      "1: The_Pentagon",
+      "1: United_States_Department_of_Defense",
+      "1: Home_plate",
+      "1: Baseball_field",
+      "1: Regular_tiling",
+      "1: Associahedron",
+      "1: Dodecahedron",
+      "1: List_of_geometric_shapes",
+      "1: Pentagonal_number",
+      "1: Pentagram_map",
+      "1: Pentastar"
+   ]
+}

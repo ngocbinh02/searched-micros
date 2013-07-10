@@ -1,0 +1,92 @@
+{
+   "micrownet" : [
+      "mark_twain",
+      "twain"
+   ],
+   "micro" : [
+      "deuce",
+      "entity",
+      "distich",
+      "measure",
+      "doubleton",
+      "twain",
+      "couple",
+      "digit",
+      "brace",
+      "twosome",
+      "dyad",
+      "duet",
+      "yoke",
+      "definite_quantity",
+      "integer",
+      "quantity",
+      "span",
+      "abstraction",
+      "pair",
+      "duo",
+      "number",
+      "duad",
+      "abstract_entity",
+      "couplet",
+      "ii",
+      "whole_number",
+      "two",
+      "figure",
+      "amount"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Twain",
+      "HASH(0x5d4d8c8)",
+      "Wikipedia",
+      "Twain",
+      "http://www.merriam-webster.com/dictionary/twain",
+      "twain definition: '''archaic''' two.",
+      "Merriam-Webster",
+      "HASH(0x5d8f090)",
+      "\n<a href=\"http://duckduckgo.com/TWAIN\">TWAIN</a>, a standard used in image scanning - TWAIN is a standard software protocol and applications programming interface (API) that regulates communication between software applications and imaging devices such as scanners and digital cameras.",
+      "\n<a href=\"http://duckduckgo.com/Mark_Twain\">Mark Twain</a>, American humorist writer",
+      "\n<a href=\"http://duckduckgo.com/Shania_Twain\">Shania Twain</a>, Canadian musician",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hillary_Clinton%27s_song_contest_reaches_final_round\" title=\"Hillary Clinton&#39;s song contest reaches final round\">Hillary Clinton&#39;s song contest reaches final round</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_Air_Force_suspends_most_F-15_operations_following_crash\" title=\"US Air Force suspends most F-15 operations following crash\">US Air Force suspends most F-15 operations following crash</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Colorado_parents_burn_books\" title=\"Colorado parents burn books\">Colorado parents burn books</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Satanism:_An_interview_with_Church_of_Satan_High_Priest_Peter_Gilmore\" title=\"Satanism: An interview with Church of Satan High Priest Peter Gilmore\">Satanism: An interview with Church of Satan High Priest Peter Gilmore</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:June_1,_2007\" title=\"News briefs:June 1, 2007\">News briefs:June 1, 2007</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Interview_with_LibriVox_founder_Hugh_McGuire\" title=\"Interview with LibriVox founder Hugh McGuire\">Interview with LibriVox founder Hugh McGuire</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373456273,
+   "book" : [],
+   "micro-www" : {
+      "twain" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Twain' may refer to:\n",
+      "title" : "twain",
+      "headings" : [
+         "People",
+         "Places",
+         "Other"
+      ]
+   },
+   "micro-relation" : [
+      "1: Mark_Twain",
+      "1: Shania_Twain",
+      "1: Twain,_California",
+      "1: Hot_Springs,_Plumas_County,_California",
+      "1: Twain_Harte,_California",
+      "1: TWAIN"
+   ]
+}

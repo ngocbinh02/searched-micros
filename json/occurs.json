@@ -1,0 +1,69 @@
+{
+   "micrownet" : [],
+   "micro" : [
+      "pass_off",
+      "pass",
+      "go_on",
+      "take_place",
+      "hap",
+      "happen",
+      "fall_out",
+      "occur",
+      "come_about"
+   ],
+   "duck" : [
+      "To be found to exist or appear: Copper deposits occur in the region.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=occur",
+      "HASH(0x5590210)",
+      "The Free Dictionary",
+      "occur",
+      "http://www.merriam-webster.com/dictionary/occur",
+      "occur definition: to be found or met with.",
+      "Merriam-Webster",
+      "HASH(0x53a7720)",
+      "To be found to exist or appear: Copper deposits occur in the region.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/First_female_boxing_death_occurs_in_US_sanctioned_match\" title=\"First female boxing death occurs in US sanctioned match\">First female boxing death <span class=\"searchmatch\">occurs</span> in US sanctioned match</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Accidental_explosion_occurs_in_Israel\" title=\"Accidental explosion occurs in Israel\">Accidental explosion <span class=\"searchmatch\">occurs</span> in Israel</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/8.0_magnitude_earthquake_occurs_near_Tonga\" title=\"8.0 magnitude earthquake occurs near Tonga\">8.0 magnitude earthquake <span class=\"searchmatch\">occurs</span> near Tonga</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Attack_occurs_in_Stavropol,_Russia;_at_least_six_dead\" title=\"Attack occurs in Stavropol, Russia; at least six dead\">Attack <span class=\"searchmatch\">occurs</span> in Stavropol, Russia; at least six dead</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2006_Chinese_wiki_conference_occurs_in_Shanghai\" title=\"2006 Chinese wiki conference occurs in Shanghai\">2006 Chinese wiki conference <span class=\"searchmatch\">occurs</span> in Shanghai</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/First_high_level_meeting_between_US_and_North_Korea_in_five_years_occurs\" title=\"First high level meeting between US and North Korea in five years occurs\">First high level meeting between US and North Korea in five years <span class=\"searchmatch\">occurs</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tsunami_warning_briefly_issued_for_Indian_Ocean_after_latest_earthquake\" title=\"Tsunami warning briefly issued for Indian Ocean after latest earthquake\">Tsunami warning briefly issued for Indian Ocean after latest earthquake</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Earthquake_occurs_in_the_Indian_Ocean\" title=\"Earthquake occurs in the Indian Ocean\">Earthquake <span class=\"searchmatch\">occurs</span> in the Indian Ocean</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/First_suicide_attack_since_Israeli_pullout_occurs_in_Beersheba\" title=\"First suicide attack since Israeli pullout occurs in Beersheba\">First suicide attack since Israeli pullout <span class=\"searchmatch\">occurs</span> in Beersheba</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chinese_quake_death_toll_nears_32,500,_as_a_major_aftershock_occurs_and_mourning_begins\" title=\"Chinese quake death toll nears 32,500, as a major aftershock occurs and mourning begins\">Chinese quake death toll nears 32,500, as a major aftershock <span class=\"searchmatch\">occurs</span> and mourning begins</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Magnitude_5.4_earthquake_hits_Southern_California\" title=\"Magnitude 5.4 earthquake hits Southern California\">Magnitude 5.4 earthquake hits Southern California</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Magnitude_5.4_earthquake_occurs_in_South_California\" title=\"Magnitude 5.4 earthquake occurs in South California\">Magnitude 5.4 earthquake <span class=\"searchmatch\">occurs</span> in South California</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Magnitude_7.7_earthquake_strikes_off_Indonesia_coast\" title=\"Magnitude 7.7 earthquake strikes off Indonesia coast\">Magnitude 7.7 earthquake strikes off Indonesia coast</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Magnitude_7.5_earthquake_occurs_off_Indonesia_coast\" title=\"Magnitude 7.5 earthquake occurs off Indonesia coast\">Magnitude 7.5 earthquake <span class=\"searchmatch\">occurs</span> off Indonesia coast</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Indian_heart_disease_%27more_severe_than_in_West%27\" title=\"Indian heart disease &#39;more severe than in West&#39;\">Indian heart disease &#39;more severe than in West&#39;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Detroit_chemical_plant_experiences_explosions,_fire;_residents_evacuated\" title=\"Detroit chemical plant experiences explosions, fire; residents evacuated\">Detroit chemical plant experiences explosions, fire; residents evacuated</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Explosions,_fire_occurs_Detroit_chemical_plant\" title=\"Explosions, fire occurs Detroit chemical plant\">Explosions, fire <span class=\"searchmatch\">occurs</span> Detroit chemical plant</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Philarmonia_Orchestra_of_Craiova,_Romania,_goes_on_%E2%80%9CTour_in_the_city%E2%80%9D\" title=\"Philarmonia Orchestra of Craiova, Romania, goes on “Tour in the city”\">Philarmonia Orchestra of Craiova, Romania, goes on “Tour in the city”</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/May_Day_protests_occur_throughout_Switzerland\" title=\"May Day protests occur throughout Switzerland\">May Day protests <span class=\"searchmatch\">occur</span> throughout Switzerland</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Annual_Perseids_meteor_shower_visible_in_northern_hemisphere\" title=\"Annual Perseids meteor shower visible in northern hemisphere\">Annual Perseids meteor shower visible in northern hemisphere</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Four_incidents_occur_at_Australian_reactor_in_a_week\" title=\"Four incidents occur at Australian reactor in a week\">Four incidents <span class=\"searchmatch\">occur</span> at Australian reactor in a week</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Apple_Japan_to_replace_overheating_iPod_Nanos\" title=\"Apple Japan to replace overheating iPod Nanos\">Apple Japan to replace overheating iPod Nanos</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Images_show_new_dimension_to_Saturn%27s_rings\" title=\"Images show new dimension to Saturn&#39;s rings\">Images show new dimension to Saturn&#39;s rings</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Kenyans_win_International_Race_of_S%C3%A3o_Silvestre\" title=\"Kenyans win International Race of São Silvestre\">Kenyans win International Race of São Silvestre</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373460905,
+   "book" : [],
+   "micro-www" : {
+      "occurs" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

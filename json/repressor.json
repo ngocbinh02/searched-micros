@@ -1,0 +1,118 @@
+{
+   "micrownet" : [
+      "repressor",
+      "repressor_gene"
+   ],
+   "micro" : [
+      "causal_agent",
+      "repressor",
+      "agent",
+      "entity",
+      "physical_entity",
+      "represser",
+      "causal_agency",
+      "cause"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Repressor",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Promoter_(biology)\">Promoter (biology)</a> - In genetics, a promoter is a region of DNA that facilitates the transcription of a particular gene.",
+      "Repressor",
+      "http://www.merriam-webster.com/dictionary/repressor",
+      "repressor definition: one that represses; '''especially''' a protein that is determined by a regulatory gene, binds to a genetic operator, and inhibits the initiation of transcription of messenger RNA.",
+      "\n<a href=\"http://duckduckgo.com/Activator_(genetics)\">Activator (genetics)</a> - A transcriptional activator is a protein that increases gene transcription of a gene or set of genes.",
+      "\n<a href=\"http://duckduckgo.com/Operon\">Operon</a> - In genetics, an operon is a functioning unit of genomic DNA containing a cluster of genes under the control of a single regulatory signal or promoter.",
+      "In molecular genetics, a repressor is a DNA-binding protein that regulates the expression of one or more genes by binding to the operator and blocking the attachment of RNA polymerase to the promoter, thus preventing transcription of the genes.",
+      "\n<a href=\"http://duckduckgo.com/Transcription_factor\">Transcription factor</a> - In molecular biology and genetics, a transcription factor is a protein that binds to specific DNA sequences, thereby controlling the flow of genetic information from DNA to mRNA. Transcription f...",
+      "HASH(0x523e0e0)",
+      "https://i.duckduckgo.com/i/dc325cc9.png",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/lac_repressor\">lac repressor</a> - The lac repressor is a DNA-binding protein which inhibits the expression of genes coding for proteins involved in the metabolism of lactose in bacteria.",
+      "HASH(0x51223b8)",
+      "\n<a href=\"http://duckduckgo.com/Regulation_of_gene_expression\">Regulation of gene expression</a> - Regulation of gene expression includes a wide range of mechanisms that are used by cells to increase or decrease the production of specific gene products, and is informally termed gene regulat...",
+      "\n<a href=\"http://duckduckgo.com/c/DNA-binding_proteins\">DNA-binding proteins</a>",
+      "A",
+      "In molecular genetics, a repressor is a DNA-binding protein that regulates the expression of one or more genes by binding to the operator and blocking the attachment of RNA polymerase to the promoter, thus preventing transcription of the genes."
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Human_remains_in_mass_grave_confirm_Argentina_secret_death_camp\" title=\"Human remains in mass grave confirm Argentina secret death camp\">Human remains in mass grave confirm Argentina secret death camp</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Shiites_protest_against_discrimination_in_Bahrain\" title=\"Shiites protest against discrimination in Bahrain\">Shiites protest against discrimination in Bahrain</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Zimbabwe_bound_arms_ship_flees_from_South_Africa\" title=\"Zimbabwe bound arms ship flees from South Africa\">Zimbabwe bound arms ship flees from South Africa</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chinese_president_Hu_Jintao_visits_United_States\" title=\"Chinese president Hu Jintao visits United States\">Chinese president Hu Jintao visits United States</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Egypt_protests:_Army_say_they_will_not_use_force_on_demonstrators_as_Mubarak_announces_cabinet\" title=\"Egypt protests: Army say they will not use force on demonstrators as Mubarak announces cabinet\">Egypt protests: Army say they will not use force on demonstrators as Mubarak announces cabinet</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/China%27s_premier_visits_Cairo_ahead_of_China-Africa_summit\" title=\"China&#39;s premier visits Cairo ahead of China-Africa summit\">China&#39;s premier visits Cairo ahead of China-Africa summit</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hundreds_arrested_following_pro-democratic_rally_in_Nepal\" title=\"Hundreds arrested following pro-democratic rally in Nepal\">Hundreds arrested following pro-democratic rally in Nepal</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tunisian_president_re-elected_for_fifth_term\" title=\"Tunisian president re-elected for fifth term\">Tunisian president re-elected for fifth term</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chinese_dissident_goes_on_trial_for_subversion\" title=\"Chinese dissident goes on trial for subversion\">Chinese dissident goes on trial for subversion</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [
+      "repressor\n>http\nhttp://en.m.wikipedia.org/wiki/Repressor\nhttp://en.wikipedia.org/w/index.php?title=Repressor&oldid=540689082\nhttp://www.nlm.nih.gov/cgi/mesh/2011/MB_cgi?mode=&term=Repressor+Proteins\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lac_Operon.svg/300px-Lac_Operon.svg.png\n\n",
+      "Repressor\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lac_Operon.svg/300px-Lac_Operon.svg.png\n"
+   ],
+   "created" : 1373460706,
+   "book" : [],
+   "micro-www" : {
+      "repressor" : [
+         "repressor",
+         "Repressor",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "DNA-binding proteins",
+         "Gene expression"
+      ],
+      "text" : "[[File:Lac Operon.svg|thumb|300px|Lac Operon|'1: RNA Polymerase,2: Repressor,3:\nPromoter,4: Operator,5: Lactose,6: lacZ,7: lacY,8'': lacA. ''Top''': The gene is\nessentially turned off. There is no lactose to inhibit the repressor, so the\nrepressor binds to the operator, which obstructs the RNA polymerase from binding\nto the promoter and making lactase. 'Bottom': The gene is turned on. Lactose is\ninhibiting the repressor, allowing the RNA polymerase to bind with the promoter,\nand express the genes, which synthesize lactase. Eventually, the lactase will\ndigest all of the lactose, until there is none to bind to the repressor. The\nrepressor will then bind to the operator, stopping the manufacture of lactase.]]\n\n\n\nIn molecular genetics, a 'repressor' is a DNA- or RNA-binding protein that\ninhibits the expression of one or more genes by binding to the operator. A DNA-\nbinding repressor blocks the attachment of RNA polymerase to the promoter, thus\npreventing transcription of the genes into messenger RNA. An RNA-binding\nrepressor binds to the mRNA and prevents translation of the mRNA into protein.\nThis blocking of expression is called 'repression'.\n",
+      "title" : "repressor",
+      "headings" : [
+         "Function",
+         "Examples",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "1: Molecular_genetics",
+      "1: DNA-binding_protein",
+      "1: Gene_expression",
+      "1: Messenger_RNA",
+      "1: Translation",
+      "1: Corepressor",
+      "1: Trp_repressor",
+      "1: Glossary_of_gene_expression_terms#C",
+      "1: Operon#Operator",
+      "1: RNA_polymerase",
+      "1: Inducer",
+      "1: Allolactose",
+      "1: Methionine",
+      "1: MetJ",
+      "1: DNA",
+      "1: Homodimer",
+      "1: Monomers",
+      "1: Beta_ribbon",
+      "1: Alpha_helix",
+      "1: Beta-sheet",
+      "1: Protein_dimer",
+      "1: Palindrome",
+      "1: Dyad_symmetry",
+      "1: Pyrimidine-purine",
+      "1: DNA_supercoil",
+      "1: Phosphodiester",
+      "1: S-Adenosyl_methionine",
+      "1: Operon",
+      "1: Regulation_of_gene_expression",
+      "1: Transcription_factor",
+      "1: Lac_repressor",
+      "1: P300/CBP",
+      "1: Glossary_of_gene_expression_terms"
+   ]
+}

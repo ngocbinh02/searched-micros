@@ -1,25 +1,83 @@
 {
-   "created" : 1373449075,
    "micrownet" : [
       "devotion",
       "devotional"
    ],
-   "micro" : [
-      "abstraction",
-      "devotedness",
-      "devotion",
-      "entity",
-      "love",
-      "emotion",
-      "attribute",
-      "feeling",
-      "abstract_entity",
-      "state"
+   "google" : [
+      "/url?q=http://devotional.upperroom.org/&sa=U&ei=ryLdUcvRI46BPcWagYgP&ved=0CBgQFjAA&usg=AFQjCNEgZKSp3k2fBOwZkpSJVDVpHiMoKQ",
+      "/url?q=http://www.merriam-webster.com/dictionary/devotion&sa=U&ei=ryLdUcvRI46BPcWagYgP&ved=0CBsQFjAB&usg=AFQjCNHHLmBZBFlhV4x1pNz_WtdZhJpZgw",
+      "/url?q=http://www.thefreedictionary.com/devotion&sa=U&ei=ryLdUcvRI46BPcWagYgP&ved=0CB8QFjAC&usg=AFQjCNErxwt21zV3MRtCvW_tFng3wyU_Gw",
+      "/url?q=http://en.wikipedia.org/wiki/Devotion&sa=U&ei=ryLdUcvRI46BPcWagYgP&ved=0CCgQFjAD&usg=AFQjCNEdEdRDgj2trr0vLMUM-0vx1P0TvA",
+      "/url?q=http://www.devotions.net/&sa=U&ei=ryLdUcvRI46BPcWagYgP&ved=0CCwQFjAE&usg=AFQjCNF3rCo5oMJXNFoDT_stkUSYppZGzA",
+      "/url?q=http://www.imdb.com/title/tt0038474/&sa=U&ei=ryLdUcvRI46BPcWagYgP&ved=0CDAQFjAF&usg=AFQjCNFsWACWALiyHqV07h4N0Lf7kI-jSQ",
+      "/url?q=http://odb.org/&sa=U&ei=ryLdUcvRI46BPcWagYgP&ved=0CDUQFjAG&usg=AFQjCNFOo_jOSR9kduDFm_MQRZJZ38UpnQ",
+      "/url?q=http://www.devotion.com.au/&sa=U&ei=ryLdUcvRI46BPcWagYgP&ved=0CDkQFjAH&usg=AFQjCNFj6xk3srUl_nNQv-oq_JOWp0CiiQ",
+      "/url?q=http://www.areyoudevoted.com/&sa=U&ei=ryLdUcvRI46BPcWagYgP&ved=0CD0QFjAI&usg=AFQjCNHXK_CS7hWycx1OOCAI8xIfbPiWnQ",
+      "/url?q=http://www.amazon.com/Devotion-A-Memoir-Dani-Shapiro/dp/B0041T4O44&sa=U&ei=ryLdUcvRI46BPcWagYgP&ved=0CEAQFjAJ&usg=AFQjCNG71oEoifXKsJIVTeHkn8fKKrU_Fw"
    ],
+   "micro" : [
+      "state",
+      "abstract_entity",
+      "emotion",
+      "abstraction",
+      "attribute",
+      "love",
+      "entity",
+      "feeling",
+      "devotedness",
+      "devotion"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Devotion_(Beach_House_album)\">Devotion (Beach House album)</a>, 2008",
+      "Devotion",
+      "http://www.merriam-webster.com/dictionary/devotion",
+      "devotion definition: religious fervor.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Fidel_Castro_resigns_as_Cuban_president\" title=\"Fidel Castro resigns as Cuban president\">Fidel Castro resigns as Cuban president</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Steve_Sinnott,_leader_of_the_National_Union_of_Teachers,_dies_aged_56\" title=\"Steve Sinnott, leader of the National Union of Teachers, dies aged 56\">Steve Sinnott, leader of the National Union of Teachers, dies aged 56</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/President_Bush_nominates_John_Roberts_as_Chief_Justice_of_the_U.S.\" title=\"President Bush nominates John Roberts as Chief Justice of the U.S.\">President Bush nominates John Roberts as Chief Justice of the U.S.</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Black_registrar_to_hold_mass_wedding_in_Belgium\" title=\"Black registrar to hold mass wedding in Belgium\">Black registrar to hold mass wedding in Belgium</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Founder_of_the_National_Ballet_of_Canada_dies_at_age_85\" title=\"Founder of the National Ballet of Canada dies at age 85\">Founder of the National Ballet of Canada dies at age 85</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/President_Obama_names_16_recipients_of_the_2009_Presidential_Medal_of_Freedom\" title=\"President Obama names 16 recipients of the 2009 Presidential Medal of Freedom\">President Obama names 16 recipients of the 2009 Presidential Medal of Freedom</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_York_Yankees_executive_George_Steinbrenner_dies_at_80\" title=\"New York Yankees executive George Steinbrenner dies at 80\">New York Yankees executive George Steinbrenner dies at 80</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_Senate_Committee_recommends_formation_of_Charities_Commission\" title=\"Australian Senate Committee recommends formation of Charities Commission\">Australian Senate Committee recommends formation of Charities Commission</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Interview_with_Glen_Stollery_of_ScienTOMogy.info\" title=\"Interview with Glen Stollery of ScienTOMogy.info\">Interview with Glen Stollery of ScienTOMogy.info</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373453979,
+   "book" : [],
    "micro-www" : {
       "devotion" : [
          ""
       ]
    },
-   "micro-www-search" : []
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Devotion', 'devotional', or 'devotee' may refer to:\n\n'Religion:'\n* Devotional song\n* Devotional literature\n* Anglican devotions\n* Catholic devotions **Devotional medal\n* Bible study — called \"devotion\" or \"devotional\" by some Christian\n  denominations\n* Hindu devotional movements\n\n<!--from Devotion (album)--> 'Music albums:'\n* ''Devotion'' (John McLaughlin album), 1970\n* ''Devotion'' (The Best of Yanni), 1997 compilation\n* ''Devotion'' (Masami Okui album), 2001\n* ''Devotion'' (Newsboys album), 2004\n* ''Devotion'' (Beach House album), 2008\n* ''Devotion'' (Shizuka Itou album), 2010\n* ''Devotion'' (Mia Martina album), 2011\n* ''Devotion'' (Jessie Ware album), 2012\n* Devo-Tees, a collection of Devo songs as privately recorded by various artists\n  and sent in to KROQ's Dr. Demento\n* Devotion, a 1979 album by L.T.D.\n\n'Music songs:'\n* \"Devotion\" (song), a 1974 song by Earth, Wind & Fire on Open Our Eyes\n* \"Devotion\", a 1999 song by Luscious Jackson on [[Electric Honey\n  (album)|Electric Honey]]\n* \"Devotion\", a 2010 song by Hurts featuring Kylie Minogue for their 2010 album\n  [[Happiness (Hurts album) |Happiness]]\n\n'Other in music:' *The Devotions, a 1960s music group *Devotional Tour, Depeche\nMode tour for album Songs of Faith and Devotion. **''Devotional'' (video) of the\nDevotional Tour *, a 1990s techno-dance band\n\n'Films and television:'\n* ''Devotion'' (1931 film), starring Ann Harding and Leslie Howard\n* ''Devotion'' (1946 film), starring Ida Lupino and Olivia de Havilland as two\n  of the Brontë sisters\n* ''Devotion'' (1950 film), an Italian film\n* \"Devotion\" (''Charlie Jade''), an episode of the television series\n  Charlie Jade\n* ''Devotion'' (TV series), a Singaporean TV series by MediaCorp Channel 8.\n\n'Other:' *Devotion, North Carolina, an unincorporated community *devotees,\nsexual attraction to people with physical disabilities\n",
+      "title" : "devotion",
+      "headings" : []
+   },
+   "micro-relation" : [
+      "1: Devotional_song",
+      "1: Devotional_literature",
+      "1: Anglican_devotions",
+      "1: Catholic_devotions",
+      "1: Devotional_medal",
+      "1: Hindu_devotional_movements",
+      "1: L.T.D.",
+      "1: The_Devotions",
+      "1: Devotional_Tour",
+      "1: Devotion,_North_Carolina",
+      "1: Disability_devotee",
+      "1: Physical_disabilities"
+   ]
 }

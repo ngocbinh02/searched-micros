@@ -1,0 +1,57 @@
+{
+   "micrownet" : [
+      "ruggedness"
+   ],
+   "micro" : [
+      "abstract_entity",
+      "entity",
+      "abstraction",
+      "ruggedness",
+      "strength",
+      "huskiness",
+      "toughness",
+      "property",
+      "attribute"
+   ],
+   "duck" : [
+      "Having strong features marked with furrows or wrinkles: the rugged face of the old sailor.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=ruggedness",
+      "HASH(0x4d8da70)",
+      "The Free Dictionary",
+      "ruggedness",
+      "http://www.merriam-webster.com/dictionary/ruggedness",
+      "ruggedness definition: '''obsolete''' shaggy, hairy.",
+      "Merriam-Webster",
+      "HASH(0x52adc38)",
+      "Having strong features marked with furrows or wrinkles: the rugged face of the old sailor.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Afghan_coalition_forces_repel_Taliban_ambush:_8_killed,_16_captured\" title=\"Afghan coalition forces repel Taliban ambush: 8 killed, 16 captured\">Afghan coalition forces repel Taliban ambush: 8 killed, 16 captured</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mars_was_once_covered_by_oceans,_study_says\" title=\"Mars was once covered by oceans, study says\">Mars was once covered by oceans, study says</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Plane_with_Korean,_Czech_tourists_aboard_crashes_in_Cambodia\" title=\"Plane with Korean, Czech tourists aboard crashes in Cambodia\">Plane with Korean, Czech tourists aboard crashes in Cambodia</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/No_survivors_in_Cambodian_air_crash\" title=\"No survivors in Cambodian air crash\">No survivors in Cambodian air crash</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Four_coalition_soldiers_die_in_Kandahar_helicopter_crash\" title=\"Four coalition soldiers die in Kandahar helicopter crash\">Four coalition soldiers die in Kandahar helicopter crash</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Black_boxes_from_Air_France_Flight_447_localized\" title=\"Black boxes from Air France Flight 447 localized\">Black boxes from Air France Flight 447 localized</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Mobile_phone_dermatitis%27_linked_to_nickel_deposits\" title=\"&#39;Mobile phone dermatitis&#39; linked to nickel deposits\">&#39;Mobile phone dermatitis&#39; linked to nickel deposits</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/8_Afghans_killed_in_early_morning_raid\" title=\"8 Afghans killed in early morning raid\">8 Afghans killed in early morning raid</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Children_massacred_in_Kenyan_school\" title=\"Children massacred in Kenyan school\">Children massacred in Kenyan school</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Boy_Scout_missing_in_North_Carolina,_U.S.A.\" title=\"Boy Scout missing in North Carolina, U.S.A.\">Boy Scout missing in North Carolina, U.S.A.</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373460948,
+   "book" : [],
+   "micro-www" : {
+      "ruggedness" : [
+         ""
+      ]
+   },
+   "micro-relation" : []
+}

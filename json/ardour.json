@@ -1,29 +1,76 @@
 {
-   "created" : 1373448855,
    "micrownet" : [
       "ardour"
    ],
+   "google" : [
+      "/url?q=http://ardour.org/&sa=U&ei=3CPdUerZGoXvOfrLgbgO&ved=0CBgQFjAA&usg=AFQjCNH0zc05o74OUWIB3H0GopVHQIWImg",
+      "/url?q=http://ardour.org/download.html&sa=U&ei=3CPdUerZGoXvOfrLgbgO&ved=0CCEQFjAB&usg=AFQjCNHfGP5MOeiBTvv5wSqxmoOXMeZp_Q",
+      "/images?hl=en&q=ardour&gbv=1&num=10&gl=&sa=X&oi=image_result_group&ei=3CPdUerZGoXvOfrLgbgO&ved=0CCQQsAQ",
+      "/url?q=http://www.thefreedictionary.com/ardour&sa=U&ei=3CPdUerZGoXvOfrLgbgO&ved=0CC4QFjAG&usg=AFQjCNE5BOVQCaU976IhctcRXgyO9XFnOQ",
+      "/url?q=http://en.wikipedia.org/wiki/Ardour_(software)&sa=U&ei=3CPdUerZGoXvOfrLgbgO&ved=0CDYQFjAH&usg=AFQjCNECDo7Cgx9tDoGw4GFTNlYZQKLfxA",
+      "/url?q=http://www.merriam-webster.com/dictionary/ardour&sa=U&ei=3CPdUerZGoXvOfrLgbgO&ved=0CDoQFjAI&usg=AFQjCNHdyVwq1g8f27syonkLm2Dlcp-www",
+      "/url?q=http://www.collinsdictionary.com/dictionary/english/ardour&sa=U&ei=3CPdUerZGoXvOfrLgbgO&ved=0CD4QFjAJ&usg=AFQjCNF9CD_YWlUIeuMRUIkfhejfpzk4jw",
+      "/url?q=http://ardour.snetglobalindexes.com/&sa=U&ei=3CPdUerZGoXvOfrLgbgO&ved=0CEYQFjAL&usg=AFQjCNGFqcT29r03Q8lIVWYQqVWrA8LYDg",
+      "/url?q=http://flossmanuals.net/ardour/&sa=U&ei=3CPdUerZGoXvOfrLgbgO&ved=0CEoQFjAM&usg=AFQjCNF4X21isXymDXtJfpBXF_kFHcPmTg",
+      "/url?q=http://www.amazon.com/dp/B0041NZMHS&sa=U&ei=3CPdUerZGoXvOfrLgbgO&ved=0CE0QFjAN&usg=AFQjCNGTCcbOLVheMkASUalOqMUxVzJR9A"
+   ],
    "micro" : [
-      "zeal",
-      "ardour",
-      "enthusiasm",
       "keenness",
-      "avidness",
+      "zeal",
+      "enthusiasm",
+      "avidity",
+      "state",
+      "entity",
+      "attribute",
       "elan",
       "eagerness",
-      "entity",
       "abstract_entity",
       "ardor",
-      "feeling",
-      "avidity",
-      "attribute",
+      "avidness",
+      "ardour",
       "abstraction",
-      "state"
+      "feeling"
    ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Ardour_(software)\">Ardour (software)</a>, a hard disk recorder and digital audio workstation application",
+      "\n<a href=\"http://duckduckgo.com/Ardor_(film)\">Ardor (film)</a>, a 2002 South Korean film, also known as Milae",
+      "\n<a href=\"http://duckduckgo.com/Ardour_(album)\">Ardour (album)</a>, a 2010 album by instrumental hip hop/electronica producer Teebs",
+      "Ardor",
+      "\n<a href=\"http://duckduckgo.com/Ardore\">Ardore</a>, a town in Calabria, Italy",
+      "\n<a href=\"http://duckduckgo.com/Ada_or_Ardor%3A_A_Family_Chronicle\">Ada or Ardor: A Family Chronicle</a>, a novel by Vladimir Nabokov",
+      "http://www.merriam-webster.com/dictionary/ardor",
+      "ardor definition: an often restless or transitory warmth of feeling.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Adour\">Ardour (river)</a>, a river in southwestern France",
+      "\n<a href=\"http://duckduckgo.com/Passion_(emotion)\">Passion (emotion)</a>, very strong feeling",
+      "\n<a href=\"http://duckduckgo.com/Ardor_(album)\">Ardor (album)</a>, a 1994 album by Love Spirals Downwards"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373454283,
+   "book" : [],
    "micro-www" : {
       "ardour" : [
          ""
       ]
    },
-   "micro-www-search" : []
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Ardor' or 'Ardour' may refer to:\n\n* ''Ardor'' (album), a 1994 album by Love Spirals Downwards\n* ''Ardour'' (album), a 2010 album by instrumental hip hop/electronica\n  producer Teebs\n* ''Ardor'' (film), a 2002 South Korean film, also known as Milae\n* Ardour (software), a hard disk recorder and digital audio workstation\n  application\n* Ardour (river), a river in southwestern France\n* Ardore, a town in Calabria, Italy\n* Ardor: The Book of the Dead Man, Vol. 2, a book of poems by Marvin Bell\n* [[Ada or Ardor: A Family Chronicle]], a novel by Vladimir Nabokov\n\n'Ardor' may also be: *Passion (emotion), very strong feeling\n",
+      "title" : "Ardor",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Ardore",
+      "1: Marvin_Bell"
+   ]
 }

@@ -1,0 +1,107 @@
+{
+   "micrownet" : [
+      "thymine"
+   ],
+   "micro" : [
+      "chemical_compound",
+      "material",
+      "substance",
+      "pyrimidine",
+      "portion",
+      "constituent",
+      "matter",
+      "chemical",
+      "physical_entity",
+      "part",
+      "abstract_entity",
+      "relation",
+      "thymine",
+      "abstraction",
+      "base",
+      "alkali",
+      "stuff",
+      "chemical_substance",
+      "entity",
+      "compound",
+      "component_part",
+      "component",
+      "t"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Thiamine\">Thiamine</a> - Thiamine or thiamin or vitamin B1, named as the \"thio-vitamine\" (\"sulfur-containing vitamin\") is a water-soluble vitamin of the B complex.",
+      "https://en.wikipedia.org/wiki/Thymine",
+      "Wikipedia",
+      "Thymine",
+      "\n<a href=\"http://duckduckgo.com/nucleobase\">nucleobase</a> - Nucleobases are nitrogen-containing biological compounds found within DNA, RNA, nucleotides, and nucleosides.",
+      "http://www.merriam-webster.com/dictionary/thymine",
+      "\n<a href=\"http://duckduckgo.com/pyrimidine\">pyrimidine</a> - Pyrimidine is an aromatic heterocyclic organic compound similar to pyridine.",
+      "thymine definition: a pyrimidine base C^^5^^H^^6^^N^^2^^O^^2^^ that is one of the four bases coding genetic information in the polynucleotide chain of DNA — compare adenine, cytosine, guanine, uracil.",
+      "\n<a href=\"http://duckduckgo.com/c/Pyrimidinediones\">Pyrimidinediones</a>",
+      "\n<a href=\"http://duckduckgo.com/thymidine\">deoxythymidine</a> - Thymidine is a chemical compound, more precisely a pyrimidine deoxynucleoside.",
+      "Thymine  (T, Thy) is one of the four nucleobases in the nucleic acid of DNA that are represented by the letters G–C–A–T. The others are adenine, guanine, and cytosine.",
+      "\n<a href=\"http://duckduckgo.com/Thymineless_death\">Thymineless death</a> - Thymineless death is the phenomenon by which bacteria, yeasts and mammalian cells undergo irreversible cell death when they are starved of thymidine triphosphate, an essential precursor for DNA ...",
+      "HASH(0x502fe58)",
+      "https://i.duckduckgo.com/i/0616eca7.png",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/deoxyribose\">deoxyribose</a> - Deoxyribose, or more precisely 2-deoxyribose, is a monosaccharide with idealized formula H-(C=O)-(CH2)-(CHOH)3-H. Its name indicates that it is a deoxy sugar, meaning that it is de...",
+      "HASH(0x4ef6dc8)",
+      "A",
+      "Thymine  (T, Thy) is one of the four nucleobases in the nucleic acid of DNA that are represented by the letters G–C–A–T. The others are adenine, guanine, and cytosine."
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [
+      "thymine\n>http\nhttp://en.m.wikipedia.org/wiki/Thymine\nhttp://en.wikipedia.org/w/index.php?title=Thymine&oldid=539557493\nhttp://www.nlm.nih.gov/cgi/mesh/2007/MB_cgi?mode=&term=Thymine\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Thymine_skeletal.svg/120px-Thymine_skeletal.svg.png\n\n",
+      "Thymine\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Thymine_skeletal.svg/120px-Thymine_skeletal.svg.png\n"
+   ],
+   "created" : 1373458802,
+   "book" : [],
+   "micro-www" : {
+      "thymine" : [
+         "thymine",
+         "Thymine",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Pyrimidinediones"
+      ],
+      "text" : "\n{{chembox\n| Verifiedfields = changed Watchedfields = changed verifiedrevid = 458956008\n| ImageFile1 = Thymine_skeletal.svg ImageSize1 = 120px ImageFileL2 = Thymine-3D-\n| balls.png ImageSizeL2 = 120px ImageFileR2 = Thymine-3D-vdW.png ImageSizeR2 =\n| 120px IUPACName = 5-Methylpyrimidine-2,4(1H,3H)-dione OtherNames = 5-\n| methyluracil Section1 = {{Chembox Identifiers CASNo = 65-71-4 CASNo_Ref =\n| ChEBI_Ref = ChEBI = 17821 ChEMBL_Ref = ChEMBL = 993 UNII_Ref = UNII =\n| QR26YLT7LT PubChem = 1135 ChemSpiderID_Ref = ChemSpiderID = 1103 SMILES =\n| Cc1c[nH]c(=O)[nH]c1=O InChI = 1/C5H6N2O2/c1-3-2-6-5(9)7-\n| 4(3)8/h2H,1H3,(H2,6,7,8,9) InChIKey = RWQNBRDOKXIBIV-UHFFFAOYAL StdInChI_Ref =\n| StdInChI = 1S/C5H6N2O2/c1-3-2-6-5(9)7-4(3)8/h2H,1H3,(H2,6,7,8,9)\n| StdInChIKey_Ref = StdInChIKey = RWQNBRDOKXIBIV-UHFFFAOYSA-N MeSHName = Thymine\n  }}\n| Section2 = {{Chembox Properties C = 5 H = 6 N = 2 O = 2 Appearance = Density =\n| 1.23 g cm<sup>−3</sup> (calculated) MeltingPtCL = 316 MeltingPtCH = 317\n| BoilingPtC = 335 Boiling_notes = decomposes\n  }}\n| Section3 = {{Chembox Hazards Solubility = MainHazards = FlashPt =\n| Autoignition =\n  }}\n\n}} 'Thymine' ('T', 'Thy') is one of the four nucleobases in the nucleic acid of\nDNA that are represented by the letters G–C–A–T. The others are adenine,\nguanine, and cytosine. Thymine is also known as '5-methyluracil,' a pyrimidine\nnucleobase.\n",
+      "title" : "thymine",
+      "headings" : [
+         "Derivation",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: Nucleobase",
+      "2: Adenine",
+      "2: Pyrimidine",
+      "2: Uracil",
+      "2: Deoxyribose",
+      "2: Deoxythymidine",
+      "1: Nucleic_acid",
+      "1: DNA",
+      "1: Guanine",
+      "1: Cytosine",
+      "1: RNA",
+      "1: Nucleoside",
+      "1: Thymidine",
+      "1: Ultraviolet",
+      "1: Thymine_dimers",
+      "1: Fluorouracil",
+      "1: Cancer",
+      "1: DNA_replication",
+      "1: Hydantoins",
+      "1: Thymineless_death"
+   ]
+}

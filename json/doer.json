@@ -1,0 +1,100 @@
+{
+   "micrownet" : [
+      "doer"
+   ],
+   "micro" : [
+      "sharpie",
+      "unit",
+      "somebody",
+      "whole",
+      "being",
+      "worker",
+      "living_thing",
+      "animate_thing",
+      "whizz-kid",
+      "busy_bee",
+      "sharpy",
+      "ball_of_fire",
+      "object",
+      "whiz-kid",
+      "eager_beaver",
+      "go-getter",
+      "person",
+      "organism",
+      "vitaliser",
+      "energizer",
+      "someone",
+      "soul",
+      "individual",
+      "human_dynamo",
+      "causal_agency",
+      "animator",
+      "man_of_deeds",
+      "doer",
+      "causal_agent",
+      "physical_entity",
+      "demon",
+      "fireball",
+      "powerhouse",
+      "man_of_action",
+      "live_wire",
+      "actor",
+      "physical_object",
+      "vitalizer",
+      "energiser",
+      "mortal",
+      "cause",
+      "entity"
+   ],
+   "duck" : [
+      "A particularly active, energetic person: a real doer in party politics.",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=doer",
+      "HASH(0x5d14be0)",
+      "The Free Dictionary",
+      "doer",
+      "http://www.merriam-webster.com/dictionary/doer",
+      "doer definition: one that takes an active part.",
+      "Merriam-Webster",
+      "HASH(0x5d2ffb0)",
+      "A particularly active, energetic person: a real doer in party politics.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bodies_found_in_trailer_park_in_Brunswick,_Georgia,_US\" title=\"Bodies found in trailer park in Brunswick, Georgia, US\">Bodies found in trailer park in Brunswick, Georgia, US</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Manitoba_volunteers_go_to_war_against_Red_River_flooding\" title=\"Manitoba volunteers go to war against Red River flooding\">Manitoba volunteers go to war against Red River flooding</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373457047,
+   "book" : [],
+   "micro-www" : {
+      "doer" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Populated places in Győr-Moson-Sopron county|Dor"
+      ],
+      "text" : "{{Infobox settlement <!--more fields are available for this Infobox--See\nTemplate:Infobox Settlement--> |coordinates_display = inline,title\n|coordinates_region = HU |subdivision_type = Country |subdivision_name =\n|timezone=CET |utc_offset=+1 |timezone_DST=CEST |utc_offset_DST=+2\n|\nofficial_name=Dör| map=| subdivision_type1=County| subdivision_name1=Győr-Moson-\nSopron| area_total_km2=11.01| population_total=628| population_as_of=2004|\npopulation_density_km2=57.03| postal_code_type=Postal code| postal_code=9147|\narea_code=96| pushpin_map =Hungary |pushpin_label_position = <!-- the position\nof the pushpin label: left, right, top, bottom, none --> |pushpin_map_caption\n=Location of Dör |pushpin_mapsize =| latd=47.59802| longd=17.29897 }}\n\n'Dör' is a village in Győr-Moson-Sopron county, Hungary.\n",
+      "title" : "D%C3%B6r",
+      "headings" : [
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: GyÅr-Moson-Sopron",
+      "1: Countries_of_the_world",
+      "1: Central_European_Time",
+      "1: Central_European_Summer_Time",
+      "1: Counties_of_Hungary",
+      "1: Postal_code",
+      "1: Hungary"
+   ]
+}

@@ -1,0 +1,77 @@
+{
+   "micrownet" : [
+      "drms"
+   ],
+   "micro" : [],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/DRM",
+      "HASH(0x523dc90)",
+      "HASH(0x50749d0)",
+      "Wikipedia",
+      "DRM",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sony_faces_class_action_lawsuits_for_DRM\" title=\"Sony faces class action lawsuits for DRM\">Sony faces class action lawsuits for <span class=\"searchmatch\">DRM</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sony%27s_DRM_protected_CDs_install_Windows_rootkits\" title=\"Sony&#39;s DRM protected CDs install Windows rootkits\">Sony&#39;s <span class=\"searchmatch\">DRM</span> protected CDs install Windows rootkits</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/High_definition_anti-piracy_DRM_possibly_hacked\" title=\"High definition anti-piracy DRM possibly hacked\">High definition anti-piracy <span class=\"searchmatch\">DRM</span> possibly hacked</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Microsoft%27s_PlaysForSure_DRM_cracked\" title=\"Microsoft&#39;s PlaysForSure DRM cracked\">Microsoft&#39;s PlaysForSure <span class=\"searchmatch\">DRM</span> cracked</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/French_National_assembly_to_approve_copyright_bill\" title=\"French National assembly to approve copyright bill\">French National assembly to approve copyright bill</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Interview:_Danny_O%27Brien_of_the_Electronic_Frontier_Foundation\" title=\"Interview: Danny O&#39;Brien of the Electronic Frontier Foundation\">Interview: Danny O&#39;Brien of the Electronic Frontier Foundation</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/French_Parliament_adopts_controversial_copyright_bill\" title=\"French Parliament adopts controversial copyright bill\">French Parliament adopts controversial copyright bill</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Open_Rights_Group_holds_first_conference_in_London\" title=\"Open Rights Group holds first conference in London\">Open Rights Group holds first conference in London</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/F-Secure_detects_security_flaw_in_Sony_memory_sticks\" title=\"F-Secure detects security flaw in Sony memory sticks\">F-Secure detects security flaw in Sony memory sticks</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Free_Software_Foundation_releases_first_draft_of_GPLv3\" title=\"Free Software Foundation releases first draft of GPLv3\">Free Software Foundation releases first draft of GPLv3</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/March_against_new_French_copyright_law\" title=\"March against new French copyright law\">March against new French copyright law</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sony_to_suspend_use_of_controversial_CD_software\" title=\"Sony to suspend use of controversial CD software\">Sony to suspend use of controversial CD software</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Apple_Computer_CEO_Steve_Jobs_gives_opening_keynote_to_WWDC_2005\" title=\"Apple Computer CEO Steve Jobs gives opening keynote to WWDC 2005\">Apple Computer CEO Steve Jobs gives opening keynote to WWDC 2005</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:July_26,_2010\" title=\"News briefs:July 26, 2010\">News briefs:July 26, 2010</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/News_briefs:June_30,_2006\" title=\"News briefs:June 30, 2006\">News briefs:June 30, 2006</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Interview_with_BBC_Creative_Archive_project_leader\" title=\"Interview with BBC Creative Archive project leader\">Interview with BBC Creative Archive project leader</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Electronic_Frontier_Foundation_sues_Sony_over_CD_technology\" title=\"Electronic Frontier Foundation sues Sony over CD technology\">Electronic Frontier Foundation sues Sony over CD technology</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373460731,
+   "book" : [],
+   "micro-www" : {
+      "drm" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'DRM' may refer to:\n",
+      "title" : "DRM",
+      "headings" : [
+         "Information technology",
+         "Biology",
+         "Other uses"
+      ]
+   },
+   "micro-relation" : [
+      "1: Digital_rights_management",
+      "1: Data_Reference_Model",
+      "1: Digital_Radio_Mondiale",
+      "1: Direct_Rendering_Manager",
+      "1: Distributed_Resource_Manager",
+      "1: Desmin_Related_Myopathy",
+      "1: Digestive_rate_model",
+      "1: Lipid_raft",
+      "1: Deese–Roediger–McDermott_paradigm",
+      "1: Deutsche_Rallye_Meisterschaft",
+      "1: Deutsche_Rennsport_Meisterschaft",
+      "1: Direction_du_renseignement_militaire",
+      "1: Reichsmark",
+      "1: Paleomagnetism#Detrital_remanent_magnetization",
+      "1: Drama_Airport",
+      "1: Airways_Flight_Training",
+      "1: Airline_codes-A"
+   ]
+}

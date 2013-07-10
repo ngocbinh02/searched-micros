@@ -1,0 +1,130 @@
+{
+   "micrownet" : [
+      "at_a_loss",
+      "capital_loss",
+      "conductive_hearing_loss",
+      "financial_loss",
+      "hearing_loss",
+      "loss",
+      "loss_leader",
+      "loss_ratio",
+      "losses",
+      "lossless",
+      "lossy",
+      "memory_loss",
+      "paper_loss",
+      "profit_and_loss",
+      "profit_and_loss_account",
+      "sensorineural_hearing_loss",
+      "turn_a_loss"
+   ],
+   "micro" : [
+      "financial_loss",
+      "relation",
+      "abstraction",
+      "transferred_possession",
+      "wastage",
+      "sacrifice",
+      "loss",
+      "entity",
+      "forfeiture",
+      "abstract_entity",
+      "forfeit",
+      "possession",
+      "transferred_property"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Loss",
+      "\n<a href=\"http://duckduckgo.com/Attenuation\">Attenuation</a>, a reduction in amplitude and intensity of a signal",
+      "Wikipedia",
+      "Loss",
+      "\n<a href=\"http://duckduckgo.com/Insertion_loss\">Insertion loss</a>, the decrease in transmitted signal power resulting from the insertion of a device in a transmission line or optical fiber",
+      "\n<a href=\"http://duckduckgo.com/win%E2%80%93loss_record\">Loss (baseball)</a>, a pitching statistic in baseball",
+      "http://www.merriam-webster.com/dictionary/loss",
+      "\n<a href=\"http://duckduckgo.com/Bridging_loss\">Bridging loss</a>, the loss that results when an impedance is connected across a transmission line",
+      "loss definition: destruction, ruin.",
+      "\n<a href=\"http://duckduckgo.com/Loss_function\">Loss function</a>, in statistics, a function representing the cost associated with an event",
+      "\n<a href=\"http://duckduckgo.com/Grief\">Grief</a>, an emotional response to loss",
+      "\n<a href=\"http://duckduckgo.com/Return_loss\">Return loss</a>, the ratio of the amplitude of the reflected wave to the amplitude of the incident wave",
+      "HASH(0x5185ec0)",
+      "\n<a href=\"http://duckduckgo.com/Loss_leader\">Loss leader</a> a deliberate commercial loss made in the expectation of recouping it by profitable sales of other lines",
+      "\n<a href=\"http://duckduckgo.com/Coupling_loss\">Coupling loss</a>, the loss that occurs when energy is transferred from one circuit, optical device, or medium to another",
+      "Merriam-Webster",
+      "HASH(0x5323ec8)",
+      "\n<a href=\"http://duckduckgo.com/Angular_misalignment_loss\">Angular misalignment loss</a>, power loss caused by the deviation from optimum angular alignment",
+      "\n<a href=\"http://duckduckgo.com/Free-space_path_loss\">Free-space path loss</a>, the loss in signal strength that would result if all influences were sufficiently removed having no effect on its propagation",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Path_loss\">Path loss</a>, the attenuation undergone by an electromagnetic wave in transit from a transmitter to a receiver",
+      "\n<a href=\"http://duckduckgo.com/round-trip_gain\">Round-trip loss</a> in laser physics refers to energy lost due to scattering or absorption"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sydney_plans_loss_of_rainbow\" title=\"Sydney plans loss of rainbow\">Sydney plans <span class=\"searchmatch\">loss</span> of rainbow</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Gliders_suffer_first_loss_in_London_Paralympics_against_Canada\" title=\"Gliders suffer first loss in London Paralympics against Canada\">Gliders suffer first <span class=\"searchmatch\">loss</span> in London Paralympics against Canada</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/GM_posts_first_annual_loss_since_1992\" title=\"GM posts first annual loss since 1992\">GM posts first annual <span class=\"searchmatch\">loss</span> since 1992</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_Airways_announces_record_losses\" title=\"British Airways announces record losses\">British Airways announces record <span class=\"searchmatch\">losses</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Automobile_manufacturer_Toyota_triples_annual_loss_prediction\" title=\"Automobile manufacturer Toyota triples annual loss prediction\">Automobile manufacturer Toyota triples annual <span class=\"searchmatch\">loss</span> prediction</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sainsbury%27s_posts_first_ever_loss\" title=\"Sainsbury&#39;s posts first ever loss\">Sainsbury&#39;s posts first ever <span class=\"searchmatch\">loss</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Soldiers_sue_U.S._government_over_%27stop-loss%27_policy\" title=\"Soldiers sue U.S. government over &#39;stop-loss&#39; policy\">Soldiers sue U.S. government over &#39;stop-<span class=\"searchmatch\">loss</span>&#39; policy</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_November_job_losses_reach_34-year_high\" title=\"US November job losses reach 34-year high\">US November job <span class=\"searchmatch\">losses</span> reach 34-year high</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Family_seeks_prosecution_over_loss_of_UK_Nimrod_jet_in_Afghanistan\" title=\"Family seeks prosecution over loss of UK Nimrod jet in Afghanistan\">Family seeks prosecution over <span class=\"searchmatch\">loss</span> of UK Nimrod jet in Afghanistan</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ford_announces_deep_production_cuts_in_response_to_growing_losses\" title=\"Ford announces deep production cuts in response to growing losses\">Ford announces deep production cuts in response to growing <span class=\"searchmatch\">losses</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Losses_almost_double_for_3,_a_mobile_phone_company\" title=\"Losses almost double for 3, a mobile phone company\"><span class=\"searchmatch\">Losses</span> almost double for 3, a mobile phone company</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/India%27s_Jet_Airways_posts_biggest_quarterly_loss_in_three_years\" title=\"India&#39;s Jet Airways posts biggest quarterly loss in three years\">India&#39;s Jet Airways posts biggest quarterly <span class=\"searchmatch\">loss</span> in three years</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/High_winds_in_Texas_cause_property_damage_and_utilities_loss_for_many\" title=\"High winds in Texas cause property damage and utilities loss for many\">High winds in Texas cause property damage and utilities <span class=\"searchmatch\">loss</span> for many</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_automaker_GM_reports_losses_of_$6_billion\" title=\"US automaker GM reports losses of $6 billion\">US automaker GM reports <span class=\"searchmatch\">losses</span> of $6 billion</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Bank_of_America_reports_losses_of_over_US$2.2_billion\" title=\"Bank of America reports losses of over US$2.2 billion\">Bank of America reports <span class=\"searchmatch\">losses</span> of over US$2.2 billion</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Discovery_going_for_second_launch_since_2003_Columbia_loss\" title=\"Discovery going for second launch since 2003 Columbia loss\">Discovery going for second launch since 2003 Columbia <span class=\"searchmatch\">loss</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Television_New_Zealand_announces_job_losses;_news_worst_hit\" title=\"Television New Zealand announces job losses; news worst hit\">Television New Zealand announces job <span class=\"searchmatch\">losses</span>; news worst hit</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mike_Tyson_set_to_retire_after_loss\" title=\"Mike Tyson set to retire after loss\">Mike Tyson set to retire after <span class=\"searchmatch\">loss</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/India%27s_Kiran_Desai_wins_Booker_Prize_for_%22The_Inheritance_of_Loss%22\" title=\"India&#39;s Kiran Desai wins Booker Prize for &quot;The Inheritance of Loss&quot;\">India&#39;s Kiran Desai wins Booker Prize for &quot;The Inheritance of <span class=\"searchmatch\">Loss</span>&quot;</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/NASA:_Series_of_errors_led_to_loss_of_Mars_Global_Surveyor\" title=\"NASA: Series of errors led to loss of Mars Global Surveyor\">NASA: Series of errors led to <span class=\"searchmatch\">loss</span> of Mars Global Surveyor</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [
+      "Loss_tangent\n>image\nhttp://upload.wikimedia.org/math/8/4/9/8494ecde4f1fdc7be728fcb1f5c55b65.png\n\n",
+      "Loss-of-coolant_accident\n>http\nhttp://en.m.wikipedia.org/wiki/Loss-of-coolant_accident\nhttp://en.wikipedia.org/w/index.php?title=Loss-of-coolant_accident&oldid=541147201\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n"
+   ],
+   "created" : 1373458930,
+   "book" : [],
+   "micro-www" : {
+      "loss" : [
+         "Loss_tangent",
+         "Loss-of-coolant_accident",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Loss' may refer to:\n\n*A negative difference between retail price and cost of production **Loss leader\na deliberate commercial loss made in the expectation of recouping it by\nprofitable sales of other lines *An event in which the team or individual in\nquestion did not win *Loss (baseball), a pitching statistic in baseball\n*Attenuation, a reduction in amplitude and intensity of a signal *In\ntelecommunications, loss is a decrease in signal in a communications system:\n**Angular misalignment loss, power loss caused by the deviation from optimum\nangular alignment **Bridging loss, the loss that results when an impedance is\nconnected across a transmission line **Coupling loss, the loss that occurs when\nenergy is transferred from one circuit, optical device, or medium to another\n**Insertion loss, the decrease in transmitted signal power resulting from the\ninsertion of a device in a transmission line or optical fiber **Path loss, the\nattenuation undergone by an electromagnetic wave in transit from a transmitter\nto a receiver ***Free-space path loss, the loss in signal strength that would\nresult if all influences were sufficiently removed having no effect on its\npropagation **Return loss, the ratio of the amplitude of the reflected wave to\nthe amplitude of the incident wave *Round-trip loss in laser physics refers to\nenergy lost due to scattering or absorption *Loss function, in statistics, a\nfunction representing the cost associated with an event\n",
+      "title" : "loss",
+      "headings" : [
+         "Arts",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Price",
+      "1: Cost",
+      "1: Loss_leader",
+      "1: Attenuation",
+      "1: Angular_misalignment_loss",
+      "1: Bridging_loss",
+      "1: Coupling_loss",
+      "1: Insertion_loss",
+      "1: Path_loss",
+      "1: Free-space_path_loss",
+      "1: Return_loss",
+      "1: Round-trip_loss",
+      "1: Loss_function",
+      "1: Joe_Loss",
+      "1: The_Loss",
+      "1: Grief",
+      "1: Animal_loss"
+   ]
+}

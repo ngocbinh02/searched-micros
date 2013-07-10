@@ -1,29 +1,60 @@
 {
-   "created" : 1373449075,
    "micrownet" : [
       "effectuality"
    ],
-   "micro" : [
-      "power",
-      "abstraction",
-      "effectualness",
-      "quality",
-      "abstract_entity",
-      "incisiveness",
-      "powerfulness",
-      "entity",
-      "effectuality",
-      "effectivity",
-      "trenchancy",
-      "efficacy",
-      "efficaciousness",
-      "attribute",
-      "effectiveness"
+   "google" : [
+      "/url?q=http://www.thefreedictionary.com/effectuality&sa=U&ei=FiPdUfmNB8KlO6TygJAL&ved=0CBgQFjAA&usg=AFQjCNEdlcNG_Udq92VbJQmuTjk83wvUvQ",
+      "/url?q=http://www.thefreedictionary.com/effectual&sa=U&ei=FiPdUfmNB8KlO6TygJAL&ved=0CBsQFjAB&usg=AFQjCNGf8D_1H7u-0YMEReHgXCyYnHFg6Q",
+      "/url?q=http://www.merriam-webster.com/dictionary/effectual&sa=U&ei=FiPdUfmNB8KlO6TygJAL&ved=0CB8QFjAC&usg=AFQjCNFjS3ZlPF-_WEEzx9L8l3O5DYp40Q",
+      "/url?q=http://forum.videohelp.com/threads/348266-http-www-effectuality-ca-is-now-gone-Now-what&sa=U&ei=FiPdUfmNB8KlO6TygJAL&ved=0CCMQFjAD&usg=AFQjCNFDM-F7nankovhQ-bQZUMVR7iwS1g",
+      "/url?q=http://thesaurus.com/browse/effectuality&sa=U&ei=FiPdUfmNB8KlO6TygJAL&ved=0CCcQFjAE&usg=AFQjCNELPsw6XpmjsUbRkzpYjQ6viPBjcA",
+      "/url?q=http://thesaurus.com/browse/effectual&sa=U&ei=FiPdUfmNB8KlO6TygJAL&ved=0CCoQFjAF&usg=AFQjCNG434HKLTJez1XrNxUzkK7s71EH0w",
+      "/url?q=http://thesaurus.com/browse/in-effectuality&sa=U&ei=FiPdUfmNB8KlO6TygJAL&ved=0CC4QFjAG&usg=AFQjCNEx1sfeQ_GtLVAfToldPmCAv2l25A",
+      "/url?q=http://www.effectuality.co.uk/&sa=U&ei=FiPdUfmNB8KlO6TygJAL&ved=0CDEQFjAH&usg=AFQjCNG7L4GzeRWVI490EhuzcisK_dgb4A",
+      "/url?q=http://dictionary.reference.com/browse/effectuality&sa=U&ei=FiPdUfmNB8KlO6TygJAL&ved=0CDUQFjAI&usg=AFQjCNEpnpQvDqBy8Qh1h2rhd2WmcMo5FQ",
+      "/url?q=https://www.vocabulary.com/dictionary/effectuality&sa=U&ei=FiPdUfmNB8KlO6TygJAL&ved=0CDgQFjAJ&usg=AFQjCNFdAAHDq3xU-vsJV9m_IB-ShDTBZA"
    ],
+   "micro" : [
+      "effectivity",
+      "abstract_entity",
+      "attribute",
+      "efficaciousness",
+      "quality",
+      "powerfulness",
+      "effectuality",
+      "power",
+      "effectualness",
+      "effectiveness",
+      "incisiveness",
+      "efficacy",
+      "abstraction",
+      "entity",
+      "trenchancy"
+   ],
+   "duck" : [
+      "effectuality",
+      "Producing or sufficient to produce a desired effect; fully adequate.",
+      "http://www.merriam-webster.com/dictionary/effectuality",
+      "effectuality definition: producing or able to produce a desired effect.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Endangered_Luzon_Buttonquail_photographed_alive_by_Philippines_documentary\" title=\"Endangered Luzon Buttonquail photographed alive by Philippines documentary\">Endangered Luzon Buttonquail photographed alive by Philippines documentary</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373454084,
+   "book" : [],
    "micro-www" : {
       "effectuality" : [
          ""
       ]
    },
-   "micro-www-search" : []
+   "micro-relation" : []
 }

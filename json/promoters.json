@@ -1,0 +1,104 @@
+{
+   "micrownet" : [],
+   "micro" : [
+      "publicizer",
+      "person",
+      "publiciser",
+      "booster",
+      "communicator",
+      "physical_object",
+      "advertizer",
+      "being",
+      "barker",
+      "causal_agency",
+      "object",
+      "animate_thing",
+      "someone",
+      "advertiser",
+      "individual",
+      "causal_agent",
+      "organism",
+      "whole",
+      "promoter",
+      "adman",
+      "cause",
+      "entity",
+      "living_thing",
+      "plugger",
+      "publicist",
+      "mortal",
+      "unit",
+      "physical_entity",
+      "somebody",
+      "soul"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Promoter_(genetics)\">Promoter (genetics)</a>, a regulatory region of DNA usually located upstream of a gene, providing a control point for regulated gene transcription",
+      "\n<a href=\"http://duckduckgo.com/Promoter_(role_variant)\">Promoter (role variant)</a>, one of the sixteen personality types of the Keirsey Temperament Sorter",
+      "https://en.wikipedia.org/wiki/Promoter",
+      "\n<a href=\"http://duckduckgo.com/Tour_promoter\">Tour promoter</a>, individuals or companies responsible for organizing a live concert tour or special event performance",
+      "HASH(0x4fa0640)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/catalysis\">Promoter (catalysis)</a>, an accelerator of a catalyst, though not a catalyst itself",
+      "\n<a href=\"http://duckduckgo.com/Promoter_(entertainment)\">Promoter (entertainment)</a>, one who makes arrangements for events",
+      "Promoter",
+      "http://www.merriam-webster.com/dictionary/promoter",
+      "\n<a href=\"http://duckduckgo.com/Corporate_promoter\">Corporate promoter</a>, an entity who takes active steps in the formation, organization, or financing of a corporation",
+      "promoter definition: one that promotes; '''especially'''.",
+      "Merriam-Webster",
+      "HASH(0x201fd70)",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Aussies_ignore_flag_ban_at_Big_Day_Out_festival\" title=\"Aussies ignore flag ban at Big Day Out festival\">Aussies ignore flag ban at Big Day Out festival</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Music_promoter_Mean_Fiddler_sold_for_almost_%C2%A338m\" title=\"Music promoter Mean Fiddler sold for almost £38m\">Music <span class=\"searchmatch\">promoter</span> Mean Fiddler sold for almost £38m</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Dance_party_broken_up_by_police_in_Utah,_USA\" title=\"Dance party broken up by police in Utah, USA\">Dance party broken up by police in Utah, USA</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Taiwan_Democratic_Alliance_for_Peace_plans_massive_rally_on_Saturday\" title=\"Taiwan Democratic Alliance for Peace plans massive rally on Saturday\">Taiwan Democratic Alliance for Peace plans massive rally on Saturday</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Third_concert_date_for_U2_in_Dublin\" title=\"Third concert date for U2 in Dublin\">Third concert date for U2 in Dublin</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Boxing:_Pacquiao_stuns_De_La_Hoya_with_eighth_round_TKO\" title=\"Boxing: Pacquiao stuns De La Hoya with eighth round TKO\">Boxing: Pacquiao stuns De La Hoya with eighth round TKO</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Florida_officials_investigating_controversial_MMA_fight\" title=\"Florida officials investigating controversial MMA fight\">Florida officials investigating controversial MMA fight</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Two_explosions_in_La_Paz_kill_2,_injure_6\" title=\"Two explosions in La Paz kill 2, injure 6\">Two explosions in La Paz kill 2, injure 6</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.S._isolated_in_opposition_to_cultural_diversity_treaty\" title=\"U.S. isolated in opposition to cultural diversity treaty\">U.S. isolated in opposition to cultural diversity treaty</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Nottingham_Express_Transit_extensions_get_Government_approval\" title=\"Nottingham Express Transit extensions get Government approval\">Nottingham Express Transit extensions get Government approval</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Italian_MP_starts_thirst_and_hunger_strike_to_protest_Saddam_execution\" title=\"Italian MP starts thirst and hunger strike to protest Saddam execution\">Italian MP starts thirst and hunger strike to protest Saddam execution</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Stage_collapse_at_Canadian_%22Big_Valley_Jamboree%22_kills_one,_and_seriously_injures_four_others\" title=\"Stage collapse at Canadian &quot;Big Valley Jamboree&quot; kills one, and seriously injures four others\">Stage collapse at Canadian &quot;Big Valley Jamboree&quot; kills one, and seriously injures four others</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Preparations_for_inaugural_Bathurst_International_Motor_Festival_begin\" title=\"Preparations for inaugural Bathurst International Motor Festival begin\">Preparations for inaugural Bathurst International Motor Festival begin</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mundine_beats_Green_in_super-middleweight_WBA_eliminator\" title=\"Mundine beats Green in super-middleweight WBA eliminator\">Mundine beats Green in super-middleweight WBA eliminator</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Interview_with_Usenet_search_sites_targeted_by_the_MPAA\" title=\"Interview with Usenet search sites targeted by the MPAA\">Interview with Usenet search sites targeted by the MPAA</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sales_of_Jackson_songs_and_memorabilia_rise_after_his_death\" title=\"Sales of Jackson songs and memorabilia rise after his death\">Sales of Jackson songs and memorabilia rise after his death</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/OJ_Simpson_found_guilty_in_kidnapping,_armed_robbery_case\" title=\"OJ Simpson found guilty in kidnapping, armed robbery case\">OJ Simpson found guilty in kidnapping, armed robbery case</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Female_boxer_shot_before_fight_by_stepfather_in_Berlin\" title=\"Female boxer shot before fight by stepfather in Berlin\">Female boxer shot before fight by stepfather in Berlin</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [
+      "promoters\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n"
+   ],
+   "created" : 1373459412,
+   "book" : [],
+   "micro-www" : {
+      "promoters" : [
+         "promoters",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n\n'Promoter' may refer to:\n\n* Promoter (entertainment), one who makes arrangements for events\n* Tour promoter, individuals or companies responsible for organizing a live\n  concert tour or special event performance\n* Corporate promoter, an entity who takes active steps in the formation,\n  organization, or financing of a corporation\n* Promoter (genetics), a regulatory region of DNA usually located upstream of a\n  gene, providing a control point for regulated gene transcription\n* Promoter (catalysis), an accelerator of a catalyst, though not a\n  catalyst itself\n* Promoter (role variant), one of the sixteen personality types of the Keirsey\n  Temperament Sorter\n* Promoter (Catholic church), an office of the Catholic Church such as Promoter\n  of the Laity, Promoter of Peace and Justice, or Promoter of the Faith (also\n  known as the Devil's advocate)\n* Promotor (Dutch-Belgian academia), a full professor of a Dutch or Flanders\n  university who formally promotes a PhD candidate to doctor, and is (formally)\n  the principal supervisor during the doctoral research.\n",
+      "title" : "Promoter",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Tour_promoter",
+      "1: Corporate_promoter",
+      "1: Devil's_advocate",
+      "1: Doctorate"
+   ]
+}

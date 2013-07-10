@@ -1,0 +1,123 @@
+{
+   "micrownet" : [
+      "action_mechanism",
+      "biochemical_mechanism",
+      "chemical_mechanism",
+      "defence_mechanism",
+      "defense_mechanism",
+      "escape_mechanism",
+      "firing_mechanism",
+      "gear_mechanism",
+      "mechanism",
+      "rotating_mechanism",
+      "steering_mechanism",
+      "transmission_mechanism"
+   ],
+   "micro" : [
+      "entity",
+      "process",
+      "chemical_change",
+      "physical_process",
+      "chemical_process",
+      "natural_process",
+      "chemical_action",
+      "chemical_mechanism",
+      "mechanism",
+      "physical_entity",
+      "activity",
+      "action",
+      "biochemical_mechanism",
+      "natural_action"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Mechanism",
+      "Wikipedia",
+      "Mechanism",
+      "\n<a href=\"http://duckduckgo.com/Mechanism_(philosophy)\">Mechanism (philosophy)</a>, a theory that all natural phenomena can be explained by physical causes",
+      "http://www.merriam-webster.com/dictionary/mechanism",
+      "\n<a href=\"http://duckduckgo.com/Defence_mechanism\">Defence mechanism</a>, unconscious mechanisms aimed at reducing anxiety",
+      "mechanism definition: a piece of machinery.",
+      "\n<a href=\"http://duckduckgo.com/Mechanism_(sociology)\">Mechanism (sociology)</a>, a theory that all social phenomena can be explained by the existence of a deterministic mechanism",
+      "\n<a href=\"http://duckduckgo.com/Machine\">Machine</a> - A machine is a tool consisting of one or more parts that is constructed to achieve a particular goal.",
+      "HASH(0x5e4bfd0)",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Antikythera_mechanism\">Antikythera mechanism</a>, an ancient Greek analog computer",
+      "HASH(0x6185e18)",
+      "\n<a href=\"http://duckduckgo.com/Mechanism_(biology)\">Mechanism (biology)</a>, explaining how a feature is created",
+      "\n<a href=\"http://duckduckgo.com/Mechanism_(band)\">Mechanism (band)</a>, a death metal band from Canada",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Mechanism_(engineering)\">Mechanism (engineering)</a>, rigid bodies connected by joints in order to accomplish a desired force and/or motion transmission"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Prospective_Nobel_Prize_for_Higgs_boson_work_disputed\" title=\"Prospective Nobel Prize for Higgs boson work disputed\">Prospective Nobel Prize for Higgs boson work disputed</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2010_Sakurai_Prize_awarded_for_1964_Higgs_Boson_theory_work\" title=\"2010 Sakurai Prize awarded for 1964 Higgs Boson theory work\">2010 Sakurai Prize awarded for 1964 Higgs Boson theory work</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/India_and_China_to_develop_friendly_relations\" title=\"India and China to develop friendly relations\">India and China to develop friendly relations</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Study_suggests_%27sleeping_sickness%27_parasite_mutated_to_evade_immune_system_defences\" title=\"Study suggests &#39;sleeping sickness&#39; parasite mutated to evade immune system defences\">Study suggests &#39;sleeping sickness&#39; parasite mutated to evade immune system defences</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sakurai_Prize_awarded_for_Higgs_boson_theories\" title=\"Sakurai Prize awarded for Higgs boson theories\">Sakurai Prize awarded for Higgs boson theories</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UN_General_Assembly_approves_measures_to_protect_economic,_social_and_cultural_rights\" title=\"UN General Assembly approves measures to protect economic, social and cultural rights\">UN General Assembly approves measures to protect economic, social and cultural rights</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/American_trio_wins_the_2007_Nobel_Prize_in_Economics\" title=\"American trio wins the 2007 Nobel Prize in Economics\">American trio wins the 2007 Nobel Prize in Economics</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Fiji%27s_War_of_the_Ribbons\" title=\"Fiji&#39;s War of the Ribbons\">Fiji&#39;s War of the Ribbons</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tobacco_attracts_predators_with_chemicals_in_response_to_caterpillars,_a_study_finds\" title=\"Tobacco attracts predators with chemicals in response to caterpillars, a study finds\">Tobacco attracts predators with chemicals in response to caterpillars, a study finds</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Exploding_toads_confuse_scientists\" title=\"Exploding toads confuse scientists\">Exploding toads confuse scientists</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Italians_vote_on_fertility_referendum\" title=\"Italians vote on fertility referendum\">Italians vote on fertility referendum</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_reveals_Internet_security_efforts\" title=\"US reveals Internet security efforts\">US reveals Internet security efforts</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Scientists_progress_towards_cloaking_device\" title=\"Scientists progress towards cloaking device\">Scientists progress towards cloaking device</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Lithuania_plans_to_adopt_euro_in_2007\" title=\"Lithuania plans to adopt euro in 2007\">Lithuania plans to adopt euro in 2007</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Imperfect_immune_systems_help_avoid_autoimmune_disease\" title=\"Imperfect immune systems help avoid autoimmune disease\">Imperfect immune systems help avoid autoimmune disease</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Palestinians_get_interim_aid\" title=\"Palestinians get interim aid\">Palestinians get interim aid</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Foreign_Secretary_level_talks_between_India_and_Pakistan_to_resume_in_November\" title=\"Foreign Secretary level talks between India and Pakistan to resume in November\">Foreign Secretary level talks between India and Pakistan to resume in November</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Japanese_researchers_create_smell_sensor_using_genetically_engineered_frog_eggs\" title=\"Japanese researchers create smell sensor using genetically engineered frog eggs\">Japanese researchers create smell sensor using genetically engineered frog eggs</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/U.K._National_Portrait_Gallery_threatens_U.S._citizen_with_legal_action_over_Wikimedia_images\" title=\"U.K. National Portrait Gallery threatens U.S. citizen with legal action over Wikimedia images\">U.K. National Portrait Gallery threatens U.S. citizen with legal action over Wikimedia images</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Interview_with_gay_marriage_movement_founder_Evan_Wolfson\" title=\"Interview with gay marriage movement founder Evan Wolfson\">Interview with gay marriage movement founder Evan Wolfson</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [
+      "mechanisms\n>http\nhttp://en.m.wikipedia.org/wiki/Mechanism\nhttp://en.wikipedia.org/w/index.php?title=Mechanism&oldid=540596175\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
+      "mechanism\n>http\nhttp://en.m.wikipedia.org/wiki/Mechanism\nhttp://en.wikipedia.org/w/index.php?title=Mechanism&oldid=540596175\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
+      "Mechanism_of_action\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n\n",
+      "Mechanism_design\n>pdf\nhttp://staff.science.uva.nl/~ulle/teaching/mas/slides/mas-mechanism-design-4up.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/c/c9/Stanley_Reiter_MDdiagram.png\n\n",
+      "Mechanism_(sociology)\n",
+      "Mechanism_(philosophy)\n>pdf\nhttp://math.stanford.edu/~feferman/papers/penrose.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/f/f4/Ambox_content.png\n\n",
+      "Mechanism_(engineering)\n>http\nhttp://en.m.wikipedia.org/wiki/Mechanism_(engineering)\nhttp://en.wikipedia.org/w/index.php?title=Mechanism_(engineering)&oldid=540556134\nhttp://kmoddl.org/machinesandmechanisms/index.php/Machines_and_Mechanisms\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Landing_gear_schematic.svg/500px-Landing_gear_schematic.svg.png\n\n",
+      "Mechanism_(biology)\n",
+      "Mechanism_(band)\n>http\nhttp://en.m.wikipedia.org/wiki/Mechanism_(band)\nhttp://en.wikipedia.org/w/index.php?title=Mechanism_(band)&oldid=445753984\nhttp://images.google.com/images?safe=off&as_rights=(cc_publicdomain%7ccc_attribute%7ccc_sharealike%7ccc_noncommercial%7ccc_nonderived)&q=%22Mechanism+%28band%29%22\nhttp://scholar.google.com/scholar?q=%22Mechanism+%28band%29%22\nhttp://www.google.com/search?as_eq=wikipedia&q=%22Mechanism+%28band%29%22&num=50\nhttp://www.google.com/search?q=%22Mechanism+%28band%29%22&tbm=nws&tbs=ar:1\nhttp://www.google.com/search?tbs=bks:1&q=%22Mechanism+%28band%29%22\nhttp://www.jstor.org/action/doBasicSearch?Query=%22Mechanism+%28band%29%22&acc=on&wc=on\nhttp://www.mechanismmetal.com/\nhttp://www.myspace.com/mechanismarmy\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/f/f4/Ambox_content.png\n"
+   ],
+   "created" : 1373457595,
+   "book" : [],
+   "micro-www" : {
+      "mechanism" : [
+         "mechanisms",
+         "mechanism",
+         "Mechanism_of_action",
+         "Mechanism_design",
+         "Mechanism_(sociology)",
+         "Mechanism_(philosophy)",
+         "Mechanism_(engineering)",
+         "Mechanism_(biology)",
+         "Mechanism_(band)",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Mechanism' may refer to:\n\n*Mechanism (engineering), rigid bodies connected by joints in order to\naccomplish a desired force and/or motion transmission *Mechanism (biology),\nexplaining how a feature is created *Mechanism (philosophy), a theory that all\nnatural phenomena can be explained by physical causes *Mechanism (sociology), a\ntheory that all social phenomena can be explained by the existence of a\ndeterministic mechanism *Mechanism (band), a death metal band from Canada\n",
+      "title" : "mechanism",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Machine",
+      "1: Mechanism_design",
+      "1: Mechanism_of_action",
+      "1: Defence_mechanism",
+      "1: Reaction_mechanism",
+      "1: Antikythera_mechanism"
+   ]
+}

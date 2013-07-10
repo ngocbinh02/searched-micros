@@ -1,0 +1,77 @@
+{
+   "micrownet" : [
+      "powder_blue"
+   ],
+   "micro" : [
+      "colouring",
+      "spectral_colour",
+      "visual_property",
+      "blueness",
+      "spectral_color",
+      "color",
+      "chromatic_color",
+      "abstract_entity",
+      "blue",
+      "entity",
+      "colour",
+      "attribute",
+      "coloring",
+      "property",
+      "chromatic_colour",
+      "powderblue",
+      "abstraction"
+   ],
+   "duck" : [
+      "HASH(0x5d1b048)",
+      "HASH(0x5cfd618)"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Nine_dead_after_armed_Santa_Claus_opens_fire_in_LA_suburb\" title=\"Nine dead after armed Santa Claus opens fire in LA suburb\">Nine dead after armed Santa Claus opens fire in LA suburb</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Canadian_trio_claim_South_Pole_record_for_trans-Antarctic_trip\" title=\"Canadian trio claim South Pole record for trans-Antarctic trip\">Canadian trio claim South Pole record for trans-Antarctic trip</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_colors"
+   ],
+   "micro-www-search" : [],
+   "created" : 1373455390,
+   "book" : [],
+   "micro-www" : {
+      "powder_blue" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Shades of blue"
+      ],
+      "text" : "\n\n'Powder blue' may refer to two different colors. The paler variant is often\nassociated with powder snow.\n",
+      "title" : "powder blue",
+      "headings" : [
+         "Powder blue (web color powder blue)",
+         "Dark powder blue (smalt)",
+         "References",
+         "See also",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "2: English_language",
+      "1: Snow#Snow_on_the_ground_2",
+      "1: Web_colors#X11_color_names",
+      "1: Web_color",
+      "1: Smalt",
+      "1: Laundry",
+      "1: Dye",
+      "1: Blue",
+      "1: Hue",
+      "1: Cobalt_blue",
+      "1: Zaffre",
+      "1: List_of_colors"
+   ]
+}

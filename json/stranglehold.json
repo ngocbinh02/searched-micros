@@ -1,25 +1,133 @@
 {
-   "created" : 1373449076,
    "micrownet" : [
       "japanese_stranglehold",
       "stranglehold"
    ],
    "micro" : [
-      "entity",
-      "throttlehold",
-      "attribute",
       "chokehold",
-      "power",
-      "powerfulness",
-      "abstraction",
       "stranglehold",
       "abstract_entity",
-      "quality"
+      "abstraction",
+      "powerfulness",
+      "quality",
+      "entity",
+      "power",
+      "attribute",
+      "throttlehold"
    ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Stranglehold_(disambiguation)",
+      "HASH(0x50b2238)",
+      "Wikipedia",
+      "Stranglehold",
+      "\n<a href=\"http://duckduckgo.com/Stranglehold_(video_game)\">Stranglehold (video game)</a>, the video game sequel to the movie Hard Boiled",
+      "http://www.merriam-webster.com/dictionary/stranglehold",
+      "stranglehold definition: an illegal wrestling hold by which one's opponent is choked.",
+      "Merriam-Webster",
+      "HASH(0x4e241d8)",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/chokehold\">chokehold</a> - A chokehold or choke is a general term for grappling hold that critically reduces or prevents either air or blood from passing through the neck of an opponent."
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/2007/08_German_Bundesliga:_Bayern_Munich_has_early_stranglehold_on_championship_after_one-sided_game\" title=\"2007/08 German Bundesliga: Bayern Munich has early stranglehold on championship after one-sided game\">2007/08 German Bundesliga: Bayern Munich has early <span class=\"searchmatch\">stranglehold</span> on championship after one-sided game</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UK_regulator_proposes_Sky_share_channels_with_other_broadcasters\" title=\"UK regulator proposes Sky share channels with other broadcasters\">UK regulator proposes Sky share channels with other broadcasters</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australia%27s_High_Court_rules_mod-chips_are_legal\" title=\"Australia&#39;s High Court rules mod-chips are legal\">Australia&#39;s High Court rules mod-chips are legal</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/On_the_campaign_trail,_August_2012\" title=\"On the campaign trail, August 2012\">On the campaign trail, August 2012</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Motorsport:_Rick_Kelly_wins_V8_Supercars_Round_3_at_Pukekohe_NZ\" title=\"Motorsport: Rick Kelly wins V8 Supercars Round 3 at Pukekohe NZ\">Motorsport: Rick Kelly wins V8 Supercars Round 3 at Pukekohe NZ</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Ontario_Votes_2007:_Interview_with_Green_Party_candidate_Russell_Korus,_Vaughan\" title=\"Ontario Votes 2007: Interview with Green Party candidate Russell Korus, Vaughan\">Ontario Votes 2007: Interview with Green Party candidate Russell Korus, Vaughan</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373461044,
+   "book" : [],
    "micro-www" : {
       "stranglehold" : [
          ""
       ]
    },
-   "micro-www-search" : []
+   "wiki" : {
+      "cat" : [
+         "Grappling positions",
+         "Chokeholds|",
+         "Law enforcement techniques",
+         "Martial art techniques"
+      ],
+      "text" : "\n\n\n{{Infobox Grappling hold |name = Chokehold |image = Maldives25a-rear choke.jpg\n|image_size = 220px |alt = |caption = The lateral vascular neck restraint\ndemonstrated by soldiers of the Maldives Armed Forces |aka = Stranglehold, shime-\nwaza |parent_style = Judo and other various styles |classification =\n|parent_hold = |child_holds = }} A 'chokehold', 'choke', 'stranglehold' or, in\nJudo, 'shime-waza' (; )<ref name=ohlenkamp>Ohlenkamp, Neil.\n[http://judoinfo.com/chokes.htm Principles of Judo Choking Techniques].\njudoinfo.com. URL last accessed March 3, 2006.</ref>) is a general term for\ngrappling hold that critically reduces or prevents either air (choking)<ref\nname=oxford>The New Oxford Dictionary of English (1999). Oxford University\npress. ISBN 0-19-861263-X.</ref> or blood (strangling) from passing through the\nneck of an opponent. The restriction may be of one or both and depends on the\nhold used and the reaction of the victim. The lack of blood or air may lead to\nunconsciousness or even death if the hold is maintained. Chokeholds are used in\nmartial arts, combat sports, self-defense, law enforcement and in military hand\nto hand combat applications. They are considered superior to brute-force manual\nstrangling, which generally requires a large disparity in physical strength to\nbe effective.<ref name=jones>Jones, Richard.\n[http://www.forensicmed.co.uk/asphyxia.htm Asphyxia],\n[http://www.forensicmed.co.uk/strangulation.htm Strangulation].\nwww.forensicmed.co.uk. URL last accessed February 26, 2006.</ref> Rather than\nusing the fingers or arms to attempt to crush the neck, chokeholds effectively\nuse leverage such as figure-four holds or collar holds that use the clothes to\nassist in the constriction. .\n\nThe terminology used varies, in most martial arts, the term \"chokehold\" or\n\"choke\" is used for all types of grappling holds that strangle. This can be\nmisleading as most holds aim to strangle not choke with the exception of \"air\nchokes\" (choking means \"to have severe difficulty in breathing because of a\nconstricted or obstructed throat or a lack of air\"<ref name=oxford/>). In Judo\nterminology, \"blood chokes\" are referred to as \"strangleholds\" or \"strangles\"\nwhile \"air chokes\" are called \"chokeholds\" or \"chokes\".<ref name=ohlenkamp/> In\nforensics the terms \"strangle\" and \"stranglehold\" designate any type of neck\ncompression,<ref name=jones/> while in law-enforcement they are referred to as\n\"neck holds\".<ref name=reay>Reay, Donald; Eisele, John.\n[http://www.charlydmiller.com/LIB/1982neckholds.html Death from law enforcement\nneck holds]. www.charlydmiller.com.URL last accessed March 3, 2006</ref> </div>\n",
+      "title" : "chokehold",
+      "headings" : [
+         "Air choke",
+         "Blood choke",
+         "Use in combat sports",
+         "Use in law enforcement",
+         "Partial list of chokeholds",
+         "Further reading",
+         "See also",
+         "References",
+         "External links"
+      ]
+   },
+   "micro-relation" : [
+      "4: Judo",
+      "3: Triangle_choke",
+      "3: Mixed_martial_arts",
+      "2: Grappling_hold",
+      "2: Strangling",
+      "2: Rear_naked_choke",
+      "2: Keikogi",
+      "1: Maldives_National_Defence_Force",
+      "1: Choking",
+      "1: Unconsciousness",
+      "1: Death",
+      "1: Martial_arts",
+      "1: Combat_sports",
+      "1: Self-defense",
+      "1: Law-enforcement",
+      "1: Hand_to_hand_combat",
+      "1: Strangling#Manual_strangulation",
+      "1: Martial_art",
+      "1: Forensics",
+      "1: Vertebrate_trachea",
+      "1: Larynx",
+      "1: Laryngopharynx",
+      "1: Asphyxia",
+      "1: Air_hunger",
+      "1: Hyoid_bone",
+      "1: Carotid_arteries",
+      "1: Jugular_veins",
+      "1: Cerebral_ischemia",
+      "1: Brazilian_Jiu-Jitsu",
+      "1: Catch_wrestling",
+      "1: Shoot_wrestling",
+      "1: Professional_wrestling",
+      "1: Mixed_martial_art",
+      "1: Submission_grappling",
+      "1: Strangled",
+      "1: Law_enforcement_agency",
+      "1: Los_Angeles_Police_Department",
+      "1: BART_Police_",
+      "1: Anaconda_choke",
+      "1: Arm_triangle_choke",
+      "1: Arm_triangle_choke#D'Arce_choke",
+      "1: Gogoplata",
+      "1: Omoplata",
+      "1: Guillotine_choke",
+      "1: North–south_choke",
+      "1: North-south_position",
+      "1: Tony_DeSouza",
+      "1: Eddie_Alvarez",
+      "1: Zev_Yaroslavsky#LAPD",
+      "1: Robert_C._Farrell#Positions",
+      "1: Los_Angeles_City_Council",
+      "1: LAPD#Other_controversies",
+      "1: Choking_game",
+      "1: Compression_lock",
+      "1: Grapple_tackle",
+      "1: Joint_lock"
+   ]
 }

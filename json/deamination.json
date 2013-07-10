@@ -1,0 +1,109 @@
+{
+   "micrownet" : [
+      "deamination"
+   ],
+   "micro" : [
+      "chemical_process",
+      "deaminization",
+      "natural_action",
+      "chemical_action",
+      "action",
+      "process",
+      "chemical_change",
+      "physical_process",
+      "entity",
+      "physical_entity",
+      "natural_process",
+      "deamination",
+      "activity"
+   ],
+   "duck" : [
+      "Deamination is the removal of an amine group from a molecule.",
+      "https://en.wikipedia.org/wiki/Deamination",
+      "HASH(0x5fa7ae8)",
+      "Wikipedia",
+      "Deamination",
+      "http://www.merriam-webster.com/dictionary/deamination",
+      "\n<a href=\"http://duckduckgo.com/c/Metabolism\">Metabolism</a>",
+      "deamination definition: to remove the amino group from (a compound).",
+      "Merriam-Webster",
+      "https://i.duckduckgo.com/i/5a928c45.png",
+      "HASH(0x5cfded8)",
+      "\n<a href=\"http://duckduckgo.com/c/Substitution_reactions\">Substitution reactions</a>",
+      "Deamination is the removal of an amine group from a molecule.",
+      "A"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [
+      "deamination\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n\n",
+      "Deamination\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n"
+   ],
+   "created" : 1373457434,
+   "book" : [],
+   "micro-www" : {
+      "deamination" : [
+         "deamination",
+         "Deamination",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Metabolism",
+         "Substitution reactions"
+      ],
+      "text" : "\n'Deamination' is the removal of an amine group from a molecule. Enzymes which\ncatalyse this reaction are called 'deaminases'.\n\nIn the human body, deamination takes place primarily in the liver, however\nglutamate is also deaminated in the kidneys. Deamination is the process by\nwhich amino acids are broken down if there is an excess of protein intake. The\namino group is removed from the amino acid and converted to ammonia. The rest\nof the amino acid is made up of mostly carbon and hydrogen, and is recycled or\noxidized for energy. Ammonia is toxic to the human system, and enzymes convert\nit to urea or uric acid by addition of carbon dioxide molecules (which is not\nconsidered a deamination process) in the urea cycle, which also takes place in\nthe liver. Urea and uric acid can safely diffuse into the blood and then be\nexcreted in urine.\n",
+      "title" : "deamination",
+      "headings" : [
+         "Deamination reactions in DNA",
+         "Additional proteins performing this function"
+      ]
+   },
+   "micro-relation" : [
+      "3: Cytosine",
+      "3: Thymine",
+      "2: Ammonia",
+      "2: Uracil",
+      "2: 5-methylcytosine",
+      "2: Base_excision_repair",
+      "1: Amine",
+      "1: Molecule",
+      "1: Enzyme",
+      "1: Catalysis",
+      "1: Human_body",
+      "1: Liver",
+      "1: Glutamate",
+      "1: Kidneys",
+      "1: Amino_acids",
+      "1: Carbon",
+      "1: Hydrogen",
+      "1: Enzymes",
+      "1: Urea",
+      "1: Uric_acid",
+      "1: Carbon_dioxide",
+      "1: Urea_cycle",
+      "1: Hydrolysis",
+      "1: Bisulfite",
+      "1: DNA_sequencing",
+      "1: Methylation",
+      "1: DNA",
+      "1: Uracil-DNA_glycosylase",
+      "1: AP_endonuclease",
+      "1: DNA_Polymerase",
+      "1: Nick_translation",
+      "1: Thymine-DNA_glycosylase",
+      "1: Guanine",
+      "1: Xanthine",
+      "1: Alkyladenine_glycosylase",
+      "1: Adenine",
+      "1: APOBEC3G",
+      "1: HIV"
+   ]
+}

@@ -1,0 +1,153 @@
+{
+   "micrownet" : [
+      "linesman",
+      "read_between_the_lines"
+   ],
+   "micro" : [
+      "rivet_line",
+      "lie",
+      "formation",
+      "lineup",
+      "rank",
+      "group",
+      "line",
+      "run_along",
+      "arrangement",
+      "row",
+      "abstract_entity",
+      "abstraction",
+      "linemen",
+      "grouping",
+      "chorus",
+      "diagonal",
+      "chorus_line",
+      "entity"
+   ],
+   "duck" : [
+      "https://en.wikipedia.org/wiki/Line",
+      "HASH(0x5dd6790)",
+      "Wikipedia",
+      "\n<a href=\"http://duckduckgo.com/Airline\">Airline</a> - An airline is a company that provides air transport services for traveling passengers and freight.",
+      "Line",
+      "http://www.merriam-webster.com/dictionary/line",
+      "line definition: a length of cord or cord-like material.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Line_level\">Line level</a>, a common standard for audio signals",
+      "\n<a href=\"http://duckduckgo.com/Line_(geometry)\">Line (geometry)</a>, a concept which includes an infinitely-extended one-dimensional figure with no curvature",
+      "HASH(0x5eb2060)",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Delta_Air_Lines\" title=\"Delta Air Lines\">Delta Air <span class=\"searchmatch\">Lines</span></a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sulpicio_Lines_pay_PHP6.2_million_for_death_of_man_in_1998_ferry_disaster\" title=\"Sulpicio Lines pay PHP6.2 million for death of man in 1998 ferry disaster\">Sulpicio <span class=\"searchmatch\">Lines</span> pay PHP6.2 million for death of man in 1998 ferry disaster</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_carrier_Delta_Air_Lines_cuts_jobs,_sells_planes\" title=\"US carrier Delta Air Lines cuts jobs, sells planes\">US carrier Delta Air <span class=\"searchmatch\">Lines</span> cuts jobs, sells planes</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Delta_Air_Lines_may_enter_merge_talks_with_Northwest_or_United_Airlines\" title=\"Delta Air Lines may enter merge talks with Northwest or United Airlines\">Delta Air <span class=\"searchmatch\">Lines</span> may enter merge talks with Northwest or United Airlines</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Squash_lines_up_for_the_2016_Olympics\" title=\"Squash lines up for the 2016 Olympics\">Squash <span class=\"searchmatch\">lines</span> up for the 2016 Olympics</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Swedish_packaging_company_transfers_production_lines_to_Romania\" title=\"Swedish packaging company transfers production lines to Romania\">Swedish packaging company transfers production <span class=\"searchmatch\">lines</span> to Romania</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chicago_Metra_considers_selling_naming_rights_for_train_lines,_stations\" title=\"Chicago Metra considers selling naming rights for train lines, stations\">Chicago Metra considers selling naming rights for train <span class=\"searchmatch\">lines</span>, stations</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Delta_Air_Lines_to_cut_up_to_9,000_jobs\" title=\"Delta Air Lines to cut up to 9,000 jobs\">Delta Air <span class=\"searchmatch\">Lines</span> to cut up to 9,000 jobs</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_PlayStation_3_lines_people_up_in_stores_today\" title=\"New PlayStation 3 lines people up in stores today\">New PlayStation 3 <span class=\"searchmatch\">lines</span> people up in stores today</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Delta_Airlines_flight_makes_emergency_landing\" title=\"Delta Airlines flight makes emergency landing\">Delta Airlines flight makes emergency landing</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Commuter_chaos_in_Sydney_after_wind_damages_lines_on_Harbour_Bridge\" title=\"Commuter chaos in Sydney after wind damages lines on Harbour Bridge\">Commuter chaos in Sydney after wind damages <span class=\"searchmatch\">lines</span> on Harbour Bridge</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sulpicio_Lines_asks_court_to_stop_BMI_investigation_into_%27Princess_of_the_Stars%27_disaster\" title=\"Sulpicio Lines asks court to stop BMI investigation into &#39;Princess of the Stars&#39; disaster\">Sulpicio <span class=\"searchmatch\">Lines</span> asks court to stop BMI investigation into &#39;Princess of the Stars&#39; disaster</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chicago_Transit_Authority_announces_repairs_to_Blue_and_Red_Line\" title=\"Chicago Transit Authority announces repairs to Blue and Red Line\">Chicago Transit Authority announces repairs to Blue and Red Line</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/CTA_Red_and_Blue_Lines_to_be_rehabbed(finally)\" title=\"CTA Red and Blue Lines to be rehabbed(finally)\">CTA Red and Blue <span class=\"searchmatch\">Lines</span> to be rehabbed(finally)</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_airlines_Delta_and_Northwest_agree_to_merge\" title=\"US airlines Delta and Northwest agree to merge\">US airlines Delta and Northwest agree to merge</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sri_Lanka_bombs_LTTE,_aid_workers_seek_access\" title=\"Sri Lanka bombs LTTE, aid workers seek access\">Sri Lanka bombs LTTE, aid workers seek access</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Delta_emerges_from_Chapter_11_bankruptcy\" title=\"Delta emerges from Chapter 11 bankruptcy\">Delta emerges from Chapter 11 bankruptcy</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sulpicio_names_companies_hired_for_%27Princess_of_the_Stars%27_salvage\" title=\"Sulpicio names companies hired for &#39;Princess of the Stars&#39; salvage\">Sulpicio names companies hired for &#39;Princess of the Stars&#39; salvage</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Oracle%27s_revenue_grows_30%25_in_a_%27stellar%27_quarter\" title=\"Oracle&#39;s revenue grows 30% in a &#39;stellar&#39; quarter\">Oracle&#39;s revenue grows 30% in a &#39;stellar&#39; quarter</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sabotage_strikes_French_railways\" title=\"Sabotage strikes French railways\">Sabotage strikes French railways</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Derailments_close_Australian_rail_routes\" title=\"Derailments close Australian rail routes\">Derailments close Australian rail routes</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [
+      "List_of_bus_operating_companies"
+   ],
+   "micro-www-search" : [
+      "lines\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n"
+   ],
+   "created" : 1373458118,
+   "book" : [],
+   "micro-www" : {
+      "lines" : [
+         "lines",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [],
+      "text" : "\n'Line' or 'lines' may refer to:\n",
+      "title" : "Line",
+      "headings" : [
+         "Science and technology",
+         "Transport",
+         "Business",
+         "Military",
+         "Sports",
+         "Arts",
+         "Sewing and fashion",
+         "The abbreviation LINE",
+         "Other",
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Electric_power_transmission",
+      "1: Mains_electricity",
+      "1: Telephone_line",
+      "1: Transmission_line",
+      "1: Line_level",
+      "1: Catheter",
+      "1: CVP_line",
+      "1: PICC_line",
+      "1: Umbilical_line",
+      "1: Longitude",
+      "1: Railway",
+      "1: Shipping_line",
+      "1: Waterline",
+      "1: Airline",
+      "1: List_of_bus_operating_companies",
+      "1: Line_function",
+      "1: Product_lining",
+      "1: Line_infantry",
+      "1: Line_of_battle",
+      "1: Ship_of_the_line",
+      "1: Rope#Line",
+      "1: Spread_betting",
+      "1: Line_and_length",
+      "1: Offensive_line",
+      "1: Defensive_line",
+      "1: Racing_line",
+      "1: Kite_line",
+      "1: Fishing_line",
+      "1: Lines_Review",
+      "1: Lines_written_a_few_miles_above_Tintern_Abbey",
+      "1: Writing",
+      "1: Typography",
+      "1: Melody",
+      "1: Screenplay",
+      "1: Fashion_line",
+      "1: Style_line",
+      "1: Empire_silhouette",
+      "1: Long_interspersed_nuclear_element",
+      "1: Rope",
+      "1: Cable",
+      "1: Chain",
+      "1: Queue_area",
+      "1: Drawing",
+      "1: Border",
+      "1: Concession_roads",
+      "1: Cocaine",
+      "1: Chief_Whip",
+      "1: Punch_line",
+      "1: Line_Islands",
+      "1: Division_of_Lyne",
+      "1: Lyne"
+   ]
+}

@@ -1,0 +1,104 @@
+{
+   "micrownet" : [
+      "closed_couplet",
+      "couplet",
+      "heroic_couplet"
+   ],
+   "micro" : [
+      "integer",
+      "duet",
+      "twain",
+      "quantity",
+      "amount",
+      "pair",
+      "two",
+      "dyad",
+      "whole_number",
+      "digit",
+      "figure",
+      "ii",
+      "yoke",
+      "brace",
+      "definite_quantity",
+      "twosome",
+      "distich",
+      "duad",
+      "abstraction",
+      "couplet",
+      "deuce",
+      "doubleton",
+      "entity",
+      "span",
+      "abstract_entity",
+      "measure",
+      "number",
+      "duo",
+      "couple"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Couplet_(Angel)\">\"Couplet\" (Angel)</a>, a 2002 episode of the television show Angel",
+      "https://en.wikipedia.org/wiki/Couplet_(disambiguation)",
+      "HASH(0x60e2380)",
+      "Wikipedia",
+      "Couplet",
+      "http://www.merriam-webster.com/dictionary/couplet",
+      "couplet definition: two successive lines of verse forming a unit marked usually by rhythmic correspondence, rhyme, or the inclusion of a self-contained utterance.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Philippe_Couplet\">Philippe Couplet</a> (1623–1693), Belgian Jesuit",
+      "HASH(0x60e26c8)",
+      "\nIn engineering, a <a href=\"http://duckduckgo.com/One-way_pair\">pair of one-way streets</a> which carry opposing directions of traffic through gridded urban areas",
+      "\nA <a href=\"http://duckduckgo.com/couplet\">couplet</a> is a pair of lines in verse.",
+      "D"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/%27Poetry_lost%27:_rude_rhyme_rediscovered,_attributed_to_John_Milton\" title=\"&#39;Poetry lost&#39;: rude rhyme rediscovered, attributed to John Milton\">&#39;Poetry lost&#39;: rude rhyme rediscovered, attributed to John Milton</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [],
+   "created" : 1373455911,
+   "book" : [],
+   "micro-www" : {
+      "couplet" : [
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Poetic form",
+         "Poetic rhythm"
+      ],
+      "text" : "\n\nA 'couplet' is a pair of lines of meter in poetry. It usually consists of two\nlines that rhyme and have the same meter.\n",
+      "title" : "couplet",
+      "headings" : [
+         "Background",
+         "Couplets in Chinese poetry",
+         "See also",
+         "Notes"
+      ]
+   },
+   "micro-relation" : [
+      "1: Iambic_pentameter",
+      "1: Poetic_epigram",
+      "1: Shakespearean",
+      "1: Sonnet",
+      "1: Chaucer",
+      "1: John_Dryden",
+      "1: Alexander_Pope",
+      "1: Edna_St._Vincent_Millay",
+      "1: Chinese_couplet",
+      "1: Chinese_New_Year",
+      "1: CCTV_New_Year's_Gala",
+      "1: Mainland_China",
+      "1: Chinese_character",
+      "1: Elegiac_couplet",
+      "1: Closed_couplet",
+      "1: Chastushka",
+      "1: Coupletist"
+   ]
+}

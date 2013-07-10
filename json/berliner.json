@@ -1,0 +1,95 @@
+{
+   "micrownet" : [
+      "berliner",
+      "west_berliner"
+   ],
+   "micro" : [
+      "physical_object",
+      "being",
+      "berliner",
+      "european",
+      "soul",
+      "unit",
+      "whole",
+      "object",
+      "living_thing",
+      "animate_thing",
+      "indweller",
+      "somebody",
+      "german",
+      "denizen",
+      "entity",
+      "dweller",
+      "mortal",
+      "cause",
+      "someone",
+      "person",
+      "inhabitant",
+      "organism",
+      "causal_agency",
+      "causal_agent",
+      "physical_entity",
+      "individual",
+      "west_berliner",
+      "habitant"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Berliner_Motor_Corporation\">Berliner Motor Corporation</a>, a defunct US motorcycle distributor of the 50s through 80s",
+      "https://en.wikipedia.org/wiki/Berliner",
+      "\n<a href=\"http://duckduckgo.com/Berliner_Zeitung\">Berliner Zeitung</a>, a newspaper",
+      "Wikipedia",
+      "Berliner",
+      "\n<a href=\"http://duckduckgo.com/Berliner_(doughnut)\">Berliner (doughnut)</a>, an edible",
+      "\n<a href=\"http://duckduckgo.com/The_Berliner_(film)\">The Berliner (film)</a>, a 1948 German motion picture directed by Robert A. Stemmle",
+      "HASH(0x5d19538)",
+      "\n<a href=\"http://duckduckgo.com/Ich_bin_ein_Berliner\">Ich bin ein Berliner</a>, a famous speech by John F. Kennedy",
+      "\n<a href=\"http://duckduckgo.com/Berliner_(surname)\">Berliner (surname)</a>",
+      "\n<a href=\"http://duckduckgo.com/Berliner_(format)\">Berliner (format)</a>, a paper size in newspapers",
+      "HASH(0x5d1b6a8)",
+      "\n<a href=\"http://duckduckgo.com/Berliner_Gramophone\">Berliner Gramophone</a>, a record label",
+      "\n<a href=\"http://duckduckgo.com/berliner-Joyce_Aircraft\">Berliner Aircraft Company</a>, now Berliner-Joyce Aircraft",
+      "D",
+      "\n<a href=\"http://duckduckgo.com/Berliner_(train)\">Berliner (train)</a>, the CityNightLine line on the Zürich-Berlin Ostbahnhof route"
+   ],
+   "common" : {
+      "milestones" : [
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Fire_damages_building_housing_Berlin_Philharmonic_Orchestra\" title=\"Fire damages building housing Berlin Philharmonic Orchestra\">Fire damages building housing Berlin Philharmonic Orchestra</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Thousands_protest_tuition_in_Gie%C3%9Fen,_Germany\" title=\"Thousands protest tuition in GieÃŸen, Germany\">Thousands protest tuition in GieÃŸen, Germany</a>",
+         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/World_Cup_official_attempts_suicide\" title=\"World Cup official attempts suicide\">World Cup official attempts suicide</a>"
+      ],
+      "image" : [
+         [],
+         []
+      ]
+   },
+   "Lists" : [],
+   "micro-www-search" : [
+      "Berliner_Fernsehturm\n>http\nhttp://www.berlinerfernsehturm.de\nhttp://www.berlinerfernsehturm.de/en/erlebnis_en.asp?site=erlebnis&usite=erlebnis\nhttp://www.berlinerfernsehturm.de/en/historie_en.asp?site=historie\nhttp://www.exberliner.com/mustsees/fernsehturm-tv-tower\n\n>pdf\nhttp://www.berlin.de/imperia/md/content/berlinde/fernsehturm_fact_figures.pdf?start&ts=1252924429&file=fernsehturm_fact_figures.pdf\nhttp://www.berlin.de/imperia/md/content/berlinde/fernsehturm_fact_figures.pdf?start&ts=1252924429&file=fernsehturm_fact_figures.pdf\nhttp://www.berlin.de/imperia/md/content/berlinde/fernsehturm_fact_figures.pdf?start&ts=1252924429&file=fernsehturm_fact_figures.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Berlin_-_Fernsehturm_-_2012.jpg/220px-Berlin_-_Fernsehturm_-_2012.jpg\n"
+   ],
+   "created" : 1373455531,
+   "book" : [],
+   "micro-www" : {
+      "berliner" : [
+         "Berliner_Fernsehturm",
+         ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "People from Berlin|*Berliner",
+         "German words and phrases"
+      ],
+      "text" : "'Berliner' is most often used to designate a citizen of Berlin, Germany, but may\nalso refer to:\n\n* The Berliner (film), a 1948 German motion picture directed by Robert\n  A. Stemmle\n* Berliner (doughnut), an edible\n* Berliner (format), a paper size in newspapers\n* Berliner (surname)\n* Berliner (train), the CityNightLine line on the Zürich-Berlin Ostbahnhof route\n* [[Ich bin ein Berliner]], a famous speech by John F. Kennedy\n* Berliner Gramophone, a record label\n* Berliner Aircraft Company, now Berliner-Joyce Aircraft\n* Berliner Zeitung, a newspaper\n* Berliner Motor Corporation, a defunct US motorcycle distributor of the 50s\n  through 80s\n",
+      "title" : "berliner",
+      "headings" : [
+         "See also"
+      ]
+   },
+   "micro-relation" : [
+      "1: Berlin",
+      "1: Berliner_Gramophone",
+      "1: Berliner_Aircraft_Company",
+      "1: Berliner_Zeitung",
+      "1: Berliner_Motor_Corporation"
+   ]
+}
