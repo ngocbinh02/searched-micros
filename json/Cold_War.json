@@ -1,7 +1,4 @@
 {
-   "micrownet" : [
-      "Cold_War"
-   ],
    "google" : [
       "/url?q=http://en.wikipedia.org/wiki/Cold_War&sa=U&ei=QdrYUYuqHsKjO5CbgIAJ&ved=0CBoQFjAA&usg=AFQjCNFza9lbQv4lJshePvJH95a7_VDirA",
       "/url?q=http://en.wikipedia.org/wiki/Category:Cold_War&sa=U&ei=QdrYUYuqHsKjO5CbgIAJ&ved=0CCIQFjAB&usg=AFQjCNGN4OBm4GRLQyyYXxyzQvzzwb_55g",
@@ -14,6 +11,9 @@
       "/url?q=http://www.brainyquote.com/quotes/keywords/cold_war.html&sa=U&ei=QdrYUYuqHsKjO5CbgIAJ&ved=0CD4QFjAI&usg=AFQjCNH93yF6GKEvJMecm1E-S0gvT623sA",
       "/url?q=http://www.patriotspoint.org/explore_museum/cold_war_memorial/&sa=U&ei=QdrYUYuqHsKjO5CbgIAJ&ved=0CEEQFjAJ&usg=AFQjCNE-0aHfVXrqoGPp6rRxDf3lCTYi4w"
    ],
+   "micrownet" : [
+      "Cold_War"
+   ],
    "micro" : [
       "abstraction",
       "entity",
@@ -25,7 +25,9 @@
       "enmity",
       "state"
    ],
-   "duck" : [],
+   "Lists" : [
+      "List_of_Soviet_UnionâUnited_States_summits"
+   ],
    "common" : {
       "news" : [
          "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/War_on_Terrorism_could_continue_longer_than_the_Cold_War:_Australia%27s_Treasurer\" title=\"War on Terrorism could continue longer than the Cold War: Australia&#39;s Treasurer\"><span class=\"searchmatch\">War</span> on Terrorism could continue longer than the <span class=\"searchmatch\">Cold</span> <span class=\"searchmatch\">War</span>: Australia&#39;s Treasurer</a>",
@@ -257,14 +259,13 @@
          "<img alt=\"Powered by MediaWiki\" height=\"31\" src=\"//bits.wikimedia.org/static-1.22wmf8/skins/common/images/poweredby_mediawiki_88x31.png\" width=\"88\" />"
       ]
    },
-   "Lists" : [
-      "List_of_Soviet_UnionâUnited_States_summits"
-   ],
+   "duck" : [],
    "micro-www-search" : [
       "cold_war_espionage\n>http\nhttp://en.m.wikipedia.org/wiki/Cold_War_espionage\nhttp://en.wikipedia.org/w/index.php?title=Cold_War_espionage&oldid=557114906\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png\n\n",
       "cold_war\n>http\nhttp://en.wikipedia.org/w/index.php?title=Cold_War&oldid=561385009\nhttp://news.bbc.co.uk/onthisday/hi/themes/world_politics/cold_war/default.stm\n\n>pdf\nhttp://mek.oszk.hu/01200/01274/01274.pdf\nhttp://www.academicjournals.org/AJPSIR/PDF/pdf2010/June/Mantzikos.pdf\nhttp://www.gwu.edu/~nsarchiv/NSAEBB/NSAEBB126/iran521120.pdf\nhttp://www.gwu.edu/~nsarchiv/NSAEBB/NSAEBB126/iran530300.pdf\nhttp://www.gwu.edu/~nsarchiv/NSAEBB/NSAEBB126/iran530320.pdf\nhttp://www.gwu.edu/~nsarchiv/NSAEBB/NSAEBB76/doc8.pdf\nhttp://www.jfklibrary.org/Events-and-Awards/~/media/assets/Education%20and%20Public%20Programs/Forum%20Transcripts/Cold%20War%20and%20Nuclear%20Arms%20Race.pdf\nhttp://www.jfklibrary.org/Events-and-Awards/~/media/assets/Education%20and%20Public%20Programs/Forum%20Transcripts/Cold%20War%20and%20Nuclear%20Arms%20Race.pdf\nhttp://www.systemicpeace.org/PC2005.pdf\nhttp://www.wilsoncenter.org/sites/default/files/ACFB54.pdf\nhttp://www.wilsoncenter.org/sites/default/files/ACFB54.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png\nhttp://upload.wikimedia.org/wikipedia/en/8/83/Cold_War.ogg\n\n>media\nhttp://upload.wikimedia.org/wikipedia/en/8/83/Cold_War.ogg\n\n",
       "Cold_War_Kids\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n"
    ],
+   "created" : 1373448854,
    "micro-www" : {
       "Cold_War" : [
          "cold_war_espionage",

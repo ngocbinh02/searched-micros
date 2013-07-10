@@ -1,7 +1,6 @@
 #!/usr/bin/perl
 
-use strict;
-use warnings;
+use File::Path;
 use JSON::XS;
 use Cache::Memcached::Fast;
 use Data::Dumper;
@@ -10,9 +9,17 @@ use File::Listing qw(parse_dir);
 use AI::Classifier::Text::Analyzer;
 use Statistics::Basic qw(:all);
 use List::Util qw(min max);
+        use threads;
+
+
 
 our $PATH = shift @ARGV or die("Where are the files -d ");
 our $master = {};
+use constant OUTPUT    => '/home/santex/repos/searched-micros/json/';
+
+mkpath( OUTPUT );
+
+
 our $memd = new Cache::Memcached::Fast({
 	 servers => [ { address => 'localhost:11211', weight => 2.5 }],
 	 namespace => 'my:',
@@ -31,7 +38,7 @@ sub init {
 	
 	print `cd   $PATH`;
 	
-	$master = $memd->get("master");
+	$master = {};#$memd->get("master");
 }
 
 our $dir = "";
@@ -56,11 +63,33 @@ sub addToMaster {
 				$d->{name} =~ s/($PATH\/|$dir\/|.json)//g;
 			}
 			
+			my $check = $memd->get($d->{name});
+			
+			if(defined($d->{content}) && !defined($d->{content}->{"created"}) && !$@){
+			
+				$d->{content}->{"created"}=time();
+				
+				$memd->set($d->{name},$d->{content});
+		
+				my $json = JSON::XS->new->allow_nonref->allow_blessed->pretty(1)->encode($d->{content});
+				my $index = File::Spec->catfile( OUTPUT,"$d->{name}.json" );
+				open  my $ih, '>', $index or die "Can't write $index ($!)\n";
+				print $ih  $json;
+				close $ih;
+			
+		
+			}
+			
+	}
 			print	$d->{name} ,"\n";
 			$memd->set($d->{name},$d->{content});
-			$master->{files}->{$d->{name}} = length(Dumper($d->{content}));
+			
+			$master->{files}->{$d->{name}} = 1+sprintf("%d",length(Dumper($d->{content}))/1024);
+			$master->{files}->{$d->{name}} = $master->{files}->{$d->{name}} > 40 ? 40 : $master->{files}->{$d->{name}} ;
+			
+			
 
-		}
+		
 	}
 		
 	 my @vals = values %{$master->{files}};
