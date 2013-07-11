@@ -1,19 +1,28 @@
 use WWW::Wikipedia;
 use Data::Dumper;
 use Data::Printer;
+use Data::Freq;
+my $data = Data::Freq->new;
 
 		   my $wiki = WWW::Wikipedia->new();
            my $entry = $wiki->search( 'Physics' );
 			my @all = ();
 		
 		if($entry->text_basic){
-		   push @all,$entry->title();
+                  @all = ();  		  
+                  push @all,$entry->title();
 		  push @all,$entry->related();
-         push @all,$entry->categories();
-		sort @all;
-		p @all;
+	          push @all,$entry->categories();
+
+			
+                  $data->add(join("\n",@all));
+                  	
 		}
 		
+
+
+print            $data->output();
+
 		
 __DATA__
  use threads;

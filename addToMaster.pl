@@ -117,7 +117,7 @@ sub addToMaster {
 	
 }
 init;
-#addToMaster();
+addToMaster();
 $memd->set("master",$master);
 p $master;
 1;
