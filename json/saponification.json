@@ -2,6 +2,30 @@
    "micrownet" : [
       "saponification"
    ],
+   "google" : [
+      "/url?q=http://en.wikipedia.org/wiki/Saponification&sa=U&ei=WBnoUfGRIoiXtAbY-IGoBw&ved=0CBgQFjAA&usg=AFQjCNEGL6fuCRKZMkZgFbTPZdZmOUgb2w",
+      "/url?q=http://chemistry.about.com/library/glossary/bldef825.htm&sa=U&ei=WBnoUfGRIoiXtAbY-IGoBw&ved=0CCAQFjAB&usg=AFQjCNG1kAcZFJCtlVBmHG8a-mq_8_hoIA",
+      "/url?q=http://chemistry.about.com/library/weekly/blsapon.htm&sa=U&ei=WBnoUfGRIoiXtAbY-IGoBw&ved=0CCQQFjAC&usg=AFQjCNGQEdVkzb7sGyRIuLLPxaVV8ge4tQ",
+      "/images?hl=en&q=saponification&gbv=1&num=5&gl=&sa=X&oi=image_result_group&ei=WBnoUfGRIoiXtAbY-IGoBw&ved=0CCgQsAQ",
+      "/url?q=http://www.realhandmadesoap.com/folders/FAQ/what_is_saponification.htm&sa=U&ei=WBnoUfGRIoiXtAbY-IGoBw&ved=0CDQQFjAI&usg=AFQjCNEvSMTd4PFGJ8srzHfDFHCgfPtsOQ",
+      "/url?q=http://www.thefreedictionary.com/saponification&sa=U&ei=WBnoUfGRIoiXtAbY-IGoBw&ved=0CDkQFjAJ&usg=AFQjCNHEqpYIehsAw8siwKFxkVKLgm_FKA"
+   ],
+   "micro" : [
+      "action",
+      "saponification",
+      "reaction",
+      "physical_process",
+      "chemical_action",
+      "chemical_process",
+      "chemical_reaction",
+      "process",
+      "chemical_change",
+      "natural_action",
+      "natural_process",
+      "activity",
+      "physical_entity",
+      "entity"
+   ],
    "duck" : [
       "\n<a href=\"http://duckduckgo.com/c/Soaps\">Soaps</a>",
       "\n<a href=\"http://duckduckgo.com/c/Chemical_processes\">Chemical processes</a>",
@@ -25,12 +49,32 @@
       ]
    },
    "Lists" : [],
-   "created" : 1373469755,
+   "micro-www-search" : [
+      "Saponification\n>http\nhttp://en.m.wikipedia.org/wiki/Saponification\nhttp://en.wikipedia.org/w/index.php?title=Saponification&oldid=557797714\n\n>pdf\nhttp://orgsynth.org/orgsyn/pdfs/CV1P0379.pdf\nhttp://orgsynth.org/orgsyn/pdfs/CV1P0379.pdf\nhttp://orgsynth.org/orgsyn/pdfs/CV1P0538.pdf\nhttp://orgsynth.org/orgsyn/pdfs/CV1P0538.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/3/30/SaponificationGeneral.svg/350px-SaponificationGeneral.svg.png\n"
+   ],
    "book" : [],
    "micro-www" : {
       "saponification" : [
          "Saponification",
          ""
+      ]
+   },
+   "wiki" : {
+      "cat" : [
+         "Substitution reactions",
+         "Chemical processes",
+         "Soaps",
+         "Bases",
+         "Conservation and restoration"
+      ],
+      "text" : " (left) with sodium hydroxide to give soap and glycerine (right).]]\n\n'Saponification' is a process that produces soap, usually from fats and lye. In\ntechnical terms, saponification involves base (usually caustic soda NaOH)\nhydrolysis of triglycerides, which are esters of fatty acids, to form the sodium\nsalt of a carboxylate. In addition to soap, such traditional saponification\nprocesses produce glycerol. \"Saponifiable substances\" are those that can be\nconverted into soap.<ref>K. Schumann, K. Siekmann “Soaps” in Ullmann’s\nEncyclopedia of Industrial Chemistry 2005, Wiley-VCH, Weinheim</ref>\n",
+      "title" : "saponification",
+      "headings" : [
+         "Saponification of triglyceride",
+         "Applications",
+         "Saponification in art conservation",
+         "See also",
+         "References"
       ]
    },
    "micro-relation" : [

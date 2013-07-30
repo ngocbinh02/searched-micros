@@ -19,100 +19,67 @@
       "work_study"
    ],
    "google" : [
-      "/url?q=http://www.studyisland.com/&sa=U&ei=QH7YUYqYOtD2sgbVoYHYBw&ved=0CBgQFjAA&usg=AFQjCNEccckPfjjZv3r2d4QZxqsZd5QMIQ",
-      "/url?q=http://www.studyladder.com/&sa=U&ei=QH7YUYqYOtD2sgbVoYHYBw&ved=0CCEQFjAB&usg=AFQjCNFyjOTr6bR2Ur77Rsqfj9ShUJHiUg",
-      "/url?q=http://www.thefreedictionary.com/study&sa=U&ei=QH7YUYqYOtD2sgbVoYHYBw&ved=0CCoQFjAC&usg=AFQjCNEmjzf-yNNFQMCfRbD6zDEuoASKjg",
-      "/url?q=http://www.studygs.net/&sa=U&ei=QH7YUYqYOtD2sgbVoYHYBw&ved=0CDMQFjAD&usg=AFQjCNFs60pwQGywMSO-rzpCxWoq0UqOTA",
-      "/url?q=http://en.wikipedia.org/wiki/Study&sa=U&ei=QH7YUYqYOtD2sgbVoYHYBw&ved=0CDcQFjAE&usg=AFQjCNHJpB-n0hW2_qkBVKyvGZ_RsBlvZw"
+      "/url?q=http://www.studyisland.com/&sa=U&ei=7RroUaXKDIfWsgabzYCgBw&ved=0CBgQFjAA&usg=AFQjCNF6QtifJ4wcgcfYUWnsiYlenL0Ltw",
+      "/url?q=http://www.thefreedictionary.com/study&sa=U&ei=7RroUaXKDIfWsgabzYCgBw&ved=0CCEQFjAB&usg=AFQjCNHvYq52WYlW7VTGkZBn_uE44FIGKg",
+      "/url?q=http://www.studygs.net/&sa=U&ei=7RroUaXKDIfWsgabzYCgBw&ved=0CCoQFjAC&usg=AFQjCNGm8oG9z1f6RorAvnzCv8-r-P4Zlw",
+      "/url?q=http://www.studyladder.com/&sa=U&ei=7RroUaXKDIfWsgabzYCgBw&ved=0CC4QFjAD&usg=AFQjCNH-G24kTtSUZNgaiMdIi8uryJJ-jg",
+      "/url?q=http://en.wikipedia.org/wiki/Study&sa=U&ei=7RroUaXKDIfWsgabzYCgBw&ved=0CDcQFjAE&usg=AFQjCNGtjO9lQex4HnaO6b78J_O5wzh7tw"
    ],
-   "duckduckgo" : {
-      "urls" : [
-         "\nhttp://duckduckgo.com/Study_skills",
-         "\nhttp://duckduckgo.com/Observational_study",
-         "\nhttp://duckduckgo.com/Research",
-         "\nhttp://duckduckgo.com/Study_(art)",
-         "\nhttp://duckduckgo.com/Study_(room)",
-         "\nhttp://duckduckgo.com/experiment",
-         "\nhttp://duckduckgo.com/Education",
-         "\nhttp://duckduckgo.com/Studies_(journal)"
-      ]
-   },
    "micro" : [
-      "event",
-      "canvas",
-      "abstraction",
-      "examination",
+      "scrutiny",
+      "human_activity",
+      "entity",
       "study",
-      "survey",
-      "investigating",
+      "abstraction",
       "resurvey",
-      "analyze",
-      "analyse",
+      "canvas",
       "deed",
       "abstract_entity",
-      "human_activity",
-      "investigation",
-      "human_action",
-      "activity",
-      "scrutiny",
-      "examine",
+      "event",
+      "survey",
+      "investigating",
       "psychological_feature",
-      "canvass",
-      "entity",
+      "analyse",
       "work",
+      "canvass",
+      "examine",
+      "analyze",
+      "human_action",
+      "investigation",
+      "examination",
+      "activity",
       "act"
    ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Study_(art)\">Study (art)</a>, a drawing or series of drawings done in preparation for a finished piece",
+      "\nAn <a href=\"http://duckduckgo.com/experiment\">experiment</a>",
+      "\n<a href=\"http://duckduckgo.com/Education\">Education</a> -    Education in its general sense is a form of learning in which knowledge, skills, and habits of a group of people are transferred from one generation to the next through teaching, training, re...",
+      "Study",
+      "\n<a href=\"http://duckduckgo.com/Research\">Research</a> - Research and experimental development is formal work undertaken systematically to increase the stock of knowledge, including knowledge of humanity, culture and society, and the use of this stock...",
+      "\n<a href=\"http://duckduckgo.com/Study_skills\">Study skills</a>, abilities and approaches applied to learning",
+      "http://www.merriam-webster.com/dictionary/study",
+      "\n<a href=\"http://duckduckgo.com/Observational_study\">Observational study</a> - In epidemiology and statistics, an observational study draws inferences about the possible effect of a treatment on subjects, where the assignment of subjects into a treated group versus a contr...",
+      "study definition: a state of contemplation.",
+      "Merriam-Webster",
+      "\n<a href=\"http://duckduckgo.com/Studies_(journal)\">Studies (journal)</a>, published by the <a href=\"http://duckduckgo.com/?q=Jesuits\">Jesuits</a> in Ireland",
+      "\n<a href=\"http://duckduckgo.com/Study_(room)\">Study (room)</a>, a room in a home used as an office or library"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
    "Lists" : [],
    "micro-www-search" : [
-      [
-         "study",
-         ">http",
-         "http://en.m.wikipedia.org/wiki/Study",
-         "http://en.wikipedia.org/w/index.php?title=Study&oldid=540796945",
-         "",
-         ">image",
-         "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png"
-      ],
-      [
-         "Study_skills",
-         ">http",
-         "http://en.m.wikipedia.org/wiki/Study_skills",
-         "http://en.wikipedia.org/w/index.php?title=Study_skills&oldid=542668249",
-         "",
-         ">pdf",
-         "http://weblearn.ox.ac.uk/site/colleges/seh/freshinfo/vs/StudySkills2008b.pdf",
-         "http://weblearn.ox.ac.uk/site/colleges/seh/freshinfo/vs/StudySkills2008b.pdf",
-         "http://www.rlf.org.uk/fellowshipscheme/writing/documents/answerquestionb.pdf",
-         "http://www.rlf.org.uk/fellowshipscheme/writing/documents/answerquestionb.pdf",
-         "",
-         ">image",
-         "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Studying.jpg/220px-Studying.jpg"
-      ],
-      [
-         "Study_of_Environmental_Arctic_Change",
-         ">pdf",
-         "http://psc.apl.washington.edu/search/Library/SEARCH_Science_Plan.pdf"
-      ],
-      [
-         "Study_(room)",
-         ">http",
-         "http://en.m.wikipedia.org/wiki/Study_(room)",
-         "http://en.wikipedia.org/w/index.php?title=Study_(room)&oldid=540841888",
-         "",
-         ">image",
-         "http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Home_office_small_office.JPG/220px-Home_office_small_office.JPG"
-      ],
-      [
-         "Study_(art)",
-         ">http",
-         "http://en.m.wikipedia.org/wiki/Study_(art)",
-         "http://en.wikipedia.org/w/index.php?title=Study_(art)&oldid=534451253",
-         "",
-         ">image",
-         "http://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png"
-      ]
+      "study\n>http\nhttp://en.m.wikipedia.org/wiki/Study\nhttp://en.wikipedia.org/w/index.php?title=Study&oldid=540796945\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n\n",
+      "Study_skills\n>http\nhttp://en.m.wikipedia.org/wiki/Study_skills\nhttp://en.wikipedia.org/w/index.php?title=Study_skills&oldid=542668249\n\n>pdf\nhttp://weblearn.ox.ac.uk/site/colleges/seh/freshinfo/vs/StudySkills2008b.pdf\nhttp://weblearn.ox.ac.uk/site/colleges/seh/freshinfo/vs/StudySkills2008b.pdf\nhttp://www.rlf.org.uk/fellowshipscheme/writing/documents/answerquestionb.pdf\nhttp://www.rlf.org.uk/fellowshipscheme/writing/documents/answerquestionb.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Studying.jpg/220px-Studying.jpg\n\n",
+      "Study_of_Environmental_Arctic_Change\n>pdf\nhttp://psc.apl.washington.edu/search/Library/SEARCH_Science_Plan.pdf\n\n",
+      "Study_(room)\n>http\nhttp://en.m.wikipedia.org/wiki/Study_(room)\nhttp://en.wikipedia.org/w/index.php?title=Study_(room)&oldid=540841888\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Home_office_small_office.JPG/220px-Home_office_small_office.JPG\n\n",
+      "Study_(art)\n>http\nhttp://en.m.wikipedia.org/wiki/Study_(art)\nhttp://en.wikipedia.org/w/index.php?title=Study_(art)&oldid=534451253\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n"
    ],
-   "created" : 1373449076,
+   "book" : [],
    "micro-www" : {
       "study" : [
          "study",

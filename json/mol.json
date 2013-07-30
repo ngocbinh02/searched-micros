@@ -100,63 +100,45 @@
       "molybdenum",
       "molybdenum_steel"
    ],
-   "micro" : [
-      "quantity",
-      "abstract_entity",
-      "mol",
-      "definite_quantity",
-      "grammolecule",
-      "abstraction",
-      "unit",
-      "metric_unit",
-      "entity",
-      "amount",
-      "mass_unit",
-      "measure",
-      "unit_of_measurement",
-      "metric",
-      "weight_unit",
-      "mole",
-      "metric_weight_unit"
+   "google" : [
+      "/url?q=http://www.mol.com/&sa=U&ei=-BnoUcieBIKDtAaBo4GQCw&ved=0CBgQFjAA&usg=AFQjCNH-5VsODFii9jaBsfb8qpfBsCJk1w",
+      "/url?q=http://www.molpower.com/&sa=U&ei=-BnoUcieBIKDtAaBo4GQCw&ved=0CCEQFjAB&usg=AFQjCNFoFRU18YgrdbL4RQ4c42Any5jePg",
+      "/url?q=http://en.wikipedia.org/wiki/Mole_(unit)&sa=U&ei=-BnoUcieBIKDtAaBo4GQCw&ved=0CCUQFjAC&usg=AFQjCNHatsuc0CDtNp_oFV8gSa5N5qSXZQ",
+      "/url?q=http://www.mol.co.jp/en/index.html&sa=U&ei=-BnoUcieBIKDtAaBo4GQCw&ved=0CCkQFjAD&usg=AFQjCNHRBFPoqxNq7Gx39wODQz3gUIBLQA",
+      "/url?q=http://www.mol.gov.ae/english/&sa=U&ei=-BnoUcieBIKDtAaBo4GQCw&ved=0CCwQFjAE&usg=AFQjCNFrZEPm9kYtkBlV0Jg4eE6mD3O6Mw"
    ],
-   "Lists" : [],
+   "micro" : [
+      "unit",
+      "mol",
+      "mole",
+      "entity",
+      "metric_unit",
+      "quantity",
+      "definite_quantity",
+      "metric",
+      "amount",
+      "unit_of_measurement",
+      "metric_weight_unit",
+      "measure",
+      "abstraction",
+      "weight_unit",
+      "grammolecule",
+      "abstract_entity",
+      "mass_unit"
+   ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/John_de_Mol\">John de Mol</a> (b. 1955), Dutch media tycoon",
+      "Mol",
+      "\n<a href=\"http://duckduckgo.com/Gretchen_Mol\">Gretchen Mol</a> (b. 1972), American actress"
+   ],
    "common" : {
-      "milestones" : [
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Naperville,_Illinois_welcomes_home_Olympic_silver_medalist_Molly_Schaus\" title=\"Naperville, Illinois welcomes home Olympic silver medalist Molly Schaus\">Naperville, Illinois welcomes home Olympic silver medalist Molly Schaus</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/US_undergraduate_commits_suicide_after_%27outing%27_via_webcast\" title=\"US undergraduate commits suicide after &#39;outing&#39; via webcast\">US undergraduate commits suicide after &#39;outing&#39; via webcast</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Last_Titan_launch_complex_at_Cape_Canaveral_demolished\" title=\"Last Titan launch complex at Cape Canaveral demolished\">Last Titan launch complex at Cape Canaveral demolished</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/United_States_deportation_policies_challenged_in_Santa_Clara_County,_California\" title=\"United States deportation policies challenged in Santa Clara County, California\">United States deportation policies challenged in Santa Clara County, California</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Prosecutors_drop_assault_case_against_former_US_VP_Gore\" title=\"Prosecutors drop assault case against former US VP Gore\">Prosecutors drop assault case against former US VP Gore</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Fiji_loses_rights_to_host_World_Netball_Championships_next_year\" title=\"Fiji loses rights to host World Netball Championships next year\">Fiji loses rights to host World Netball Championships next year</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/New_host_announced_for_2007_Netball_World_Championships\" title=\"New host announced for 2007 Netball World Championships\">New host announced for 2007 Netball World Championships</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Hackers_target_Westboro_Baptist_Church_website,_Twitter_account\" title=\"Hackers target Westboro Baptist Church website, Twitter account\">Hackers target Westboro Baptist Church website, Twitter account</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Khmer_Rouge_%22Butcher%22_dies_ahead_of_trial\" title=\"Khmer Rouge &quot;Butcher&quot; dies ahead of trial\">Khmer Rouge &quot;Butcher&quot; dies ahead of trial</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Japanese_ship_escapes_after_pirates_open_fire_in_Somalia\" title=\"Japanese ship escapes after pirates open fire in Somalia\">Japanese ship escapes after pirates open fire in Somalia</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sandra_Fluke_named_candidate_for_Time%27s_100_most_influential_people\" title=\"Sandra Fluke named candidate for Time&#39;s 100 most influential people\">Sandra Fluke named candidate for Time&#39;s 100 most influential people</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Colleges_offering_admission_to_displaced_New_Orleans_students/AL-KY\" title=\"Colleges offering admission to displaced New Orleans students/AL-KY\">Colleges offering admission to displaced New Orleans students/AL-KY</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_soap_opera_Coronation_Street_celebrates_50_years_on_air\" title=\"British soap opera Coronation Street celebrates 50 years on air\">British soap opera Coronation Street celebrates 50 years on air</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Sony_faces_class_action_lawsuits_for_DRM\" title=\"Sony faces class action lawsuits for DRM\">Sony faces class action lawsuits for DRM</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Cynthia_McKinney_(D-GA)_and_officer_tangle_on_the_Hill\" title=\"Cynthia McKinney (D-GA) and officer tangle on the Hill\">Cynthia McKinney (D-GA) and officer tangle on the Hill</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Tanker_spills_1000s_of_tonnes_of_crude_oil_off_Nicobar_Islands\" title=\"Tanker spills 1000s of tonnes of crude oil off Nicobar Islands\">Tanker spills 1000s of tonnes of crude oil off Nicobar Islands</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/French_Space_Agency_CNES_releases_UFO_files\" title=\"French Space Agency CNES releases UFO files\">French Space Agency CNES releases UFO files</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Death_toll,_vehicle_count_rise_in_California_truck_pileup\" title=\"Death toll, vehicle count rise in California truck pileup\">Death toll, vehicle count rise in California truck pileup</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Archer_kills_elderly_man_on_street_in_California,_US\" title=\"Archer kills elderly man on street in California, US\">Archer kills elderly man on street in California, US</a>"
-      ],
+      "milestones" : [],
       "image" : [
          [],
          []
       ]
    },
-   "duck" : [
-      "https://en.wikipedia.org/wiki/Mol",
-      "HASH(0x6477b48)",
-      "Wikipedia",
-      "\n<a href=\"http://duckduckgo.com/John_de_Mol\">John de Mol</a> (b. 1955), Dutch media tycoon",
-      "Mol",
-      "HASH(0x651a940)",
-      "D",
-      "\n<a href=\"http://duckduckgo.com/Gretchen_Mol\">Gretchen Mol</a> (b. 1972), American actress"
-   ],
+   "Lists" : [],
    "micro-www-search" : [
       "molybdenum\n>http\nhttp://books.google.com/?id=HT4aAQAAIAAJ&q=Elmore+flotation+molybdenum+1913&dq=Elmore+flotation+molybdenum+1913\nhttp://books.google.com/?id=yUpYAAAAMAAJ&q=Japanese+sword+molybdenum&dq=Japanese+sword+molybdenum\nhttp://en.m.wikipedia.org/wiki/Molybdenum\nhttp://en.wikipedia.org/w/index.php?title=Molybdenum&oldid=558815318\nhttp://minerals.usgs.gov/minerals/pubs/commodity/molybdenum/\nhttp://openmopac.net/data_normal/molybdenum(i)%20fluoride_jmol.html\nhttp://rais.ornl.gov/tox/profiles/molybdenum_f_V1.shtml\nhttp://web.archive.org/web/20070919204536http:///rais.ornl.gov/tox/profiles/molybdenum_f_V1.shtml\nhttp://www.cdc.gov/niosh/idlh/moly-mo.html\nhttp://www.imoa.info/molybdenum/molydbenum_history.php\nhttp://www.infomine.com/investment/charts.aspx?c=molybdenum&u=mt&submit1=Display+Chart&x=usd&r=15y#chart\n\n>pdf\nhttp://cancerres.aacrjournals.org/content/40/8_Part_1/2633.full.pdf\nhttp://jdr.sagepub.com/content/50/1/74.full.pdf\nhttp://ric.uthscsa.edu/personalpages/lancaster/DI-II_Chapters/DI_chap4.pdf\nhttp://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf\nhttp://www.ams.ac.ir/AIM/08114/0010.pdf\nhttp://www.ciaaw.org/pubs/TSAW2007.pdf\nhttp://www.linguistics.ucla.edu/people/melchert/webpage/molybdos.pdf\nhttp://www.minsocam.org/msa/AmMin/TOC/Abstracts/2002_Abstracts/Jan02_Abstracts/Jambor_p181_02.pdf\nhttp://www.nutritionhealthinfo.com/nutrition/nutrition_0163_001.pdf\nhttp://www.nutritionhealthinfo.com/nutrition/nutrition_0163_001.pdf\nhttp://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif\n\n",
       "molten\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Melting_icecubes.gif/220px-Melting_icecubes.gif\n\n",
@@ -235,7 +217,7 @@
       "Molar_(tooth)\n>http\nhttp://en.m.wikipedia.org/wiki/Molar_(tooth)\nhttp://en.wikipedia.org/w/index.php?title=Molar_(tooth)&oldid=539504394\n\n>pdf\nhttp://carnegiemnh.net/assets/science/vp/LuoEtAl(2001a).pdf\nhttp://carnegiemnh.net/assets/science/vp/LuoEtAl(2001a).pdf\nhttp://carnegiemnh.net/assets/science/vp/LuoEtAl(2001a).pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Gray997.png/250px-Gray997.png\n\n",
       "Molar_(grape)\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Listan_Negro_grapes_in_Tenerife.jpg/300px-Listan_Negro_grapes_in_Tenerife.jpg\n"
    ],
-   "created" : 1373457342,
+   "book" : [],
    "micro-www" : {
       "mol" : [
          "molybdenum",
@@ -317,7 +299,6 @@
          ""
       ]
    },
-   "book" : [],
    "wiki" : {
       "cat" : [],
       "text" : "\n'Mol' or 'MOL' may refer to:\n",

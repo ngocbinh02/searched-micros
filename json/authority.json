@@ -12,6 +12,36 @@
       "regulatory_authority",
       "supreme_authority"
    ],
+   "google" : [
+      "/url?q=http://en.wikipedia.org/wiki/Authority&sa=U&ei=LhvoUe7TFsSptAbe14CoBg&ved=0CBgQFjAA&usg=AFQjCNEkLh4Thangb5Ng54KDKuCcd6IuQg",
+      "/url?q=http://dictionary.reference.com/browse/authority&sa=U&ei=LhvoUe7TFsSptAbe14CoBg&ved=0CCAQFjAB&usg=AFQjCNE3Q9QrS8Bsl78D5NQy5y-SxTQoiw",
+      "/url?q=http://www.thefreedictionary.com/authority&sa=U&ei=LhvoUe7TFsSptAbe14CoBg&ved=0CCQQFjAC&usg=AFQjCNGFzPZrYRRitAOByIjv8WwGPPm9Mg",
+      "/url?q=http://www.merriam-webster.com/dictionary/authority&sa=U&ei=LhvoUe7TFsSptAbe14CoBg&ved=0CDQQFjAF&usg=AFQjCNHclKhaZOTXa5DvUSGyjfNBDySlLw",
+      "/url?q=http://thesaurus.com/browse/authority&sa=U&ei=LhvoUe7TFsSptAbe14CoBg&ved=0CDgQFjAG&usg=AFQjCNE81xEn3NhJowaXIruF_uHNxSDEKg"
+   ],
+   "micro" : [
+      "authority",
+      "authorisation",
+      "power_of_appointment",
+      "powerfulness",
+      "imperium",
+      "say-so",
+      "quality",
+      "sovereignty",
+      "abstract_entity",
+      "abstraction",
+      "dominance",
+      "potency",
+      "attribute",
+      "carte_blanche",
+      "command",
+      "muscle",
+      "entity",
+      "control",
+      "authorization",
+      "lordship",
+      "power"
+   ],
    "duck" : [
       "\n<a href=\"http://duckduckgo.com/argument_from_authority\">Appeal to authority</a>, type of argument in logic",
       "Authority",
@@ -30,36 +60,17 @@
       "\n<a href=\"http://duckduckgo.com/Authority_control\">Authority control</a>, term used in library and information science"
    ],
    "common" : {
-      "milestones" : [
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Advertising_Standards_Authority\" title=\"Advertising Standards Authority\">Advertising Standards <span class=\"searchmatch\">Authority</span></a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mexico_authorities_find_over_four_dozen_corpses\" title=\"Mexico authorities find over four dozen corpses\">Mexico <span class=\"searchmatch\">authorities</span> find over four dozen corpses</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_immigration_detains_Aussie_flight_attendant_for_10mths,_and_maltreats_her\" title=\"Australian immigration detains Aussie flight attendant for 10mths, and maltreats her\">Australian immigration detains Aussie flight attendant for 10mths, and maltreats her</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Australian_immigration_authorities_detain_Australian_flight_attendent_for_10_months_by_mistake\" title=\"Australian immigration authorities detain Australian flight attendent for 10 months by mistake\">Australian immigration <span class=\"searchmatch\">authorities</span> detain Australian flight attendent </a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Authorities_at_Jakarta_Airport,_Indonesia_seize_687_endangered_pig-nosed_turtles\" title=\"Authorities at Jakarta Airport, Indonesia seize 687 endangered pig-nosed turtles\"><span class=\"searchmatch\">Authorities</span> at Jakarta Airport, Indonesia seize 687 endangered pig-nosed turtles</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Mathematics_summer_school_in_Turkey_threatened_by_authorities\" title=\"Mathematics summer school in Turkey threatened by authorities\">Mathematics summer school in Turkey threatened by <span class=\"searchmatch\">authorities</span></a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Polish_authorities_arrest_Israeli_agent\" title=\"Polish authorities arrest Israeli agent\">Polish <span class=\"searchmatch\">authorities</span> arrest Israeli agent</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Rhode_Island_District_Court_freezes_Palestinian_Authority_assets_in_the_US\" title=\"Rhode Island District Court freezes Palestinian Authority assets in the US\">Rhode Island District Court freezes Palestinian <span class=\"searchmatch\">Authority</span> assets in the US</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Washington_Transit_Authority_holds_hearing\" title=\"Washington Transit Authority holds hearing\">Washington Transit <span class=\"searchmatch\">Authority</span> holds hearing</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Authorities_in_Belgium_raid_Church_of_Scientology\" title=\"Authorities in Belgium raid Church of Scientology\"><span class=\"searchmatch\">Authorities</span> in Belgium raid Church of Scientology</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/UAE_launches_national_authority_for_scientific_research\" title=\"UAE launches national authority for scientific research\">UAE launches national <span class=\"searchmatch\">authority</span> for scientific research</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chicago_Transit_Authority_announces_repairs_to_Blue_and_Red_Line\" title=\"Chicago Transit Authority announces repairs to Blue and Red Line\">Chicago Transit <span class=\"searchmatch\">Authority</span> announces repairs to Blue and Red Line</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/United_States_authorities_bust_multimillion_dollar_drug_ring_in_New_Jersey\" title=\"United States authorities bust multimillion dollar drug ring in New Jersey\">United States <span class=\"searchmatch\">authorities</span> bust multimillion dollar drug ring in New Jersey</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Palestinian_Authority_bans_citizens_from_carrying_weapons\" title=\"Palestinian Authority bans citizens from carrying weapons\">Palestinian <span class=\"searchmatch\">Authority</span> bans citizens from carrying weapons</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Authorities_search_home_of_owner_of_German_Wikileaks_domain\" title=\"Authorities search home of owner of German Wikileaks domain\"><span class=\"searchmatch\">Authorities</span> search home of owner of German Wikileaks domain</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Chinese_authorities_question_genetically_altered_rice_allegation\" title=\"Chinese authorities question genetically altered rice allegation\">Chinese <span class=\"searchmatch\">authorities</span> question genetically altered rice allegation</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Authorities_contacted_after_school_death_threat_made_on_Wikipedia\" title=\"Authorities contacted after school death threat made on Wikipedia\"><span class=\"searchmatch\">Authorities</span> contacted after school death threat made on Wikipedia</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Authorities_arrest_7_state_officials_over_Mexico_childcare_centre_fire\" title=\"Authorities arrest 7 state officials over Mexico childcare centre fire\"><span class=\"searchmatch\">Authorities</span> arrest 7 state officials over Mexico childcare centre fire</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Texas_authorities_obtain_DNA_from_jailed_FLDS_leader_Warren_Jeffs\" title=\"Texas authorities obtain DNA from jailed FLDS leader Warren Jeffs\">Texas <span class=\"searchmatch\">authorities</span> obtain DNA from jailed FLDS leader Warren Jeffs</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/British_authorities_may_have_detected_nerve_gas_attack_plans\" title=\"British authorities may have detected nerve gas attack plans\">British <span class=\"searchmatch\">authorities</span> may have detected nerve gas attack plans</a>",
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/French_television_authority_stops_broadcasts_of_Iranian_station_for_antisemitic_content\" title=\"French television authority stops broadcasts of Iranian station for antisemitic content\">French television <span class=\"searchmatch\">authority</span> stops broadcasts of Iranian station for antisemitic content</a>"
-      ],
+      "milestones" : [],
       "image" : [
          [],
          []
       ]
    },
    "Lists" : [],
-   "created" : 1373474458,
+   "micro-www-search" : [
+      "authority\n>http\nhttp://en.m.wikipedia.org/wiki/Authority\nhttp://en.wikipedia.org/w/index.php?title=Authority&oldid=543680505\nhttp://plato.stanford.edu/entries/authority\nhttp://www.appealtoauthority.info\nhttp://www.qualitionary.eu/index.php?title=Authority#Competent_authority\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n\n",
+      "Authority\n>http\nhttp://en.m.wikipedia.org/wiki/Authority\nhttp://en.wikipedia.org/w/index.php?title=Authority&oldid=543680505\nhttp://plato.stanford.edu/entries/authority\nhttp://www.appealtoauthority.info\nhttp://www.qualitionary.eu/index.php?title=Authority#Competent_authority\n\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png\n"
+   ],
    "book" : [],
    "micro-www" : {
       "authority" : [

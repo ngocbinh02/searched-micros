@@ -3,39 +3,48 @@
       "carat"
    ],
    "google" : [
-      "/url?q=http://www.carat.com/&sa=U&ei=t3rYUYPjDJHCswa38IHQDA&ved=0CBkQFjAA&usg=AFQjCNEgZ4E-y9hWjPg6AvY2bLb8rQvqUg",
-      "/url?q=http://en.wikipedia.org/wiki/Carat_(mass)&sa=U&ei=t3rYUYPjDJHCswa38IHQDA&ved=0CCIQFjAB&usg=AFQjCNHbFWEpb4ZkH0XkQoxfeTUPt_13mw",
-      "/url?q=http://en.wikipedia.org/wiki/Carat&sa=U&ei=t3rYUYPjDJHCswa38IHQDA&ved=0CCoQFjAC&usg=AFQjCNHS5SiSmWBGX8QGJBar8S7wvDGGrg",
-      "/url?q=http://www.carat.co/&sa=U&ei=t3rYUYPjDJHCswa38IHQDA&ved=0CC4QFjAD&usg=AFQjCNFuHc6rrdc14ZTUL37g4H56-q91Ng",
-      "/url?q=http://www.carat.ie/&sa=U&ei=t3rYUYPjDJHCswa38IHQDA&ved=0CDAQFjAE&usg=AFQjCNFa2fRcae7zmydm34S--tKtlBThcg"
+      "/url?q=http://www.carat.com/&sa=U&ei=HhroUcqeAozOswa3g4GgCw&ved=0CBkQFjAA&usg=AFQjCNG91Y3J-LoQbvZ0zYfJGeKhFF6LhA",
+      "/url?q=http://en.wikipedia.org/wiki/Carat_(mass)&sa=U&ei=HhroUcqeAozOswa3g4GgCw&ved=0CCIQFjAB&usg=AFQjCNHkSUDrOFexq2Nsq0uj9lw5oDZFGA",
+      "/url?q=http://en.wikipedia.org/wiki/Carat&sa=U&ei=HhroUcqeAozOswa3g4GgCw&ved=0CCoQFjAC&usg=AFQjCNGX8ZiAA1j8GWI6QqOunPtvRgYGQw",
+      "/url?q=http://www.carat.co/&sa=U&ei=HhroUcqeAozOswa3g4GgCw&ved=0CC4QFjAD&usg=AFQjCNGWKHASWORmjlWUbRPb7YA1m2R2Hg",
+      "/url?q=http://www.carat.ie/&sa=U&ei=HhroUcqeAozOswa3g4GgCw&ved=0CD8QFjAH&usg=AFQjCNEUu80aK3WLjqUxStp0J2UAgOKiqw"
    ],
-   "duckduckgo" : {
-      "urls" : [
-         "\nhttp://duckduckgo.com/Carat_(purity)",
-         "\nhttp://duckduckgo.com/Carat_(mass)",
-         "\nhttp://duckduckgo.com/Carrot&v=n"
-      ]
-   },
    "micro" : [
-      "carat",
-      "abstraction",
+      "mass_unit",
+      "unit_of_measurement",
+      "weight_unit",
+      "unit",
       "metric",
       "quantity",
-      "amount",
-      "unit",
-      "abstract_entity",
       "metric_weight_unit",
-      "measure",
-      "entity",
-      "unit_of_measurement",
-      "definite_quantity",
-      "mass_unit",
       "metric_unit",
-      "weight_unit"
+      "abstraction",
+      "definite_quantity",
+      "abstract_entity",
+      "measure",
+      "amount",
+      "carat",
+      "entity"
    ],
+   "duck" : [
+      "\n<a href=\"http://duckduckgo.com/Carrot&v=n\">Carrot</a> - The carrot is a root vegetable, usually orange in colour, though purple, red, white, and yellow varieties exist.",
+      "Carat",
+      "\n<a href=\"http://duckduckgo.com/Carat_(mass)\">Carat (mass)</a>, a unit of mass for gemstones, equal to 0.2&nbsp;gram",
+      "\n<a href=\"http://duckduckgo.com/Carat_(purity)\">Carat (purity)</a> or karat, a unit of purity for gold",
+      "http://www.thefreedictionary.com/_/search.aspx?pid=aff18&word=carat",
+      "A unit of weight for precious stones, equal to 200 milligrams.",
+      "TheFreeDictionary"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
    "Lists" : [],
    "micro-www-search" : [],
-   "created" : 1373449075,
+   "book" : [],
    "micro-www" : {
       "carat" : [
          ""

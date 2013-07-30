@@ -1,74 +1,68 @@
 {
-   "google" : [
-      "/url?q=http://www.thefreedictionary.com/amount&sa=U&ei=lXvYUdDVFYv4sgaKlYHwBA&ved=0CBgQFjAA&usg=AFQjCNEeo5aZVsz6ppqz99h77l-hVVK1iA",
-      "/url?q=http://www.merriam-webster.com/dictionary/amount&sa=U&ei=lXvYUdDVFYv4sgaKlYHwBA&ved=0CCEQFjAB&usg=AFQjCNHaVxQaVq3OXXs4hidkEgLWZGSZGA",
-      "/url?q=http://www.investorwords.com/205/amount.html&sa=U&ei=lXvYUdDVFYv4sgaKlYHwBA&ved=0CCUQFjAC&usg=AFQjCNGIJrY68FMYIs0uslN8PY-JoglRpw",
-      "/url?q=http://thesaurus.com/browse/amount&sa=U&ei=lXvYUdDVFYv4sgaKlYHwBA&ved=0CCkQFjAD&usg=AFQjCNE4aMQtm5vX52zTbvHIVOXMB3kSJA",
-      "/url?q=http://dictionary.reference.com/browse/amount&sa=U&ei=lXvYUdDVFYv4sgaKlYHwBA&ved=0CDIQFjAE&usg=AFQjCNGFfvA0BTJVD8szcxgs13Lx3AbzsA"
-   ],
    "micrownet" : [
       "amount",
       "large_indefinite_amount",
       "small_indefinite_amount"
    ],
+   "google" : [
+      "/url?q=http://dictionary.reference.com/browse/amount&sa=U&ei=zDHoUfyMBcTMtQa0pIGoDw&ved=0CBgQFjAA&usg=AFQjCNEPDVOe1DvJQ-GVApcOQxoxRY_fLg",
+      "/url?q=http://www.thefreedictionary.com/amount&sa=U&ei=zDHoUfyMBcTMtQa0pIGoDw&ved=0CBwQFjAB&usg=AFQjCNGrDo3qi1ZI31huxzT_v1R8El_5oQ",
+      "/url?q=http://www.merriam-webster.com/dictionary/amount&sa=U&ei=zDHoUfyMBcTMtQa0pIGoDw&ved=0CCUQFjAC&usg=AFQjCNF_ryHdfaBl_Ntd2z4tdJStXVWC9g",
+      "/url?q=http://www.investorwords.com/205/amount.html&sa=U&ei=zDHoUfyMBcTMtQa0pIGoDw&ved=0CCkQFjAD&usg=AFQjCNGNu-BJVuNz7CULG04lcBOMZHBcng",
+      "/url?q=http://thesaurus.com/browse/amount&sa=U&ei=zDHoUfyMBcTMtQa0pIGoDw&ved=0CC0QFjAE&usg=AFQjCNFdDLsCDLuk5gy-F3A6wNWYatPACA"
+   ],
    "micro" : [
-      "gain",
-      "possession",
-      "paysheet",
-      "defalcation",
-      "gross",
-      "amount_of_money",
-      "red",
-      "sum",
-      "assets",
-      "red_ink",
-      "advance",
-      "amount",
-      "loss",
       "revenue",
-      "relation",
+      "deductible",
+      "receipts",
       "cash_advance",
-      "coverage",
+      "abstraction",
+      "gross",
+      "loss",
+      "paysheet",
+      "assets",
+      "advance",
+      "figure",
+      "abstract_entity",
+      "insurance_coverage",
+      "red_ink",
       "sum_of_money",
+      "defalcation",
+      "gain",
+      "relation",
+      "coverage",
+      "payroll",
+      "contribution",
+      "amount_of_money",
+      "entity",
+      "peanuts",
+      "sum",
       "cash_surrender_value",
       "purse",
-      "deductible",
-      "figure",
-      "abstraction",
-      "peanuts",
-      "contribution",
-      "abstract_entity",
-      "payroll",
-      "receipts",
-      "entity",
-      "insurance_coverage"
+      "red",
+      "possession",
+      "amount"
    ],
+   "duck" : [
+      "amount",
+      "The total of two or more quantities; the aggregate.",
+      "http://www.merriam-webster.com/dictionary/amount",
+      "amount definition: to be equivalent.",
+      "Merriam-Webster"
+   ],
+   "common" : {
+      "milestones" : [],
+      "image" : [
+         [],
+         []
+      ]
+   },
    "Lists" : [],
    "micro-www-search" : [
-      [
-         "amount",
-         ">image",
-         "http://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/20px-Edit-clear.svg.png"
-      ],
-      [
-         "Amount_of_substance",
-         ">http",
-         "http://en.m.wikipedia.org/wiki/Amount_of_substance",
-         "http://en.wikipedia.org/w/index.php?title=Amount_of_substance&oldid=543805200",
-         "",
-         ">pdf",
-         "http://old.iupac.org/publications/books/gbook/green_book_2ed.pdf",
-         "http://www.bipm.org/utils/common/pdf/si_brochure_8_en.pdf",
-         "http://www.iupac.org/publications/pac/1996/pdf/6804x0957.pdf",
-         "http://www3.interscience.wiley.com/homepages/5006612/549_560.pdf",
-         "http://www3.interscience.wiley.com/homepages/5006612/549_560.pdf",
-         "http://www.bipm.org/utils/common/pdf/si_brochure_8_en.pdf",
-         "",
-         ">image",
-         "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png"
-      ]
+      "amount\n>image\nhttp://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/20px-Edit-clear.svg.png\n\n",
+      "Amount_of_substance\n>http\nhttp://en.m.wikipedia.org/wiki/Amount_of_substance\nhttp://en.wikipedia.org/w/index.php?title=Amount_of_substance&oldid=543805200\n\n>pdf\nhttp://old.iupac.org/publications/books/gbook/green_book_2ed.pdf\nhttp://www.bipm.org/utils/common/pdf/si_brochure_8_en.pdf\nhttp://www.iupac.org/publications/pac/1996/pdf/6804x0957.pdf\nhttp://www3.interscience.wiley.com/homepages/5006612/549_560.pdf\nhttp://www3.interscience.wiley.com/homepages/5006612/549_560.pdf\nhttp://www.bipm.org/utils/common/pdf/si_brochure_8_en.pdf\n\n>image\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png\n"
    ],
-   "created" : 1373448855,
+   "book" : [],
    "micro-www" : {
       "amount" : [
          "amount",

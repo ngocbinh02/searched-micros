@@ -2,18 +2,41 @@
    "micrownet" : [
       "neutralization_reaction"
    ],
+   "google" : [
+      "/url?q=http://en.wikipedia.org/wiki/Neutralization_(chemistry)&sa=U&ei=YhnoUYv_OsrAswa2tYGgDw&ved=0CBoQFjAA&usg=AFQjCNHVeCLCFOApGy3Cpz1SmaAtNJJgDw",
+      "/url?q=http://www.chem.memphis.edu/bridson/FundChem/T16a1100.htm&sa=U&ei=YhnoUYv_OsrAswa2tYGgDw&ved=0CCMQFjAB&usg=AFQjCNE5JiNtqYzPLdcze33h_dw_4X-1Cw",
+      "/url?q=http://www.elmhurst.edu/~chm/vchembook/183neutral.html&sa=U&ei=YhnoUYv_OsrAswa2tYGgDw&ved=0CCwQFjAD&usg=AFQjCNHoONWY_ZXOyouYLS5BnMolgD9YCg",
+      "/url?q=http://www.thefreedictionary.com/neutralization%2Breaction&sa=U&ei=YhnoUYv_OsrAswa2tYGgDw&ved=0CDAQFjAE&usg=AFQjCNHYZfnJCVP3SFQFyfGCSDOruoLOYg"
+   ],
+   "micro" : [
+      "chemical_action",
+      "entity",
+      "neutralisation",
+      "chemical_change",
+      "chemical_process",
+      "chemical_reaction",
+      "neutralisation_reaction",
+      "neutralization",
+      "natural_process",
+      "neutralization_reaction",
+      "process",
+      "action",
+      "natural_action",
+      "physical_entity",
+      "physical_process",
+      "activity",
+      "reaction"
+   ],
    "duck" : [],
    "common" : {
-      "milestones" : [
-         "<a target=\"_new\" href=\"http://en.wikinews.org/wiki/Militants_to_present_evidence_Malacanang_sanctioned_killings\" title=\"Militants to present evidence Malacanang sanctioned killings\">Militants to present evidence Malacanang sanctioned killings</a>"
-      ],
+      "milestones" : [],
       "image" : [
          [],
          []
       ]
    },
    "Lists" : [],
-   "created" : 1373467033,
+   "micro-www-search" : [],
    "book" : [],
    "micro-www" : {
       "neutralization_reaction" : [
